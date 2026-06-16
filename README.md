@@ -1,98 +1,84 @@
-# 📚 Personalized Math Question Generator
+# Personalized Math Question Generator
 
-Welcome to the **Personalized Math Question Generator**! This project is a fun, intelligent web application designed to create highly customized math workbooks for kids. Using Artificial Intelligence, it generates math problems centered around a child's name, their family, their friends, and their hobbies! As a fantastic finishing touch, it also illustrates the story problems with beautiful child-friendly imagery and exports the whole thing to a ready-to-print PDF.
+Welcome to the **Personalized Math Question Generator**! A Streamlit web app that creates customized math workbooks for kids — with AI-generated photorealistic illustrations, face swapping, and exact object counting.
 
----
+## Pipeline Overview
 
-## 🚀 Tech Stack Used
-- **Python**: The core programming language powering the logic.
-- **Streamlit**: A rapid framework used to create the beautiful web interface you interact with.
-- **Groq API (Llama 3)**: A blazing-fast AI language model used to generate creative math text problems.
-- **OpenAI (DALL-E 3)**: An advanced AI image generator that draws the gorgeous and colorful kid-style illustrations.
-- **FPDF**: A Python library used for assembling the text and images into a final downloadable PDF.
-- **Python-Dotenv**: For safely managing hidden API key variables outside of the literal code.
-
----
-
-## 🛠️ Installation Steps
-
-Follow these steps entirely if you have never run the project before.
-
-### 1. Download and Extract the Files
-Extract the provided project folder to your desired location, then open a Command Prompt or Terminal inside that folder.
-
-### 2. Create and Activate a Virtual Environment
-A virtual environment keeps your project dependencies separated from your computer's global Python settings.
-- **For Windows:**
-  ```bash
-  python -m venv venv
-  venv\Scripts\activate
-  ```
-- **For Mac/Linux:**
-  ```bash
-  python3 -m venv venv
-  source venv/bin/activate
-  ```
-
-### 3. Prepare Your Environment file (`.env`)
-To protect your secret AI keys, you must store them in the `.env` file instead of writing them inside the Python scripts. 
-There is a `.env` file provided in this repository. Open `.env` in any text editor (like Notepad), and add your API Keys:
-```env
-GROK_API_KEY="your_actual_grok_apiKey_here"
-OPENAI_API_KEY="your_actual_openai_apiKey_here"
+```
+Question Bank → Blueprint (geometric layout) → AI Render (GPT-5.4 Image 2) → Face Swap → PDF
 ```
 
-### 4. Install Required Dependencies
-To make sure your Python installation has all the required tools, run the following command in your terminal (make sure your virtual environment is active!):
+1. **Blueprint Generator** — Parses the question, detects roles & object counts, draws a deterministic 1024×1024 geometric layout (blue bodies, green heads, red objects).
+2. **AI Renderer** — Sends the blueprint to OpenRouter's `openai/gpt-5.4-image-2` for photorealistic conversion. Falls back to text2img if img2img fails.
+3. **Face Swap** — Uses insightface to swap user-uploaded face photos onto AI-generated characters (left-to-right matching).
+4. **PDF Generator** — Assembles A4 workbook with questions + images, then cleans up temp files.
+
+## Tech Stack
+
+- **Python** + **Streamlit** (UI)
+- **OpenRouter** — `openai/gpt-5.4-image-2` for image generation
+- **Insightface** — face detection & swapping (InSwapper)
+- **FPDF** — PDF generation
+- **Pillow** — image manipulation
+- **python-dotenv** — API key management
+
+## Project Structure
+
+```
+kids_books/
+├── app.py                       # Streamlit orchestrator (UI + pipeline phases)
+├── blueprint_generator.py       # Step 1: parse question → geometric blueprint
+├── ai_renderer.py               # Step 2: blueprint → photorealistic AI render
+├── face_swap_processor.py       # Step 3: swap user faces onto AI characters
+├── file_handlers.py             # Load question bank topics & questions
+├── pdf_generator.py             # Generate A4 PDF workbook + cleanup
+├── prompt_builder.py            # Legacy: family context builder
+├── utils.py                     # safe_text, filename sanitization, detect_role
+├── config.py                    # API keys, model names, pricing, toggles
+├── extracted_bank/              # Grade 1 question bank (master categorized file)
+├── personalized_faces/          # User-uploaded face photos
+│
+├── config_README.md             # Per-module documentation
+├── app_README.md
+├── blueprint_generator_README.md
+├── ai_renderer_README.md
+├── face_swap_processor_README.md
+├── file_handlers_README.md
+├── pdf_generator_README.md
+├── prompt_builder_README.md
+├── utils_README.md
+└── requirements.txt
+```
+
+## Installation
+
 ```bash
+python -m venv venv
+venv\Scripts\activate          # Windows
 pip install -r requirements.txt
 ```
 
----
-
-## 💻 How to Run the Project
-
-Running a Streamlit app is a bit different from running standard Python code. Once you have finished your installation:
-
-1. Open your terminal or command prompt.
-2. Ensure you are situated inside the `kids_books-main` project folder.
-3. Run the following command:
-   ```bash
-   streamlit run app.py
-   ```
-4. A browser window should automatically open up revealing the web page interface.
-5. In the UI, enter the student's personal information, select their grade and topic from the dropdown, choose whether you want generated images, and click on **Generate Personalized Workbook**. 
-6. Wait 1-2 minutes for the AI to perform its magic.
-7. Click the **Download PDF Workbook** button when completed!
-
----
-
-## 📂 Project File Structure
-For educational convenience, here is a breakdown of what every file inside this project's folder does (also individually explained in their separate READMEs):
-
-```text
-kids_books-main/
-│
-├── .env                            <-- Contains your hidden, secret API keys
-├── .gitignore                      <-- Prevents secret files (like .env) from being uploaded to GitHub
-├── README.md                       <-- This master documentation file
-│
-├── app.py                          <-- The MAIN program that runs the Streamlit UI and wires everything together
-├── api_clients.py                  <-- Handles all outbound communication to Groq & OpenAI APIs
-├── config.py                       <-- Loads settings, constants, and links the .env secrets securely
-├── file_handlers.py                <-- Looks into question_bank/ and reads the sample .txt datasets
-├── pdf_generator.py                <-- Combines the AI questions and downloaded pictures into the final PDF workbook
-├── prompt_builder.py               <-- Gathers all user input and formats it into instructions for the AI
-├── utils.py                        <-- Carries small extra tools used for text-cleaning and formatting
-│
-├── README_app.md                   <-- Separate README explaining app.py
-├── README_api_clients.md           <-- Separate README explaining api_clients.py
-├── README_config.md                <-- Separate README explaining config.py
-├── README_file_handlers.md         <-- Separate README explaining file_handlers.py
-├── README_pdf_generator.md         <-- Separate README explaining pdf_generator.py
-├── README_prompt_builder.md        <-- Separate README explaining prompt_builder.py
-├── README_utils.md                 <-- Separate README explaining utils.py
-│
-├── requirements.txt                <-- A list of necessary packages to install via pip
-└── question_bank/                  <-- A folder containing text files serving as sample questions for different grades
+Create `.env`:
 ```
+OPENROUTER_API_KEY="your_key_here"
+```
+
+## Usage
+
+```bash
+streamlit run app.py
+```
+
+1. Enter student name, gender, family names, hobbies
+2. Upload face photos (optional)
+3. Select grade & topics
+4. Click **Generate Personalized Workbook**
+5. Download PDF
+
+## Key Design Decisions
+
+- **Deterministic blueprints** ensure exact object counts (no hallucinated quantities)
+- **Gender-aware prompts** — "young boy" / "young girl" based on selection
+- **Face preservation mode** uses lower img2img strength (0.4) to keep pasted faces intact
+- **Hobby object replacement** swaps generic objects in questions with the child's interest (e.g. "ball" for football fans)
+- **Temp cleanup** runs immediately after PDF generation (not after download)

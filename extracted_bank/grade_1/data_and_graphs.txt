@@ -1,0 +1,8 @@
+=== Topic: Data and Graphs ===
+
+. If you have a set of 10 counters, how many counters are in each group if you divide them into groups of 2?
+. If you have a set of 15 counters, how many counters are in each group if you divide them into groups of 3?
+. If you have a set of 20 counters, how many counters are in each group if you divide them into groups of 4?
+. If you have a set of 25 counters, how many counters are in each group if you divide them into groups of 5?
+. If you have a set of 30 counters, how many counters are in each group if you divide them into groups of 6?
+

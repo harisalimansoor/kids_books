@@ -1,0 +1,9 @@
+=== Topic: Counting Objects ===
+
+Question 1: Count the number of objects for counting (e.g straws)/counters.
+Question 2: Count the number of objects weighing 1 g.
+Question 3: Count the number of objects weighing 1 kg or less (one set between four).
+
+Question 1: Count the number of objects in a set.
+Question 2: Compare the number of objects in two sets.
+

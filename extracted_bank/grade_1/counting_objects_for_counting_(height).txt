@@ -1,0 +1,5 @@
+=== Topic: Counting Objects for Counting (Height) ===
+
+Question 1: Count the number of objects for counting (height) in a set.
+Question 2: Compare the number of objects for counting (height) in two sets.
+

@@ -65,3 +65,17 @@ def create_safe_filename(student_name: str) -> str:
     ).strip().replace(" ", "_")
     
     return f"math_workbook_for_{safe_name}.pdf"
+
+
+def detect_role(question_text: str):
+    """
+    Detects which family role is mentioned in the question.
+    """
+    text_lower = question_text.lower()
+    if "{mother_name}" in text_lower: return "mother"
+    if "{father_name}" in text_lower: return "father"
+    if "{sibling_name}" in text_lower: return "sibling"
+    if "{grandmother_name}" in text_lower: return "grandmother"
+    if "{grandfather_name}" in text_lower: return "grandfather"
+    if "{user_name}" in text_lower or "you have" in text_lower: return "user"
+    return None

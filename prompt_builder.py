@@ -1,7 +1,7 @@
 """
 Prompt building functions for question generation
 """
-from langchain.prompts import ChatPromptTemplate
+from langchain_core.prompts import ChatPromptTemplate
 
 
 def get_pronouns(gender: str):
@@ -27,8 +27,7 @@ def build_family_context(
     father_name: str,
     grandmother_name: str,
     grandfather_name: str,
-    siblings: str,
-    friends: str
+    siblings: str
 ) -> str:
     """
     Build family context string from provided names.
@@ -50,10 +49,8 @@ def build_family_context(
         family_members.append(f"grandfather {grandfather_name}")
     if siblings.strip():
         family_members.append(f"siblings {siblings}")
-    if friends.strip():
-        family_members.append(f"friends {friends}")
     
-    return ", ".join(family_members) if family_members else "no specific family/friends mentioned"
+    return ", ".join(family_members) if family_members else "no specific family mentioned"
 
 
 def build_prompt(
