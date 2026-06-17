@@ -1,0 +1,6 @@
+=== Topic: Counting Blocks ===
+
+Question 1: Count the number of linking cubes between two students (20).
+Question 2: Count the number of paper plates between two students (10).
+Question 3: Count the number of pieces of card between two students (10).
+

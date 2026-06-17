@@ -1,0 +1,33 @@
+{
+  "original_question": "{sibling_name} has 4 sweets and {user_name} has 6 marbles.",
+  "category": "general",
+  "characters": [
+    {
+      "role": "sibling_name",
+      "character_id": 4,
+      "objects": [
+        {
+          "type": "sweet",
+          "count": 4,
+          "original_word": "sweet"
+        }
+      ]
+    },
+    {
+      "role": "user_name",
+      "character_id": 6,
+      "objects": [
+        {
+          "type": "marble",
+          "count": 6,
+          "original_word": "marble"
+        }
+      ]
+    }
+  ],
+  "total_objects": {
+    "sweet": 4,
+    "marble": 6
+  },
+  "unassigned_objects": []
+}

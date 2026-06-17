@@ -1,0 +1,5 @@
+=== Topic: Counting Cups ===
+
+Question 1: Count the number of cups in a set.
+Question 2: Compare the number of cups in two sets.
+

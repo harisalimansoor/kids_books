@@ -1,0 +1,9 @@
+=== Topic: Conversions ===
+
+D   1h =   min 60
+2 h =   min 30
+4 h =   min 15
+3 4 h =   min 45
+1 week =   days 7
+1 year =   months 12
+

@@ -1,0 +1,9 @@
+=== Topic: Addition and Subtraction ===
+
+Question 1: Count the number of 1 cm2 squares.
+Question 2: Count the number of 1 m2 squares (six).
+Question 3: Count the number of 1–9 digit cards (each).
+
+. Counters (between two).
+. Squares of equal size (six between two).
+

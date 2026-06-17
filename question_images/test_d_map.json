@@ -1,0 +1,33 @@
+{
+  "original_question": "{mother_name} has 10 toy cars and {father_name} has 4 pencils.",
+  "category": "general",
+  "characters": [
+    {
+      "role": "mother_name",
+      "character_id": 2,
+      "objects": [
+        {
+          "type": "toy-car",
+          "count": 10,
+          "original_word": "toy car"
+        }
+      ]
+    },
+    {
+      "role": "father_name",
+      "character_id": 3,
+      "objects": [
+        {
+          "type": "pencil",
+          "count": 4,
+          "original_word": "pencil"
+        }
+      ]
+    }
+  ],
+  "total_objects": {
+    "toy-car": 10,
+    "pencil": 4
+  },
+  "unassigned_objects": []
+}

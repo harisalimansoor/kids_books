@@ -1,0 +1,11 @@
+=== Topic: Addition_Subtraction ===
+
+Question 1: Count the number of counters between two students (50).
+Question 2: Count the number of cups between two students (10).
+Question 3: Count the number of cups for measuring between four students (10).
+Question 4: Count the number of objects for counting (e.g straws)/counters (100).
+Question 5: Count the number of objects weighing 1 g.
+Question 6: Count the number of objects weighing 1 kg or less (one set between four).
+Question 7: Count the number of paper plates between two students (10).
+Question 8: Count the number of pieces of card between two students (10).
+
