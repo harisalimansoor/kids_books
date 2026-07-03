@@ -67,6 +67,32 @@ def create_safe_filename(student_name: str) -> str:
     return f"math_workbook_for_{safe_name}.pdf"
 
 
+def capitalize_you(text: str) -> str:
+    """Capitalize 'you' to 'You' only at sentence starts."""
+    import re
+    text = re.sub(r'^you\b', 'You', text)
+    text = re.sub(r'([.!?])\s+you\b', r'\1 You', text)
+    return text
+
+
+def fix_you_verb_conjugation(text: str) -> str:
+    """Fix verb conjugation when '{user_name}' has been replaced with 'You'."""
+    import re
+    fixes = [
+        (r'\bYou\s+has\b', 'You have'),
+        (r'\byou\s+has\b', 'you have'),
+        (r'\bYou\s+is\b', 'You are'),
+        (r'\byou\s+is\b', 'you are'),
+        (r'\bYou\s+does\b', 'You do'),
+        (r'\byou\s+does\b', 'you do'),
+        (r'\bdoes\s+You\b', 'do You'),
+        (r'\bdoes\s+you\b', 'do you'),
+    ]
+    for pattern, replacement in fixes:
+        text = re.sub(pattern, replacement, text)
+    return text
+
+
 def detect_role(question_text: str):
     """
     Detects which family role is mentioned in the question.

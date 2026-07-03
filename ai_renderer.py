@@ -13,6 +13,7 @@ Strategy hierarchy:
 import os
 import io
 import json
+import re
 import base64
 import requests
 from PIL import Image
@@ -97,6 +98,16 @@ OBJECT_APPEARANCE = {
     "spoon": "small metal spoons",
     "fork": "small metal forks",
     "glass": "small clear drinking glasses",
+    # Geometry / shapes
+    "triangle": "flat coloured triangular shapes with three straight sides",
+    "square": "flat coloured square shapes with four equal sides",
+    "rectangle": "flat coloured rectangular shapes with two short and two long sides",
+    "circle": "flat coloured round circular shapes",
+    "diamond": "flat coloured diamond/rhombus shapes with four angled sides",
+    "oval": "flat coloured oval/ellipse shapes",
+    "pentagon": "flat coloured pentagon shapes with five straight sides",
+    "hexagon": "flat coloured hexagon shapes with six straight sides",
+    "octagon": "flat coloured octagon shapes with eight straight sides",
 }
 
 ROLE_RENDER_HINTS = {
@@ -123,7 +134,7 @@ def _encode_image(img: Image.Image, fmt: str = "JPEG", quality: int = 92) -> str
 
 
 def _build_prompt(metadata: dict, preserve_faces: bool = False,
-                  gender: str = "Boy") -> str:
+                  gender: str = "Boy", sibling_gender: str = "Boy") -> str:
     """
     Build the rendering prompt.
 
@@ -136,6 +147,8 @@ def _build_prompt(metadata: dict, preserve_faces: bool = False,
         and the prompt tells the AI to preserve them exactly.
     gender : str
         Student's gender ("Boy", "Girl", or "Other").
+    sibling_gender : str
+        Sibling's gender ("Boy" or "Girl").
     """
     scene = metadata.get("scene_context", "a bright indoor room")
     chars = metadata["characters"]
@@ -157,9 +170,11 @@ def _build_prompt(metadata: dict, preserve_faces: bool = False,
     for c in chars:
         rk = c["role_key"]
         hint = ROLE_RENDER_HINTS.get(rk, "a friendly person")
-        # Override child role hints based on gender
-        if rk in child_hints and gender in child_hints[rk]:
-            hint = child_hints[rk][gender]
+        # Override role hints based on role-specific gender
+        if rk in child_hints:
+            role_gender = sibling_gender if rk == "sibling_name" else gender
+            if role_gender in child_hints[rk]:
+                hint = child_hints[rk][role_gender]
         hx, hy = c["head_center"]["x"], c["head_center"]["y"]
         bx, by = c["body_rect"]["x"], c["body_rect"]["y"]
         char_lines.append(
@@ -181,6 +196,52 @@ def _build_prompt(metadata: dict, preserve_faces: bool = False,
 
     people_block = "\n".join(char_lines)
     objects_block = "\n".join(obj_lines)
+
+    crossed_match = re.search(r'(\d+)\s+of them are crossed out',
+                              metadata.get("raw_question", ""))
+    if crossed_match:
+        crossed = int(crossed_match.group(1))
+        for og in objs:
+            if og["count"] >= crossed:
+                objects_block += (
+                    f"\n\n- IMPORTANT: {crossed} of these {og['count']} {og['object']}s "
+                    f"have a LARGE RED 'X' mark drawn through them (crossed out). "
+                    f"The remaining {og['count'] - crossed} are normal and untouched."
+                )
+                break
+
+    mult_match = re.search(r'(\d+)\s+groups?\s+of\s+(\d+)\s+(\w+)',
+                           metadata.get("raw_question", ""))
+    if mult_match:
+        groups = int(mult_match.group(1))
+        per_group = int(mult_match.group(2))
+        obj = mult_match.group(3)
+        objects_block += (
+            f"\n\n- IMPORTANT: Arrange these {groups * per_group} {obj}s into "
+            f"{groups} clearly separated groups of {per_group} {obj}s each. "
+            f"Each group must be visibly apart from the others."
+        )
+
+    fraction_info = metadata.get("fraction_info")
+    if fraction_info:
+        ft = fraction_info["fraction_type"]
+        if ft == "half_circled":
+            total_objs = sum(g["count"] for g in objs)
+            half = total_objs // 2
+            objects_block += (
+                f"\n\n- IMPORTANT: {half} of these {total_objs} objects have a "
+                f"THICK GREEN CIRCULAR OUTLINE drawn around them to show they are circled. "
+                f"The remaining {total_objs - half} objects are normal with no outline."
+            )
+        elif ft == "equal_groups":
+            grp = fraction_info["groups"]
+            per = fraction_info["per_group"]
+            obj_name = fraction_info["object"]
+            objects_block += (
+                f"\n\n- IMPORTANT: These objects are arranged into {grp} clearly "
+                f"separated groups of {per} {obj_name}s each. One group has a "
+                f"THICK GREEN CIRCULAR OUTLINE drawn around it to show it is circled."
+            )
 
     if preserve_faces:
         prompt = f"""PHOTOREALISTIC EDUCATIONAL SCENE — STRICT GEOMETRY LOCK — FACE PRESERVATION MODE
@@ -339,7 +400,8 @@ ABSOLUTE BANS:
     return prompt
 
 
-def _build_text_prompt(metadata: dict, gender: str = "Boy") -> str:
+def _build_text_prompt(metadata: dict, gender: str = "Boy",
+                       sibling_gender: str = "Boy") -> str:
     """Text-only prompt for models that can't accept image input."""
     scene = metadata.get("scene_context", "a bright indoor room")
     chars = metadata["characters"]
@@ -363,8 +425,10 @@ def _build_text_prompt(metadata: dict, gender: str = "Boy") -> str:
         bx, by = c["body_rect"]["x"], c["body_rect"]["y"]
         label = c["label"]
         hint = ROLE_RENDER_HINTS.get(c["role_key"], "a friendly person")
-        if c["role_key"] in child_hints and gender in child_hints[c["role_key"]]:
-            hint = child_hints[c["role_key"]][gender]
+        if c["role_key"] in child_hints:
+            role_gender = sibling_gender if c["role_key"] == "sibling_name" else gender
+            if role_gender in child_hints[c["role_key"]]:
+                hint = child_hints[c["role_key"]][role_gender]
         char_lines.append(
             f"{label} at position x={bx}, head at ({hx},{hy}). {hint}."
         )
@@ -380,6 +444,54 @@ def _build_text_prompt(metadata: dict, gender: str = "Boy") -> str:
             f"Render as: {appearance}. Each MUST be separate and individually countable."
         )
 
+    objects_block = "\n".join(obj_lines)
+
+    crossed_match = re.search(r'(\d+)\s+of them are crossed out',
+                              metadata.get("raw_question", ""))
+    if crossed_match:
+        crossed = int(crossed_match.group(1))
+        for og in objs:
+            if og["count"] >= crossed:
+                objects_block += (
+                    f"\n\n- IMPORTANT: {crossed} of these {og['count']} {og['object']}s "
+                    f"have a LARGE RED 'X' mark drawn through them (crossed out). "
+                    f"The remaining {og['count'] - crossed} are normal and untouched."
+                )
+                break
+
+    mult_match = re.search(r'(\d+)\s+groups?\s+of\s+(\d+)\s+(\w+)',
+                           metadata.get("raw_question", ""))
+    if mult_match:
+        groups = int(mult_match.group(1))
+        per_group = int(mult_match.group(2))
+        obj = mult_match.group(3)
+        objects_block += (
+            f"\n\n- IMPORTANT: Arrange these {groups * per_group} {obj}s into "
+            f"{groups} clearly separated groups of {per_group} {obj}s each. "
+            f"Each group must be visibly apart from the others."
+        )
+
+    fraction_info = metadata.get("fraction_info")
+    if fraction_info:
+        ft = fraction_info["fraction_type"]
+        if ft == "half_circled":
+            total_objs = sum(g["count"] for g in objs)
+            half = total_objs // 2
+            objects_block += (
+                f"\n\n- IMPORTANT: {half} of these {total_objs} objects have a "
+                f"THICK GREEN CIRCULAR OUTLINE drawn around them to show they are circled. "
+                f"The remaining {total_objs - half} objects are normal with no outline."
+            )
+        elif ft == "equal_groups":
+            grp = fraction_info["groups"]
+            per = fraction_info["per_group"]
+            obj_name = fraction_info["object"]
+            objects_block += (
+                f"\n\n- IMPORTANT: These objects are arranged into {grp} clearly "
+                f"separated groups of {per} {obj_name}s each. One group has a "
+                f"THICK GREEN CIRCULAR OUTLINE drawn around it to show it is circled."
+            )
+
     prompt = f"""PHOTOREALISTIC EDUCATIONAL SCENE — EXACT LAYOUT
 
 Scene: {scene}
@@ -388,7 +500,7 @@ CHARACTERS (evenly spaced across image):
 {chr(10).join(char_lines)}
 
 OBJECTS — EXACTLY {total} items at these coordinates:
-{chr(10).join(obj_lines)}
+{objects_block}
 
 CRITICAL RULES:
 - Place each character at their specified x-position
@@ -556,6 +668,7 @@ def render_image(
     strength: float = 0.75,
     preserve_faces: bool = False,
     gender: str = "Boy",
+    sibling_gender: str = "Boy",
 ) -> str | None:
     """
     Full pipeline: encode → build prompt → call OpenRouter → save.
@@ -580,8 +693,8 @@ def render_image(
         )
 
     image_data_url = _encode_image(pre_composite)
-    prompt = _build_prompt(metadata, preserve_faces=preserve_faces, gender=gender)
-    text_prompt = _build_text_prompt(metadata, gender=gender)
+    prompt = _build_prompt(metadata, preserve_faces=preserve_faces, gender=gender, sibling_gender=sibling_gender)
+    text_prompt = _build_text_prompt(metadata, gender=gender, sibling_gender=sibling_gender)
 
     mode = "face-preservation" if preserve_faces else "generic"
     print(f"  [AI] Image: {pre_composite.size}, Prompt: {len(prompt)}ch [{mode}]")

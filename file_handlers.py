@@ -6,7 +6,7 @@ import streamlit as st
 from config import GRADE_FOLDER_MAP
 
 # Paths
-EXTRACTED_BANK_FILE = os.path.join("extracted_bank", "grade_1_uk_year_1_templated_final_categories_visual.txt")
+EXTRACTED_BANK_FILE = os.path.join("extracted_bank", "grade_1_uk_year_1_templated_final_categories_visual_static.txt")
 
 def _parse_categorized_file(path):
     """

@@ -20,3 +20,4 @@ You don't run this script directly with normal Python. Because it's a Streamlit 
 ## Required Input / Output
 - **Inputs**: Interacting through the web interface (Student Name, Grade, Topic(s), etc.).
 - **Outputs**: Displays the generated questions and provides a download button for the final PDF workbook (`math_workbook_for_[Name].pdf`).
+Kids book is used for the automated tool for generating the personlized question  

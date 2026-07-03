@@ -18,6 +18,12 @@ import re
 import math
 from PIL import Image, ImageDraw
 
+from fraction_handler import (
+    detect_fraction_type,
+    draw_fraction_question,
+    apply_half_circled_overlay,
+)
+
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
@@ -34,6 +40,7 @@ HEAD_MARKER_Y = CHAR_BODY_Y - 60    # center y of head marker (shifted up for bi
 
 # Object appearance
 OBJ_COLOR = (255, 0, 0)            # red
+OBJ_CROSSED_COLOR = (180, 180, 180)  # gray fill for crossed-out objects
 OBJ_RADIUS = 24
 OBJ_GAP = 12                        # gap between objects in a row
 OBJ_START_Y = CHAR_BODY_Y + CHAR_BODY_SIZE[1] + 60  # first row y
@@ -63,6 +70,9 @@ OBJECT_KEYWORDS = [
     "sharpener", "ruler", "bag", "bottle", "cup",
     "plate", "bowl", "spoon", "fork", "glass",
     "tree", "table", "chair", "bed", "box",
+    # Geometry / shapes
+    "triangle", "square", "rectangle", "circle", "diamond", "oval",
+    "pentagon", "hexagon", "octagon",
 ]
 
 # Scene context keywords
@@ -113,10 +123,15 @@ def _find_object_matches(text: str):
     sorted_objs = sorted(OBJECT_KEYWORDS, key=len, reverse=True)
     obj_pattern = "|".join(re.escape(o) for o in sorted_objs)
 
-    # Single pattern: match N + optional container phrase + object name
+    # Known adjectives that can appear between count and object
+    COMMON_ADJECTIVES = "colorful|colourful|red|yellow|green|blue|shiny|big|small|bright|white|black|brown|pink|orange|purple|gold|tiny|large|round|flat|wooden|plastic"
+    adj_pattern = f"(?:{COMMON_ADJECTIVES})\\s+"
+
+    # Single pattern: match N + optional article + optional adjective + optional container phrase + object name
     pat = re.compile(
         rf'(\d+)\s+'
         rf'(?:a\s+|the\s+)?'
+        rf'(?:{adj_pattern})?'
         rf'(?:bundle(?:s)?\s+of\s+|pair(?:s)?\s+of\s+|box(?:es)?\s+of\s+|'
         rf'pack(?:s)?\s+of\s+|piece(?:s)?\s+of\s+|bunch(?:es)?\s+of\s+|'
         rf'group(?:s)?\s+of\s+|set(?:s)?\s+of\s+)?'
@@ -301,11 +316,28 @@ def parse_question(question: str) -> dict:
             scene_context = scene_desc
             break
 
+    # 7. Multiplication: detect "N groups of M objects" and compute correct total
+    mult_match = re.search(r'(\d+)\s+groups?\s+of\s+(\d+)\s+([a-zA-Z]\w+)', question, re.IGNORECASE)
+    if mult_match:
+        num_groups = int(mult_match.group(1))
+        per_group = int(mult_match.group(2))
+        obj_name = _normalise_obj(mult_match.group(3))
+        total = num_groups * per_group
+        if not characters:
+            characters.append({"role": "generic", "role_key": "generic", "label": "Person"})
+        rk = characters[0]["role_key"]
+        objects = [o for o in objects if not (o["role_key"] == rk and o["object"] == obj_name)]
+        objects.insert(0, {"role_key": rk, "object": obj_name, "count": total})
+
+    # 8. Fraction detection (self-contained, does not modify objects/characters)
+    fraction_info = detect_fraction_type(question)
+
     return {
         "characters": characters,
         "objects": objects,
         "scene_context": scene_context,
         "raw_question": question,
+        "fraction_info": fraction_info,
     }
 
 
@@ -350,6 +382,13 @@ def _draw_blueprint(parsed: dict,
     canvas = Image.new("RGB", CANVAS_SIZE, BG_COLOR)
     draw = ImageDraw.Draw(canvas)
 
+    # Fraction: Types 2-4 get fully custom drawing (no characters, fraction layout)
+    fraction_info = parsed.get("fraction_info")
+    if fraction_info and fraction_info["fraction_type"] != "half_circled":
+        result = draw_fraction_question(parsed, fraction_info, face_map)
+        if result is not None:
+            return result
+
     chars = parsed["characters"]
     objs = parsed["objects"]
     n_chars = len(chars)
@@ -378,6 +417,16 @@ def _draw_blueprint(parsed: dict,
         if rk not in objects_by_role:
             objects_by_role[rk] = []
         objects_by_role[rk].append(obj)
+
+    # Check for crossed-out objects (subtraction questions)
+    crossed_info = None
+    crossed_match = re.search(r'(\d+)\s+of them are crossed out', parsed.get("raw_question", ""))
+    if crossed_match:
+        crossed = int(crossed_match.group(1))
+        for og in objs:
+            if og["count"] >= crossed:
+                crossed_info = {"role_key": og["role_key"], "object": og["object"], "crossed": crossed}
+                break
 
     # Draw characters
     for i, char in enumerate(chars):
@@ -426,7 +475,13 @@ def _draw_blueprint(parsed: dict,
             obj_name = obj_entry["object"]
             object_positions = []
 
-            for _ in range(count):
+            # Check if this object group has crossed-out items
+            is_crossed_group = (crossed_info and
+                               char["role_key"] == crossed_info["role_key"] and
+                               obj_name == crossed_info["object"])
+            crossed_remaining = crossed_info["crossed"] if is_crossed_group else 0
+
+            for i in range(count):
                 max_x = bx + CHAR_BODY_SIZE[0] - OBJ_RADIUS
                 ox = bx + OBJ_RADIUS + obj_idx * (OBJ_RADIUS * 2 + OBJ_GAP)
                 oy = current_row_y
@@ -437,11 +492,27 @@ def _draw_blueprint(parsed: dict,
                     ox = bx + OBJ_RADIUS + obj_idx * (OBJ_RADIUS * 2 + OBJ_GAP)
                     oy = current_row_y
 
-                draw.ellipse(
-                    [ox - OBJ_RADIUS, oy - OBJ_RADIUS,
-                     ox + OBJ_RADIUS, oy + OBJ_RADIUS],
-                    fill=OBJ_COLOR,
-                )
+                if i < crossed_remaining:
+                    # Crossed-out: gray fill + red outline + red X
+                    draw.ellipse(
+                        [ox - OBJ_RADIUS, oy - OBJ_RADIUS,
+                         ox + OBJ_RADIUS, oy + OBJ_RADIUS],
+                        fill=OBJ_CROSSED_COLOR, outline=(255, 0, 0), width=2,
+                    )
+                    draw.line([(ox - OBJ_RADIUS, oy - OBJ_RADIUS),
+                               (ox + OBJ_RADIUS, oy + OBJ_RADIUS)],
+                              fill=(255, 0, 0), width=3)
+                    draw.line([(ox + OBJ_RADIUS, oy - OBJ_RADIUS),
+                               (ox - OBJ_RADIUS, oy + OBJ_RADIUS)],
+                              fill=(255, 0, 0), width=3)
+                else:
+                    # Normal: red fill (unchanged)
+                    draw.ellipse(
+                        [ox - OBJ_RADIUS, oy - OBJ_RADIUS,
+                         ox + OBJ_RADIUS, oy + OBJ_RADIUS],
+                        fill=OBJ_COLOR,
+                    )
+
                 object_positions.append({"x": ox, "y": oy})
                 obj_idx += 1
 
@@ -463,7 +534,12 @@ def _draw_blueprint(parsed: dict,
         "scene_context": parsed["scene_context"],
         "raw_question": parsed["raw_question"],
         "has_faces": has_faces,
+        "fraction_info": fraction_info,
     }
+
+    # Fraction: Type 1 (half-circled) — overlay green rings on existing blueprint
+    if fraction_info and fraction_info["fraction_type"] == "half_circled":
+        apply_half_circled_overlay(draw, metadata)
 
     return canvas, metadata
 

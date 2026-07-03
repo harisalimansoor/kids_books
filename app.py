@@ -120,7 +120,7 @@
 #             help="You can pick multiple topics. Check 'Use all topics' to include everything."
 #         )
 #     else:
-#         st.info("No topics found. Ensure 'extracted_bank/grade_1_uk_year_1_templated_final_categories_visual.txt' exists.")
+#         st.info("No topics found. Ensure 'extracted_bank/grade_1_uk_year_1_templated_final_categories_visual_static.txt' exists.")
 
 # num_questions = st.number_input(
 #     "Total number of questions to generate:",
@@ -337,12 +337,13 @@ from config import IMAGE_COST  # not actively used, kept for compatibility
 from file_handlers import get_topics_for_grade, load_sample_questions, load_all_questions_for_grade
 from prompt_builder import build_family_context
 from pdf_generator import generate_pdf, cleanup_temp_images
-from utils import create_safe_filename, detect_role
+from utils import create_safe_filename, detect_role, fix_you_verb_conjugation, capitalize_you
 
 # Blueprint-to-Render pipeline (only image generation method)
 from blueprint_generator import generate_blueprint, OBJECT_KEYWORDS
 from ai_renderer import render_image as ai_render, _build_prompt, _build_text_prompt
 from face_swap_processor import swap_faces
+from role_remapper import remap_question_roles
 
 # ------------------------------------------------------------------------------
 # Hobby → object mapping
@@ -496,9 +497,11 @@ with col_name:
 with col_sib:
     siblings = st.text_input("Siblings' Names:", placeholder="e.g., Sara, Ahmed (optional)")
 
-col_gen, col_hob = st.columns(2)
+col_gen, col_sibgen, col_hob = st.columns([1, 1, 1])
 with col_gen:
-    gender = st.selectbox("Gender:*", ["Select", "Boy", "Girl", "Other"])
+    gender = st.selectbox("Child's Gender:*", ["Select", "Boy", "Girl", "Other"], help="Gender of the child doing the worksheet")
+with col_sibgen:
+    sibling_gender = st.selectbox("Sibling's Gender:", ["Boy", "Girl"], help="Gender of the sibling (used for illustrations — separate from child's gender)")
 with col_hob:
     hobbies = st.text_input("Hobbies/Interests:", placeholder="e.g., football, drawing (optional)")
 
@@ -572,7 +575,7 @@ if grade == "Grade 1":
             help="You can pick multiple topics. Check 'Use all topics' to include everything."
         )
     else:
-        st.info("No topics found. Ensure 'extracted_bank/grade_1_uk_year_1_templated_final_categories_visual.txt' exists.")
+        st.info("No topics found. Ensure 'extracted_bank/grade_1_uk_year_1_templated_final_categories_visual_static.txt' exists.")
 
 num_questions = st.number_input(
     "Total number of questions to generate:",
@@ -670,23 +673,33 @@ if st.button("📝 Generate Personalized Workbook", type="primary"):
             # Determine hobby object
             hobby_obj = map_hobby_to_object(hobbies)
 
-            # Personalise: replace placeholders with actual names
+            # Personalise: replace placeholders with actual names / "You"
+            sibling_name = siblings.split(',')[0].strip() if siblings else "sibling"
+            sibling_pronoun = "her" if sibling_gender == "Girl" else "him"
+            sibling_possessive = "her" if sibling_gender == "Girl" else "his"
             questions_data = []  # (personalized_text, raw_text)
             replacements = {
-                r'\{user_name\}':        student_name or "the child",
-                r'\{mother_name\}':      mother_name or "mother",
-                r'\{father_name\}':      father_name or "father",
-                r'\{grandmother_name\}': grandmother_name or "grandmother",
-                r'\{grandfather_name\}': grandfather_name or "grandfather",
-                r'\{sibling_name\}':     siblings.split(',')[0].strip() if siblings else "sibling",
+                r'\{user_name\}':            "you",
+                r'\{mother_name\}':          mother_name or "mother",
+                r'\{father_name\}':          father_name or "father",
+                r'\{grandmother_name\}':     grandmother_name or "grandmother",
+                r'\{grandfather_name\}':     grandfather_name or "grandfather",
+                r'\{sibling_name\}':         sibling_name,
+                r'\{sibling_pronoun\}':      sibling_pronoun,
+                r'\{sibling_possessive\}':   sibling_possessive,
             }
             for q_raw in selected_raw:
                 text = q_raw
                 # Replace name placeholders
                 for pattern, replacement in replacements.items():
                     text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
+                # Fix verb conjugation when subject is "you"
+                text = fix_you_verb_conjugation(text)
+                # Capitalize "you" at sentence starts
+                text = capitalize_you(text)
                 # Replace object words with the user's hobby object
-                if hobby_obj:
+                # (skip for SHAPES category — preserve geometric shape names)
+                if hobby_obj and "shapes" not in q_raw.lower():
                     text = replace_objects_in_text(text, hobby_obj)
                     q_raw = replace_objects_in_text(q_raw, hobby_obj)
                 questions_data.append((text, q_raw))
@@ -706,11 +719,14 @@ if st.button("📝 Generate Personalized Workbook", type="primary"):
             "synced_questions": list(questions),
             "student_name": student_name,
             "gender": gender,
+            "sibling_gender": sibling_gender,
             "grade": grade,
             "topic_header_text": topic_header_text,
             "include_images": include_images,
             "saved_face_paths": saved_face_paths,
             "image_paths": [],
+            "replacements": replacements,
+            "sibling_gender": sibling_gender,
         }
         st.rerun()
 
@@ -740,6 +756,18 @@ if pipeline is not None:
                 if saved_key in pipeline["saved_face_paths"]:
                     face_map_for_bp[role_key] = pipeline["saved_face_paths"][saved_key]
 
+            # Remap roles to maximize use of uploaded face images
+            q_raw, q_pers, face_map_for_bp = remap_question_roles(
+                q_raw, q_pers, face_map_for_bp,
+                role_to_saved,
+                pipeline["saved_face_paths"],
+                pipeline.get("replacements", {}),
+                pipeline.get("sibling_gender", "Boy"),
+            )
+            # Update pipeline state with remapped texts
+            pipeline["questions_data"][idx - 1] = (q_pers, q_raw)
+            pipeline["synced_questions"][idx - 1] = q_pers
+
             blueprint, metadata = generate_blueprint(q_raw, face_map=face_map_for_bp)
 
             # Track which faces were actually used in this question
@@ -750,8 +778,8 @@ if pipeline is not None:
                     question_face_map[ch["role_key"]] = pipeline["saved_face_paths"][saved_key]
 
             preserve = metadata.get("has_faces", False)
-            prompt = _build_prompt(metadata, preserve_faces=preserve, gender=pipeline.get("gender", "Boy"))
-            text_prompt = _build_text_prompt(metadata, gender=pipeline.get("gender", "Boy"))
+            prompt = _build_prompt(metadata, preserve_faces=preserve, gender=pipeline.get("gender", "Boy"), sibling_gender=pipeline.get("sibling_gender", "Boy"))
+            text_prompt = _build_text_prompt(metadata, gender=pipeline.get("gender", "Boy"), sibling_gender=pipeline.get("sibling_gender", "Boy"))
 
             blueprints_data.append({
                 "idx": idx,
@@ -787,7 +815,8 @@ if pipeline is not None:
                     result = ai_render(data["blueprint"], data["metadata"],
                                        output_path=temp_path,
                                        preserve_faces=preserve,
-                                       gender=pipeline.get("gender", "Boy"))
+                                       gender=pipeline.get("gender", "Boy"),
+                                       sibling_gender=pipeline.get("sibling_gender", "Boy"))
 
                     if result and os.path.exists(result):
                         if data["question_face_map"]:

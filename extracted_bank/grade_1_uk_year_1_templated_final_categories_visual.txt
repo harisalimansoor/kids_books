@@ -1,9 +1,9 @@
 === ADDITION ===
-Look at the picture! {sibling_name} is holding a bag with 4 marbles and {grandfather_name} has 5 marbles in a bowl on the table. If they pour the marbles from the bag into the bowl, how many marbles are in the bowl now?
+Look at the picture! {grandmother_name} is holding 2 stickers, {mother_name} has 5 stickers on the table, and {user_name} are showing 2 stickers. How many stickers can {user_name} count altogether?
+Look at the picture! {grandmother_name} is sitting with 4 books in her basket, {sibling_name} is holding 3 books, and {user_name} are reading 1 book. How many books can {user_name} count altogether?
 Look at the picture! {grandmother_name} is carrying a basket with 7 mangoes and {grandfather_name} is holding 2 mangoes in his hands. If they put all the mangoes together in the basket, how many mangoes do they have now?
 Look at the picture! {mother_name} is standing next to a big box with 8 books inside, and {father_name} is standing next to an empty box with 0 books inside. If they put their boxes together, how many books can {user_name} see now?
-Look at the picture! {grandmother_name} is sitting with 4 books in her basket, {sibling_name} is holding 3 books, and {user_name} are reading 1 book. How many books can {user_name} count altogether?
-Look at the picture! {grandmother_name} is holding 2 stickers, {mother_name} has 5 stickers on the table, and {user_name} are showing 2 stickers. How many stickers can {user_name} count altogether?
+Look at the picture! {sibling_name} is holding a bag with 4 marbles and {grandfather_name} has 5 marbles in a bowl on the table. If they pour the marbles from the bag into the bowl, how many marbles are in the bowl now?
 Look at the picture! {user_name} is holding a basket with 5 books, and {grandfather_name} has 5 books on a shelf. If they put all the books together in one big pile, how many books do they have now?
 Look at the picture! {mother_name} is holding a basket with 2 mangoes and {grandmother_name} has a big bowl with 6 mangoes on the table. If they put the mangoes from the basket into the bowl, how many mangoes are in the bowl now?
 Look at the picture! {sibling_name} has 0 apples in their basket, {mother_name} has 7 apples in a big bowl on the table, and {user_name} have 0 apples in {user_name}'s bag. How many apples are there altogether?
