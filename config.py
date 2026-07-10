@@ -35,12 +35,11 @@ USE_OPENAI_FOR_TEXT = False
 
 # Image generation settings
 IMAGE_STYLES = {
-    "cartoon": "colorful cartoon style",
-    "simple": "simple flat design style",
-    "watercolor": "watercolor painting style",
-    "sticker": "cute sticker style",
-    "playful": "playful and vibrant style",
-    "educational": "educational textbook style"
+    "photorealistic": "Photorealistic photograph — ultra-sharp focus, natural lighting, real-world textures, DSLR-quality",
+    "storybook": "Whimsical storybook illustration — soft watercolour textures, gentle pastel colours, dreamy backgrounds, like a children's picture book",
+    "cartoon": "Colourful cartoon — bold outlines, vibrant flat colours, fun and expressive characters, like a Saturday morning cartoon",
+    "anime": "Japanese anime/manga style — large expressive eyes, smooth shading, soft colour palette, stylised characters",
+    "pixel": "8-bit pixel art — blocky retro video game aesthetic, limited colour palette, chunky pixel grid",
 }
 
 # Image generation models (for future use when credits available)

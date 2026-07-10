@@ -18,7 +18,7 @@ import base64
 import requests
 from PIL import Image
 
-from config import OPENROUTER_API_KEY, OPENROUTER_URL
+from config import OPENROUTER_API_KEY, OPENROUTER_URL, IMAGE_STYLES
 
 # ---------------------------------------------------------------------------
 # Constants — FLUX.2 Pro as primary (best prompt adherence + img2img support)
@@ -134,7 +134,9 @@ def _encode_image(img: Image.Image, fmt: str = "JPEG", quality: int = 92) -> str
 
 
 def _build_prompt(metadata: dict, preserve_faces: bool = False,
-                  gender: str = "Boy", sibling_gender: str = "Boy") -> str:
+                  gender: str = "Boy", sibling_gender: str = "Boy",
+                  theme_style: str = "photorealistic",
+                  fav_color: str = "", extra_context: str = "") -> str:
     """
     Build the rendering prompt.
 
@@ -143,26 +145,34 @@ def _build_prompt(metadata: dict, preserve_faces: bool = False,
     metadata : dict
         Blueprint metadata with character/object positions.
     preserve_faces : bool
-        If True, the input image has real face photos pasted at head positions
-        and the prompt tells the AI to preserve them exactly.
+        If True, the input image has real face photos pasted at head positions.
     gender : str
         Student's gender ("Boy", "Girl", or "Other").
     sibling_gender : str
         Sibling's gender ("Boy" or "Girl").
+    theme_style : str
+        Key into IMAGE_STYLES for the visual theme.
+    fav_color : str
+        Favourite colour to prepend to object descriptions.
+    extra_context : str
+        Extra contextual text to inject into the scene description.
     """
     scene = metadata.get("scene_context", "a bright indoor room")
+    if extra_context:
+        scene = f"{scene}. {extra_context}"
     chars = metadata["characters"]
     objs = metadata["objects"]
     total_objects = sum(g["count"] for g in objs)
+    theme_desc = IMAGE_STYLES.get(theme_style, IMAGE_STYLES["photorealistic"])
 
     child_hints = {
         "user_name": {
-            "Boy": "a young boy aged 5-6, wearing casual clothes",
-            "Girl": "a young girl aged 5-6, wearing casual clothes",
+            "Boy": "a young boy aged 5-6, shown from the chest upward, wearing casual clothes",
+            "Girl": "a young girl aged 5-6, shown from the chest upward, wearing casual clothes",
         },
         "sibling_name": {
-            "Boy": "a boy aged 7-8, wearing casual clothes",
-            "Girl": "a girl aged 7-8, wearing casual clothes",
+            "Boy": "a boy aged 7-8, shown from the chest upward, wearing casual clothes",
+            "Girl": "a girl aged 7-8, shown from the chest upward, wearing casual clothes",
         },
     }
 
@@ -178,7 +188,7 @@ def _build_prompt(metadata: dict, preserve_faces: bool = False,
         hx, hy = c["head_center"]["x"], c["head_center"]["y"]
         bx, by = c["body_rect"]["x"], c["body_rect"]["y"]
         char_lines.append(
-            f"- {c['label']}: body at ({bx},{by}), head at ({hx},{hy}). "
+            f"- {c['label']}: upper body at ({bx},{by}), head at ({hx},{hy}). "
             f"Render as {hint}."
         )
 
@@ -187,6 +197,8 @@ def _build_prompt(metadata: dict, preserve_faces: bool = False,
         obj_name = og["object"]
         appearance = OBJECT_APPEARANCE.get(obj_name,
                                            f"clearly recognisable {obj_name}s")
+        if fav_color:
+            appearance = f"{fav_color} {appearance}"
         count = og["count"]
         coords_str = ", ".join(f"({p['x']},{p['y']})" for p in og["positions"])
         obj_lines.append(
@@ -244,50 +256,56 @@ def _build_prompt(metadata: dict, preserve_faces: bool = False,
             )
 
     if preserve_faces:
-        prompt = f"""PHOTOREALISTIC EDUCATIONAL SCENE — STRICT GEOMETRY LOCK — FACE PRESERVATION MODE
+        prompt = f"""{theme_desc.upper()} EDUCATIONAL SCENE — STRICT GEOMETRY LOCK — FACE PRESERVATION MODE — CHEST-UP FRAMING
+
+⚠️ STYLE ENFORCEMENT — CRITICAL
+The ENTIRE image MUST be rendered in {theme_desc} style.
+Every element — characters, objects, background, lighting, textures — MUST follow {theme_style} style strictly.
+Do NOT output photorealistic. Do NOT mix styles. The style is {theme_desc} — apply it everywhere.
 
 ════════════════════════════════════════════════════════════
 COLOR LEGEND — Every colored shape in the input image has a fixed meaning:
 ════════════════════════════════════════════════════════════
-🔵 BLUE RECTANGLES  → Character bodies. Convert each ONE into a full realistic person.
+🔵 BLUE RECTANGLES  → Character upper bodies. Convert each ONE into a person's chest and shoulders in {theme_style} style.
                         The face is ALREADY PASTED at the head position — PRESERVE it.
-🟢 GREEN OUTLINES   → Real face photos already pasted here. DO NOT MODIFY.
-🔴 RED CIRCLES      → Countable objects. Each ONE red circle = ONE separate object.
+🟢 GREEN OUTLINES   → Real face photos already pasted here. DO NOT MODIFY. Blend into {theme_style} body.
+🔴 RED CIRCLES      → Countable objects. Each ONE red circle = ONE separate object rendered in {theme_style} style.
                         Exact count and position must be preserved.
-⬜ WHITE BACKGROUND → Add the scene background described below.
+⬜ WHITE BACKGROUND → Add the scene background described below in {theme_style} style.
 
 FAILURE CONDITIONS (these will make the image USELESS for a math worksheet):
 - If the pasted faces are modified, altered, or replaced → FAILED
 - If red circles are merged into piles → FAILED
 - If extra objects are hallucinated → FAILED
 - If any object is missing → FAILED
+- If the style is photorealistic instead of {theme_style} → FAILED
 
 ════════════════════════════════════════════════════════════
-CHARACTERS — render as REALISTIC PHOTOS, preserve pasted faces
+CHARACTERS — rendered in {theme_desc} style, preserve pasted faces
 ════════════════════════════════════════════════════════════
 {people_block}
 
 FACES: The faces already pasted in the image MUST be PRESERVED exactly as they appear.
 Do NOT modify, alter, replace, or regenerate them. Keep every facial feature identical.
-The only exception is blending the edges where the face meets the neck/generated body.
+The only exception is blending the edges where the face meets the neck/generated upper body — match the blending to {theme_style} style.
 
 ════════════════════════════════════════════════════════════
 BLENDING INSTRUCTION — CRITICAL
 ════════════════════════════════════════════════════════════
 For each character:
 1. The face is already pasted at the correct position — leave it untouched.
-2. Generate the rest of the body (neck, shoulders, torso, arms, clothing) below the face.
-3. Blend the edges of the pasted face naturally into the generated body — smooth skin tone transition, natural neck curve.
-4. Ensure the overall result looks like a single photograph, not a collage.
+2. Generate the rest of the upper body (neck, shoulders, upper chest, clothing) below the face in {theme_style} style.
+3. Blend the edges of the pasted face naturally into the generated body — smooth transition matching {theme_style} aesthetic.
+4. Ensure the overall result looks like a single cohesive {theme_style} image, not a collage.
 
 ════════════════════════════════════════════════════════════
-ANATOMY & POSITIONING — CRITICAL
+FRAMING — CHEST-UP PORTRAIT — CRITICAL
 ════════════════════════════════════════════════════════════
-- Each character must have ANATOMICALLY CORRECT proportions: normal arms, hands, legs, feet, and neck. No deformities, no missing or extra limbs.
-- Both feet must be planted FIRMLY ON THE GROUND FLOOR. Do NOT place characters on chairs, boxes, tables, stools, or any elevated surface.
-- Arms should hang naturally at the sides or be slightly extended forward. Hands must have the correct number of fingers with natural positioning.
-- Characters should face forward or be slightly angled toward each other. Natural standing posture.
-- All characters must be on the SAME GROUND PLANE with consistent perspective and depth.
+- FRAME each character from the CHEST UPWARD only. Do NOT show legs, feet, or the ground.
+- Characters are seen from approximately the mid-chest level to the top of the head.
+- Shoulders, neck, and head must be visible and proportioned in {theme_style} style.
+- Arms and hands should be visible from the upper arm/shoulder area downward to about mid-forearm.
+- Characters should face forward or be slightly angled toward each other.
 
 ════════════════════════════════════════════════════════════
 OBJECTS — EXACTLY {total_objects} items total, at these exact coordinates
@@ -295,19 +313,16 @@ OBJECTS — EXACTLY {total_objects} items total, at these exact coordinates
 {objects_block}
 
 ════════════════════════════════════════════════════════════
-SCENE & STYLE
+SCENE — {theme_style.upper()} STYLE
 ════════════════════════════════════════════════════════════
 Scene: {scene}
 
-Style: PHOTOREALISTIC PHOTOGRAPH. NOT cartoon, NOT animation, NOT illustration.
-- All characters STANDING ON THE GROUND — both feet on the same floor plane
-- Anatomically correct bodies: normal arms, legs, hands, feet, and necks
-- Natural standing posture — arms at sides, facing forward
-- Ultra-sharp focus, natural lighting, real-world textures
-- Clothing with fabric folds and real material appearance
-- Objects with realistic highlights, shadows, and material properties
-- Background with appropriate depth and environment detail
-- 8K resolution, DSLR-quality photograph
+Style: {theme_desc}
+- EVERYTHING in {theme_style} style: characters, objects, background, textures
+- Lighting, shading, and linework consistent with {theme_style}
+- Objects match the {theme_style} aesthetic (proportions, colours, outlines)
+- Background is a {theme_style} version of the scene described above
+- This is a {theme_style} illustration — NOT a photograph, NOT photorealistic
 
 ════════════════════════════════════════════════════════════
 COUNT VERIFICATION — MANDATORY
@@ -321,45 +336,51 @@ ABSOLUTE BANS:
 ❌ Do NOT add any objects not represented by red circles
 ❌ Do NOT draw decorative extra items around the scene
 ❌ Do NOT place objects in baskets, bowls, piles, or containers
-❌ Do NOT place characters on chairs, boxes, tables, stools, or any elevated surface
+❌ Do NOT show legs, feet, or the ground — chest-up framing only
 ❌ Do NOT give characters abnormal anatomy, missing limbs, or extra limbs
-❌ Do NOT use cartoon or illustration style — ONLY photorealistic"""
+❌ Do NOT render in photorealistic — strict {theme_style} only
+❌ Do NOT mix styles — every element must be {theme_style}"""
     else:
-        prompt = f"""PHOTOREALISTIC EDUCATIONAL SCENE — STRICT GEOMETRY LOCK
+        prompt = f"""{theme_desc.upper()} EDUCATIONAL SCENE — STRICT GEOMETRY LOCK — CHEST-UP FRAMING
+
+⚠️ STYLE ENFORCEMENT — CRITICAL
+The ENTIRE image MUST be rendered in {theme_desc} style.
+Every element — characters, objects, background, lighting — MUST follow {theme_style} style.
+Do NOT output photorealistic. Do NOT mix styles. Strictly {theme_style} only.
 
 ════════════════════════════════════════════════════════════
 COLOR LEGEND — Every colored shape in the input image has a fixed meaning:
 ════════════════════════════════════════════════════════════
-🔵 BLUE RECTANGLES  → Character bodies. Convert each ONE into a full realistic person
-                        with a GENERIC, ANONYMOUS face. No specific identity required.
-🟢 GREEN CIRCLES    → Head placeholders. IGNORE these circles and generate
-                        appropriate realistic heads for each character.
-🔴 RED CIRCLES      → Countable objects. Each ONE red circle = ONE separate object.
-                        Exact count and position must be preserved.
-⬜ WHITE BACKGROUND → Add the scene background described below.
+🔵 BLUE RECTANGLES  → Character upper bodies. Convert each ONE into a person's chest and shoulders
+                        in {theme_style} style, with a GENERIC {theme_style} face.
+🟢 GREEN CIRCLES    → Head placeholders. REPLACE these circles with {theme_style}-style heads
+                        matching each character's description.
+🔴 RED CIRCLES      → Countable objects. Each ONE red circle = ONE separate object
+                        rendered in {theme_style} style. Exact count and position must be preserved.
+⬜ WHITE BACKGROUND → Add the scene background described below in {theme_style} style.
 
 FAILURE CONDITIONS (these will make the image USELESS for a math worksheet):
 - If red circles are merged into piles → FAILED
 - If extra objects are hallucinated → FAILED
 - If any object is missing → FAILED
+- If the style is photorealistic instead of {theme_style} → FAILED
 
 ════════════════════════════════════════════════════════════
-CHARACTERS — render as REALISTIC PHOTOS with GENERIC FACES, not cartoons
+CHARACTERS — rendered in {theme_desc} style with GENERIC FACES
 ════════════════════════════════════════════════════════════
 {people_block}
 
-FACES: Generate GENERIC, ANONYMOUS faces for each character. Do NOT attempt to
-match any specific identity. The heads should look natural and realistic but
-do not need to resemble any particular person.
+FACES: Generate GENERIC, ANONYMOUS {theme_style}-style faces for each character.
+Do NOT attempt to match any specific identity. The heads should match the {theme_style} aesthetic.
 
 ════════════════════════════════════════════════════════════
-ANATOMY & POSITIONING — CRITICAL
+FRAMING — CHEST-UP PORTRAIT — CRITICAL
 ════════════════════════════════════════════════════════════
-- Each character must have ANATOMICALLY CORRECT proportions: normal arms, hands, legs, feet, and neck. No deformities, no missing or extra limbs.
-- Both feet must be planted FIRMLY ON THE GROUND FLOOR. Do NOT place characters on chairs, boxes, tables, stools, or any elevated surface.
-- Arms should hang naturally at the sides or be slightly extended forward. Hands must have the correct number of fingers with natural positioning.
-- Characters should face forward or be slightly angled toward each other. Natural standing posture.
-- All characters must be on the SAME GROUND PLANE with consistent perspective and depth.
+- FRAME each character from the CHEST UPWARD only. Do NOT show legs, feet, or the ground.
+- Characters are seen from approximately the mid-chest level to the top of the head.
+- Shoulders, neck, and head must be visible and proportioned in {theme_style} style.
+- Arms and hands should be visible from the upper arm/shoulder area downward to about mid-forearm.
+- Characters should face forward or be slightly angled toward each other.
 
 ════════════════════════════════════════════════════════════
 OBJECTS — EXACTLY {total_objects} items total, at these exact coordinates
@@ -367,20 +388,16 @@ OBJECTS — EXACTLY {total_objects} items total, at these exact coordinates
 {objects_block}
 
 ════════════════════════════════════════════════════════════
-SCENE & STYLE
+SCENE — {theme_style.upper()} STYLE
 ════════════════════════════════════════════════════════════
 Scene: {scene}
 
-Style: PHOTOREALISTIC PHOTOGRAPH. NOT cartoon, NOT animation, NOT illustration.
-- All characters STANDING ON THE GROUND — both feet on the same floor plane
-- Anatomically correct bodies: normal arms, legs, hands, feet, and necks
-- Natural standing posture — arms at sides, facing forward
-- Ultra-sharp focus, natural lighting, real-world textures
-- Skin with realistic pores and texture, not smooth plastic
-- Clothing with fabric folds and real material appearance
-- Objects with realistic highlights, shadows, and material properties
-- Background with appropriate depth and environment detail
-- 8K resolution, DSLR-quality photograph
+Style: {theme_desc}
+- EVERYTHING in {theme_style} style: characters, objects, background, textures
+- Lighting, shading, and linework consistent with {theme_style}
+- Objects match the {theme_style} aesthetic (proportions, colours, outlines)
+- Background is a {theme_style} version of the scene described above
+- This is a {theme_style} illustration — NOT a photograph, NOT photorealistic
 
 ════════════════════════════════════════════════════════════
 COUNT VERIFICATION — MANDATORY
@@ -393,29 +410,35 @@ ABSOLUTE BANS:
 ❌ Do NOT add any objects not represented by red circles
 ❌ Do NOT draw decorative extra items around the scene
 ❌ Do NOT place objects in baskets, bowls, piles, or containers
-❌ Do NOT place characters on chairs, boxes, tables, stools, or any elevated surface
+❌ Do NOT show legs, feet, or the ground — chest-up framing only
 ❌ Do NOT give characters abnormal anatomy, missing limbs, or extra limbs
-❌ Do NOT use cartoon or illustration style — ONLY photorealistic"""
+❌ Do NOT render in photorealistic — strict {theme_style} only
+❌ Do NOT mix styles — every element must be {theme_style}"""
 
     return prompt
 
 
 def _build_text_prompt(metadata: dict, gender: str = "Boy",
-                       sibling_gender: str = "Boy") -> str:
+                       sibling_gender: str = "Boy",
+                       theme_style: str = "photorealistic",
+                       fav_color: str = "", extra_context: str = "") -> str:
     """Text-only prompt for models that can't accept image input."""
     scene = metadata.get("scene_context", "a bright indoor room")
+    if extra_context:
+        scene = f"{scene}. {extra_context}"
     chars = metadata["characters"]
     objs = metadata["objects"]
     total = sum(g["count"] for g in objs)
+    theme_desc = IMAGE_STYLES.get(theme_style, IMAGE_STYLES["photorealistic"])
 
     child_hints = {
         "user_name": {
-            "Boy": "a young boy aged 5-6, wearing casual clothes",
-            "Girl": "a young girl aged 5-6, wearing casual clothes",
+            "Boy": "a young boy aged 5-6, shown from the chest upward, wearing casual clothes",
+            "Girl": "a young girl aged 5-6, shown from the chest upward, wearing casual clothes",
         },
         "sibling_name": {
-            "Boy": "a boy aged 7-8, wearing casual clothes",
-            "Girl": "a girl aged 7-8, wearing casual clothes",
+            "Boy": "a boy aged 7-8, shown from the chest upward, wearing casual clothes",
+            "Girl": "a girl aged 7-8, shown from the chest upward, wearing casual clothes",
         },
     }
 
@@ -437,6 +460,8 @@ def _build_text_prompt(metadata: dict, gender: str = "Boy",
     for og in objs:
         obj_name = og["object"]
         appearance = OBJECT_APPEARANCE.get(obj_name, f"distinct {obj_name}s")
+        if fav_color:
+            appearance = f"{fav_color} {appearance}"
         count = og["count"]
         coords = ", ".join(f"({p['x']},{p['y']})" for p in og["positions"])
         obj_lines.append(
@@ -492,29 +517,31 @@ def _build_text_prompt(metadata: dict, gender: str = "Boy",
                 f"THICK GREEN CIRCULAR OUTLINE drawn around it to show it is circled."
             )
 
-    prompt = f"""PHOTOREALISTIC EDUCATIONAL SCENE — EXACT LAYOUT
+    prompt = f"""{theme_desc.upper()} EDUCATIONAL SCENE — CHEST-UP PORTRAIT — {theme_style.upper()} STYLE ONLY
+
+⚠️ The ENTIRE image MUST be rendered in {theme_desc} style. NOT photorealistic. {theme_style} ONLY.
 
 Scene: {scene}
 
-CHARACTERS (evenly spaced across image):
+CHARACTERS (evenly spaced across image, chest-up framing, in {theme_style} style):
 {chr(10).join(char_lines)}
 
-OBJECTS — EXACTLY {total} items at these coordinates:
+OBJECTS — EXACTLY {total} items in {theme_style} style at these coordinates:
 {objects_block}
 
 CRITICAL RULES:
+- Everything must be {theme_style} style: characters, objects, background, lighting
 - Place each character at their specified x-position
 - Place objects in front of the corresponding character at the specified coordinates
 - EXACTLY {total} objects. Each must be DISTINCT, SEPARATE, and individually countable
 - Do NOT merge objects into piles, bowls, baskets, or containers
-- Characters face forward, smiling, dressed in appropriate clothing
-- FACES: Generate GENERIC, ANONYMOUS faces — no specific identity required
-- ANATOMICALLY CORRECT: normal arms, hands, legs, feet. No deformities, no missing/extra limbs
-- Both feet planted FIRMLY ON THE GROUND FLOOR. NOT on chairs, boxes, tables, or any elevated surface
-- Arms hang naturally at sides or slightly extended forward. Correct number of fingers
-- All characters on the SAME GROUND PLANE with consistent perspective
-- Style: PHOTOREALISTIC PHOTOGRAPH — NOT cartoon, NOT illustration
-- Ultra-sharp focus, natural lighting, real fabric textures, real skin
+- Characters face forward, smiling, dressed in appropriate {theme_style} clothing
+- FACES: Generate GENERIC, ANONYMOUS faces in {theme_style} style — no specific identity required
+- FRAME each character from CHEST UPWARD only — do NOT show legs, feet, or the ground
+- Shoulders, neck, and head visible with {theme_style} proportions
+- Arms and hands visible from shoulder to mid-forearm
+- Style: {theme_desc} — NOT photorealistic, NOT a photograph
+- NO photorealistic textures, NO photo-real skin, NO camera-like lighting
 - NO extra objects, NO decorative items, NO text or numbers in the image
 - COUNT VERIFICATION: Scan the image. Verify exactly {total} objects. If wrong, regenerate."""
 
@@ -669,6 +696,10 @@ def render_image(
     preserve_faces: bool = False,
     gender: str = "Boy",
     sibling_gender: str = "Boy",
+    theme_style: str = "photorealistic",
+    fav_color: str = "",
+    pet_name: str = "",
+    extra_context: str = "",
 ) -> str | None:
     """
     Full pipeline: encode → build prompt → call OpenRouter → save.
@@ -693,8 +724,12 @@ def render_image(
         )
 
     image_data_url = _encode_image(pre_composite)
-    prompt = _build_prompt(metadata, preserve_faces=preserve_faces, gender=gender, sibling_gender=sibling_gender)
-    text_prompt = _build_text_prompt(metadata, gender=gender, sibling_gender=sibling_gender)
+    prompt = _build_prompt(metadata, preserve_faces=preserve_faces, gender=gender,
+                           sibling_gender=sibling_gender, theme_style=theme_style,
+                           fav_color=fav_color, extra_context=extra_context)
+    text_prompt = _build_text_prompt(metadata, gender=gender, sibling_gender=sibling_gender,
+                                     theme_style=theme_style, fav_color=fav_color,
+                                     extra_context=extra_context)
 
     mode = "face-preservation" if preserve_faces else "generic"
     print(f"  [AI] Image: {pre_composite.size}, Prompt: {len(prompt)}ch [{mode}]")
@@ -732,15 +767,15 @@ if __name__ == "__main__":
     blueprint.save("test_blueprint.png")
 
     face_map = {}
-    if os.path.exists("personalized_faces"):
-        for f in os.listdir("personalized_faces"):
+    if os.path.exists("personalised_faces"):
+        for f in os.listdir("personalised_faces"):
             if f.endswith((".png", ".jpg", ".jpeg")):
                 rk = os.path.basename(f).replace("_face.png", "").replace("_face.jpg", "")
                 rm = {"user": "user_name", "mother": "mother_name",
                       "grandmother": "grandmother_name", "father": "father_name",
                       "grandfather": "grandfather_name", "sibling": "sibling_name"}
                 if rk in rm:
-                    face_map[rm[rk]] = os.path.join("personalized_faces", f)
+                    face_map[rm[rk]] = os.path.join("personalised_faces", f)
 
     pre_comp = prepare_pre_composite(blueprint, meta, face_map)
     pre_comp.save("test_pre_composite.png")

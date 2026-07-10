@@ -1,6 +1,6 @@
-# Personalized Math Question Generator
+# My Maths Practice Book — Year 1
 
-Welcome to the **Personalized Math Question Generator**! A Streamlit web app that creates customized math workbooks for kids — with AI-generated photorealistic illustrations, face swapping, and exact object counting.
+Welcome to **My Maths Practice Book**! A Streamlit web app that creates personalised maths workbooks for children — with AI-generated illustrations, face swapping, and exact object counting.
 
 ## Pipeline Overview
 
@@ -28,21 +28,21 @@ Question Bank → Blueprint (geometric layout) → AI Render (GPT-5.4 Image 2) �
 kids_books/
 ├── app.py                       # Streamlit orchestrator (UI + pipeline phases)
 ├── blueprint_generator.py       # Step 1: parse question → geometric blueprint
-├── ai_renderer.py               # Step 2: blueprint → photorealistic AI render
+├── ai_renderer.py               # Step 2: blueprint → AI render
 ├── face_swap_processor.py       # Step 3: swap user faces onto AI characters
-├── fraction_handler.py          # Self-contained fraction question detection & drawing
+├── fraction_handler.py          # Fraction question detection & custom drawing
 ├── role_remapper.py             # Dynamically remap roles to match uploaded face images
 ├── file_handlers.py             # Load question bank topics & questions
 ├── pdf_generator.py             # Generate A4 PDF workbook + cleanup
-├── prompt_builder.py            # Legacy: family context builder
-├── transform_questions.py       # Question text normalization
-├── utils.py                     # safe_text, filename sanitization, detect_role
-├── config.py                    # API keys, model names, pricing, toggles
-├── extracted_bank/              # Grade 1 question bank (master categorized file)
+├── prompt_builder.py            # Family context builder
+├── transform_questions.py       # Question text normalisation
+├── utils.py                     # safe_text, filename sanitisation, detect_role
+├── config.py                    # API keys, model names, toggles
+├── extracted_bank/              # Year 1 question bank (master categorised file)
 │   └── grade_1_uk_year_1_templated_final_categories_visual_static.txt
 ├── question_bank/               # Raw topic-level question files
 ├── assets_cache/objects/        # Static object images for blueprint rendering
-├── personalized_faces/          # User-uploaded face photos
+├── personalised_faces/          # User-uploaded face photos
 ├── kids_books_env/              # Python virtual environment (local)
 ├── .env                         # API keys (not committed)
 ├── .env.example                 # Environment template
@@ -94,22 +94,25 @@ streamlit run app.py
 
 ## Usage
 
-1. Enter student name, gender, family names, and hobbies
+1. Tell us about your child — name, pronouns, favourite colour, pets, hobbies, and family
 2. Upload face photos for family members (optional — AI generates faces if omitted)
-3. Select grade and topics
-4. Click **Generate Personalized Workbook**
+3. Choose a year group and topics
+4. Click **Generate Personalised Workbook**
 5. Download the PDF
 
 ### Face Photo Matching
 
-Uploaded face photos are automatically matched to characters in questions. If a question mentions roles you haven't uploaded photos for, the app dynamically swaps in roles you *did* upload (and updates names/pronouns accordingly). Unmatched roles get AI-generated generic faces.
+Uploaded face photos are automatically matched to characters in questions. If a question mentions roles you haven't uploaded photos for, the app dynamically swaps in roles you *did* upload (and updates names and pronouns accordingly). Unmatched roles get AI-generated generic faces.
 
 ## Key Design Decisions
 
 - **Deterministic blueprints** ensure exact object counts (no hallucinated quantities)
-- **Gender-aware prompts** — "young boy" / "young girl" based on selection
-- **Face preservation mode** uses lower img2img strength (0.4) to keep pasted faces intact
-- **Hobby object replacement** swaps generic objects in questions with the child's interest (e.g. "ball" for football fans)
+- **Pronoun-aware prompts** — "he" / "she" / "they" based on selection
+- **Chest-up portrait framing** — characters shown from chest upward, no legs or ground
+- **Face preservation mode** uses lower img2img strength to keep pasted faces intact
+- **Category-based object replacement** — swap objects by category (food, toys, animals, etc.) with the child's favourites
+- **Number scaling** — all question numbers are scaled to match the child's counting ability
+- **Theme styles** — choose from photorealistic, storybook, cartoon, anime, or pixel art
 - **Temp cleanup** runs immediately after PDF generation (not after download)
-- **Self-contained fraction handling** — `fraction_handler.py` detects fraction types, computes answers, and draws fraction-specific visuals (green rings for circled objects, grouped layouts, subdivided shapes)
-- **Dynamic role remapping** — `role_remapper.py` maximizes uploaded face usage by swapping question roles at runtime
+- **Self-contained fraction handling** — `fraction_handler.py` detects fraction types and draws fraction-specific visuals
+- **Dynamic role remapping** — `role_remapper.py` maximises uploaded face usage by swapping question roles at runtime

@@ -106,7 +106,7 @@ The **Personalized Kids' Math Worksheet Generator** is a Streamlit-based applica
 | Directory | Contents |
 |-----------|----------|
 | `assets_cache/objects/` | 10 AI-generated object PNGs (apple, balloon, book, mango, marble, pencil, shell, sticker, sweet, toy-car) |
-| `personalized_faces/` | 7 uploaded face photos |
+| `personalised_faces/` | 7 uploaded face photos |
 | `segmentation_output/` | 660-line segmentation JSON + 80+ visualization images |
 | `extracted_bank/` | 19 question bank text files for Grade 1 |
 | `question_bank/grade_1/` | 9 individual topic `.txt` files |

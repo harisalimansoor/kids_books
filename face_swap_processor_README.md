@@ -23,7 +23,7 @@ Returns True if both detector and swapper loaded successfully.
 ### `swap_faces(ai_image_path, metadata, face_map) -> str`
 - **`ai_image_path`**: Path to AI-generated JPEG with generic faces
 - **`metadata`**: Blueprint metadata dict with `characters` array (each having `body_rect.x` for L-R ordering)
-- **`face_map`**: Dict mapping `role_key` → user photo file path (e.g. `{"user_name": "personalized_faces/user_face.png"}`)
+- **`face_map`**: Dict mapping `role_key` → user photo file path (e.g. `{"user_name": "personalised_faces/user_face.png"}`)
 - **Returns**: Path to the swapped image (`*_swapped.jpg`) if successful, or the original path if no swap performed
 
 ## Algorithm
@@ -42,4 +42,4 @@ Returns True if both detector and swapper loaded successfully.
 - Face count mismatch is logged but doesn't cause failure — only matches up to the minimum count
 
 ## Script Test
-When run as `__main__`, tests with `test_rendered.jpg`, `test_metadata.json`, and `personalized_faces/` directory.
+When run as `__main__`, tests with `test_rendered.jpg`, `test_metadata.json`, and `personalised_faces/` directory.

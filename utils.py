@@ -93,6 +93,49 @@ def fix_you_verb_conjugation(text: str) -> str:
     return text
 
 
+def fix_verb_for_pronoun(text: str, pronoun: str) -> str:
+    """Fix verb conjugation when '{user_name}' has been replaced with he/she/they."""
+    import re
+    if pronoun in ("he", "she"):
+        fixes = [
+            (rf'\b{pronoun}\s+have\b', f'{pronoun} has'),
+            (rf'\b{pronoun}\s+do\b', f'{pronoun} does'),
+            (rf'\b{pronoun}\s+are\b', f'{pronoun} is'),
+            (rf'\bdo\s+{pronoun}\b', f'does {pronoun}'),
+            (rf'\bhave\s+{pronoun}\b', f'has {pronoun}'),
+            (rf'{pronoun.capitalize()}\s+have\b', f'{pronoun.capitalize()} has'),
+            (rf'{pronoun.capitalize()}\s+do\b', f'{pronoun.capitalize()} does'),
+            (rf'{pronoun.capitalize()}\s+are\b', f'{pronoun.capitalize()} is'),
+            (rf'\bDo\s+{pronoun.capitalize()}\b', f'Does {pronoun.capitalize()}'),
+        ]
+    elif pronoun == "they":
+        fixes = [
+            (r'\bthey\s+has\b', 'they have'),
+            (r'\bthey\s+does\b', 'they do'),
+            (r'\bthey\s+is\b', 'they are'),
+            (r'\bdoes\s+they\b', 'do they'),
+            (r'\bhas\s+they\b', 'have they'),
+            (r'\bThey\s+has\b', 'They have'),
+            (r'\bThey\s+does\b', 'They do'),
+            (r'\bThey\s+is\b', 'They are'),
+            (r'\bDoes\s+They\b', 'Do they'),
+        ]
+    else:
+        return text
+    for pattern, replacement in fixes:
+        text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
+    return text
+
+
+def capitalize_pronoun(text: str, pronoun: str) -> str:
+    """Capitalize pronoun (he/she/they/you) at sentence starts."""
+    import re
+    cap = pronoun.capitalize()
+    text = re.sub(f'^{pronoun}\\b', cap, text)
+    text = re.sub(f'([.!?])\\s+{pronoun}\\b', rf'\1 {cap}', text)
+    return text
+
+
 def detect_role(question_text: str):
     """
     Detects which family role is mentioned in the question.

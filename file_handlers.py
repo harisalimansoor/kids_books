@@ -33,7 +33,7 @@ def _parse_categorized_file(path):
                     categorized_data[current_topic].append(line)
         return categorized_data
     except Exception as e:
-        st.error(f"Error parsing categorized file: {e}")
+        st.error(f"Error parsing the question bank file: {e}")
         return {}
 
 

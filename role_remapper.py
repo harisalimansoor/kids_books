@@ -36,6 +36,7 @@ def remap_question_roles(
     saved_face_paths: dict[str, str],
     replacements: dict[str, str],
     sibling_gender: str = "Boy",
+    user_gender: str = "Boy",
 ) -> tuple[str, str, dict[str, str]]:
     """
     Remap question roles to maximize use of uploaded face images.
@@ -80,8 +81,8 @@ def remap_question_roles(
     # 4. Collect all gender changes before applying (to fix pronouns per-role)
     gender_changes = {}
     for old_role, new_role in remap.items():
-        old_g = _effective_gender(old_role, sibling_gender)
-        new_g = _effective_gender(new_role, sibling_gender)
+        old_g = _effective_gender(old_role, sibling_gender, user_gender)
+        new_g = _effective_gender(new_role, sibling_gender, user_gender)
         if old_g != new_g:
             gender_changes[old_role] = {"from": old_g, "to": new_g}
 
@@ -162,12 +163,12 @@ def _fix_pronouns_for_role(
     return PRONOUN_PATTERNS.sub(_fix_match, text)
 
 
-def _effective_gender(role_key: str, sibling_gender: str) -> str:
+def _effective_gender(role_key: str, sibling_gender: str, user_gender: str = "Boy") -> str:
     """Resolve gender for variable-gender roles (sibling, user)."""
     if role_key == "sibling_name":
         return "male" if sibling_gender == "Boy" else "female"
     if role_key == "user_name":
-        return "male" if sibling_gender == "Boy" else "female"
+        return "male" if user_gender == "Boy" else "female"
     return ROLE_GENDER.get(role_key, "male")
 
 
