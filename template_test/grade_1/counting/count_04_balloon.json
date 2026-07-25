@@ -1,0 +1,50 @@
+{
+  "template_id": "counting_04_balloon",
+  "question_type": "counting",
+  "topic": "numbers_to_10",
+  "grade": 1,
+  "count": 4,
+  "object": "balloon",
+  "scene_description": "A bright outdoor birthday garden party scene with a blue sky and green grass. A happy child (age 5-6) with curly hair stands in the centre-left, wearing a striped party hat and a yellow t-shirt, smiling and looking up. The child holds 4 balloon strings in one hand. Above the child, exactly 4 large balloons float in the air \u2014 one red, one blue, one yellow, one green. Each balloon is clearly separate, spaced apart, and individually countable. No extra balloons or decorations in the background.",
+  "full_prompt": "Draw a children's maths workbook illustration. A bright outdoor birthday garden party scene with a blue sky and green grass. A happy child (age 5-6) with curly hair stands in the centre-left, wearing a striped party hat and a yellow t-shirt, smiling and looking up. The child holds 4 balloon strings in one hand. Above the child, exactly 4 large balloons float in the air \u2014 one red, one blue, one yellow, one green. Each balloon is clearly separate, spaced apart, and individually countable. No extra balloons or decorations in the background.\n\nCRITICAL RULE: There must be EXACTLY 4 balloon(s) \u2014 no more, no less. Count them before finishing.\n\nART STYLE: bright modern flat-design children's book illustration. Bold clean outlines. Warm vibrant pastel colours. NO text, NO numbers, NO labels anywhere in the image. Wide landscape composition. Objects must be large, clearly separated, easy to count. Characters should look natural and engaged with the scene. High quality, print-ready for a Year 1 maths workbook.",
+  "image_file": "count_04_balloon.png",
+  "generated_at": "2026-07-11T13:14:36.734293",
+  "model": "openai/gpt-5.4-image-2",
+  "face_slots": [
+    "child"
+  ],
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 334,
+      "y": 489,
+      "w": 152,
+      "h": 165
+    }
+  ],
+  "object_positions": [
+    {
+      "label": "balloon",
+      "count": 4,
+      "positions": [
+        {
+          "x": 355,
+          "y": 154
+        },
+        {
+          "x": 518,
+          "y": 128
+        },
+        {
+          "x": 671,
+          "y": 155
+        },
+        {
+          "x": 828,
+          "y": 197
+        }
+      ]
+    }
+  ],
+  "notes": "TODO: Open image and annotate face_regions (pixel coordinates of the child's face) and object_positions (pixel coordinates of each countable object). These are required before production use."
+}

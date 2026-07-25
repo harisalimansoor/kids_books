@@ -1,0 +1,32 @@
+{
+  "template_id": "kitchen_ice_cream_father_child",
+  "image_file": "kitchen_ice_cream_father_child.png",
+  "scene": "kitchen",
+  "favorite_food": "Ice cream",
+  "family": [
+    "father",
+    "child"
+  ],
+  "face_slots": [
+    "child",
+    "father_name"
+  ],
+  "face_regions": [],
+  "objects": [
+    {
+      "id": 1,
+      "type": "ice cream",
+      "count": 3,
+      "description": "3 colourful waffle cone ice creams with scoops of strawberry and vanilla",
+      "positions": []
+    }
+  ],
+  "supported_question_types": [
+    "counting",
+    "positions",
+    "visual_search",
+    "family_recognition",
+    "action_recognition"
+  ],
+  "prompt": "Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his father in a sunlit modern kitchen.\n\nNATURAL INTERACTION & EXPRESSIONS:\n- They are cheerfully enjoying colourful ice cream waffle cones together.\n- Natural, candid expressions: laughing happily with sparkling, cheerful eyes, sharing a joyful lighthearted moment.\n- There are exactly 3 colourful ice cream waffle cones being held in their hands and on a stand on the counter.\n\nCOMPOSITION & FRAMING:\n- Position BOTH characters centered in the frame (medium chest-up shot).\n- Ample breathing room and a detailed kitchen background (wooden cabinets, window light, kitchen plants) visible all around them.\n\nSTYLE & LIGHTING:\n- Ultra-realistic, bright, warm, colourful and cheerful.\n- BACKGROUND FOCUS: Crystal clear, fully sharp focus. NO background blur, NO bokeh blur. Every kitchen detail is sharp.\n\nCRITICAL CONSTRAINTS:\n- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 father. NO extra people.\n- Natural, candid, laughing expressions with expressive eyes.\n- Exactly 3 distinct, countable ice cream cones held clearly.\n- Characters centered in frame.\n- Crisp clear background focus \u2014 NO blur.\n- No text, no numbers.\n- Image size: 1024x1024 pixels square."
+}

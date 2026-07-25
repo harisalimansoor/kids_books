@@ -1,0 +1,55 @@
+{
+  "template_id": "counting_05_grandfather",
+  "question_type": "counting",
+  "count": 5,
+  "object": "placeholder_box",
+  "style": "photorealistic",
+  "face_slots": [
+    "child",
+    "grandfather_name"
+  ],
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 570,
+      "y": 221,
+      "w": 131,
+      "h": 178
+    },
+    {
+      "role": "grandfather_name",
+      "x": 367,
+      "y": 61,
+      "w": 170,
+      "h": 265
+    }
+  ],
+  "object_positions": [
+    {
+      "label": "placeholder_box",
+      "count": 5,
+      "positions": [
+        {
+          "x": 172,
+          "y": 822
+        },
+        {
+          "x": 342,
+          "y": 824
+        },
+        {
+          "x": 501,
+          "y": 823
+        },
+        {
+          "x": 672,
+          "y": 822
+        },
+        {
+          "x": 840,
+          "y": 821
+        }
+      ]
+    }
+  ]
+}

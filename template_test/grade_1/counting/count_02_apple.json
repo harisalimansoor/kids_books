@@ -1,0 +1,42 @@
+{
+  "template_id": "counting_02_apple",
+  "question_type": "counting",
+  "topic": "numbers_to_10",
+  "grade": 1,
+  "count": 2,
+  "object": "apple",
+  "scene_description": "A warm sunny kitchen with a light yellow background. A cheerful young child (age 5-6) with short dark hair stands smiling on the LEFT side of the image, wearing a bright red t-shirt, arms slightly open in a welcoming gesture. On a wooden table to the RIGHT of the child, exactly 2 large bright red shiny apples sit clearly spaced apart \u2014 one apple on the left of the table, one apple on the right of the table. The apples are large, easy to distinguish, and separated by a clear gap. No other fruits or objects on the table.",
+  "full_prompt": "Draw a children's maths workbook illustration. A warm sunny kitchen with a light yellow background. A cheerful young child (age 5-6) with short dark hair stands smiling on the LEFT side of the image, wearing a bright red t-shirt, arms slightly open in a welcoming gesture. On a wooden table to the RIGHT of the child, exactly 2 large bright red shiny apples sit clearly spaced apart \u2014 one apple on the left of the table, one apple on the right of the table. The apples are large, easy to distinguish, and separated by a clear gap. No other fruits or objects on the table.\n\nCRITICAL RULE: There must be EXACTLY 2 apple(s) \u2014 no more, no less. Count them before finishing.\n\nART STYLE: bright modern flat-design children's book illustration. Bold clean outlines. Warm vibrant pastel colours. NO text, NO numbers, NO labels anywhere in the image. Wide landscape composition. Objects must be large, clearly separated, easy to count. Characters should look natural and engaged with the scene. High quality, print-ready for a Year 1 maths workbook.",
+  "image_file": "count_02_apple.png",
+  "generated_at": "2026-07-11T13:11:39.919948",
+  "model": "openai/gpt-5.4-image-2",
+  "face_slots": [
+    "child"
+  ],
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 117,
+      "y": 220,
+      "w": 216,
+      "h": 238
+    }
+  ],
+  "object_positions": [
+    {
+      "label": "apple",
+      "count": 2,
+      "positions": [
+        {
+          "x": 538,
+          "y": 715
+        },
+        {
+          "x": 891,
+          "y": 714
+        }
+      ]
+    }
+  ],
+  "notes": "TODO: Open image and annotate face_regions (pixel coordinates of the child's face) and object_positions (pixel coordinates of each countable object). These are required before production use."
+}

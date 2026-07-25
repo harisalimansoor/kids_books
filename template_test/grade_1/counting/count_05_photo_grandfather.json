@@ -1,0 +1,13 @@
+{
+  "template_id": "counting_05_grandfather",
+  "question_type": "counting",
+  "count": 5,
+  "object": "placeholder_box",
+  "style": "photorealistic",
+  "face_slots": [
+    "child",
+    "grandfather_name"
+  ],
+  "face_regions": [],
+  "object_positions": []
+}

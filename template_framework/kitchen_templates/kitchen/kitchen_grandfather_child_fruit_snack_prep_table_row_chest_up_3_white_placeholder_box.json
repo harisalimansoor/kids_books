@@ -1,0 +1,48 @@
+{
+  "template_id": "kitchen_grandfather_child_fruit_snack_prep_table_row_chest_up_3_white_placeholder_box",
+  "image_file": "kitchen_grandfather_child_fruit_snack_prep_table_row_chest_up_3_white_placeholder_box.png",
+  "scene": "kitchen",
+  "family": [
+    "grandfather",
+    "child"
+  ],
+  "activity": "fruit_snack_prep",
+  "camera": "chest_up",
+  "object_layout": "table_row",
+  "objects": [
+    {
+      "id": 1,
+      "type": "placeholder_box",
+      "count": 3,
+      "positions": []
+    }
+  ],
+  "face_slots": [
+    "child",
+    "grandfather_name"
+  ],
+  "face_regions": [],
+  "supported_question_types": [
+    "counting",
+    "positions",
+    "visual_search",
+    "family_recognition",
+    "comparison",
+    "greater_less",
+    "action_recognition"
+  ],
+  "difficulty": "beginner",
+  "age_group": "4-7",
+  "tags": [
+    "indoor",
+    "home",
+    "food",
+    "kitchen",
+    "family",
+    "grandparent",
+    "active",
+    "healthy",
+    "fruit"
+  ],
+  "prompt": "Create a photorealistic image of a young boy (Grade 1 student, exactly 5-6 years old) and his grandfather. The child is noticeably smaller than his grandfather.\n\nENVIRONMENT & COMPOSITION:\n- Setting: a spacious, bright, vibrant modern kitchen with crisp sharp background details, marble countertops, wooden cabinets, windows, kitchen island, and a rich, detailed background showing utensils and appliances clearly with generous visible room around the characters.\n- Activity: They are washing and arranging fresh fruit in a bright kitchen sink/counter area. They are smiling together while holding white placeholder boxes near a wooden fruit bowl.\n- Framing: Position both characters in the CENTER of the image frame. Provide generous breathing room and show plenty of the surrounding detailed kitchen background (cabinets, countertops, utensils, appliances) above, behind, and beside them.\n\nCHARACTER INTERACTION:\n- Both characters are looking warmly at each other and smiling.\n- They are actively interacting with each other and physically holding or touching the white placeholder boxes together.\n\nCHILD AGE \u2014 CRITICALLY IMPORTANT:\n- The child MUST look exactly 5-6 years old. He is in Grade 1.\n- He must have a small, round child's head, chubby cheeks, small nose, bright wide eyes.\n- He must NOT look like a teenager, pre-teen, or older than 6 years old.\n\nCAMERA & PLACEHOLDERS:\n- MEDIUM CHEST-UP shot \u2014 characters are centered in the middle of the frame, showing faces, necks, shoulders, hands, and upper chest. Cut off at the waist/counter edge. Both characters interact and face slightly toward each other with front-facing faces (no side profiles). Ample breathing room and crystal-clear detailed kitchen background visible all around them.\n- On the kitchen counter surface in front of them (or held in their hands), place exactly 3 clearly separated, identical plain white rounded square placeholder boxes in a row. They must be distinct, non-overlapping, and countable.\n- The characters are holding or touching these plain white boxes, interacting with them naturally.\n\nSTYLE & LIGHTING:\n- Ultra-realistic, bright warm lighting, highly vibrant and cheerful colours.\n- BACKGROUND FOCUS: Crystal clear, fully sharp background focus. Absolutely NO background blur, NO bokeh, NO depth of field blur. All background kitchen details must be crisp and in sharp focus.\n\nCRITICAL CONSTRAINTS:\n- Child must be 5-6 years old (Grade 1). NOT older.\n- Characters centered in frame with ample visible background around them.\n- Clear, crisp background focus \u2014 NO background blur.\n- Vibrant, bright colors and cheerful lighting.\n- Exactly 3 plain white placeholder boxes visible \u2014 separated, non-overlapping, and countable.\n- No text, no numbers, no words in the image.\n- Image size: 1024x1024 pixels square."
+}

@@ -1,0 +1,58 @@
+{
+  "template_id": "counting_06_cupcake",
+  "question_type": "counting",
+  "topic": "numbers_to_10",
+  "grade": 1,
+  "count": 6,
+  "object": "cupcake",
+  "scene_description": "A cosy pastel-coloured bakery counter with a pink background. A young child (age 5-6) wearing a small white apron stands on the LEFT, smiling proudly with arms slightly spread. On the counter surface in front of the child to the RIGHT, exactly 6 iced cupcakes are arranged in a single neat row. Each cupcake has a different coloured frosting: pink, blue, yellow, green, purple, orange. Cupcakes are evenly spaced, clearly separate, and easy to count individually. No extra baked goods or objects.",
+  "full_prompt": "Draw a children's maths workbook illustration. A cosy pastel-coloured bakery counter with a pink background. A young child (age 5-6) wearing a small white apron stands on the LEFT, smiling proudly with arms slightly spread. On the counter surface in front of the child to the RIGHT, exactly 6 iced cupcakes are arranged in a single neat row. Each cupcake has a different coloured frosting: pink, blue, yellow, green, purple, orange. Cupcakes are evenly spaced, clearly separate, and easy to count individually. No extra baked goods or objects.\n\nCRITICAL RULE: There must be EXACTLY 6 cupcake(s) \u2014 no more, no less. Count them before finishing.\n\nART STYLE: bright modern flat-design children's book illustration. Bold clean outlines. Warm vibrant pastel colours. NO text, NO numbers, NO labels anywhere in the image. Wide landscape composition. Objects must be large, clearly separated, easy to count. Characters should look natural and engaged with the scene. High quality, print-ready for a Year 1 maths workbook.",
+  "image_file": "count_06_cupcake.png",
+  "generated_at": "2026-07-11T13:17:00.076713",
+  "model": "openai/gpt-5.4-image-2",
+  "face_slots": [
+    "child"
+  ],
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 142,
+      "y": 174,
+      "w": 207,
+      "h": 213
+    }
+  ],
+  "object_positions": [
+    {
+      "label": "cupcake",
+      "count": 6,
+      "positions": [
+        {
+          "x": 155,
+          "y": 610
+        },
+        {
+          "x": 326,
+          "y": 609
+        },
+        {
+          "x": 477,
+          "y": 608
+        },
+        {
+          "x": 629,
+          "y": 607
+        },
+        {
+          "x": 776,
+          "y": 604
+        },
+        {
+          "x": 917,
+          "y": 606
+        }
+      ]
+    }
+  ],
+  "notes": "TODO: Open image and annotate face_regions (pixel coordinates of the child's face) and object_positions (pixel coordinates of each countable object). These are required before production use."
+}

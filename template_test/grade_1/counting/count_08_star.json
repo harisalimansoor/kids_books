@@ -1,0 +1,66 @@
+{
+  "template_id": "counting_08_star",
+  "question_type": "counting",
+  "topic": "numbers_to_10",
+  "grade": 1,
+  "count": 8,
+  "object": "star",
+  "scene_description": "A bright cheerful classroom with a light blue background and a chalkboard on the wall. A young child (age 5-6) sits at a blue wooden desk, leaning forward excitedly. On the desk directly in front of the child, exactly 8 large golden glittery star stickers are arranged in two neat rows of 4. Each star sticker is distinct, shiny, and clearly spaced from the others. No other objects on the desk. Stars must be large enough to count easily.",
+  "full_prompt": "Draw a children's maths workbook illustration. A bright cheerful classroom with a light blue background and a chalkboard on the wall. A young child (age 5-6) sits at a blue wooden desk, leaning forward excitedly. On the desk directly in front of the child, exactly 8 large golden glittery star stickers are arranged in two neat rows of 4. Each star sticker is distinct, shiny, and clearly spaced from the others. No other objects on the desk. Stars must be large enough to count easily.\n\nCRITICAL RULE: There must be EXACTLY 8 star(s) \u2014 no more, no less. Count them before finishing.\n\nART STYLE: bright modern flat-design children's book illustration. Bold clean outlines. Warm vibrant pastel colours. NO text, NO numbers, NO labels anywhere in the image. Wide landscape composition. Objects must be large, clearly separated, easy to count. Characters should look natural and engaged with the scene. High quality, print-ready for a Year 1 maths workbook.",
+  "image_file": "count_08_star.png",
+  "generated_at": "2026-07-11T13:19:28.396837",
+  "model": "openai/gpt-5.4-image-2",
+  "face_slots": [
+    "child"
+  ],
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 364,
+      "y": 150,
+      "w": 307,
+      "h": 333
+    }
+  ],
+  "object_positions": [
+    {
+      "label": "star",
+      "count": 8,
+      "positions": [
+        {
+          "x": 199,
+          "y": 674
+        },
+        {
+          "x": 404,
+          "y": 676
+        },
+        {
+          "x": 606,
+          "y": 674
+        },
+        {
+          "x": 818,
+          "y": 676
+        },
+        {
+          "x": 160,
+          "y": 827
+        },
+        {
+          "x": 389,
+          "y": 828
+        },
+        {
+          "x": 611,
+          "y": 829
+        },
+        {
+          "x": 835,
+          "y": 825
+        }
+      ]
+    }
+  ],
+  "notes": "TODO: Open image and annotate face_regions (pixel coordinates of the child's face) and object_positions (pixel coordinates of each countable object). These are required before production use."
+}

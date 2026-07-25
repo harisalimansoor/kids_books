@@ -1,0 +1,39 @@
+{
+  "template_id": "park_grandfather_child_playing_ground_scattered_eye_level_5",
+  "image_file": "park_grandfather_child_playing_ground_scattered_eye_level_5.png",
+  "scene": "park",
+  "family_configuration": "grandfather_child",
+  "activity": "playing",
+  "camera": "eye_level",
+  "object_layout": "ground_scattered",
+  "placeholder_count": 5,
+  "object": "placeholder_box",
+  "style": "photorealistic",
+  "face_slots": [
+    "child",
+    "grandfather_name"
+  ],
+  "face_regions": [],
+  "object_positions": [],
+  "question_types_supported": [
+    "counting",
+    "positions",
+    "visual_search",
+    "family_recognition",
+    "comparison",
+    "greater_less",
+    "action_recognition"
+  ],
+  "difficulty": "beginner",
+  "age_group": "4-7",
+  "tags": [
+    "outdoor",
+    "nature",
+    "sunny",
+    "family",
+    "grandparent",
+    "active",
+    "fun"
+  ],
+  "prompt": "Create a photorealistic image of a young boy (Grade 1 student, exactly 5-6 years old) and his grandfather. The child is noticeably smaller and shorter than his grandfather.\n\nENVIRONMENT:\n- Setting: a bright, sunny green park with trees in the background.\n- Activity: They are smiling and pointing playfully together.\n\nCHILD AGE \u2014 CRITICALLY IMPORTANT:\n- The child MUST look exactly 5-6 years old. He is in Grade 1.\n- He must have a small, round child's head, chubby cheeks, small nose, bright wide eyes.\n- He must NOT look like a teenager, pre-teen, or older than 6 years old.\n\nCOMPOSITION & CAMERA:\n- EYE-LEVEL medium shot. Characters are clearly visible from the waist up. Front-facing faces, no side profiles.\n- On the ground near them, scatter exactly 5 clearly separated white rounded square placeholder boxes. They must not overlap.\n\nSTYLE:\n- Ultra-realistic, cinematic lighting, high detail, soft blurred background.\n- The characters are interacting joyfully.\n\nCRITICAL CONSTRAINTS:\n- Child must be 5-6 years old (Grade 1). NOT older.\n- Exactly 5 white placeholder boxes. They must be clearly separated and countable.\n- No text, no numbers, no words in the image.\n- Image size: 1024x1024 pixels square."
+}
