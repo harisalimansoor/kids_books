@@ -35,65 +35,92 @@ EXPECTED_COUNT = 6
 IMAGE_FILE = "generated.png"
 
 ###########################################################
-# Generate Image
+# Extract Image (same logic as ai_renderer.py)
 ###########################################################
 
-generation_prompt = f"""
-Generate a photorealistic image.
+def extract_image(response_json):
+    """
+    Extract image URL or base64 data from an OpenRouter response.
+    Supports multiple response formats.
+    """
 
-Requirements:
+    message = response_json.get("choices", [{}])[0].get("message", {})
 
-- Exactly {EXPECTED_COUNT} {OBJECT_NAME}s.
-- Arrange them naturally.
-- White background.
-- No people.
-- No text.
-- No watermark.
-- High quality.
-"""
+    # Format 1
+    images = message.get("images", [])
+    if images and isinstance(images, list):
+        url = images[0].get("image_url", {}).get("url")
+        if url:
+            return url
 
-print("=" * 60)
-print("Generating image...")
-print("=" * 60)
+    # Format 2
+    content = message.get("content", "")
 
-headers = {
-    "Authorization": f"Bearer {API_KEY}",
-    "Content-Type": "application/json"
-}
+    if isinstance(content, list):
+        for block in content:
 
-payload = {
-    "model": IMAGE_MODEL,
-    "messages": [
-        {
-            "role": "user",
-            "content": generation_prompt
-        }
-    ]
-}
+            if not isinstance(block, dict):
+                continue
 
-response = requests.post(
-    "https://openrouter.ai/api/v1/chat/completions",
-    headers=headers,
-    json=payload
-)
+            if block.get("type") == "image_url":
+                return block.get("image_url", {}).get("url")
 
-response.raise_for_status()
+            text = block.get("text", "")
+            if isinstance(text, str) and text.startswith("data:image"):
+                return text
 
-result = response.json()
+    # Format 3
+    if isinstance(content, str) and content.startswith("data:image"):
+        return content
 
-###########################################################
-# Extract Base64 Image
-###########################################################
+    return None
 
-try:
-    image_b64 = result["choices"][0]["message"]["images"][0]["image_base64"]
-except Exception:
+
+def save_image(image_data, save_path):
+    """
+    Save image returned from OpenRouter.
+    Supports both URLs and base64 data URLs.
+    """
+
+    if image_data.startswith("data:image"):
+
+        _, encoded = image_data.split(",", 1)
+
+        image = Image.open(BytesIO(base64.b64decode(encoded)))
+
+        image.convert("RGB").save(
+            save_path,
+            format="PNG"
+        )
+
+        return True
+
+    # Download URL
+    response = requests.get(image_data)
+
+    if response.status_code != 200:
+        return False
+
+    image = Image.open(BytesIO(response.content))
+
+    image.convert("RGB").save(
+        save_path,
+        format="PNG"
+    )
+
+    return True
+
+
+image_data = extract_image(result)
+
+if image_data is None:
     print(json.dumps(result, indent=4))
-    raise Exception("Could not find generated image.")
+    raise Exception("No image found in API response.")
 
-image = Image.open(BytesIO(base64.b64decode(image_b64)))
-image.save(IMAGE_FILE)
+if not save_image(image_data, IMAGE_FILE):
+    raise Exception("Failed to save image.")
 
+print(f"\nImage saved as {IMAGE_FILE}")
 print(f"\nImage saved as {IMAGE_FILE}")
 
 ###########################################################

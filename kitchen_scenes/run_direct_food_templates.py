@@ -209,24 +209,135 @@ CRITICAL CONSTRAINTS:
         "scene_prompt": """
 Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his father in a warm, modern kitchen.
 
+CRITICAL POSING REQUIREMENT:
+- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.
+- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.
+
 OUTFITS & WARM EXPRESSIONS:
-- They are wearing chef aprons, making homemade chocolate treats together.
-- Genuine, warm smiles with a loving look and friendly, happy eyes.
+- They are wearing chef aprons, making homemade chocolate treats.
+- Genuine, warm smiles with a loving look and friendly, happy eyes facing the camera.
 - Holding and arranging 4 delicious, glossy chocolate truffles on a marble serving tray on the counter.
 
 COMPOSITION & FRAMING:
 - Position BOTH characters centered in the frame (medium chest-up shot).
-- Spacious composition with rich kitchen background details (cabinets, chocolate bowls, window light) visible all around.
+- Spacious composition with rich kitchen background details visible all around.
 
 STYLE & LIGHTING:
 - Ultra-realistic, warm vibrant lighting, rich colourful details.
-- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur, NO bokeh.
+- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur.
 
 CRITICAL CONSTRAINTS:
+- DIRECT FRONT-FACING HEADS. Both looking exactly at the camera.
 - STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 father.
-- Gentle, warm, genuine smiles with friendly eyes.
-- Exactly 4 distinct, countable chocolate truffles visible on tray and in hands.
-- Characters centered in frame.
+- Exactly 4 distinct, countable chocolate truffles.
+- Crisp clear background focus — NO blur.
+- No text, no numbers.
+- Image size: 1024x1024 pixels square.
+""".strip()
+    },
+    {
+        "id": "kitchen_cupcakes_mother_child",
+        "food": "Cupcakes",
+        "item_description": "4 colourful decorated cupcakes on a stand",
+        "item_count": 4,
+        "family": "mother_child",
+        "face_slots": ["child", "mother_name"],
+        "scene_prompt": """
+Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his mother in a bright modern kitchen.
+
+CRITICAL POSING REQUIREMENT:
+- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.
+- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.
+
+OUTFITS & WARM EXPRESSIONS:
+- They are in the kitchen enjoying decorated cupcakes.
+- Genuine, warm smiles with a loving look and friendly, happy eyes facing the camera.
+- Holding and interacting with exactly 4 colourful decorated cupcakes on a stand on the counter.
+
+COMPOSITION & FRAMING:
+- Position BOTH characters centered in the frame (medium chest-up shot).
+- Spacious composition with rich kitchen background details visible all around.
+
+STYLE & LIGHTING:
+- Ultra-realistic, bright warm lighting, highly vibrant and cheerful colours.
+- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur.
+
+CRITICAL CONSTRAINTS:
+- DIRECT FRONT-FACING HEADS. Both looking exactly at the camera.
+- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 mother.
+- Exactly 4 distinct, countable cupcakes.
+- Crisp clear background focus — NO blur.
+- No text, no numbers.
+- Image size: 1024x1024 pixels square.
+""".strip()
+    },
+    {
+        "id": "kitchen_noodles_father_child",
+        "food": "Noodles",
+        "item_description": "2 bowls of delicious steaming noodles with chopsticks",
+        "item_count": 2,
+        "family": "father_child",
+        "face_slots": ["child", "father_name"],
+        "scene_prompt": """
+Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his father in a cozy kitchen.
+
+CRITICAL POSING REQUIREMENT:
+- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.
+- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.
+
+OUTFITS & WARM EXPRESSIONS:
+- They are getting ready to eat some tasty noodles.
+- Genuine, warm smiles with a loving look and friendly, happy eyes facing the camera.
+- Interacting with exactly 2 bowls of delicious steaming noodles with chopsticks on the counter.
+
+COMPOSITION & FRAMING:
+- Position BOTH characters centered in the frame (medium chest-up shot).
+- Spacious composition with rich kitchen background details visible all around.
+
+STYLE & LIGHTING:
+- Ultra-realistic, warm inviting lighting, vibrant colours.
+- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur.
+
+CRITICAL CONSTRAINTS:
+- DIRECT FRONT-FACING HEADS. Both looking exactly at the camera.
+- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 father.
+- Exactly 2 distinct, countable bowls of noodles.
+- Crisp clear background focus — NO blur.
+- No text, no numbers.
+- Image size: 1024x1024 pixels square.
+""".strip()
+    },
+    {
+        "id": "kitchen_pasta_mother_child",
+        "food": "Pasta",
+        "item_description": "2 large plates of delicious pasta with tomato sauce",
+        "item_count": 2,
+        "family": "mother_child",
+        "face_slots": ["child", "mother_name"],
+        "scene_prompt": """
+Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his mother in a bright modern kitchen.
+
+CRITICAL POSING REQUIREMENT:
+- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.
+- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.
+
+OUTFITS & WARM EXPRESSIONS:
+- They are enjoying a family pasta dinner.
+- Genuine, warm smiles with a loving look and friendly, happy eyes facing the camera.
+- Interacting with exactly 2 large plates of delicious pasta with tomato sauce on the counter.
+
+COMPOSITION & FRAMING:
+- Position BOTH characters centered in the frame (medium chest-up shot).
+- Spacious composition with rich kitchen background details visible all around.
+
+STYLE & LIGHTING:
+- Ultra-realistic, bright warm lighting, highly vibrant and cheerful colours.
+- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur.
+
+CRITICAL CONSTRAINTS:
+- DIRECT FRONT-FACING HEADS. Both looking exactly at the camera.
+- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 mother.
+- Exactly 2 distinct, countable plates of pasta.
 - Crisp clear background focus — NO blur.
 - No text, no numbers.
 - Image size: 1024x1024 pixels square.

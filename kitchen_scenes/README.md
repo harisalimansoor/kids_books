@@ -1,6 +1,6 @@
-# 🍳 Kitchen Scenes — Personalised Educational Image & Quiz Pipeline
+# 🍳 Kitchen Scenes — Personalised Educational Image Pipeline
 
-An end-to-end framework for generating **photorealistic 2-character kitchen interaction templates**, automating **face-swapping & AI seamless face blending**, and generating **aligned Grade 1 educational question sets** for early learners (aged 5–6).
+An end-to-end framework for generating **photorealistic 2-character kitchen interaction templates**, automating **face-swapping & AI seamless face blending**, and producing high-fidelity personalized storybook scenes for early learners (aged 5–6).
 
 ---
 
@@ -9,15 +9,14 @@ An end-to-end framework for generating **photorealistic 2-character kitchen inte
 ```
 kitchen_scenes/
 ├── README.md                      # Pipeline documentation
-├── annotate_template.py           # GUI Annotation Tool for face region bounding boxes
-├── run_direct_food_templates.py   # Step 1: Template Generator script
-├── run_direct_pipeline.py         # Step 2-4: Face Swap, AI Blend & Quiz Generator
+├── annotate_template.py           # OpenCV GUI annotation tool for face region bounding boxes
+├── run_direct_food_templates.py   # Step 1: Base template generator script
+├── run_direct_pipeline.py         # Step 2-3: Face swapping & AI seamless face blending
 ├── sample_characters/             # Sample user face photos for swapping
 │   ├── new_child.jpg
 │   ├── new_mother.jpg
-│   ├── grade1_child.jpg
-│   ├── mother.jpg
-│   └── grandfather.jpg
+│   ├── new_father.jpg
+│   └── new_grandmother.jpg
 ├── direct_food_templates/         # Base interaction templates (.png + .json metadata)
 │   ├── kitchen_pizza_mother_child.png / .json
 │   ├── kitchen_baking_cookies_mother_child.png / .json
@@ -26,11 +25,14 @@ kitchen_scenes/
 │   ├── kitchen_burgers_father_child.png / .json
 │   ├── kitchen_making_chocolates_father_child.png / .json
 │   ├── kitchen_pancake_breakfast_grandfather_child.png / .json
-│   └── kitchen_making_smoothies_grandmother_child.png / .json
+│   ├── kitchen_making_smoothies_grandmother_child.png / .json
+│   ├── kitchen_cupcakes_mother_child.png / .json
+│   ├── kitchen_noodles_father_child.png / .json
+│   └── kitchen_pasta_mother_child.png / .json
 └── pipeline_output/               # Generated output artifacts
-    ├── ali_kitchen_baking_cookies_mother_child_swapped.png
     ├── ali_kitchen_baking_cookies_mother_child_blended.png
-    └── ali_kitchen_baking_cookies_mother_child_questions.json
+    ├── ali_kitchen_ice_cream_father_child_blended.png
+    └── ali_kitchen_making_smoothies_grandmother_child_blended.png
 ```
 
 ---
@@ -46,25 +48,19 @@ kitchen_scenes/
                 ▼
 ┌────────────────────────────────┐
 │  2. Face Annotation            │ ──► Annotates face_regions bounding boxes in template JSON
-│     (x, y, width, height)      │     for 'child' and 'mother_name' / 'father_name'
+│     (annotate_template.py)     │     for 'child' and 'mother_name' / 'father_name' / 'grandmother_name'
 └───────────────┬────────────────┘
                 │
                 ▼
 ┌────────────────────────────────┐
-│  3. Face Swapping & Crop       │ ──► Performs top-centre face crop, per-channel brightness
+│  3. Face Swapping (In-Memory)  │ ──► Performs top-centre face crop, per-channel brightness
 │     (swap_faces)               │     normalisation & soft feathered mask pasting
 └───────────────┬────────────────┘
                 │
                 ▼
 ┌────────────────────────────────┐
-│  4. AI Seamless Face Blending  │ ──► Passes pasted image to OpenRouter image model to blend
-│     (ai_blend_faces)           │     skin tones, lighting & edges while PRESERVING face angles
-└───────────────┬────────────────┘
-                │
-                ▼
-┌────────────────────────────────┐
-│  5. Vision Quiz Generation     │ ──► GPT-4o analyzes final scene & generates 5 personalised
-│     (generate_questions)       │     Grade 1 questions (Counting, Family, Action, Food)
+│  4. AI Seamless Face Blending  │ ──► Passes pasted image to OpenRouter AI image model to blend
+│     (ai_blend_faces)           │     skin tones, lighting, and adapt joyful facial expressions
 └────────────────────────────────┘
 ```
 
@@ -77,60 +73,74 @@ Generates 1024x1024 photorealistic interaction scenes adhering to strict design 
 - **Strict 2-Character Constraint**: Exactly 1 Child (Grade 1, 5-6yo) + 1 Adult (Mother, Father, Grandfather, Grandmother).
 - **Warm Facial Expressions**: Mandated gentle, warm, genuine smiles with friendly expressive eyes.
 - **Crisp Sharp Background**: Fully sharp focus throughout — NO bokeh or background blur so background objects remain countable and recognizable for learning.
-- **Item Count Precision**: Exact object counts (e.g. 4 pizza slices, 4 cookies, 3 burgers) clearly visible on counters/plates.
+- **Item Count Precision**: Exact object counts (e.g. 4 pizza slices, 4 cookies, 3 burgers, 4 smoothies) clearly visible on counters/plates.
 
-### Step 2: Face Region Annotation (`direct_food_templates/*.json`)
-Metadata files store template properties and face bounding boxes:
+### Step 2: Face Region Annotation (`annotate_template.py`)
+Launches a simplified OpenCV GUI tool focused strictly on face bounding box selection. Real pixel coordinates are scaled and saved directly to the template's `.json` metadata file:
 ```json
 {
-  "template_id": "kitchen_baking_cookies_mother_child",
-  "favorite_food": "Cookies",
-  "face_slots": ["child", "mother_name"],
+  "template_id": "kitchen_making_smoothies_grandmother_child",
+  "favorite_food": "Smoothies",
+  "face_slots": ["child", "grandmother_name"],
   "face_regions": [
-    { "role": "child", "x": 246, "y": 314, "w": 159, "h": 200 },
-    { "role": "mother_name", "x": 508, "y": 213, "w": 150, "h": 219 }
+    { "role": "child", "x": 240, "y": 284, "w": 223, "h": 223 },
+    { "role": "grandmother_name", "x": 489, "y": 80, "w": 244, "h": 306 }
   ],
-  "objects": [{ "type": "cookies", "count": 4 }]
+  "annotation_complete": true
 }
 ```
 
 ### Step 3: Precise Face Swapping (`swap_faces`)
 1. **Top-Centre Crop**: Extracts a square crop from the user photo focusing on head and forehead.
-2. **Luminance Matching**: Normalises RGB channels to match ambient lighting of the template region.
-3. **Feathered Elliptical Mask**: Applies smooth Gaussian blur along mask edges.
+2. **Luminance Normalization**: Normalizes RGB channels to match ambient lighting of the target template region.
+3. **Feathered Elliptical Mask**: Applies smooth Gaussian blur along mask edges and pastes face in-memory.
 
-### Step 4: AI Face Blending (`ai_blend_faces`)
-Sends the face-pasted image to `gpt-5.4-image-2` via OpenRouter to seamlessly blend skin tone, lighting, and hair transitions while preserving:
+### Step 4: AI Face Blending & Expression Adaptation (`ai_blend_faces`)
+Sends the face-pasted image in-memory to `openai/gpt-5.4-image-2` via OpenRouter to seamlessly blend skin tone, lighting, and hair transitions while preserving:
 - **Exact Head Pose & Face Angle** of the template character.
-- **Natural Warm Expressions & Eye Gaze**.
-- **Kitchen Scene & Food Items**.
-
-### Step 5: Educational Quiz Generation (`generate_questions`)
-GPT-4o inspects the final scene and creates a personalized 5-question Grade 1 quiz:
-1. **Counting**: *"How many cookies can you count?"*
-2. **Family Recognition**: *"Who is with Ali in the kitchen?"*
-3. **Action Recognition**: *"What are Ali and his Mother doing?"*
-4. **Comparison**: *"Are there more than 2 cookies in the picture?"*
-5. **Favourite Food**: *"What is Ali's favourite food in the picture?"*
+- **Joyful Expression Adaptation**: Adapts the facial expressions of the new faces to match the huge, laughing, candid, warm smiles of the template.
+- **Kitchen Scene & Food Items Preservation**.
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run the Pipeline
 
-### 1. Execute Full End-to-End Pipeline
-Runs face swapping, AI blending, and question generation for the active child profile:
+### 1. Annotate Face Regions for a Template
+Run the OpenCV GUI tool to drag bounding boxes for character faces:
+```bash
+python kitchen_scenes/annotate_template.py kitchen_scenes/direct_food_templates/kitchen_making_smoothies_grandmother_child.png
+```
+- Drag a box over each character face slot (e.g., `child`, `mother_name`, `grandmother_name`).
+- Press **ENTER** or **SPACE** to confirm each box (or `C` to skip).
+- Coordinates save automatically to the `.json` file.
+
+### 2. Configure Profile in `run_direct_pipeline.py`
+Open `kitchen_scenes/run_direct_pipeline.py` and set `USER_SETTINGS`:
+```python
+USER_SETTINGS = {
+    "child_name": "Ali",
+    "child_age": 6,
+    "grade": 1,
+    "favorite_food": "Smoothies",   # Matches food in direct_food_templates JSON
+    "mother_name": "Sara",
+    "father_name": "Ahmed",
+    "grandmother_name": "Fatima",
+    "child_photo": USER_PHOTOS_DIR / "new_child.jpg",
+    "adult_photo": USER_PHOTOS_DIR / "new_grandmother.jpg",  # Used for adult role slot
+}
+```
+
+### 3. Run the Face Swapping & AI Blending Pipeline
+Execute the main pipeline:
 ```bash
 python -m kitchen_scenes.run_direct_pipeline
 ```
+- Automatically selects the correct template based on `favorite_food`.
+- Swaps faces in-memory and sends the image for AI blending.
+- Saves the final blended image to `kitchen_scenes/pipeline_output/`.
 
-### 2. Annotate Face Regions for a Template
-Launches the OpenCV GUI tool to drag bounding boxes for character faces and save coordinates to JSON:
-```bash
-python kitchen_scenes/annotate_template.py kitchen_scenes/direct_food_templates/kitchen_baking_cookies_mother_child.png
-```
-
-### 3. Generate Additional Food Templates
-Generates any missing food/activity templates in `kitchen_scenes/direct_food_templates/`:
+### 4. Generate New Base Templates (Optional)
+To generate new food/activity templates:
 ```bash
 python -m kitchen_scenes.run_direct_food_templates
 ```

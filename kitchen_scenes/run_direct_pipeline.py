@@ -42,11 +42,12 @@ USER_SETTINGS = {
     "child_name": "Ali",
     "child_age": 6,
     "grade": 1,
-    "favorite_food": "Cookies",   # Selects kitchen_baking_cookies_mother_child template
+    "favorite_food": "Smoothies",   # Selects kitchen_making_smoothies_grandmother_child template
     "mother_name": "Sara",
     "father_name": "Ahmed",
+    "grandmother_name": "Fatima",
     "child_photo": USER_PHOTOS_DIR / "new_child.jpg",
-    "adult_photo": USER_PHOTOS_DIR / "new_mother.jpg",  # used for mother/father slot
+    "adult_photo": USER_PHOTOS_DIR / "new_grandmother.jpg",  # used for grandmother slot
 }
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -154,12 +155,7 @@ def swap_faces(template_png: Path, meta: dict, user_settings: dict, out_path: Pa
         canvas.paste(face, (x, y), mask)
         print(f"  ✓ Swapped '{role}' face at ({x},{y}) size {w}×{h} — brightness matched")
 
-    # Save intermediate preview too
-    preview_path = out_path.parent / (out_path.stem + "_preview.png")
-    canvas.convert("RGB").save(preview_path)
-    canvas.convert("RGB").save(out_path)
-    print(f"  ✓ Saved face-swapped image → {out_path.name}")
-    return True
+    return canvas
 
 
 def image_to_base64(path: Path) -> str:
@@ -167,7 +163,7 @@ def image_to_base64(path: Path) -> str:
         return base64.b64encode(f.read()).decode()
 
 
-def ai_blend_faces(intermediate_path: Path, meta: dict, user_settings: dict) -> Path | None:
+def ai_blend_faces(intermediate_image: Image.Image, meta: dict, user_settings: dict, blended_path: Path) -> Path | None:
     """
     Send the intermediate face-pasted image to the AI image model.
     Ask it to seamlessly integrate the pasted faces into the scene
@@ -176,18 +172,20 @@ def ai_blend_faces(intermediate_path: Path, meta: dict, user_settings: dict) -> 
     food = meta["favorite_food"]
     family_desc = ", ".join(meta.get("family", []))
 
-    blend_prompt = f"""This image shows a kitchen scene with {family_desc} enjoying {food} together.
+    blend_prompt = f"""This image shows a kitchen scene with {family_desc} enjoying {food} together. The faces have just been swapped.
 
-The image has new faces placed onto the template bodies. Seamlessly blend these faces into the template characters with the following strict requirements:
+CRITICAL TASK: Blend the new faces seamlessly into the scene AND adapt their facial expressions to be extremely happy and joyful.
 
-1. PRESERVE HEAD POSE & FACE ANGLE: Keep the exact head orientation, face angle, rotation, and chin positioning of the characters in the base template.
-2. PRESERVE NATURAL EXPRESSIONS & GAZE: Maintain the gentle, warm, happy expressions, eyes, and joyful smiles of the template scene.
-3. SEAMLESS SKIN & LIGHTING HARMONISATION: Blend the face edges, skin tones, neck transitions, highlights, and shadows perfectly so there are zero visible cut lines, seams, or sticker-like artifacts.
-4. SCENE PRESERVATION: Keep the detailed kitchen background, clothing, hands, body positions, food items, and crisp sharp focus exactly as they are.
-5. High quality, photorealistic, vibrant 1024x1024 output where the characters look completely natural and unified in the scene."""
+ABSOLUTE CONSTRAINTS:
+1. ADAPT EXPRESSIONS: Change the facial expressions of the new faces to match the huge, laughing, candid, warm smiles and expressive eyes expected in this joyful scene. The characters should look incredibly happy and delighted.
+2. PRESERVE FACE ANGLES: Keep the exact head pose, rotation, and chin positioning.
+3. SEAMLESS BLENDING: Harmonise the skin tones, lighting, and edges so the faces look naturally attached to the bodies. Fix any harsh cut-lines around the chin and forehead.
+4. PRESERVE IDENTITY: While making them smile and laugh, maintain the recognizable facial identity of the pasted faces.
+5. PRESERVE EVERYTHING ELSE: Do not alter the background, clothes, food, or any other part of the image. Keep it 1024x1024 photorealistic."""
 
-    with open(intermediate_path, "rb") as f:
-        b64 = base64.b64encode(f.read()).decode()
+    buffered = BytesIO()
+    intermediate_image.convert("RGB").save(buffered, format="PNG")
+    b64 = base64.b64encode(buffered.getvalue()).decode()
 
     headers = {
         "Authorization": f"Bearer {API_KEY}",
@@ -213,19 +211,20 @@ The image has new faces placed onto the template bodies. Seamlessly blend these 
     if resp.status_code != 200:
         print(f"  ❌ AI blend failed ({resp.status_code}): {resp.text[:200]}")
         print("  ⚠️  Using intermediate (unblended) image instead.")
-        return intermediate_path
+        intermediate_image.convert("RGB").save(blended_path)
+        return blended_path
 
     img_ref = extract_image_url(resp.json())
     if not img_ref:
         print("  ❌ No image returned from AI blend.")
-        return intermediate_path
+        intermediate_image.convert("RGB").save(blended_path)
+        return blended_path
 
     if img_ref.startswith("data:image"):
         img_bytes = base64.b64decode(img_ref.split(",", 1)[1])
     else:
         img_bytes = requests.get(img_ref, timeout=60).content
 
-    blended_path = intermediate_path.parent / intermediate_path.name.replace("_swapped", "_blended")
     with open(blended_path, "wb") as f:
         f.write(img_bytes)
 
@@ -406,31 +405,15 @@ def main():
 
     # ── STEP 2: Face swapping (paste) ─────────────────────────────────────────
     print(f"\n👤 STEP 2 — Pasting faces onto template...")
-    swapped_path = OUTPUT_DIR / f"{user['child_name'].lower()}_{meta['template_id']}_swapped.png"
-    swap_faces(tmpl_png, meta, user, swapped_path)
+    swapped_image = swap_faces(tmpl_png, meta, user, None)
 
     # ── STEP 2b: AI face blending ─────────────────────────────────────────────
     print(f"\n🎨 STEP 2b — AI seamless face blending...")
-    final_img_path = ai_blend_faces(swapped_path, meta, user)
-
-    # ── STEP 3: Generate questions ────────────────────────────────────────────
-    print(f"\n📝 STEP 3 — Generating Grade 1 questions...")
-    questions = generate_questions(meta, user, final_img_path)
-
-    if not questions:
-        print("  ⚠️  No questions generated. Check API credits.")
-        return
-
-    # ── STEP 4: Display & save ────────────────────────────────────────────────
-    print_question_report(questions, user, food)
-
-    questions_path = OUTPUT_DIR / f"{user['child_name'].lower()}_{meta['template_id']}_questions.json"
-    save_question_set(questions, user, meta, questions_path)
+    final_img_path = OUTPUT_DIR / f"{user['child_name'].lower()}_{meta['template_id']}_blended.png"
+    final_img_path = ai_blend_faces(swapped_image, meta, user, final_img_path)
 
     print(f"\n✅  Pipeline complete!")
-    print(f"   🖼️  Face-pasted (intermediate) → {swapped_path}")
     print(f"   ✨  AI-blended final image     → {final_img_path}")
-    print(f"   📋  Question set              → {questions_path}")
 
 
 if __name__ == "__main__":
