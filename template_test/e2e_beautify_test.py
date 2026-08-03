@@ -56,7 +56,7 @@ def crop_face(photo_path: str) -> Image.Image:
 
 def perform_swaps() -> bytes:
     print("1️⃣  Loading template and applying swaps...")
-    with open(TEMPLATE_JSON_PATH, "r") as f:
+    with open(TEMPLATE_JSON_PATH, "r", encoding="utf-8") as f:
         meta = json.load(f)
     
     template_img = Image.open(TEMPLATE_IMG_PATH).convert("RGBA")
@@ -136,7 +136,7 @@ def extract_image(data: dict) -> str | None:
 def beautify_image(base64_image: str):
     print(f"2️⃣  Sending to OpenRouter ({MODEL}) for beautification...")
     
-    with open(TEMPLATE_JSON_PATH, "r") as f:
+    with open(TEMPLATE_JSON_PATH, "r", encoding="utf-8") as f:
         meta = json.load(f)
     count = meta.get("count", 5)
     

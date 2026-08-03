@@ -23,7 +23,7 @@ def get_template(question_type: str, count: int, prefix: str = "") -> dict | Non
         return None
 
     for json_file in type_dir.glob("*.json"):
-        with open(json_file, 'r') as f:
+        with open(json_file, 'r', encoding='utf-8') as f:
             data = json.load(f)
             if data.get("count") == count and (not prefix or prefix in data.get("template_id", "")):
                 return data

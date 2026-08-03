@@ -54,7 +54,7 @@ def annotate_image(image_path: str, json_path: str):
         print(f"❌  JSON file not found: {json_path}")
         return
 
-    with open(json_path, "r") as f:
+    with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
     orig_h, orig_w = img_original.shape[:2]
@@ -192,7 +192,7 @@ def annotate_image(image_path: str, json_path: str):
 
     # ── SAVE ─────────────────────────────────────────────────────────────────
     data["annotation_complete"] = True
-    with open(json_path, "w") as f:
+    with open(json_path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
 
     print("\n" + "═" * 60)

@@ -1,0 +1,62 @@
+{
+  "child_name": "Oliver",
+  "grade": 1,
+  "favorite_food": "Cookies",
+  "template_id": "kitchen_baking_cookies_mother_child",
+  "object_count": 4,
+  "questions": [
+    {
+      "question_type": "counting",
+      "question": "How many cookies can you count, Oliver?",
+      "correct_answer": "4",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    {
+      "question_type": "family_recognition",
+      "question": "Who is with Oliver in the kitchen?",
+      "correct_answer": "His Mother",
+      "options": [
+        "His Father",
+        "His Mother",
+        "His Sister",
+        "His Brother"
+      ]
+    },
+    {
+      "question_type": "action_recognition",
+      "question": "What are Oliver and his Mother doing?",
+      "correct_answer": "Baking cookies",
+      "options": [
+        "Watching TV",
+        "Baking cookies",
+        "Drawing pictures",
+        "Playing outside"
+      ]
+    },
+    {
+      "question_type": "comparison",
+      "question": "Are there more than 2 cookies in the picture, Oliver?",
+      "correct_answer": "Yes",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "question_type": "favourite_food",
+      "question": "What is Oliver's favourite food in the picture?",
+      "correct_answer": "Cookies",
+      "options": [
+        "Carrots",
+        "Cookies",
+        "Apples",
+        "Pasta"
+      ]
+    }
+  ]
+}

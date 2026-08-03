@@ -494,7 +494,7 @@ def generate_direct_template(tmpl_cfg: dict):
         "prompt": tmpl_cfg["scene_prompt"]
     }
 
-    with open(json_path, "w") as f:
+    with open(json_path, "w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2)
 
     print(f"  ✓ Saved {png_path.name} and {json_path.name}")

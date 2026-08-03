@@ -24,6 +24,15 @@ from ai_renderer import render_image as ai_render, _build_prompt, _build_text_pr
 from face_swap_processor import swap_faces
 from role_remapper import remap_question_roles
 
+# Kitchen Scenes Direct Food Template Integration
+from pathlib import Path
+from kitchen_scenes.run_direct_pipeline import (
+    find_template_for_food, list_available_templates,
+    swap_faces as direct_swap_faces, ai_blend_faces,
+    generate_questions as direct_generate_questions,
+    run_pipeline as run_kitchen_pipeline, USER_PHOTOS_DIR,
+)
+
 # ------------------------------------------------------------------------------
 # Hobby → object mapping
 # ------------------------------------------------------------------------------
@@ -343,6 +352,25 @@ if selected_categories:
                     f"Favourite {cat.title()}(s):", placeholder=f"e.g., favourite {cat}",
                     key=f"fav_{cat}")
 
+# --- Kitchen Scenes: Favourite Food Picker ---
+st.divider()
+st.markdown("#### 🍳 Kitchen Scene Personalisation")
+st.caption(
+    "Pick your child's favourite food below. If a matching kitchen template exists, "
+    "we'll generate a personalised kitchen scene with face-swapped family photos "
+    "and Grade 1 questions alongside the workbook!"
+)
+_available_foods = [t["food"] for t in list_available_templates() if t.get("annotated")]
+favourite_food = st.selectbox(
+    "Favourite Food (for kitchen scene)",
+    options=["None"] + _available_foods,
+    index=0,
+    key="favourite_food_picker",
+    help="Select a food to generate a personalised kitchen scene image & quiz."
+)
+if favourite_food != "None":
+    st.info(f"✅ Kitchen template available for **{favourite_food}** — a personalised scene will be generated after workbook creation.")
+
 # ------------------------------------------------------------------------------
 # Workbook & Picture Settings
 # ------------------------------------------------------------------------------
@@ -633,7 +661,9 @@ if st.button("📝 Generate Personalised Workbook", type="primary"):
             "pet_name": pet_name,
             "fav_color": fav_color,
             "selected_categories": selected_categories,
+            "hobbies": hobbies,
             "fav_map": fav_map,
+            "favourite_food": favourite_food if favourite_food != "None" else "",
             "counting_ability": counting_ability,
             "theme_style": theme_style,
             "anything_else": anything_else,
@@ -738,30 +768,51 @@ if pipeline is not None:
 
             with st.status(f"🎨 **Q{data['idx']}:** Rendering...", expanded=False) as step_status:
                 try:
-                    preserve = data.get("preserve_faces", False)
-                    result = ai_render(data["blueprint"], data["metadata"],
-                                       output_path=temp_path,
-                                       preserve_faces=preserve,
-                                       gender=pipeline.get("gender", "Boy"),
-                                       sibling_gender=pipeline.get("sibling_gender", "Boy"),
-                                       theme_style=pipeline.get("theme_style", "photorealistic"),
-                                       fav_color=pipeline.get("fav_color", ""),
-                                       pet_name=pipeline.get("pet_name", ""),
-                                       extra_context=pipeline.get("anything_else", ""))
+                    # Check if user's favourite food matches a Direct Kitchen Food Template
+                    fav_food = (pipeline.get("fav_map", {}).get("food", "") or pipeline.get("hobbies", "")).strip()
+                    tmpl_png, meta = find_template_for_food(fav_food) if fav_food else (None, None)
 
-                    if result and os.path.exists(result):
-                        if data["question_face_map"]:
-                            step_status.write("🔄 Swapping user faces onto AI-generated characters...")
-                            final_path = swap_faces(result, data["metadata"], data["question_face_map"])
-                        else:
-                            final_path = result
+                    if tmpl_png and meta and meta.get("face_regions"):
+                        step_status.write(f"🍳 Using direct kitchen interaction template for '{fav_food}'...")
+                        user_profile = {
+                            "child_name": pipeline.get("student_name", "Child"),
+                            "child_photo": pipeline.get("saved_face_paths", {}).get("user"),
+                            "mother_photo": pipeline.get("saved_face_paths", {}).get("mother"),
+                            "father_photo": pipeline.get("saved_face_paths", {}).get("father"),
+                            "grandmother_photo": pipeline.get("saved_face_paths", {}).get("grandmother"),
+                            "grandfather_photo": pipeline.get("saved_face_paths", {}).get("grandfather"),
+                            "adult_photo": pipeline.get("saved_face_paths", {}).get("mother"),
+                        }
+                        swapped_canvas = direct_swap_faces(tmpl_png, meta, user_profile)
+                        final_blend_path = Path(temp_path).with_suffix(".png")
+                        final_path = str(ai_blend_faces(swapped_canvas, meta, user_profile, final_blend_path))
                         image_paths.append(final_path)
-                        step_status.write("✅ **Illustration complete!**")
+                        step_status.write("✅ **Direct kitchen template face blend complete!**")
                     else:
-                        fallback_path = f"temp_img_{data['idx']}_{timestamp}_fallback.jpg"
-                        data["blueprint"].save(fallback_path, quality=90)
-                        image_paths.append(fallback_path)
-                        step_status.write("⚠️ AI unavailable — using blueprint layout")
+                        preserve = data.get("preserve_faces", False)
+                        result = ai_render(data["blueprint"], data["metadata"],
+                                           output_path=temp_path,
+                                           preserve_faces=preserve,
+                                           gender=pipeline.get("gender", "Boy"),
+                                           sibling_gender=pipeline.get("sibling_gender", "Boy"),
+                                           theme_style=pipeline.get("theme_style", "photorealistic"),
+                                           fav_color=pipeline.get("fav_color", ""),
+                                           pet_name=pipeline.get("pet_name", ""),
+                                           extra_context=pipeline.get("anything_else", ""))
+
+                        if result and os.path.exists(result):
+                            if data["question_face_map"]:
+                                step_status.write("🔄 Swapping user faces onto AI-generated characters...")
+                                final_path = swap_faces(result, data["metadata"], data["question_face_map"])
+                            else:
+                                final_path = result
+                            image_paths.append(final_path)
+                            step_status.write("✅ **Illustration complete!**")
+                        else:
+                            fallback_path = f"temp_img_{data['idx']}_{timestamp}_fallback.jpg"
+                            data["blueprint"].save(fallback_path, quality=90)
+                            image_paths.append(fallback_path)
+                            step_status.write("⚠️ AI unavailable — using blueprint layout")
 
                     step_status.update(label=f"✅ **Q{data['idx']} complete**", state="complete")
                 except Exception as e:
@@ -838,6 +889,82 @@ if pipeline is not None:
             file_name=eval_filename,
             mime="application/json",
         )
+
+        # ==================================================================
+        # KITCHEN SCENES — Auto-trigger when favourite food matches a template
+        # ==================================================================
+        ks_food = pipeline.get("favourite_food", "").strip()
+        if ks_food:
+            st.divider()
+            st.subheader(f"🍳 Kitchen Scene — {ks_food}")
+
+            # Check if kitchen scene was already generated in this session
+            if "kitchen_result" not in pipeline:
+                with st.spinner(f"🍳 Generating personalised kitchen scene for {ks_food}..."):
+                    # Build user profile from the already-uploaded face photos
+                    ks_profile = {
+                        "child_name": pipeline["student_name"],
+                        "child_age": 6,
+                        "grade": 1,
+                        "favorite_food": ks_food,
+                        "child_photo":       pipeline["saved_face_paths"].get("user") or (USER_PHOTOS_DIR / "new_child.jpg"),
+                        "mother_photo":      pipeline["saved_face_paths"].get("mother") or (USER_PHOTOS_DIR / "new_mother.jpg"),
+                        "father_photo":      pipeline["saved_face_paths"].get("father") or (USER_PHOTOS_DIR / "new_father.jpg"),
+                        "grandmother_photo": pipeline["saved_face_paths"].get("grandmother") or (USER_PHOTOS_DIR / "new_grandmother.jpg"),
+                        "grandfather_photo": pipeline["saved_face_paths"].get("grandfather") or (USER_PHOTOS_DIR / "grandfather.jpg"),
+                        "adult_photo":       pipeline["saved_face_paths"].get("mother") or (USER_PHOTOS_DIR / "new_mother.jpg"),
+                    }
+                    ks_result = run_kitchen_pipeline(ks_profile)
+                    pipeline["kitchen_result"] = ks_result
+                    st.rerun()
+
+            ks_result = pipeline.get("kitchen_result")
+            if ks_result and ks_result.get("final_image"):
+                st.success(f"✅ Personalised **{ks_food}** kitchen scene generated!")
+                st.image(
+                    str(ks_result["final_image"]),
+                    caption=f"{pipeline['student_name']}'s {ks_food} Kitchen Scene",
+                    use_container_width=True,
+                )
+
+                with open(ks_result["final_image"], "rb") as img_f:
+                    st.download_button(
+                        "📥 Download Kitchen Scene (PNG)",
+                        data=img_f.read(),
+                        file_name=ks_result["final_image"].name,
+                        mime="image/png",
+                        key="dl_kitchen_img",
+                    )
+
+                if ks_result.get("questions"):
+                    st.markdown(f"##### 📚 Grade 1 Kitchen Questions for {pipeline['student_name']}")
+                    for qi, q in enumerate(ks_result["questions"], 1):
+                        qtype = q.get('question_type', '').upper()
+                        with st.expander(f"Q{qi}. [{qtype}] {q.get('question', '')}", expanded=True):
+                            st.write(f"**❓ {q.get('question')}**")
+                            if q.get("options"):
+                                for opt in q["options"]:
+                                    if opt == q.get("correct_answer"):
+                                        st.markdown(f"- ✅ **{opt}**")
+                                    else:
+                                        st.markdown(f"- {opt}")
+                            else:
+                                st.write(f"✅ **Answer:** {q.get('correct_answer')}")
+
+                    if ks_result.get("questions_json"):
+                        with open(ks_result["questions_json"], "rb") as qf:
+                            st.download_button(
+                                "📋 Download Kitchen Questions (JSON)",
+                                data=qf.read(),
+                                file_name=ks_result["questions_json"].name,
+                                mime="application/json",
+                                key="dl_kitchen_json",
+                            )
+            elif ks_result is None:
+                st.warning(
+                    f"⚠️ No annotated kitchen template found for **{ks_food}**. "
+                    "The template may need face-region annotation first."
+                )
 
         if st.button("🔄 Start Over"):
             cleanup_temp_images(pipeline.get("image_paths", []))

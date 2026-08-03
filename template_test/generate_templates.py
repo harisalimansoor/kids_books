@@ -144,7 +144,7 @@ def save_metadata(t: dict, img_path: Path, prompt: str):
     }
     
     meta_path = img_path.with_suffix(".json")
-    with open(meta_path, "w") as f:
+    with open(meta_path, "w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2)
     print(f"   ✓ Metadata saved to {meta_path.name}")
 

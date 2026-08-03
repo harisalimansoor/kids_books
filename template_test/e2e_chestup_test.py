@@ -79,7 +79,7 @@ def extract_image_url(data: dict) -> str | None:
 # ── Step 1: Swap faces + objects ──────────────────────────────────────────────
 def perform_swaps() -> str:
     print("1️⃣  Loading template and applying swaps...")
-    with open(TEMPLATE_JSON) as f:
+    with open(TEMPLATE_JSON, encoding="utf-8") as f:
         meta = json.load(f)
 
     canvas = Image.open(TEMPLATE_IMG).convert("RGBA")
@@ -119,7 +119,7 @@ def perform_swaps() -> str:
 # ── Step 2: AI beautification ─────────────────────────────────────────────────
 def beautify(b64: str):
     print(f"2️⃣  Sending to OpenRouter ({MODEL}) for beautification...")
-    with open(TEMPLATE_JSON) as f:
+    with open(TEMPLATE_JSON, encoding="utf-8") as f:
         meta = json.load(f)
     count = meta.get("count", 4)
 

@@ -86,7 +86,7 @@ def run_generation(combo: TemplateCombination, output_dir: Path):
     # Save Metadata
     meta = build_metadata(combo, png_filename)
     meta["prompt"] = prompt  # Store the prompt for reference/debugging
-    with open(json_path, "w") as f:
+    with open(json_path, "w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2)
         
     print(f"  ✓ Saved {png_filename} and {json_filename}")

@@ -1,0 +1,62 @@
+{
+  "child_name": "Oliver",
+  "grade": 1,
+  "favorite_food": "Ice cream",
+  "template_id": "kitchen_ice_cream_father_child",
+  "object_count": 3,
+  "questions": [
+    {
+      "question_type": "counting",
+      "question": "Oliver, how many ice creams can you count?",
+      "correct_answer": "3",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "question_type": "family_recognition",
+      "question": "Who is with Oliver in the kitchen?",
+      "correct_answer": "Father",
+      "options": [
+        "Mother",
+        "Father",
+        "Sister",
+        "Brother"
+      ]
+    },
+    {
+      "question_type": "action_recognition",
+      "question": "What are Oliver and his Father doing?",
+      "correct_answer": "Eating ice cream",
+      "options": [
+        "Playing a game",
+        "Cooking food",
+        "Eating ice cream",
+        "Watching TV"
+      ]
+    },
+    {
+      "question_type": "comparison",
+      "question": "Oliver, are there more than 2 ice creams in the picture?",
+      "correct_answer": "Yes",
+      "options": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "question_type": "favourite_food",
+      "question": "What is Oliver's favourite food in the picture?",
+      "correct_answer": "Ice cream",
+      "options": [
+        "Ice cream",
+        "Cake",
+        "Cookies",
+        "Pizza"
+      ]
+    }
+  ]
+}

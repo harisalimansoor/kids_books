@@ -17,7 +17,7 @@ def annotate_image(image_path, json_path):
         print(f"❌ JSON file not found: {json_path}")
         return
 
-    with open(json_path, 'r') as f:
+    with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
     orig_h, orig_w = img_original.shape[:2]
@@ -108,7 +108,7 @@ def annotate_image(image_path, json_path):
         print("⏭️  Object selection skipped.")
 
     # --- 3. Save JSON ---
-    with open(json_path, 'w') as f:
+    with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2)
     print("\n💾 JSON saved successfully!\n")
 

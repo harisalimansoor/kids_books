@@ -107,7 +107,7 @@ def save_json(t: dict, img_path: Path):
         "face_regions":   [],   # to be filled by annotate_template.py
         "object_positions": [], # to be filled by annotate_template.py
     }
-    with open(json_path, "w") as f:
+    with open(json_path, "w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2)
     print(f"  ✓ JSON stub saved: {json_path.name}")
 
