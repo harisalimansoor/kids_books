@@ -1,0 +1,12 @@
+{
+  "object_id": "pancakes",
+  "category": "food",
+  "singular": "pancake stack",
+  "plural": "pancake stacks",
+  "asset_file": "pancakes.png",
+  "default_count": 3,
+  "hold_style": "hands near a plate on the counter or pouring syrup nearby",
+  "hand_action": "one character points to or steadies a pancake stack on the counter — never invent an extra stack",
+  "surface_action": "all pancake stacks sit on ceramic plates (total equals placeholder count)",
+  "interaction_prompt": "TOTAL visible pancake stacks must equal the placeholder count."
+}

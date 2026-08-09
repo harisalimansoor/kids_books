@@ -1,0 +1,133 @@
+{
+  "stem_id": "frac_books_8_half_user_father",
+  "grade": "grade_1",
+  "topic": "fractions",
+  "layout_pattern": "half_of_set_circled",
+  "question_file": "question.txt",
+  "image_file": "father_has_8_books_half_circled.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked. Paste child + father faces only."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 296,
+      "y": 269,
+      "w": 123,
+      "h": 157,
+      "landmarks": {
+        "right_eye": [
+          339,
+          330
+        ],
+        "left_eye": [
+          393,
+          334
+        ],
+        "nose": [
+          366,
+          365
+        ],
+        "mouth_right": [
+          335,
+          383
+        ],
+        "mouth_left": [
+          384,
+          386
+        ]
+      },
+      "confidence": 0.946
+    },
+    {
+      "role": "father",
+      "x": 588,
+      "y": 122,
+      "w": 153,
+      "h": 202,
+      "landmarks": {
+        "right_eye": [
+          615,
+          213
+        ],
+        "left_eye": [
+          686,
+          191
+        ],
+        "nose": [
+          657,
+          246
+        ],
+        "mouth_right": [
+          649,
+          279
+        ],
+        "mouth_left": [
+          714,
+          259
+        ]
+      },
+      "confidence": 0.93
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "books_all",
+      "owner": "father",
+      "object_id": "books",
+      "singular": "book",
+      "plural": "books",
+      "count": 8,
+      "circled_count": 4,
+      "notes": "Half of the 8 books are circled"
+    }
+  ],
+  "answer": {
+    "type": "half_count",
+    "correct": "4",
+    "options": [
+      "4",
+      "8",
+      "2",
+      "3"
+    ],
+    "formula": "8/2",
+    "explanation": "Half of 8 books circled = 4"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Exactly 8 books, 4 clearly circled (half)."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/fractions.txt",
+    "notes": "Father 8 books half circled; child helping."
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions in meta.json if needed."
+  },
+  "face_detection": "yunet"
+}

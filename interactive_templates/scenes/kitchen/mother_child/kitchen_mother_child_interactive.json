@@ -1,0 +1,108 @@
+{
+  "template_id": "kitchen_mother_child_interactive",
+  "image_file": "kitchen_mother_child_interactive.png",
+  "scene_family": "kitchen",
+  "scene": "kitchen",
+  "family": [
+    "mother",
+    "child"
+  ],
+  "face_slots": [
+    "child",
+    "mother_name"
+  ],
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 249,
+      "y": 303,
+      "w": 167,
+      "h": 201,
+      "landmarks": {
+        "right_eye": [
+          289,
+          387
+        ],
+        "left_eye": [
+          363,
+          381
+        ],
+        "nose": [
+          330,
+          426
+        ],
+        "mouth_right": [
+          303,
+          454
+        ],
+        "mouth_left": [
+          368,
+          448
+        ]
+      },
+      "confidence": 0.948
+    },
+    {
+      "role": "mother_name",
+      "x": 458,
+      "y": 132,
+      "w": 194,
+      "h": 262,
+      "landmarks": {
+        "right_eye": [
+          499,
+          235
+        ],
+        "left_eye": [
+          598,
+          223
+        ],
+        "nose": [
+          554,
+          280
+        ],
+        "mouth_right": [
+          517,
+          322
+        ],
+        "mouth_left": [
+          609,
+          311
+        ]
+      },
+      "confidence": 0.957
+    }
+  ],
+  "count": 4,
+  "object": "placeholder_box",
+  "object_positions": [
+    {
+      "label": "placeholder_box",
+      "count": 4,
+      "positions": [
+        {
+          "x": 180,
+          "y": 860
+        },
+        {
+          "x": 380,
+          "y": 860
+        },
+        {
+          "x": 580,
+          "y": 860
+        },
+        {
+          "x": 780,
+          "y": 860
+        }
+      ]
+    }
+  ],
+  "style": "photorealistic",
+  "interactive": true,
+  "annotation_complete": true,
+  "prompt": "Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his mother in a bright, spacious modern kitchen.\n\nCRITICAL POSING REQUIREMENT:\n- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST look directly at the camera with heads facing straight forward.\n- NO side profiles. NO looking only at each other. Front-facing faces for easy face-swapping.\n\nNATURAL INTERACTION:\n- They stand/sit together at a marble kitchen counter.\n- Warm, joyful, candid smiles with bright friendly eyes.\n- Their hands are near the counter, ready to interact with objects on the counter\n  (reaching, offering, or gently resting near the placeholders).\n\nOBJECT PLACEHOLDERS (VERY IMPORTANT):\n- On the kitchen counter in the foreground, place EXACTLY 4 clearly separated\n  white rounded square placeholder boxes in a horizontal row.\n- Same size, evenly spaced, easy to count.\n- These boxes are empty placeholders \u2014 NOT food items yet.\n- Leave space so hands can naturally hold or touch items that will replace the boxes later.\n\nCOMPOSITION & FRAMING:\n- Medium chest-up shot showing heads, shoulders, hands, and the counter surface.\n- Both characters centered with detailed kitchen background (cabinets, window, utensils).\n- BACKGROUND FOCUS: completely sharp. NO blur, NO bokeh.\n\nSTYLE:\n- Ultra-realistic, bright warm kitchen lighting, vibrant cheerful colours.\n- Grade 1 storybook friendly mood.\n\nCRITICAL CONSTRAINTS:\n- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 mother.\n- Exactly 4 white rounded placeholder boxes on the counter.\n- No real food yet, no text, no numbers, no watermarks.\n- Image size: 1024x1024 pixels square.",
+  "notes": "White placeholder boxes are object-agnostic. Compositor fills them with the chosen food/hobby/pet asset, then AI-beautifies hands to match that object's interaction style.",
+  "face_detection": "yunet"
+}

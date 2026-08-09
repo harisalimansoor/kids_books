@@ -1,0 +1,12 @@
+{
+  "object_id": "frisbee",
+  "category": "hobby",
+  "singular": "frisbee",
+  "plural": "frisbees",
+  "asset_file": "frisbee.png",
+  "default_count": 4,
+  "hold_style": "held flat with fingers under the disc rim",
+  "hand_action": "one character offers a frisbee while the other reaches to take it",
+  "surface_action": "remaining frisbees rest on the picnic table in a clear row",
+  "interaction_prompt": "Hands must interact specifically with frisbees — active park play moment."
+}

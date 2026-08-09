@@ -1,0 +1,12 @@
+{
+  "object_id": "pizza",
+  "category": "food",
+  "singular": "pizza slice",
+  "plural": "pizza slices",
+  "asset_file": "pizza.png",
+  "default_count": 4,
+  "hold_style": "held from the crust end with fingers underneath the slice",
+  "hand_action": "one character touches a pizza slice on the board while the other reaches toward another slice — never invent an extra held slice",
+  "surface_action": "all slices lie flat on a wooden board, clearly separated (total equals placeholder count)",
+  "interaction_prompt": "Hands interact with pizza slices in the countable set only. TOTAL visible slices must equal the placeholder count."
+}

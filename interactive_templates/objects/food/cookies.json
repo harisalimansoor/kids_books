@@ -1,0 +1,12 @@
+{
+  "object_id": "cookies",
+  "category": "food",
+  "singular": "cookie",
+  "plural": "cookies",
+  "asset_file": "cookies.png",
+  "default_count": 4,
+  "hold_style": "held flat between fingers like a freshly baked cookie",
+  "hand_action": "one character lightly touches a cookie on the tray while the other points — never invent an extra held cookie",
+  "surface_action": "all cookies sit on a tray/counter with soft crumbs (total equals placeholder count)",
+  "interaction_prompt": "Hands interact with cookies in the countable set only. TOTAL visible cookies must equal the placeholder count."
+}

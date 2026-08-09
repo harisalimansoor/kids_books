@@ -1,0 +1,316 @@
+=== SUBTRACTION ===
+
+Look at the picture! {grandfather_name} is standing in the garden with a basket that has 9 mangoes in it. Then, someone brings 3 more mangoes and puts them in the basket. But, oh no! 5 mangoes fall out of the basket and are lying on the ground. How many mangoes are left in {grandfather_name}'s basket?
+Look at the picture! {grandfather_name} has a bookshelf with 15 books on it, and there's a box with 5 books being carried away. How many books are still on {grandfather_name}'s bookshelf?
+Look at the picture! {mother_name} is standing by the beach with 10 shells in her bucket. Can you see 8 more shells being added to the bucket? But, oh no! 7 shells have fallen out of the bucket. How many shells are left in {mother_name}'s bucket?
+Look at the picture! There are 7 colorful balloons tied to a tree. Can you see the next balloon, which is an odd number more than 7, hidden behind the tree? How many balloons are there in total?
+Look at the picture! {user_name} has a bag with 8 sweets inside, and next to it are 3 more sweets that just arrived, but there's a picture of 5 sweets being thrown away. How many sweets are left in {user_name}'s bag?
+Look at the picture! {mother_name} has a bookshelf with 8 books on it, but there's a big monster that ate 7 of the books, and now there are only a few books left on the shelf. How many books can you see on {mother_name}'s bookshelf now?
+Look at the picture! {grandfather_name} has a bookshelf with 13 books on it, but 9 books have fallen off the shelf and are on the floor. How many books are still on {grandfather_name}'s bookshelf?
+Look at the picture! {grandmother_name} has a big basket with 90 apples in it, and next to the basket, there are 50 apples in a smaller basket with a big bite taken out of each one. How many apples are left in {grandmother_name}'s big basket?
+Look at the picture! {mother_name} has a big bowl with 20 marbles in it, but there's a picture of {mother_name} eating 14 marbles. Now, can you count how many marbles are left in the bowl?
+Look at the picture! {father_name} has a big bookshelf with 30 books on it, but some silly monsters came and ate 12 of the books, and now there are empty spaces on the shelf. How many books can you see left on {father_name}'s bookshelf?
+Look at the picture! {mother_name} has a big basket with apples in it. You can see 17 apples were drawn around the basket, but 4 of them have a big X marked through them. How many apples are left in the basket that {mother_name} can still eat?
+Look at the picture! {user_name} has a big basket with 16 apples in it. Can you see {user_name} getting 5 more apples from the tree and adding them to the basket? But then, oh no! {user_name} dropped 9 apples on the ground. How many apples are left in the basket?
+Look at the picture! {sibling_name} has a big basket with mangoes in it. You can see 30 mangoes in the basket at first, but then {sibling_name} is giving 3 mangoes to someone. How many mangoes are left in {sibling_name}'s basket?
+Look at the picture! {grandmother_name} has a big jar with 100 sweets in it, and there's a small bowl next to the jar with 20 sweets taken out. Can you see how many sweets are left in the jar that {grandmother_name} has?
+Look at the picture! {grandmother_name} has a big jar with 19 sweets in it, and there's a smaller bowl next to it with 7 sweets that {grandmother_name} gave away. How many sweets are left in {grandmother_name}'s big jar?
+Look at the picture! {grandfather_name} is sitting at a table with a big box that says "12 stickers" on it, but now there are only a few stickers left in the box and 10 stickers are on the floor. How many stickers can you see {grandfather_name} has left in the box?
+Look at the picture! {user_name} has some toy cars in a basket. There are 9 toy cars drawn on the shelf, and 6 of them have a big X marked through them because they were lost. How many toy cars are still in the basket that {user_name} can play with?
+Look at the picture! {user_name} is holding a big sheet of paper with 7 colourful stickers on it. There is an empty hand reaching out, and {user_name} gives 0 stickers to the hand. How many stickers are still on {user_name}'s paper?
+Look at the picture! {sibling_name} is sitting at a table with a big plate that had 10 stickers on it, but now there are only some stickers left and 8 stickers are in the trash can. How many stickers does {sibling_name} have left?
+Look at the picture! {grandmother_name} is standing in front of a big basket with balloons in it. There are 17 balloons tied to the basket. Now, look at the table next to {grandmother_name}, 10 balloons are packed up to be sold. How many balloons are still in the basket with {grandmother_name}?
+Look at the picture! {user_name} has a box with 10 toy cars inside, but some cars are in a big bowl with a spoon, and it looks like 3 toy cars have been eaten. How many toy cars are still in the box?
+Look at the picture! There is a basket with 1 big apple in it. If you take 1 apple away, how many apples are left in the basket?
+Look at the picture! {user_name} is holding 3 stickers in their hand. Then, they got a big box with 10 more stickers on the table. But, oh no! 18 stickers fell on the floor. How many stickers are left in {user_name}'s hand?
+Look at the picture! {user_name} is standing next to a table with 7 pencils on it, but 2 pencils are being taken away in a bag. How many pencils can {user_name} count on the table now?
+Look at the picture! {father_name} has a big box of pencils on his desk, and there are 6 pencils in it, but some of them have been eaten by the hungry pencils-eating monster, and now there are only some left. The monster ate 3 pencils. How many pencils can you see {father_name} has left in the box?
+Look at the picture! {sibling_name} has a toy box with 8 toy cars inside. There is a big zero written on a piece of paper that says "new toy cars" and it shows 0 more toy cars being added, but 7 toy cars are outside the box, taken away. How many toy cars are left inside {sibling_name}'s box?
+Look at the picture! There is a number line in the garden with numbers on stones. You can see 8, 9, 10, and then a blank stone. What number should be on the next stone to make it an even number greater than 10?
+Look at the picture! There are 14 colourful balls in a big basket. If 6 balls are taken out of the basket, how many balls are left?
+Look at the picture! There are 12 colourful blocks in a tower. If 4 blocks fall down, how many blocks are left in the tower?
+Look at the picture! There are numbers written on balloons in the garden: 9, 11, 13, and 15. Which odd number balloon is bigger than 11 but less than 15?
+Look at the picture! There are numbers on the blocks in the garden: 2, 4, and 6, and a big number 8 on the fence. Can you add together the even numbers that are less than the number 8 on the fence?
+Look at the picture! You can see 18 blocks in a basket and 9 more blocks beside it. How many blocks are there in total if you put the 9 blocks into the basket?
+Look at the picture! There is a basket with raffle tickets in it, and the sign on the basket says 30 tickets have been sold so far. Can you see the next ticket in the basket has a number on it? If 20 more tickets are sold, what number will be on the raffle ticket?
+Look at the picture! {mother_name} had 5 toys in her basket, and now there are only 2 toys left in the basket. How much has {mother_name} left?
+Look at the picture! {user_name} is standing in front of a basket with 10 mangoes in it, but 2 mangoes are being carried away in a bag. How many mangoes are still in {user_name}'s basket?
+Look at the picture! There are two 5p coins on the table. How much money is there altogether?
+Look at the number line in the picture! There are big numbers marked on it, and 69 is circled. Can you find the next odd number greater than 69 on the number line?
+Look at the picture! There are four balloons with numbers on them: one balloon has 18, one has 11, one has 15, and one has 14. The balloons are all jumbled up. Can you put the balloons in order from the smallest number to the greatest number?
+Look at the picture! There are 16 balloons tied to a tree, 17 birds sitting on a branch, and 18 flowers in a garden. Is 17 less than 20, but greater than 15?
+Look at the picture! {grandfather_name} has a bookshelf with 9 books on it, and there are 5 books in a box marked "sold". How many books are still on {grandfather_name}'s bookshelf?
+Look at the picture! {grandfather_name} is sitting at a table with a big bowl of marbles in front of him. There are 7 marbles in the bowl, but 3 of them are being swept away into a trash can. How many marbles are left in {grandfather_name}'s bowl?
+Look at the picture! {mother_name} has a big jar with sweets in it and is giving some to friends. You can see 9 sweets in the jar at first, but {mother_name} is handing 7 sweets to the friends. How many sweets are left in {mother_name}'s jar?
+Look at the picture! {grandmother_name} is standing in front of a big basket with balloons in it. There are 10 balloons tied to a string in the picture, and 6 of them are being carried away in a bag. How many balloons can you see {grandmother_name} has left in the basket?
+Look at the picture! {grandfather_name} had 5 apples in a big basket, but now there is a sign that says "5 apples sold" and the basket is empty. How many apples does {grandfather_name} have left?
+Look at the picture! {grandmother_name} is standing on the beach with a bucket that has 8 shells in it, but she is giving 3 shells to someone. How many shells are left in {grandmother_name}'s bucket?
+Look at the picture! {grandfather_name} is standing in a garden with 7 colourful balloons tied to his hand. There is a big basket of food on the table next to him, and a sign on the table says "0 balloons eaten". How many balloons does {grandfather_name} have left?
+Look at the picture! {grandfather_name} is sitting at a table with a big smile, and there are 8 stickers in a jar in front of him, but you can see 8 stickers have fallen on the floor. How many stickers does {grandfather_name} have left in the jar?
+Look at the picture! {sibling_name} is standing next to a basket with 10 apples in it. There is a big smile on {sibling_name}'s face and an empty plate in front of them with the number 0 apple peels or cores on it. How many apples does {sibling_name} have left?
+Look at the picture! {sibling_name} is standing next to a basket with 6 apples in it. There are 0 apples on the ground around them, which means they lost 0 apples. How many apples does {sibling_name} have left?
+Look at the picture! There are 20 colourful balloons in a big basket. If 5 of these balloons are taken out of the basket, how many balloons are left?
+Look at the picture! {father_name} has a big jar with 18 sweets in it, and he is giving 7 sweets to his friend. Can you see how many sweets are left in the jar?
+Look at the picture! {grandfather_name} is standing in a garden with 17 balloons tied to a big tree. Some of the balloons have been popped and are lying on the ground with big bites taken out of them - there are 8 bitten balloons. How many balloons are still tied to the tree that {grandfather_name} has left?
+Look at the picture! {sibling_name} is sitting next to a big jar that had 12 marbles in it, and now there are some marbles spilled out on the floor with a big X marked through 9 of them. How many marbles can you see are still in the jar that {sibling_name} has left?
+Look at the picture! {mother_name} is standing near a big bunch of balloons. There are 15 balloons tied to a chair. Some balloons are being carried away by friends, and you can see 8 balloons going away. How many balloons are left with {mother_name}?
+Look at the picture! {sibling_name} has a bookshelf with 8 books on it, but there's a big box with 10 books being carried away. How many books are left on {sibling_name}'s bookshelf?
+Look at the picture! {mother_name} has a big jar with stickers in it and a smaller jar with 5 stickers being given away. The big jar had 13 stickers in it. How many stickers are left in the big jar now?
+Look at the picture! {father_name} is standing on the beach with a big bucket of shells. There are 18 shells in the bucket, but 9 of them have fallen out onto the sand. How many shells are still in {father_name}'s bucket?
+Look at the picture! {sibling_name} has a bookshelf with 10 books on it, but there's a box with 5 books being carried away. How many books are still on {sibling_name}'s bookshelf?
+Look at the picture! {mother_name} has a big box of pencils on her desk, and there are 14 pencils drawn in the box. Can you see that 5 pencils are being taken away in a small bag? How many pencils are left in {mother_name}'s box?
+Look at the picture! There are 50 flowers in the garden. Can you see the picture of {mother_name} picking 20 flowers to give to {grandmother_name}? How many flowers are left in the garden?
+Look at the picture! {sibling_name} has a big basket with 50 apples in it, and next to the basket, there's a smaller basket with 30 apples that they sold. How many apples are still in the big basket that {sibling_name} has left?
+Look at the picture! {grandmother_name} has a big basket with 100 apples in it, and there are 8 apples on the table that have been eaten. Can you count how many apples are still in {grandmother_name}'s basket?
+Look at the picture! {father_name} has a big jar with 100 sweets in it, and next to it, there's a plate with 30 sweets that they ate. How many sweets are still in {father_name}'s jar?
+Look at the picture! There are 1 toy car, 3 toy blocks, 4 toy dolls, and 3 toy balls on the shelf. How many more toys are there in total of dolls and blocks than cars and balls?
+Look at the picture! {grandfather_name} is standing in front of a big basket that had 17 shells in it. He is holding a smaller basket with 9 shells that he sold. How many shells are left in the big basket now?
+Look at the picture! {father_name} has a bookshelf with 12 books on it, but there are 4 books with bites taken out of them on the floor. How many books are still on {father_name}'s bookshelf?
+Look at the picture! {grandfather_name} is sitting at a table with a big jar that says "20 stickers" on it, and there are stickers all around him. He is giving a big handful of 11 stickers to someone. How many stickers are left in the jar and on the table with {grandfather_name}?
+Look at the picture! {sibling_name} is sitting next to a big box that says "17 marbles" and there are 17 marbles inside, but 8 marbles have fallen out of the box and are on the floor. How many marbles are still in the box that {sibling_name} has left?
+Look at the picture! {father_name} has a big sheet of stickers with 8 stickers on it, and there's a picture of a trash can with 0 stickers in it because they didn't eat any. How many stickers does {father_name} have left?
+Look at the picture! {sibling_name} has a big jar with stickers in it and a smaller jar with some stickers taken out. The big jar had 10 stickers and the smaller jar has 4 stickers. How many stickers are left in the big jar that {sibling_name} has?
+Look at the picture! {grandfather_name} is sitting next to a big box that says "10 marbles" on it, but there are only a few marbles left in the box and 7 marbles are shown outside the box on the floor. How many marbles can you see {grandfather_name} has left in the box?
+Look at the picture! {sibling_name} is standing next to a big basket that had 12 shells in it, and there are 3 shells on the table with a "sold" sign. How many shells are still in {sibling_name}'s basket?
+Look at the picture! {grandfather_name} is standing in a garden with balloons tied to a big basket. You can see 11 balloons in the basket. Now, look, 7 balloons are being carried away by some children. How many balloons can you count that {grandfather_name} has left in the basket?
+Look at the picture! {father_name} has a bookshelf with 16 books on it, and there's a box with 8 books being carried away. How many books are still on {father_name}'s bookshelf?
+Look at the picture! {sibling_name} is sitting at a table with a big box that had 14 stickers in it, but now there are stickers all over the floor - 9 of them are under the table. How many stickers are still in the box with {sibling_name}?
+Look at the picture! {mother_name} has a big jar with 13 sweets inside, and next to it, there are 6 sweets on a plate that have been eaten. How many sweets are still in {mother_name}'s jar?
+Look at the picture! {father_name} is standing next to a big box that says "14 pencils" on it, and there are pencils in a basket being given to friends, with 8 pencils already given away. Can you count how many pencils are still in {father_name}'s box?
+Look at the picture! {grandfather_name} is standing in front of a big basket with 18 balloons inside. He is giving 9 balloons to someone. How many balloons can you see {grandfather_name} has left in his basket?
+Look at the picture! {user_name} has a big box of pencils, and 15 pencils are standing up in a row. But oh no, {user_name} drew a big bite mark on 8 of the pencils and they are now broken. How many pencils are still standing up and not broken?
+Look at the picture! {grandmother_name} has a bookshelf with 16 books on it, but some books are being carried away in a basket. There are 7 books in the basket. How many books are still on {grandmother_name}'s bookshelf?
+Look at the picture! {sibling_name} has a bookshelf with 13 books on it, and there's a box with 8 books being carried away. How many books are left on {sibling_name}'s bookshelf?
+Look at the picture! {grandmother_name} is standing by the beach with a big basket that had 19 shells in it. You can see 6 shells being taken away from the basket. How many shells are left in {grandmother_name}'s basket?
+Look at the picture! {father_name} has a big jar with 18 sweets inside, and there are 5 sweets on a plate next to the jar. Can you see how many sweets are left in the jar now?
+Look at the picture! {user_name} has a bookshelf with 14 books on it, but there's a big pile of 10 books on the floor with bites taken out of them. How many books are still on {user_name}'s bookshelf?
+Look at the picture! {sibling_name} had 16 stickers in their sticker book, but they sold some to their friend. Can you see that 6 stickers are now in their friend's hand? How many stickers does {sibling_name} have left in their book?
+Look at the picture! {grandfather_name} has a big jar with 60 marbles inside, and next to it, there's a smaller jar with 40 marbles that were sold. How many marbles are left in the big jar that {grandfather_name} has?
+Look at the picture! {user_name} is standing on the beach with a big bucket that had 80 shells in it. They are giving 50 shells to their friend, who is putting them into a smaller bucket. How many shells are left in {user_name}'s big bucket?
+Look at the picture! {user_name} is standing next to a big box with 8 marbles inside, but 3 marbles are rolling away outside the box. How many marbles are still in the box with {user_name}?
+Look at the picture! {user_name} is standing in a garden with balloons tied to a tree. There are 17 balloons tied up, but 10 of them have flown away and are floating out of the garden. How many balloons are still tied to the tree for {user_name}?
+Look at the picture! There are 26 colourful balloons in a big basket. If 18 balloons are taken out of the basket, how many balloons are left?
+Look at the picture! {mother_name} is standing by the beach with 10 shells in her bucket. Can {user_name} see 8 more shells being added to the bucket? But, oh no! 7 shells have fallen out of the bucket. How many shells are left in {mother_name}'s bucket?
+Look at the picture! There are 7 colorful balloons tied to a tree. Can {user_name} see the next balloon, which is an odd number more than 7, hidden behind the tree? How many balloons are there in total?
+Look at the picture! {mother_name} has a bookshelf with 8 books on it, but there's a big monster that ate 7 of the books, and now there are only a few books left on the shelf. How many books can {user_name} see on {mother_name}'s bookshelf now?
+Look at the picture! {mother_name} has a big bowl with 20 marbles in it, but there's a picture of {mother_name} eating 14 marbles. Now, can {user_name} count how many marbles are left in the bowl?
+Look at the picture! {father_name} has a big bookshelf with 30 books on it, but some silly monsters came and ate 12 of the books, and now there are empty spaces on the shelf. How many books can {user_name} see left on {father_name}'s bookshelf?
+Look at the picture! {user_name} has a big basket with 16 apples in it. Can {user_name} see {user_name} getting 5 more apples from the tree and adding them to the basket? But then, oh no! {user_name} dropped 9 apples on the ground. How many apples are left in the basket?
+Look at the picture! {grandmother_name} has a big jar with 100 sweets in it, and there's a small bowl next to the jar with 20 sweets taken out. Can {user_name} see how many sweets are left in the jar that {grandmother_name} has?
+Look at the picture! {grandfather_name} is sitting at a table with a big box that says "12 stickers" on it, but now there are only a few stickers left in the box and 10 stickers are on the floor. How many stickers can {user_name} see {grandfather_name} has left in the box?
+Look at the picture! There is a basket with 1 big apple in it. If {user_name} take 1 apple away, how many apples are left in the basket?
+Look at the picture! {father_name} has a big box of pencils on his desk, and there are 6 pencils in it, but some of them have been eaten by the hungry pencils-eating monster, and now there are only some left. The monster ate 3 pencils. How many pencils can {user_name} see {father_name} has left in the box?
+Look at the picture! There are numbers on the blocks in the garden: 2, 4, and 6, and a big number 8 on the fence. Can {user_name} add together the even numbers that are less than the number 8 on the fence?
+Look at the picture! You can see 18 blocks in a basket and 9 more blocks beside it. How many blocks are there in total if {user_name} put the 9 blocks into the basket?
+Look at the picture! There is a basket with raffle tickets in it, and the sign on the basket says 30 tickets have been sold so far. Can {user_name} see the next ticket in the basket has a number on it? If 20 more tickets are sold, what number will be on the raffle ticket?
+Look at the number line in the picture! There are big numbers marked on it, and 69 is circled. Can {user_name} find the next odd number greater than 69 on the number line?
+Look at the picture! There are four balloons with numbers on them: one balloon has 18, one has 11, one has 15, and one has 14. The balloons are all jumbled up. Can {user_name} put the balloons in order from the smallest number to the greatest number?
+Look at the picture! {grandmother_name} is standing in front of a big basket with balloons in it. There are 10 balloons tied to a string in the picture, and 6 of them are being carried away in a bag. How many balloons can {user_name} see {grandmother_name} has left in the basket?
+Look at the picture! {grandfather_name} is sitting at a table with a big smile, and there are 8 stickers in a jar in front of him, but {user_name} can see 8 stickers have fallen on the floor. How many stickers does {grandfather_name} have left in the jar?
+Look at the picture! {father_name} has a big jar with 18 sweets in it, and he is giving 7 sweets to his friend. Can {user_name} see how many sweets are left in the jar?
+Look at the picture! {sibling_name} is sitting next to a big jar that had 12 marbles in it, and now there are some marbles spilled out on the floor with a big X marked through 9 of them. How many marbles can {user_name} see are still in the jar that {sibling_name} has left?
+Look at the picture! {mother_name} is standing near a big bunch of balloons. There are 15 balloons tied to a chair. Some balloons are being carried away by friends, and {user_name} can see 8 balloons going away. How many balloons are left with {mother_name}?
+Look at the picture! {mother_name} has a big box of pencils on her desk, and there are 14 pencils drawn in the box. Can {user_name} see that 5 pencils are being taken away in a small bag? How many pencils are left in {mother_name}'s box?
+Look at the picture! There are 50 flowers in the garden. Can {user_name} see the picture of {mother_name} picking 20 flowers to give to {grandmother_name}? How many flowers are left in the garden?
+Look at the picture! {grandmother_name} has a big basket with 100 apples in it, and there are 8 apples on the table that have been eaten. Can {user_name} count how many apples are still in {grandmother_name}'s basket?
+Look at the picture! {grandfather_name} is sitting next to a big box that says "10 marbles" on it, but there are only a few marbles left in the box and 7 marbles are shown outside the box on the floor. How many marbles can {user_name} see {grandfather_name} has left in the box?
+Look at the picture! {grandfather_name} is standing in a garden with balloons tied to a big basket. You can see 11 balloons in the basket. Now, look, 7 balloons are being carried away by some children. How many balloons can {user_name} count that {grandfather_name} has left in the basket?
+Look at the picture! {father_name} is standing next to a big box that says "14 pencils" on it, and there are pencils in a basket being given to friends, with 8 pencils already given away. Can {user_name} count how many pencils are still in {father_name}'s box?
+Look at the picture! {grandfather_name} is standing in front of a big basket with 18 balloons inside. He is giving 9 balloons to someone. How many balloons can {user_name} see {grandfather_name} has left in his basket?
+Look at the picture! {father_name} has a big jar with 18 sweets inside, and there are 5 sweets on a plate next to the jar. Can {user_name} see how many sweets are left in the jar now?
+Look at the picture! {sibling_name} had 16 stickers in their sticker book, but they sold some to their friend. Can {user_name} see that 6 stickers are now in their friend's hand? How many stickers does {sibling_name} have left in their book?
+Look at the picture! {mother_name} has 10 shells in front of her, and 7 of them are crossed out. How many shells are not crossed out?
+Look at the picture! There are 7 colorful balloons in front of {user_name}. How many balloons are there?
+Look at the picture! {grandfather_name} has 9 mangoes in front of him and 5 of them are crossed out. How many mangoes are not crossed out?
+Look at the picture! {grandfather_name} has 5 books in front of him, and 5 of them are crossed out. How many books are not crossed out?
+Look at the picture! {user_name} has 8 sweets in front of {user_name}, and 5 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {mother_name} has 8 books in front of her, and 7 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandfather_name} has 3 books in front of him, and 9 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandmother_name} has 4 apples in front of her, and 9 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {mother_name} has 9 marbles in front of her, and 5 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {father_name} has 10 books in front of him, and 7 of them are crossed out. How many books are not crossed out?
+Look at the picture! {mother_name} has 10 apples in front of her, and 4 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {user_name} has 7 apples in front of {user_name}, 5 more apples in front of {user_name}, and 9 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {sibling_name} has 6 mangoes in front of {sibling_pronoun}, and 3 of them are crossed out. How many mangoes are not crossed out?
+Look at the picture! {grandmother_name} has 4 sweets in front of her, and 3 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandmother_name} has 9 sweets in front of her, and 7 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandfather_name} has 8 stickers in front of him, and 10 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {user_name} has 9 toy cars in front of {user_name}, and 6 of them are crossed out. How many toy cars are not crossed out?
+Look at the picture! {user_name} has 7 stickers in front of {user_name}, and 0 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {sibling_name} has 10 stickers in front of {sibling_pronoun}, and 8 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {grandmother_name} has 2 balloons in front of her, and 10 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {user_name} has 10 toy cars in front of {user_name}, and 3 of them are crossed out. How many toy cars are not crossed out?
+Look at the picture! There is 1 apple in front of {user_name}. If 1 of them is crossed out, how many apples are not crossed out?
+Look at the picture! {user_name} has 3 stickers in front of {user_name}, then 10 more stickers in front of {user_name}, and 1 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {user_name} has 7 pencils in front of {user_name}, and 2 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {father_name} has 6 pencils in front of him, and 3 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {sibling_name} has 8 toy cars in front of {sibling_pronoun}, 0 more toy cars, and 7 of them are crossed out. How many toy cars are not crossed out?
+Look at the picture! There is a number line with 8, 9, 10, and a blank stone. What number should be on the next stone?
+Look at the picture! There are 2 balls in front of {user_name}, and 6 of them are crossed out. How many balls are not crossed out?
+Look at the picture! There are 3 blocks in a tower, and 4 of them are crossed out. How many blocks are not crossed out?
+Look at the picture! There are balloons with numbers 9, 11, 13, and 3. Which odd number is bigger than 7 but less than 15?
+Look at the picture! There are blocks numbered 2, 4, 6, and 8. Can {user_name} add the even numbers that are less than 8?
+Look at the picture! There are 10 blocks in front of {user_name} and 9 more blocks beside them. How many blocks are there altogether?
+Look at the picture! There are 2 raffle tickets in front of {grandfather_name} and 7 more tickets in front of {grandmother_name}. How many tickets are there altogether?
+Look at the picture! {mother_name} had 5 toys in front of her, and now 3 of them are crossed out. How many toys are not crossed out?
+Look at the picture! {user_name} has 10 mangoes in front of {user_name}, and 2 of them are crossed out. How many mangoes are not crossed out?
+Look at the picture! There are two 5p coins. How much money is there altogether?
+Look at the picture! There is a number line with 7 circled. What is the next odd number greater than 69?
+Look at the picture! There are four balloons with numbers 18, 11, 15, and 10. Can {user_name} put them in order from smallest to greatest?
+Look at the picture! There are 8 balloons, 9 birds, and 5 flowers. Is 9 less than 20, but greater than 15?
+Look at the picture! {grandfather_name} has 9 books in front of him, and 5 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandfather_name} has 7 marbles in front of him, and 3 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {mother_name} has 9 sweets in front of her, and 7 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandmother_name} has 10 balloons in front of her, and 6 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {grandfather_name} had 5 apples in front of him, and 5 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {grandmother_name} has 8 shells in front of her, and 3 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {grandfather_name} has 7 balloons in front of him, and 0 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {grandfather_name} has 8 stickers in front of him, and 8 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {sibling_name} has 10 apples in front of {sibling_pronoun}, and 0 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {sibling_name} has 6 apples in front of {sibling_pronoun}, and 0 of them are crossed out. How many apples are not crossed out?
+Look at the picture! There are 1 balloons in a basket, and 5 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {father_name} has 2 sweets in front of him, and 7 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandfather_name} has 9 balloons in front of him, and 8 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {sibling_name} has 5 marbles in front of {sibling_pronoun}, and 9 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {mother_name} has 6 balloons in front of her, and 8 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {sibling_name} has 8 books in front of {sibling_pronoun}, and 10 of them are crossed out. How many books are not crossed out?
+Look at the picture! {mother_name} has 2 stickers in front of her, and 5 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {father_name} has 5 shells in front of him, and 9 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {sibling_name} has 10 books in front of {sibling_pronoun}, and 5 of them are crossed out. How many books are not crossed out?
+Look at the picture! {mother_name} has 7 pencils in front of her, and 5 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {grandmother_name} has 3 balloons in front of her, and 6 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {grandmother_name} has 6 sweets in front of her, and 3 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandfather_name} has 5 stickers in front of him, and 2 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {grandmother_name} has 6 toy cars in front of her, and 4 of them are crossed out. How many toy cars are not crossed out?
+Look at the picture! {sibling_name} has 7 balls in front of {sibling_pronoun}, and 2 of them are crossed out. How many balls are not crossed out?
+Look at the picture! {father_name} has 8 blocks in front of him, and 3 of them are crossed out. How many blocks are not crossed out?
+Look at the picture! {sibling_name} has 1 stickers in front of {sibling_pronoun}, and 7 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {sibling_name} has 8 marbles in front of {sibling_pronoun}, and 6 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {father_name} has 5 stickers in front of him, and 9 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {father_name} has 3 pencils in front of him, and 8 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {grandfather_name} has 8 balls in front of him, and 1 of them are crossed out. How many balls are not crossed out?
+Look at the picture! {grandmother_name} has 9 pencils in front of her, and 9 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {sibling_name} has 8 marbles in front of {sibling_pronoun}, and 1 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {user_name} has 2 balls in front of {user_name}, and 1 of them are crossed out. How many balls are not crossed out?
+Look at the picture! {grandmother_name} has 5 marbles in front of her, and 3 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {sibling_name} has 8 balls in front of {sibling_pronoun}, and 3 of them are crossed out. How many balls are not crossed out?
+Look at the picture! {father_name} has 8 blocks in front of him, and 5 of them are crossed out. How many blocks are not crossed out?
+Look at the picture! {user_name} has 5 books in front of {user_name}, and 10 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandfather_name} has 9 sweets in front of him, and 7 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandmother_name} has 6 marbles in front of her, and 4 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! There are 10 flowers, and 4 of them are crossed out. How many flowers are not crossed out?
+Look at the picture! {sibling_name} has 3 apples in front of {sibling_pronoun}, and 6 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {grandmother_name} has 3 apples in front of her, and 8 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {father_name} has 9 sweets in front of him, and 9 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! There are 1 toy car, 3 toy blocks, 4 toy dolls, and 3 toy balls. How many more dolls and blocks are there than cars and balls?
+Look at the picture! {grandfather_name} has 1 shells in front of him, and 9 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {father_name} has 10 books in front of him, and 4 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandfather_name} has 6 stickers in front of him, and 8 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {sibling_name} has 1 marbles in front of {sibling_pronoun}, and 8 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {user_name} has 5 marbles in front of {user_name}. There are 2 groups of 5 marbles. How many marbles are there altogether?
+Look at the picture! {grandfather_name} has 4 marbles in front of him. There are 2 groups of 4 marbles. How many marbles are there altogether?
+Look at the picture! {grandmother_name} has 2 marbles in front of her. There are 4 groups of 2 marbles. How many marbles are there altogether?
+Look at the picture! {mother_name} has 2 marbles in front of her. There are 2 groups of 2 marbles. How many marbles are there altogether?
+Look at the picture! {sibling_name} has 5 marbles in front of {sibling_pronoun}. There are 4 groups of 5 marbles. How many marbles are there altogether?
+Look at the picture! {sibling_name} has 3 marbles in front of {sibling_pronoun}. There are 2 groups of 3 marbles. How many marbles are there altogether?
+Look at the picture! {father_name} has 8 stickers in front of him, and 0 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {sibling_name} has 10 stickers in front of {sibling_pronoun}, and 4 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {grandfather_name} has 10 marbles in front of him, and 7 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {sibling_name} has 2 shells in front of {sibling_pronoun}, and 3 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {grandfather_name} has 6 balloons in front of him, and 7 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {father_name} has 5 books in front of him, and 8 of them are crossed out. How many books are not crossed out?
+Look at the picture! {sibling_name} has 4 stickers in front of {sibling_pronoun}, and 9 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {mother_name} has 1 sweets in front of her, and 6 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {father_name} has 4 pencils in front of him, and 8 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {grandfather_name} has 10 balloons in front of him, and 9 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {grandmother_name} has 4 stickers in front of her. Half of them are circled. How many stickers are circled?
+Look at the picture! {sibling_name} has 2 apples in front of {sibling_pronoun}. Half of them are circled. How many apples are circled?
+Look at the picture! {grandfather_name} has 8 marbles in front of him. Half of them are circled. How many marbles are circled?
+Look at the picture! {sibling_name} has 4 apples in front of {sibling_pronoun}. Half of them are circled. How many apples are circled?
+Look at the picture! {sibling_name} has 2 stickers in front of {sibling_pronoun}. Half of them are circled. How many stickers are circled?
+Look at the picture! {grandmother_name} has 8 stickers in front of her. Half of them are circled. How many stickers are circled?
+Look at the picture! {sibling_name} has 10 marbles in front of {sibling_pronoun}. Half of them are circled. How many marbles are circled?
+Look at the picture! {mother_name} has 6 stickers in front of her. Half of them are circled. How many stickers are circled?
+Look at the picture! {user_name} has 2 pencils in front of {user_name}, and 8 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {grandmother_name} has 2 books in front of her, and 7 of them are crossed out. How many books are not crossed out?
+Look at the picture! {sibling_name} has 8 books in front of {sibling_pronoun}, and 8 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandmother_name} has 2 shells in front of her, and 6 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {father_name} has 9 sweets in front of him, and 5 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {user_name} has 3 books in front of {user_name}, and 10 of them are crossed out. How many books are not crossed out?
+Look at the picture! {sibling_name} has 3 stickers in front of {sibling_pronoun}, and 6 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {grandfather_name} has 8 marbles in front of him, and 9 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {user_name} has 3 shells in front of {user_name}, and 5 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {user_name} has 8 marbles in front of {user_name}, and 3 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {user_name} has 9 balloons in front of {user_name}, and 10 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! There are 10 balloons, and 7 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {grandmother_name} has 4 balloons in front of her, and 6 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {father_name} has 9 blocks in front of him, and 3 of them are crossed out. How many blocks are not crossed out?
+Look at the picture! {sibling_name} has 4 stickers in front of {sibling_pronoun}, and 7 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {father_name} has 5 stickers in front of him, and 7 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {father_name} has 6 pencils in front of him, and 8 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {grandmother_name} has 8 pencils in front of her, and 9 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {user_name} has 9 balls in front of {user_name}, and 1 of them are crossed out. How many balls are not crossed out?
+Look at the picture! {user_name} has 8 books in front of {user_name}, and 10 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandfather_name} has 2 sweets in front of him, and 7 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandfather_name} has 15 books in front of him, and 5 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandfather_name} has 13 books in front of him, and 9 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandmother_name} has 90 apples in front of her, and 50 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {mother_name} has 20 marbles in front of her, and 14 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {father_name} has 30 books in front of him, and 12 of them are crossed out. How many books are not crossed out?
+Look at the picture! {mother_name} has 17 apples in front of her, and 4 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {user_name} has 16 apples in front of {user_name}, 5 more apples in front of {user_name}, and 9 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {sibling_name} has 30 mangoes in front of him, and 3 of them are crossed out. How many mangoes are not crossed out?
+Look at the picture! {grandmother_name} has 100 sweets in front of her, and 20 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandmother_name} has 19 sweets in front of her, and 7 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandfather_name} has 12 stickers in front of him, and 10 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {sibling_name} has 10 stickers in front of him, and 8 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {grandmother_name} has 17 balloons in front of her, and 10 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {user_name} is holding 3 stickers, then 10 more stickers in front of {user_name}, and 18 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {sibling_name} has 8 toy cars in front of him, 0 more toy cars, and 7 of them are crossed out. How many toy cars are not crossed out?
+Look at the picture! There are 14 balls in front of {user_name}, and 6 of them are crossed out. How many balls are not crossed out?
+Look at the picture! There are 12 blocks in a tower, and 4 of them are crossed out. How many blocks are not crossed out?
+Look at the picture! There are balloons with numbers 9, 11, 13, and 15. Which odd number is bigger than 11 but less than 15?
+Look at the picture! There are 18 blocks in front of {user_name} and 9 more blocks beside them. How many blocks are there altogether?
+Look at the picture! There is a basket with 30 raffle tickets. If 20 more tickets are sold, what number will be on the raffle ticket?
+Look at the picture! There is a number line with 69 circled. What is the next odd number greater than 69?
+Look at the picture! There are four balloons with numbers 18, 11, 15, and 14. Can {user_name} put them in order from smallest to greatest?
+Look at the picture! There are 16 balloons, 17 birds, and 18 flowers. Is 17 less than 20, but greater than 15?
+Look at the picture! {sibling_name} has 10 apples in front of him, and 0 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {sibling_name} has 6 apples in front of him, and 0 of them are crossed out. How many apples are not crossed out?
+Look at the picture! There are 20 balloons in a basket, and 5 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {father_name} has 18 sweets in front of him, and 7 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandfather_name} has 17 balloons in front of him, and 8 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {sibling_name} has 12 marbles in front of him, and 9 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {mother_name} has 15 balloons in front of her, and 8 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {sibling_name} has 8 books in front of him, and 10 of them are crossed out. How many books are not crossed out?
+Look at the picture! {mother_name} has 13 stickers in front of her, and 5 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {father_name} has 18 shells in front of him, and 9 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {sibling_name} has 10 books in front of him, and 5 of them are crossed out. How many books are not crossed out?
+Look at the picture! {mother_name} has 14 pencils in front of her, and 5 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! There are 50 flowers, and 20 of them are crossed out. How many flowers are not crossed out?
+Look at the picture! {sibling_name} has 50 apples in front of him, and 30 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {grandmother_name} has 100 apples in front of her, and 8 of them are crossed out. How many apples are not crossed out?
+Look at the picture! {father_name} has 100 sweets in front of him, and 30 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {grandfather_name} has 17 shells in front of him, and 9 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {father_name} has 12 books in front of him, and 4 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandfather_name} has 20 stickers in front of him, and 11 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {sibling_name} has 17 marbles in front of him, and 8 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {sibling_name} has 10 stickers in front of him, and 4 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {sibling_name} has 12 shells in front of him, and 3 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {grandfather_name} has 11 balloons in front of him, and 7 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {father_name} has 16 books in front of him, and 8 of them are crossed out. How many books are not crossed out?
+Look at the picture! {sibling_name} has 14 stickers in front of him, and 9 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {mother_name} has 13 sweets in front of her, and 6 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {father_name} has 14 pencils in front of him, and 8 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {grandfather_name} has 18 balloons in front of him, and 9 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! {user_name} has 15 pencils in front of {user_name}, and 8 of them are crossed out. How many pencils are not crossed out?
+Look at the picture! {grandmother_name} has 16 books in front of her, and 7 of them are crossed out. How many books are not crossed out?
+Look at the picture! {sibling_name} has 13 books in front of him, and 8 of them are crossed out. How many books are not crossed out?
+Look at the picture! {grandmother_name} has 19 shells in front of her, and 6 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {father_name} has 18 sweets in front of him, and 5 of them are crossed out. How many sweets are not crossed out?
+Look at the picture! {user_name} has 14 books in front of {user_name}, and 10 of them are crossed out. How many books are not crossed out?
+Look at the picture! {sibling_name} has 16 stickers in front of him, and 6 of them are crossed out. How many stickers are not crossed out?
+Look at the picture! {grandfather_name} has 60 marbles in front of him, and 40 of them are crossed out. How many marbles are not crossed out?
+Look at the picture! {user_name} has 80 shells in front of {user_name}, and 50 of them are crossed out. How many shells are not crossed out?
+Look at the picture! {user_name} has 17 balloons in front of {user_name}, and 10 of them are crossed out. How many balloons are not crossed out?
+Look at the picture! There are 26 balloons, and 18 of them are crossed out. How many balloons are not crossed out?

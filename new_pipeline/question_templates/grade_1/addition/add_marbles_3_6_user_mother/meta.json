@@ -1,0 +1,141 @@
+{
+  "stem_id": "add_marbles_3_6_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "user_bag_3_marbles_mother_jar_6_marbles.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 246,
+      "y": 303,
+      "w": 133,
+      "h": 168,
+      "landmarks": {
+        "right_eye": [
+          279,
+          371
+        ],
+        "left_eye": [
+          342,
+          364
+        ],
+        "nose": [
+          315,
+          401
+        ],
+        "mouth_right": [
+          290,
+          428
+        ],
+        "mouth_left": [
+          346,
+          422
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 623,
+      "y": 138,
+      "w": 159,
+      "h": 198,
+      "landmarks": {
+        "right_eye": [
+          654,
+          230
+        ],
+        "left_eye": [
+          727,
+          215
+        ],
+        "nose": [
+          693,
+          268
+        ],
+        "mouth_right": [
+          677,
+          294
+        ],
+        "mouth_left": [
+          742,
+          281
+        ]
+      },
+      "confidence": 0.944
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_child_bag",
+      "owner": "child",
+      "object_id": "marbles",
+      "singular": "marble",
+      "plural": "marbles",
+      "count": 3,
+      "container": "bag"
+    },
+    {
+      "id": "group_mother_jar",
+      "owner": "mother",
+      "object_id": "marbles",
+      "singular": "marble",
+      "plural": "marbles",
+      "count": 6,
+      "container": "jar"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "9",
+    "options": [
+      "9",
+      "3",
+      "6",
+      "8"
+    ],
+    "formula": "3+6",
+    "explanation": "3 marbles from child bag + 6 in mother jar = 9"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "3 marbles on table by child bag + 6 on table by mother jar (=9), all fully visible."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": "User bag 3 + mother jar 6 pour-together total."
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions in meta.json if needed."
+  },
+  "face_detection": "yunet"
+}

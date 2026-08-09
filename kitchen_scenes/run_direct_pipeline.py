@@ -48,7 +48,7 @@ load_dotenv(dotenv_path=Path(__file__).parent.parent / ".env")
 API_KEY = os.getenv("OPENROUTER_API_KEY", "").strip()
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 TEXT_MODEL  = "openai/gpt-4o"         # for vision question generation
-IMAGE_MODEL = "openai/gpt-5.4-image-2"  # for AI face blending
+IMAGE_MODEL = "openai/gpt-5.4-image-2"  # for AI face blending / scene finish
 
 DIRECT_TEMPLATES_DIR = Path(__file__).parent / "direct_food_templates"
 USER_PHOTOS_DIR = Path(__file__).parent / "sample_characters"
@@ -85,22 +85,79 @@ DEFAULT_USER_SETTINGS = {
 # TEMPLATE SEARCH & HELPERS
 # ─────────────────────────────────────────────────────────────────────────────
 
-def find_template_for_food(food: str) -> tuple[Path, dict] | tuple[None, None]:
-    """Find the best matching direct food template for a given food name."""
+def _adult_role_from_meta(meta: dict) -> str | None:
+    """Extract the adult family role from template metadata (e.g. mother, grandmother)."""
+    family = [str(x).strip().lower() for x in (meta.get("family") or []) if str(x).strip().lower() != "child"]
+    if family:
+        return family[0]
+    for slot in meta.get("face_slots") or []:
+        slot_l = str(slot).strip().lower()
+        if slot_l != "child" and slot_l.endswith("_name"):
+            return slot_l.replace("_name", "")
+        if slot_l in {"mother", "father", "grandmother", "grandfather"}:
+            return slot_l
+    return None
+
+
+def find_template_for_food(
+    food: str,
+    family_role: str | None = None,
+    *,
+    require_annotated: bool = True,
+) -> tuple[Path, dict] | tuple[None, None]:
+    """
+    Find a direct food template for a given food name.
+
+    If family_role is provided (e.g. 'mother', 'grandmother'), only templates
+    whose adult character matches that role are considered. Prefer annotated
+    templates when require_annotated is True.
+    """
     if not DIRECT_TEMPLATES_DIR.exists():
         return None, None
+
+    food_l = food.strip().lower()
+    role_l = (family_role or "").strip().lower() or None
+    candidates: list[tuple[Path, dict, bool]] = []
 
     for json_path in DIRECT_TEMPLATES_DIR.glob("*.json"):
         try:
             with open(json_path, encoding="utf-8") as f:
                 meta = json.load(f)
-            if meta.get("favorite_food", "").strip().lower() == food.strip().lower():
-                png_path = DIRECT_TEMPLATES_DIR / meta["image_file"]
-                if png_path.exists():
-                    return png_path, meta
+            if meta.get("favorite_food", "").strip().lower() != food_l:
+                continue
+            png_path = DIRECT_TEMPLATES_DIR / meta["image_file"]
+            if not png_path.exists():
+                continue
+            adult = _adult_role_from_meta(meta)
+            if role_l and adult != role_l:
+                continue
+            annotated = bool(meta.get("annotation_complete")) or len(meta.get("face_regions") or []) > 0
+            candidates.append((png_path, meta, annotated))
         except Exception:
             continue
-    return None, None
+
+    if not candidates:
+        return None, None
+
+    if require_annotated:
+        annotated = [c for c in candidates if c[2]]
+        if annotated:
+            return annotated[0][0], annotated[0][1]
+        return None, None
+
+    # Prefer annotated when available, else first match
+    candidates.sort(key=lambda c: (not c[2], c[0].name))
+    return candidates[0][0], candidates[0][1]
+
+
+def find_template_for_food_and_role(
+    food: str,
+    family_role: str,
+    *,
+    require_annotated: bool = True,
+) -> tuple[Path, dict] | tuple[None, None]:
+    """Strict food + adult-role template lookup."""
+    return find_template_for_food(food, family_role=family_role, require_annotated=require_annotated)
 
 
 def list_available_templates() -> list[dict]:
@@ -115,15 +172,30 @@ def list_available_templates() -> list[dict]:
                 meta = json.load(f)
             if "favorite_food" not in meta:
                 continue  # skip non-template JSON files that may live in this folder
+            adult = _adult_role_from_meta(meta)
             available.append({
                 "template_id": meta.get("template_id"),
                 "food": meta.get("favorite_food"),
                 "family": ", ".join(meta.get("family", [])),
+                "adult_role": adult,
                 "annotated": meta.get("annotation_complete", False) or len(meta.get("face_regions", [])) > 0,
             })
         except Exception:
             continue
     return available
+
+
+def list_roles_for_food(food: str, *, annotated_only: bool = True) -> list[str]:
+    """Return adult roles available for a food in the template library."""
+    roles = []
+    for t in list_available_templates():
+        if t["food"].strip().lower() != food.strip().lower():
+            continue
+        if annotated_only and not t.get("annotated"):
+            continue
+        if t.get("adult_role") and t["adult_role"] not in roles:
+            roles.append(t["adult_role"])
+    return roles
 
 
 def crop_face(path: Path) -> Image.Image:
@@ -225,21 +297,41 @@ def swap_faces(template_png: Path, meta: dict, user_settings: dict) -> Image.Ima
     return canvas
 
 
-def stylize_image(image: Image.Image, meta: dict) -> Image.Image:
+def stylize_image(image: Image.Image, meta: dict, style: str = "cartoon") -> Image.Image:
     """
-    Convert the given image into a warm children's-storybook CARTOON
-    illustration style, while preserving composition, character identity/
-    poses, expressions, and — critically — the exact count of the food item
-    (since the counting question depends on it matching what's printed).
+    Optional style pass. `soft_cartoon` keeps a mostly-realistic look with a
+    mild storybook touch; `cartoon` is a fuller children's picture-book style.
 
-    Returns an in-memory PIL.Image; nothing is written to disk. On any API
-    failure, returns the original (un-stylized) image unchanged.
+    Preserves composition, identity, and exact food count. On API failure,
+    returns the original image unchanged.
     """
     food = meta["favorite_food"]
     count = meta["objects"][0]["count"]
     item_desc = meta["objects"][0]["description"]
+    style = (style or "cartoon").strip().lower()
 
-    style_prompt = f"""Convert this image into a warm, friendly children's-storybook CARTOON illustration — soft flat colours, clean bold outlines, simplified rounded shapes, gentle shading, like a Grade 1 picture-book illustration. Not photorealistic.
+    if style in ("soft_cartoon", "soft", "semi_realistic", "storybook_soft"):
+        style_prompt = f"""Restyle this photo into a REALISTIC but gently illustrated look —
+like a premium children's storybook cover that still feels almost photographic.
+
+GOAL: mostly realistic, with a mild cartoon / storybook touch. NOT a flat cartoon.
+
+DO:
+- Keep natural faces, skin texture, and recognisable identity of both people.
+- Soften slightly: warmer cheerful colours, gentle painterly light, mild rounded
+  shapes, a touch of storybook charm.
+- Keep depth, shadows, and realistic materials (just a bit cleaner / softer).
+
+DO NOT:
+- Do NOT turn this into a flat cartoon, clip-art, or bold-outline animation.
+- Do NOT Pixar-ify or heavily simplify faces into cartoon characters.
+- Do NOT change who the people are, their ages, poses, framing, or background layout.
+- Do NOT add or remove objects: keep EXACTLY {count} {item_desc} ({food}) clearly countable.
+- No text, numbers, watermarks, or speech bubbles. Square 1024x1024.
+
+Output ONLY the restyled image."""
+    else:
+        style_prompt = f"""Convert this image into a warm, friendly children's-storybook CARTOON illustration — soft flat colours, clean bold outlines, simplified rounded shapes, gentle shading, like a Grade 1 picture-book illustration. Not photorealistic.
 
 ABSOLUTE CONSTRAINTS:
 1. PRESERVE COMPOSITION: Keep the exact same character poses, positions, camera framing, and background layout.
@@ -270,7 +362,7 @@ ABSOLUTE CONSTRAINTS:
         }]
     }
 
-    print("  🎨 Converting image to cartoon style...")
+    print(f"  🎨 Converting image to '{style}' style...")
     try:
         resp = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=180)
         if resp.status_code == 200:
@@ -280,12 +372,12 @@ ABSOLUTE CONSTRAINTS:
                     img_bytes = base64.b64decode(img_ref.split(",", 1)[1])
                 else:
                     img_bytes = requests.get(img_ref, timeout=60).content
-                print("  ✓ Cartoon-style image received (in-memory).")
+                print(f"  ✓ '{style}' style image received (in-memory).")
                 return Image.open(BytesIO(img_bytes)).convert("RGB")
 
-        print(f"  ⚠️  Cartoon stylization response issue ({resp.status_code}). Using realistic image instead.")
+        print(f"  ⚠️  Stylization response issue ({resp.status_code}). Using realistic image instead.")
     except Exception as e:
-        print(f"  ⚠️  Cartoon stylization error ({e}). Using realistic image instead.")
+        print(f"  ⚠️  Stylization error ({e}). Using realistic image instead.")
 
     return image.convert("RGB")
 
@@ -497,24 +589,31 @@ def run_pipeline(user_profile: dict) -> dict | None:
     """
     child_name = user_profile.get("child_name", "Child")
     food = user_profile.get("favorite_food", "").strip()
+    family_role = (user_profile.get("family_role") or "").strip().lower() or None
 
     print("=" * 60)
     print(f"  🚀  KITCHEN SCENES PERSONALISATION PIPELINE")
-    print(f"  👦  Child: {child_name}  |  Favourite Food: {food}")
+    role_label = family_role or "any"
+    print(f"  👦  Child: {child_name}  |  Favourite Food: {food}  |  Role: {role_label}")
     print("=" * 60)
 
-    # ── STEP 1: Find template for favourite food ──────────────────────────────
-    print(f"\n📁 STEP 1 — Searching template library for '{food}'...")
-    tmpl_png, meta = find_template_for_food(food)
+    # ── STEP 1: Find template for favourite food (+ optional adult role) ─────
+    print(f"\n📁 STEP 1 — Searching template library for '{food}'"
+          + (f" + '{family_role}'" if family_role else "") + "...")
+    tmpl_png, meta = find_template_for_food(food, family_role=family_role)
 
     if not tmpl_png or not meta:
-        print(f"\n  ❌ No template found for favourite food: '{food}'")
+        print(f"\n  ❌ No annotated template found for favourite food: '{food}'"
+              + (f" with role '{family_role}'" if family_role else ""))
         available = list_available_templates()
         if available:
             print(f"  📋 Available templates in library ({len(available)}):")
             for t in available:
                 status = "✅ Ready" if t["annotated"] else "⚠️ Needs Annotation"
                 print(f"     • {t['food']} ({t['family']}) — {status}")
+            if family_role:
+                roles = list_roles_for_food(food, annotated_only=False)
+                print(f"  💡 Roles present for '{food}' (any annotation state): {roles or 'none'}")
         else:
             print("  ⚠️  Template library is empty.")
         print("\n  💡 Tip: You can generate a template for this food using `run_direct_food_templates.py`.")
@@ -542,11 +641,11 @@ def run_pipeline(user_profile: dict) -> dict | None:
         print(f"\n👤 STEP 2/3 — No user photos supplied; using template image as-is (no face swap/blend).")
         final_image = Image.open(tmpl_png).convert("RGB")
 
-    # ── STEP 4: Optional cartoon stylization ──────────────────────────────────
+    # ── STEP 4: Optional stylization ──────────────────────────────────────────
     image_style = (user_profile.get("image_style") or "realistic").strip().lower()
-    if image_style == "cartoon":
-        print(f"\n🖍️  STEP 4 — Converting to cartoon style...")
-        final_image = stylize_image(final_image, meta)
+    if image_style in ("cartoon", "soft_cartoon", "soft", "semi_realistic", "storybook_soft"):
+        print(f"\n🖍️  STEP 4 — Converting to '{image_style}' style...")
+        final_image = stylize_image(final_image, meta, style=image_style)
 
     # ── STEP 5: Generate Grade 1 vision-grounded questions ────────────────────
     # Generated from the FINAL image (post style-conversion, if any) so the
@@ -576,8 +675,13 @@ def main():
     parser = argparse.ArgumentParser(description="Run Kitchen Scenes Personalisation Pipeline")
     parser.add_argument("--food", type=str, help="Favourite food name (e.g. Smoothies, Cookies, Pizza)")
     parser.add_argument("--name", type=str, help="Child's name")
-    parser.add_argument("--style", type=str, choices=["realistic", "cartoon"], default="realistic",
-                         help="Illustration style for the output image")
+    parser.add_argument(
+        "--style",
+        type=str,
+        choices=["realistic", "soft_cartoon", "cartoon"],
+        default="realistic",
+        help="Illustration style: realistic, soft_cartoon (mild storybook), or cartoon",
+    )
     args = parser.parse_args()
 
     user_profile = dict(DEFAULT_USER_SETTINGS)

@@ -1,0 +1,12 @@
+{
+  "object_id": "bubbles",
+  "category": "hobby",
+  "singular": "bubble wand",
+  "plural": "bubble wands",
+  "asset_file": "bubbles.png",
+  "default_count": 4,
+  "hold_style": "holding a bubble wand upright ready to blow",
+  "hand_action": "child holds a bubble wand while adult smiles encouragingly",
+  "surface_action": "remaining bubble wands rest on the picnic table with tiny bottles",
+  "interaction_prompt": "Hands must interact specifically with bubble wands — playful park moment."
+}

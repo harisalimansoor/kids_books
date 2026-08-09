@@ -1,0 +1,12 @@
+{
+  "object_id": "crayons",
+  "category": "hobby",
+  "singular": "crayon",
+  "plural": "crayons",
+  "asset_file": "crayons.png",
+  "default_count": 4,
+  "hold_style": "held like a crayon for colouring",
+  "hand_action": "child colours with a crayon while adult smiles and steadies the paper",
+  "surface_action": "remaining crayons lie on the picnic table in a clear countable row",
+  "interaction_prompt": "Hands must interact specifically with crayons — joyful outdoor colouring moment."
+}

@@ -11,7 +11,22 @@
     "child",
     "father_name"
   ],
-  "face_regions": [],
+  "face_regions": [
+    {
+      "x": 163,
+      "y": 276,
+      "w": 245,
+      "h": 276,
+      "role": "child"
+    },
+    {
+      "x": 532,
+      "y": 102,
+      "w": 256,
+      "h": 307,
+      "role": "father_name"
+    }
+  ],
   "objects": [
     {
       "id": 1,
@@ -28,5 +43,6 @@
     "family_recognition",
     "action_recognition"
   ],
-  "prompt": "Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his father in a warm, modern kitchen.\n\nCRITICAL POSING REQUIREMENT:\n- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.\n- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.\n\nOUTFITS & WARM EXPRESSIONS:\n- They are wearing chef aprons, making homemade chocolate treats.\n- Genuine, warm smiles with a loving look and friendly, happy eyes facing the camera.\n- Holding and arranging 4 delicious, glossy chocolate truffles on a marble serving tray on the counter.\n\nCOMPOSITION & FRAMING:\n- Position BOTH characters centered in the frame (medium chest-up shot).\n- Spacious composition with rich kitchen background details visible all around.\n\nSTYLE & LIGHTING:\n- Ultra-realistic, warm vibrant lighting, rich colourful details.\n- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur.\n\nCRITICAL CONSTRAINTS:\n- DIRECT FRONT-FACING HEADS. Both looking exactly at the camera.\n- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 father.\n- Exactly 4 distinct, countable chocolate truffles.\n- Crisp clear background focus \u2014 NO blur.\n- No text, no numbers.\n- Image size: 1024x1024 pixels square."
+  "prompt": "Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his father in a warm, modern kitchen.\n\nCRITICAL POSING REQUIREMENT:\n- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.\n- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.\n\nOUTFITS & WARM EXPRESSIONS:\n- They are wearing chef aprons, making homemade chocolate treats.\n- Genuine, warm smiles with a loving look and friendly, happy eyes facing the camera.\n- Holding and arranging 4 delicious, glossy chocolate truffles on a marble serving tray on the counter.\n\nCOMPOSITION & FRAMING:\n- Position BOTH characters centered in the frame (medium chest-up shot).\n- Spacious composition with rich kitchen background details visible all around.\n\nSTYLE & LIGHTING:\n- Ultra-realistic, warm vibrant lighting, rich colourful details.\n- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur.\n\nCRITICAL CONSTRAINTS:\n- DIRECT FRONT-FACING HEADS. Both looking exactly at the camera.\n- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 father.\n- Exactly 4 distinct, countable chocolate truffles.\n- Crisp clear background focus \u2014 NO blur.\n- No text, no numbers.\n- Image size: 1024x1024 pixels square.",
+  "annotation_complete": true
 }

@@ -1,0 +1,108 @@
+{
+  "template_id": "hobby_grandmother_child_interactive",
+  "image_file": "hobby_grandmother_child_interactive.png",
+  "scene_family": "hobby",
+  "scene": "park",
+  "family": [
+    "grandmother",
+    "child"
+  ],
+  "face_slots": [
+    "child",
+    "grandmother_name"
+  ],
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 251,
+      "y": 276,
+      "w": 164,
+      "h": 206,
+      "landmarks": {
+        "right_eye": [
+          294,
+          361
+        ],
+        "left_eye": [
+          373,
+          355
+        ],
+        "nose": [
+          340,
+          402
+        ],
+        "mouth_right": [
+          305,
+          428
+        ],
+        "mouth_left": [
+          378,
+          422
+        ]
+      },
+      "confidence": 0.956
+    },
+    {
+      "role": "grandmother_name",
+      "x": 599,
+      "y": 152,
+      "w": 183,
+      "h": 237,
+      "landmarks": {
+        "right_eye": [
+          645,
+          245
+        ],
+        "left_eye": [
+          728,
+          240
+        ],
+        "nose": [
+          685,
+          287
+        ],
+        "mouth_right": [
+          654,
+          323
+        ],
+        "mouth_left": [
+          731,
+          318
+        ]
+      },
+      "confidence": 0.938
+    }
+  ],
+  "count": 4,
+  "object": "placeholder_box",
+  "object_positions": [
+    {
+      "label": "placeholder_box",
+      "count": 4,
+      "positions": [
+        {
+          "x": 180,
+          "y": 860
+        },
+        {
+          "x": 380,
+          "y": 860
+        },
+        {
+          "x": 580,
+          "y": 860
+        },
+        {
+          "x": 780,
+          "y": 860
+        }
+      ]
+    }
+  ],
+  "style": "photorealistic",
+  "interactive": true,
+  "annotation_complete": true,
+  "prompt": "Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his grandmother in a bright sunny park.\n\nSETTING:\n- Outdoor park / playground atmosphere: green grass, trees, soft path, distant play area.\n- They are together at a picnic table or low park bench in the foreground.\n- Bright natural daylight, cheerful Grade 1 storybook mood.\n\nCRITICAL POSING REQUIREMENT:\n- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST look directly at the camera with heads facing straight forward.\n- NO side profiles. NO looking only at each other. Front-facing faces for easy face-swapping.\n\nNATURAL INTERACTION:\n- Warm, joyful, candid smiles with bright friendly eyes.\n- Their hands are near the picnic table / bench surface, ready to interact with hobby objects\n  (reaching, pointing, offering, or gently resting near the placeholders).\n\nOBJECT PLACEHOLDERS (VERY IMPORTANT):\n- On the picnic table or bench surface in the foreground, place EXACTLY 4 clearly separated\n  white rounded square placeholder boxes in a horizontal row.\n- Same size, evenly spaced, easy to count.\n- These boxes are empty placeholders \u2014 NOT footballs, paints, or other hobby items yet.\n- Leave space so hands can naturally hold or touch items that will replace the boxes later.\n\nCOMPOSITION & FRAMING:\n- Medium chest-up shot showing heads, shoulders, hands, and the table/bench surface.\n- Both characters centered with a detailed park background (trees, grass, path).\n- BACKGROUND FOCUS: completely sharp. NO blur, NO bokeh.\n\nSTYLE:\n- Ultra-realistic, bright warm outdoor lighting, vibrant cheerful colours.\n- Friendly family hobby / playtime mood.\n\nCRITICAL CONSTRAINTS:\n- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 grandmother.\n- Exactly 4 white rounded placeholder boxes on the table/bench.\n- No real hobby objects yet, no text, no numbers, no watermarks.\n- Image size: 1024x1024 pixels square.",
+  "notes": "Hobby/park role template. White placeholders are hobby-object-agnostic. Compositor fills them with footballs, paints, etc., then AI-beautifies hands for that hobby interaction style.",
+  "face_detection": "yunet"
+}

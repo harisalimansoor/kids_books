@@ -11,7 +11,22 @@
     "child",
     "grandfather_name"
   ],
-  "face_regions": [],
+  "face_regions": [
+    {
+      "x": 163,
+      "y": 276,
+      "w": 245,
+      "h": 276,
+      "role": "child"
+    },
+    {
+      "x": 532,
+      "y": 102,
+      "w": 256,
+      "h": 307,
+      "role": "grandfather_name"
+    }
+  ],
   "objects": [
     {
       "id": 1,
@@ -28,5 +43,6 @@
     "family_recognition",
     "action_recognition"
   ],
-  "prompt": "Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his grandfather in a sunlit kitchen.\n\nWARM EXPRESSION & INTERACTION:\n- They are preparing morning breakfast pancakes together.\n- Warm, gentle, loving smiles with affectionate friendly eyes.\n- Holding and serving 3 fluffy pancake stacks drizzled with maple syrup on ceramic plates.\n\nCOMPOSITION & FRAMING:\n- Centered medium chest-up composition showing grandfather and child in the middle of the shot.\n- Ample space around them showing bright kitchen background (cabinets, toaster, fruit basket, window sunshine).\n\nSTYLE & LIGHTING:\n- Ultra-realistic, bright warm morning sunshine, vibrant colours.\n- BACKGROUND FOCUS: Crystal clear, fully sharp focus. NO background blur, NO bokeh.\n\nCRITICAL CONSTRAINTS:\n- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 grandfather.\n- Gentle, warm, affectionate smiles with friendly eyes.\n- Exactly 3 pancake stacks clearly visible on plates/counter.\n- Characters centered in frame.\n- Sharp clear background focus \u2014 NO blur.\n- No text, no words.\n- Image size: 1024x1024 pixels square."
+  "prompt": "Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his grandfather in a sunlit kitchen.\n\nWARM EXPRESSION & INTERACTION:\n- They are preparing morning breakfast pancakes together.\n- Warm, gentle, loving smiles with affectionate friendly eyes.\n- Holding and serving 3 fluffy pancake stacks drizzled with maple syrup on ceramic plates.\n\nCOMPOSITION & FRAMING:\n- Centered medium chest-up composition showing grandfather and child in the middle of the shot.\n- Ample space around them showing bright kitchen background (cabinets, toaster, fruit basket, window sunshine).\n\nSTYLE & LIGHTING:\n- Ultra-realistic, bright warm morning sunshine, vibrant colours.\n- BACKGROUND FOCUS: Crystal clear, fully sharp focus. NO background blur, NO bokeh.\n\nCRITICAL CONSTRAINTS:\n- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 grandfather.\n- Gentle, warm, affectionate smiles with friendly eyes.\n- Exactly 3 pancake stacks clearly visible on plates/counter.\n- Characters centered in frame.\n- Sharp clear background focus \u2014 NO blur.\n- No text, no words.\n- Image size: 1024x1024 pixels square.",
+  "annotation_complete": true
 }

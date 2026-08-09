@@ -1,0 +1,12 @@
+{
+  "object_id": "pasta",
+  "category": "food",
+  "singular": "plate of pasta",
+  "plural": "plates of pasta",
+  "asset_file": "pasta.png",
+  "default_count": 2,
+  "hold_style": "hands near the plate rim on the counter",
+  "hand_action": "one character gently steadies a pasta plate on the counter while the other smiles — never invent an extra plate",
+  "surface_action": "all pasta plates sit on the counter with sauce visible (total equals placeholder count)",
+  "interaction_prompt": "TOTAL visible plates of pasta must equal the placeholder count."
+}

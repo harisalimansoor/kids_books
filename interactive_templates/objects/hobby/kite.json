@@ -1,0 +1,12 @@
+{
+  "object_id": "kite",
+  "category": "hobby",
+  "singular": "kite",
+  "plural": "kites",
+  "asset_file": "kite.png",
+  "default_count": 4,
+  "hold_style": "holding kite string handle or supporting a small kite",
+  "hand_action": "one character holds a kite ready to fly while the other helps with the string",
+  "surface_action": "remaining small kites rest on the picnic table / blanket, clearly countable",
+  "interaction_prompt": "Hands must interact specifically with kites — sunny park playtime moment."
+}

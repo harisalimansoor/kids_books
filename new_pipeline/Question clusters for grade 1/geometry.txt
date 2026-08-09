@@ -1,0 +1,42 @@
+=== GEOMETRY ===
+
+Look at the picture! There are some squared papers on the table and bundles of straws tied together in fifties. Can you see 2 bundles of straws and 5 squared papers? How many things are there altogether when you add the squared papers and the bundles of straws?
+Look at the picture! Can you see the piece of paper that {mother_name} is holding? It has 4 equal sides and 4 corners. What shape is it?
+Look at the picture! You can see two pieces of paper on the table. One piece of paper is under the pencil and the other is next to the book. Are the shapes of these two pieces of paper the same?
+Look at the picture! Can you see the shape that {mother_name} drew on the paper? It has 4 sides and 4 corners. What can you tell me about this shape?
+Look at the picture! Kim has put some 3D shapes into boxes. Can you see the shapes in each box? One box has cubes, one box has spheres, and one box has pyramids, but one shape is in the wrong box. Which shape should be crossed out?
+Look at the picture! Can you see the paper that {mother_name} is holding? It is round like a plate. What shape is the paper that {mother_name} is holding?
+Look at the picture! There are different shapes drawn on the squared paper. Can you see the shapes {grandmother_name} drew, and how many of each shape are there?
+Look at the picture! There are some squared papers on the table and bundles of straws tied together in fifties. Can {user_name} see 2 bundles of straws and 5 squared papers? How many things are there altogether when {user_name} add the squared papers and the bundles of straws?
+Look at the picture! Can {user_name} see the piece of paper that {mother_name} is holding? It has 4 equal sides and 4 corners. What shape is it?
+Look at the picture! Can {user_name} see the shape that {mother_name} drew on the paper? It has 4 sides and 4 corners. What can {user_name} tell me about this shape?
+Look at the picture! Kim has put some 3D shapes into boxes. Can {user_name} see the shapes in each box? One box has cubes, one box has spheres, and one box has pyramids, but one shape is in the wrong box. Which shape should be crossed out?
+Look at the picture! Can {user_name} see the paper that {mother_name} is holding? It is round like a plate. What shape is the paper that {mother_name} is holding?
+Look at the picture! There are different shapes drawn on the squared paper. Can {user_name} see the shapes {grandmother_name} drew, and how many of each shape are there?
+Look at the picture! {user_name} has 2 stars in front of {user_name}, and {mother_name} has 3 stars in front of her. How many shapes are there altogether?
+Look at the picture! {grandfather_name} has 4 diamonds in front of him, and {father_name} has 3 diamonds in front of him. How many shapes are there altogether?
+Look at the picture! {grandmother_name} has 5 squares in front of her, and {sibling_name} has 5 squares in front of {sibling_pronoun}. How many shapes are there altogether?
+Look at the picture! {grandmother_name} has 2 squares in front of her, and {user_name} has 5 squares in front of {user_name}. How many shapes are there altogether?
+Look at the picture! {grandfather_name} has 1 heart in front of him, and {father_name} has 2 hearts in front of him. How many shapes are there altogether?
+Look at the picture! {mother_name} has 4 rectangles in front of her, and {grandfather_name} has 5 rectangles in front of him. How many shapes are there altogether?
+Look at the picture! {sibling_name} has 1 heart in front of {sibling_pronoun}, and {user_name} has 6 hearts in front of {user_name}. How many shapes are there altogether?
+Look at the picture! {user_name} has 2 hearts in front of {user_name}, and {grandmother_name} has 3 hearts in front of her. How many shapes are there altogether?
+Look at the picture! {grandmother_name} has 2 squares in front of her, and {user_name} has 3 squares in front of {user_name}. How many shapes are there altogether?
+Look at the picture! {sibling_name} has 6 hearts in front of {sibling_pronoun}, and {grandfather_name} has 3 hearts in front of {sibling_pronoun}. How many shapes are there altogether?
+Look at the picture! {user_name} has 5 stars in front of {user_name}, and {mother_name} has 4 stars in front of her. How many shapes are there altogether?
+Look at the picture! {grandmother_name} has 6 hearts in front of her, and {grandfather_name} has 4 hearts in front of him. How many shapes are there altogether?
+Look at the picture! {grandmother_name} has 3 hearts in front of her, and {grandfather_name} has 2 hearts in front of him. How many shapes are there altogether?
+Look at the picture! {grandfather_name} has 5 hearts in front of {sibling_pronoun}, and {sibling_name} has 6 hearts in front of {sibling_pronoun}. How many shapes are there altogether?
+Look at the picture! {sibling_name} has 1 diamond in front of {sibling_pronoun}, and {grandmother_name} has 1 diamond in front of her. How many shapes are there altogether?
+Look at the picture! {sibling_name} has 3 triangles in front of {sibling_pronoun}, and {grandmother_name} has 5 triangles in front of her. How many shapes are there altogether?
+Look at the picture! {father_name} has 1 triangle in front of him, and {grandfather_name} has 3 triangles in front of him. How many shapes are there altogether?
+Look at the picture! {grandmother_name} has 2 rectangles in front of her, and {father_name} has 6 rectangles in front of him. How many shapes are there altogether?
+Look at the picture! {user_name} has 3 stars in front of {user_name}, and {grandmother_name} has 5 stars in front of her. How many shapes are there altogether?
+Look at the picture! {sibling_name} has 2 diamonds in front of {sibling_pronoun}, and {grandfather_name} has 2 diamonds in front of {sibling_pronoun}. How many shapes are there altogether?
+Look at the picture! There are 2 bundles of straws and 5 squared papers. How many things are there altogether?
+Look at the picture! {mother_name} is holding a piece of paper. It has 4 equal sides and 4 corners. What shape is it?
+Look at the picture! There are two pieces of paper on the table. One is under the pencil and the other is next to the book. Are the shapes the same?
+Look at the picture! {mother_name} drew a shape with 4 sides and 4 corners. What can {user_name} tell about this shape?
+Look at the picture! Kim put 3D shapes into boxes. One box has cubes, one has spheres, and one has pyramids. One shape is in the wrong box. Which shape should be crossed out?
+Look at the picture! {mother_name} is holding a piece of paper. It is round like a plate. What shape is it?
+Look at the picture! {grandmother_name} drew different shapes on squared paper. How many of each shape are there?

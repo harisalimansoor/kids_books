@@ -1,0 +1,12 @@
+{
+  "object_id": "chocolates",
+  "category": "food",
+  "singular": "chocolate",
+  "plural": "chocolates",
+  "asset_file": "chocolates.png",
+  "default_count": 4,
+  "hold_style": "held between thumb and fingertips as small truffles",
+  "hand_action": "one character points to or lightly touches a chocolate on the plate — never invent an extra held chocolate",
+  "surface_action": "all chocolates rest on a small plate or counter with soft shine (total equals placeholder count)",
+  "interaction_prompt": "Hands interact with chocolates in the countable set only. TOTAL visible chocolates must equal the placeholder count."
+}

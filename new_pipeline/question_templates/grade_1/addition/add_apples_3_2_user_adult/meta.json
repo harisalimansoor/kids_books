@@ -1,0 +1,166 @@
+{
+  "stem_id": "add_apples_3_2_user_adult",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "adult_has_3_apples_user_has_2_apples_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 138,
+      "y": 272,
+      "w": 110,
+      "h": 144,
+      "landmarks": {
+        "right_eye": [
+          168,
+          329
+        ],
+        "left_eye": [
+          221,
+          328
+        ],
+        "nose": [
+          196,
+          358
+        ],
+        "mouth_right": [
+          170,
+          379
+        ],
+        "mouth_left": [
+          221,
+          378
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "mother",
+      "x": 513,
+      "y": 160,
+      "w": 125,
+      "h": 167,
+      "landmarks": {
+        "right_eye": [
+          541,
+          222
+        ],
+        "left_eye": [
+          599,
+          220
+        ],
+        "nose": [
+          570,
+          255
+        ],
+        "mouth_right": [
+          546,
+          282
+        ],
+        "mouth_left": [
+          599,
+          280
+        ]
+      },
+      "confidence": 0.943
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_child",
+      "owner": "child",
+      "object_id": "apples",
+      "singular": "apple",
+      "plural": "apples",
+      "count": 2,
+      "positions": [
+        {
+          "x": 210,
+          "y": 780
+        },
+        {
+          "x": 340,
+          "y": 780
+        }
+      ]
+    },
+    {
+      "id": "group_adult",
+      "owner": "adult",
+      "object_id": "apples",
+      "singular": "apple",
+      "plural": "apples",
+      "count": 3,
+      "positions": [
+        {
+          "x": 520,
+          "y": 770
+        },
+        {
+          "x": 650,
+          "y": 770
+        },
+        {
+          "x": 780,
+          "y": 770
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "6"
+    ],
+    "formula": "3+2",
+    "explanation": "Adult group (3) + child group (2) = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Apple groups separated: 2 in front of child, 3 in front of adult; light hand interaction; faces front-facing."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": "Example stem \u2014 adult role filled at runtime from scene."
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Apples must be equal shape/size with clear gaps for unambiguous counting.",
+    "apple_layout": "two_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions manually in meta.json if boxes are off."
+  }
+}

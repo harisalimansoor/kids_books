@@ -1,27 +1,23 @@
 """
 run_direct_food_templates.py
 ─────────────────────────────────────────────────────────────────────────────
-Generates pre-rendered Direct Interaction Sample Templates for favorite foods & kitchen activities:
-  - 🍕 Pizza
-  - 🍦 Ice cream
-  - 🍎 Apples
-  - 🍔 Burgers
-  - 🥖 Baking Cookies/Cupcakes
-  - 🍫 Making Chocolates
-  - 🥞 Making Pancakes
-  - 🍓 Making Smoothies
+Generates pre-rendered Direct Interaction Sample Templates for favorite foods.
 
 STRICT RULE:
-  Each template features EXACTLY 2 CHARACTERS: 1 Child (5-6yo, Grade 1) and 1 Adult character.
-  Expressions: Gentle, genuine, warm smiles with a loving, sweet look and bright friendly eyes.
+  Each template features EXACTLY 2 CHARACTERS: 1 Child (5-6yo, Grade 1) and
+  1 Adult character (mother / father / grandmother / grandfather).
 
-Output Folder: template_framework/direct_food_templates/
+For every food base, this script expands all adult-role variants so worksheet
+questions and images can be matched by favourite food + family role.
 """
+
+from __future__ import annotations
 
 import os
 import re
 import json
 import base64
+import argparse
 import requests
 from pathlib import Path
 from dotenv import load_dotenv
@@ -33,21 +29,127 @@ MODEL = "openai/gpt-5.4-image-2"
 
 OUTPUT_DIR = Path(__file__).parent / "direct_food_templates"
 
-DIRECT_TEMPLATES = [
+ADULT_ROLES = ("mother", "father", "grandmother", "grandfather")
+
+# Base food scenes — each expands into one template per adult role.
+FOOD_BASES = [
     {
-        "id": "kitchen_pizza_mother_child",
+        "slug": "pizza",
         "food": "Pizza",
         "item_description": "4 slices of cheesy, freshly baked pizza",
         "item_count": 4,
-        "family": "mother_child",
-        "face_slots": ["child", "mother_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his mother in a bright, spacious modern kitchen.
+        "item_type": "pizza",
+        "activity": "having a fun pizza party together at the marble kitchen counter",
+        "holding": "physically holding and interacting naturally with 4 slices of cheesy, freshly baked pizza on a wooden board on the counter",
+    },
+    {
+        "slug": "ice_cream",
+        "food": "Ice cream",
+        "item_description": "3 colourful waffle cone ice creams with scoops of strawberry and vanilla",
+        "item_count": 3,
+        "item_type": "ice cream",
+        "activity": "cheerfully enjoying colourful ice cream waffle cones together",
+        "holding": "holding exactly 3 colourful ice cream waffle cones in their hands and on a stand on the counter",
+    },
+    {
+        "slug": "apples",
+        "food": "Apples",
+        "item_description": "4 shiny, bright red fresh apples",
+        "item_count": 4,
+        "item_type": "apples",
+        "activity": "preparing fresh healthy fruit snacks at the kitchen counter",
+        "holding": "physically holding and arranging 4 shiny, bright red fresh apples on the counter and in a wooden bowl",
+    },
+    {
+        "slug": "burgers",
+        "food": "Burgers",
+        "item_description": "3 delicious mini burgers with cheese and lettuce on wooden plates",
+        "item_count": 3,
+        "item_type": "burgers",
+        "activity": "enjoying freshly prepared mini burgers together",
+        "holding": "holding and interacting with 3 delicious mini burgers on wooden plates on the kitchen island",
+    },
+    {
+        "slug": "baking_cookies",
+        "food": "Cookies",
+        "item_description": "4 freshly baked chocolate chip cookies on a baking sheet",
+        "item_count": 4,
+        "item_type": "cookies",
+        "activity": "wearing matching cute white chef hats and aprons, baking cookies together",
+        "holding": "physically holding and placing 4 freshly baked golden chocolate chip cookies on a baking sheet on the counter",
+    },
+    {
+        "slug": "making_chocolates",
+        "food": "Chocolates",
+        "item_description": "4 delicious gourmet chocolate truffles on a decorative plate",
+        "item_count": 4,
+        "item_type": "chocolates",
+        "activity": "wearing chef aprons, making homemade chocolate treats",
+        "holding": "holding and arranging 4 delicious, glossy chocolate truffles on a marble serving tray on the counter",
+    },
+    {
+        "slug": "cupcakes",
+        "food": "Cupcakes",
+        "item_description": "4 colourful decorated cupcakes on a stand",
+        "item_count": 4,
+        "item_type": "cupcakes",
+        "activity": "enjoying decorated cupcakes in the kitchen",
+        "holding": "holding and interacting with exactly 4 colourful decorated cupcakes on a stand on the counter",
+    },
+    {
+        "slug": "noodles",
+        "food": "Noodles",
+        "item_description": "2 bowls of delicious steaming noodles with chopsticks",
+        "item_count": 2,
+        "item_type": "noodles",
+        "activity": "getting ready to eat some tasty noodles",
+        "holding": "interacting with exactly 2 bowls of delicious steaming noodles with chopsticks on the counter",
+    },
+    {
+        "slug": "pasta",
+        "food": "Pasta",
+        "item_description": "2 large plates of delicious pasta with tomato sauce",
+        "item_count": 2,
+        "item_type": "pasta",
+        "activity": "enjoying a family pasta dinner",
+        "holding": "interacting with exactly 2 large plates of delicious pasta with tomato sauce on the counter",
+    },
+    {
+        "slug": "pancake_breakfast",
+        "food": "Pancakes",
+        "item_description": "3 fluffy pancake stacks drizzled with maple syrup",
+        "item_count": 3,
+        "item_type": "pancakes",
+        "activity": "preparing morning breakfast pancakes together",
+        "holding": "holding and serving 3 fluffy pancake stacks drizzled with maple syrup on ceramic plates",
+    },
+    {
+        "slug": "making_smoothies",
+        "food": "Smoothies",
+        "item_description": "4 vibrant colourful fruit smoothie glasses with straws",
+        "item_count": 4,
+        "item_type": "smoothies",
+        "activity": "making fresh fruit smoothies at the kitchen island counter",
+        "holding": "holding and arranging 4 vibrant, colourful fruit smoothie glasses with colourful straws next to fresh berries and fruit slices",
+    },
+]
+
+
+def _scene_prompt(food_base: dict, adult_role: str) -> str:
+    adult_label = adult_role.replace("_", " ")
+    count = food_base["item_count"]
+    desc = food_base["item_description"]
+    return f"""
+Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his {adult_label} in a bright modern kitchen.
+
+CRITICAL POSING REQUIREMENT:
+- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.
+- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.
 
 EXPRESSION & INTERACTION:
-- They are having a fun pizza party together at the marble kitchen counter.
+- They are {food_base["activity"]}.
 - Both characters have gentle, genuine, warm smiles with loving expressive eyes, sharing a sweet and happy family moment.
-- They are physically holding and interacting naturally with 4 slices of cheesy, freshly baked pizza on a wooden board on the counter.
+- They are {food_base["holding"]}.
 
 COMPOSITION & FRAMING:
 - Position BOTH characters centered in the frame (medium chest-up shot showing heads, shoulders, hands, and chest).
@@ -55,367 +157,51 @@ COMPOSITION & FRAMING:
 
 STYLE & LIGHTING:
 - Ultra-realistic, bright warm lighting, highly vibrant and cheerful colours for a Grade 1 storybook.
-- BACKGROUND FOCUS: Crystal clear, fully sharp background focus. Absolutely NO background blur, NO bokeh blur, NO shallow depth of field. Every kitchen detail must be in crisp focus.
+- BACKGROUND FOCUS: Crystal clear, fully sharp background focus. Absolutely NO background blur, NO bokeh blur, NO shallow depth of field.
 
 CRITICAL CONSTRAINTS:
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 mother. NO extra people or children.
+- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 {adult_label}. NO extra people or children.
 - Gentle, warm, genuine smiles with friendly expressive eyes.
-- Exactly 4 clearly separated, countable slices of pizza visible on the board and in hands.
+- Exactly {count} clearly separated, countable items matching: {desc}.
 - Both characters centered with ample visible background.
 - Crisp clear focus throughout — NO background blur.
 - No text, no numbers, no words.
 - Image size: 1024x1024 pixels square.
 """.strip()
-    },
-    {
-        "id": "kitchen_ice_cream_father_child",
-        "food": "Ice cream",
-        "item_description": "3 colourful waffle cone ice creams with scoops of strawberry and vanilla",
-        "item_count": 3,
-        "family": "father_child",
-        "face_slots": ["child", "father_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his father in a sunlit modern kitchen.
 
-EXPRESSION & INTERACTION:
-- They are cheerfully enjoying colourful ice cream waffle cones together.
-- Gentle, genuine, warm smiles with a loving, joyful look and sparkling, friendly eyes.
-- There are exactly 3 colourful ice cream waffle cones being held in their hands and on a stand on the counter.
 
-COMPOSITION & FRAMING:
-- Position BOTH characters centered in the frame (medium chest-up shot).
-- Ample breathing room and a detailed kitchen background (wooden cabinets, window light, kitchen plants) visible all around them.
-
-STYLE & LIGHTING:
-- Ultra-realistic, bright, warm, colourful and cheerful.
-- BACKGROUND FOCUS: Crystal clear, fully sharp focus. NO background blur, NO bokeh blur. Every kitchen detail is sharp.
-
-CRITICAL CONSTRAINTS:
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 father. NO extra people.
-- Gentle, genuine, warm smiles with expressive eyes.
-- Exactly 3 distinct, countable ice cream cones held clearly.
-- Characters centered in frame.
-- Crisp clear background focus — NO blur.
-- No text, no numbers.
-- Image size: 1024x1024 pixels square.
-""".strip()
-    },
-    {
-        "id": "kitchen_apples_mother_child",
-        "food": "Apples",
-        "item_description": "4 shiny, bright red fresh apples",
-        "item_count": 4,
-        "family": "mother_child",
-        "face_slots": ["child", "mother_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his mother in a bright modern kitchen.
-
-EXPRESSION & INTERACTION:
-- They are preparing fresh healthy fruit snacks at the kitchen counter.
-- Both characters have soft, genuine, warm smiles with a loving, caring look and bright happy eyes.
-- They are physically holding and arranging 4 shiny, bright red fresh apples on the counter and in a wooden bowl.
-
-COMPOSITION & FRAMING:
-- Centered medium chest-up shot showing both characters in the middle of the frame.
-- Spacious composition with detailed kitchen background (cabinets, window, kitchen accessories) visible all around.
-
-STYLE & LIGHTING:
-- Ultra-realistic, vibrant bright colours, warm friendly lighting.
-- BACKGROUND FOCUS: Completely crisp, sharp background focus. NO background blur, NO bokeh.
-
-CRITICAL CONSTRAINTS:
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 mother. NO extra people.
-- Gentle, warm smiles with loving, friendly eyes.
-- Exactly 4 shiny red apples clearly visible and countable on counter and in hands.
-- Characters centered in frame.
-- Sharp clear background throughout — NO blur.
-- No text, no words.
-- Image size: 1024x1024 pixels square.
-""".strip()
-    },
-    {
-        "id": "kitchen_burgers_father_child",
-        "food": "Burgers",
-        "item_description": "3 delicious mini burgers with cheese and lettuce on wooden plates",
-        "item_count": 3,
-        "family": "father_child",
-        "face_slots": ["child", "father_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his father gathered at the kitchen counter.
-
-EXPRESSION & INTERACTION:
-- They are enjoying freshly prepared mini burgers together.
-- Genuine, gentle, warm smiles with a sweet loving look and bright expressive eyes.
-- Holding and interacting with 3 delicious mini burgers on wooden plates on the kitchen island.
-
-COMPOSITION & FRAMING:
-- Centered medium chest-up composition showing both characters in the middle of the frame.
-- Ample room around them showing the detailed, vibrant kitchen background.
-
-STYLE & LIGHTING:
-- Ultra-realistic, bright warm lighting, highly colourful.
-- BACKGROUND FOCUS: Fully sharp, crystal clear background focus. NO background blur, NO bokeh.
-
-CRITICAL CONSTRAINTS:
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 father. NO extra people.
-- Soft, gentle, warm smiles with friendly eyes.
-- Exactly 3 mini burgers clearly visible on plates and held in hands.
-- Characters centered in frame with spacious background.
-- Crisp sharp background focus — NO blur.
-- No text, no numbers.
-- Image size: 1024x1024 pixels square.
-""".strip()
-    },
-    {
-        "id": "kitchen_baking_cookies_mother_child",
-        "food": "Cookies",
-        "item_description": "4 freshly baked chocolate chip cookies on a baking sheet",
-        "item_count": 4,
-        "family": "mother_child",
-        "face_slots": ["child", "mother_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his mother in a flour-dusted, bright modern kitchen.
-
-OUTFITS & WARM EXPRESSIONS:
-- They are wearing matching cute white chef hats and aprons, baking cookies together.
-- Gentle, warm smiles with a loving, sweet look and bright happy eyes.
-- They are physically holding and placing 4 freshly baked golden chocolate chip cookies on a baking sheet on the counter.
-
-COMPOSITION & FRAMING:
-- Position BOTH characters centered in the frame (medium chest-up shot).
-- Generous space around them with detailed kitchen background (cabinets, oven, rolling pin, mixing bowl) visible in sharp focus.
-
-STYLE & LIGHTING:
-- Ultra-realistic, bright cheerful lighting, vibrant colours.
-- BACKGROUND FOCUS: Crystal clear, fully sharp background focus. NO background blur, NO bokeh.
-
-CRITICAL CONSTRAINTS:
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 mother.
-- Soft, gentle, warm smiles with loving eyes.
-- Exactly 4 clearly separated, countable chocolate chip cookies visible on the sheet and in hands.
-- Characters centered in frame.
-- Crisp clear focus throughout — NO blur.
-- No text, no words.
-- Image size: 1024x1024 pixels square.
-""".strip()
-    },
-    {
-        "id": "kitchen_making_chocolates_father_child",
-        "food": "Chocolates",
-        "item_description": "4 delicious gourmet chocolate truffles on a decorative plate",
-        "item_count": 4,
-        "family": "father_child",
-        "face_slots": ["child", "father_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his father in a warm, modern kitchen.
-
-CRITICAL POSING REQUIREMENT:
-- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.
-- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.
-
-OUTFITS & WARM EXPRESSIONS:
-- They are wearing chef aprons, making homemade chocolate treats.
-- Genuine, warm smiles with a loving look and friendly, happy eyes facing the camera.
-- Holding and arranging 4 delicious, glossy chocolate truffles on a marble serving tray on the counter.
-
-COMPOSITION & FRAMING:
-- Position BOTH characters centered in the frame (medium chest-up shot).
-- Spacious composition with rich kitchen background details visible all around.
-
-STYLE & LIGHTING:
-- Ultra-realistic, warm vibrant lighting, rich colourful details.
-- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur.
-
-CRITICAL CONSTRAINTS:
-- DIRECT FRONT-FACING HEADS. Both looking exactly at the camera.
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 father.
-- Exactly 4 distinct, countable chocolate truffles.
-- Crisp clear background focus — NO blur.
-- No text, no numbers.
-- Image size: 1024x1024 pixels square.
-""".strip()
-    },
-    {
-        "id": "kitchen_cupcakes_mother_child",
-        "food": "Cupcakes",
-        "item_description": "4 colourful decorated cupcakes on a stand",
-        "item_count": 4,
-        "family": "mother_child",
-        "face_slots": ["child", "mother_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his mother in a bright modern kitchen.
-
-CRITICAL POSING REQUIREMENT:
-- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.
-- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.
-
-OUTFITS & WARM EXPRESSIONS:
-- They are in the kitchen enjoying decorated cupcakes.
-- Genuine, warm smiles with a loving look and friendly, happy eyes facing the camera.
-- Holding and interacting with exactly 4 colourful decorated cupcakes on a stand on the counter.
-
-COMPOSITION & FRAMING:
-- Position BOTH characters centered in the frame (medium chest-up shot).
-- Spacious composition with rich kitchen background details visible all around.
-
-STYLE & LIGHTING:
-- Ultra-realistic, bright warm lighting, highly vibrant and cheerful colours.
-- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur.
-
-CRITICAL CONSTRAINTS:
-- DIRECT FRONT-FACING HEADS. Both looking exactly at the camera.
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 mother.
-- Exactly 4 distinct, countable cupcakes.
-- Crisp clear background focus — NO blur.
-- No text, no numbers.
-- Image size: 1024x1024 pixels square.
-""".strip()
-    },
-    {
-        "id": "kitchen_noodles_father_child",
-        "food": "Noodles",
-        "item_description": "2 bowls of delicious steaming noodles with chopsticks",
-        "item_count": 2,
-        "family": "father_child",
-        "face_slots": ["child", "father_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his father in a cozy kitchen.
-
-CRITICAL POSING REQUIREMENT:
-- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.
-- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.
-
-OUTFITS & WARM EXPRESSIONS:
-- They are getting ready to eat some tasty noodles.
-- Genuine, warm smiles with a loving look and friendly, happy eyes facing the camera.
-- Interacting with exactly 2 bowls of delicious steaming noodles with chopsticks on the counter.
-
-COMPOSITION & FRAMING:
-- Position BOTH characters centered in the frame (medium chest-up shot).
-- Spacious composition with rich kitchen background details visible all around.
-
-STYLE & LIGHTING:
-- Ultra-realistic, warm inviting lighting, vibrant colours.
-- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur.
-
-CRITICAL CONSTRAINTS:
-- DIRECT FRONT-FACING HEADS. Both looking exactly at the camera.
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 father.
-- Exactly 2 distinct, countable bowls of noodles.
-- Crisp clear background focus — NO blur.
-- No text, no numbers.
-- Image size: 1024x1024 pixels square.
-""".strip()
-    },
-    {
-        "id": "kitchen_pasta_mother_child",
-        "food": "Pasta",
-        "item_description": "2 large plates of delicious pasta with tomato sauce",
-        "item_count": 2,
-        "family": "mother_child",
-        "face_slots": ["child", "mother_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his mother in a bright modern kitchen.
-
-CRITICAL POSING REQUIREMENT:
-- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST be looking directly at the camera with their heads facing perfectly straight forward.
-- NO SIDE PROFILES. NO LOOKING AT EACH OTHER. Head pose must be front-facing to allow for easy face-swapping.
-
-OUTFITS & WARM EXPRESSIONS:
-- They are enjoying a family pasta dinner.
-- Genuine, warm smiles with a loving look and friendly, happy eyes facing the camera.
-- Interacting with exactly 2 large plates of delicious pasta with tomato sauce on the counter.
-
-COMPOSITION & FRAMING:
-- Position BOTH characters centered in the frame (medium chest-up shot).
-- Spacious composition with rich kitchen background details visible all around.
-
-STYLE & LIGHTING:
-- Ultra-realistic, bright warm lighting, highly vibrant and cheerful colours.
-- BACKGROUND FOCUS: Crystal clear, sharp background focus. NO background blur.
-
-CRITICAL CONSTRAINTS:
-- DIRECT FRONT-FACING HEADS. Both looking exactly at the camera.
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 mother.
-- Exactly 2 distinct, countable plates of pasta.
-- Crisp clear background focus — NO blur.
-- No text, no numbers.
-- Image size: 1024x1024 pixels square.
-""".strip()
-    },
-    {
-        "id": "kitchen_pancake_breakfast_grandfather_child",
-        "food": "Pancakes",
-        "item_description": "3 fluffy pancake stacks drizzled with maple syrup",
-        "item_count": 3,
-        "family": "grandfather_child",
-        "face_slots": ["child", "grandfather_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his grandfather in a sunlit kitchen.
-
-WARM EXPRESSION & INTERACTION:
-- They are preparing morning breakfast pancakes together.
-- Warm, gentle, loving smiles with affectionate friendly eyes.
-- Holding and serving 3 fluffy pancake stacks drizzled with maple syrup on ceramic plates.
-
-COMPOSITION & FRAMING:
-- Centered medium chest-up composition showing grandfather and child in the middle of the shot.
-- Ample space around them showing bright kitchen background (cabinets, toaster, fruit basket, window sunshine).
-
-STYLE & LIGHTING:
-- Ultra-realistic, bright warm morning sunshine, vibrant colours.
-- BACKGROUND FOCUS: Crystal clear, fully sharp focus. NO background blur, NO bokeh.
-
-CRITICAL CONSTRAINTS:
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 grandfather.
-- Gentle, warm, affectionate smiles with friendly eyes.
-- Exactly 3 pancake stacks clearly visible on plates/counter.
-- Characters centered in frame.
-- Sharp clear background focus — NO blur.
-- No text, no words.
-- Image size: 1024x1024 pixels square.
-""".strip()
-    },
-    {
-        "id": "kitchen_making_smoothies_grandmother_child",
-        "food": "Smoothies",
-        "item_description": "4 vibrant colourful fruit smoothie glasses with straws",
-        "item_count": 4,
-        "family": "grandmother_child",
-        "face_slots": ["child", "grandmother_name"],
-        "scene_prompt": """
-Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his grandmother in a bright modern kitchen.
-
-WARM EXPRESSION & INTERACTION:
-- They are making fresh fruit smoothies at the kitchen island counter.
-- Soft, gentle, warm smiles with loving, caring eyes.
-- Holding and arranging 4 vibrant, colourful fruit smoothie glasses with colourful straws next to fresh berries and fruit slices.
-
-COMPOSITION & FRAMING:
-- Centered medium chest-up shot showing grandmother and child in the middle of the frame.
-- Generous space showing detailed kitchen background (cabinets, blender, fruit bowl, window).
-
-STYLE & LIGHTING:
-- Ultra-realistic, highly vibrant bright colours, warm friendly lighting.
-- BACKGROUND FOCUS: Completely crisp, sharp background focus. NO background blur, NO bokeh.
-
-CRITICAL CONSTRAINTS:
-- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 grandmother.
-- Gentle, warm smiles with loving eyes.
-- Exactly 4 colourful smoothie glasses clearly visible and countable on counter and in hands.
-- Characters centered in frame.
-- Crisp clear background focus — NO blur.
-- No text, no words.
-- Image size: 1024x1024 pixels square.
-""".strip()
+def build_template_cfg(food_base: dict, adult_role: str) -> dict:
+    tmpl_id = f"kitchen_{food_base['slug']}_{adult_role}_child"
+    return {
+        "id": tmpl_id,
+        "food": food_base["food"],
+        "item_description": food_base["item_description"],
+        "item_count": food_base["item_count"],
+        "item_type": food_base["item_type"],
+        "family": f"{adult_role}_child",
+        "face_slots": ["child", f"{adult_role}_name"],
+        "scene_prompt": _scene_prompt(food_base, adult_role),
     }
-]
+
+
+def all_template_cfgs(roles: tuple[str, ...] = ADULT_ROLES) -> list[dict]:
+    cfgs = []
+    for base in FOOD_BASES:
+        for role in roles:
+            cfgs.append(build_template_cfg(base, role))
+    return cfgs
+
+
+# Backward-compatible name used by older callers
+DIRECT_TEMPLATES = all_template_cfgs()
+
 
 def extract_image_url(data: dict) -> str | None:
     msg = data.get("choices", [{}])[0].get("message", {})
     for img in msg.get("images", []):
         url = img.get("image_url", {}).get("url", "")
-        if url: return url
+        if url:
+            return url
     content = msg.get("content", "")
     if isinstance(content, list):
         for p in content:
@@ -423,24 +209,30 @@ def extract_image_url(data: dict) -> str | None:
                 return p["image_url"]["url"]
     if isinstance(content, str):
         m = re.search(r"(data:image/[a-z]+;base64,[A-Za-z0-9+/=]+)", content)
-        if m: return m.group(1)
+        if m:
+            return m.group(1)
     return None
 
-def generate_direct_template(tmpl_cfg: dict):
+
+def generate_direct_template(tmpl_cfg: dict, *, force: bool = False) -> bool:
     tmpl_id = tmpl_cfg["id"]
     png_path = OUTPUT_DIR / f"{tmpl_id}.png"
     json_path = OUTPUT_DIR / f"{tmpl_id}.json"
 
-    if png_path.exists() and json_path.exists():
+    if png_path.exists() and json_path.exists() and not force:
         print(f"  ⏭️ Skipping {tmpl_id} (already exists)")
-        return
+        return True
 
-    print(f"  🎨 Generating warm-smile 2-character direct interaction template for '{tmpl_cfg['food']}' ({tmpl_id})...")
+    if not API_KEY:
+        print(f"  ❌ OPENROUTER_API_KEY missing — cannot generate {tmpl_id}")
+        return False
+
+    print(f"  🎨 Generating '{tmpl_cfg['food']}' + {tmpl_cfg['family']} ({tmpl_id})...")
 
     headers = {
         "Authorization": f"Bearer {API_KEY}",
-        "Content-Type":  "application/json",
-        "HTTP-Referer":  "http://localhost:8502",
+        "Content-Type": "application/json",
+        "HTTP-Referer": "http://localhost:8502",
     }
     payload = {
         "model": MODEL,
@@ -452,12 +244,12 @@ def generate_direct_template(tmpl_cfg: dict):
     resp = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=180)
     if resp.status_code != 200:
         print(f"  ❌ API Error {resp.status_code}: {resp.text[:300]}")
-        return
+        return False
 
     img_ref = extract_image_url(resp.json())
     if not img_ref:
         print(f"  ❌ Failed to extract image URL for {tmpl_id}")
-        return
+        return False
 
     if img_ref.startswith("data:image"):
         img_bytes = base64.b64decode(img_ref.split(",", 1)[1])
@@ -467,21 +259,22 @@ def generate_direct_template(tmpl_cfg: dict):
     with open(png_path, "wb") as f:
         f.write(img_bytes)
 
+    family_parts = tmpl_cfg["family"].split("_")
     meta = {
         "template_id": tmpl_id,
         "image_file": png_path.name,
         "scene": "kitchen",
         "favorite_food": tmpl_cfg["food"],
-        "family": tmpl_cfg["family"].split("_"),
+        "family": family_parts,
         "face_slots": tmpl_cfg["face_slots"],
         "face_regions": [],
         "objects": [
             {
                 "id": 1,
-                "type": tmpl_cfg["food"].lower(),
+                "type": tmpl_cfg.get("item_type", tmpl_cfg["food"].lower()),
                 "count": tmpl_cfg["item_count"],
                 "description": tmpl_cfg["item_description"],
-                "positions": []
+                "positions": [],
             }
         ],
         "supported_question_types": [
@@ -489,9 +282,10 @@ def generate_direct_template(tmpl_cfg: dict):
             "positions",
             "visual_search",
             "family_recognition",
-            "action_recognition"
+            "action_recognition",
         ],
-        "prompt": tmpl_cfg["scene_prompt"]
+        "prompt": tmpl_cfg["scene_prompt"],
+        "annotation_complete": False,
     }
 
     with open(json_path, "w", encoding="utf-8") as f:
@@ -499,14 +293,51 @@ def generate_direct_template(tmpl_cfg: dict):
 
     print(f"  ✓ Saved {png_path.name} and {json_path.name}")
 
-def main():
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    print("🚀 Starting Direct Sample Templates Generation (Warm smiling expressions & friendly eyes)...\n")
-    
-    for tmpl in DIRECT_TEMPLATES:
-        generate_direct_template(tmpl)
+    try:
+        from kitchen_scenes.auto_annotate_faces import auto_annotate_template
+        auto_annotate_template(png_path, force=True)
+    except Exception as exc:
+        print(f"  ⚠️  Auto-annotate skipped for {tmpl_id}: {exc}")
 
-    print("\n✅ Direct Food & Activity Templates generation finished! Check 'kitchen_scenes/direct_food_templates/'.")
+    return True
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Generate kitchen food+role templates")
+    parser.add_argument("--force", action="store_true", help="Regenerate even if files exist")
+    parser.add_argument("--food", default="", help="Only generate for this favourite food")
+    parser.add_argument("--role", default="", help="Only generate for this adult role")
+    parser.add_argument("--annotate", action="store_true", help="Auto-annotate faces after generation")
+    parser.add_argument("--missing-only", action="store_true", help="Only generate templates that do not exist yet")
+    args = parser.parse_args()
+
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    roles = (args.role.strip().lower(),) if args.role.strip() else ADULT_ROLES
+    food_filter = args.food.strip().lower()
+
+    cfgs = []
+    for cfg in all_template_cfgs(roles):
+        if food_filter and cfg["food"].strip().lower() != food_filter:
+            continue
+        if args.missing_only:
+            png = OUTPUT_DIR / f"{cfg['id']}.png"
+            js = OUTPUT_DIR / f"{cfg['id']}.json"
+            if png.exists() and js.exists():
+                continue
+        cfgs.append(cfg)
+
+    print(f"🚀 Generating {len(cfgs)} food+role kitchen templates...\n")
+    ok = 0
+    for tmpl in cfgs:
+        if generate_direct_template(tmpl, force=args.force):
+            ok += 1
+
+    print(f"\n✅ Template generation finished: {ok}/{len(cfgs)} succeeded.")
+
+    if args.annotate:
+        from kitchen_scenes.auto_annotate_faces import annotate_all
+        annotate_all(force=False)
+
 
 if __name__ == "__main__":
     main()

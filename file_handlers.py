@@ -6,7 +6,11 @@ import streamlit as st
 from config import GRADE_FOLDER_MAP
 
 # Paths
-EXTRACTED_BANK_FILE = os.path.join("extracted_bank", "grade_1_uk_year_1_templated_final_categories_visual_static.txt")
+EXTRACTED_BANK_FILE = os.path.join(
+    "extracted_bank",
+    "grade_1_uk_year_1_templated_final_categories_visual_static.txt",
+)
+
 
 def _parse_categorized_file(path):
     """
@@ -14,18 +18,17 @@ def _parse_categorized_file(path):
     """
     if not os.path.exists(path):
         return {}
-    
+
     categorized_data = {}
     current_topic = None
-    
+
     try:
         with open(path, "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
                 if not line:
                     continue
-                
-                # Check for header like === TOPIC ===
+
                 if line.startswith("=== ") and line.endswith(" ==="):
                     current_topic = line.strip("= ").title()
                     categorized_data[current_topic] = []
@@ -40,16 +43,22 @@ def _parse_categorized_file(path):
 def get_topics_for_grade(grade: str):
     """
     Get available topics for a specific grade.
+    Grade 1 uses question_bank/grade_1 (RAG corpus).
     """
-    # For Grade 1, we ONLY use the categorized master file
     if grade == "Grade 1":
+        try:
+            from question_rag.retriever import list_question_bank_topics
+            topics = list_question_bank_topics()
+            if topics:
+                return topics
+        except Exception:
+            pass
         if os.path.exists(EXTRACTED_BANK_FILE):
             data = _parse_categorized_file(EXTRACTED_BANK_FILE)
             if data:
                 return sorted(list(data.keys()))
-        return [] # Return empty if master file is missing for Grade 1
+        return []
 
-    # For other grades, use the traditional question_bank folders
     folder_name = GRADE_FOLDER_MAP.get(grade)
     if not folder_name:
         return []
@@ -71,19 +80,26 @@ def get_topics_for_grade(grade: str):
 
 def load_sample_questions(grade: str, topic: str) -> str:
     """
-    Load sample questions from a topic file or the master categorized file.
+    Load sample questions from question_bank (Grade 1) or grade folders.
     """
     if grade == "Grade 1":
+        try:
+            from question_rag.retriever import load_topic_examples, resolve_topic
+            resolved = resolve_topic(topic) or topic
+            examples = load_topic_examples(resolved)
+            if examples:
+                return f"=== Topic: {resolved} ===\n" + "\n".join(examples)
+        except Exception:
+            pass
         if os.path.exists(EXTRACTED_BANK_FILE):
             data = _parse_categorized_file(EXTRACTED_BANK_FILE)
             if topic in data:
                 return "\n".join(data[topic])
-            # Case insensitive/title case check
             topic_title = topic.title()
             if topic_title in data:
                 return "\n".join(data[topic_title])
-            return f"Error: Topic '{topic}' not found in master file."
-        return "Error: Grade 1 master categorized file not found."
+            return f"Error: Topic '{topic}' not found in question bank."
+        return "Error: Grade 1 question bank not found."
 
     folder_name = GRADE_FOLDER_MAP.get(grade)
     if not folder_name:
@@ -98,8 +114,8 @@ def load_sample_questions(grade: str, topic: str) -> str:
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             lines = [
-                ln.strip() 
-                for ln in f 
+                ln.strip()
+                for ln in f
                 if ln.strip() and not ln.strip().startswith("#")
             ]
         return "\n".join(lines)
@@ -111,16 +127,6 @@ def load_all_questions_for_grade(grade: str) -> str:
     """
     Load all questions for all topics in a grade.
     """
-    if grade == "Grade 1":
-        if os.path.exists(EXTRACTED_BANK_FILE):
-            data = _parse_categorized_file(EXTRACTED_BANK_FILE)
-            blocks = []
-            for t, qs in data.items():
-                if qs:
-                    blocks.append(f"=== Topic: {t} ===\n" + "\n".join(qs) + "\n")
-            return "\n".join(blocks) if blocks else ""
-        return ""
-
     topics = get_topics_for_grade(grade)
     blocks = []
     for t in topics:

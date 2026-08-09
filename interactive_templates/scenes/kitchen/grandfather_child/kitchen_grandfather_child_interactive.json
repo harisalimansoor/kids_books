@@ -1,0 +1,108 @@
+{
+  "template_id": "kitchen_grandfather_child_interactive",
+  "image_file": "kitchen_grandfather_child_interactive.png",
+  "scene_family": "kitchen",
+  "scene": "kitchen",
+  "family": [
+    "grandfather",
+    "child"
+  ],
+  "face_slots": [
+    "child",
+    "grandfather_name"
+  ],
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 283,
+      "y": 291,
+      "w": 152,
+      "h": 190,
+      "landmarks": {
+        "right_eye": [
+          327,
+          366
+        ],
+        "left_eye": [
+          399,
+          362
+        ],
+        "nose": [
+          371,
+          405
+        ],
+        "mouth_right": [
+          335,
+          429
+        ],
+        "mouth_left": [
+          402,
+          425
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "grandfather_name",
+      "x": 499,
+      "y": 137,
+      "w": 160,
+      "h": 236,
+      "landmarks": {
+        "right_eye": [
+          533,
+          231
+        ],
+        "left_eye": [
+          616,
+          225
+        ],
+        "nose": [
+          575,
+          274
+        ],
+        "mouth_right": [
+          545,
+          307
+        ],
+        "mouth_left": [
+          623,
+          300
+        ]
+      },
+      "confidence": 0.941
+    }
+  ],
+  "count": 4,
+  "object": "placeholder_box",
+  "object_positions": [
+    {
+      "label": "placeholder_box",
+      "count": 4,
+      "positions": [
+        {
+          "x": 180,
+          "y": 860
+        },
+        {
+          "x": 380,
+          "y": 860
+        },
+        {
+          "x": 580,
+          "y": 860
+        },
+        {
+          "x": 780,
+          "y": 860
+        }
+      ]
+    }
+  ],
+  "style": "photorealistic",
+  "interactive": true,
+  "annotation_complete": true,
+  "prompt": "Create a photorealistic image of EXACTLY TWO CHARACTERS: a young boy (Grade 1 student, exactly 5-6 years old) and his grandfather in a bright, spacious modern kitchen.\n\nCRITICAL POSING REQUIREMENT:\n- DIRECT FRONT-FACING HEADSHOTS: Both characters MUST look directly at the camera with heads facing straight forward.\n- NO side profiles. NO looking only at each other. Front-facing faces for easy face-swapping.\n\nNATURAL INTERACTION:\n- They stand/sit together at a marble kitchen counter.\n- Warm, joyful, candid smiles with bright friendly eyes.\n- Their hands are near the counter, ready to interact with objects on the counter\n  (reaching, offering, or gently resting near the placeholders).\n\nOBJECT PLACEHOLDERS (VERY IMPORTANT):\n- On the kitchen counter in the foreground, place EXACTLY 4 clearly separated\n  white rounded square placeholder boxes in a horizontal row.\n- Same size, evenly spaced, easy to count.\n- These boxes are empty placeholders \u2014 NOT food items yet.\n- Leave space so hands can naturally hold or touch items that will replace the boxes later.\n\nCOMPOSITION & FRAMING:\n- Medium chest-up shot showing heads, shoulders, hands, and the counter surface.\n- Both characters centered with detailed kitchen background (cabinets, window, utensils).\n- BACKGROUND FOCUS: completely sharp. NO blur, NO bokeh.\n\nSTYLE:\n- Ultra-realistic, bright warm kitchen lighting, vibrant cheerful colours.\n- Grade 1 storybook friendly mood.\n\nCRITICAL CONSTRAINTS:\n- STRICTLY TWO CHARACTERS ONLY: 1 child (5-6 years old) and 1 grandfather.\n- Exactly 4 white rounded placeholder boxes on the counter.\n- No real food yet, no text, no numbers, no watermarks.\n- Image size: 1024x1024 pixels square.",
+  "notes": "White placeholder boxes are object-agnostic. Compositor fills them with the chosen food/hobby/pet asset, then AI-beautifies hands to match that object's interaction style.",
+  "face_detection": "yunet"
+}

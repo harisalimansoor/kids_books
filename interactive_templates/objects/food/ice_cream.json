@@ -1,0 +1,12 @@
+{
+  "object_id": "ice_cream",
+  "category": "food",
+  "singular": "ice cream cone",
+  "plural": "ice cream cones",
+  "asset_file": "ice_cream.png",
+  "default_count": 3,
+  "hold_style": "if a cone is held, it must be one of the countable set (not an extra)",
+  "hand_action": "characters may steady cones on the counter or gently touch one countable cone — never invent an extra cone",
+  "surface_action": "all cones stand in holders or rest carefully on the counter (total equals placeholder count)",
+  "interaction_prompt": "TOTAL visible ice cream cones must equal the placeholder count — held cones count toward that total."
+}
