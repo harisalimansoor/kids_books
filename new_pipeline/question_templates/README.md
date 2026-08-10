@@ -47,6 +47,7 @@ new_pipeline/question_templates/
 | `personalisation.face_slots` | e.g. `child`, `father` (same as locked role, not generic `adult`) |
 | `personalisation.template_adult_role` | Exact body in the PNG (`mother` / `father` / …) — must match question placeholder **and** the adult `face_regions[].role` |
 | `personalisation.allowed_adult_roles` | Usually just that one locked role |
+| `interests.foods` / `interests.hobbies` | Stable ids matching UI picks (`apples`, `pizza`, `football`, …). Used to prefer stems for the child's favourites; missing tags still infer from `visual_groups.object_id` when possible |
 | `face_regions` | Pixel boxes for face paste |
 | `visual_groups` | Object groups with **exact counts** + positions |
 | `answer.correct` / `answer.options` | Source of truth for MCQ + key |

@@ -3,12 +3,8 @@ new_pipeline/newapp.py
 ─────────────────────────────────────────────────────────────────────────────
 Streamlit UI for the bank-first Grade 1 workbook pipeline.
 
-Strategy:
-  1. Select ready role-locked stems from question_templates/
-  2. Only use stems whose adult role has an uploaded face
-  3. Fill {user_name}/{mother_name}/… from the family profile
-  4. Paste faces + optional soft-cartoon finish (identity-locked)
-  5. MCQ + answer key from meta.json (no LLM re-guess)
+Form fields match app.py (child, family, siblings, grade, topics, style, …).
+Generation uses pre-built role-locked question templates — not kitchen RAG.
 """
 
 from __future__ import annotations
@@ -34,12 +30,26 @@ from stem_pipeline import (  # noqa: E402
     ADULT_ROLES,
     ROLE_DISPLAY,
     build_workbook_items,
+    display_name_for_role,
+    fill_question_text,
     list_ready_stems,
     list_topics,
+    mcq_from_meta,
+    partition_by_interests,
     select_stems,
     stems_for_available_roles,
     topic_label,
 )
+
+# Optional interactive lists (same pickers as app.py — for profile / notes)
+try:
+    from interactive_templates.compositor import (
+        list_interactive_foods,
+        list_interactive_hobbies,
+    )
+except Exception:
+    list_interactive_foods = lambda: []  # noqa: E731
+    list_interactive_hobbies = lambda: []  # noqa: E731
 
 # ------------------------------------------------------------------------------
 # Page
@@ -52,18 +62,20 @@ st.set_page_config(
 
 st.title("📚 My Maths Practice Book")
 st.write(
-    "Create a personalised Year 1 maths workbook from **pre-built question "
-    "templates**. We swap in your family's faces and names — maths answers "
-    "come from the template, not a new AI guess."
+    "Create a personalised Year 1 maths workbook with fun illustrations! "
+    "Tell us about your child — favourite colour, family, and "
+    "favourite foods & hobbies — and we'll make a worksheet from "
+    "**pre-built question templates** (faces + names swapped in; answers from the template)."
 )
 
 if "pipeline" not in st.session_state:
     st.session_state.pipeline = None
 
 # ------------------------------------------------------------------------------
-# Child
+# Student Information form (aligned with app.py)
 # ------------------------------------------------------------------------------
 st.subheader("👤 About Your Child")
+
 col_name, col_gen, col_age = st.columns(3)
 with col_name:
     student_name = st.text_input("Name*", placeholder="e.g., Oliver")
@@ -72,95 +84,295 @@ with col_gen:
 with col_age:
     child_age = st.number_input("Age", min_value=4, max_value=8, value=6)
 
-# ------------------------------------------------------------------------------
-# Family names (fill placeholders)
-# ------------------------------------------------------------------------------
-st.divider()
-st.subheader("👨‍👩‍👧 Family Names")
-st.caption("Used in questions like “Mum has 3 apples…”. Leave blank to use Mum/Dad/Grandma/Grandad.")
-name_cols = st.columns(2)
-family_names: dict[str, str] = {}
-_name_fields = [
-    ("mother", "Mum's name"),
-    ("father", "Dad's name"),
-    ("grandmother", "Grandma's name"),
-    ("grandfather", "Grandad's name"),
+fav_color = st.text_input(
+    "Favourite Colour",
+    placeholder="e.g., green, pink",
+    help="Used for workbook colour theme (PDF accents)",
+)
+
+st.markdown("#### Family")
+row_fam1 = st.columns(2)
+with row_fam1[0]:
+    mother_name = st.text_input("Mum's Name", placeholder="Optional")
+with row_fam1[1]:
+    father_name = st.text_input("Dad's Name", placeholder="Optional")
+row_fam2 = st.columns(2)
+with row_fam2[0]:
+    grandmother_name = st.text_input("Grandma's Name", placeholder="Optional")
+with row_fam2[1]:
+    grandfather_name = st.text_input("Grandad's Name", placeholder="Optional")
+
+family_names = {
+    "mother": (mother_name or "").strip(),
+    "father": (father_name or "").strip(),
+    "grandmother": (grandmother_name or "").strip(),
+    "grandfather": (grandfather_name or "").strip(),
+}
+
+st.markdown("#### Siblings")
+if "siblings_list" not in st.session_state:
+    st.session_state.siblings_list = []
+for i, sib in enumerate(st.session_state.siblings_list):
+    scols = st.columns([2, 1, 0.3])
+    with scols[0]:
+        st.session_state.siblings_list[i]["name"] = st.text_input(
+            f"Sibling {i + 1} Name",
+            value=sib.get("name", ""),
+            placeholder="e.g., Jack",
+            key=f"sib_name_{i}",
+        )
+    with scols[1]:
+        st.session_state.siblings_list[i]["gender"] = st.selectbox(
+            "Gender",
+            ["Boy", "Girl"],
+            index=0 if sib.get("gender", "Boy") == "Boy" else 1,
+            key=f"sib_gender_{i}",
+        )
+    with scols[2]:
+        st.write('<p style="margin-bottom:2px">&nbsp;</p>', unsafe_allow_html=True)
+        if st.button("✕", key=f"sib_del_{i}"):
+            st.session_state.siblings_list.pop(i)
+            st.rerun()
+if st.button("+ Add Sibling", key="add_sib"):
+    st.session_state.siblings_list.append({"name": "", "gender": "Boy"})
+    st.rerun()
+
+# First named sibling → {sibling_name} in templates
+_siblings = [
+    s for s in st.session_state.siblings_list
+    if (s.get("name") or "").strip()
 ]
-for i, (role, label) in enumerate(_name_fields):
-    with name_cols[i % 2]:
-        family_names[role] = st.text_input(label, key=f"name_{role}", placeholder=ROLE_DISPLAY[role])
+if _siblings:
+    family_names["sibling"] = _siblings[0]["name"].strip()
 
-# ------------------------------------------------------------------------------
-# Topics + count
-# ------------------------------------------------------------------------------
+# --- Favourite Foods & Hobbies (profile / PDF notes; templates are topic-driven) ---
 st.divider()
-st.subheader("📖 Topics")
-_all_topics = list_topics()
-_topic_labels = {topic_label(t): t for t in _all_topics}
-selected_labels = st.multiselect(
-    "Topics to include*",
-    options=list(_topic_labels.keys()),
-    default=list(_topic_labels.keys()) if _topic_labels else [],
+st.markdown("#### 🍳 Favourite Foods & 🎨 Hobbies")
+st.caption(
+    "Used to **prefer** matching question templates when available "
+    "(e.g. Apples → apple stems, Football → ball stems). "
+    "If no matching template exists yet, other ready stems are used as fallback. "
+    "Also saved on the workbook profile."
 )
-selected_topics = [_topic_labels[lab] for lab in selected_labels]
-
-num_questions = st.slider("Number of questions", min_value=1, max_value=10, value=min(3, 10))
-
-# ------------------------------------------------------------------------------
-# Style
-# ------------------------------------------------------------------------------
-st.divider()
-st.markdown("#### 🎨 Illustration finish")
-style_choice = st.radio(
-    "After face paste",
-    options=["Soft cartoon (identity-locked)", "Photo paste only"],
-    index=0,
-    horizontal=True,
-)
-run_ai_finish = style_choice.startswith("Soft cartoon")
-
-fav_color = st.text_input("Favourite colour (PDF accent)", placeholder="e.g., blue")
-
-# ------------------------------------------------------------------------------
-# Faces
-# ------------------------------------------------------------------------------
-st.divider()
-faces_dir = REPO_ROOT / "personalised_faces"
-faces_dir.mkdir(parents=True, exist_ok=True)
-
-saved_face_paths: dict[str, str] = {}
-with st.expander("Upload Family Photos (required for templates)", expanded=True):
-    st.caption(
-        "Upload the **child** plus each adult whose templates you want. "
-        "Mother-only stems need Mum’s photo; father stems need Dad’s photo."
+_available_foods = list_interactive_foods()
+_available_hobbies = list_interactive_hobbies()
+_col_food, _col_hobby = st.columns(2)
+with _col_food:
+    favourite_foods = st.multiselect(
+        "Favourite Foods",
+        options=_available_foods,
+        default=[],
+        key="np_favourite_foods_picker",
+        help="Prefer templates tagged with this food when available.",
     )
-    face_roles = [("user", "Child*")] + [(r, ROLE_DISPLAY[r]) for r in ADULT_ROLES]
+with _col_hobby:
+    favourite_hobbies = st.multiselect(
+        "Favourite Hobby Objects",
+        options=_available_hobbies,
+        default=[],
+        key="np_favourite_hobbies_picker",
+        help="Prefer templates tagged with this hobby when available.",
+    )
+
+# ------------------------------------------------------------------------------
+# Workbook & Picture Settings
+# ------------------------------------------------------------------------------
+st.divider()
+col_ws1, col_ws2 = st.columns(2)
+with col_ws1:
+    _grade_map = {"Year 1 (age 5-6)": "Grade 1"}
+    _grade_label = st.selectbox("Year Group*", ["Select Year", "Year 1 (age 5-6)"])
+    grade = _grade_map.get(_grade_label, _grade_label)
+with col_ws2:
+    num_questions = int(
+        st.number_input(
+            "Number of questions",
+            min_value=1,
+            max_value=50,
+            value=5,
+            step=1,
+            key="np_num_questions_input",
+        )
+    )
+
+_all_topic_ids = list_topics()
+_topic_label_to_id = {topic_label(t): t for t in _all_topic_ids}
+topics_for_grade = list(_topic_label_to_id.keys())
+use_all_topics = False
+selected_topic_labels: list[str] = []
+selected_topics: list[str] = []
+
+if grade == "Grade 1" and topics_for_grade:
+    use_all_topics = st.checkbox("Use all topics", value=False, key="np_use_all_topics")
+    selected_topic_labels = st.multiselect(
+        "Topics",
+        options=topics_for_grade,
+        default=([] if not topics_for_grade else [topics_for_grade[0]]),
+        key="np_topics_multiselect",
+        disabled=use_all_topics,
+    )
+    if use_all_topics:
+        selected_topics = list(_all_topic_ids)
+        selected_topic_labels = topics_for_grade
+    else:
+        selected_topics = [_topic_label_to_id[lab] for lab in selected_topic_labels if lab in _topic_label_to_id]
+elif grade == "Grade 1" and not topics_for_grade:
+    st.info(
+        "No ready template topics found. Add stems under "
+        "`new_pipeline/question_templates/grade_1/`."
+    )
+
+col_ps1, col_ps2 = st.columns(2)
+with col_ps1:
+    include_images = st.checkbox("Include illustrations", value=True, key="np_include_images")
+with col_ps2:
+    counting_ability = st.selectbox(
+        "Biggest number to practise",
+        [10, 20, 50],
+        index=1,
+        key="np_counting_ability",
+    )
+
+st.markdown("#### 🎨 Illustration Style")
+style_choice = st.radio(
+    "Style for the worksheet illustration",
+    options=["Soft cartoon + seamless blend", "Photoreal seamless blend"],
+    index=1,
+    horizontal=True,
+    key="np_style_choice",
+    help=(
+        "Both modes AI-blend your uploaded faces into the template (not stickers). "
+        "Boy/Girl gender also restyles the child's hair to match."
+    ),
+)
+soft_cartoon = style_choice.startswith("Soft cartoon")
+run_ai_finish = True  # always blend — paste-only looked like stickers
+
+anything_else = st.text_area(
+    "Anything else for the pictures? (optional)",
+    placeholder="e.g., loves dinosaurs, Christmas setting",
+    help="Extra notes kept with the workbook metadata.",
+    key="np_anything_else",
+)
+
+# ------------------------------------------------------------------------------
+# Face upload section
+# ------------------------------------------------------------------------------
+saved_face_paths: dict[str, str] = {}
+with st.expander("Upload Family Photos (for face swapping)", expanded=False):
+    st.markdown(
+        """
+    <style>
+    .face-upload-card {
+        border: 1px solid #e0e0e0;
+        border-radius: 10px;
+        padding: 12px;
+        margin-bottom: 12px;
+        background: #fafafa;
+        text-align: center;
+        min-height: 140px;
+    }
+    .face-upload-card .label {
+        font-size: 14px;
+        font-weight: 600;
+        color: #333;
+        margin-bottom: 6px;
+    }
+    .face-upload-card .uploaded {
+        margin-top: 6px;
+        font-size: 12px;
+        color: #2e7d32;
+    }
+    </style>
+    """,
+        unsafe_allow_html=True,
+    )
+    st.caption(
+        "Upload photos and we'll put your family's faces onto the characters. "
+        "Child + matching adult photos are required for each template role you want."
+    )
+
+    faces_dir = REPO_ROOT / "personalised_faces"
+    faces_dir.mkdir(parents=True, exist_ok=True)
+
+    face_map = {}
+    family_roles = [
+        ("user", "Child"),
+        ("mother", "Mum"),
+        ("father", "Dad"),
+        ("grandmother", "Grandma"),
+        ("grandfather", "Grandad"),
+    ]
     fam_cols = st.columns(3)
-    uploads = {}
-    for i, (role_key, role_label) in enumerate(face_roles):
+    for i, (role_key, role_label) in enumerate(family_roles):
         with fam_cols[i % 3]:
+            st.markdown(
+                f'<div class="face-upload-card"><div class="label">{role_label}</div></div>',
+                unsafe_allow_html=True,
+            )
             uploaded = st.file_uploader(
                 role_label,
                 type=["jpg", "png", "jpeg"],
-                key=f"face_{role_key}",
+                key=f"np_face_{role_key}",
+                label_visibility="collapsed",
             )
             if uploaded:
-                uploads[role_key] = uploaded
+                face_map[role_key] = uploaded
                 st.image(uploaded, width=70)
+                st.markdown(
+                    f'<div class="uploaded">✓ {role_label} uploaded</div>',
+                    unsafe_allow_html=True,
+                )
 
-    for role, file in uploads.items():
+    for role, file in face_map.items():
         path = faces_dir / f"{role}_face.png"
         path.write_bytes(file.getbuffer())
         saved_face_paths[role] = str(path)
 
 available_adult_roles = {r for r in ADULT_ROLES if r in saved_face_paths}
-ready_all = list_ready_stems(topics=selected_topics or None)
-eligible = stems_for_available_roles(ready_all, available_adult_roles) if "user" in saved_face_paths else []
+ready_all = list_ready_stems(topics=selected_topics or None) if selected_topics else []
+
+
+def _stem_within_counting(stem: dict, max_n: int) -> bool:
+    """Keep stems whose answer / object counts fit the practise range."""
+    meta = stem.get("meta") or {}
+    answer = meta.get("answer") or {}
+    correct = str(answer.get("correct") or "").strip()
+    nums = []
+    if correct.isdigit():
+        nums.append(int(correct))
+    for g in meta.get("visual_groups") or []:
+        try:
+            nums.append(int(g.get("count") or 0))
+        except (TypeError, ValueError):
+            pass
+        try:
+            if g.get("circled_count") is not None:
+                nums.append(int(g["circled_count"]))
+        except (TypeError, ValueError):
+            pass
+    if not nums:
+        return True
+    return max(nums) <= int(max_n)
+
+
+ready_counted = [s for s in ready_all if _stem_within_counting(s, counting_ability)]
+eligible = (
+    stems_for_available_roles(ready_counted, available_adult_roles)
+    if "user" in saved_face_paths
+    else []
+)
+matched_interests, _other_interests = partition_by_interests(
+    eligible,
+    favourite_foods=favourite_foods,
+    favourite_hobbies=favourite_hobbies,
+)
 
 st.info(
-    f"**{len(ready_all)}** ready templates in selected topics · "
+    f"**{len(ready_counted)}** ready templates (≤ {counting_ability}) in selected topics · "
     f"**{len(eligible)}** usable with your uploaded faces "
-    f"({', '.join(sorted(available_adult_roles)) or 'no adults yet'})"
+    f"({', '.join(ROLE_DISPLAY.get(r, r) for r in sorted(available_adult_roles)) or 'no adults yet'}) · "
+    f"**{len(matched_interests)}** match your food/hobby picks"
 )
 
 # ------------------------------------------------------------------------------
@@ -172,28 +384,41 @@ if st.button("📝 Generate Personalised Workbook", type="primary"):
         st.warning("⚠️ Please enter the student's name.")
     elif gender == "Select":
         st.warning("⚠️ Please select the student's gender.")
+    elif _grade_label == "Select Year" or grade != "Grade 1":
+        st.warning("⚠️ Please select a year group.")
     elif not selected_topics:
-        st.warning("⚠️ Please select at least one topic.")
-    elif "user" not in saved_face_paths:
-        st.warning("⚠️ Please upload the child's photo.")
-    elif not available_adult_roles:
+        st.warning("⚠️ Please select at least one topic (or turn on Use all topics).")
+    elif include_images and "user" not in saved_face_paths:
+        st.warning("⚠️ Please upload the child's photo (needed for illustrations).")
+    elif include_images and not available_adult_roles:
         st.warning("⚠️ Upload at least one adult photo (Mum/Dad/Grandma/Grandad).")
-    elif not eligible:
+    elif include_images and not eligible:
         st.warning(
-            "⚠️ No ready templates match your uploaded adults and topics. "
-            "Add more role-locked stems or upload the matching adult photo."
+            "⚠️ No ready templates match your uploaded adults, topics, and number range. "
+            "Add more stems or upload the matching adult photo."
         )
+    elif not include_images and not ready_counted:
+        st.warning("⚠️ No ready templates for the selected topics / number range.")
     else:
         st.session_state.pipeline = {
             "phase": "build",
             "student_name": student_name.strip(),
             "gender": gender,
             "child_age": int(child_age),
-            "family_names": {k: v.strip() for k, v in family_names.items() if v and v.strip()},
+            "grade": grade,
+            "family_names": {k: v for k, v in family_names.items() if v},
+            "siblings": list(_siblings),
+            "favourite_foods": list(favourite_foods),
+            "favourite_hobbies": list(favourite_hobbies),
             "selected_topics": selected_topics,
+            "use_all_topics": use_all_topics,
             "num_questions": int(num_questions),
-            "run_ai_finish": run_ai_finish,
-            "fav_color": fav_color.strip(),
+            "include_images": bool(include_images),
+            "counting_ability": int(counting_ability),
+            "run_ai_finish": bool(run_ai_finish and include_images),
+            "soft_cartoon": bool(soft_cartoon),
+            "fav_color": (fav_color or "").strip(),
+            "anything_else": (anything_else or "").strip(),
             "saved_face_paths": saved_face_paths,
             "available_adult_roles": sorted(available_adult_roles),
         }
@@ -209,28 +434,63 @@ if pipeline is None:
 phase = pipeline["phase"]
 
 if phase == "build":
-    with st.spinner("Selecting templates and personalising faces…"):
+    with st.spinner("Selecting templates and personalising…"):
         faces = pipeline["saved_face_paths"]
         adult_roles = set(pipeline["available_adult_roles"])
-        pool = stems_for_available_roles(
-            list_ready_stems(topics=pipeline["selected_topics"]),
-            adult_roles,
+        pool = list_ready_stems(topics=pipeline["selected_topics"])
+        pool = [s for s in pool if _stem_within_counting(s, pipeline["counting_ability"])]
+        if pipeline["include_images"]:
+            pool = stems_for_available_roles(pool, adult_roles)
+        chosen = select_stems(
+            pool,
+            pipeline["num_questions"],
+            favourite_foods=pipeline.get("favourite_foods") or [],
+            favourite_hobbies=pipeline.get("favourite_hobbies") or [],
         )
-        chosen = select_stems(pool, pipeline["num_questions"])
         if not chosen:
             st.error("No stems available to build the workbook.")
             st.session_state.pipeline = None
             st.stop()
 
         try:
-            items = build_workbook_items(
-                chosen,
-                user_name=pipeline["student_name"],
-                family_names=pipeline["family_names"],
-                face_paths=faces,
-                run_ai_finish=pipeline["run_ai_finish"],
-                out_dir=PIPELINE_ROOT / "_runtime" / "personalized",
-            )
+            if pipeline["include_images"]:
+                items = build_workbook_items(
+                    chosen,
+                    user_name=pipeline["student_name"],
+                    family_names=pipeline["family_names"],
+                    face_paths=faces,
+                    run_ai_finish=pipeline["run_ai_finish"],
+                    soft_cartoon=pipeline.get("soft_cartoon", False),
+                    child_gender=pipeline.get("gender", ""),
+                    out_dir=PIPELINE_ROOT / "_runtime" / "personalized",
+                )
+            else:
+                # Text-only: still fill names + MCQ from meta
+                items = []
+                for stem in chosen:
+                    role = stem["template_adult_role"]
+                    items.append(
+                        {
+                            "stem_id": stem["stem_id"],
+                            "topic": stem["topic"],
+                            "topic_label": topic_label(stem["topic"]),
+                            "adult_role": role,
+                            "adult_name": display_name_for_role(
+                                role, pipeline["family_names"]
+                            ),
+                            "question": fill_question_text(
+                                stem["question_template"],
+                                user_name=pipeline["student_name"],
+                                adult_role=role,
+                                family_names=pipeline["family_names"],
+                            ),
+                            "image_path": None,
+                            "options": mcq_from_meta(stem["meta"]),
+                            "correct": str(
+                                (stem["meta"].get("answer") or {}).get("correct") or ""
+                            ),
+                        }
+                    )
         except Exception as exc:
             st.error(f"Personalisation failed: {exc}")
             st.session_state.pipeline = None
@@ -243,21 +503,35 @@ if phase == "build":
 elif phase == "pdf":
     items = pipeline["items"]
     questions = [f"{i}. {it['question']}" for i, it in enumerate(items, start=1)]
-    image_paths = [it["image_path"] for it in items]
+    image_paths = (
+        [it.get("image_path") for it in items] if pipeline.get("include_images") else None
+    )
     question_topics = [it["topic_label"] for it in items]
     question_adults = [it["adult_name"] for it in items]
     question_options = [it["options"] for it in items]
     topic_header = ", ".join(sorted({it["topic_label"] for it in items}))
 
+    foods = pipeline.get("favourite_foods") or []
+    hobbies = pipeline.get("favourite_hobbies") or []
+    extras = []
+    if foods:
+        extras.append("Foods: " + ", ".join(foods))
+    if hobbies:
+        extras.append("Hobbies: " + ", ".join(hobbies))
+    if pipeline.get("anything_else"):
+        extras.append(pipeline["anything_else"])
+    picture_theme = " · ".join(extras)
+
     with st.spinner("📄 Creating PDF workbook…"):
         pdf_bytes = generate_pdf(
             pipeline["student_name"],
-            "Grade 1",
+            pipeline.get("grade") or "Grade 1",
             topic_header,
             questions,
             image_paths,
             question_topics=question_topics,
             favourite_colour=pipeline.get("fav_color", ""),
+            picture_theme=picture_theme,
             workbook_title=f"{pipeline['student_name']}'s Maths Practice Book",
             workbook_subtitle="Personalised Year 1 practice · template bank",
             question_adults=question_adults,
@@ -282,8 +556,9 @@ elif phase == "complete":
                     f"`{it['stem_id']}` → answer **{it['correct']}**"
                 )
                 st.write(it["question"])
-                if Path(it["image_path"]).is_file():
-                    st.image(it["image_path"], width=280)
+                img = it.get("image_path")
+                if img and Path(img).is_file():
+                    st.image(img, width=280)
                 st.divider()
 
     pdf_b64 = base64.b64encode(pipeline["pdf_bytes"]).decode("utf-8")
@@ -306,6 +581,5 @@ elif phase == "complete":
         )
 
     if st.button("🔄 Start Over"):
-        # Keep personalized previews on disk for debugging; clear session only
         st.session_state.pipeline = None
         st.rerun()

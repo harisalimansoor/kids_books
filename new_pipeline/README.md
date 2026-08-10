@@ -13,10 +13,14 @@ new_pipeline/
 ## Strategy
 
 1. Pre-build role-locked stems (mother body ↔ `{mother_name}`, etc.).
-2. At workbook time: pick **ready** stems whose adult role has an uploaded face.
-3. Fill name placeholders from the family profile.
-4. Paste faces + optional soft-cartoon finish (`question_templates/personalize.py`).
-5. Use `answer.correct` / `answer.options` from `meta.json` — never re-ask an LLM for the key.
+2. Tag stems with `interests.foods` / `interests.hobbies` (and/or `visual_groups.object_id`).
+3. At workbook time: pick **ready** stems whose adult role has an uploaded face.
+4. **Prefer** stems matching the child's favourite foods/hobbies; fill remaining slots from other ready stems.
+5. Fill name placeholders from the family profile.
+6. Paste faces + seamless AI blend (`question_templates/personalize.py`).
+7. Use `answer.correct` / `answer.options` from `meta.json` — never re-ask an LLM for the key.
+
+As you add templates for more foods and hobbies, selection automatically prefers them when the user picks those interests.
 
 ## Run the app
 

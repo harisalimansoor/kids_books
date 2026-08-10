@@ -162,5 +162,12 @@
   "annotation": {
     "method": "yunet",
     "instructions": "Tweak face_regions manually in meta.json if boxes are off."
+  },
+  "interests": {
+    "foods": [
+      "apples"
+    ],
+    "hobbies": [],
+    "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
   }
 }

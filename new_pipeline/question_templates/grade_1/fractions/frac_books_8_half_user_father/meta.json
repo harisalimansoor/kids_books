@@ -129,5 +129,10 @@
     "method": "yunet",
     "instructions": "Tweak face_regions in meta.json if needed."
   },
-  "face_detection": "yunet"
+  "face_detection": "yunet",
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
+  }
 }
