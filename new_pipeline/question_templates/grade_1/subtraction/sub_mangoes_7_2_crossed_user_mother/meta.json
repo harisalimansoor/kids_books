@@ -1,0 +1,141 @@
+{
+  "stem_id": "sub_mangoes_7_2_crossed_user_mother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "mother_7_mangoes_2_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [
+      "mangoes"
+    ],
+    "hobbies": [],
+    "notes": "Food-named stem for favourite-food preference."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 228,
+      "y": 327,
+      "w": 149,
+      "h": 186,
+      "landmarks": {
+        "right_eye": [
+          276,
+          395
+        ],
+        "left_eye": [
+          342,
+          402
+        ],
+        "nose": [
+          309,
+          438
+        ],
+        "mouth_right": [
+          269,
+          458
+        ],
+        "mouth_left": [
+          330,
+          465
+        ]
+      },
+      "confidence": 0.944
+    },
+    {
+      "role": "mother",
+      "x": 527,
+      "y": 141,
+      "w": 184,
+      "h": 220,
+      "landmarks": {
+        "right_eye": [
+          556,
+          234
+        ],
+        "left_eye": [
+          641,
+          216
+        ],
+        "nose": [
+          599,
+          272
+        ],
+        "mouth_right": [
+          583,
+          307
+        ],
+        "mouth_left": [
+          660,
+          291
+        ]
+      },
+      "confidence": 0.94
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "mangoes",
+      "count": 7,
+      "crossed_count": 2
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "5",
+    "options": [
+      "5",
+      "7",
+      "2",
+      "4"
+    ],
+    "formula": "7-2",
+    "explanation": "7 mangoes \u2212 2 crossed = 5 left"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 7 mangoes, 2 crossed."
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": "Food-named Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

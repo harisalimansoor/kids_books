@@ -26,63 +26,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 176,
-      "y": 269,
-      "w": 139,
-      "h": 178,
+      "x": 178,
+      "y": 270,
+      "w": 138,
+      "h": 177,
       "landmarks": {
         "right_eye": [
           211,
           343
         ],
         "left_eye": [
-          278,
-          333
+          277,
+          334
         ],
         "nose": [
-          252,
+          250,
           375
         ],
         "mouth_right": [
           224,
-          403
+          404
         ],
         "mouth_left": [
-          286,
-          395
+          284,
+          396
         ]
       },
-      "confidence": 0.943
+      "confidence": 0.944
     },
     {
       "role": "mother",
-      "x": 539,
-      "y": 127,
-      "w": 150,
+      "x": 541,
+      "y": 129,
+      "w": 148,
       "h": 205,
       "landmarks": {
         "right_eye": [
-          570,
-          221
+          571,
+          222
         ],
         "left_eye": [
-          640,
+          642,
           208
         ],
         "nose": [
-          609,
+          610,
           255
         ],
         "mouth_right": [
-          588,
+          589,
           283
         ],
         "mouth_left": [
-          655,
-          271
+          657,
+          272
         ]
       },
-      "confidence": 0.934
+      "confidence": 0.937
     }
   ],
   "visual_groups": [
@@ -121,7 +121,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Corrected to exactly 7 balls in adult basket + 9 on child table (=16)."
+    "notes": "Corrected to exactly 7 balls in adult basket + 9 on child table (=16). | Modest crew-neck clothing edit."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/general_math.txt",

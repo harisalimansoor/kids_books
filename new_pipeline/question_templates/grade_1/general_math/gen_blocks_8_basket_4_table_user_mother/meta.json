@@ -1,0 +1,152 @@
+{
+  "stem_id": "gen_blocks_8_basket_4_table_user_mother",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "two_group_total",
+  "question_file": "question.txt",
+  "image_file": "mother_basket_8_blocks_table_4_blocks.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "lego"
+    ],
+    "notes": "Blocks stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 245,
+      "y": 431,
+      "w": 103,
+      "h": 131,
+      "landmarks": {
+        "right_eye": [
+          271,
+          486
+        ],
+        "left_eye": [
+          321,
+          478
+        ],
+        "nose": [
+          302,
+          509
+        ],
+        "mouth_right": [
+          281,
+          530
+        ],
+        "mouth_left": [
+          327,
+          525
+        ]
+      },
+      "confidence": 0.945
+    },
+    {
+      "role": "mother",
+      "x": 540,
+      "y": 100,
+      "w": 127,
+      "h": 152,
+      "landmarks": {
+        "right_eye": [
+          566,
+          163
+        ],
+        "left_eye": [
+          626,
+          153
+        ],
+        "nose": [
+          598,
+          193
+        ],
+        "mouth_right": [
+          581,
+          216
+        ],
+        "mouth_left": [
+          636,
+          207
+        ]
+      },
+      "confidence": 0.94
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "basket",
+      "owner": "mother",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 8,
+      "container": "basket"
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 4,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "12",
+    "options": [
+      "12",
+      "8",
+      "4",
+      "11"
+    ],
+    "formula": "8+4",
+    "explanation": "8 in basket + 4 on table = 12"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Count-locked regen/edit with qwen/qwen-image-3. | Modest crew-neck clothing edit."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/general_math.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

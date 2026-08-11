@@ -1,0 +1,144 @@
+{
+  "stem_id": "time_clock_half_hour_user_mother",
+  "grade": "grade_1",
+  "topic": "time",
+  "layout_pattern": "clock_duration",
+  "question_file": "question.txt",
+  "image_file": "clock_30_minutes_half_hour.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 184,
+      "y": 301,
+      "w": 140,
+      "h": 176,
+      "landmarks": {
+        "right_eye": [
+          223,
+          368
+        ],
+        "left_eye": [
+          289,
+          366
+        ],
+        "nose": [
+          258,
+          404
+        ],
+        "mouth_right": [
+          228,
+          428
+        ],
+        "mouth_left": [
+          287,
+          426
+        ]
+      },
+      "confidence": 0.946
+    },
+    {
+      "role": "mother",
+      "x": 581,
+      "y": 96,
+      "w": 156,
+      "h": 199,
+      "landmarks": {
+        "right_eye": [
+          608,
+          186
+        ],
+        "left_eye": [
+          681,
+          173
+        ],
+        "nose": [
+          647,
+          221
+        ],
+        "mouth_right": [
+          628,
+          249
+        ],
+        "mouth_left": [
+          696,
+          238
+        ]
+      },
+      "confidence": 0.941
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "big_clock",
+      "object_id": "clock",
+      "minutes": 60,
+      "marks": 60
+    },
+    {
+      "id": "small_clock",
+      "object_id": "clock",
+      "minutes": 30,
+      "marks": 30
+    }
+  ],
+  "answer": {
+    "type": "clock_marks",
+    "correct": "30",
+    "options": [
+      "30",
+      "60",
+      "15",
+      "45"
+    ],
+    "formula": null,
+    "explanation": "30 minutes = 30 marks on the smaller clock"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Visually count-checked against question."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/time.txt",
+    "notes": "Count-locked Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

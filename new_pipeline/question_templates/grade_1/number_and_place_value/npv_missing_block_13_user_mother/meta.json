@@ -1,0 +1,144 @@
+{
+  "stem_id": "npv_missing_block_13_user_mother",
+  "grade": "grade_1",
+  "topic": "number_and_place_value",
+  "layout_pattern": "missing_number_sequence",
+  "question_file": "question.txt",
+  "image_file": "number_blocks_11_12_blank_14.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 182,
+      "y": 336,
+      "w": 150,
+      "h": 187,
+      "landmarks": {
+        "right_eye": [
+          224,
+          414
+        ],
+        "left_eye": [
+          293,
+          415
+        ],
+        "nose": [
+          258,
+          453
+        ],
+        "mouth_right": [
+          227,
+          477
+        ],
+        "mouth_left": [
+          287,
+          478
+        ]
+      },
+      "confidence": 0.942
+    },
+    {
+      "role": "mother",
+      "x": 572,
+      "y": 120,
+      "w": 189,
+      "h": 222,
+      "landmarks": {
+        "right_eye": [
+          607,
+          224
+        ],
+        "left_eye": [
+          692,
+          201
+        ],
+        "nose": [
+          657,
+          262
+        ],
+        "mouth_right": [
+          636,
+          295
+        ],
+        "mouth_left": [
+          713,
+          276
+        ]
+      },
+      "confidence": 0.949
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "sequence",
+      "object_id": "number_blocks",
+      "values": [
+        11,
+        12,
+        null,
+        14
+      ],
+      "missing": 13,
+      "count": 4
+    }
+  ],
+  "answer": {
+    "type": "missing_number",
+    "correct": "13",
+    "options": [
+      "13",
+      "12",
+      "14",
+      "15"
+    ],
+    "formula": null,
+    "explanation": "Sequence 11, 12, ?, 14 \u2192 missing number is 13"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Visually count-checked against question."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/number_and_place_value.txt",
+    "notes": "Count-locked Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

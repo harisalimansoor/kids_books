@@ -1,0 +1,141 @@
+{
+  "stem_id": "sub_chocolates_8_3_crossed_user_mother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "mother_8_chocolates_3_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [
+      "chocolates"
+    ],
+    "hobbies": [],
+    "notes": "Food-named stem for favourite-food preference."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 204,
+      "y": 335,
+      "w": 150,
+      "h": 188,
+      "landmarks": {
+        "right_eye": [
+          251,
+          411
+        ],
+        "left_eye": [
+          316,
+          413
+        ],
+        "nose": [
+          286,
+          451
+        ],
+        "mouth_right": [
+          252,
+          476
+        ],
+        "mouth_left": [
+          309,
+          478
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 583,
+      "y": 116,
+      "w": 158,
+      "h": 219,
+      "landmarks": {
+        "right_eye": [
+          609,
+          211
+        ],
+        "left_eye": [
+          684,
+          198
+        ],
+        "nose": [
+          647,
+          247
+        ],
+        "mouth_right": [
+          630,
+          282
+        ],
+        "mouth_left": [
+          700,
+          270
+        ]
+      },
+      "confidence": 0.94
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "chocolates",
+      "count": 8,
+      "crossed_count": 3
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "5",
+    "options": [
+      "5",
+      "8",
+      "3",
+      "4"
+    ],
+    "formula": "8-3",
+    "explanation": "8 chocolates \u2212 3 crossed = 5 left"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Visually count-checked against question."
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": "Food-named Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

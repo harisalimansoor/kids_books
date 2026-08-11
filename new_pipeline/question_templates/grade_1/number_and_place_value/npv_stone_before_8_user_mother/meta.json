@@ -1,0 +1,144 @@
+{
+  "stem_id": "npv_stone_before_8_user_mother",
+  "grade": "grade_1",
+  "topic": "number_and_place_value",
+  "layout_pattern": "number_line",
+  "question_file": "question.txt",
+  "image_file": "garden_stones_6_7_8_number_line.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 223,
+      "y": 343,
+      "w": 128,
+      "h": 164,
+      "landmarks": {
+        "right_eye": [
+          267,
+          404
+        ],
+        "left_eye": [
+          326,
+          414
+        ],
+        "nose": [
+          297,
+          438
+        ],
+        "mouth_right": [
+          257,
+          457
+        ],
+        "mouth_left": [
+          312,
+          465
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 548,
+      "y": 165,
+      "w": 144,
+      "h": 189,
+      "landmarks": {
+        "right_eye": [
+          578,
+          246
+        ],
+        "left_eye": [
+          645,
+          234
+        ],
+        "nose": [
+          617,
+          278
+        ],
+        "mouth_right": [
+          596,
+          308
+        ],
+        "mouth_left": [
+          657,
+          298
+        ]
+      },
+      "confidence": 0.936
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "eggs",
+      "object_id": "number_eggs",
+      "values": [
+        6,
+        7,
+        8
+      ],
+      "highlight": 8,
+      "before": 7,
+      "count": 3
+    }
+  ],
+  "answer": {
+    "type": "number_before",
+    "correct": "7",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "formula": null,
+    "explanation": "Number before 8 is 7"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Visually count-checked against question."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/number_and_place_value.txt",
+    "notes": "Count-locked Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

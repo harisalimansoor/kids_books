@@ -26,30 +26,25 @@ if str(PIPELINE_ROOT) not in sys.path:
 from pdf_generator import generate_pdf  # noqa: E402
 from utils import create_safe_filename  # noqa: E402
 
-from stem_pipeline import (  # noqa: E402
-    ADULT_ROLES,
-    ROLE_DISPLAY,
-    build_workbook_items,
-    display_name_for_role,
-    fill_question_text,
-    list_ready_stems,
-    list_topics,
-    mcq_from_meta,
-    partition_by_interests,
-    select_stems,
-    stems_for_available_roles,
-    topic_label,
-)
+# Reload stem_pipeline so Streamlit picks up new helpers after file edits
+import importlib  # noqa: E402
+import stem_pipeline as _stem_pipeline  # noqa: E402
 
-# Optional interactive lists (same pickers as app.py — for profile / notes)
-try:
-    from interactive_templates.compositor import (
-        list_interactive_foods,
-        list_interactive_hobbies,
-    )
-except Exception:
-    list_interactive_foods = lambda: []  # noqa: E731
-    list_interactive_hobbies = lambda: []  # noqa: E731
+_stem_pipeline = importlib.reload(_stem_pipeline)
+ADULT_ROLES = _stem_pipeline.ADULT_ROLES
+ROLE_DISPLAY = _stem_pipeline.ROLE_DISPLAY
+build_workbook_items = _stem_pipeline.build_workbook_items
+display_name_for_role = _stem_pipeline.display_name_for_role
+fill_question_text = _stem_pipeline.fill_question_text
+list_ready_stems = _stem_pipeline.list_ready_stems
+list_template_foods = _stem_pipeline.list_template_foods
+list_template_hobbies = _stem_pipeline.list_template_hobbies
+list_topics = _stem_pipeline.list_topics
+mcq_from_meta = _stem_pipeline.mcq_from_meta
+partition_by_interests = _stem_pipeline.partition_by_interests
+select_stems = _stem_pipeline.select_stems
+stems_for_available_roles = _stem_pipeline.stems_for_available_roles
+topic_label = _stem_pipeline.topic_label
 
 # ------------------------------------------------------------------------------
 # Page
@@ -145,34 +140,41 @@ _siblings = [
 if _siblings:
     family_names["sibling"] = _siblings[0]["name"].strip()
 
-# --- Favourite Foods & Hobbies (profile / PDF notes; templates are topic-driven) ---
+# --- Favourite Foods & Hobbies (only options that exist on ready templates) ---
 st.divider()
 st.markdown("#### 🍳 Favourite Foods & 🎨 Hobbies")
 st.caption(
-    "Used to **prefer** matching question templates when available "
-    "(e.g. Apples → apple stems, Football → ball stems). "
-    "If no matching template exists yet, other ready stems are used as fallback. "
-    "Also saved on the workbook profile."
+    "Only foods and hobbies that appear in **ready question templates** are listed. "
+    "Picks prefer matching stems (e.g. Apples → apple stems, Football → ball stems); "
+    "other ready stems are used as fallback. Also saved on the workbook profile."
 )
-_available_foods = list_interactive_foods()
-_available_hobbies = list_interactive_hobbies()
+_available_foods = list_template_foods()
+_available_hobbies = list_template_hobbies()
 _col_food, _col_hobby = st.columns(2)
 with _col_food:
-    favourite_foods = st.multiselect(
-        "Favourite Foods",
-        options=_available_foods,
-        default=[],
-        key="np_favourite_foods_picker",
-        help="Prefer templates tagged with this food when available.",
-    )
+    if _available_foods:
+        favourite_foods = st.multiselect(
+            "Favourite Foods",
+            options=_available_foods,
+            default=[],
+            key="np_favourite_foods_picker",
+            help="Only foods tagged on ready templates.",
+        )
+    else:
+        favourite_foods = []
+        st.caption("No food-tagged templates yet.")
 with _col_hobby:
-    favourite_hobbies = st.multiselect(
-        "Favourite Hobby Objects",
-        options=_available_hobbies,
-        default=[],
-        key="np_favourite_hobbies_picker",
-        help="Prefer templates tagged with this hobby when available.",
-    )
+    if _available_hobbies:
+        favourite_hobbies = st.multiselect(
+            "Favourite Hobby Objects",
+            options=_available_hobbies,
+            default=[],
+            key="np_favourite_hobbies_picker",
+            help="Only hobbies tagged on ready templates.",
+        )
+    else:
+        favourite_hobbies = []
+        st.caption("No hobby-tagged templates yet.")
 
 # ------------------------------------------------------------------------------
 # Workbook & Picture Settings

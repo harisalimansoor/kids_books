@@ -1,0 +1,142 @@
+{
+  "stem_id": "mult_blocks_2x4_user_father",
+  "grade": "grade_1",
+  "topic": "multiplication_and_division",
+  "layout_pattern": "equal_groups",
+  "question_file": "question.txt",
+  "image_file": "father_2_groups_4_blocks.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked. Paste child + father faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "lego"
+    ],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 205,
+      "y": 353,
+      "w": 127,
+      "h": 161,
+      "landmarks": {
+        "right_eye": [
+          237,
+          412
+        ],
+        "left_eye": [
+          299,
+          414
+        ],
+        "nose": [
+          266,
+          444
+        ],
+        "mouth_right": [
+          239,
+          469
+        ],
+        "mouth_left": [
+          293,
+          471
+        ]
+      },
+      "confidence": 0.944
+    },
+    {
+      "role": "father",
+      "x": 557,
+      "y": 154,
+      "w": 146,
+      "h": 202,
+      "landmarks": {
+        "right_eye": [
+          589,
+          242
+        ],
+        "left_eye": [
+          659,
+          231
+        ],
+        "nose": [
+          629,
+          277
+        ],
+        "mouth_right": [
+          605,
+          307
+        ],
+        "mouth_left": [
+          671,
+          297
+        ]
+      },
+      "confidence": 0.943
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "groups",
+      "owner": "father",
+      "object_id": "blocks",
+      "groups": 2,
+      "per_group": 4,
+      "count": 8
+    }
+  ],
+  "answer": {
+    "type": "multiply",
+    "correct": "8",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "10"
+    ],
+    "formula": "2\u00d74",
+    "explanation": "2 groups of 4 blocks = 8"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Visually count-checked against question."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/multiplication_and_division.txt",
+    "notes": "Count-locked Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

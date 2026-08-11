@@ -1,0 +1,146 @@
+{
+  "stem_id": "add_noodles_3_2_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "mother_3_noodle_bowls_child_2_noodle_bowls.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [
+      "noodles"
+    ],
+    "hobbies": [],
+    "notes": "Food-named stem for favourite-food preference."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 202,
+      "y": 350,
+      "w": 136,
+      "h": 179,
+      "landmarks": {
+        "right_eye": [
+          238,
+          417
+        ],
+        "left_eye": [
+          300,
+          416
+        ],
+        "nose": [
+          268,
+          450
+        ],
+        "mouth_right": [
+          241,
+          476
+        ],
+        "mouth_left": [
+          299,
+          475
+        ]
+      },
+      "confidence": 0.94
+    },
+    {
+      "role": "mother",
+      "x": 572,
+      "y": 164,
+      "w": 148,
+      "h": 196,
+      "landmarks": {
+        "right_eye": [
+          605,
+          251
+        ],
+        "left_eye": [
+          673,
+          240
+        ],
+        "nose": [
+          645,
+          286
+        ],
+        "mouth_right": [
+          623,
+          314
+        ],
+        "mouth_left": [
+          686,
+          304
+        ]
+      },
+      "confidence": 0.935
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "noodles",
+      "count": 3
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "noodles",
+      "count": 2
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "formula": "3+2",
+    "explanation": "3 noodle bowls + 2 noodle bowls = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Visually count-checked against question. | Modest crew-neck clothing edit."
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": "Food-named Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

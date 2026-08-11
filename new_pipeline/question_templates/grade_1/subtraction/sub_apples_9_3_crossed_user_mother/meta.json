@@ -1,0 +1,144 @@
+{
+  "stem_id": "sub_apples_9_3_crossed_user_mother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "mother_basket_9_apples_3_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [
+      "apples"
+    ],
+    "hobbies": [],
+    "notes": "Apple subtraction stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 303,
+      "y": 305,
+      "w": 113,
+      "h": 134,
+      "landmarks": {
+        "right_eye": [
+          344,
+          362
+        ],
+        "left_eye": [
+          393,
+          360
+        ],
+        "nose": [
+          378,
+          390
+        ],
+        "mouth_right": [
+          348,
+          409
+        ],
+        "mouth_left": [
+          392,
+          408
+        ]
+      },
+      "confidence": 0.94
+    },
+    {
+      "role": "mother",
+      "x": 567,
+      "y": 165,
+      "w": 130,
+      "h": 166,
+      "landmarks": {
+        "right_eye": [
+          590,
+          241
+        ],
+        "left_eye": [
+          647,
+          231
+        ],
+        "nose": [
+          617,
+          273
+        ],
+        "mouth_right": [
+          608,
+          295
+        ],
+        "mouth_left": [
+          658,
+          286
+        ]
+      },
+      "confidence": 0.93
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "apples",
+      "singular": "apple",
+      "plural": "apples",
+      "count": 9,
+      "crossed_count": 3,
+      "container": "basket"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "6",
+    "options": [
+      "6",
+      "9",
+      "3",
+      "5"
+    ],
+    "formula": "9-3",
+    "explanation": "9 apples minus 3 crossed out = 6 left"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Count-locked regen/edit with qwen/qwen-image-3. | Modest crew-neck clothing edit."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/subtraction.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

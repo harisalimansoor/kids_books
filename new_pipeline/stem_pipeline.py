@@ -37,6 +37,8 @@ _OBJECT_TO_FOOD: dict[str, str] = {
     "burger": "burgers",
     "chocolates": "chocolates",
     "chocolate": "chocolates",
+    "sweets": "chocolates",
+    "sweet": "chocolates",
     "cookies": "cookies",
     "cookie": "cookies",
     "cupcakes": "cupcakes",
@@ -51,6 +53,8 @@ _OBJECT_TO_FOOD: dict[str, str] = {
     "pizza": "pizza",
     "smoothies": "smoothies",
     "smoothie": "smoothies",
+    "mangoes": "mangoes",
+    "mango": "mangoes",
 }
 
 _OBJECT_TO_HOBBY: dict[str, str] = {
@@ -59,6 +63,8 @@ _OBJECT_TO_HOBBY: dict[str, str] = {
     "ball": "football",
     "crayons": "crayons",
     "crayon": "crayons",
+    "stickers": "crayons",
+    "sticker": "crayons",
     "painting": "painting",
     "paintbrush": "painting",
     "kite": "kite",
@@ -66,6 +72,42 @@ _OBJECT_TO_HOBBY: dict[str, str] = {
     "frisbee": "frisbee",
     "bubbles": "bubbles",
     "bubble": "bubbles",
+    "marbles": "marbles",
+    "marble": "marbles",
+    "lego": "lego",
+    "blocks": "lego",
+    "block": "lego",
+    "reading": "reading",
+    "books": "reading",
+    "book": "reading",
+    "shells": "shells",
+    "shell": "shells",
+}
+
+# Display labels for template interest ids (UI multiselect)
+_INTEREST_LABELS: dict[str, str] = {
+    "apples": "Apples",
+    "burgers": "Burgers",
+    "chocolates": "Chocolates",
+    "cookies": "Cookies",
+    "cupcakes": "Cupcakes",
+    "ice_cream": "Ice cream",
+    "noodles": "Noodles",
+    "pancakes": "Pancakes",
+    "pasta": "Pasta",
+    "pizza": "Pizza",
+    "smoothies": "Smoothies",
+    "mangoes": "Mangoes",
+    "football": "Football",
+    "crayons": "Crayons",
+    "painting": "Painting",
+    "kite": "Kite",
+    "frisbee": "Frisbee",
+    "bubbles": "Bubbles",
+    "marbles": "Marbles",
+    "lego": "Lego",
+    "reading": "Reading",
+    "shells": "Shells",
 }
 
 
@@ -89,10 +131,39 @@ def hobby_label_to_id(label: str) -> str:
     try:
         from interactive_templates.compositor import hobby_label_to_object_id
 
-        return _norm_token(hobby_label_to_object_id(label))
+        mapped = _norm_token(hobby_label_to_object_id(label))
+        # compositor may not know newer hobby ids (marbles/lego/reading)
+        if mapped and mapped not in _OBJECT_TO_HOBBY and mapped not in set(_OBJECT_TO_HOBBY.values()):
+            raw = _norm_token(label)
+            return _OBJECT_TO_HOBBY.get(raw, mapped)
+        return _OBJECT_TO_HOBBY.get(mapped, mapped)
     except Exception:
         raw = _norm_token(label)
         return _OBJECT_TO_HOBBY.get(raw, raw)
+
+
+def interest_id_to_label(interest_id: str) -> str:
+    """Human-readable label for a food/hobby id."""
+    iid = _norm_token(interest_id)
+    if iid in _INTEREST_LABELS:
+        return _INTEREST_LABELS[iid]
+    return iid.replace("_", " ").title()
+
+
+def list_template_foods(*, require_verified: bool = True) -> list[str]:
+    """Favourite-food labels that appear on at least one ready question template."""
+    foods: set[str] = set()
+    for stem in list_ready_stems(require_verified=require_verified):
+        foods |= set(stem.get("interest_foods") or [])
+    return sorted((interest_id_to_label(f) for f in foods), key=str.lower)
+
+
+def list_template_hobbies(*, require_verified: bool = True) -> list[str]:
+    """Favourite-hobby labels that appear on at least one ready question template."""
+    hobbies: set[str] = set()
+    for stem in list_ready_stems(require_verified=require_verified):
+        hobbies |= set(stem.get("interest_hobbies") or [])
+    return sorted((interest_id_to_label(h) for h in hobbies), key=str.lower)
 
 
 def stem_interest_tags(meta: dict) -> dict[str, set[str]]:
