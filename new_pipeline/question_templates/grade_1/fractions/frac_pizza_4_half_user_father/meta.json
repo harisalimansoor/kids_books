@@ -1,0 +1,140 @@
+{
+  "stem_id": "frac_pizza_4_half_user_father",
+  "grade": "grade_1",
+  "topic": "fractions",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "father_4_pizza_slices_half_circled.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked."
+  },
+  "interests": {
+    "foods": [
+      "pizza"
+    ],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 177,
+      "y": 342,
+      "w": 138,
+      "h": 179,
+      "landmarks": {
+        "right_eye": [
+          219,
+          413
+        ],
+        "left_eye": [
+          280,
+          417
+        ],
+        "nose": [
+          251,
+          450
+        ],
+        "mouth_right": [
+          219,
+          476
+        ],
+        "mouth_left": [
+          271,
+          479
+        ]
+      },
+      "confidence": 0.94
+    },
+    {
+      "role": "father",
+      "x": 600,
+      "y": 121,
+      "w": 165,
+      "h": 218,
+      "landmarks": {
+        "right_eye": [
+          629,
+          222
+        ],
+        "left_eye": [
+          705,
+          207
+        ],
+        "nose": [
+          669,
+          259
+        ],
+        "mouth_right": [
+          651,
+          290
+        ],
+        "mouth_left": [
+          720,
+          277
+        ]
+      },
+      "confidence": 0.94
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "father",
+      "object_id": "pizza",
+      "count": 4,
+      "circled_count": 2
+    }
+  ],
+  "answer": {
+    "type": "half_count",
+    "correct": "2",
+    "options": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "formula": "4/2",
+    "explanation": "Half of 4 slices = 2"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

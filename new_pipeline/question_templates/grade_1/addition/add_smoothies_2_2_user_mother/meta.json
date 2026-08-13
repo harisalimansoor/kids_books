@@ -1,0 +1,145 @@
+{
+  "stem_id": "add_smoothies_2_2_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "mother_2_smoothies_child_2_smoothies.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked."
+  },
+  "interests": {
+    "foods": [
+      "smoothies"
+    ],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 218,
+      "y": 373,
+      "w": 115,
+      "h": 144,
+      "landmarks": {
+        "right_eye": [
+          252,
+          428
+        ],
+        "left_eye": [
+          307,
+          430
+        ],
+        "nose": [
+          278,
+          457
+        ],
+        "mouth_right": [
+          249,
+          477
+        ],
+        "mouth_left": [
+          302,
+          479
+        ]
+      },
+      "confidence": 0.947
+    },
+    {
+      "role": "mother",
+      "x": 536,
+      "y": 194,
+      "w": 127,
+      "h": 176,
+      "landmarks": {
+        "right_eye": [
+          565,
+          264
+        ],
+        "left_eye": [
+          626,
+          257
+        ],
+        "nose": [
+          595,
+          297
+        ],
+        "mouth_right": [
+          575,
+          324
+        ],
+        "mouth_left": [
+          630,
+          318
+        ]
+      },
+      "confidence": 0.941
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "smoothies",
+      "count": 2
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "smoothies",
+      "count": 2
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "4",
+    "options": [
+      "4",
+      "2",
+      "3",
+      "5"
+    ],
+    "formula": "2+2",
+    "explanation": "2 + 2 = 4 smoothies"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

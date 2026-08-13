@@ -82,6 +82,10 @@ _OBJECT_TO_HOBBY: dict[str, str] = {
     "book": "reading",
     "shells": "shells",
     "shell": "shells",
+    "toy_cars": "toy_cars",
+    "toy_car": "toy_cars",
+    "balloons": "balloons",
+    "balloon": "balloons",
 }
 
 # Display labels for template interest ids (UI multiselect)
@@ -108,6 +112,8 @@ _INTEREST_LABELS: dict[str, str] = {
     "lego": "Lego",
     "reading": "Reading",
     "shells": "Shells",
+    "toy_cars": "Toy cars",
+    "balloons": "Balloons",
 }
 
 

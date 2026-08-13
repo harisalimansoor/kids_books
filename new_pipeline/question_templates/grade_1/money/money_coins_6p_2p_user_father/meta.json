@@ -1,0 +1,147 @@
+{
+  "stem_id": "money_coins_6p_2p_user_father",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "father_pocket_6p_table_2p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 179,
+      "y": 341,
+      "w": 141,
+      "h": 177,
+      "landmarks": {
+        "right_eye": [
+          217,
+          416
+        ],
+        "left_eye": [
+          281,
+          419
+        ],
+        "nose": [
+          249,
+          453
+        ],
+        "mouth_right": [
+          220,
+          477
+        ],
+        "mouth_left": [
+          274,
+          479
+        ]
+      },
+      "confidence": 0.943
+    },
+    {
+      "role": "father",
+      "x": 493,
+      "y": 128,
+      "w": 151,
+      "h": 205,
+      "landmarks": {
+        "right_eye": [
+          525,
+          216
+        ],
+        "left_eye": [
+          597,
+          197
+        ],
+        "nose": [
+          571,
+          253
+        ],
+        "mouth_right": [
+          553,
+          286
+        ],
+        "mouth_left": [
+          619,
+          269
+        ]
+      },
+      "confidence": 0.946
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "pocket",
+      "owner": "father",
+      "object_id": "coins",
+      "count": 6,
+      "value_pence": 6,
+      "container": "pocket"
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "coins",
+      "count": 2,
+      "value_pence": 2,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "8p",
+    "options": [
+      "8p",
+      "6p",
+      "2p",
+      "7p"
+    ],
+    "formula": "6+2",
+    "explanation": "6p + 2p = 8p"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

@@ -1,0 +1,140 @@
+{
+  "stem_id": "sub_cupcakes_6_1_crossed_user_mother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "mother_6_cupcakes_1_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked."
+  },
+  "interests": {
+    "foods": [
+      "cupcakes"
+    ],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 179,
+      "y": 361,
+      "w": 142,
+      "h": 180,
+      "landmarks": {
+        "right_eye": [
+          218,
+          435
+        ],
+        "left_eye": [
+          280,
+          430
+        ],
+        "nose": [
+          254,
+          470
+        ],
+        "mouth_right": [
+          228,
+          498
+        ],
+        "mouth_left": [
+          280,
+          494
+        ]
+      },
+      "confidence": 0.938
+    },
+    {
+      "role": "mother",
+      "x": 547,
+      "y": 161,
+      "w": 148,
+      "h": 191,
+      "landmarks": {
+        "right_eye": [
+          575,
+          245
+        ],
+        "left_eye": [
+          639,
+          235
+        ],
+        "nose": [
+          607,
+          278
+        ],
+        "mouth_right": [
+          593,
+          308
+        ],
+        "mouth_left": [
+          648,
+          299
+        ]
+      },
+      "confidence": 0.933
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "cupcakes",
+      "count": 6,
+      "crossed_count": 1
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "5",
+    "options": [
+      "5",
+      "6",
+      "1",
+      "4"
+    ],
+    "formula": "6-1",
+    "explanation": "6 \u2212 1 = 5 cupcakes left"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

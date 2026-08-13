@@ -1,0 +1,1 @@
+Look at the picture! {father_name} has 4 toy cars on the table, and {user_name} has 3 toy cars in front of {user_name}. How many toy cars are there altogether?

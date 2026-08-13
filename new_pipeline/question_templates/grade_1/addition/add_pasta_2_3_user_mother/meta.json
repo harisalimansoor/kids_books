@@ -1,0 +1,145 @@
+{
+  "stem_id": "add_pasta_2_3_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "mother_2_pasta_bowls_child_3_pasta_bowls.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked."
+  },
+  "interests": {
+    "foods": [
+      "pasta"
+    ],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 213,
+      "y": 370,
+      "w": 138,
+      "h": 179,
+      "landmarks": {
+        "right_eye": [
+          254,
+          438
+        ],
+        "left_eye": [
+          315,
+          440
+        ],
+        "nose": [
+          286,
+          475
+        ],
+        "mouth_right": [
+          255,
+          500
+        ],
+        "mouth_left": [
+          309,
+          502
+        ]
+      },
+      "confidence": 0.943
+    },
+    {
+      "role": "mother",
+      "x": 588,
+      "y": 181,
+      "w": 162,
+      "h": 207,
+      "landmarks": {
+        "right_eye": [
+          617,
+          275
+        ],
+        "left_eye": [
+          692,
+          256
+        ],
+        "nose": [
+          659,
+          313
+        ],
+        "mouth_right": [
+          648,
+          345
+        ],
+        "mouth_left": [
+          712,
+          328
+        ]
+      },
+      "confidence": 0.942
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "pasta",
+      "count": 2
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "pasta",
+      "count": 3
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "6"
+    ],
+    "formula": "2+3",
+    "explanation": "2 + 3 = 5 bowls"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

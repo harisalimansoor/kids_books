@@ -1,0 +1,143 @@
+{
+  "stem_id": "npv_blocks_5_6_8_missing_user_mother",
+  "grade": "grade_1",
+  "topic": "number_and_place_value",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "number_blocks_5_6_blank_8.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 221,
+      "y": 336,
+      "w": 130,
+      "h": 160,
+      "landmarks": {
+        "right_eye": [
+          263,
+          397
+        ],
+        "left_eye": [
+          321,
+          400
+        ],
+        "nose": [
+          295,
+          431
+        ],
+        "mouth_right": [
+          260,
+          454
+        ],
+        "mouth_left": [
+          314,
+          457
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 547,
+      "y": 165,
+      "w": 142,
+      "h": 196,
+      "landmarks": {
+        "right_eye": [
+          578,
+          249
+        ],
+        "left_eye": [
+          646,
+          240
+        ],
+        "nose": [
+          615,
+          282
+        ],
+        "mouth_right": [
+          593,
+          314
+        ],
+        "mouth_left": [
+          653,
+          306
+        ]
+      },
+      "confidence": 0.943
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "seq",
+      "object_id": "number_blocks",
+      "values": [
+        5,
+        6,
+        null,
+        8
+      ],
+      "missing": 7,
+      "count": 4
+    }
+  ],
+  "answer": {
+    "type": "missing_number",
+    "correct": "7",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "formula": null,
+    "explanation": "Sequence 5,6,?,8 \u2192 7"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

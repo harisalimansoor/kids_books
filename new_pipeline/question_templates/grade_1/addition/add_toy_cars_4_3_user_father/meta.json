@@ -1,0 +1,145 @@
+{
+  "stem_id": "add_toy_cars_4_3_user_father",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "father_4_cars_child_3_cars.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "toy_cars"
+    ],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 209,
+      "y": 329,
+      "w": 113,
+      "h": 139,
+      "landmarks": {
+        "right_eye": [
+          238,
+          380
+        ],
+        "left_eye": [
+          293,
+          378
+        ],
+        "nose": [
+          265,
+          410
+        ],
+        "mouth_right": [
+          240,
+          431
+        ],
+        "mouth_left": [
+          292,
+          430
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "father",
+      "x": 590,
+      "y": 157,
+      "w": 130,
+      "h": 175,
+      "landmarks": {
+        "right_eye": [
+          613,
+          227
+        ],
+        "left_eye": [
+          678,
+          219
+        ],
+        "nose": [
+          643,
+          262
+        ],
+        "mouth_right": [
+          626,
+          287
+        ],
+        "mouth_left": [
+          685,
+          281
+        ]
+      },
+      "confidence": 0.946
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "father",
+      "owner": "father",
+      "object_id": "toy_cars",
+      "count": 4
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "toy_cars",
+      "count": 3
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "7",
+    "options": [
+      "7",
+      "4",
+      "3",
+      "8"
+    ],
+    "formula": "4+3",
+    "explanation": "4 + 3 = 7 toy cars"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

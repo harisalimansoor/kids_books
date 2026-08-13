@@ -1,0 +1,147 @@
+{
+  "stem_id": "money_coins_4p_3p_user_grandmother",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "grandmother_pocket_4p_table_3p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 227,
+      "y": 322,
+      "w": 157,
+      "h": 196,
+      "landmarks": {
+        "right_eye": [
+          270,
+          395
+        ],
+        "left_eye": [
+          342,
+          399
+        ],
+        "nose": [
+          305,
+          441
+        ],
+        "mouth_right": [
+          268,
+          463
+        ],
+        "mouth_left": [
+          333,
+          467
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "grandmother",
+      "x": 557,
+      "y": 134,
+      "w": 174,
+      "h": 226,
+      "landmarks": {
+        "right_eye": [
+          589,
+          237
+        ],
+        "left_eye": [
+          673,
+          218
+        ],
+        "nose": [
+          637,
+          272
+        ],
+        "mouth_right": [
+          616,
+          305
+        ],
+        "mouth_left": [
+          693,
+          288
+        ]
+      },
+      "confidence": 0.93
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "pocket",
+      "owner": "grandmother",
+      "object_id": "coins",
+      "count": 4,
+      "value_pence": 4,
+      "container": "pocket"
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "coins",
+      "count": 3,
+      "value_pence": 3,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "7p",
+    "options": [
+      "7p",
+      "4p",
+      "3p",
+      "6p"
+    ],
+    "formula": "4+3",
+    "explanation": "4p + 3p = 7p"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

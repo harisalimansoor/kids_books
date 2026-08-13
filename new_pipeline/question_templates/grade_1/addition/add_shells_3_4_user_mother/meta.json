@@ -1,0 +1,147 @@
+{
+  "stem_id": "add_shells_3_4_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "mother_bucket_3_shells_table_4_shells.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "shells"
+    ],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 196,
+      "y": 347,
+      "w": 139,
+      "h": 178,
+      "landmarks": {
+        "right_eye": [
+          232,
+          419
+        ],
+        "left_eye": [
+          293,
+          417
+        ],
+        "nose": [
+          262,
+          451
+        ],
+        "mouth_right": [
+          239,
+          477
+        ],
+        "mouth_left": [
+          293,
+          475
+        ]
+      },
+      "confidence": 0.948
+    },
+    {
+      "role": "mother",
+      "x": 560,
+      "y": 170,
+      "w": 147,
+      "h": 187,
+      "landmarks": {
+        "right_eye": [
+          586,
+          255
+        ],
+        "left_eye": [
+          651,
+          238
+        ],
+        "nose": [
+          623,
+          288
+        ],
+        "mouth_right": [
+          612,
+          317
+        ],
+        "mouth_left": [
+          668,
+          302
+        ]
+      },
+      "confidence": 0.931
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "bucket",
+      "owner": "mother",
+      "object_id": "shells",
+      "count": 3,
+      "container": "bucket"
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "shells",
+      "count": 4,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "7",
+    "options": [
+      "7",
+      "3",
+      "4",
+      "6"
+    ],
+    "formula": "3+4",
+    "explanation": "3 + 4 = 7 shells"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

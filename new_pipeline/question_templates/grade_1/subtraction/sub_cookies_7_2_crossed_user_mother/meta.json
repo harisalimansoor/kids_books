@@ -1,0 +1,140 @@
+{
+  "stem_id": "sub_cookies_7_2_crossed_user_mother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "mother_7_cookies_2_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked."
+  },
+  "interests": {
+    "foods": [
+      "cookies"
+    ],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 277,
+      "y": 335,
+      "w": 122,
+      "h": 150,
+      "landmarks": {
+        "right_eye": [
+          313,
+          395
+        ],
+        "left_eye": [
+          370,
+          393
+        ],
+        "nose": [
+          341,
+          421
+        ],
+        "mouth_right": [
+          313,
+          445
+        ],
+        "mouth_left": [
+          367,
+          444
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 532,
+      "y": 166,
+      "w": 138,
+      "h": 186,
+      "landmarks": {
+        "right_eye": [
+          562,
+          243
+        ],
+        "left_eye": [
+          625,
+          232
+        ],
+        "nose": [
+          598,
+          274
+        ],
+        "mouth_right": [
+          580,
+          306
+        ],
+        "mouth_left": [
+          636,
+          296
+        ]
+      },
+      "confidence": 0.935
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "cookies",
+      "count": 7,
+      "crossed_count": 2
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "5",
+    "options": [
+      "5",
+      "7",
+      "2",
+      "4"
+    ],
+    "formula": "7-2",
+    "explanation": "7 \u2212 2 = 5 cookies left"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

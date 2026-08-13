@@ -1,0 +1,141 @@
+{
+  "stem_id": "mult_sweets_2x3_user_father",
+  "grade": "grade_1",
+  "topic": "multiplication_and_division",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "father_2_groups_3_sweets.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked."
+  },
+  "interests": {
+    "foods": [
+      "chocolates"
+    ],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 218,
+      "y": 349,
+      "w": 130,
+      "h": 170,
+      "landmarks": {
+        "right_eye": [
+          252,
+          415
+        ],
+        "left_eye": [
+          320,
+          413
+        ],
+        "nose": [
+          287,
+          447
+        ],
+        "mouth_right": [
+          256,
+          470
+        ],
+        "mouth_left": [
+          319,
+          468
+        ]
+      },
+      "confidence": 0.945
+    },
+    {
+      "role": "father",
+      "x": 548,
+      "y": 157,
+      "w": 154,
+      "h": 213,
+      "landmarks": {
+        "right_eye": [
+          581,
+          247
+        ],
+        "left_eye": [
+          655,
+          235
+        ],
+        "nose": [
+          623,
+          283
+        ],
+        "mouth_right": [
+          597,
+          315
+        ],
+        "mouth_left": [
+          669,
+          303
+        ]
+      },
+      "confidence": 0.946
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "groups",
+      "owner": "father",
+      "object_id": "sweets",
+      "groups": 2,
+      "per_group": 3,
+      "count": 6
+    }
+  ],
+  "answer": {
+    "type": "multiply",
+    "correct": "6",
+    "options": [
+      "6",
+      "5",
+      "3",
+      "8"
+    ],
+    "formula": "2\u00d73",
+    "explanation": "2 groups of 3 = 6"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}
