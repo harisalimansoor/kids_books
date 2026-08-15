@@ -36,53 +36,53 @@
           329
         ],
         "left_eye": [
-          221,
-          329
+          220,
+          328
         ],
         "nose": [
-          196,
-          358
+          195,
+          357
         ],
         "mouth_right": [
           169,
           379
         ],
         "mouth_left": [
-          220,
+          219,
           379
         ]
       },
-      "confidence": 0.947
+      "confidence": 0.945
     },
     {
       "role": "mother",
-      "x": 513,
-      "y": 161,
-      "w": 124,
-      "h": 166,
+      "x": 514,
+      "y": 159,
+      "w": 125,
+      "h": 169,
       "landmarks": {
         "right_eye": [
           542,
-          221
+          222
         ],
         "left_eye": [
-          601,
+          602,
           220
         ],
         "nose": [
-          571,
+          572,
           255
         ],
         "mouth_right": [
-          546,
-          282
+          548,
+          283
         ],
         "mouth_left": [
-          600,
-          280
+          601,
+          281
         ]
       },
-      "confidence": 0.944
+      "confidence": 0.942
     }
   ],
   "visual_groups": [
@@ -143,7 +143,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Apple groups separated: 2 in front of child, 3 in front of adult; light hand interaction; faces front-facing. | Modest crew-neck clothing edit."
+    "notes": "Outdoor orchard from clean bak; hands preserved from anatomically cleaner source; exact 2+3."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
@@ -156,7 +156,7 @@
     "framing": "more_background",
     "facing": "front_camera",
     "object_clarity": "same_shape_clearly_separated",
-    "notes": "Apples must be equal shape/size with clear gaps for unambiguous counting.",
+    "notes": "Active play activity with apples; clear two groups for addition.",
     "apple_layout": "two_clear_groups_with_gap"
   },
   "annotation": {

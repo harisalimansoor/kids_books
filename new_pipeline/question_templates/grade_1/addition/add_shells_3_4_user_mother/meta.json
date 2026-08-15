@@ -21,7 +21,7 @@
       "mother_name": "mother"
     },
     "face_swap_friendly": true,
-    "notes": "Image body is mother-locked."
+    "notes": "Interactive shell jewellery; mother-locked."
   },
   "interests": {
     "foods": [],
@@ -33,60 +33,60 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 196,
-      "y": 347,
-      "w": 139,
-      "h": 178,
+      "x": 237,
+      "y": 344,
+      "w": 135,
+      "h": 174,
       "landmarks": {
         "right_eye": [
-          232,
-          419
+          274,
+          409
         ],
         "left_eye": [
-          293,
-          417
+          338,
+          413
         ],
         "nose": [
-          262,
-          451
+          302,
+          440
         ],
         "mouth_right": [
-          239,
-          477
+          272,
+          467
         ],
         "mouth_left": [
-          293,
-          475
+          326,
+          471
         ]
       },
-      "confidence": 0.948
+      "confidence": 0.942
     },
     {
       "role": "mother",
-      "x": 560,
-      "y": 170,
-      "w": 147,
-      "h": 187,
+      "x": 592,
+      "y": 156,
+      "w": 162,
+      "h": 201,
       "landmarks": {
         "right_eye": [
-          586,
-          255
+          624,
+          247
         ],
         "left_eye": [
-          651,
-          238
+          697,
+          230
         ],
         "nose": [
-          623,
-          288
+          667,
+          280
         ],
         "mouth_right": [
-          612,
-          317
+          649,
+          310
         ],
         "mouth_left": [
-          668,
-          302
+          715,
+          295
         ]
       },
       "confidence": 0.931
@@ -123,8 +123,8 @@
   "validation": {
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
-    "verified": false,
-    "notes": "Needs visual count check"
+    "verified": true,
+    "notes": "Shell jewellery; 3 in bucket + 4 on table; total 7. No extra in hands."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
@@ -134,7 +134,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "making_shell_jewellery"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

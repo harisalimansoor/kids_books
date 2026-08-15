@@ -21,7 +21,7 @@
       "mother_name": "mother"
     },
     "face_swap_friendly": true,
-    "notes": "Image body is mother-locked. Paste child + mother faces only."
+    "notes": "Interactive noodle meal; mother-locked."
   },
   "interests": {
     "foods": [
@@ -33,60 +33,60 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 202,
-      "y": 350,
-      "w": 136,
-      "h": 179,
+      "x": 205,
+      "y": 359,
+      "w": 143,
+      "h": 172,
       "landmarks": {
         "right_eye": [
-          238,
-          417
+          241,
+          424
         ],
         "left_eye": [
-          300,
-          416
+          306,
+          427
         ],
         "nose": [
-          268,
-          450
+          271,
+          462
         ],
         "mouth_right": [
-          241,
-          476
+          243,
+          486
         ],
         "mouth_left": [
-          299,
-          475
+          298,
+          488
         ]
       },
-      "confidence": 0.94
+      "confidence": 0.931
     },
     {
       "role": "mother",
-      "x": 572,
-      "y": 164,
-      "w": 148,
-      "h": 196,
+      "x": 578,
+      "y": 171,
+      "w": 145,
+      "h": 193,
       "landmarks": {
         "right_eye": [
-          605,
-          251
+          607,
+          253
         ],
         "left_eye": [
-          673,
-          240
+          676,
+          242
         ],
         "nose": [
-          645,
-          286
+          644,
+          283
         ],
         "mouth_right": [
-          623,
-          314
+          627,
+          315
         ],
         "mouth_left": [
-          686,
-          304
+          689,
+          303
         ]
       },
       "confidence": 0.935
@@ -122,7 +122,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question. | Modest crew-neck clothing edit."
+    "notes": "Eating-noodles activity; mother 3 in a row + child 2 in a row; total 5."
   },
   "source": {
     "cluster_file": "",
@@ -132,7 +132,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "eating_noodles"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

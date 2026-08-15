@@ -1,0 +1,161 @@
+{
+  "stem_id": "sub_blocks_8_3_build_user_grandfather",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "build_remain",
+  "question_file": "question.txt",
+  "image_file": "grandfather_8_blocks_child_builds_3.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandfather-locked. Building activity stem like storybook workbook."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "lego"
+    ],
+    "notes": "Building/blocks activity stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 226,
+      "y": 302,
+      "w": 130,
+      "h": 161,
+      "landmarks": {
+        "right_eye": [
+          273,
+          361
+        ],
+        "left_eye": [
+          330,
+          371
+        ],
+        "nose": [
+          300,
+          404
+        ],
+        "mouth_right": [
+          263,
+          417
+        ],
+        "mouth_left": [
+          313,
+          426
+        ]
+      },
+      "confidence": 0.944
+    },
+    {
+      "role": "grandfather",
+      "x": 583,
+      "y": 105,
+      "w": 164,
+      "h": 230,
+      "landmarks": {
+        "right_eye": [
+          615,
+          210
+        ],
+        "left_eye": [
+          696,
+          192
+        ],
+        "nose": [
+          662,
+          249
+        ],
+        "mouth_right": [
+          639,
+          281
+        ],
+        "mouth_left": [
+          712,
+          267
+        ]
+      },
+      "confidence": 0.929
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "tower",
+      "owner": "child",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 3,
+      "notes": "stacked tower being built"
+    },
+    {
+      "id": "unused",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 5,
+      "notes": "unused on table"
+    },
+    {
+      "id": "all",
+      "owner": "grandfather",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 8,
+      "notes": "total blocks grandfather had"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "5",
+    "options": [
+      "5",
+      "8",
+      "3",
+      "4"
+    ],
+    "formula": "8-3",
+    "explanation": "8 blocks \u2212 3 used in the tower = 5 left unused"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Verified: tower=3 used + table=5 unused = 8 total; interactive building with grandfather."
+  },
+  "source": {
+    "notes": "Inspired by workbook 'Building with Grandfather' interactive activity style; new question not previously templated."
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "activity": "building_blocks",
+    "facing": "front_camera",
+    "framing": "more_background",
+    "notes": "Interactive building play like storybook workbook pages."
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

@@ -85,6 +85,37 @@ def crop_upload_face(photo_path: str | Path) -> Image.Image | None:
     return photo.crop((left, top, left + side, top + side))
 
 
+def crop_upload_head(photo_path: str | Path) -> Image.Image | None:
+    """
+    Crop face + hair + neck from an uploaded photo.
+
+    Wider/taller than crop_upload_face so identity refs keep hairstyle,
+    hair colour, and skin tone from the upload (not just eyes/nose/mouth).
+    """
+    photo_path = Path(photo_path)
+    if not photo_path.exists():
+        return None
+    photo = Image.open(photo_path).convert("RGBA")
+    faces = detect_faces(photo)
+    primary = pick_primary_face(faces, photo.size) if faces else None
+    if primary:
+        x, y, w, h = primary["x"], primary["y"], primary["w"], primary["h"]
+        pad_x = int(0.55 * max(w, h))
+        pad_top = int(1.10 * h)  # full hairstyle above the face
+        pad_bottom = int(0.55 * h)  # neck / collarbone for skin tone
+        left = max(0, x - pad_x)
+        top = max(0, y - pad_top)
+        right = min(photo.width, x + w + pad_x)
+        bottom = min(photo.height, y + h + pad_bottom)
+        return photo.crop((left, top, right, bottom))
+
+    w, h = photo.size
+    side = min(w, h)
+    left = (w - side) // 2
+    top = max(0, int((h - side) * 0.05))
+    return photo.crop((left, top, left + side, min(h, top + side)))
+
+
 def resize_face_keep_aspect(
     face: Image.Image, box_w: int, box_h: int
 ) -> Image.Image:

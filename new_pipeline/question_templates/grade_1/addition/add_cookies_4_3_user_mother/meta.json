@@ -21,7 +21,7 @@
       "mother_name": "mother"
     },
     "face_swap_friendly": true,
-    "notes": "Image body is mother-locked. Paste child + mother faces only."
+    "notes": "Interactive baking activity stem; mother-locked."
   },
   "interests": {
     "foods": [
@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 222,
-      "y": 339,
-      "w": 139,
-      "h": 178,
+      "x": 224,
+      "y": 336,
+      "w": 122,
+      "h": 156,
       "landmarks": {
         "right_eye": [
-          270,
-          403
+          263,
+          398
         ],
         "left_eye": [
-          333,
-          410
+          318,
+          402
         ],
         "nose": [
-          304,
-          436
+          293,
+          430
         ],
         "mouth_right": [
-          262,
-          459
+          259,
+          451
         ],
         "mouth_left": [
-          320,
-          466
+          310,
+          454
         ]
       },
-      "confidence": 0.948
+      "confidence": 0.952
     },
     {
       "role": "mother",
-      "x": 553,
-      "y": 161,
-      "w": 148,
-      "h": 185,
+      "x": 622,
+      "y": 80,
+      "w": 143,
+      "h": 190,
       "landmarks": {
         "right_eye": [
-          582,
-          239
+          645,
+          162
         ],
         "left_eye": [
-          649,
-          229
+          715,
+          154
         ],
         "nose": [
-          618,
-          270
+          678,
+          195
         ],
         "mouth_right": [
-          600,
-          300
+          658,
+          223
         ],
         "mouth_left": [
-          661,
-          290
+          723,
+          215
         ]
       },
-      "confidence": 0.936
+      "confidence": 0.943
     }
   ],
   "visual_groups": [
@@ -122,7 +122,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question. | Modest crew-neck clothing edit."
+    "notes": "Wider realistic baking; mother 4 on tray, child 3 on counter, total 7."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
@@ -132,7 +132,9 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "baking_cookies",
+    "notes": "Baking-together kitchen: tray/bowl; mother 4 cookies + child 3 cookies."
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

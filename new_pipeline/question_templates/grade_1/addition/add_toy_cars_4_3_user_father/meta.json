@@ -21,7 +21,7 @@
       "father_name": "father"
     },
     "face_swap_friendly": true,
-    "notes": "Image body is father-locked."
+    "notes": "Interactive playground cars; father-locked."
   },
   "interests": {
     "foods": [],
@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 209,
-      "y": 329,
-      "w": 113,
-      "h": 139,
+      "x": 245,
+      "y": 323,
+      "w": 133,
+      "h": 158,
       "landmarks": {
         "right_eye": [
-          238,
-          380
-        ],
-        "left_eye": [
-          293,
+          280,
           378
         ],
+        "left_eye": [
+          340,
+          386
+        ],
         "nose": [
-          265,
-          410
+          303,
+          420
         ],
         "mouth_right": [
-          240,
-          431
+          273,
+          438
         ],
         "mouth_left": [
-          292,
-          430
+          322,
+          447
         ]
       },
-      "confidence": 0.953
+      "confidence": 0.941
     },
     {
       "role": "father",
-      "x": 590,
-      "y": 157,
-      "w": 130,
-      "h": 175,
+      "x": 576,
+      "y": 98,
+      "w": 150,
+      "h": 198,
       "landmarks": {
         "right_eye": [
-          613,
-          227
+          610,
+          185
         ],
         "left_eye": [
-          678,
-          219
+          676,
+          170
         ],
         "nose": [
-          643,
-          262
+          650,
+          221
         ],
         "mouth_right": [
-          626,
-          287
+          631,
+          248
         ],
         "mouth_left": [
-          685,
-          281
+          694,
+          236
         ]
       },
-      "confidence": 0.946
+      "confidence": 0.935
     }
   ],
   "visual_groups": [
@@ -121,8 +121,8 @@
   "validation": {
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
-    "verified": false,
-    "notes": "Needs visual count check"
+    "verified": true,
+    "notes": "Playground car play; child 3 in a row + father 4 in 2x2; total 7."
   },
   "source": {
     "cluster_file": "",
@@ -132,7 +132,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "playing_toy_cars_playground"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

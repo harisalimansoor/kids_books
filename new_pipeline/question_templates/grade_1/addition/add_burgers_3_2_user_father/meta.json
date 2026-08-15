@@ -21,7 +21,7 @@
       "father_name": "father"
     },
     "face_swap_friendly": true,
-    "notes": "Image body is father-locked. Paste child + father faces only."
+    "notes": "Interactive burger-assembly activity; father-locked."
   },
   "interests": {
     "foods": [
@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 182,
-      "y": 342,
-      "w": 150,
-      "h": 196,
+      "x": 176,
+      "y": 307,
+      "w": 156,
+      "h": 194,
       "landmarks": {
         "right_eye": [
-          215,
-          422
+          217,
+          384
         ],
         "left_eye": [
-          287,
-          418
+          290,
+          388
         ],
         "nose": [
-          250,
-          457
+          251,
+          427
         ],
         "mouth_right": [
-          225,
-          486
+          217,
+          450
         ],
         "mouth_left": [
-          289,
-          481
+          281,
+          454
         ]
       },
-      "confidence": 0.947
+      "confidence": 0.946
     },
     {
       "role": "father",
-      "x": 608,
-      "y": 133,
-      "w": 175,
-      "h": 256,
+      "x": 562,
+      "y": 122,
+      "w": 191,
+      "h": 264,
       "landmarks": {
         "right_eye": [
-          640,
-          236
+          602,
+          228
         ],
         "left_eye": [
-          732,
-          223
+          701,
+          217
         ],
         "nose": [
-          685,
-          279
+          653,
+          275
         ],
         "mouth_right": [
-          658,
-          318
+          620,
+          314
         ],
         "mouth_left": [
-          747,
-          306
+          712,
+          303
         ]
       },
-      "confidence": 0.953
+      "confidence": 0.952
     }
   ],
   "visual_groups": [
@@ -122,7 +122,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question."
+    "notes": "qwen count-lock: child 2 + father 3 finished burgers; assembling activity kept."
   },
   "source": {
     "cluster_file": "",
@@ -132,11 +132,13 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "assembling_burgers"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",
-    "api": "openrouter_images_v1"
+    "api": "openrouter_images_v1",
+    "notes": "Scene from gpt-5-image-mini; counts locked with qwen/qwen-image-3."
   },
   "annotation": {
     "method": "yunet",

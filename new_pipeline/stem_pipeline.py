@@ -7,6 +7,7 @@ Answers come from meta.json (never re-guessed by an LLM).
 
 from __future__ import annotations
 
+import importlib
 import json
 import random
 import re
@@ -467,7 +468,10 @@ def build_workbook_items(
 
     face_paths keys: user/child, mother, father, grandmother, grandfather
     """
-    from question_templates.personalize import personalize_stem
+    from question_templates import personalize as _personalize
+
+    importlib.reload(_personalize)
+    personalize_stem = _personalize.personalize_stem
 
     out_dir = Path(out_dir) if out_dir else PIPELINE_ROOT / "_runtime" / "personalized"
     out_dir.mkdir(parents=True, exist_ok=True)

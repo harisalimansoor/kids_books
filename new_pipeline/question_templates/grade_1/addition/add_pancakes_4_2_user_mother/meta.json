@@ -21,7 +21,7 @@
       "mother_name": "mother"
     },
     "face_swap_friendly": true,
-    "notes": "Image body is mother-locked. Paste child + mother faces only."
+    "notes": "Interactive pancake cooking; mother-locked."
   },
   "interests": {
     "foods": [
@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 204,
-      "y": 318,
-      "w": 134,
-      "h": 165,
+      "x": 234,
+      "y": 300,
+      "w": 121,
+      "h": 151,
       "landmarks": {
         "right_eye": [
-          244,
-          384
+          268,
+          355
         ],
         "left_eye": [
-          306,
-          384
+          327,
+          357
         ],
         "nose": [
-          276,
-          412
+          298,
+          385
         ],
         "mouth_right": [
-          244,
-          437
+          268,
+          409
         ],
         "mouth_left": [
-          300,
-          438
+          322,
+          411
         ]
       },
-      "confidence": 0.945
+      "confidence": 0.944
     },
     {
       "role": "mother",
-      "x": 576,
-      "y": 104,
-      "w": 161,
-      "h": 203,
+      "x": 601,
+      "y": 100,
+      "w": 146,
+      "h": 177,
       "landmarks": {
         "right_eye": [
-          605,
-          193
+          631,
+          181
         ],
         "left_eye": [
-          674,
-          179
+          692,
+          168
         ],
         "nose": [
-          641,
-          224
+          666,
+          214
         ],
         "mouth_right": [
-          629,
-          260
+          653,
+          242
         ],
         "mouth_left": [
-          688,
-          247
+          703,
+          230
         ]
       },
-      "confidence": 0.935
+      "confidence": 0.931
     }
   ],
   "visual_groups": [
@@ -97,13 +97,15 @@
       "id": "mother",
       "owner": "mother",
       "object_id": "pancakes",
-      "count": 4
+      "count": 4,
+      "container": "pan"
     },
     {
       "id": "child",
       "owner": "child",
       "object_id": "pancakes",
-      "count": 2
+      "count": 2,
+      "container": "plate"
     }
   ],
   "answer": {
@@ -122,7 +124,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question."
+    "notes": "Making pancakes; mother 4 in pan + child 2 on plate; total 6."
   },
   "source": {
     "cluster_file": "",
@@ -132,7 +134,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "making_pancakes"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

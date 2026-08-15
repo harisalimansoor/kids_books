@@ -1,1 +1,1 @@
-Look at the picture! {mother_name} has 4 pancakes in front of her, and {user_name} has 2 pancakes in front of {user_name}. How many pancakes are there altogether?
+Look at the picture! {mother_name} has 4 pancakes in the pan, and {user_name} has 2 pancakes on a plate. How many pancakes are there altogether?

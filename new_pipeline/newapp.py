@@ -244,7 +244,7 @@ style_choice = st.radio(
     key="np_style_choice",
     help=(
         "Both modes AI-blend your uploaded faces into the template (not stickers). "
-        "Boy/Girl gender also restyles the child's hair to match."
+        "Each person's hairstyle and skin tone stay as in their uploaded photo."
     ),
 )
 soft_cartoon = style_choice.startswith("Soft cartoon")

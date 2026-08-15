@@ -6,8 +6,9 @@ the scene while locking faces to the EXACT uploaded photos.
 
 Identity strategy:
   1. Crop upload faces (YuNet) and paste with soft oval (aspect preserved)
-  2. AI finish gets the composite PLUS the two face crops as references
-  3. Re-paste the same crops after AI so likeness cannot drift
+  2. AI finish gets the composite PLUS head crops (face + hair + neck)
+     so hairstyle and skin tone lock to the uploaded photos
+  3. No final re-paste — that would undo seamless blending
 """
 
 from __future__ import annotations
@@ -34,12 +35,14 @@ if str(REPO_ROOT) not in sys.path:
 load_dotenv(dotenv_path=REPO_ROOT / ".env")
 API_KEY = os.getenv("OPENROUTER_API_KEY", "").strip()
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-IMAGE_MODEL = "openai/gpt-5.4-image-2"
+IMAGE_MODEL = os.getenv("PERSONALIZE_IMAGE_MODEL", "openai/gpt-5-image-mini").strip() or "openai/gpt-5-image-mini"
 
 ROOT = TEMPLATES_ROOT
 
-# Paste box slightly larger than YuNet box so forehead / jaw aren't clipped.
-_REGION_EXPAND = float(os.getenv("FACE_PASTE_EXPAND", "1.18"))
+# Paste box larger than YuNet so forehead/hair aren't clipped. Extra lift on top
+# so short cuts (bob) cover template hair instead of sitting as a face sticker.
+_REGION_EXPAND = float(os.getenv("FACE_PASTE_EXPAND", "1.28"))
+_REGION_TOP_EXTRA = float(os.getenv("FACE_PASTE_TOP_EXTRA", "0.22"))
 
 
 def _soft_mask(w: int, h: int) -> Image.Image:
@@ -57,10 +60,11 @@ def _expand_region(region: dict, canvas_size: tuple[int, int], scale: float = _R
     x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
     cx, cy = x + w / 2.0, y + h / 2.0
     nw, nh = w * scale, h * scale
+    extra_top = h * _REGION_TOP_EXTRA
     nx = int(round(cx - nw / 2.0))
-    ny = int(round(cy - nh / 2.0))
+    ny = int(round(cy - nh / 2.0 - extra_top / 2.0))
     nw = max(8, int(round(nw)))
-    nh = max(8, int(round(nh)))
+    nh = max(8, int(round(nh + extra_top)))
     nx = max(0, min(nx, cw - nw))
     ny = max(0, min(ny, ch - nh))
     nw = min(nw, cw - nx)
@@ -71,7 +75,7 @@ def _expand_region(region: dict, canvas_size: tuple[int, int], scale: float = _R
 
 
 def _match_lighting(face: Image.Image, canvas: Image.Image, region: dict) -> Image.Image:
-    """Gently match face brightness to the local neck/cheek area on the canvas."""
+    """Gently match face brightness to the scene. Keep upload skin colour (no hue shift)."""
     x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
     # Sample a strip just below the paste box (neck) when possible
     sample_top = min(canvas.height - 1, y + h)
@@ -164,82 +168,92 @@ def _ai_finish_identity_locked(
     *,
     child_face: Image.Image,
     adult_face: Image.Image,
+    child_head: Image.Image,
+    adult_head: Image.Image,
     adult_role: str,
     soft_cartoon: bool,
     child_gender: str = "",
 ) -> Image.Image | None:
     """
-    Seamless face blend into the template with face crops as identity refs.
-    Also adjusts the child's hair to match gender (boy/girl).
+    Seamless face blend with identity refs that include hair + skin.
+
+    Hairstyle, hair colour, and skin tone must come from the uploaded photos
+    for each role — not from the template body or a generic boy/girl restyle.
     """
     if not API_KEY:
         return None
 
     adult = adult_role.replace("_", " ")
-    gender = (child_gender or "").strip().lower()
-    if gender in ("boy", "male", "m"):
-        hair_block = """
-3. CHILD HAIR (gender = boy) — required
-   - Restyle the CHILD's hair to a natural short BOY haircut suitable for age 5–7
-     (short sides, neat top — e.g. short crop / textured crop).
-   - Keep the SAME hair colour as in the child reference / paste.
-   - Hair must look grown from the scalp and blended into the head — not a wig or sticker.
-   - Do NOT leave long girl-style hair, pigtails, or long fringe on a boy.
-"""
-    elif gender in ("girl", "female", "f"):
-        hair_block = """
-3. CHILD HAIR (gender = girl) — required
-   - Restyle the CHILD's hair to a natural GIRL hairstyle suitable for age 5–7
-     (shoulder-length or longer with soft layers, or neat tied-back / half-up if already long).
-   - Keep the SAME hair colour as in the child reference / paste.
-   - Hair must look grown from the scalp and blended into the head — not a wig or sticker.
-   - Do NOT leave a short boy buzz-cut on a girl.
-"""
-    else:
-        hair_block = """
-3. CHILD HAIR
-   - Keep the child's hair consistent with the reference face photo.
-   - Blend the hairline into the head naturally (no cut-out fringe).
-"""
+    gender_hint = (child_gender or "").strip().lower()
+    gender_line = ""
+    if gender_hint in ("boy", "male", "m", "girl", "female", "f"):
+        gender_line = (
+            f"   - Child gender hint from the form: {child_gender}. "
+            "Use this only if the hair in IMAGE 2 is cropped and unclear. "
+            "The uploaded photo always wins over this hint.\n"
+        )
 
-    style_block = ""
     if soft_cartoon:
         style_block = """
-4. SOFT STORYBOOK TOUCH (optional, whole scene)
+5. SOFT STORYBOOK TOUCH (optional, whole scene)
    - Slightly warmer colours and gentle storybook softness on clothes/background.
-   - Faces stay photoreal and recognisable as the reference people — do NOT turn faces into cartoons.
+   - Faces, hair, and skin stay photoreal and match the reference people — do NOT cartoon the faces.
 """
     else:
         style_block = """
-4. KEEP PHOTO LOOK
-   - Stay fully photorealistic. Only blend faces/hair into the scene.
+5. KEEP PHOTO LOOK
+   - Stay fully photorealistic. Only blend faces/hair/skin into the scene.
 """
 
     prompt = f"""You are finishing a personalised Grade 1 worksheet photograph.
 
-IMAGE 1 = scene with two faces PASTED as soft ovals (child on the left, {adult} on the right).
-IMAGE 2 = REFERENCE of the CHILD's real face — the left person MUST be this child.
-IMAGE 3 = REFERENCE of the {adult.upper()}'s real face — the right person MUST be this adult.
+IMAGE 1 = scene with two faces PASTED as soft ovals (child LEFT, {adult} RIGHT).
+IMAGE 2 = CHILD head reference (face + hair + neck) — the LEFT person MUST be this child.
+IMAGE 3 = {adult.upper()} head reference (face + hair + neck) — the RIGHT person MUST be this adult.
+IMAGE 4 = CHILD face crop (eyes, nose, mouth lock).
+IMAGE 5 = {adult.upper()} face crop (eyes, nose, mouth lock).
 
-GOAL: seamless photoreal face swap — NOT stickers on a template.
+GOAL: seamless photoreal swap. Each person must look like their uploaded photo — same face, same hairstyle, same skin tone.
 
 1. FACE IDENTITY (non-negotiable)
-   - Left face = IMAGE 2 (same person, eyes, nose, mouth, skin, age).
-   - Right face = IMAGE 3 (same person).
+   - Left person = IMAGE 2 / IMAGE 4 (same child: eyes, nose, mouth, age).
+   - Right person = IMAGE 3 / IMAGE 5 (same adult).
    - Do NOT replace with generic / prettier / different people.
    - Keep facial feature proportions from the references.
 
-2. SEAMLESS BLEND (critical — this must not look pasted)
-   - Completely remove oval cut edges, halos, blur rings, and tone steps.
+2. FULL HAIR REPLACEMENT — copy from the UPLOADS (non-negotiable)
+   - Rebuild EACH person's ENTIRE hair, including the back of the head, sides, nape, and
+     anything hanging over shoulders. The silhouette of the head+hair must match IMAGE 2 / IMAGE 3.
+   - LEFT hair = IMAGE 2 exactly: same cut, length, parting, volume, texture, colour.
+     Example: if IMAGE 2 is a bob (chin-length, no tail), the child MUST have a bob only.
+   - RIGHT hair = IMAGE 3 exactly: same cut, length, parting, volume, texture, colour.
+   - ERASE leftover TEMPLATE hair completely: ponytails, pigtails, buns, long hair down the
+     back, hair over the shoulders, clips, ribbons, flyaways that are NOT in the upload.
+   - Where you remove long template hair (e.g. ponytails behind a bob), fill that area with
+     the real background / clothing / neck — do not leave a ghost tail or extra hair mass.
+   - Hair must look grown from the scalp (not a wig or sticker pasted on top of old hair).
+   - Do NOT restyle into a generic boy/girl haircut. Do not keep template hair "from behind".
+{gender_line}
+3. WHOLE-BODY SKIN TONE — copy from the UPLOADS (non-negotiable)
+   - LEFT person: EVERY visible patch of skin must match IMAGE 2 (fair/olive/brown/deep —
+     same undertone AND same depth). That includes face, ears, neck, chest/collarbone,
+     both arms, wrists, hands, fingers, and any legs/ankles showing.
+   - RIGHT person: EVERY visible patch of skin must match IMAGE 3 the same way.
+   - If the upload is fair, the WHOLE body is fair — not a fair face on tanned template arms.
+   - If the upload is darker, the WHOLE body is that darker tone — not a dark face on pale arms.
+   - Recolour template limbs/neck to the upload. Do NOT fade the uploaded face toward the
+     template body. No two-tone people (face one colour, hands another).
+   - Keep natural scene lighting (highlights/shadows) but complexion must stay the upload.
+
+4. SEAMLESS BLEND
+   - Remove oval cut edges, halos, blur rings, and tone steps.
    - Rebuild natural hairline, ears, jaw, and neck transitions for BOTH people.
-   - Match face brightness, white balance, and skin tone to each person's neck/shoulders.
-   - Match scene lighting (highlights/shadows under chin, beside nose, along jaw).
    - Match photo grain / sharpness so faces are not flatter or glowing vs the body.
-   - The result must look like one real photograph, not collage.
-{hair_block}
+   - Result must look like one real photograph, not a collage.
 {style_block}
-5. PRESERVE LAYOUT
-   - Same poses, framing, clothes (except hair as above), object counts.
+6. PRESERVE LAYOUT
+   - Same poses, framing, clothes (except hair + whole-body skin as above), object counts.
+   - No leftover ponytails or template hair behind a shorter cut.
    - No text, numbers, watermarks. No extra people.
 
 Output ONLY the finished seamless photograph.
@@ -247,6 +261,8 @@ Output ONLY the finished seamless photograph.
 
     content = [
         {"type": "image_url", "image_url": {"url": _image_to_data_url(composite, max_side=1024)}},
+        {"type": "image_url", "image_url": {"url": _image_to_data_url(child_head, max_side=640)}},
+        {"type": "image_url", "image_url": {"url": _image_to_data_url(adult_head, max_side=640)}},
         {"type": "image_url", "image_url": {"url": _image_to_data_url(child_face, max_side=512)}},
         {"type": "image_url", "image_url": {"url": _image_to_data_url(adult_face, max_side=512)}},
         {"type": "text", "text": prompt},
@@ -342,9 +358,9 @@ def personalize_stem(
     child_gender: str = "",
 ) -> Path:
     """
-    Paste upload faces onto the stem, then AI-blend them into the photo
-    (identity refs + gender-appropriate child hair). No final re-paste —
-    that would undo seamless blending.
+    Paste upload faces onto the stem, then AI-blend them into the photo.
+    Hairstyle and skin tone lock to each role's uploaded photo. No final
+    re-paste — that would undo seamless blending.
     """
     stem_dir = Path(stem_dir)
     meta = json.loads((stem_dir / "meta.json").read_text(encoding="utf-8"))
@@ -374,18 +390,25 @@ def personalize_stem(
     child_region = _expand_region(regions["child"], canvas.size)
     adult_region = _expand_region(adult_region, canvas.size)
 
+    from interactive_templates.face_swap import crop_upload_head
+
     ok_c, child_face = _paste_face(canvas, child_region, Path(child_photo))
     ok_a, adult_face = _paste_face(canvas, adult_region, Path(adult_photo))
     print(f"  ✓ Pasted child={ok_c} {role}={ok_a}")
 
+    child_head = crop_upload_head(Path(child_photo)) or child_face
+    adult_head = crop_upload_head(Path(adult_photo)) or adult_face
+
     result = canvas.convert("RGB")
     # Always prefer AI blend when requested — this is what removes sticker look
     if run_ai_finish and ok_c and ok_a and child_face is not None and adult_face is not None:
-        print(f"  ✨ Seamless blend (gender={child_gender or 'n/a'}, soft_cartoon={soft_cartoon})…")
+        print(f"  ✨ Seamless blend via {IMAGE_MODEL} (hair+skin from uploads, gender hint={child_gender or 'n/a'})…")
         finished = _ai_finish_identity_locked(
             result,
             child_face=child_face,
             adult_face=adult_face,
+            child_head=child_head,
+            adult_head=adult_head,
             adult_role=role,
             soft_cartoon=soft_cartoon,
             child_gender=child_gender,
@@ -415,7 +438,7 @@ if __name__ == "__main__":
     p.add_argument("--child", required=True, type=Path)
     p.add_argument("--adult", required=True, type=Path)
     p.add_argument("--role", default="mother")
-    p.add_argument("--gender", default="", help="Boy / Girl — restyles child hair")
+    p.add_argument("--gender", default="", help="Boy / Girl — used only if upload hair is unclear")
     p.add_argument("--out", type=Path, default=None)
     p.add_argument("--no-ai", action="store_true")
     p.add_argument("--photo", action="store_true", help="Photoreal blend only (no soft cartoon)")

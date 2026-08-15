@@ -21,7 +21,7 @@
       "father_name": "father"
     },
     "face_swap_friendly": true,
-    "notes": "Image body is father-locked. Paste child + father faces only."
+    "notes": "Interactive pizza night; father-locked."
   },
   "interests": {
     "foods": [
@@ -34,62 +34,62 @@
     {
       "role": "child",
       "x": 185,
-      "y": 335,
-      "w": 155,
-      "h": 193,
+      "y": 334,
+      "w": 130,
+      "h": 160,
       "landmarks": {
         "right_eye": [
           225,
-          416
+          396
         ],
         "left_eye": [
-          294,
-          410
+          282,
+          397
         ],
         "nose": [
-          264,
-          449
+          258,
+          429
         ],
         "mouth_right": [
-          237,
-          478
+          226,
+          453
         ],
         "mouth_left": [
-          298,
-          473
+          278,
+          454
         ]
       },
-      "confidence": 0.953
+      "confidence": 0.946
     },
     {
       "role": "father",
-      "x": 559,
-      "y": 122,
-      "w": 179,
-      "h": 241,
+      "x": 561,
+      "y": 117,
+      "w": 158,
+      "h": 217,
       "landmarks": {
         "right_eye": [
-          592,
-          225
+          591,
+          212
         ],
         "left_eye": [
-          682,
-          209
+          669,
+          196
         ],
         "nose": [
-          641,
-          266
+          634,
+          249
         ],
         "mouth_right": [
-          616,
-          304
+          613,
+          281
         ],
         "mouth_left": [
-          698,
-          289
+          683,
+          268
         ]
       },
-      "confidence": 0.951
+      "confidence": 0.942
     }
   ],
   "visual_groups": [
@@ -122,7 +122,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question."
+    "notes": "Pizza-from-box; colourful greasy empty box; father 2 + child 3 slices; total 5."
   },
   "source": {
     "cluster_file": "",
@@ -132,7 +132,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "taking_pizza_from_box"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

@@ -21,68 +21,68 @@
       "mother_name": "mother"
     },
     "face_swap_friendly": true,
-    "notes": "Image body is mother-locked. Paste child + mother faces only."
+    "notes": "Interactive marble play; mother-locked."
   },
   "face_regions": [
     {
       "role": "child",
-      "x": 246,
-      "y": 303,
-      "w": 133,
-      "h": 168,
+      "x": 253,
+      "y": 318,
+      "w": 132,
+      "h": 167,
       "landmarks": {
         "right_eye": [
-          279,
-          371
+          291,
+          379
         ],
         "left_eye": [
-          342,
-          364
+          353,
+          382
         ],
         "nose": [
-          315,
-          401
+          323,
+          414
         ],
         "mouth_right": [
           290,
-          428
+          438
         ],
         "mouth_left": [
-          346,
-          422
+          347,
+          440
         ]
       },
-      "confidence": 0.949
+      "confidence": 0.952
     },
     {
       "role": "mother",
-      "x": 623,
-      "y": 138,
+      "x": 624,
+      "y": 139,
       "w": 159,
-      "h": 198,
+      "h": 197,
       "landmarks": {
         "right_eye": [
-          654,
-          230
+          655,
+          229
         ],
         "left_eye": [
-          727,
-          215
+          729,
+          214
         ],
         "nose": [
           693,
-          268
+          267
         ],
         "mouth_right": [
           677,
-          294
+          293
         ],
         "mouth_left": [
-          742,
+          743,
           281
         ]
       },
-      "confidence": 0.944
+      "confidence": 0.945
     }
   ],
   "visual_groups": [
@@ -121,7 +121,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "3 marbles on table by child bag + 6 on table by mother jar (=9), all fully visible."
+    "notes": "Marble-play activity; child 3 in circle + mother 6 in 2x3 grid; total 9."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
@@ -131,7 +131,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "playing_marbles"
   },
   "annotation": {
     "method": "yunet",
@@ -142,5 +143,9 @@
     "foods": [],
     "hobbies": [],
     "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
   }
 }

@@ -26,7 +26,7 @@ from PIL import Image, ImageDraw, ImageFilter
 load_dotenv(dotenv_path=Path(__file__).parent.parent / ".env")
 API_KEY = os.getenv("OPENROUTER_API_KEY", "").strip()
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-IMAGE_MODEL = "openai/gpt-5.4-image-2"
+IMAGE_MODEL = os.getenv("PERSONALIZE_IMAGE_MODEL", "openai/gpt-5-image-mini").strip() or "openai/gpt-5-image-mini"
 
 
 # Second image call per scene. Costs extra credits, so it can be turned off
@@ -427,10 +427,12 @@ YOUR JOB — finish the objects and expressions only:
 
 1. FACES ARE FINAL (do not redo them)
    - Keep BOTH faces exactly as they are: same identity, face shape, eye/nose/mouth
-     shape and spacing, age, gender, and head size relative to the neck and shoulders.
+     shape and spacing, age, gender, hairstyle, hair colour, skin tone, and head size
+     relative to the neck and shoulders.
    - Preserve the pasted facial feature proportions from the uploaded photos —
      do NOT squash, stretch, slim, widen, or shrink either face.
    - Do NOT redraw, replace, enlarge, shrink, move, or swap the faces.
+   - Do NOT restyle hair (no leftover ponytails) or leave template-body skin on arms/hands.
    - You may only gently match leftover seam lighting at the hairline / jaw if needed.
    - Child must stay clearly 5-6 years old; the {adult} must stay the same {adult}.
 
@@ -505,25 +507,31 @@ DO EXACTLY THIS:
      around the faces — especially at the hairline, ears, jawline, chin and neck.
    - The transition from face skin to neck / ears / hair must be invisible.
 2. MATCH LIGHTING AND COLOUR
-   - Match face brightness and exposure to each person's own neck, ears and chest.
    - Apply the scene's light direction (highlights and shadows under the chin,
      beside the nose, along the jaw and brow).
-   - Match white balance, colour temperature, contrast and skin tone to the body.
+   - Keep each pasted person's SKIN TONE from the upload (undertone + depth) on the
+     WHOLE body: face, neck, ears, arms, hands, fingers, chest. If the upload is fair,
+     the entire body is fair — never a fair face on tanned template arms.
+     Recolour limbs to the uploaded face. Do NOT fade the face toward the template body.
    - Faces must not look flatter, brighter, or more glowing than the rest of the photo.
-3. MATCH TEXTURE
+3. MATCH TEXTURE AND HAIR
    - Match the photo's sharpness, film grain and depth of field on the faces.
    - Remove any airbrushed or sticker-like look.
+   - Keep each person's hairstyle, hair length, and hair colour from the paste/upload.
+     Rebuild the full head silhouette. ERASE leftover template hair (ponytails, pigtails,
+     long hair down the back) that is not in the upload. A bob must not keep a ponytail
+     behind. Do not restyle into a generic cut.
 
 ABSOLUTELY FORBIDDEN:
    - Do NOT change facial identity, bone structure, face shape, eye shape,
-     nose, mouth, eyebrows, age, gender or ethnicity of either person.
+     nose, mouth, eyebrows, age, gender, ethnicity or complexion of either person.
    - Do NOT squash, stretch, slim, widen, or warp facial feature proportions.
    - Do NOT replace either face with a different or generic face.
    - Do NOT swap the two faces with each other.
    - Do NOT move, resize, enlarge or shrink either face — keep the EXACT same
      head size and feature scale as the pasted ovals (no smaller heads).
    - Do NOT beautify, slim, de-age or smooth the faces.
-   - Do NOT change hair, clothing, objects, hands, background or composition.
+   - Do NOT change clothing, objects, hands, background or composition.
 
 Keep both people looking warmly happy with the smiles they already have.
 Output ONLY the corrected photograph.
