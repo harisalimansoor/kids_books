@@ -26,63 +26,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 178,
-      "y": 270,
-      "w": 138,
-      "h": 177,
+      "x": 251,
+      "y": 304,
+      "w": 136,
+      "h": 178,
       "landmarks": {
         "right_eye": [
-          211,
-          343
+          294,
+          374
         ],
         "left_eye": [
-          277,
-          334
+          353,
+          379
         ],
         "nose": [
-          250,
-          375
+          321,
+          409
         ],
         "mouth_right": [
-          224,
-          404
+          289,
+          427
         ],
         "mouth_left": [
-          284,
-          396
+          346,
+          432
         ]
       },
-      "confidence": 0.944
+      "confidence": 0.94
     },
     {
       "role": "mother",
-      "x": 541,
-      "y": 129,
-      "w": 148,
-      "h": 205,
+      "x": 519,
+      "y": 205,
+      "w": 159,
+      "h": 215,
       "landmarks": {
         "right_eye": [
-          571,
-          222
+          550,
+          298
         ],
         "left_eye": [
-          642,
-          208
+          630,
+          284
         ],
         "nose": [
-          610,
-          255
+          593,
+          334
         ],
         "mouth_right": [
-          589,
-          283
+          568,
+          365
         ],
         "mouth_left": [
-          657,
-          272
+          642,
+          353
         ]
       },
-      "confidence": 0.937
+      "confidence": 0.94
     }
   ],
   "visual_groups": [
@@ -121,7 +121,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Corrected to exactly 7 balls in adult basket + 9 on child table (=16). | Modest crew-neck clothing edit."
+    "notes": "Funland booth, 9 on 3x3 tray + 7 in basket, with openai/gpt-5-image-mini."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/general_math.txt",
@@ -131,7 +131,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "funland_playing_balls"
   },
   "face_detection": "yunet",
   "annotation": {

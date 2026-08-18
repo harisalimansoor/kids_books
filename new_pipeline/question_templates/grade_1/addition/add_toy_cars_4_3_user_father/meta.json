@@ -21,7 +21,7 @@
       "father_name": "father"
     },
     "face_swap_friendly": true,
-    "notes": "Interactive playground cars; father-locked."
+    "notes": "Toy shop choosing cars; father-locked."
   },
   "interests": {
     "foods": [],
@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 245,
-      "y": 323,
-      "w": 133,
-      "h": 158,
+      "x": 224,
+      "y": 309,
+      "w": 134,
+      "h": 171,
       "landmarks": {
         "right_eye": [
-          280,
-          378
+          259,
+          377
         ],
         "left_eye": [
-          340,
-          386
+          326,
+          371
         ],
         "nose": [
-          303,
-          420
+          297,
+          409
         ],
         "mouth_right": [
-          273,
-          438
+          267,
+          436
         ],
         "mouth_left": [
-          322,
-          447
+          329,
+          430
         ]
       },
-      "confidence": 0.941
+      "confidence": 0.949
     },
     {
       "role": "father",
-      "x": 576,
-      "y": 98,
-      "w": 150,
-      "h": 198,
+      "x": 540,
+      "y": 99,
+      "w": 173,
+      "h": 214,
       "landmarks": {
         "right_eye": [
-          610,
-          185
+          578,
+          197
         ],
         "left_eye": [
-          676,
-          170
+          645,
+          175
         ],
         "nose": [
-          650,
-          221
+          618,
+          234
         ],
         "mouth_right": [
-          631,
-          248
+          608,
+          268
         ],
         "mouth_left": [
-          694,
-          236
+          671,
+          250
         ]
       },
-      "confidence": 0.935
+      "confidence": 0.939
     }
   ],
   "visual_groups": [
@@ -122,7 +122,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Playground car play; child 3 in a row + father 4 in 2x2; total 7."
+    "notes": "Toy shop choosing cars, child 3 + father 4, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "",
@@ -133,7 +133,7 @@
     "interaction": true,
     "facing": "front_camera",
     "framing": "more_background",
-    "activity": "playing_toy_cars_playground"
+    "activity": "choosing_toy_cars_shop"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

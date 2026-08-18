@@ -31,63 +31,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 182,
-      "y": 336,
-      "w": 150,
-      "h": 187,
+      "x": 247,
+      "y": 291,
+      "w": 144,
+      "h": 183,
       "landmarks": {
         "right_eye": [
-          224,
-          414
+          287,
+          362
         ],
         "left_eye": [
-          293,
-          415
+          355,
+          369
         ],
         "nose": [
-          258,
-          453
+          321,
+          402
         ],
         "mouth_right": [
-          227,
-          477
+          285,
+          425
         ],
         "mouth_left": [
-          287,
-          478
+          343,
+          431
         ]
       },
-      "confidence": 0.942
+      "confidence": 0.944
     },
     {
       "role": "mother",
-      "x": 572,
-      "y": 120,
-      "w": 189,
-      "h": 222,
+      "x": 584,
+      "y": 112,
+      "w": 192,
+      "h": 216,
       "landmarks": {
         "right_eye": [
-          607,
-          224
+          622,
+          210
         ],
         "left_eye": [
-          692,
-          201
+          707,
+          190
         ],
         "nose": [
-          657,
-          262
+          672,
+          247
         ],
         "mouth_right": [
-          636,
-          295
+          653,
+          282
         ],
         "mouth_left": [
-          713,
-          276
+          726,
+          265
         ]
       },
-      "confidence": 0.949
+      "confidence": 0.937
     }
   ],
   "visual_groups": [
@@ -120,7 +120,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question."
+    "notes": "Colourful blocks, interactive riddle play, 11-12-?-14, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/number_and_place_value.txt",
@@ -130,7 +130,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "playing_number_riddle"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

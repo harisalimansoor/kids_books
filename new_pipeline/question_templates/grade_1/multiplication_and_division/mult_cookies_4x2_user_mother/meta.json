@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 212,
-      "y": 286,
-      "w": 144,
-      "h": 178,
+      "x": 10,
+      "y": 661,
+      "w": 460,
+      "h": 385,
       "landmarks": {
         "right_eye": [
-          253,
-          352
+          150,
+          876
         ],
         "left_eye": [
-          318,
-          354
+          341,
+          862
         ],
         "nose": [
-          287,
-          389
+          258,
+          976
         ],
         "mouth_right": [
-          255,
-          415
+          171,
+          1027
         ],
         "mouth_left": [
-          314,
-          416
+          335,
+          1018
         ]
       },
-      "confidence": 0.94
+      "confidence": 0.634
     },
     {
       "role": "mother",
-      "x": 576,
-      "y": 88,
-      "w": 165,
-      "h": 216,
+      "x": 618,
+      "y": 81,
+      "w": 133,
+      "h": 173,
       "landmarks": {
         "right_eye": [
-          606,
-          184
+          643,
+          161
         ],
         "left_eye": [
-          688,
-          170
+          701,
+          147
         ],
         "nose": [
-          652,
-          221
+          673,
+          194
         ],
         "mouth_right": [
-          626,
-          252
+          664,
+          216
         ],
         "mouth_left": [
-          703,
-          240
+          716,
+          205
         ]
       },
-      "confidence": 0.951
+      "confidence": 0.935
     }
   ],
   "visual_groups": [
@@ -118,7 +118,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question."
+    "notes": "Baking, 4 groups of 2 cookies, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "",
@@ -128,7 +128,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "baking_cookies"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

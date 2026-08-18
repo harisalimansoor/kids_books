@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 245,
-      "y": 431,
-      "w": 103,
-      "h": 131,
+      "x": 192,
+      "y": 300,
+      "w": 164,
+      "h": 203,
       "landmarks": {
         "right_eye": [
-          271,
-          486
+          240,
+          382
         ],
         "left_eye": [
-          321,
-          478
+          312,
+          377
         ],
         "nose": [
-          302,
-          509
+          282,
+          421
         ],
         "mouth_right": [
-          281,
-          530
+          249,
+          451
         ],
         "mouth_left": [
-          327,
-          525
+          314,
+          447
         ]
       },
-      "confidence": 0.945
+      "confidence": 0.942
     },
     {
       "role": "mother",
-      "x": 540,
-      "y": 100,
-      "w": 127,
-      "h": 152,
+      "x": 558,
+      "y": 108,
+      "w": 193,
+      "h": 227,
       "landmarks": {
         "right_eye": [
-          566,
-          163
+          589,
+          209
         ],
         "left_eye": [
-          626,
-          153
+          672,
+          188
         ],
         "nose": [
-          598,
-          193
+          631,
+          246
         ],
         "mouth_right": [
-          581,
-          216
+          621,
+          283
         ],
         "mouth_left": [
-          636,
-          207
+          693,
+          265
         ]
       },
-      "confidence": 0.94
+      "confidence": 0.932
     }
   ],
   "visual_groups": [
@@ -128,7 +128,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Count-locked regen/edit with qwen/qwen-image-3. | Modest crew-neck clothing edit."
+    "notes": "Playing and building, 8 in basket + 4 on table, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/general_math.txt",
@@ -138,7 +138,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "playing_building_blocks"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

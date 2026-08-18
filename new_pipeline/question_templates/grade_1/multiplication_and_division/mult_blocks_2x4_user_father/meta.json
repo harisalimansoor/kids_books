@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 205,
-      "y": 353,
+      "x": 233,
+      "y": 395,
       "w": 127,
-      "h": 161,
+      "h": 167,
       "landmarks": {
         "right_eye": [
-          237,
-          412
+          275,
+          459
         ],
         "left_eye": [
-          299,
-          414
+          332,
+          465
         ],
         "nose": [
-          266,
-          444
+          303,
+          496
         ],
         "mouth_right": [
-          239,
-          469
+          270,
+          514
         ],
         "mouth_left": [
-          293,
-          471
+          321,
+          519
         ]
       },
-      "confidence": 0.944
+      "confidence": 0.942
     },
     {
       "role": "father",
-      "x": 557,
-      "y": 154,
-      "w": 146,
-      "h": 202,
+      "x": 608,
+      "y": 244,
+      "w": 151,
+      "h": 206,
       "landmarks": {
         "right_eye": [
-          589,
-          242
+          636,
+          337
         ],
         "left_eye": [
-          659,
-          231
+          708,
+          323
         ],
         "nose": [
-          629,
-          277
+          677,
+          370
         ],
         "mouth_right": [
-          605,
-          307
+          659,
+          399
         ],
         "mouth_left": [
-          671,
-          297
+          726,
+          385
         ]
       },
-      "confidence": 0.943
+      "confidence": 0.932
     }
   ],
   "visual_groups": [
@@ -118,7 +118,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question."
+    "notes": "Building two colourful 2x2 towers, more background, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/multiplication_and_division.txt",
@@ -128,7 +128,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "building_block_towers"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

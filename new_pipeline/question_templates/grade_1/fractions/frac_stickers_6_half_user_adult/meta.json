@@ -26,63 +26,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 175,
-      "y": 276,
-      "w": 180,
-      "h": 237,
+      "x": 148,
+      "y": 344,
+      "w": 192,
+      "h": 249,
       "landmarks": {
         "right_eye": [
-          231,
-          373
+          216,
+          447
         ],
         "left_eye": [
-          314,
-          381
+          301,
+          453
         ],
         "nose": [
-          272,
-          429
+          264,
+          503
         ],
         "mouth_right": [
-          227,
-          450
+          211,
+          526
         ],
         "mouth_left": [
-          303,
-          458
+          291,
+          533
         ]
       },
-      "confidence": 0.95
+      "confidence": 0.945
     },
     {
       "role": "mother",
       "x": 655,
-      "y": 112,
-      "w": 213,
-      "h": 278,
+      "y": 142,
+      "w": 191,
+      "h": 239,
       "landmarks": {
         "right_eye": [
-          702,
-          227
+          685,
+          251
         ],
         "left_eye": [
-          800,
-          210
+          772,
+          229
         ],
         "nose": [
-          758,
-          274
+          731,
+          290
         ],
         "mouth_right": [
-          725,
-          317
+          715,
+          326
         ],
         "mouth_left": [
-          818,
-          303
+          795,
+          308
         ]
       },
-      "confidence": 0.952
+      "confidence": 0.941
     }
   ],
   "visual_groups": [
@@ -113,7 +113,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "6 stickers, 3 circled (half); front-facing child+adult."
+    "notes": "Stickers on book (6 stars, 3 circled) plus extra table stickers, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/fractions.txt",
@@ -123,7 +123,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "putting_stickers_on_book"
   },
   "face_detection": "yunet",
   "annotation": {
@@ -133,7 +134,7 @@
   "interests": {
     "foods": [],
     "hobbies": [
-      "crayons"
+      "stickers"
     ],
     "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
   }

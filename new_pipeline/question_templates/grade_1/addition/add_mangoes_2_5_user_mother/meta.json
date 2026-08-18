@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 182,
-      "y": 317,
-      "w": 144,
-      "h": 199,
+      "x": 287,
+      "y": 399,
+      "w": 115,
+      "h": 133,
       "landmarks": {
         "right_eye": [
-          235,
-          399
+          320,
+          448
         ],
         "left_eye": [
-          303,
-          406
+          373,
+          449
         ],
         "nose": [
-          273,
-          444
+          345,
+          475
         ],
         "mouth_right": [
-          228,
-          460
+          321,
+          497
         ],
         "mouth_left": [
-          293,
-          467
+          366,
+          498
         ]
       },
-      "confidence": 0.95
+      "confidence": 0.941
     },
     {
       "role": "mother",
-      "x": 564,
-      "y": 157,
-      "w": 164,
-      "h": 200,
+      "x": 595,
+      "y": 199,
+      "w": 120,
+      "h": 157,
       "landmarks": {
         "right_eye": [
-          599,
-          252
+          622,
+          266
         ],
         "left_eye": [
-          674,
-          233
+          678,
+          256
         ],
         "nose": [
-          646,
-          284
+          653,
+          296
         ],
         "mouth_right": [
-          625,
-          312
+          635,
+          318
         ],
         "mouth_left": [
-          694,
-          295
+          688,
+          310
         ]
       },
-      "confidence": 0.933
+      "confidence": 0.942
     }
   ],
   "visual_groups": [
@@ -124,7 +124,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Packing-activity regen with qwen/qwen-image-3."
+    "notes": "Garden picking, sitting on ground, 2+5 count-lock edit with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",

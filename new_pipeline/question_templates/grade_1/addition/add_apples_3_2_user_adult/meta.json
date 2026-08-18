@@ -26,63 +26,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 137,
-      "y": 273,
-      "w": 112,
-      "h": 145,
+      "x": 265,
+      "y": 341,
+      "w": 138,
+      "h": 173,
       "landmarks": {
         "right_eye": [
-          167,
-          329
+          302,
+          409
         ],
         "left_eye": [
-          220,
-          328
+          367,
+          407
         ],
         "nose": [
-          195,
-          357
+          336,
+          437
         ],
         "mouth_right": [
-          169,
-          379
+          307,
+          466
         ],
         "mouth_left": [
-          219,
-          379
+          363,
+          464
         ]
       },
       "confidence": 0.945
     },
     {
       "role": "mother",
-      "x": 514,
-      "y": 159,
-      "w": 125,
-      "h": 169,
+      "x": 627,
+      "y": 145,
+      "w": 161,
+      "h": 202,
       "landmarks": {
         "right_eye": [
-          542,
-          222
+          656,
+          233
         ],
         "left_eye": [
-          602,
-          220
+          731,
+          219
         ],
         "nose": [
-          572,
-          255
+          695,
+          265
         ],
         "mouth_right": [
-          548,
-          283
+          677,
+          296
         ],
         "mouth_left": [
-          601,
-          281
+          744,
+          284
         ]
       },
-      "confidence": 0.942
+      "confidence": 0.935
     }
   ],
   "visual_groups": [
@@ -143,7 +143,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Outdoor orchard from clean bak; hands preserved from anatomically cleaner source; exact 2+3."
+    "notes": "Fresh orchard-picking regen 2+3 with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
@@ -156,7 +156,7 @@
     "framing": "more_background",
     "facing": "front_camera",
     "object_clarity": "same_shape_clearly_separated",
-    "notes": "Active play activity with apples; clear two groups for addition.",
+    "notes": "Picking apples in an orchard; two clear groups for addition.",
     "apple_layout": "two_clear_groups_with_gap"
   },
   "annotation": {

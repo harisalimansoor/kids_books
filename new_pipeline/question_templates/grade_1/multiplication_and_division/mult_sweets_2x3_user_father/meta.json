@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 218,
-      "y": 349,
-      "w": 130,
-      "h": 170,
+      "x": 214,
+      "y": 306,
+      "w": 117,
+      "h": 149,
       "landmarks": {
         "right_eye": [
-          252,
-          415
+          246,
+          364
         ],
         "left_eye": [
-          320,
-          413
+          298,
+          364
         ],
         "nose": [
-          287,
-          447
+          271,
+          393
         ],
         "mouth_right": [
-          256,
-          470
+          250,
+          416
         ],
         "mouth_left": [
-          319,
-          468
+          294,
+          416
         ]
       },
       "confidence": 0.945
     },
     {
       "role": "father",
-      "x": 548,
-      "y": 157,
-      "w": 154,
-      "h": 213,
+      "x": 637,
+      "y": 84,
+      "w": 136,
+      "h": 187,
       "landmarks": {
         "right_eye": [
-          581,
-          247
+          666,
+          161
         ],
         "left_eye": [
-          655,
-          235
+          731,
+          149
         ],
         "nose": [
-          623,
-          283
+          703,
+          198
         ],
         "mouth_right": [
-          597,
-          315
+          683,
+          224
         ],
         "mouth_left": [
-          669,
-          303
+          743,
+          213
         ]
       },
-      "confidence": 0.946
+      "confidence": 0.947
     }
   ],
   "visual_groups": [
@@ -117,8 +117,8 @@
   "validation": {
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
-    "verified": false,
-    "notes": "Needs visual count check"
+    "verified": true,
+    "notes": "Distributing sweets among guests, 2 groups of 3, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "",
@@ -128,7 +128,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "distributing_sweets_to_others"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

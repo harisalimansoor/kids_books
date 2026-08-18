@@ -139,8 +139,18 @@ STEMS = [
         "layout_pattern": "two_group_total",
         "question": "Look at the picture! There are 8 colourful blocks in {mother_name}'s basket and 4 more blocks on the table next to it, and {user_name} is helping count. How many blocks are there altogether?",
         "prompt_objects": """
-MOTHER (right) holds a shallow wicker basket with EXACTLY 8 colourful wooden cubes in a neat 2×4 grid (all fully visible).
-On the table in a separate row: EXACTLY 4 colourful cubes. No extra blocks.
+Don't add more than two hands for a person.
+ACTIVITY: they are PLAYING and BUILDING with wooden cubes on a play-table, not standing still posing with a basket.
+Freeze-frame: child LEFT is placing a cube onto a small build. Mother RIGHT steadies her basket and points at the build. Both look at the CAMERA and smile WHILE building.
+Don't add more than two hands for a person.
+
+BLOCK COUNTS (Grade 1 — exact, rigid grids):
+- Mother RIGHT: a shallow wicker basket with EXACTLY 8 colourful wooden cubes in a neat 2×4 grid, all fully visible from above. NEVER 7. NEVER 9.
+- Child LEFT on the table: EXACTLY 4 colourful cubes being built into a tiny 2×2 square wall/house (two on the bottom, two on top), ALL four cube faces fully visible, not hiding each other. NEVER 5. NEVER 3.
+- Clear gap between the basket and the 2×2 build
+- TOTAL cubes in the WHOLE image: EXACTLY 12 (8 + 4). Zero extra cubes on the floor, sofa, or in hands.
+- Any cube being touched is already one of the 12
+Don't add more than two hands for a person.
 """,
         "visual_groups": [
             {"id": "basket", "owner": "mother", "object_id": "blocks", "singular": "block", "plural": "blocks", "count": 8, "container": "basket"},
@@ -174,13 +184,20 @@ On the table: EXACTLY 2 copper 1p coins. No extra coins.
         "image_file": "mother_basket_9_apples_3_crossed.png",
         "cluster_file": "new_pipeline/Question clusters for grade 1/subtraction.txt",
         "layout_pattern": "cross_out_subtract",
-        "question": "Look at the picture! {mother_name} has a big basket with apples in it. You can see 9 apples around the basket, but 3 of them have a big red X marked through them. How many apples are left that {mother_name} can still eat?",
+        "question": "Look at the picture! {mother_name} has a carton of apples. You can see 9 apples around the carton, but 3 of them have a big red X marked through them. How many apples are left that {mother_name} can still eat?",
         "prompt_objects": """
-MOTHER (right) beside a big basket on a table.
-EXACTLY 9 red apples arranged around/near the basket, all clearly visible.
-EXACTLY 3 of the 9 apples have a bold red X drawn through them (crossed out).
-The other 6 apples have NO mark.
-Child (left) looks at the apples. No extra apples.
+Don't add more than two hands for a person.
+ACTIVITY: they are PACKING apples into a cardboard fruit CARTON (produce box), mid-action, not using a wicker basket.
+Freeze-frame: child LEFT is placing an unmarked apple into the carton. Mother RIGHT steadies the carton. Both look at the CAMERA and smile WHILE packing.
+Don't add more than two hands for a person.
+
+APPLE COUNTS (Grade 1 subtraction — exact 3x3):
+- Around / in front of ONE open cardboard fruit carton: EXACTLY 9 red apples in a neat 3x3 grid, all fully visible, not stacked. NEVER 8. NEVER 10.
+- EXACTLY 3 of those 9 apples have a bold red X drawn through them. The other 6 have NO X and no marks.
+- Hands EMPTY of extra apples. Any apple being touched is already one of the 9.
+- Zero extra apples. No wicker basket.
+- No chalkboard, no equation, no numbers that give away 6
+Don't add more than two hands for a person.
 """,
         "visual_groups": [
             {"id": "all", "owner": "mother", "object_id": "apples", "singular": "apple", "plural": "apples", "count": 9, "crossed_count": 3, "container": "basket"},
@@ -301,10 +318,19 @@ Stars clearly separated into two groups. No other shapes.
         "layout_pattern": "equal_groups",
         "question": "Look at the picture! {mother_name} has 3 groups of 2 marbles in front of her. How many marbles are there altogether?",
         "prompt_objects": """
-On the table in front of MOTHER (right): EXACTLY 3 separate small circles/groups.
-Each group contains EXACTLY 2 colourful marbles (3 groups × 2 = 6 total).
-Groups visually separated (small bowls or drawn circles).
-Child (left) counts. No extra marbles.
+Don't add more than two hands for a person.
+ACTIVITY: they are PLAYING marbles in a GARDEN, sitting on the grass, not posing at an indoor table.
+Freeze-frame: both sit on a picnic blanket / grass. Child LEFT is flicking/rolling a marble. Mother RIGHT is pointing at the groups. Both look at the CAMERA and smile WHILE playing.
+BACKGROUND: sunny garden — green lawn, flower beds, trees, maybe a fence. No kitchen, no sofa.
+Don't add more than two hands for a person.
+
+MARBLE GROUPS (Grade 1 multiplication — exact):
+- On the blanket/grass in a neat row: EXACTLY 3 small chalk circles (or 3 tiny bowls), clearly separated.
+- Each circle/bowl contains EXACTLY 2 colourful glass marbles. NEVER 1. NEVER 3.
+- 3 groups × 2 = EXACTLY 6 marbles in the WHOLE image.
+- Any marble being touched is already one of those 6.
+- Zero extra marbles on the grass, in pockets, or in hands besides the 6.
+Don't add more than two hands for a person.
 """,
         "visual_groups": [
             {"id": "groups", "owner": "mother", "object_id": "marbles", "groups": 3, "per_group": 2, "count": 6},
@@ -321,9 +347,18 @@ Child (left) counts. No extra marbles.
         "layout_pattern": "equal_groups",
         "question": "Look at the picture! {father_name} has 2 groups of 4 blocks in front of him. How many blocks are there altogether?",
         "prompt_objects": """
-On the table in front of FATHER (right, adult man): EXACTLY 2 separate groups.
-Each group has EXACTLY 4 colourful wooden blocks (2 groups × 4 = 8 total).
-Groups clearly separated. Child (left) watches. No extra blocks.
+Don't add more than two hands for a person.
+ACTIVITY: they are PLAYING and BUILDING two small block towers, not sitting still behind a posed 2x2 layout.
+Freeze-frame: child LEFT is placing a cube on THEIR tower. Father RIGHT is placing a cube on HIS tower. Both look at the CAMERA and smile WHILE building.
+Don't add more than two hands for a person.
+
+BLOCK GROUPS (Grade 1 multiplication — exact):
+- EXACTLY 2 separate builds on the table, with a clear empty gap between them.
+- LEFT build (child): EXACTLY 4 colourful wooden cubes as a tiny 2x2 tower (2 on the bottom, 2 on top), ALL four cube faces fully visible. NEVER 5.
+- RIGHT build (father): EXACTLY 4 colourful wooden cubes as a matching tiny 2x2 tower, ALL four cube faces fully visible. NEVER 5.
+- TOTAL cubes in the WHOLE image: EXACTLY 8 (2 groups of 4). Zero extra cubes on the floor, sofa, or in hands.
+- Any cube being touched is already one of that group's 4.
+Don't add more than two hands for a person.
 """,
         "visual_groups": [
             {"id": "groups", "owner": "father", "object_id": "blocks", "groups": 2, "per_group": 4, "count": 8},
@@ -454,20 +489,19 @@ Don't add more than two hands for a person.
         "question": "Look at the picture! {mother_name} has 5 mangoes in a bowl in front of her, and {user_name} has 2 mangoes in a basket in front of {user_name}. How many mangoes are there altogether?",
         "prompt_objects": """
 Don't add more than two hands for a person.
-ACTIVITY (must look mid-action, NOT a posed portrait): they are packing mangoes together in the kitchen.
-Freeze-frame: child's hands are IN the small basket, placing / arranging THEIR 2 mangoes.
-Mother's hands are AT the wide bowl, placing / arranging HER 5 mangoes into the bowl (reaching, not just holding the bowl still for a photo).
-Both look at the CAMERA and smile WHILE packing fruit.
-NOT allowed: just clutching containers and posing; no chalkboard; no written equation; no numbers that give away the answer.
-Bright kitchen: window, cutting board, plant as props (props must NOT look like extra mangoes).
+ACTIVITY (must look mid-action, NOT a posed portrait): they are PICKING mangoes in a garden, SITTING ON THE GROUND (grass), not standing at a kitchen counter.
+Freeze-frame: both sit cross-legged on the grass under mango trees. Child (left) rests both empty hands on the rim of THEIR small basket. Mother (right) points at a mango tree with one empty hand; her other empty hand rests on the rim of HER wide bowl. Both look at the CAMERA and smile WHILE sitting in the garden.
+HANDS ARE EMPTY: zero mangoes in anyone's hands, zero mangoes in mid-air, zero mangoes being held up.
+BACKGROUND: mango trees with yellow-orange fruit on the branches; green grass; a few fallen mangoes on the grass BEHIND them (soft focus scenery, not in the basket or bowl).
 Don't add more than two hands for a person.
 
-MANGO COUNTS (Grade 1 — exact, neat layout):
-- Child LEFT: EXACTLY 2 whole yellow-orange mangoes in a small open basket in front of the child, both fully visible side by side, not stacked
-- Mother RIGHT: EXACTLY 5 whole mangoes in ONE wide bowl in front of the mother, in a neat 2+3 layout (front row of 2, back row of 3) with small gaps so a child can count 1-2-3-4-5
+MANGO COUNTS (Grade 1 — exact, neat layout — rigid grids):
+- Child LEFT: EXACTLY 2 whole yellow-orange mangoes already inside a small open basket, both fully visible side by side, not stacked. NEVER 3. Never a mango in the child's hands.
+- Mother RIGHT: EXACTLY 5 whole mangoes already inside ONE wide bowl, in a neat 2+3 grid (front row of 2, back row of 3) with small gaps so a child can count 1-2-3-4-5. NEVER 6. Never a mango in the mother's hands.
 - Clear gap between the child's basket and the mother's bowl
-- TOTAL mangoes in the WHOLE image: EXACTLY 7
-- Zero extra mangoes on the board, shelves, or in the air — any mango being touched is already one of the 7
+- TOTAL mangoes in the basket + bowl: EXACTLY 7 (2 + 5). Forbidden: 6 in the bowl, 3 in the basket, extra fruit held.
+- Extra mangoes ONLY on distant trees and on the grass behind them, slightly out of focus
+- No chalkboard, no equation, no numbers
 Don't add more than two hands for a person.
 """,
         "visual_groups": [

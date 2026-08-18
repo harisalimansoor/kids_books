@@ -31,63 +31,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 221,
-      "y": 336,
-      "w": 130,
-      "h": 160,
+      "x": 243,
+      "y": 272,
+      "w": 134,
+      "h": 163,
       "landmarks": {
         "right_eye": [
-          263,
-          397
+          283,
+          335
         ],
         "left_eye": [
-          321,
-          400
+          344,
+          340
         ],
         "nose": [
-          295,
-          431
+          313,
+          372
         ],
         "mouth_right": [
-          260,
-          454
+          280,
+          392
         ],
         "mouth_left": [
-          314,
-          457
+          332,
+          397
         ]
       },
-      "confidence": 0.949
+      "confidence": 0.94
     },
     {
       "role": "mother",
-      "x": 547,
-      "y": 165,
-      "w": 142,
-      "h": 196,
+      "x": 583,
+      "y": 133,
+      "w": 159,
+      "h": 179,
       "landmarks": {
         "right_eye": [
-          578,
-          249
+          613,
+          214
         ],
         "left_eye": [
-          646,
-          240
+          679,
+          202
         ],
         "nose": [
-          615,
-          282
+          647,
+          246
         ],
         "mouth_right": [
-          593,
-          314
+          634,
+          273
         ],
         "mouth_left": [
-          653,
-          306
+          692,
+          262
         ]
       },
-      "confidence": 0.943
+      "confidence": 0.923
     }
   ],
   "visual_groups": [
@@ -119,8 +119,8 @@
   "validation": {
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
-    "verified": false,
-    "notes": "Needs visual count check"
+    "verified": true,
+    "notes": "Garden riddles, 5-6-?-8, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "",
@@ -130,7 +130,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "garden_playing_riddles"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 177,
-      "y": 342,
-      "w": 138,
-      "h": 179,
+      "x": 180,
+      "y": 227,
+      "w": 140,
+      "h": 175,
       "landmarks": {
         "right_eye": [
-          219,
-          413
+          229,
+          295
         ],
         "left_eye": [
-          280,
-          417
+          293,
+          295
         ],
         "nose": [
-          251,
-          450
+          268,
+          331
         ],
         "mouth_right": [
-          219,
-          476
+          230,
+          356
         ],
         "mouth_left": [
-          271,
-          479
+          287,
+          355
         ]
       },
       "confidence": 0.94
     },
     {
       "role": "father",
-      "x": 600,
-      "y": 121,
-      "w": 165,
-      "h": 218,
+      "x": 533,
+      "y": 61,
+      "w": 175,
+      "h": 228,
       "landmarks": {
         "right_eye": [
-          629,
-          222
+          565,
+          165
         ],
         "left_eye": [
-          705,
-          207
+          647,
+          146
         ],
         "nose": [
-          669,
-          259
+          611,
+          203
         ],
         "mouth_right": [
-          651,
-          290
+          590,
+          236
         ],
         "mouth_left": [
-          720,
-          277
+          665,
+          221
         ]
       },
-      "confidence": 0.94
+      "confidence": 0.944
     }
   ],
   "visual_groups": [
@@ -116,8 +116,8 @@
   "validation": {
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
-    "verified": false,
-    "notes": "Needs visual count check"
+    "verified": true,
+    "notes": "Making pizza, 4 separate slices 2x2 with 2 circled, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "",
@@ -127,7 +127,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "making_pizza"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

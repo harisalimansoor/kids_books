@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 303,
-      "y": 305,
-      "w": 113,
-      "h": 134,
+      "x": 235,
+      "y": 200,
+      "w": 162,
+      "h": 198,
       "landmarks": {
         "right_eye": [
-          344,
-          362
+          279,
+          275
         ],
         "left_eye": [
-          393,
-          360
+          351,
+          279
         ],
         "nose": [
-          378,
-          390
+          311,
+          316
         ],
         "mouth_right": [
-          348,
-          409
+          279,
+          344
         ],
         "mouth_left": [
-          392,
-          408
+          341,
+          348
         ]
       },
-      "confidence": 0.94
+      "confidence": 0.949
     },
     {
       "role": "mother",
-      "x": 567,
-      "y": 165,
-      "w": 130,
-      "h": 166,
+      "x": 540,
+      "y": 80,
+      "w": 171,
+      "h": 222,
       "landmarks": {
         "right_eye": [
-          590,
-          241
+          571,
+          169
         ],
         "left_eye": [
-          647,
-          231
+          654,
+          159
         ],
         "nose": [
-          617,
-          273
+          613,
+          208
         ],
         "mouth_right": [
-          608,
-          295
+          590,
+          244
         ],
         "mouth_left": [
-          658,
-          286
+          666,
+          233
         ]
       },
-      "confidence": 0.93
+      "confidence": 0.945
     }
   ],
   "visual_groups": [
@@ -101,7 +101,7 @@
       "plural": "apples",
       "count": 9,
       "crossed_count": 3,
-      "container": "basket"
+      "container": "carton"
     }
   ],
   "answer": {
@@ -120,7 +120,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Count-locked regen/edit with qwen/qwen-image-3. | Modest crew-neck clothing edit."
+    "notes": "Packing apples in carton, 9 with 3 crossed, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/subtraction.txt",
@@ -130,7 +130,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "packing_apples_carton"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

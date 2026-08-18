@@ -31,63 +31,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 223,
-      "y": 343,
-      "w": 128,
-      "h": 164,
+      "x": 325,
+      "y": 355,
+      "w": 107,
+      "h": 128,
       "landmarks": {
         "right_eye": [
-          267,
-          404
+          359,
+          401
         ],
         "left_eye": [
-          326,
-          414
+          406,
+          406
         ],
         "nose": [
-          297,
-          438
+          379,
+          431
         ],
         "mouth_right": [
-          257,
-          457
+          356,
+          448
         ],
         "mouth_left": [
-          312,
-          465
+          395,
+          452
         ]
       },
-      "confidence": 0.949
+      "confidence": 0.931
     },
     {
       "role": "mother",
-      "x": 548,
-      "y": 165,
-      "w": 144,
-      "h": 189,
+      "x": 557,
+      "y": 191,
+      "w": 124,
+      "h": 152,
       "landmarks": {
         "right_eye": [
-          578,
-          246
+          581,
+          254
         ],
         "left_eye": [
-          645,
-          234
+          635,
+          244
         ],
         "nose": [
-          617,
-          278
+          608,
+          285
         ],
         "mouth_right": [
-          596,
+          597,
           308
         ],
         "mouth_left": [
-          657,
-          298
+          645,
+          299
         ]
       },
-      "confidence": 0.936
+      "confidence": 0.938
     }
   ],
   "visual_groups": [
@@ -120,7 +120,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question."
+    "notes": "Colourful garden, stones 6-7-8, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/number_and_place_value.txt",
@@ -130,7 +130,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "garden_number_stones"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

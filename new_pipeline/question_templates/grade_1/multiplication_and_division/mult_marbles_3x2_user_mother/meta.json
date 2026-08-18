@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 221,
-      "y": 344,
-      "w": 135,
-      "h": 175,
+      "x": 210,
+      "y": 294,
+      "w": 143,
+      "h": 167,
       "landmarks": {
         "right_eye": [
-          259,
-          412
+          256,
+          355
         ],
         "left_eye": [
-          328,
-          411
+          316,
+          363
         ],
         "nose": [
-          296,
-          446
+          283,
+          395
         ],
         "mouth_right": [
-          262,
-          469
+          248,
+          413
         ],
         "mouth_left": [
-          327,
-          468
-        ]
-      },
-      "confidence": 0.944
-    },
-    {
-      "role": "mother",
-      "x": 529,
-      "y": 157,
-      "w": 152,
-      "h": 200,
-      "landmarks": {
-        "right_eye": [
-          560,
-          250
-        ],
-        "left_eye": [
-          634,
-          233
-        ],
-        "nose": [
-          604,
-          283
-        ],
-        "mouth_right": [
-          583,
-          310
-        ],
-        "mouth_left": [
-          652,
-          296
+          302,
+          421
         ]
       },
       "confidence": 0.94
+    },
+    {
+      "role": "mother",
+      "x": 608,
+      "y": 93,
+      "w": 155,
+      "h": 202,
+      "landmarks": {
+        "right_eye": [
+          636,
+          184
+        ],
+        "left_eye": [
+          711,
+          171
+        ],
+        "nose": [
+          677,
+          217
+        ],
+        "mouth_right": [
+          656,
+          246
+        ],
+        "mouth_left": [
+          727,
+          234
+        ]
+      },
+      "confidence": 0.939
     }
   ],
   "visual_groups": [
@@ -118,7 +118,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question. | Modest crew-neck clothing edit."
+    "notes": "Garden marbles play, 3 groups of 2, with qwen/qwen-image-3."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/multiplication_and_division.txt",
@@ -128,7 +128,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "playing_marbles_garden"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",
