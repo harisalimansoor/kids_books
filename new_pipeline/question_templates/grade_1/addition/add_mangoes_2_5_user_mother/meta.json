@@ -1,0 +1,148 @@
+{
+  "stem_id": "add_mangoes_2_5_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "mother_5_mangoes_child_2_mangoes_bowl.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [
+      "mangoes"
+    ],
+    "hobbies": [],
+    "notes": "Fruit-sharing addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 182,
+      "y": 317,
+      "w": 144,
+      "h": 199,
+      "landmarks": {
+        "right_eye": [
+          235,
+          399
+        ],
+        "left_eye": [
+          303,
+          406
+        ],
+        "nose": [
+          273,
+          444
+        ],
+        "mouth_right": [
+          228,
+          460
+        ],
+        "mouth_left": [
+          293,
+          467
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "mother",
+      "x": 564,
+      "y": 157,
+      "w": 164,
+      "h": 200,
+      "landmarks": {
+        "right_eye": [
+          599,
+          252
+        ],
+        "left_eye": [
+          674,
+          233
+        ],
+        "nose": [
+          646,
+          284
+        ],
+        "mouth_right": [
+          625,
+          312
+        ],
+        "mouth_left": [
+          694,
+          295
+        ]
+      },
+      "confidence": 0.933
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "mangoes",
+      "count": 5,
+      "container": "bowl"
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "mangoes",
+      "count": 2,
+      "container": "basket"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "7",
+    "options": [
+      "7",
+      "5",
+      "2",
+      "6"
+    ],
+    "formula": "5+2",
+    "explanation": "5 mangoes + 2 mangoes = 7"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Packing-activity regen with qwen/qwen-image-3."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

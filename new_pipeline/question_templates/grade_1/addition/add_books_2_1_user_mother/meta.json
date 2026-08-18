@@ -1,0 +1,146 @@
+{
+  "stem_id": "add_books_2_1_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "mother_2_books_child_1_book_reading.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "reading"
+    ],
+    "notes": "Reading activity addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 210,
+      "y": 415,
+      "w": 132,
+      "h": 157,
+      "landmarks": {
+        "right_eye": [
+          249,
+          478
+        ],
+        "left_eye": [
+          309,
+          475
+        ],
+        "nose": [
+          280,
+          506
+        ],
+        "mouth_right": [
+          252,
+          531
+        ],
+        "mouth_left": [
+          305,
+          529
+        ]
+      },
+      "confidence": 0.947
+    },
+    {
+      "role": "mother",
+      "x": 535,
+      "y": 209,
+      "w": 156,
+      "h": 188,
+      "landmarks": {
+        "right_eye": [
+          563,
+          289
+        ],
+        "left_eye": [
+          636,
+          274
+        ],
+        "nose": [
+          602,
+          317
+        ],
+        "mouth_right": [
+          585,
+          347
+        ],
+        "mouth_left": [
+          651,
+          333
+        ]
+      },
+      "confidence": 0.942
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "books",
+      "count": 2
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "books",
+      "count": 1
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "3",
+    "options": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "formula": "2+1",
+    "explanation": "2 books + 1 book = 3"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Generated with qwen/qwen-image-3 via OpenRouter Images API."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

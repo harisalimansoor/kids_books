@@ -25,9 +25,15 @@ MODEL = os.getenv("STEM_IMAGE_MODEL", "qwen/qwen-image-3")
 API_URL = "https://openrouter.ai/api/v1/images"
 
 BASE_STYLE = """
-Style: ONE vibrant realistic photograph, square 1:1, bright natural light, kitchen/living room table scene, more background visible.
-Child (left, ~5–7 years) + adult (right) BOTH front-facing camera, smiling. Only these two people.
-CLOTHING (modest — children's workbook): mother/adult woman must wear a high crew-neck or modest round collar top that fully covers chest and shoulders. No deep V-neck, off-shoulder, wrap cleavage, or low scoop.
+Don't add more than two hands for a person.
+Style: ONE vibrant realistic photograph, square 1:1, bright natural light, more background visible.
+Child (left, ~5–7 years) + adult (right) BOTH look at the CAMERA with clear front-facing smiles (for face swap). Only these two people.
+They are mid-activity together (helping, pointing, pouring, building, or playing) — not a stiff posed portrait.
+CLOTHING (modest — children's workbook): mother/adult woman must wear a high crew-neck or modest round collar top that fully covers chest and shoulders. No deep V-neck, off-shoulder, wrap cleavage, or low scoop. Adult man: casual modest shirt.
+Don't add more than two hands for a person.
+HANDS: two per person, 5 normal fingers, simple activity pose. No extra people.
+No text overlays except numbers/labels that MUST be readable for the maths.
+Don't add more than two hands for a person.
 """.strip()
 
 
@@ -232,10 +238,17 @@ MOTHER (right) and child (left) look at the ruler. Ruler markings legible.
         "layout_pattern": "jug_volume",
         "question": "Look at the picture! There is a measuring jug with numbers on the side and it is filled with water up to a certain line. The jug says 1 l on it. What number is the water level at on the measuring jug?",
         "prompt_objects": """
-Clear glass measuring jug labelled "1 L" with ml markings: 250, 500, 750, 1000.
-Water level sits EXACTLY at the 500 ml / half-litre line (middle mark).
-Blue water visible. Jug on kitchen table.
-MOTHER (right) and child (left) observe. Markings readable.
+ACTIVITY: joyful kitchen baking — they are measuring water together for a recipe (pouring into a jug), not just posing beside it.
+Bright kitchen with more background: window, shelves, mixing bowl, wooden spoon, recipe card as props (props must NOT look like extra jugs).
+Child (left) helps hold the jug or points at the water line. Mother (right) pours from a small kettle/tap jug. Front-facing smiles.
+
+COUNT / MEASURE (exact):
+- ONE clear glass measuring jug on the table, labelled "1 L" in large readable letters
+- Readable side marks: 250, 500, 750, 1000
+- Blue water filled EXACTLY to the 500 ml mid line (half the jug)
+- A small yellow sticky note beside the jug may say "500"
+- TOTAL measuring jugs in the whole image: EXACTLY 1
+- Zero extra jugs, glasses of water that look like measuring jugs, or other water levels
 """,
         "visual_groups": [
             {"id": "jug", "object_id": "water", "volume_ml": 500, "container": "jug", "max_l": 1},
@@ -382,19 +395,295 @@ Child (left) looks on. Month name and day numbers readable.
         "layout_pattern": "clock_duration",
         "question": "Look at the picture! There is a big clock showing 1 hour with 60 little marks. Now, look at the smaller clock showing 30 minutes. How many little marks can you count on the smaller clock?",
         "prompt_objects": """
-On the table: two analog clocks side by side.
-LEFT clock: large teaching clock labelled "1 hour" with 60 minute marks around edge.
-RIGHT clock (smaller): minute hand at 6 (half hour), clearly labelled "30 minutes", with 30 minute marks visible/highlighted OR a card saying "30" next to it.
-MOTHER (right) and child (left). Clock faces readable.
+ACTIVITY: joyful time-learning at a kitchen table — they are practising "half an hour" together (child pointing at the smaller clock, mother helping), not a stiff posed lineup of clocks.
+Soft kitchen/living-room background: window, lamp, maybe a baking tray of cookies as a "waiting 30 minutes" cue (cookies must NOT look like extra clocks).
+
+CLOCKS (exact — Grade 1):
+- EXACTLY 2 analog teaching clocks on the table, side by side, faces fully visible
+- LEFT large clock: labelled "1 hour", minute hand at 12, 60 little marks around the edge; a card/sticky may say "60"
+- RIGHT smaller clock: minute hand clearly at 6 (half past), labelled "30 minutes"; a big yellow sticky note says "30"
+- TOTAL clocks in the whole image: EXACTLY 2
+- Zero extra clocks on walls or shelves that a child might count
+- Numbers 60 and 30 must be readable. No other people.
 """,
         "visual_groups": [{"id": "small_clock", "object_id": "clock", "minutes": 30, "marks": 30}],
         "answer": {"type": "clock_marks", "correct": "30", "options": ["30", "60", "15", "45"], "formula": None, "explanation": "30 minutes = 30 marks on the clock"},
+    },
+    # addition — 2 new activity stems
+    {
+        "stem_id": "add_books_2_1_user_mother",
+        "topic": "addition",
+        "adult_role": "mother",
+        "image_file": "mother_2_books_child_1_book_reading.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+        "layout_pattern": "two_group_add",
+        "question": "Look at the picture! {mother_name} has 2 books in front of her, and {user_name} has 1 book in front of {user_name}. How many books are there altogether?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY (must look mid-action, NOT a posed portrait): they are READING together.
+Freeze-frame of a reading nook: child's 1 book is OPEN and the child is turning a page with both hands.
+Mother is opening / turning a page of one of HER 2 books with one hand; her other hand rests on her second closed book.
+Both still look at the CAMERA and smile WHILE reading — caught in the act, not sitting still with hands on the table edge.
+NOT allowed: stiff studio pose, both hands flat on the table, just pointing at closed books.
+Bright living-room: sofa, lamp, cushions; blurry bookshelf spines in the background (background books must NOT look like extra countable picture books on the table).
+Don't add more than two hands for a person.
+
+BOOK COUNTS (Grade 1 — exact, neat layout):
+- Child LEFT: EXACTLY 1 children's picture book in front of the child, cover still fully visible (slightly open while turning a page)
+- Mother RIGHT: EXACTLY 2 children's picture books in front of the mother (one being opened, one closed), small gap between them
+- Clear gap between the child's 1 book and the mother's 2 books
+- TOTAL picture books on the table in the WHOLE image: EXACTLY 3
+- Zero extra books in laps, on the sofa, or held besides those 3
+- Optional small numbers 1, 2, 3 on the three covers — no other text
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "mother", "owner": "mother", "object_id": "books", "count": 2},
+            {"id": "child", "owner": "child", "object_id": "books", "count": 1},
+        ],
+        "answer": {"type": "count_total", "correct": "3", "options": ["3", "2", "1", "4"], "formula": "2+1", "explanation": "2 books + 1 book = 3"},
+        "interests": {"foods": [], "hobbies": ["reading"], "notes": "Reading activity addition stem."},
+    },
+    {
+        "stem_id": "add_mangoes_2_5_user_mother",
+        "topic": "addition",
+        "adult_role": "mother",
+        "image_file": "mother_5_mangoes_child_2_mangoes_bowl.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+        "layout_pattern": "two_group_add",
+        "question": "Look at the picture! {mother_name} has 5 mangoes in a bowl in front of her, and {user_name} has 2 mangoes in a basket in front of {user_name}. How many mangoes are there altogether?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY (must look mid-action, NOT a posed portrait): they are packing mangoes together in the kitchen.
+Freeze-frame: child's hands are IN the small basket, placing / arranging THEIR 2 mangoes.
+Mother's hands are AT the wide bowl, placing / arranging HER 5 mangoes into the bowl (reaching, not just holding the bowl still for a photo).
+Both look at the CAMERA and smile WHILE packing fruit.
+NOT allowed: just clutching containers and posing; no chalkboard; no written equation; no numbers that give away the answer.
+Bright kitchen: window, cutting board, plant as props (props must NOT look like extra mangoes).
+Don't add more than two hands for a person.
+
+MANGO COUNTS (Grade 1 — exact, neat layout):
+- Child LEFT: EXACTLY 2 whole yellow-orange mangoes in a small open basket in front of the child, both fully visible side by side, not stacked
+- Mother RIGHT: EXACTLY 5 whole mangoes in ONE wide bowl in front of the mother, in a neat 2+3 layout (front row of 2, back row of 3) with small gaps so a child can count 1-2-3-4-5
+- Clear gap between the child's basket and the mother's bowl
+- TOTAL mangoes in the WHOLE image: EXACTLY 7
+- Zero extra mangoes on the board, shelves, or in the air — any mango being touched is already one of the 7
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "mother", "owner": "mother", "object_id": "mangoes", "count": 5, "container": "bowl"},
+            {"id": "child", "owner": "child", "object_id": "mangoes", "count": 2, "container": "basket"},
+        ],
+        "answer": {"type": "count_total", "correct": "7", "options": ["7", "5", "2", "6"], "formula": "5+2", "explanation": "5 mangoes + 2 mangoes = 7"},
+        "interests": {"foods": ["mangoes"], "hobbies": [], "notes": "Fruit-sharing addition stem."},
+    },
+    {
+        "stem_id": "add_stickers_2_3_user_mother",
+        "topic": "addition",
+        "adult_role": "mother",
+        "image_file": "mother_3_stickers_child_2_stickers_decorating.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+        "layout_pattern": "two_group_add",
+        "question": "Look at the picture! {mother_name} has 3 stickers in front of her, and {user_name} has 2 stickers in front of {user_name}. How many stickers are there altogether?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY (must look mid-action, NOT a posed portrait): they are DECORATING greeting cards with stickers.
+Freeze-frame of a craft table: child is peeling / pressing down one of THEIR 2 stickers onto a small blank card.
+Mother is pressing one of HER 3 stickers onto her card. Hands busy sticking, not resting on the table.
+Both look at the CAMERA and smile WHILE decorating.
+NOT allowed: stiff studio pose; a sticker sheet full of extra stickers; numbers that give away the answer.
+Bright living-room craft corner: paper, glue stick as props (props must NOT look like extra stickers).
+Don't add more than two hands for a person.
+
+STICKER COUNTS (Grade 1 — exact, neat layout):
+- Child LEFT: EXACTLY 2 large colourful stickers (star + heart), fully visible, in front of the child on/near their small card
+- Mother RIGHT: EXACTLY 3 large colourful stickers (star, heart, flower), fully visible, in a small row in front of the mother on/near her card
+- Clear gap between the child's 2 stickers and the mother's 3 stickers
+- TOTAL stickers in the WHOLE image: EXACTLY 5
+- Zero extra stickers on leftover backing sheets, walls, or clothes
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "mother", "owner": "mother", "object_id": "stickers", "count": 3},
+            {"id": "child", "owner": "child", "object_id": "stickers", "count": 2},
+        ],
+        "answer": {"type": "count_total", "correct": "5", "options": ["5", "3", "2", "4"], "formula": "3+2", "explanation": "3 stickers + 2 stickers = 5"},
+        "interests": {"foods": [], "hobbies": ["crafts"], "notes": "Sticker-decorating addition stem."},
+    },
+    {
+        "stem_id": "add_sweets_2_4_user_mother",
+        "topic": "addition",
+        "adult_role": "mother",
+        "image_file": "mother_4_sweets_child_2_sweets_jar.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+        "layout_pattern": "two_group_add",
+        "question": "Look at the picture! {mother_name} has 4 sweets in a jar in front of her, and {user_name} has 2 sweets in a bowl in front of {user_name}. How many sweets are there altogether?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY (must look mid-action, NOT a posed portrait): they are PACKING colourful wrapped sweets together.
+Freeze-frame: child is placing a wrapped sweet into THEIR small bowl (the other sweet already sits in the bowl).
+Mother is placing wrapped sweets into HER clear glass jar — fingers mid-place, not just holding the jar still.
+Both look at the CAMERA and smile WHILE packing sweets.
+NOT allowed: stiff posed lineup; chalkboard; written equation; numbers that give away the answer.
+Bright kitchen: window, empty wrapping paper as props (props must NOT look like extra sweets).
+Don't add more than two hands for a person.
+
+SWEET COUNTS (Grade 1 — exact, neat layout):
+- Child LEFT: EXACTLY 2 colourful foil-wrapped sweets in a small open bowl in front of the child, both fully visible side by side, not stacked
+- Mother RIGHT: EXACTLY 4 colourful foil-wrapped sweets in ONE clear glass jar in front of the mother, in a neat 2×2 grid, all fully visible through the glass
+- Clear gap between the child's bowl and the mother's jar
+- TOTAL sweets in the WHOLE image: EXACTLY 6
+- Zero extra sweets on the counter, in bags, or in the air — any sweet being touched is already one of the 6
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "mother", "owner": "mother", "object_id": "sweets", "count": 4, "container": "jar"},
+            {"id": "child", "owner": "child", "object_id": "sweets", "count": 2, "container": "bowl"},
+        ],
+        "answer": {"type": "count_total", "correct": "6", "options": ["6", "4", "2", "5"], "formula": "4+2", "explanation": "4 sweets + 2 sweets = 6"},
+        "interests": {"foods": ["sweets"], "hobbies": [], "notes": "Sweet-packing addition stem."},
+    },
+    {
+        "stem_id": "sub_pencils_6_2_case_user_mother",
+        "topic": "subtraction",
+        "adult_role": "mother",
+        "image_file": "mother_6_pencils_child_puts_2_in_case.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/subtraction.txt",
+        "layout_pattern": "take_away_remain",
+        "question": "Look at the picture! {mother_name} has 6 pencils on the table. {user_name} is putting 2 of them into a pencil case. How many pencils are left on the table?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY (must look mid-action, NOT a posed portrait): they are PACKING a school pencil case together.
+Freeze-frame: child (left) is sliding a colourful pencil INTO an open pencil case. Mother (right) is arranging the pencils still on the table.
+Both look at the CAMERA and smile WHILE packing.
+NOT allowed: stiff posed lineup; chalkboard; written equation; numbers that give away the answer.
+Bright living-room / homework table: lamp, notebook as props (props must NOT look like extra pencils).
+Don't add more than two hands for a person.
+
+PENCIL COUNTS (Grade 1 — exact, neat layout):
+- On the wooden table in front of mother: EXACTLY 4 colourful pencils left in ONE straight row, spaced apart, fully visible
+- Inside / going into the open pencil case in front of the child: EXACTLY 2 colourful pencils, fully visible
+- TOTAL pencils in the WHOLE image: EXACTLY 6
+- The pencil the child is touching is already one of the 2 in the case — do not add a 7th pencil in the air
+- Zero extra pencils in cups, on notebooks, or behind them
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "all", "owner": "mother", "object_id": "pencils", "count": 6},
+            {"id": "taken", "owner": "child", "object_id": "pencils", "count": 2, "container": "pencil_case"},
+            {"id": "remaining", "owner": "table", "object_id": "pencils", "count": 4, "notes": "left on the table"},
+        ],
+        "answer": {"type": "count_remaining", "correct": "4", "options": ["4", "6", "2", "3"], "formula": "6-2", "explanation": "6 pencils − 2 in the case = 4 left on the table"},
+        "interests": {"foods": [], "hobbies": ["drawing"], "notes": "Pencil-case packing subtraction stem."},
+    },
+    {
+        "stem_id": "sub_shells_5_2_bucket_user_mother",
+        "topic": "subtraction",
+        "adult_role": "mother",
+        "image_file": "mother_5_shells_child_takes_2.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/subtraction.txt",
+        "layout_pattern": "take_away_remain",
+        "question": "Look at the picture! {mother_name} has 5 shells in her bucket. {user_name} is taking 2 shells out to look at them. How many shells are left in the bucket?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY (must look mid-action, NOT a posed portrait): they are SORTING seashells from a beach bucket.
+Freeze-frame: child (left) is picking up / examining 2 shells on a small towel. Mother (right) is looking into the bucket, hands at the remaining shells.
+Both look at the CAMERA and smile WHILE sorting shells.
+NOT allowed: stiff posed lineup; chalkboard; written equation; numbers that give away the answer.
+Bright living-room beach-play corner or sunny patio: towel, bucket, plant as props (props must NOT look like extra shells).
+Don't add more than two hands for a person.
+
+SHELL COUNTS (Grade 1 — exact, neat layout):
+- Inside mother's open bucket: EXACTLY 3 seashells remaining, spaced apart, fully visible
+- On the child's small towel in front of the child: EXACTLY 2 seashells taken out, side by side, fully visible
+- TOTAL shells in the WHOLE image: EXACTLY 5
+- Any shell being held is already one of these 5
+- Zero extra shells on the floor, in the background, or in the air
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "all", "owner": "mother", "object_id": "shells", "count": 5, "container": "bucket"},
+            {"id": "taken", "owner": "child", "object_id": "shells", "count": 2, "notes": "taken out to look at"},
+            {"id": "remaining", "owner": "mother", "object_id": "shells", "count": 3, "container": "bucket", "notes": "left in the bucket"},
+        ],
+        "answer": {"type": "count_remaining", "correct": "3", "options": ["3", "5", "2", "4"], "formula": "5-2", "explanation": "5 shells − 2 taken out = 3 left in the bucket"},
+        "interests": {"foods": [], "hobbies": ["beach"], "notes": "Shell-sorting subtraction stem."},
+    },
+    {
+        "stem_id": "add_apples_3_2_user_grandfather",
+        "topic": "addition",
+        "adult_role": "grandfather",
+        "image_file": "grandfather_3_apples_child_2_apples_picking.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+        "layout_pattern": "two_group_add",
+        "question": "Look at the picture! {grandfather_name} has 3 apples in his basket, and {user_name} has 2 apples in front of {user_name}. How many apples are there altogether?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY (must look mid-action, NOT a posed portrait): they are PICKING apples together in a sunny garden.
+Freeze-frame: child (left) is placing an apple into THEIR small pile / holding one of THEIR 2 apples. Grandfather (right) is putting apples into HIS wicker basket.
+Both look at the CAMERA and smile WHILE picking fruit.
+NOT allowed: stiff posed lineup; chalkboard; written equation; numbers that give away the answer.
+Garden orchard: apple TREES clearly visible in the background with red apples on the branches. A few fallen red apples on the grass in the BACKGROUND (soft focus, behind the people — NOT on the table, NOT countable with the maths groups).
+Don't add more than two hands for a person.
+
+APPLE COUNTS (Grade 1 — exact foreground layout):
+- Child LEFT: EXACTLY 2 red apples on the table in front of the child, both fully visible side by side, not stacked
+- Grandfather RIGHT: EXACTLY 3 red apples in ONE open wicker basket, spaced apart so a child can count 1-2-3
+- Clear gap between the child's 2 apples and the grandfather's basket
+- Foreground table+basket apples: EXACTLY 5
+- Extra apples ONLY on distant trees and on the grass behind them, slightly out of focus
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "grandfather", "owner": "grandfather", "object_id": "apples", "count": 3, "container": "basket"},
+            {"id": "child", "owner": "child", "object_id": "apples", "count": 2},
+        ],
+        "answer": {"type": "count_total", "correct": "5", "options": ["5", "3", "2", "4"], "formula": "3+2", "explanation": "3 apples + 2 apples = 5"},
+        "interests": {"foods": ["apples"], "hobbies": ["gardening"], "notes": "Apple-picking with grandfather addition stem."},
+    },
+    {
+        "stem_id": "sub_marbles_7_2_bowl_user_grandfather",
+        "topic": "subtraction",
+        "adult_role": "grandfather",
+        "image_file": "grandfather_7_marbles_child_takes_2.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/subtraction.txt",
+        "layout_pattern": "take_away_remain",
+        "question": "Look at the picture! {grandfather_name} has 7 marbles in a bowl. {user_name} is taking 2 marbles out to play. How many marbles are left in the bowl?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY (must look mid-action, NOT a posed portrait): they are PLAYING a game of marbles.
+Freeze-frame: a small chalk circle on the table. Child (left) is Flicking / rolling one of THEIR 2 marbles toward the circle with a finger — caught mid-shot, not sitting still.
+Grandfather (right) leans in, one hand on his bowl of remaining marbles, the other hand ready to play / pointing at the circle.
+Both look at the CAMERA and smile WHILE playing.
+NOT allowed: stiff posed lineup; both hands just holding a bowl; numbers that give away the answer.
+Don't add more than two hands for a person.
+
+MARBLE COUNTS — rigid layout, Grade 1:
+- White shallow bowl in front of grandfather: EXACTLY 5 colourful glass marbles, all fully visible, not stacked, small gaps.
+- On the table in/near the chalk circle in front of the child: EXACTLY 2 colourful glass marbles (one may be under the child's flicking finger).
+- TOTAL marbles in the WHOLE image: EXACTLY 7. Count them: 5 in bowl + 2 in play.
+- Zero marbles in bags, on the floor, in laps, or in the air besides those 7.
+- No chalkboard, no numbers, no equation.
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "all", "owner": "grandfather", "object_id": "marbles", "count": 7, "container": "bowl"},
+            {"id": "taken", "owner": "child", "object_id": "marbles", "count": 2, "notes": "taken out to play"},
+            {"id": "remaining", "owner": "grandfather", "object_id": "marbles", "count": 5, "container": "bowl", "notes": "left in the bowl"},
+        ],
+        "answer": {"type": "count_remaining", "correct": "5", "options": ["5", "7", "2", "4"], "formula": "7-2", "explanation": "7 marbles − 2 taken out = 5 left in the bowl"},
+        "interests": {"foods": [], "hobbies": ["marbles"], "notes": "Marbles with grandfather subtraction stem."},
     },
 ]
 
 
 def adult_label(role: str) -> str:
-    return {"mother": "MOTHER (right, adult woman)", "father": "FATHER (right, adult man)"}.get(role, role)
+    return {
+        "mother": "MOTHER (right, adult woman)",
+        "father": "FATHER (right, adult man)",
+        "grandfather": "GRANDFATHER (right, older adult man, grey/white hair, casual modest shirt or jumper)",
+        "grandmother": "GRANDMOTHER (right, older adult woman, modest crew-neck top)",
+    }.get(role, role)
 
 
 def run_stem(api_key: str, spec: dict, skip_existing: bool = True) -> dict:

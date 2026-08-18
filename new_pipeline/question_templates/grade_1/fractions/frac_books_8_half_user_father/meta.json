@@ -21,68 +21,68 @@
       "father_name": "father"
     },
     "face_swap_friendly": true,
-    "notes": "Image body is father-locked. Paste child + father faces only."
+    "notes": "Interactive reading; father-locked."
   },
   "face_regions": [
     {
       "role": "child",
-      "x": 296,
-      "y": 269,
-      "w": 123,
-      "h": 157,
+      "x": 272,
+      "y": 264,
+      "w": 124,
+      "h": 154,
       "landmarks": {
         "right_eye": [
-          339,
-          330
+          308,
+          326
         ],
         "left_eye": [
-          393,
-          334
+          363,
+          322
         ],
         "nose": [
-          366,
-          365
+          339,
+          353
         ],
         "mouth_right": [
-          335,
-          383
+          317,
+          378
         ],
         "mouth_left": [
-          384,
-          386
+          365,
+          374
         ]
       },
-      "confidence": 0.946
+      "confidence": 0.943
     },
     {
       "role": "father",
-      "x": 588,
-      "y": 122,
-      "w": 153,
-      "h": 202,
+      "x": 583,
+      "y": 119,
+      "w": 150,
+      "h": 197,
       "landmarks": {
         "right_eye": [
-          615,
-          213
+          617,
+          206
         ],
         "left_eye": [
           686,
-          191
+          194
         ],
         "nose": [
-          657,
-          246
+          659,
+          240
         ],
         "mouth_right": [
-          649,
-          279
+          638,
+          269
         ],
         "mouth_left": [
-          714,
-          259
+          699,
+          258
         ]
       },
-      "confidence": 0.93
+      "confidence": 0.928
     }
   ],
   "visual_groups": [
@@ -113,7 +113,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Exactly 8 books, 4 clearly circled (half)."
+    "notes": "Reading activity; 8 books in 2x4; top 4 circled (half); total 8 on table."
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/fractions.txt",
@@ -123,7 +123,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "reading_choosing_books"
   },
   "annotation": {
     "method": "yunet",
@@ -134,5 +135,9 @@
     "foods": [],
     "hobbies": [],
     "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
   }
 }

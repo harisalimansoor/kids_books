@@ -5,10 +5,11 @@ Paste user/adult faces onto a question-template stem, then optionally AI-finish
 the scene while locking faces to the EXACT uploaded photos.
 
 Identity strategy:
-  1. Crop upload faces (YuNet) and paste with soft oval (aspect preserved)
-  2. AI finish gets the composite PLUS head crops (face + hair + neck)
-     so hairstyle and skin tone lock to the uploaded photos
-  3. No final re-paste — that would undo seamless blending
+  1. Crop upload faces (YuNet) including hair/forehead and paste with soft oval
+  2. Recolour template neck/arms/hands to the uploaded face skin tone
+  3. AI finish gets the composite PLUS head + portrait crops so hairstyle
+     and whole-body skin lock to the uploaded photos
+  4. No final re-paste — that would undo seamless blending
 """
 
 from __future__ import annotations
@@ -23,7 +24,7 @@ from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
-from PIL import Image, ImageDraw, ImageFilter, ImageEnhance
+from PIL import Image, ImageDraw, ImageFilter
 
 TEMPLATES_ROOT = Path(__file__).resolve().parent
 PIPELINE_ROOT = TEMPLATES_ROOT.parent  # new_pipeline/
@@ -41,8 +42,8 @@ ROOT = TEMPLATES_ROOT
 
 # Paste box larger than YuNet so forehead/hair aren't clipped. Extra lift on top
 # so short cuts (bob) cover template hair instead of sitting as a face sticker.
-_REGION_EXPAND = float(os.getenv("FACE_PASTE_EXPAND", "1.28"))
-_REGION_TOP_EXTRA = float(os.getenv("FACE_PASTE_TOP_EXTRA", "0.22"))
+_REGION_EXPAND = float(os.getenv("FACE_PASTE_EXPAND", "1.38"))
+_REGION_TOP_EXTRA = float(os.getenv("FACE_PASTE_TOP_EXTRA", "0.36"))
 
 
 def _soft_mask(w: int, h: int) -> Image.Image:
@@ -75,39 +76,103 @@ def _expand_region(region: dict, canvas_size: tuple[int, int], scale: float = _R
 
 
 def _match_lighting(face: Image.Image, canvas: Image.Image, region: dict) -> Image.Image:
-    """Gently match face brightness to the scene. Keep upload skin colour (no hue shift)."""
-    x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
-    # Sample a strip just below the paste box (neck) when possible
-    sample_top = min(canvas.height - 1, y + h)
-    sample_bot = min(canvas.height, sample_top + max(8, h // 5))
-    sample_left = max(0, x + w // 4)
-    sample_right = min(canvas.width, x + (3 * w) // 4)
-    if sample_bot <= sample_top or sample_right <= sample_left:
-        return face
+    """Keep uploaded complexion. Do not pull the face toward the template body."""
+    return face
 
-    patch = canvas.crop((sample_left, sample_top, sample_right, sample_bot)).convert("RGB")
-    pixels = list(patch.getdata())
-    if not pixels:
-        return face
-    target_luma = sum(0.299 * r + 0.587 * g + 0.114 * b for r, g, b in pixels) / len(pixels)
 
-    face_rgb = face.convert("RGB")
-    fp = list(face_rgb.getdata())
-    face_luma = sum(0.299 * r + 0.587 * g + 0.114 * b for r, g, b in fp) / max(1, len(fp))
-    if face_luma < 1:
-        return face
-    factor = max(0.85, min(1.15, target_luma / face_luma))
-    adjusted = ImageEnhance.Brightness(face_rgb).enhance(factor)
-    if face.mode == "RGBA":
-        adjusted = adjusted.convert("RGBA")
-        adjusted.putalpha(face.split()[-1])
-    return adjusted
+def _median_skin_rgb(im: Image.Image) -> tuple[int, int, int] | None:
+    """Sample face-skin colour from the inner crop (skip hair/highlights)."""
+    try:
+        import numpy as np
+    except ImportError:
+        return None
+    rgb = np.asarray(im.convert("RGB"))
+    h, w = rgb.shape[:2]
+    if h < 8 or w < 8:
+        return None
+    patch = rgb[h // 4 : (3 * h) // 4, w // 4 : (3 * w) // 4].reshape(-1, 3)
+    luma = 0.299 * patch[:, 0] + 0.587 * patch[:, 1] + 0.114 * patch[:, 2]
+    patch = patch[(luma > 45) & (luma < 245)]
+    if patch.size < 30:
+        patch = rgb.reshape(-1, 3)
+    med = patch.mean(axis=0) if patch.shape[0] < 8 else np.median(patch, axis=0)
+    return int(med[0]), int(med[1]), int(med[2])
+
+
+def _recolor_body_skin(canvas: Image.Image, region: dict, target_rgb: tuple[int, int, int]) -> Image.Image:
+    """
+    Shift template neck / arms / hands toward the uploaded face complexion.
+
+    Clothes in the torso centre are left alone; the neck band and lower
+    limbs (where hands show) are the usual mismatch.
+    """
+    try:
+        import cv2
+        import numpy as np
+    except ImportError:
+        return canvas
+
+    arr = np.asarray(canvas.convert("RGB")).copy()
+    H, W = arr.shape[:2]
+    x, y, fw, fh = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
+    # Start at the chin / below the paste oval so we sample TEMPLATE skin, not the upload face.
+    bx0 = max(0, x - int(1.25 * fw))
+    by0 = min(H - 12, y + int(0.72 * fh))
+    bx1 = min(W, x + fw + int(1.25 * fw))
+    by1 = min(H, y + int(5.0 * fh))
+    if bx1 - bx0 < 12 or by1 - by0 < 12:
+        return canvas
+
+    roi = arr[by0:by1, bx0:bx1]
+    rh, rw = roi.shape[:2]
+    lab = cv2.cvtColor(roi, cv2.COLOR_RGB2LAB).astype(np.float32)
+
+    ny0, ny1 = int(0.02 * rh), max(8, int(0.30 * rh))
+    nx0, nx1 = int(0.22 * rw), int(0.78 * rw)
+    neck = lab[ny0:ny1, nx0:nx1].reshape(-1, 3)
+    if neck.size < 12:
+        return canvas
+    src_mean = np.median(neck, axis=0)
+    target = np.array([[list(target_rgb)]], dtype=np.uint8)
+    tgt_lab = cv2.cvtColor(target, cv2.COLOR_RGB2LAB)[0, 0].astype(np.float32)
+    delta = tgt_lab - src_mean
+
+    dist = np.sqrt(((lab - src_mean) ** 2).sum(axis=2))
+    rgb_f = roi.astype(np.float32)
+    mx = rgb_f.max(axis=2)
+    mn = rgb_f.min(axis=2)
+    sat = (mx - mn) / (mx + 1.0)
+    skin = (dist < 26) & (sat < 0.58) & (lab[:, :, 0] > 28) & (lab[:, :, 0] < 248)
+
+    yy, xx = np.ogrid[:rh, :rw]
+    neck_band = yy < int(0.38 * rh)
+    hands_band = yy > int(0.52 * rh)
+    apply = skin & (neck_band | hands_band)
+    if int(apply.sum()) < 40:
+        apply = skin
+
+    mask = cv2.GaussianBlur(apply.astype(np.float32), (21, 21), 0)
+    lab_new = lab + delta * mask[..., None]
+    lab_new[:, :, 0] = np.clip(lab_new[:, :, 0], 0, 255)
+    lab_new[:, :, 1] = np.clip(lab_new[:, :, 1], 0, 255)
+    lab_new[:, :, 2] = np.clip(lab_new[:, :, 2], 0, 255)
+    arr[by0:by1, bx0:bx1] = cv2.cvtColor(lab_new.astype(np.uint8), cv2.COLOR_LAB2RGB)
+    out = Image.fromarray(arr)
+    if canvas.mode == "RGBA":
+        out = out.convert("RGBA")
+        out.putalpha(canvas.split()[-1])
+    return out
 
 
 def _prepare_face(photo_path: Path, box_w: int, box_h: int) -> Image.Image | None:
-    from interactive_templates.face_swap import crop_upload_face, resize_face_keep_aspect
+    from interactive_templates.face_swap import crop_upload_head, resize_face_keep_aspect
 
-    face = crop_upload_face(photo_path)
+    # Head crop (face + hair + neck) so the paste already carries hairstyle.
+    face = crop_upload_head(photo_path)
+    if face is None:
+        from interactive_templates.face_swap import crop_upload_face
+
+        face = crop_upload_face(photo_path)
     if face is None:
         return None
     return resize_face_keep_aspect(face.convert("RGBA"), box_w, box_h)
@@ -134,33 +199,123 @@ def _paste_face(
     return True, face
 
 
-def _image_to_data_url(image: Image.Image, *, max_side: int = 768) -> str:
+def _image_to_data_url(image: Image.Image, *, max_side: int = 768, fmt: str = "JPEG") -> str:
     im = image.convert("RGB")
     w, h = im.size
     scale = min(1.0, max_side / max(w, h))
     if scale < 1.0:
         im = im.resize((max(1, int(w * scale)), max(1, int(h * scale))), Image.Resampling.LANCZOS)
     buf = BytesIO()
-    im.save(buf, format="PNG")
-    return "data:image/png;base64," + base64.b64encode(buf.getvalue()).decode()
+    kind = (fmt or "JPEG").upper()
+    if kind == "PNG":
+        im.save(buf, format="PNG")
+        mime = "image/png"
+    else:
+        im.save(buf, format="JPEG", quality=88, optimize=True)
+        mime = "image/jpeg"
+    return f"data:{mime};base64," + base64.b64encode(buf.getvalue()).decode()
 
 
 def _extract_image_url(data: dict) -> str | None:
-    msg = data.get("choices", [{}])[0].get("message", {})
-    for img in msg.get("images", []):
-        url = (img.get("image_url") or {}).get("url", "")
-        if url:
-            return url
+    """Pull a generated image URL out of varied OpenRouter / OpenAI payloads."""
+    if not isinstance(data, dict):
+        return None
+
+    def from_image_obj(img) -> str | None:
+        if not img:
+            return None
+        if isinstance(img, str) and img.startswith("data:image"):
+            return img
+        if not isinstance(img, dict):
+            return None
+        url = img.get("image_url") or img.get("url") or img.get("b64_json")
+        if isinstance(url, dict):
+            url = url.get("url") or url.get("b64_json")
+        if isinstance(url, str) and url:
+            if url.startswith("data:image") or url.startswith("http"):
+                return url
+            if re.fullmatch(r"[A-Za-z0-9+/=\n\r]+", url) and len(url) > 200:
+                return "data:image/png;base64," + url.replace("\n", "")
+        return None
+
+    for block in data.get("data") or []:
+        got = from_image_obj(block)
+        if got:
+            return got
+
+    choices = data.get("choices") or [{}]
+    msg = (choices[0] or {}).get("message") or {}
+    for img in msg.get("images") or []:
+        got = from_image_obj(img)
+        if got:
+            return got
     content = msg.get("content", "")
     if isinstance(content, list):
         for p in content:
-            if isinstance(p, dict) and p.get("type") == "image_url":
-                return p["image_url"]["url"]
+            if not isinstance(p, dict):
+                continue
+            if p.get("type") in ("image_url", "image"):
+                got = from_image_obj(p) or from_image_obj(p.get("image_url"))
+                if got:
+                    return got
+            if isinstance(p.get("text"), str):
+                m = re.search(r"(data:image/[a-z]+;base64,[A-Za-z0-9+/=]+)", p["text"])
+                if m:
+                    return m.group(1)
     if isinstance(content, str):
         m = re.search(r"(data:image/[a-z]+;base64,[A-Za-z0-9+/=]+)", content)
         if m:
             return m.group(1)
     return None
+
+
+def _response_hint(data: dict) -> str:
+    try:
+        msg = (data.get("choices") or [{}])[0].get("message") or {}
+        content = msg.get("content")
+        if isinstance(content, list):
+            texts = [p.get("text", "") for p in content if isinstance(p, dict)]
+            content = " ".join(texts)
+        err = data.get("error") or content or ""
+        return str(err)[:280].replace("\n", " ")
+    except Exception:
+        return ""
+
+
+def _post_image_chat(content: list) -> Image.Image | None:
+    payload = {
+        "model": IMAGE_MODEL,
+        "modalities": ["image", "text"],
+        "max_tokens": 2000,
+        "messages": [{"role": "user", "content": content}],
+    }
+    headers = {
+        "Authorization": f"Bearer {API_KEY}",
+        "Content-Type": "application/json",
+        "HTTP-Referer": "http://localhost:8501",
+    }
+    try:
+        resp = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=200)
+    except Exception as exc:
+        print(f"  ⚠️  personalize request failed ({exc})")
+        return None
+    if resp.status_code != 200:
+        print(f"  ⚠️  personalize API failed ({resp.status_code}): {resp.text[:300]}")
+        return None
+    try:
+        data = resp.json()
+    except Exception as exc:
+        print(f"  ⚠️  personalize: bad JSON ({exc})")
+        return None
+    img_ref = _extract_image_url(data)
+    if not img_ref:
+        print(f"  ⚠️  personalize: no image returned — {_response_hint(data)}")
+        return None
+    if img_ref.startswith("data:image"):
+        raw = base64.b64decode(img_ref.split(",", 1)[1])
+    else:
+        raw = requests.get(img_ref, timeout=60).content
+    return Image.open(BytesIO(raw)).convert("RGB")
 
 
 def _ai_finish_identity_locked(
@@ -170,6 +325,8 @@ def _ai_finish_identity_locked(
     adult_face: Image.Image,
     child_head: Image.Image,
     adult_head: Image.Image,
+    child_portrait: Image.Image,
+    adult_portrait: Image.Image,
     adult_role: str,
     soft_cartoon: bool,
     child_gender: str = "",
@@ -205,98 +362,49 @@ def _ai_finish_identity_locked(
    - Stay fully photorealistic. Only blend faces/hair/skin into the scene.
 """
 
+    child_ref = child_portrait or child_head or child_face
+    adult_ref = adult_portrait or adult_head or adult_face
+
     prompt = f"""You are finishing a personalised Grade 1 worksheet photograph.
 
 IMAGE 1 = scene with two faces PASTED as soft ovals (child LEFT, {adult} RIGHT).
-IMAGE 2 = CHILD head reference (face + hair + neck) — the LEFT person MUST be this child.
-IMAGE 3 = {adult.upper()} head reference (face + hair + neck) — the RIGHT person MUST be this adult.
-IMAGE 4 = CHILD face crop (eyes, nose, mouth lock).
-IMAGE 5 = {adult.upper()} face crop (eyes, nose, mouth lock).
+IMAGE 2 = CHILD photo (face + hairstyle + skin).
+IMAGE 3 = {adult.upper()} photo (face + hairstyle + skin).
 
-GOAL: seamless photoreal swap. Each person must look like their uploaded photo — same face, same hairstyle, same skin tone.
+GOAL: one seamless photograph. Each person looks like their uploaded photo.
 
-1. FACE IDENTITY (non-negotiable)
-   - Left person = IMAGE 2 / IMAGE 4 (same child: eyes, nose, mouth, age).
-   - Right person = IMAGE 3 / IMAGE 5 (same adult).
-   - Do NOT replace with generic / prettier / different people.
-   - Keep facial feature proportions from the references.
-
-2. FULL HAIR REPLACEMENT — copy from the UPLOADS (non-negotiable)
-   - Rebuild EACH person's ENTIRE hair, including the back of the head, sides, nape, and
-     anything hanging over shoulders. The silhouette of the head+hair must match IMAGE 2 / IMAGE 3.
-   - LEFT hair = IMAGE 2 exactly: same cut, length, parting, volume, texture, colour.
-     Example: if IMAGE 2 is a bob (chin-length, no tail), the child MUST have a bob only.
-   - RIGHT hair = IMAGE 3 exactly: same cut, length, parting, volume, texture, colour.
-   - ERASE leftover TEMPLATE hair completely: ponytails, pigtails, buns, long hair down the
-     back, hair over the shoulders, clips, ribbons, flyaways that are NOT in the upload.
-   - Where you remove long template hair (e.g. ponytails behind a bob), fill that area with
-     the real background / clothing / neck — do not leave a ghost tail or extra hair mass.
-   - Hair must look grown from the scalp (not a wig or sticker pasted on top of old hair).
-   - Do NOT restyle into a generic boy/girl haircut. Do not keep template hair "from behind".
-{gender_line}
-3. WHOLE-BODY SKIN TONE — copy from the UPLOADS (non-negotiable)
-   - LEFT person: EVERY visible patch of skin must match IMAGE 2 (fair/olive/brown/deep —
-     same undertone AND same depth). That includes face, ears, neck, chest/collarbone,
-     both arms, wrists, hands, fingers, and any legs/ankles showing.
-   - RIGHT person: EVERY visible patch of skin must match IMAGE 3 the same way.
-   - If the upload is fair, the WHOLE body is fair — not a fair face on tanned template arms.
-   - If the upload is darker, the WHOLE body is that darker tone — not a dark face on pale arms.
-   - Recolour template limbs/neck to the upload. Do NOT fade the uploaded face toward the
-     template body. No two-tone people (face one colour, hands another).
-   - Keep natural scene lighting (highlights/shadows) but complexion must stay the upload.
-
-4. SEAMLESS BLEND
-   - Remove oval cut edges, halos, blur rings, and tone steps.
-   - Rebuild natural hairline, ears, jaw, and neck transitions for BOTH people.
-   - Match photo grain / sharpness so faces are not flatter or glowing vs the body.
-   - Result must look like one real photograph, not a collage.
+1. FACE: LEFT = IMAGE 2. RIGHT = IMAGE 3. Same eyes, nose, mouth, age. No generic faces.
+2. HAIR: copy IMAGE 2 / IMAGE 3 exactly (cut, length, colour). Erase leftover template hair (ponytails, buns, long hair).
+{gender_line}3. BODY SKIN: neck, arms, hands, fingers must match the FACE skin in IMAGE 2 / IMAGE 3. No two-tone people.
+4. BLEND: remove oval cut edges, halos, and neck seams so it looks like one real photo.
 {style_block}
-6. PRESERVE LAYOUT
-   - Same poses, framing, clothes (except hair + whole-body skin as above), object counts.
-   - No leftover ponytails or template hair behind a shorter cut.
-   - No text, numbers, watermarks. No extra people.
+6. Keep poses, clothes, object counts. No extra people. No text.
 
-Output ONLY the finished seamless photograph.
+Output ONLY the finished photograph.
 """.strip()
 
-    content = [
+    content3 = [
         {"type": "image_url", "image_url": {"url": _image_to_data_url(composite, max_side=1024)}},
-        {"type": "image_url", "image_url": {"url": _image_to_data_url(child_head, max_side=640)}},
-        {"type": "image_url", "image_url": {"url": _image_to_data_url(adult_head, max_side=640)}},
-        {"type": "image_url", "image_url": {"url": _image_to_data_url(child_face, max_side=512)}},
-        {"type": "image_url", "image_url": {"url": _image_to_data_url(adult_face, max_side=512)}},
+        {"type": "image_url", "image_url": {"url": _image_to_data_url(child_ref, max_side=512)}},
+        {"type": "image_url", "image_url": {"url": _image_to_data_url(adult_ref, max_side=512)}},
         {"type": "text", "text": prompt},
     ]
-
-    payload = {
-        "model": IMAGE_MODEL,
-        "modalities": ["image", "text"],
-        "max_tokens": 1200,
-        "messages": [{"role": "user", "content": content}],
-    }
-    headers = {
-        "Authorization": f"Bearer {API_KEY}",
-        "Content-Type": "application/json",
-        "HTTP-Referer": "http://localhost:8504",
-    }
-    try:
-        resp = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=200)
-    except Exception as exc:
-        print(f"  ⚠️  personalize request failed ({exc})")
+    print("  ✨ Blend pass (scene + 2 identity photos)…")
+    out = _post_image_chat(content3)
+    if out is None:
+        simple = (
+            "Blend the pasted face ovals into this photo so the people look natural. "
+            "Remove cut edges and match neck/hand skin to each pasted face. "
+            "Keep the same two people, poses, clothes, and objects. Output ONLY the image."
+        )
+        content1 = [
+            {"type": "image_url", "image_url": {"url": _image_to_data_url(composite, max_side=1024)}},
+            {"type": "text", "text": simple},
+        ]
+        print("  ✨ Blend fallback (scene only)…")
+        out = _post_image_chat(content1)
+    if out is None:
         return None
-    if resp.status_code != 200:
-        print(f"  ⚠️  personalize API failed ({resp.status_code}): {resp.text[:200]}")
-        return None
-    img_ref = _extract_image_url(resp.json())
-    if not img_ref:
-        print("  ⚠️  personalize: no image returned")
-        return None
-    if img_ref.startswith("data:image"):
-        raw = base64.b64decode(img_ref.split(",", 1)[1])
-    else:
-        raw = requests.get(img_ref, timeout=60).content
-    out = Image.open(BytesIO(raw)).convert("RGB")
-    # Normalize size to template
     if out.size != composite.size:
         out = out.resize(composite.size, Image.Resampling.LANCZOS)
     return out
@@ -359,8 +467,8 @@ def personalize_stem(
 ) -> Path:
     """
     Paste upload faces onto the stem, then AI-blend them into the photo.
-    Hairstyle and skin tone lock to each role's uploaded photo. No final
-    re-paste — that would undo seamless blending.
+    Hairstyle is copied from each upload. Body skin (neck, arms, hands) is
+    recoloured to match that person's uploaded face. No final re-paste.
     """
     stem_dir = Path(stem_dir)
     meta = json.loads((stem_dir / "meta.json").read_text(encoding="utf-8"))
@@ -390,14 +498,31 @@ def personalize_stem(
     child_region = _expand_region(regions["child"], canvas.size)
     adult_region = _expand_region(adult_region, canvas.size)
 
-    from interactive_templates.face_swap import crop_upload_head
+    from interactive_templates.face_swap import (
+        crop_upload_face,
+        crop_upload_head,
+        crop_upload_portrait,
+    )
 
     ok_c, child_face = _paste_face(canvas, child_region, Path(child_photo))
     ok_a, adult_face = _paste_face(canvas, adult_region, Path(adult_photo))
     print(f"  ✓ Pasted child={ok_c} {role}={ok_a}")
 
+    child_skin = _median_skin_rgb(child_face) if child_face is not None else None
+    adult_skin = _median_skin_rgb(adult_face) if adult_face is not None else None
+    if child_skin:
+        canvas = _recolor_body_skin(canvas, child_region, child_skin)
+        print(f"  ✓ Child body skin → upload face {child_skin}")
+    if adult_skin:
+        canvas = _recolor_body_skin(canvas, adult_region, adult_skin)
+        print(f"  ✓ {role} body skin → upload face {adult_skin}")
+
     child_head = crop_upload_head(Path(child_photo)) or child_face
     adult_head = crop_upload_head(Path(adult_photo)) or adult_face
+    child_portrait = crop_upload_portrait(Path(child_photo)) or child_head
+    adult_portrait = crop_upload_portrait(Path(adult_photo)) or adult_head
+    child_face_lock = crop_upload_face(Path(child_photo)) or child_face
+    adult_face_lock = crop_upload_face(Path(adult_photo)) or adult_face
 
     result = canvas.convert("RGB")
     # Always prefer AI blend when requested — this is what removes sticker look
@@ -405,10 +530,12 @@ def personalize_stem(
         print(f"  ✨ Seamless blend via {IMAGE_MODEL} (hair+skin from uploads, gender hint={child_gender or 'n/a'})…")
         finished = _ai_finish_identity_locked(
             result,
-            child_face=child_face,
-            adult_face=adult_face,
+            child_face=child_face_lock,
+            adult_face=adult_face_lock,
             child_head=child_head,
             adult_head=adult_head,
+            child_portrait=child_portrait,
+            adult_portrait=adult_portrait,
             adult_role=role,
             soft_cartoon=soft_cartoon,
             child_gender=child_gender,

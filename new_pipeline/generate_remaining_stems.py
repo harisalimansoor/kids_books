@@ -23,12 +23,14 @@ MODEL = "qwen/qwen-image-3"
 API_URL = "https://openrouter.ai/api/v1/images"
 
 STYLE = """
-ONE vibrant realistic photograph, square 1:1, bright kitchen/living room table.
+ONE vibrant realistic photograph, square 1:1, bright kitchen/living room, more background visible.
 LEFT: young child (~6), front-facing camera, smiling.
 RIGHT: adult, front-facing camera, smiling.
-Only these two people. Faces clear for face-swap. More background visible.
+Only these two people. Faces clear for face-swap.
+They are mid-activity together (helping, pointing, pouring) — not a stiff posed portrait.
 CLOTHING (modest — children's workbook): mother/adult woman must wear a high crew-neck or modest round collar top that fully covers chest and shoulders. No deep V-neck, off-shoulder, wrap cleavage, or low scoop.
 CRITICAL: object counts must be exact and easily countable — spaced apart, not stacked, not overlapping.
+HANDS: two per person, 5 fingers. No extra people. No text overlays except required numbers.
 """.strip()
 
 
@@ -343,9 +345,17 @@ MOTHER (right) and child (left). Labels 60 and 30 must be readable.
         "layout_pattern": "jug_volume",
         "question": "Look at the picture! There is a measuring jug with numbers on the side and it is filled with water up to a certain line. The jug says 1 l on it. What number is the water level at on the measuring jug?",
         "prompt_objects": """
-Clear glass measuring jug labelled "1 L" with readable marks: 250, 500, 750, 1000.
-Blue water filled EXACTLY to the 500 ml mid line. A sticky note near jug says "500".
-MOTHER (right) and child (left) look at the jug. Markings readable. No other jugs.
+ACTIVITY: joyful kitchen baking — they are measuring water together for a recipe (pouring into a jug), not just posing beside it.
+Bright kitchen with more background: window, shelves, mixing bowl, wooden spoon, recipe card as props (props must NOT look like extra jugs).
+Child (left) helps hold the jug or points at the water line. Mother (right) pours from a small kettle/tap jug. Front-facing smiles.
+
+COUNT / MEASURE (exact):
+- ONE clear glass measuring jug on the table, labelled "1 L" in large readable letters
+- Readable side marks: 250, 500, 750, 1000
+- Blue water filled EXACTLY to the 500 ml mid line (half the jug)
+- A small yellow sticky note beside the jug may say "500"
+- TOTAL measuring jugs in the whole image: EXACTLY 1
+- Zero extra jugs, glasses of water that look like measuring jugs, or other water levels
 """,
         "visual_groups": [{"id": "jug", "object_id": "water", "volume_ml": 500, "container": "jug", "max_l": 1}],
         "answer": {

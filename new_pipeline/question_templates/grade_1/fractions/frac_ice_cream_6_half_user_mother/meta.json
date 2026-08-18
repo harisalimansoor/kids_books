@@ -21,7 +21,7 @@
       "mother_name": "mother"
     },
     "face_swap_friendly": true,
-    "notes": "Image body is mother-locked. Paste child + mother faces only."
+    "notes": "Interactive bazaar ice cream; mother-locked."
   },
   "interests": {
     "foods": [
@@ -33,63 +33,63 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 224,
-      "y": 325,
-      "w": 143,
-      "h": 186,
+      "x": 253,
+      "y": 305,
+      "w": 145,
+      "h": 181,
       "landmarks": {
         "right_eye": [
-          267,
-          399
+          299,
+          379
         ],
         "left_eye": [
-          333,
-          398
+          366,
+          382
         ],
         "nose": [
-          305,
-          437
+          334,
+          413
         ],
         "mouth_right": [
-          271,
-          461
+          297,
+          438
         ],
         "mouth_left": [
-          330,
-          460
+          356,
+          442
         ]
       },
-      "confidence": 0.944
+      "confidence": 0.948
     },
     {
       "role": "mother",
-      "x": 576,
-      "y": 99,
-      "w": 159,
-      "h": 208,
+      "x": 579,
+      "y": 86,
+      "w": 154,
+      "h": 202,
       "landmarks": {
         "right_eye": [
-          604,
-          190
+          605,
+          173
         ],
         "left_eye": [
-          678,
-          178
+          677,
+          161
         ],
         "nose": [
-          644,
-          223
+          643,
+          207
         ],
         "mouth_right": [
-          628,
-          259
+          627,
+          240
         ],
         "mouth_left": [
           691,
-          247
+          228
         ]
       },
-      "confidence": 0.942
+      "confidence": 0.94
     }
   ],
   "visual_groups": [
@@ -117,7 +117,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Visually count-checked against question. | Modest crew-neck clothing edit."
+    "notes": "Colourful bazaar stall; buying pose; 6 colourful scoops; left 3 circled."
   },
   "source": {
     "cluster_file": "",
@@ -127,7 +127,8 @@
     "look": "vibrant_realistic",
     "interaction": true,
     "facing": "front_camera",
-    "framing": "more_background"
+    "framing": "more_background",
+    "activity": "buying_ice_cream_bazaar"
   },
   "image_generation": {
     "model": "qwen/qwen-image-3",

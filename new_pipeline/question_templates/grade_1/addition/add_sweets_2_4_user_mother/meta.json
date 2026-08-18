@@ -1,0 +1,148 @@
+{
+  "stem_id": "add_sweets_2_4_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "mother_4_sweets_child_2_sweets_jar.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [
+      "sweets"
+    ],
+    "hobbies": [],
+    "notes": "Sweet-packing addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 163,
+      "y": 293,
+      "w": 159,
+      "h": 214,
+      "landmarks": {
+        "right_eye": [
+          209,
+          389
+        ],
+        "left_eye": [
+          282,
+          382
+        ],
+        "nose": [
+          255,
+          430
+        ],
+        "mouth_right": [
+          222,
+          458
+        ],
+        "mouth_left": [
+          285,
+          453
+        ]
+      },
+      "confidence": 0.945
+    },
+    {
+      "role": "mother",
+      "x": 613,
+      "y": 105,
+      "w": 181,
+      "h": 230,
+      "landmarks": {
+        "right_eye": [
+          640,
+          212
+        ],
+        "left_eye": [
+          724,
+          192
+        ],
+        "nose": [
+          682,
+          253
+        ],
+        "mouth_right": [
+          668,
+          286
+        ],
+        "mouth_left": [
+          740,
+          270
+        ]
+      },
+      "confidence": 0.941
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "sweets",
+      "count": 4,
+      "container": "jar"
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "sweets",
+      "count": 2,
+      "container": "bowl"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "6",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "5"
+    ],
+    "formula": "4+2",
+    "explanation": "4 sweets + 2 sweets = 6"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Restored first generated image."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

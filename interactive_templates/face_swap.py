@@ -57,8 +57,7 @@ def crop_upload_face(photo_path: str | Path) -> Image.Image | None:
     Uses YuNet when available so the paste contains the face, not the whole
     portrait background. Falls back to a centred square crop.
 
-    Padding is kept fairly even so eye–nose–mouth proportions stay true to
-    the upload when the crop is later resized.
+    Padding includes forehead/hair so the paste is not a floating face sticker.
     """
     photo_path = Path(photo_path)
     if not photo_path.exists():
@@ -68,13 +67,13 @@ def crop_upload_face(photo_path: str | Path) -> Image.Image | None:
     primary = pick_primary_face(faces, photo.size) if faces else None
     if primary:
         x, y, w, h = primary["x"], primary["y"], primary["w"], primary["h"]
-        # Even padding around the face so feature ratios stay stable.
-        pad = int(0.18 * max(w, h))
-        pad_top = int(0.22 * h)  # a little extra forehead
+        pad = int(0.22 * max(w, h))
+        pad_top = int(0.42 * h)  # hair above the forehead
+        pad_bottom = int(0.28 * h)  # jaw / upper neck
         left = max(0, x - pad)
         top = max(0, y - pad_top)
         right = min(photo.width, x + w + pad)
-        bottom = min(photo.height, y + h + pad)
+        bottom = min(photo.height, y + h + pad_bottom)
         return photo.crop((left, top, right, bottom))
 
     # Fallback: centred square biased toward the upper half of the photo.
@@ -87,7 +86,7 @@ def crop_upload_face(photo_path: str | Path) -> Image.Image | None:
 
 def crop_upload_head(photo_path: str | Path) -> Image.Image | None:
     """
-    Crop face + hair + neck from an uploaded photo.
+    Crop face + full hairstyle + neck from an uploaded photo.
 
     Wider/taller than crop_upload_face so identity refs keep hairstyle,
     hair colour, and skin tone from the upload (not just eyes/nose/mouth).
@@ -100,9 +99,9 @@ def crop_upload_head(photo_path: str | Path) -> Image.Image | None:
     primary = pick_primary_face(faces, photo.size) if faces else None
     if primary:
         x, y, w, h = primary["x"], primary["y"], primary["w"], primary["h"]
-        pad_x = int(0.55 * max(w, h))
-        pad_top = int(1.10 * h)  # full hairstyle above the face
-        pad_bottom = int(0.55 * h)  # neck / collarbone for skin tone
+        pad_x = int(0.72 * max(w, h))
+        pad_top = int(1.35 * h)  # full hairstyle / bun / ponytail height
+        pad_bottom = int(0.85 * h)  # neck / collarbone for skin tone
         left = max(0, x - pad_x)
         top = max(0, y - pad_top)
         right = min(photo.width, x + w + pad_x)
@@ -114,6 +113,27 @@ def crop_upload_head(photo_path: str | Path) -> Image.Image | None:
     left = (w - side) // 2
     top = max(0, int((h - side) * 0.05))
     return photo.crop((left, top, left + side, min(h, top + side)))
+
+
+def crop_upload_portrait(photo_path: str | Path) -> Image.Image | None:
+    """Upper-body crop (head, hair, shoulders) for hairstyle + skin reference."""
+    photo_path = Path(photo_path)
+    if not photo_path.exists():
+        return None
+    photo = Image.open(photo_path).convert("RGBA")
+    faces = detect_faces(photo)
+    primary = pick_primary_face(faces, photo.size) if faces else None
+    if primary:
+        x, y, w, h = primary["x"], primary["y"], primary["w"], primary["h"]
+        pad_x = int(1.05 * max(w, h))
+        pad_top = int(1.50 * h)
+        pad_bottom = int(1.80 * h)
+        left = max(0, x - pad_x)
+        top = max(0, y - pad_top)
+        right = min(photo.width, x + w + pad_x)
+        bottom = min(photo.height, y + h + pad_bottom)
+        return photo.crop((left, top, right, bottom))
+    return crop_upload_head(photo_path)
 
 
 def resize_face_keep_aspect(

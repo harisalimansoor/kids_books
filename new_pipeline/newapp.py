@@ -244,7 +244,8 @@ style_choice = st.radio(
     key="np_style_choice",
     help=(
         "Both modes AI-blend your uploaded faces into the template (not stickers). "
-        "Each person's hairstyle and skin tone stay as in their uploaded photo."
+        "Each person's hairstyle stays as in their uploaded photo, and body "
+        "skin (neck, arms, hands) is matched to that face — not the template."
     ),
 )
 soft_cartoon = style_choice.startswith("Soft cartoon")
@@ -291,7 +292,9 @@ with st.expander("Upload Family Photos (for face swapping)", expanded=False):
     )
     st.caption(
         "Upload photos and we'll put your family's faces onto the characters. "
-        "Child + matching adult photos are required for each template role you want."
+        "Hairstyle stays as in each photo, and the body skin (neck, arms, hands) "
+        "is matched to that person's face. Child + matching adult photos are "
+        "required for each template role you want."
     )
 
     faces_dir = REPO_ROOT / "personalised_faces"

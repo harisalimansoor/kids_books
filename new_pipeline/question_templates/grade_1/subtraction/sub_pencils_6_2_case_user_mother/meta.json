@@ -1,0 +1,154 @@
+{
+  "stem_id": "sub_pencils_6_2_case_user_mother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "take_away_remain",
+  "question_file": "question.txt",
+  "image_file": "mother_6_pencils_child_puts_2_in_case.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "drawing"
+    ],
+    "notes": "Pencil-case packing subtraction stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 267,
+      "y": 393,
+      "w": 135,
+      "h": 166,
+      "landmarks": {
+        "right_eye": [
+          305,
+          458
+        ],
+        "left_eye": [
+          364,
+          461
+        ],
+        "nose": [
+          333,
+          494
+        ],
+        "mouth_right": [
+          303,
+          514
+        ],
+        "mouth_left": [
+          356,
+          517
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "mother",
+      "x": 590,
+      "y": 214,
+      "w": 149,
+      "h": 202,
+      "landmarks": {
+        "right_eye": [
+          616,
+          298
+        ],
+        "left_eye": [
+          687,
+          286
+        ],
+        "nose": [
+          653,
+          331
+        ],
+        "mouth_right": [
+          637,
+          366
+        ],
+        "mouth_left": [
+          700,
+          355
+        ]
+      },
+      "confidence": 0.94
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "pencils",
+      "count": 6
+    },
+    {
+      "id": "taken",
+      "owner": "child",
+      "object_id": "pencils",
+      "count": 2,
+      "container": "pencil_case"
+    },
+    {
+      "id": "remaining",
+      "owner": "table",
+      "object_id": "pencils",
+      "count": 4,
+      "notes": "left on the table"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "4",
+    "options": [
+      "4",
+      "6",
+      "2",
+      "3"
+    ],
+    "formula": "6-2",
+    "explanation": "6 pencils \u2212 2 in the case = 4 left on the table"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Generated with qwen/qwen-image-3 via OpenRouter Images API."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/subtraction.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}
