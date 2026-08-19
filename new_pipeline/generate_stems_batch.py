@@ -214,10 +214,17 @@ Don't add more than two hands for a person.
         "layout_pattern": "two_group_subtract",
         "question": "Look at the picture! {mother_name} has a bookshelf with 9 books on it, but 3 books have fallen off the shelf and are on the floor. How many books are still on {mother_name}'s bookshelf?",
         "prompt_objects": """
-MOTHER (right) next to a wooden bookshelf.
-EXACTLY 9 colourful children's books standing on the shelf in one neat row.
-EXACTLY 3 books lying on the floor in front of the shelf.
-Child (left) helps look. No extra books elsewhere.
+Don't add more than two hands for a person.
+ACTIVITY: child (LEFT) and mother (RIGHT) are ORGANIZING books together on a wooden library shelf. Child places a book onto the shelf while mother steadies a stack. Both face CAMERA and SMILE warmly.
+Don't add more than two hands for a person.
+
+BOOK COUNTS (Grade 1 subtraction — exact):
+- On ONE wooden library shelf: EXACTLY 9 colourful children's books standing upright in a neat row, all spines visible. NEVER 8. NEVER 10.
+- On the floor in front of the shelf: EXACTLY 3 colourful books lying flat, clearly separated. NEVER 2. NEVER 4.
+- Zero extra books in the foreground. No numbers, no chalkboard, no equation.
+Don't add more than two hands for a person.
+
+BACKGROUND: children's library with tall bookshelves, warm lighting, potted plants, cozy reading nook, colourful posters.
 """,
         "visual_groups": [
             {"id": "shelf", "owner": "mother", "object_id": "books", "singular": "book", "plural": "books", "count": 9, "container": "shelf"},
@@ -675,6 +682,92 @@ Don't add more than two hands for a person.
         "answer": {"type": "count_total", "correct": "5", "options": ["5", "3", "2", "4"], "formula": "3+2", "explanation": "3 apples + 2 apples = 5"},
         "interests": {"foods": ["apples"], "hobbies": ["gardening"], "notes": "Apple-picking with grandfather addition stem."},
     },
+    # addition — 3 new diverse-role stems
+    {
+        "stem_id": "add_oranges_3_4_user_father",
+        "topic": "addition",
+        "adult_role": "father",
+        "image_file": "father_4_oranges_child_3_oranges_garden.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+        "layout_pattern": "two_group_add",
+        "question": "Look at the picture! {father_name} has 4 oranges in his basket, and {user_name} has 3 oranges in front of {user_name}. How many oranges are there altogether?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY: child (LEFT, age 6) and father (RIGHT) are PICKING ORANGES in a sunny garden with orange trees. Father holds a wicker basket. Child places an orange into a small pile on a garden table. Both face the CAMERA and SMILE warmly.
+Don't add more than two hands for a person.
+
+ORANGE COUNTS (Grade 1 — exact):
+- Child LEFT: EXACTLY 3 bright oranges on a small wooden table in front of the child, in a neat row, all visible. NEVER 2. NEVER 4.
+- Father RIGHT: EXACTLY 4 bright oranges in ONE wicker basket, spaced so a child can count 1-2-3-4. NEVER 3. NEVER 5.
+- Clear gap between the child's 3 oranges and the father's basket
+- TOTAL oranges: EXACTLY 7. Zero extra oranges on the table or in hands.
+- Background orange trees may have fruit — that is fine.
+- No chalkboard, no equation, no numbers.
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "father", "owner": "father", "object_id": "oranges", "count": 4, "container": "basket"},
+            {"id": "child", "owner": "child", "object_id": "oranges", "count": 3},
+        ],
+        "answer": {"type": "count_total", "correct": "7", "options": ["7", "4", "3", "6"], "formula": "3+4", "explanation": "3 oranges + 4 oranges = 7"},
+        "interests": {"foods": ["oranges"], "hobbies": ["gardening"], "notes": "Orange-picking with father addition stem."},
+    },
+    {
+        "stem_id": "add_flowers_2_3_user_grandfather",
+        "topic": "addition",
+        "adult_role": "grandfather",
+        "image_file": "grandfather_3_flowers_child_2_flowers_garden.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+        "layout_pattern": "two_group_add",
+        "question": "Look at the picture! {grandfather_name} has 3 flowers in his bunch, and {user_name} has 2 flowers. How many flowers are there altogether?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY: child (LEFT, age 6) and grandfather (RIGHT, elderly man with grey hair) are ARRANGING FLOWERS in a colourful garden. They sit on a garden bench. Child holds a small bunch of flowers. Grandfather arranges flowers into a vase. Both face the CAMERA and SMILE warmly.
+Don't add more than two hands for a person.
+
+FLOWER COUNTS (Grade 1 — exact):
+- Child LEFT: EXACTLY 2 bright flowers (one red, one yellow) in the child's hand or in a small jar in front of child. NEVER 1. NEVER 3.
+- Grandfather RIGHT: EXACTLY 3 bright flowers (pink, purple, orange) in a small glass vase in front of grandfather. NEVER 2. NEVER 4.
+- Clear gap between the child's 2 flowers and the grandfather's 3 flowers
+- TOTAL countable flowers: EXACTLY 5. Background garden may have many flowers — that is fine.
+- No chalkboard, no equation, no numbers.
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "grandfather", "owner": "grandfather", "object_id": "flowers", "count": 3, "container": "vase"},
+            {"id": "child", "owner": "child", "object_id": "flowers", "count": 2},
+        ],
+        "answer": {"type": "count_total", "correct": "5", "options": ["5", "3", "2", "4"], "formula": "2+3", "explanation": "2 flowers + 3 flowers = 5"},
+        "interests": {"foods": [], "hobbies": ["gardening"], "notes": "Flower-arranging with grandfather addition stem."},
+    },
+    {
+        "stem_id": "add_crayons_3_2_user_sibling",
+        "topic": "addition",
+        "adult_role": "sibling",
+        "image_file": "sibling_2_crayons_child_3_crayons_colouring.png",
+        "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+        "layout_pattern": "two_group_add",
+        "question": "Look at the picture! {sibling_name} has 2 crayons in front of them, and {user_name} has 3 crayons in front of {user_name}. How many crayons are there altogether?",
+        "prompt_objects": """
+Don't add more than two hands for a person.
+ACTIVITY: a younger child (LEFT, age 6) and their older sibling (RIGHT, age 10-12, taller) are COLOURING together at a table. Both have colouring books open in front of them and are drawing with crayons. Both face the CAMERA and SMILE warmly.
+Don't add more than two hands for a person.
+
+CRAYON COUNTS (Grade 1 — exact):
+- Child LEFT: EXACTLY 3 thick colourful crayons (red, blue, green) lying in a neat row in front of the child's colouring book. NEVER 2. NEVER 4.
+- Sibling RIGHT: EXACTLY 2 thick colourful crayons (yellow, purple) lying in a neat row in front of the sibling's colouring book. NEVER 1. NEVER 3.
+- Clear gap between the child's 3 crayons and the sibling's 2 crayons
+- TOTAL crayons: EXACTLY 5. Zero extra crayons, no crayon box visible.
+- No chalkboard, no equation, no numbers.
+Don't add more than two hands for a person.
+""",
+        "visual_groups": [
+            {"id": "sibling", "owner": "sibling", "object_id": "crayons", "count": 2},
+            {"id": "child", "owner": "child", "object_id": "crayons", "count": 3},
+        ],
+        "answer": {"type": "count_total", "correct": "5", "options": ["5", "3", "2", "4"], "formula": "3+2", "explanation": "3 crayons + 2 crayons = 5"},
+        "interests": {"foods": [], "hobbies": ["colouring", "art"], "notes": "Colouring with older sibling addition stem."},
+    },
     {
         "stem_id": "sub_marbles_7_2_bowl_user_grandfather",
         "topic": "subtraction",
@@ -717,6 +810,11 @@ def adult_label(role: str) -> str:
         "father": "FATHER (right, adult man)",
         "grandfather": "GRANDFATHER (right, older adult man, grey/white hair, casual modest shirt or jumper)",
         "grandmother": "GRANDMOTHER (right, older adult woman, modest crew-neck top)",
+        "uncle": "UNCLE (right, young man about 30, casual modest shirt)",
+        "aunt": "AUNT (right, adult woman, modest long-sleeved blouse, long skirt)",
+        "brother": "BROTHER (right, older boy about 12-14, casual t-shirt)",
+        "sister": "SISTER (right, older girl about 12-14, modest casual top)",
+        "sibling": "SIBLING (right, older child about 10-12, casual t-shirt)",
     }.get(role, role)
 
 

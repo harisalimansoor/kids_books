@@ -1,0 +1,102 @@
+{
+  "stem_id": "add_watermelons_3_2_user_aunt",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "aunt_2_watermelons_child_3_watermelons_market.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "aunt"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "aunt",
+    "allowed_adult_roles": [
+      "aunt"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "aunt_name": "aunt"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is aunt-locked. Paste child + aunt faces only."
+  },
+  "interests": {
+    "foods": [
+      "watermelons"
+    ],
+    "hobbies": [
+      "shopping"
+    ],
+    "notes": "Buying watermelon slices with aunt addition stem."
+  },
+  "face_regions": [
+    {
+      "x": 311,
+      "y": 328,
+      "w": 111,
+      "h": 138,
+      "role": "child"
+    },
+    {
+      "x": 576,
+      "y": 101,
+      "w": 122,
+      "h": 152,
+      "role": "aunt"
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "aunt",
+      "owner": "aunt",
+      "object_id": "watermelon_slices",
+      "count": 2
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "watermelon_slices",
+      "count": 3
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "formula": "3+2",
+    "explanation": "3 watermelon slices + 2 watermelon slices = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 3 child + 2 aunt."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

@@ -96,12 +96,26 @@ with row_fam2[0]:
     grandmother_name = st.text_input("Grandma's Name", placeholder="Optional")
 with row_fam2[1]:
     grandfather_name = st.text_input("Grandad's Name", placeholder="Optional")
+row_fam3 = st.columns(2)
+with row_fam3[0]:
+    uncle_name = st.text_input("Uncle's Name", placeholder="Optional")
+with row_fam3[1]:
+    aunt_name = st.text_input("Aunt's Name", placeholder="Optional")
+row_fam4 = st.columns(2)
+with row_fam4[0]:
+    brother_name = st.text_input("Brother's Name", placeholder="Optional")
+with row_fam4[1]:
+    sister_name = st.text_input("Sister's Name", placeholder="Optional")
 
 family_names = {
     "mother": (mother_name or "").strip(),
     "father": (father_name or "").strip(),
     "grandmother": (grandmother_name or "").strip(),
     "grandfather": (grandfather_name or "").strip(),
+    "uncle": (uncle_name or "").strip(),
+    "aunt": (aunt_name or "").strip(),
+    "brother": (brother_name or "").strip(),
+    "sister": (sister_name or "").strip(),
 }
 
 st.markdown("#### Siblings")
@@ -191,7 +205,7 @@ with col_ws2:
             "Number of questions",
             min_value=1,
             max_value=50,
-            value=5,
+            value=6,
             step=1,
             key="np_num_questions_input",
         )
@@ -307,6 +321,10 @@ with st.expander("Upload Family Photos (for face swapping)", expanded=False):
         ("father", "Dad"),
         ("grandmother", "Grandma"),
         ("grandfather", "Grandad"),
+        ("uncle", "Uncle"),
+        ("aunt", "Aunt"),
+        ("brother", "Brother"),
+        ("sister", "Sister"),
     ]
     fam_cols = st.columns(3)
     for i, (role_key, role_label) in enumerate(family_roles):

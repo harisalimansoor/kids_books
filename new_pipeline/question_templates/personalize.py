@@ -24,7 +24,7 @@ from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
-from PIL import Image, ImageDraw, ImageFilter
+from PIL import Image, ImageChops, ImageDraw, ImageFilter
 
 TEMPLATES_ROOT = Path(__file__).resolve().parent
 PIPELINE_ROOT = TEMPLATES_ROOT.parent  # new_pipeline/
@@ -37,6 +37,7 @@ load_dotenv(dotenv_path=REPO_ROOT / ".env")
 API_KEY = os.getenv("OPENROUTER_API_KEY", "").strip()
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 IMAGE_MODEL = os.getenv("PERSONALIZE_IMAGE_MODEL", "openai/gpt-5-image-mini").strip() or "openai/gpt-5-image-mini"
+USE_AI_HEAD_PATCH = os.getenv("USE_AI_HEAD_PATCH", "").strip().lower() in ("1", "true", "yes")
 
 ROOT = TEMPLATES_ROOT
 
@@ -47,9 +48,9 @@ _REGION_TOP_EXTRA = float(os.getenv("FACE_PASTE_TOP_EXTRA", "0.36"))
 
 
 def _soft_mask(w: int, h: int) -> Image.Image:
-    """Feathered oval — keep most of the real face visible (light inset only)."""
-    inset = max(2, min(w, h) // 18)
-    blur = max(8, min(w, h) // 10)
+    """Feathered oval — soft edge for paste, strong centre for identity."""
+    inset = max(2, min(w, h) // 22)
+    blur = max(10, min(w, h) // 8)
     mask = Image.new("L", (w, h), 0)
     draw = ImageDraw.Draw(mask)
     draw.ellipse((inset, inset, w - inset, h - inset), fill=255)
@@ -176,6 +177,46 @@ def _prepare_face(photo_path: Path, box_w: int, box_h: int) -> Image.Image | Non
     if face is None:
         return None
     return resize_face_keep_aspect(face.convert("RGBA"), box_w, box_h)
+
+
+def _seamless_paste_face(
+    canvas: Image.Image,
+    region: dict,
+    face_rgba: Image.Image,
+) -> Image.Image:
+    """Poisson seamless clone — merges uploaded face into the template naturally."""
+    try:
+        import cv2
+        import numpy as np
+    except ImportError:
+        x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
+        if face_rgba.size != (w, h):
+            from interactive_templates.face_swap import resize_face_keep_aspect
+
+            face_rgba = resize_face_keep_aspect(face_rgba.convert("RGBA"), w, h)
+        out = canvas.convert("RGBA")
+        out.paste(face_rgba, (x, y), _soft_mask(w, h))
+        return out.convert("RGB")
+
+    x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
+    if face_rgba.size != (w, h):
+        from interactive_templates.face_swap import resize_face_keep_aspect
+
+        face_rgba = resize_face_keep_aspect(face_rgba.convert("RGBA"), w, h)
+
+    mask = np.asarray(_soft_mask(w, h))
+    src = cv2.cvtColor(np.asarray(face_rgba.convert("RGB")), cv2.COLOR_RGB2BGR)
+    dst = cv2.cvtColor(np.asarray(canvas.convert("RGB")), cv2.COLOR_RGB2BGR)
+    full_mask = np.zeros(dst.shape[:2], dtype=np.uint8)
+    full_mask[y : y + h, x : x + w] = mask
+    center = (x + w // 2, y + h // 2)
+    try:
+        merged = cv2.seamlessClone(src, dst, full_mask, center, cv2.NORMAL_CLONE)
+    except cv2.error:
+        out = canvas.convert("RGBA")
+        out.paste(face_rgba, (x, y), Image.fromarray(mask))
+        return out.convert("RGB")
+    return Image.fromarray(cv2.cvtColor(merged, cv2.COLOR_BGR2RGB))
 
 
 def _paste_face(
@@ -318,96 +359,131 @@ def _post_image_chat(content: list) -> Image.Image | None:
     return Image.open(BytesIO(raw)).convert("RGB")
 
 
-def _ai_finish_identity_locked(
-    composite: Image.Image,
+def _patch_crop_box(region: dict, canvas_size: tuple[int, int]) -> tuple[int, int, int, int]:
+    """Crop box around one person's head/neck with a little context."""
+    w, h = canvas_size
+    zone = _head_neck_blend_region(region, (w, h))
+    pad = int(max(zone["w"], zone["h"]) * 0.14)
+    x0 = max(0, zone["x"] - pad)
+    y0 = max(0, zone["y"] - pad)
+    x1 = min(w, zone["x"] + zone["w"] + pad)
+    y1 = min(h, zone["y"] + zone["h"] + pad)
+    return x0, y0, x1, y1
+
+
+def _paste_blended_patch(
+    base: Image.Image,
+    patch: Image.Image,
+    box: tuple[int, int, int, int],
+    region: dict,
     *,
-    child_face: Image.Image,
-    adult_face: Image.Image,
-    child_head: Image.Image,
-    adult_head: Image.Image,
-    child_portrait: Image.Image,
-    adult_portrait: Image.Image,
-    adult_role: str,
-    soft_cartoon: bool,
-    child_gender: str = "",
-) -> Image.Image | None:
-    """
-    Seamless face blend with identity refs that include hair + skin.
+    feather: int = 18,
+) -> Image.Image:
+    """Paste an AI-blended head patch back onto the scene."""
+    x0, y0, x1, y1 = box
+    pw, ph = x1 - x0, y1 - y0
+    if patch.size != (pw, ph):
+        patch = patch.resize((pw, ph), Image.Resampling.LANCZOS)
 
-    Hairstyle, hair colour, and skin tone must come from the uploaded photos
-    for each role — not from the template body or a generic boy/girl restyle.
-    """
+    zone = _head_neck_blend_region(region, base.size)
+    rel_zone = {
+        "x": zone["x"] - x0,
+        "y": zone["y"] - y0,
+        "w": zone["w"],
+        "h": zone["h"],
+    }
+    mask = _head_neck_mask((pw, ph), rel_zone, feather=feather)
+
+    out = base.copy()
+    out.paste(patch, (x0, y0), mask)
+    return out
+
+
+def _patch_quality_ok(original: Image.Image, blended: Image.Image, *, max_border_delta: float = 42.0) -> bool:
+    """Reject AI patches that drift too far from the input crop (ghosting / scene rewrite)."""
+    try:
+        import numpy as np
+    except ImportError:
+        return True
+
+    if blended.size != original.size:
+        blended = blended.resize(original.size, Image.Resampling.LANCZOS)
+    o = np.asarray(original.convert("RGB"), dtype=np.float32)
+    b = np.asarray(blended.convert("RGB"), dtype=np.float32)
+    h, w = o.shape[:2]
+    margin = max(4, min(h, w) // 7)
+    border = np.ones((h, w), dtype=bool)
+    border[margin : h - margin, margin : w - margin] = False
+    if not border.any():
+        return True
+    delta = float(np.abs(o - b)[border].mean())
+    return delta <= max_border_delta
+
+
+def _ai_blend_head_patch(
+    base: Image.Image,
+    region: dict,
+    identity_ref: Image.Image,
+    role_label: str,
+) -> Image.Image:
+    """Blend one pasted face locally — avoids full-scene drift and ghosting."""
     if not API_KEY:
-        return None
+        return base
 
-    adult = adult_role.replace("_", " ")
-    gender_hint = (child_gender or "").strip().lower()
-    gender_line = ""
-    if gender_hint in ("boy", "male", "m", "girl", "female", "f"):
-        gender_line = (
-            f"   - Child gender hint from the form: {child_gender}. "
-            "Use this only if the hair in IMAGE 2 is cropped and unclear. "
-            "The uploaded photo always wins over this hint.\n"
-        )
+    box = _patch_crop_box(region, base.size)
+    patch = base.crop(box)
 
-    if soft_cartoon:
-        style_block = """
-5. SOFT STORYBOOK TOUCH (optional, whole scene)
-   - Slightly warmer colours and gentle storybook softness on clothes/background.
-   - Faces, hair, and skin stay photoreal and match the reference people — do NOT cartoon the faces.
-"""
-    else:
-        style_block = """
-5. KEEP PHOTO LOOK
-   - Stay fully photorealistic. Only blend faces/hair/skin into the scene.
-"""
+    prompt = f"""You are blending a pasted face into a photo crop for a children's workbook.
 
-    child_ref = child_portrait or child_head or child_face
-    adult_ref = adult_portrait or adult_head or adult_face
+IMAGE 1 = photo crop showing {role_label} with a pasted face oval.
+IMAGE 2 = reference photo of this same person (face + hairstyle + skin).
 
-    prompt = f"""You are finishing a personalised Grade 1 worksheet photograph.
+TASK: make face, hair, and neck look seamless and natural in IMAGE 1.
 
-IMAGE 1 = scene with two faces PASTED as soft ovals (child LEFT, {adult} RIGHT).
-IMAGE 2 = CHILD photo (face + hairstyle + skin).
-IMAGE 3 = {adult.upper()} photo (face + hairstyle + skin).
-
-GOAL: one seamless photograph. Each person looks like their uploaded photo.
-
-1. FACE: LEFT = IMAGE 2. RIGHT = IMAGE 3. Same eyes, nose, mouth, age. No generic faces.
-2. HAIR: copy IMAGE 2 / IMAGE 3 exactly (cut, length, colour). Erase leftover template hair (ponytails, buns, long hair).
-{gender_line}3. BODY SKIN: neck, arms, hands, fingers must match the FACE skin in IMAGE 2 / IMAGE 3. No two-tone people.
-4. BLEND: remove oval cut edges, halos, and neck seams so it looks like one real photo.
-{style_block}
-6. Keep poses, clothes, object counts. No extra people. No text.
-
-Output ONLY the finished photograph.
+RULES:
+- The person MUST look exactly like IMAGE 2 (same face, hair, skin tone, age).
+- Edit ONLY face, hair, and neck. Do NOT change shirt/clothes below the collar, arms, hands, or background.
+- Remove oval cut edges and neck seams.
+- Keep the same pose, camera angle, and crop framing as IMAGE 1.
+- Do NOT move, shrink, or shift the head.
+- Fully opaque realistic photo — no transparency, no see-through hair, no holes, no sky showing through the head.
+- No text. Output ONLY the finished crop at the same framing as IMAGE 1.
 """.strip()
 
-    content3 = [
-        {"type": "image_url", "image_url": {"url": _image_to_data_url(composite, max_side=1024)}},
-        {"type": "image_url", "image_url": {"url": _image_to_data_url(child_ref, max_side=512)}},
-        {"type": "image_url", "image_url": {"url": _image_to_data_url(adult_ref, max_side=512)}},
+    content = [
+        {"type": "image_url", "image_url": {"url": _image_to_data_url(patch, max_side=768)}},
+        {"type": "image_url", "image_url": {"url": _image_to_data_url(identity_ref, max_side=512)}},
         {"type": "text", "text": prompt},
     ]
-    print("  ✨ Blend pass (scene + 2 identity photos)…")
-    out = _post_image_chat(content3)
-    if out is None:
-        simple = (
-            "Blend the pasted face ovals into this photo so the people look natural. "
-            "Remove cut edges and match neck/hand skin to each pasted face. "
-            "Keep the same two people, poses, clothes, and objects. Output ONLY the image."
-        )
-        content1 = [
-            {"type": "image_url", "image_url": {"url": _image_to_data_url(composite, max_side=1024)}},
-            {"type": "text", "text": simple},
-        ]
-        print("  ✨ Blend fallback (scene only)…")
-        out = _post_image_chat(content1)
-    if out is None:
-        return None
-    if out.size != composite.size:
-        out = out.resize(composite.size, Image.Resampling.LANCZOS)
-    return out
+    blended = _post_image_chat(content)
+    if blended is None or not _patch_quality_ok(patch, blended):
+        if blended is not None:
+            print(f"  ⚠️  Patch rejected for {role_label} (too much drift) — keeping paste")
+        return base
+    return _paste_blended_patch(base, blended, box, region)
+
+
+def _blend_all_heads(
+    paste_base: Image.Image,
+    original_template: Image.Image,
+    child_region: dict,
+    adult_region: dict,
+    *,
+    child_ref: Image.Image,
+    adult_ref: Image.Image,
+    adult_role: str,
+) -> Image.Image:
+    """Per-person head patch blends, then lock foreground objects to template."""
+    result = paste_base.copy()
+    print("  ✨ Head patch blend (child)…")
+    result = _ai_blend_head_patch(result, child_region, child_ref, "child")
+    adult_label = adult_role.replace("_", " ")
+    print(f"  ✨ Head patch blend ({adult_label})…")
+    result = _ai_blend_head_patch(result, adult_region, adult_ref, adult_label)
+
+    w, h = result.size
+    protect = _foreground_protect_mask((w, h))
+    return Image.composite(original_template, result, protect)
 
 
 def soft_cartoon_keep_identity(image: Image.Image) -> Image.Image | None:
@@ -454,6 +530,43 @@ def soft_cartoon_keep_identity(image: Image.Image) -> Image.Image | None:
     return Image.open(BytesIO(raw)).convert("RGB")
 
 
+def _head_neck_blend_region(region: dict, canvas_size: tuple[int, int]) -> dict:
+    """Face + hair + neck only — not torso, arms, hands, or clothes."""
+    cw, ch = canvas_size
+    x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
+    pad_x = int(w * 0.20)
+    top_lift = int(h * 0.10)
+    neck_down = int(h * 0.52)
+    nx = max(0, x - pad_x)
+    ny = max(0, y - top_lift)
+    nx2 = min(cw, x + w + pad_x)
+    ny2 = min(ch, y + h + neck_down)
+    return {"x": nx, "y": ny, "w": max(8, nx2 - nx), "h": max(8, ny2 - ny)}
+
+
+def _head_neck_mask(size: tuple[int, int], region: dict, *, feather: int) -> Image.Image:
+    """Soft oval mask for face + hair + neck."""
+    w, h = size
+    mask = Image.new("L", (w, h), 0)
+    draw = ImageDraw.Draw(mask)
+    x, y, rw, rh = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
+    inset = max(2, min(rw, rh) // 24)
+    draw.ellipse((x + inset, y + inset, x + rw - inset, y + rh - inset), fill=255)
+    if feather > 0:
+        mask = mask.filter(ImageFilter.GaussianBlur(feather))
+    return mask
+
+
+def _foreground_protect_mask(canvas_size: tuple[int, int], *, bottom_frac: float = 0.24) -> Image.Image:
+    """Protect the ground/table strip where countable objects usually sit."""
+    w, h = canvas_size
+    mask = Image.new("L", (w, h), 0)
+    y0 = int(h * (1.0 - bottom_frac))
+    draw = ImageDraw.Draw(mask)
+    draw.rectangle((0, y0, w, h), fill=255)
+    return mask.filter(ImageFilter.GaussianBlur(max(12, h // 40)))
+
+
 def personalize_stem(
     stem_dir: str | Path,
     *,
@@ -485,6 +598,7 @@ def personalize_stem(
         raise ValueError(f"{stem_dir}: adult_role '{adult_role}' not in {allowed}")
 
     image_file = meta.get("image_file") or "template.png"
+    original_template = Image.open(stem_dir / image_file).convert("RGB")
     canvas = Image.open(stem_dir / image_file).convert("RGBA")
 
     regions = {r["role"]: r for r in (meta.get("face_regions") or [])}
@@ -517,6 +631,19 @@ def personalize_stem(
         canvas = _recolor_body_skin(canvas, adult_region, adult_skin)
         print(f"  ✓ {role} body skin → upload face {adult_skin}")
 
+    # Seamless clone for natural face/body merge (replaces sticker-like paste)
+    seamless_base = Image.open(stem_dir / image_file).convert("RGB")
+    if child_skin:
+        seamless_base = _recolor_body_skin(seamless_base.convert("RGBA"), child_region, child_skin).convert("RGB")
+    if adult_skin:
+        seamless_base = _recolor_body_skin(seamless_base.convert("RGBA"), adult_region, adult_skin).convert("RGB")
+    if ok_c and child_face is not None:
+        seamless_base = _seamless_paste_face(seamless_base, child_region, child_face)
+        print("  ✓ Seamless merge (child)")
+    if ok_a and adult_face is not None:
+        seamless_base = _seamless_paste_face(seamless_base, adult_region, adult_face)
+        print(f"  ✓ Seamless merge ({role})")
+
     child_head = crop_upload_head(Path(child_photo)) or child_face
     adult_head = crop_upload_head(Path(adult_photo)) or adult_face
     child_portrait = crop_upload_portrait(Path(child_photo)) or child_head
@@ -524,29 +651,26 @@ def personalize_stem(
     child_face_lock = crop_upload_face(Path(child_photo)) or child_face
     adult_face_lock = crop_upload_face(Path(adult_photo)) or adult_face
 
-    result = canvas.convert("RGB")
-    # Always prefer AI blend when requested — this is what removes sticker look
-    if run_ai_finish and ok_c and ok_a and child_face is not None and adult_face is not None:
-        print(f"  ✨ Seamless blend via {IMAGE_MODEL} (hair+skin from uploads, gender hint={child_gender or 'n/a'})…")
-        finished = _ai_finish_identity_locked(
-            result,
-            child_face=child_face_lock,
-            adult_face=adult_face_lock,
-            child_head=child_head,
-            adult_head=adult_head,
-            child_portrait=child_portrait,
-            adult_portrait=adult_portrait,
+    paste_base = seamless_base
+    if USE_AI_HEAD_PATCH and run_ai_finish and ok_c and ok_a and child_face is not None and adult_face is not None:
+        child_ref = child_portrait or child_head or child_face_lock
+        adult_ref = adult_portrait or adult_head or adult_face_lock
+        print(f"  ✨ Per-person head blend via {IMAGE_MODEL}…")
+        result = _blend_all_heads(
+            paste_base,
+            original_template,
+            child_region,
+            adult_region,
+            child_ref=child_ref,
+            adult_ref=adult_ref,
             adult_role=role,
-            soft_cartoon=soft_cartoon,
-            child_gender=child_gender,
         )
-        if finished is not None:
-            result = finished
-            print("  ✓ Faces blended into template (no sticker re-paste)")
-        else:
-            print("  ⚠️  AI blend failed — keeping paste composite")
-    elif ok_c or ok_a:
-        result = canvas.convert("RGB")
+        print("  ✓ Seamless face swap complete (objects locked to template)")
+    else:
+        w, h = paste_base.size
+        protect = _foreground_protect_mask((w, h))
+        result = Image.composite(original_template, paste_base, protect)
+        print("  ✓ Seamless face swap complete (objects locked to template)")
 
     if out_path is None:
         out_path = stem_dir / f"preview_{adult_role}.png"

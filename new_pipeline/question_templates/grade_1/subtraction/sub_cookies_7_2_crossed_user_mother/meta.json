@@ -33,63 +33,33 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 277,
-      "y": 335,
-      "w": 122,
-      "h": 150,
+      "x": 274,
+      "y": 376,
+      "w": 126,
+      "h": 155,
       "landmarks": {
-        "right_eye": [
-          313,
-          395
-        ],
-        "left_eye": [
-          370,
-          393
-        ],
-        "nose": [
-          341,
-          421
-        ],
-        "mouth_right": [
-          313,
-          445
-        ],
-        "mouth_left": [
-          367,
-          444
-        ]
+        "right_eye": [309, 437],
+        "left_eye": [369, 434],
+        "nose": [341, 470],
+        "mouth_right": [315, 493],
+        "mouth_left": [367, 491]
       },
-      "confidence": 0.949
+      "confidence": 0.947
     },
     {
       "role": "mother",
-      "x": 532,
-      "y": 166,
-      "w": 138,
-      "h": 186,
+      "x": 595,
+      "y": 100,
+      "w": 148,
+      "h": 192,
       "landmarks": {
-        "right_eye": [
-          562,
-          243
-        ],
-        "left_eye": [
-          625,
-          232
-        ],
-        "nose": [
-          598,
-          274
-        ],
-        "mouth_right": [
-          580,
-          306
-        ],
-        "mouth_left": [
-          636,
-          296
-        ]
+        "right_eye": [622, 185],
+        "left_eye": [692, 172],
+        "nose": [660, 222],
+        "mouth_right": [643, 250],
+        "mouth_left": [701, 239]
       },
-      "confidence": 0.935
+      "confidence": 0.939
     }
   ],
   "visual_groups": [
