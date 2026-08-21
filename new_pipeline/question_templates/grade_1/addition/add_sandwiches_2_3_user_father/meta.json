@@ -1,0 +1,150 @@
+{
+  "stem_id": "add_sandwiches_2_3_user_father",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "father_3_sandwiches_child_2_sandwiches_kitchen.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked. Paste child + father faces only."
+  },
+  "interests": {
+    "foods": [
+      "sandwiches"
+    ],
+    "hobbies": [
+      "cooking"
+    ],
+    "notes": "Making sandwiches with father addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 233,
+      "y": 405,
+      "w": 118,
+      "h": 150,
+      "landmarks": {
+        "right_eye": [
+          272,
+          463
+        ],
+        "left_eye": [
+          326,
+          464
+        ],
+        "nose": [
+          300,
+          496
+        ],
+        "mouth_right": [
+          271,
+          514
+        ],
+        "mouth_left": [
+          318,
+          515
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "father",
+      "x": 524,
+      "y": 154,
+      "w": 139,
+      "h": 193,
+      "landmarks": {
+        "right_eye": [
+          562,
+          234
+        ],
+        "left_eye": [
+          619,
+          227
+        ],
+        "nose": [
+          593,
+          270
+        ],
+        "mouth_right": [
+          572,
+          297
+        ],
+        "mouth_left": [
+          629,
+          290
+        ]
+      },
+      "confidence": 0.945
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "sandwiches",
+      "count": 2,
+      "container": "plate"
+    },
+    {
+      "id": "father",
+      "owner": "father",
+      "object_id": "sandwiches",
+      "count": 3,
+      "container": "plate"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "formula": "2+3",
+    "explanation": "2 sandwiches + 3 sandwiches = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 2 child + 3 father."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

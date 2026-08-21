@@ -1,0 +1,145 @@
+{
+  "stem_id": "add_blocks_2_4_user_brother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "brother_4_blocks_child_2_blocks_playroom.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "brother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "brother",
+    "allowed_adult_roles": [
+      "brother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "brother_name": "brother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is brother-locked. Paste child + brother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "building",
+      "blocks"
+    ],
+    "notes": "Building a castle with brother addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 207,
+      "y": 258,
+      "w": 136,
+      "h": 174,
+      "landmarks": {
+        "right_eye": [
+          243,
+          331
+        ],
+        "left_eye": [
+          304,
+          329
+        ],
+        "nose": [
+          275,
+          364
+        ],
+        "mouth_right": [
+          250,
+          388
+        ],
+        "mouth_left": [
+          303,
+          386
+        ]
+      }
+    },
+    {
+      "role": "brother",
+      "x": 677,
+      "y": 164,
+      "w": 141,
+      "h": 178,
+      "landmarks": {
+        "right_eye": [
+          706,
+          237
+        ],
+        "left_eye": [
+          775,
+          226
+        ],
+        "nose": [
+          745,
+          266
+        ],
+        "mouth_right": [
+          724,
+          294
+        ],
+        "mouth_left": [
+          787,
+          284
+        ]
+      }
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "blocks",
+      "count": 2
+    },
+    {
+      "id": "brother",
+      "owner": "brother",
+      "object_id": "blocks",
+      "count": 4
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "6",
+    "options": [
+      "6",
+      "2",
+      "4",
+      "5"
+    ],
+    "formula": "2+4",
+    "explanation": "2 blocks + 4 blocks = 6"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 2 child + 4 brother."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

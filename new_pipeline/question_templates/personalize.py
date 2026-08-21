@@ -24,7 +24,7 @@ from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
-from PIL import Image, ImageChops, ImageDraw, ImageFilter
+from PIL import Image, ImageDraw, ImageFilter
 
 TEMPLATES_ROOT = Path(__file__).resolve().parent
 PIPELINE_ROOT = TEMPLATES_ROOT.parent  # new_pipeline/
@@ -37,20 +37,26 @@ load_dotenv(dotenv_path=REPO_ROOT / ".env")
 API_KEY = os.getenv("OPENROUTER_API_KEY", "").strip()
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 IMAGE_MODEL = os.getenv("PERSONALIZE_IMAGE_MODEL", "openai/gpt-5-image-mini").strip() or "openai/gpt-5-image-mini"
-USE_AI_HEAD_PATCH = os.getenv("USE_AI_HEAD_PATCH", "").strip().lower() in ("1", "true", "yes")
+# Per-face AI polish — off by default (often rewrites crop / refuses identity match).
+# Body proportion is guaranteed by YuNet-sized paste + seamlessClone.
+USE_AI_FACE_PATCH = os.getenv("USE_AI_FACE_PATCH", "0").strip().lower() in ("1", "true", "yes")
 
 ROOT = TEMPLATES_ROOT
 
-# Paste box larger than YuNet so forehead/hair aren't clipped. Extra lift on top
-# so short cuts (bob) cover template hair instead of sitting as a face sticker.
-_REGION_EXPAND = float(os.getenv("FACE_PASTE_EXPAND", "1.38"))
-_REGION_TOP_EXTRA = float(os.getenv("FACE_PASTE_TOP_EXTRA", "0.36"))
+# Paste box ≈ template YuNet face (body-proportional). Modest hair pad only.
+_REGION_EXPAND = float(os.getenv("FACE_PASTE_EXPAND", "1.10"))
+_REGION_TOP_EXTRA = float(os.getenv("FACE_PASTE_TOP_EXTRA", "0.25"))
+_REGION_BOTTOM_EXTRA = float(os.getenv("FACE_PASTE_BOTTOM_EXTRA", "0.10"))
+# Match template face size on the body; 1.0 = exact YuNet face box
+_FACE_BODY_SCALE = float(os.getenv("FACE_BODY_SCALE", "1.0"))
+# Slight head pad so cheeks/hairline cover the drawn head (1.0–1.2)
+_HEAD_VS_FACE = float(os.getenv("FACE_HEAD_VS_FACE", "1.06"))
 
 
 def _soft_mask(w: int, h: int) -> Image.Image:
-    """Feathered oval — soft edge for paste, strong centre for identity."""
-    inset = max(2, min(w, h) // 22)
-    blur = max(10, min(w, h) // 8)
+    """Feathered oval — wide soft rim so edges dissolve into the photo."""
+    inset = max(2, min(w, h) // 16)
+    blur = max(10, min(w, h) // 7)
     mask = Image.new("L", (w, h), 0)
     draw = ImageDraw.Draw(mask)
     draw.ellipse((inset, inset, w - inset, h - inset), fill=255)
@@ -58,15 +64,26 @@ def _soft_mask(w: int, h: int) -> Image.Image:
 
 
 def _expand_region(region: dict, canvas_size: tuple[int, int], scale: float = _REGION_EXPAND) -> dict:
+    """
+    Fit paste box to the template face (YuNet) so head size matches the body.
+
+    Slightly pads for hair on top and chin below; does not blow up the whole head.
+    """
     cw, ch = canvas_size
     x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
     cx, cy = x + w / 2.0, y + h / 2.0
-    nw, nh = w * scale, h * scale
+
+    # First match body face size, then tiny expand + hair/chin pads
+    body_scale = max(0.7, min(1.2, _FACE_BODY_SCALE)) * scale
+    nw, nh = w * body_scale, h * body_scale
     extra_top = h * _REGION_TOP_EXTRA
+    extra_bottom = h * _REGION_BOTTOM_EXTRA
+
     nx = int(round(cx - nw / 2.0))
-    ny = int(round(cy - nh / 2.0 - extra_top / 2.0))
+    # Keep face centred on YuNet face; lift only for hair pad
+    ny = int(round(cy - nh / 2.0 - extra_top * 0.55))
     nw = max(8, int(round(nw)))
-    nh = max(8, int(round(nh + extra_top)))
+    nh = max(8, int(round(nh + extra_top + extra_bottom)))
     nx = max(0, min(nx, cw - nw))
     ny = max(0, min(ny, ch - nh))
     nw = min(nw, cw - nx)
@@ -77,8 +94,168 @@ def _expand_region(region: dict, canvas_size: tuple[int, int], scale: float = _R
 
 
 def _match_lighting(face: Image.Image, canvas: Image.Image, region: dict) -> Image.Image:
-    """Keep uploaded complexion. Do not pull the face toward the template body."""
-    return face
+    """
+    Mild RGB shift toward template neck/cheek colour (no aggressive LAB — that
+    caused green outdoor casts). Enough so the soft paste isn't a colour sticker.
+    """
+    try:
+        import numpy as np
+    except ImportError:
+        return face
+
+    x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
+    cw, ch = canvas.size
+    # Prefer neck band under chin (template skin, not foliage)
+    sx0 = max(0, x + int(0.2 * w))
+    sx1 = min(cw, x + int(0.8 * w))
+    sy0 = min(ch - 4, y + int(0.75 * h))
+    sy1 = min(ch, y + int(1.05 * h))
+    if sx1 - sx0 < 6 or sy1 - sy0 < 4:
+        sx0, sy0 = max(0, x), max(0, y)
+        sx1, sy1 = min(cw, x + w), min(ch, y + h)
+
+    ref = np.asarray(canvas.convert("RGB").crop((sx0, sy0, sx1, sy1)), dtype=np.float32)
+    src_im = face.convert("RGB")
+    fw, fh = src_im.size
+    src = np.asarray(src_im, dtype=np.float32)
+    if fw < 8 or fh < 8 or ref.size < 16:
+        return face
+
+    # Skin-ish ref pixels (avoid green leaves)
+    flat = ref.reshape(-1, 3)
+    r, g, b = flat[:, 0], flat[:, 1], flat[:, 2]
+    skin = (r > 60) & (g > 40) & (b > 30) & (r >= g * 0.85) & (r > b)
+    if int(skin.sum()) >= 20:
+        d_mean = flat[skin].mean(0)
+    else:
+        d_mean = flat.mean(0)
+
+    s_patch = src[fh // 3 : (2 * fh) // 3, fw // 3 : (2 * fw) // 3].reshape(-1, 3)
+    s_mean = s_patch.mean(0)
+    delta = 0.55 * (d_mean - s_mean)
+    adjusted = np.clip(src + delta, 0, 255).astype(np.uint8)
+    out = Image.fromarray(adjusted)
+    if face.mode == "RGBA":
+        out = out.convert("RGBA")
+        alpha = face.split()[-1]
+        if alpha.size != out.size:
+            alpha = alpha.resize(out.size, Image.Resampling.LANCZOS)
+        out.putalpha(alpha)
+    return out
+
+
+def _soft_paste_only(
+    canvas: Image.Image,
+    face: Image.Image,
+    px: int,
+    py: int,
+    mask: Image.Image | None = None,
+) -> Image.Image:
+    """Soft oval paste — AI finish removes the remaining sticker edge."""
+    base = canvas.convert("RGB")
+    fw, fh = face.size
+    if mask is None:
+        mask = _soft_mask(fw, fh)
+    elif mask.size != (fw, fh):
+        mask = mask.resize((fw, fh), Image.Resampling.LANCZOS)
+    out = base.convert("RGBA")
+    fr = face.convert("RGBA")
+    fr.putalpha(mask)
+    out.paste(fr, (px, py), fr)
+    return out.convert("RGB")
+
+
+def _seamless_paste(
+    canvas: Image.Image,
+    face: Image.Image,
+    px: int,
+    py: int,
+    mask: Image.Image | None = None,
+) -> Image.Image:
+    """Alias — local Poisson caused outdoor colour casts; soft paste + AI is used."""
+    return _soft_paste_only(canvas, face, px, py, mask)
+
+
+def _restore_lower_objects(
+    original: Image.Image,
+    blended: Image.Image,
+    *,
+    frac: float = 0.40,
+    feather: float = 0.08,
+) -> Image.Image:
+    """
+    Keep AI-blended faces on top; restore baskets/fruit from the original below.
+
+    Soft vertical feather so the join isn't a hard horizontal cut.
+    """
+    import numpy as np
+
+    a = original.convert("RGB")
+    b = blended.convert("RGB")
+    if b.size != a.size:
+        b = b.resize(a.size, Image.Resampling.LANCZOS)
+    H, W = a.height, a.width
+    aa = np.asarray(a, dtype=np.float32)
+    bb = np.asarray(b, dtype=np.float32)
+
+    y_lock = int(H * (1.0 - frac))
+    y_feather = max(4, int(H * feather))
+    weight = np.ones((H, 1), dtype=np.float32)  # 1 = use blended
+    # Below y_lock+feather → fully original (0)
+    weight[y_lock + y_feather :, :] = 0.0
+    # Feather band
+    for i in range(y_feather):
+        t = (i + 1) / (y_feather + 1)
+        weight[y_lock + i, :] = 1.0 - t
+
+    out = bb * weight[..., None] + aa * (1.0 - weight[..., None])
+    return Image.fromarray(np.clip(out, 0, 255).astype(np.uint8))
+
+
+def _face_only_composite(
+    base: Image.Image,
+    blended: Image.Image,
+    regions: list[dict],
+) -> Image.Image:
+    """
+    Take `blended` only inside face/hair ovals; keep `base` elsewhere.
+
+    `base` should already be the soft-pasted scene (not the raw template with
+    old faces) so the oval core doesn't ghost two different faces together.
+    Objects/clothes outside the ovals stay exactly as in `base`.
+    """
+    import numpy as np
+
+    a_img = base.convert("RGB")
+    b_img = blended.convert("RGB")
+    if b_img.size != a_img.size:
+        b_img = b_img.resize(a_img.size, Image.Resampling.LANCZOS)
+
+    W, H = a_img.size
+    mask = Image.new("L", (W, H), 0)
+    draw = ImageDraw.Draw(mask)
+    for region in regions:
+        x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
+        pad_x = int(0.40 * w)
+        pad_top = int(0.60 * h)
+        pad_bot = int(0.40 * h)
+        x0 = max(0, x - pad_x)
+        y0 = max(0, y - pad_top)
+        x1 = min(W, x + w + pad_x)
+        y1 = min(H, y + h + pad_bot)
+        draw.ellipse((x0, y0, x1, y1), fill=255)
+
+    # Soft rim only — core stays fully blended (no ghost of old face)
+    blur = max(8, min(W, H) // 55)
+    mask = mask.filter(ImageFilter.GaussianBlur(blur))
+    m = np.asarray(mask, dtype=np.float32) / 255.0
+    # Boost interior so midtones aren't a 50/50 ghost
+    m = np.clip(m * 1.35, 0.0, 1.0)
+
+    a = np.asarray(a_img, dtype=np.float32)
+    b = np.asarray(b_img, dtype=np.float32)
+    out = a * (1.0 - m[..., None]) + b * m[..., None]
+    return Image.fromarray(np.clip(out, 0, 255).astype(np.uint8))
 
 
 def _median_skin_rgb(im: Image.Image) -> tuple[int, int, int] | None:
@@ -166,57 +343,160 @@ def _recolor_body_skin(canvas: Image.Image, region: dict, target_rgb: tuple[int,
 
 
 def _prepare_face(photo_path: Path, box_w: int, box_h: int) -> Image.Image | None:
-    from interactive_templates.face_swap import crop_upload_head, resize_face_keep_aspect
+    from interactive_templates.face_swap import crop_upload_face, crop_upload_head, resize_face_keep_aspect
 
-    # Head crop (face + hair + neck) so the paste already carries hairstyle.
-    face = crop_upload_head(photo_path)
+    # Tight face+forehead crop so features fill the body face box.
+    # (Wide head crops leave the face tiny after cover-resize.)
+    face = crop_upload_face(photo_path)
     if face is None:
-        from interactive_templates.face_swap import crop_upload_face
-
-        face = crop_upload_face(photo_path)
+        face = crop_upload_head(photo_path)
     if face is None:
         return None
     return resize_face_keep_aspect(face.convert("RGBA"), box_w, box_h)
 
 
-def _seamless_paste_face(
+def _paste_face_landmark_aligned(
     canvas: Image.Image,
     region: dict,
-    face_rgba: Image.Image,
-) -> Image.Image:
-    """Poisson seamless clone — merges uploaded face into the template naturally."""
-    try:
-        import cv2
-        import numpy as np
-    except ImportError:
-        x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
-        if face_rgba.size != (w, h):
-            from interactive_templates.face_swap import resize_face_keep_aspect
+    photo_path: Path,
+) -> tuple[bool, Image.Image | None]:
+    """
+    Paste upload face sized to the template head on the body.
 
-            face_rgba = resize_face_keep_aspect(face_rgba.convert("RGBA"), w, h)
-        out = canvas.convert("RGBA")
-        out.paste(face_rgba, (x, y), _soft_mask(w, h))
-        return out.convert("RGB")
+    Scales so the upload face fills the YuNet face on the template (same size
+    relative to shoulders/torso), aligned by eye midpoints. Template hair /
+    head outline stay as the body silhouette.
+    """
+    from interactive_templates.face_detect import detect_faces, pick_primary_face
+    from interactive_templates.face_swap import crop_upload_face
+    import math
 
     x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
-    if face_rgba.size != (w, h):
-        from interactive_templates.face_swap import resize_face_keep_aspect
+    tmpl_lm = region.get("landmarks") or {}
 
-        face_rgba = resize_face_keep_aspect(face_rgba.convert("RGBA"), w, h)
+    if not (tmpl_lm.get("left_eye") and tmpl_lm.get("right_eye")):
+        faces = detect_faces(canvas) or []
+        cx, cy = x + w / 2, y + h / 2
+        best = None
+        best_d = 1e18
+        for f in faces:
+            fcx = f["x"] + f["w"] / 2
+            fcy = f["y"] + f["h"] / 2
+            d = (fcx - cx) ** 2 + (fcy - cy) ** 2
+            if d < best_d:
+                best_d = d
+                best = f
+        if best and best.get("landmarks"):
+            tmpl_lm = best["landmarks"]
+            x, y, w, h = int(best["x"]), int(best["y"]), int(best["w"]), int(best["h"])
 
-    mask = np.asarray(_soft_mask(w, h))
-    src = cv2.cvtColor(np.asarray(face_rgba.convert("RGB")), cv2.COLOR_RGB2BGR)
-    dst = cv2.cvtColor(np.asarray(canvas.convert("RGB")), cv2.COLOR_RGB2BGR)
-    full_mask = np.zeros(dst.shape[:2], dtype=np.uint8)
-    full_mask[y : y + h, x : x + w] = mask
-    center = (x + w // 2, y + h // 2)
-    try:
-        merged = cv2.seamlessClone(src, dst, full_mask, center, cv2.NORMAL_CLONE)
-    except cv2.error:
-        out = canvas.convert("RGBA")
-        out.paste(face_rgba, (x, y), Image.fromarray(mask))
-        return out.convert("RGB")
-    return Image.fromarray(cv2.cvtColor(merged, cv2.COLOR_BGR2RGB))
+    upload = Image.open(photo_path).convert("RGBA")
+    up_faces = detect_faces(upload) or []
+    up_primary = pick_primary_face(up_faces, upload.size) if up_faces else None
+
+    if not (tmpl_lm.get("left_eye") and tmpl_lm.get("right_eye") and up_primary and up_primary.get("landmarks")):
+        face = _prepare_face(photo_path, w, h)
+        if face is None:
+            return False, None
+        face = _match_lighting(face, canvas, {"x": x, "y": y, "w": w, "h": h})
+        mask = _soft_mask(face.width, face.height)
+        blended = _seamless_paste(canvas, face, x, y, mask)
+        canvas.paste(blended.convert("RGB") if blended.mode != "RGB" else blended)
+        return True, face
+
+    t_le, t_re = tmpl_lm["left_eye"], tmpl_lm["right_eye"]
+    u_lm = up_primary["landmarks"]
+    u_le, u_re = u_lm["left_eye"], u_lm["right_eye"]
+
+    def dist(a, b):
+        return math.hypot(a[0] - b[0], a[1] - b[1])
+
+    t_iod = max(8.0, dist(t_le, t_re))
+    u_iod = max(8.0, dist(u_le, u_re))
+
+    ux, uy, uw, uh = (
+        int(up_primary["x"]),
+        int(up_primary["y"]),
+        int(up_primary["w"]),
+        int(up_primary["h"]),
+    )
+
+    # Target = template face on the body (+ small pad so cheeks/chin cover)
+    body_scale = max(0.85, min(1.20, _FACE_BODY_SCALE))
+    head_factor = max(1.0, min(1.25, _HEAD_VS_FACE))
+    tw, th = w * head_factor, h * head_factor
+    scale_box = ((tw / max(8.0, uw)) + (th / max(8.0, uh))) / 2.0
+    scale_iod = (t_iod / u_iod) * head_factor
+    scale = (0.75 * scale_box + 0.25 * scale_iod) * body_scale
+
+    # Prefer tight face crop (less bg) so soft oval ≈ face area on the body
+    face_crop = crop_upload_face(photo_path)
+    if face_crop is not None:
+        # Map upload landmarks into face_crop coords via YuNet pad used in crop
+        # crop_upload_face pads around YuNet — re-detect on crop for eye mid
+        crop_faces = detect_faces(face_crop) or []
+        crop_primary = pick_primary_face(crop_faces, face_crop.size) if crop_faces else None
+        if crop_primary and crop_primary.get("landmarks"):
+            head = face_crop.convert("RGBA")
+            c_lm = crop_primary["landmarks"]
+            u_mid = (
+                (c_lm["left_eye"][0] + c_lm["right_eye"][0]) / 2,
+                (c_lm["left_eye"][1] + c_lm["right_eye"][1]) / 2,
+            )
+            # Recompute scale from crop face box vs template
+            cuw, cuh = int(crop_primary["w"]), int(crop_primary["h"])
+            scale_box = ((tw / max(8.0, cuw)) + (th / max(8.0, cuh))) / 2.0
+            c_iod = max(8.0, dist(c_lm["left_eye"], c_lm["right_eye"]))
+            scale_iod = (t_iod / c_iod) * head_factor
+            # Mostly box-match so face area tracks the body head
+            scale = (0.75 * scale_box + 0.25 * scale_iod) * body_scale
+            # Hard clamp: pasted face width ≈ template face width
+            face_w = max(8.0, cuw * scale)
+            scale *= max(0.88, min(1.12, (w * head_factor) / face_w))
+        else:
+            head = None
+    else:
+        head = None
+
+    if head is None:
+        pad_x = int(0.22 * max(uw, uh))
+        pad_top = int(0.40 * uh)
+        pad_bot = int(0.18 * uh)
+        left = max(0, ux - pad_x)
+        top = max(0, uy - pad_top)
+        right = min(upload.width, ux + uw + pad_x)
+        bottom = min(upload.height, uy + uh + pad_bot)
+        head = upload.crop((left, top, right, bottom))
+        u_mid = (
+            ((u_le[0] + u_re[0]) / 2 - left),
+            ((u_le[1] + u_re[1]) / 2 - top),
+        )
+
+    t_mid = ((t_le[0] + t_re[0]) / 2, (t_le[1] + t_re[1]) / 2)
+
+    nw = max(8, int(round(head.width * scale)))
+    nh = max(8, int(round(head.height * scale)))
+    head_s = head.resize((nw, nh), Image.Resampling.LANCZOS)
+    u_mid_s = (u_mid[0] * scale, u_mid[1] * scale)
+
+    px = int(round(t_mid[0] - u_mid_s[0]))
+    py = int(round(t_mid[1] - u_mid_s[1] - 0.02 * nh))
+
+    # Soft oval — interior stays opaque for Poisson; edge is for fallback paste
+    inset = max(2, min(nw, nh) // 14)
+    blur = max(6, min(nw, nh) // 11)
+    mask = Image.new("L", (nw, nh), 0)
+    ImageDraw.Draw(mask).ellipse((inset, inset, nw - inset, nh - inset), fill=255)
+    mask = mask.filter(ImageFilter.GaussianBlur(blur))
+
+    lit = _match_lighting(head_s, canvas, {"x": x, "y": y, "w": w, "h": h})
+    blended = _seamless_paste(canvas, lit, px, py, mask)
+    canvas.paste(blended.convert("RGB") if blended.mode != "RGB" else blended)
+    print(
+        f"  ✓ Body-fit paste scale={scale:.2f} "
+        f"(box={scale_box:.2f} iod={scale_iod:.2f}) -> tmpl {w}x{h}"
+    )
+    return True, lit
 
 
 def _paste_face(
@@ -226,7 +506,7 @@ def _paste_face(
     *,
     prepared: Image.Image | None = None,
 ) -> tuple[bool, Image.Image | None]:
-    """Paste upload face into region. Returns (ok, prepared_rgba_crop)."""
+    """Paste upload face into region with seamless blend. Returns (ok, prepared_rgba_crop)."""
     x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
     face = prepared if prepared is not None else _prepare_face(photo_path, w, h)
     if face is None:
@@ -236,7 +516,12 @@ def _paste_face(
 
         face = resize_face_keep_aspect(face.convert("RGBA"), w, h)
     face = _match_lighting(face, canvas, region)
-    canvas.paste(face, (x, y), _soft_mask(face.width, face.height))
+    mask = _soft_mask(face.width, face.height)
+    blended = _seamless_paste(canvas, face, x, y, mask)
+    if canvas.mode == "RGBA":
+        canvas.paste(blended.convert("RGBA"))
+    else:
+        canvas.paste(blended)
     return True, face
 
 
@@ -359,95 +644,126 @@ def _post_image_chat(content: list) -> Image.Image | None:
     return Image.open(BytesIO(raw)).convert("RGB")
 
 
-def _patch_crop_box(region: dict, canvas_size: tuple[int, int]) -> tuple[int, int, int, int]:
-    """Crop box around one person's head/neck with a little context."""
-    w, h = canvas_size
-    zone = _head_neck_blend_region(region, (w, h))
-    pad = int(max(zone["w"], zone["h"]) * 0.14)
-    x0 = max(0, zone["x"] - pad)
-    y0 = max(0, zone["y"] - pad)
-    x1 = min(w, zone["x"] + zone["w"] + pad)
-    y1 = min(h, zone["y"] + zone["h"] + pad)
-    return x0, y0, x1, y1
-
-
-def _paste_blended_patch(
-    base: Image.Image,
-    patch: Image.Image,
-    box: tuple[int, int, int, int],
-    region: dict,
+def _ai_finish_identity_locked(
+    composite: Image.Image,
     *,
-    feather: int = 18,
-) -> Image.Image:
-    """Paste an AI-blended head patch back onto the scene."""
-    x0, y0, x1, y1 = box
-    pw, ph = x1 - x0, y1 - y0
-    if patch.size != (pw, ph):
-        patch = patch.resize((pw, ph), Image.Resampling.LANCZOS)
+    child_face: Image.Image,
+    adult_face: Image.Image,
+    child_head: Image.Image,
+    adult_head: Image.Image,
+    child_portrait: Image.Image,
+    adult_portrait: Image.Image,
+    adult_role: str,
+    soft_cartoon: bool,
+    child_gender: str = "",
+) -> Image.Image | None:
+    """
+    Seamless face blend with identity refs that include hair + skin.
 
-    zone = _head_neck_blend_region(region, base.size)
-    rel_zone = {
-        "x": zone["x"] - x0,
-        "y": zone["y"] - y0,
-        "w": zone["w"],
-        "h": zone["h"],
-    }
-    mask = _head_neck_mask((pw, ph), rel_zone, feather=feather)
+    Hairstyle, hair colour, and skin tone must come from the uploaded photos
+    for each role — not from the template body or a generic boy/girl restyle.
+    """
+    if not API_KEY:
+        return None
 
-    out = base.copy()
-    out.paste(patch, (x0, y0), mask)
+    adult = adult_role.replace("_", " ")
+    gender_hint = (child_gender or "").strip().lower()
+    gender_line = ""
+    if gender_hint in ("boy", "male", "m", "girl", "female", "f"):
+        gender_line = (
+            f"   - Child gender hint from the form: {child_gender}. "
+            "Use this only if the hair in IMAGE 2 is cropped and unclear. "
+            "The uploaded photo always wins over this hint.\n"
+        )
+
+    if soft_cartoon:
+        style_block = """
+5. KEEP PHOTO LOOK
+   - Stay photoreal. Soften only the face/hair blend — do NOT restyle clothes or background.
+"""
+    else:
+        style_block = """
+5. KEEP PHOTO LOOK
+   - Stay fully photorealistic. Only blend faces/hair into the scene.
+"""
+
+    child_ref = child_portrait or child_head or child_face
+    adult_ref = adult_portrait or adult_head or adult_face
+
+    prompt = f"""You are finishing a personalised Grade 1 worksheet photograph.
+
+IMAGE 1 = scene with two faces PASTED as soft ovals (child LEFT, {adult} RIGHT).
+IMAGE 2 = CHILD photo (face + hairstyle).
+IMAGE 3 = {adult.upper()} photo (face + hairstyle).
+
+GOAL: blend ONLY the faces and hair so each person looks like their upload.
+Keep the rest of IMAGE 1 exactly the same.
+
+1. FACE: LEFT = IMAGE 2. RIGHT = IMAGE 3. Same eyes, nose, mouth, age. No generic faces.
+2. HAIR: copy IMAGE 2 / IMAGE 3 (cut, length, colour). Erase leftover template hair on the head.
+3. SIZE: keep each head the SAME size as in IMAGE 1 — proportional to the body / shoulders.
+   Do NOT enlarge heads (no bobblehead). Do NOT shrink faces into the hair.
+4. BLEND: remove every oval/sticker edge. Match face lighting and skin to the neck already in IMAGE 1.
+   Jaw must connect smoothly into the existing neck — no seam, no floating head.
+{gender_line}5. DO NOT change neck colour, arms, hands, clothes, body skin tone, poses, background, or any objects.
+{style_block}
+6. Exact same object counts, baskets, fruit, toys. No extra people. No text.
+
+Output ONLY the finished photograph.
+""".strip()
+
+    content3 = [
+        {"type": "image_url", "image_url": {"url": _image_to_data_url(composite, max_side=1024)}},
+        {"type": "image_url", "image_url": {"url": _image_to_data_url(child_ref, max_side=512)}},
+        {"type": "image_url", "image_url": {"url": _image_to_data_url(adult_ref, max_side=512)}},
+        {"type": "text", "text": prompt},
+    ]
+    print("  ✨ Blend pass (scene + 2 identity photos)…")
+    out = _post_image_chat(content3)
+    if out is None:
+        simple = (
+            "Blend only the pasted face ovals into this photo. "
+            "Remove cut edges on the faces and hair. "
+            "Do NOT change neck, body, clothes, background, or objects. "
+            "Output ONLY the image."
+        )
+        content1 = [
+            {"type": "image_url", "image_url": {"url": _image_to_data_url(composite, max_side=1024)}},
+            {"type": "text", "text": simple},
+        ]
+        print("  ✨ Blend fallback (scene only)…")
+        out = _post_image_chat(content1)
+    if out is None:
+        return None
+    if out.size != composite.size:
+        out = out.resize(composite.size, Image.Resampling.LANCZOS)
     return out
 
 
-def _patch_quality_ok(original: Image.Image, blended: Image.Image, *, max_border_delta: float = 42.0) -> bool:
-    """Reject AI patches that drift too far from the input crop (ghosting / scene rewrite)."""
-    try:
-        import numpy as np
-    except ImportError:
-        return True
-
-    if blended.size != original.size:
-        blended = blended.resize(original.size, Image.Resampling.LANCZOS)
-    o = np.asarray(original.convert("RGB"), dtype=np.float32)
-    b = np.asarray(blended.convert("RGB"), dtype=np.float32)
-    h, w = o.shape[:2]
-    margin = max(4, min(h, w) // 7)
-    border = np.ones((h, w), dtype=bool)
-    border[margin : h - margin, margin : w - margin] = False
-    if not border.any():
-        return True
-    delta = float(np.abs(o - b)[border].mean())
-    return delta <= max_border_delta
-
-
-def _ai_blend_head_patch(
-    base: Image.Image,
-    region: dict,
+def _ai_blend_face_patch(
+    patch: Image.Image,
     identity_ref: Image.Image,
     role_label: str,
 ) -> Image.Image:
-    """Blend one pasted face locally — avoids full-scene drift and ghosting."""
+    """Blend one face crop. Output is forced back to the exact input size (body proportion)."""
     if not API_KEY:
-        return base
+        return patch
 
-    box = _patch_crop_box(region, base.size)
-    patch = base.crop(box)
+    tw, th = patch.size
+    prompt = f"""You are editing IMAGE 1 only — a face crop already pasted onto a worksheet photo.
 
-    prompt = f"""You are blending a pasted face into a photo crop for a children's workbook.
+IMAGE 1 = the exact crop to edit (keep this framing and head size).
+IMAGE 2 = identity reference (who the person should look like).
 
-IMAGE 1 = photo crop showing {role_label} with a pasted face oval.
-IMAGE 2 = reference photo of this same person (face + hairstyle + skin).
+CRITICAL:
+- Output must be the SAME crop as IMAGE 1 (same zoom, same head size, same shoulders/background edges).
+- Do NOT replace IMAGE 1 with a portrait from IMAGE 2.
+- Do NOT add a circular cutout, studio background, or flag.
+- Only smooth the pasted face oval into IMAGE 1 and match facial features toward IMAGE 2.
+- Keep clothes/background pixels at the edges of IMAGE 1 unchanged.
+- No text. Fully opaque.
 
-TASK: make face, hair, and neck look seamless and natural in IMAGE 1.
-
-RULES:
-- The person MUST look exactly like IMAGE 2 (same face, hair, skin tone, age).
-- Edit ONLY face, hair, and neck. Do NOT change shirt/clothes below the collar, arms, hands, or background.
-- Remove oval cut edges and neck seams.
-- Keep the same pose, camera angle, and crop framing as IMAGE 1.
-- Do NOT move, shrink, or shift the head.
-- Fully opaque realistic photo — no transparency, no see-through hair, no holes, no sky showing through the head.
-- No text. Output ONLY the finished crop at the same framing as IMAGE 1.
+Output ONLY the edited IMAGE 1 crop.
 """.strip()
 
     content = [
@@ -456,34 +772,48 @@ RULES:
         {"type": "text", "text": prompt},
     ]
     blended = _post_image_chat(content)
-    if blended is None or not _patch_quality_ok(patch, blended):
-        if blended is not None:
-            print(f"  ⚠️  Patch rejected for {role_label} (too much drift) — keeping paste")
-        return base
-    return _paste_blended_patch(base, blended, box, region)
+    if blended is None:
+        return patch
+    if blended.size != (tw, th):
+        blended = blended.resize((tw, th), Image.Resampling.LANCZOS)
+
+    # Reject patches that rewrite the crop (e.g. tiny circular portrait)
+    try:
+        import numpy as np
+        o = np.asarray(patch.convert("RGB"), dtype=np.float32)
+        b = np.asarray(blended.convert("RGB"), dtype=np.float32)
+        m = max(2, min(tw, th) // 8)
+        border = np.ones((th, tw), dtype=bool)
+        border[m : th - m, m : tw - m] = False
+        delta = float(np.abs(o - b)[border].mean()) if border.any() else 0.0
+        if delta > 55:
+            print(f"  ⚠️  {role_label} patch rejected (rewrote crop, delta={delta:.0f}) — keeping paste")
+            return patch
+    except Exception:
+        pass
+    return blended
 
 
-def _blend_all_heads(
-    paste_base: Image.Image,
-    original_template: Image.Image,
-    child_region: dict,
-    adult_region: dict,
-    *,
-    child_ref: Image.Image,
-    adult_ref: Image.Image,
-    adult_role: str,
+def _seamless_face_onto_template(
+    template: Image.Image,
+    patch: Image.Image,
+    region: dict,
 ) -> Image.Image:
-    """Per-person head patch blends, then lock foreground objects to template."""
-    result = paste_base.copy()
-    print("  ✨ Head patch blend (child)…")
-    result = _ai_blend_head_patch(result, child_region, child_ref, "child")
-    adult_label = adult_role.replace("_", " ")
-    print(f"  ✨ Head patch blend ({adult_label})…")
-    result = _ai_blend_head_patch(result, adult_region, adult_ref, adult_label)
+    """Poisson-blend a body-fit face patch into the original template."""
+    x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
+    if patch.size != (w, h):
+        patch = patch.resize((w, h), Image.Resampling.LANCZOS)
+    patch = _match_lighting(patch, template, region)
+    return _seamless_paste(template, patch, x, y, _soft_mask(w, h))
 
-    w, h = result.size
-    protect = _foreground_protect_mask((w, h))
-    return Image.composite(original_template, result, protect)
+
+def _paste_face_patch_on_template(
+    template: Image.Image,
+    patch: Image.Image,
+    region: dict,
+) -> Image.Image:
+    """Blend a body-fit face patch onto the original template (seamless when possible)."""
+    return _seamless_face_onto_template(template, patch, region)
 
 
 def soft_cartoon_keep_identity(image: Image.Image) -> Image.Image | None:
@@ -530,43 +860,6 @@ def soft_cartoon_keep_identity(image: Image.Image) -> Image.Image | None:
     return Image.open(BytesIO(raw)).convert("RGB")
 
 
-def _head_neck_blend_region(region: dict, canvas_size: tuple[int, int]) -> dict:
-    """Face + hair + neck only — not torso, arms, hands, or clothes."""
-    cw, ch = canvas_size
-    x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
-    pad_x = int(w * 0.20)
-    top_lift = int(h * 0.10)
-    neck_down = int(h * 0.52)
-    nx = max(0, x - pad_x)
-    ny = max(0, y - top_lift)
-    nx2 = min(cw, x + w + pad_x)
-    ny2 = min(ch, y + h + neck_down)
-    return {"x": nx, "y": ny, "w": max(8, nx2 - nx), "h": max(8, ny2 - ny)}
-
-
-def _head_neck_mask(size: tuple[int, int], region: dict, *, feather: int) -> Image.Image:
-    """Soft oval mask for face + hair + neck."""
-    w, h = size
-    mask = Image.new("L", (w, h), 0)
-    draw = ImageDraw.Draw(mask)
-    x, y, rw, rh = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
-    inset = max(2, min(rw, rh) // 24)
-    draw.ellipse((x + inset, y + inset, x + rw - inset, y + rh - inset), fill=255)
-    if feather > 0:
-        mask = mask.filter(ImageFilter.GaussianBlur(feather))
-    return mask
-
-
-def _foreground_protect_mask(canvas_size: tuple[int, int], *, bottom_frac: float = 0.24) -> Image.Image:
-    """Protect the ground/table strip where countable objects usually sit."""
-    w, h = canvas_size
-    mask = Image.new("L", (w, h), 0)
-    y0 = int(h * (1.0 - bottom_frac))
-    draw = ImageDraw.Draw(mask)
-    draw.rectangle((0, y0, w, h), fill=255)
-    return mask.filter(ImageFilter.GaussianBlur(max(12, h // 40)))
-
-
 def personalize_stem(
     stem_dir: str | Path,
     *,
@@ -579,9 +872,8 @@ def personalize_stem(
     child_gender: str = "",
 ) -> Path:
     """
-    Paste upload faces onto the stem, then AI-blend them into the photo.
-    Hairstyle is copied from each upload. Body skin (neck, arms, hands) is
-    recoloured to match that person's uploaded face. No final re-paste.
+    Paste upload faces onto the stem, AI-blend face/hair only, keep the rest
+    of the original template unchanged (skin tone, body, clothes, objects).
     """
     stem_dir = Path(stem_dir)
     meta = json.loads((stem_dir / "meta.json").read_text(encoding="utf-8"))
@@ -599,7 +891,6 @@ def personalize_stem(
 
     image_file = meta.get("image_file") or "template.png"
     original_template = Image.open(stem_dir / image_file).convert("RGB")
-    canvas = Image.open(stem_dir / image_file).convert("RGBA")
 
     regions = {r["role"]: r for r in (meta.get("face_regions") or [])}
     adult_region = regions.get(role) or regions.get(locked) or regions.get("adult")
@@ -609,8 +900,42 @@ def personalize_stem(
             f"'{role or locked or 'adult'}' (template_adult_role)"
         )
 
-    child_region = _expand_region(regions["child"], canvas.size)
-    adult_region = _expand_region(adult_region, canvas.size)
+    # Live YuNet boxes + landmarks — size faces by eye distance to match body head
+    from interactive_templates.face_detect import detect_faces
+
+    live_faces = detect_faces(original_template) or []
+
+    def _nearest_live(fallback: dict) -> dict | None:
+        if not live_faces:
+            return None
+        cx = fallback["x"] + fallback["w"] / 2
+        cy = fallback["y"] + fallback["h"] / 2
+        return min(
+            live_faces,
+            key=lambda f: (f["x"] + f["w"] / 2 - cx) ** 2 + (f["y"] + f["h"] / 2 - cy) ** 2,
+        )
+
+    def _region_with_landmarks(fallback: dict) -> dict:
+        r = dict(fallback)
+        live = _nearest_live(fallback)
+        if live:
+            r.update({
+                "x": int(live["x"]),
+                "y": int(live["y"]),
+                "w": int(live["w"]),
+                "h": int(live["h"]),
+            })
+            if live.get("landmarks"):
+                r["landmarks"] = live["landmarks"]
+        # Keep YuNet box for landmark paste (no expand) — scale comes from eyes
+        return r
+
+    child_region = _region_with_landmarks(regions["child"])
+    adult_region = _region_with_landmarks(adult_region)
+    print(
+        f"  ✓ Face boxes (body-fit): child={child_region['w']}x{child_region['h']} "
+        f"{role}={adult_region['w']}x{adult_region['h']}"
+    )
 
     from interactive_templates.face_swap import (
         crop_upload_face,
@@ -618,31 +943,13 @@ def personalize_stem(
         crop_upload_portrait,
     )
 
-    ok_c, child_face = _paste_face(canvas, child_region, Path(child_photo))
-    ok_a, adult_face = _paste_face(canvas, adult_region, Path(adult_photo))
+    # Soft paste (body-fit) then AI edge-blend; face-only composite locks objects
+    work = original_template.convert("RGB")
+    ok_c, child_face = _paste_face_landmark_aligned(work, child_region, Path(child_photo))
+    ok_a, adult_face = _paste_face_landmark_aligned(work, adult_region, Path(adult_photo))
     print(f"  ✓ Pasted child={ok_c} {role}={ok_a}")
 
-    child_skin = _median_skin_rgb(child_face) if child_face is not None else None
-    adult_skin = _median_skin_rgb(adult_face) if adult_face is not None else None
-    if child_skin:
-        canvas = _recolor_body_skin(canvas, child_region, child_skin)
-        print(f"  ✓ Child body skin → upload face {child_skin}")
-    if adult_skin:
-        canvas = _recolor_body_skin(canvas, adult_region, adult_skin)
-        print(f"  ✓ {role} body skin → upload face {adult_skin}")
-
-    # Seamless clone for natural face/body merge (replaces sticker-like paste)
-    seamless_base = Image.open(stem_dir / image_file).convert("RGB")
-    if child_skin:
-        seamless_base = _recolor_body_skin(seamless_base.convert("RGBA"), child_region, child_skin).convert("RGB")
-    if adult_skin:
-        seamless_base = _recolor_body_skin(seamless_base.convert("RGBA"), adult_region, adult_skin).convert("RGB")
-    if ok_c and child_face is not None:
-        seamless_base = _seamless_paste_face(seamless_base, child_region, child_face)
-        print("  ✓ Seamless merge (child)")
-    if ok_a and adult_face is not None:
-        seamless_base = _seamless_paste_face(seamless_base, adult_region, adult_face)
-        print(f"  ✓ Seamless merge ({role})")
+    result = work
 
     child_head = crop_upload_head(Path(child_photo)) or child_face
     adult_head = crop_upload_head(Path(adult_photo)) or adult_face
@@ -651,26 +958,64 @@ def personalize_stem(
     child_face_lock = crop_upload_face(Path(child_photo)) or child_face
     adult_face_lock = crop_upload_face(Path(adult_photo)) or adult_face
 
-    paste_base = seamless_base
-    if USE_AI_HEAD_PATCH and run_ai_finish and ok_c and ok_a and child_face is not None and adult_face is not None:
+    if run_ai_finish and API_KEY and ok_c and ok_a and child_face is not None and adult_face is not None:
+        ai = _ai_finish_identity_locked(
+            result,
+            child_face=child_face_lock or child_face,
+            adult_face=adult_face_lock or adult_face,
+            child_head=child_head or child_face,
+            adult_head=adult_head or adult_face,
+            child_portrait=child_portrait or child_head or child_face,
+            adult_portrait=adult_portrait or adult_head or adult_face,
+            adult_role=role,
+            soft_cartoon=soft_cartoon,
+            child_gender=child_gender,
+        )
+        if ai is not None:
+            # Full AI for seamless faces; restore only the very bottom (baskets/fruit)
+            result = _restore_lower_objects(original_template, ai, frac=0.26, feather=0.05)
+            print("  ✓ AI seamless face blend (fruit/baskets restored from template)")
+        else:
+            print("  ⚠️  AI blend skipped — keeping soft paste")
+    elif run_ai_finish and USE_AI_FACE_PATCH:
         child_ref = child_portrait or child_head or child_face_lock
         adult_ref = adult_portrait or adult_head or adult_face_lock
-        print(f"  ✨ Per-person head blend via {IMAGE_MODEL}…")
-        result = _blend_all_heads(
-            paste_base,
-            original_template,
-            child_region,
-            adult_region,
-            child_ref=child_ref,
-            adult_ref=adult_ref,
-            adult_role=role,
-        )
-        print("  ✓ Seamless face swap complete (objects locked to template)")
-    else:
-        w, h = paste_base.size
-        protect = _foreground_protect_mask((w, h))
-        result = Image.composite(original_template, paste_base, protect)
-        print("  ✓ Seamless face swap complete (objects locked to template)")
+
+        paste_composite = result
+        result = original_template.copy()
+
+        def _region_patch(base: Image.Image, region: dict):
+            rx, ry, rw, rh = (
+                int(region["x"]),
+                int(region["y"]),
+                int(region["w"]),
+                int(region["h"]),
+            )
+            pad = int(0.35 * max(rw, rh))
+            rx0 = max(0, rx - pad)
+            ry0 = max(0, ry - pad)
+            rx1 = min(base.width, rx + rw + pad)
+            ry1 = min(base.height, ry + rh + pad)
+            return base.crop((rx0, ry0, rx1, ry1)), {
+                "x": rx0,
+                "y": ry0,
+                "w": rx1 - rx0,
+                "h": ry1 - ry0,
+            }
+
+        if ok_c and child_face is not None:
+            child_patch, child_box = _region_patch(paste_composite, child_region)
+            print("  ✨ Body-fit face blend (child)…")
+            child_patch = _ai_blend_face_patch(child_patch, child_ref, "child")
+            result = _paste_face_patch_on_template(result, child_patch, child_box)
+
+        if ok_a and adult_face is not None:
+            adult_patch, adult_box = _region_patch(paste_composite, adult_region)
+            print(f"  ✨ Body-fit face blend ({role})…")
+            adult_patch = _ai_blend_face_patch(adult_patch, adult_ref, role.replace("_", " "))
+            result = _paste_face_patch_on_template(result, adult_patch, adult_box)
+
+    print("  ✓ Faces blended into scene; rest of template unchanged")
 
     if out_path is None:
         out_path = stem_dir / f"preview_{adult_role}.png"
