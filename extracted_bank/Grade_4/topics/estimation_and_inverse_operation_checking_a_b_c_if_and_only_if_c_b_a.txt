@@ -1,0 +1,46 @@
+=== Topic: Estimation and inverse operation checking (A - B = C if and only if C + B = A) ===
+Domain: Addition and Subtraction
+
+--- Estimation ---
+
+Question 1: Estimate the answer to $3812 + 4195$ by rounding each number to the nearest 1000.
+Answer: 8000
+Working: 3812 rounds to 4000 to the nearest 1000. 4195 rounds to 4000 to the nearest 1000. 4000 + 4000 = 8000.
+
+Question 2: Estimate the answer to $6738 - 2481$ by rounding each number to the nearest 100.
+Answer: 4200
+Working: 6738 rounds to 6700 to the nearest 100. 2481 rounds to 2500 to the nearest 100. 6700 - 2500 = 4200.
+
+Question 3: A library has 2184 fiction books and 1327 non-fiction books. Estimate the total number of books by rounding each value to the nearest 100.
+Answer: 3500
+Working: 2184 rounds to 2200 to the nearest 100. 1327 rounds to 1300 to the nearest 100. 2200 + 1300 = 3500.
+
+Question 4: Estimate the value of $5376 - 1824$ by rounding each number to the nearest 10.
+Answer: 3560
+Working: 5376 rounds to 5380 to the nearest 10. 1824 rounds to 1820 to the nearest 10. 5380 - 1820 = 3560.
+
+Question 5: A factory makes 4875 toy cars on Thursday and 3120 toy cars on Friday. Estimate how many more cars were made on Thursday than Friday by rounding each number to the nearest 1000.
+Answer: 2000
+Working: 4875 rounds to 5000 to the nearest 1000. 3120 rounds to 3000 to the nearest 1000. 5000 - 3000 = 2000.
+
+--- Inverse operation checking ---
+
+Question 6: A student works out that $6582 - 2341 = 4241$. Write an addition calculation using these three numbers to check the subtraction.
+Answer: 4241 + 2341 = 6582
+Working: The inverse of subtraction is addition: adding the difference to the subtrahend gives the minuend, so 4241 + 2341 = 6582 (or 2341 + 4241 = 6582).
+
+Question 7: Write a subtraction calculation using the same numbers that can be used to check $3245 + 1680 = 4925$.
+Answer: 4925 - 1680 = 3245
+Working: The inverse of addition is subtraction: 4925 - 1680 = 3245 (or 4925 - 3245 = 1680).
+
+Question 8: Oliver calculated that $5000 - 1835 = 3165$. Use the inverse operation of addition to check his working. What is the value of $3165 + 1835$?
+Answer: 5000
+Working: 3165 + 1835 = 5000. Since the sum equals 5000, Oliver's calculation is verified.
+
+Question 9: A shop had 4320 bottles of water. After selling some bottles, 1585 bottles remain. The shopkeeper calculates that $4320 - 1585 = 2735$ bottles were sold. Check this result by working out $2735 + 1585$.
+Answer: 4320
+Working: 2735 + 1585 = 4320.
+
+Question 10: Use the inverse calculation to find the missing number: $\square - 2468 = 3519$.
+Answer: 5987
+Working: Using the inverse operation, missing number = 3519 + 2468 = 5987.

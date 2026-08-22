@@ -1,0 +1,1235 @@
+###################################
+Perimeter of rectilinear shapes in cm and m
+###################################
+
+--- Perimeter of rectilinear shapes in cm and m ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+2. Look at the picture! {grandfather_name} is looking at this.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+3. Look at the picture! {mother_name} is looking at this.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+4. Look at the picture! {father_name} is looking at this.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+5. Look at the picture! {sibling_name} is looking at this.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+6. Look at the picture! {user_name} is looking at this.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A rectangle has a length of $14\text{ cm}$ and a width of $6\text{ cm}$. What is the perimeter of the rectangle?
+
+42. Look at the picture! {grandmother_name} is looking at this.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+43. Look at the picture! {grandfather_name} is looking at this.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+44. Look at the picture! {mother_name} is looking at this.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+45. Look at the picture! {father_name} is looking at this.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+46. Look at the picture! {sibling_name} is looking at this.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+47. Look at the picture! {user_name} is looking at this.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A square playground has sides of length $18\text{ m}$. Calculate the perimeter of the playground.
+
+83. Look at the picture! {grandmother_name} is looking at this.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+85. Look at the picture! {mother_name} is looking at this.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+86. Look at the picture! {father_name} is looking at this.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+87. Look at the picture! {sibling_name} is looking at this.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+88. Look at the picture! {user_name} is looking at this.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+An L-shaped rectilinear room has six sides. Starting from the top horizontal edge and going clockwise, the side lengths are $9\text{ m}$, $4\text{ m}$, $3\text{ m}$, $5\text{ m}$, $6\text{ m}$, and $9\text{ m}$. What is the perimeter of the room?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+126. Look at the picture! {mother_name} is looking at this.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+127. Look at the picture! {father_name} is looking at this.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+128. Look at the picture! {sibling_name} is looking at this.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+129. Look at the picture! {user_name} is looking at this.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The perimeter of a square tile is $36\text{ cm}$. What is the length of one side of the tile?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+166. Look at the picture! {grandfather_name} is looking at this.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+167. Look at the picture! {mother_name} is looking at this.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+168. Look at the picture! {father_name} is looking at this.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+169. Look at the picture! {sibling_name} is looking at this.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+170. Look at the picture! {user_name} is looking at this.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+An L-shaped rectilinear shape has a total horizontal width of $12\text{ cm}$ along the bottom and a total vertical height of $10\text{ cm}$ on the left. The top horizontal edge is $7\text{ cm}$ and the far right vertical edge is $4\text{ cm}$. Calculate the perimeter of the shape.
+
+206. Look at the picture! {grandmother_name} is looking at this.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+207. Look at the picture! {grandfather_name} is looking at this.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+208. Look at the picture! {mother_name} is looking at this.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+209. Look at the picture! {father_name} is looking at this.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+210. Look at the picture! {sibling_name} is looking at this.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+211. Look at the picture! {user_name} is looking at this.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A rectangle has a perimeter of $48\text{ cm}$. Its length is $16\text{ cm}$. What is the width of the rectangle?
+
+247. Look at the picture! {grandmother_name} is looking at this.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+248. Look at the picture! {grandfather_name} is looking at this.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+249. Look at the picture! {mother_name} is looking at this.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+250. Look at the picture! {father_name} is looking at this.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+251. Look at the picture! {sibling_name} is looking at this.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+252. Look at the picture! {user_name} is looking at this.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A rectilinear garden has an overall length of $15\text{ m}$ along the bottom and an overall height of $11\text{ m}$ along the left side. The top edge is $8\text{ m}$ and the right-hand edge is $6\text{ m}$. A corner is indented with two inner perpendicular edges. What is the total perimeter of the garden?
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+290. Look at the picture! {mother_name} is looking at this.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+291. Look at the picture! {father_name} is looking at this.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+292. Look at the picture! {sibling_name} is looking at this.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+293. Look at the picture! {user_name} is looking at this.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Shape A is a rectangle measuring $9\text{ m}$ by $5\text{ m}$. Shape B is a square with the exact same perimeter as Shape A. What is the length of one side of Shape B?
+
+329. Look at the picture! {grandmother_name} is looking at this.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+331. Look at the picture! {mother_name} is looking at this.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+332. Look at the picture! {father_name} is looking at this.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+333. Look at the picture! {sibling_name} is looking at this.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+334. Look at the picture! {user_name} is looking at this.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical rectangles, each with a length of $12\text{ cm}$ and a width of $5\text{ cm}$, are joined end-to-end along their shorter sides to make one longer rectangle. What is the perimeter of the new shape?
+
+370. Look at the picture! {grandmother_name} is looking at this.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+371. Look at the picture! {grandfather_name} is looking at this.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+372. Look at the picture! {mother_name} is looking at this.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+373. Look at the picture! {father_name} is looking at this.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+374. Look at the picture! {sibling_name} is looking at this.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+375. Look at the picture! {user_name} is looking at this.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A rectilinear shape is made by placing a small square with sides of $4\text{ cm}$ on top of a rectangle measuring $10\text{ cm}$ by $6\text{ cm}$, so that one side of the square rests along the middle of the $10\text{ cm}$ top side. What is the perimeter of the combined rectilinear shape?

@@ -1,0 +1,68 @@
+=== Topic: Isosceles triangles (acute dual-solution vs obtuse single-solution; embedded in rectangles); polygon interior angle sums ((n-2) x 180^ degrees); composite shapes meeting at a point (pentagon 108^ degrees + equilateral triangle 60^ degrees \implies 192^ degrees) ===
+Domain: Geometry: Properties of Shapes
+
+--- Isosceles triangles (acute dual-solution vs obtuse single-solution; embedded in rectangles) ---
+
+Question 1: An isosceles triangle has one angle of 110°. What are the sizes of the other two angles?
+Answer: 35° and 35°
+Working: The angles in a triangle sum to 180°. Since 110° is obtuse, it must be the angle between the two equal sides. 180° - 110° = 70°. The two equal base angles are 70° ÷ 2 = 35° each.
+
+Question 2: An isosceles triangle contains an angle of 40°. Find the two different possible sets of three angles for this triangle.
+Answer: 40°, 40°, 100° and 40°, 70°, 70°
+Working: Case 1: 40° is one of the two equal base angles. The third angle is 180° - (40° + 40°) = 100°, giving angles 40°, 40°, 100°. Case 2: 40° is the angle between the two equal sides. The remaining angles are (180° - 40°) ÷ 2 = 140° ÷ 2 = 70°, giving angles 40°, 70°, 70°.
+
+Question 3: An isosceles triangle has an angle of 50° between its two equal sides. Calculate the size of each of the other two angles.
+Answer: 65°
+Working: Angles in a triangle add up to 180°. 180° - 50° = 130°. Since the remaining two angles are equal, each angle is 130° ÷ 2 = 65°.
+
+Question 4: An isosceles triangle ABE is drawn inside a rectangle ABCD. The base AB lies along the bottom edge of the rectangle, and vertex E lies on the top edge CD. Side AE is equal in length to side BE. If angle AEB is 74°, calculate the size of angle EAB.
+Answer: 53°
+Working: In isosceles triangle ABE, the angles sum to 180°. Angle AEB = 74°. The two base angles EAB and EBA are equal. 180° - 74° = 106°. Angle EAB = 106° ÷ 2 = 53°.
+
+Question 5: An isosceles triangle is drawn inside a rectangle. The base of the triangle lies along one edge of the rectangle, and the two equal base angles each measure 68°. Calculate the size of the third angle of the triangle.
+Answer: 44°
+Working: The two equal base angles sum to 68° + 68° = 136°. Angles in a triangle total 180°. The third angle is 180° - 136° = 44°.
+
+--- Polygon interior angle sums ((n-2) × 180^°) ---
+
+Question 6: Use the formula (n - 2) × 180° to calculate the sum of the interior angles of a hexagon (a 6-sided polygon).
+Answer: 720°
+Working: For a hexagon, n = 6. Sum of interior angles = (6 - 2) × 180° = 4 × 180° = 720°.
+
+Question 7: A regular pentagon has 5 sides. Calculate the total sum of its interior angles.
+Answer: 540°
+Working: For a 5-sided polygon, the interior angle sum is (5 - 2) × 180° = 3 × 180° = 540°.
+
+Question 8: A regular hexagon has 6 equal sides and an interior angle sum of 720°. What is the size of each interior angle?
+Answer: 120°
+Working: In a regular hexagon, all 6 interior angles are equal. 720° ÷ 6 = 120°.
+
+Question 9: An octagon is an 8-sided polygon. Calculate the size of each interior angle of a regular octagon.
+Answer: 135°
+Working: Total interior angle sum = (8 - 2) × 180° = 6 × 180° = 1080°. Each angle of a regular octagon = 1080° ÷ 8 = 135°.
+
+Question 10: The sum of the interior angles of a polygon is 900°. How many sides does this polygon have?
+Answer: 7
+Working: Using the formula (n - 2) × 180° = 900°, divide by 180°: 900° ÷ 180° = 5 triangles. Then n - 2 = 5, so n = 5 + 2 = 7 sides.
+
+--- Composite shapes meeting at a point (pentagon 108^° + equilateral triangle 60^° \implies 192^°) ---
+
+Question 11: A regular pentagon (interior angle 108°) and an equilateral triangle (interior angle 60°) meet at a point without overlapping. What is the size of the remaining angle around the point?
+Answer: 192°
+Working: Angles around a point total 360°. The sum of the two interior angles is 108° + 60° = 168°. The missing angle is 360° - 168° = 192°.
+
+Question 12: A regular hexagon (interior angle 120°) and a square (interior angle 90°) meet at a single vertex without overlapping. Calculate the size of the remaining angle around that vertex.
+Answer: 150°
+Working: Angles around a point sum to 360°. 120° + 90° = 210°. 360° - 210° = 150°.
+
+Question 13: A regular octagon (interior angle 135°) and a square (interior angle 90°) share a common vertex. What is the size of the reflex angle formed around the shared vertex outside the two shapes?
+Answer: 135°
+Working: Angles around a point add up to 360°. The combined angle of the two shapes is 135° + 90° = 225°. The remaining angle is 360° - 225° = 135°.
+
+Question 14: Two identical regular pentagons share a single vertex with an angle a around a point without overlapping. Each regular pentagon has an interior angle of 108°. Calculate the size of angle a.
+Answer: 144°
+Working: Angles around a point total 360°. The two pentagon angles sum to 108° + 108° = 216°. Angle a = 360° - 216° = 144°.
+
+Question 15: A regular hexagon (interior angle 120°), an equilateral triangle (interior angle 60°), and a square (interior angle 90°) all meet at a single point without overlapping. What is the size of the remaining angle around this point?
+Answer: 90°
+Working: Angles around a point sum to 360°. Total of given angles = 120° + 60° + 90° = 270°. Remaining angle = 360° - 270° = 90°.

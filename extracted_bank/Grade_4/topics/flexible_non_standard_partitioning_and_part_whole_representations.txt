@@ -1,0 +1,50 @@
+=== Topic: Flexible non-standard partitioning and part-whole representations ===
+Domain: Number and Place Value
+
+--- Flexible non-standard partitioning ---
+
+Question 1: A 4-digit number is partitioned into 24 hundreds, 5 tens, and 8 ones. What is the number?
+Answer: 2458
+Working: 24 hundreds = 2,400. 5 tens = 50. 8 ones = 8. 2,400 + 50 + 8 = 2,458.
+
+Question 2: Fill in the missing number to make the statement correct: 5,280 = 4 thousands + ___ hundreds + 8 tens.
+Answer: 12
+Working: 5,280 = 4,000 + 1,200 + 80. 1,200 is 12 hundreds.
+
+Question 3: Complete the calculation: 3,745 = 3,000 + 600 + ___ + 5
+Answer: 140
+Working: 3,000 + 600 + 5 = 3,605. 3,745 - 3,605 = 140.
+
+Question 4: Write the missing number to complete the partition: 6,420 = 5,000 + 1,300 + ___
+Answer: 120
+Working: 5,000 + 1,300 = 6,300. 6,420 - 6,300 = 120.
+
+Question 5: A number is partitioned into 35 hundreds and 64 ones. What is the total number?
+Answer: 3564
+Working: 35 hundreds = 3,500. 64 ones = 64. 3,500 + 64 = 3,564.
+
+Question 6: A 4-digit number has 7 thousands, 13 tens, and 9 ones. What is the value of the number?
+Answer: 7139
+Working: 7 thousands = 7,000. 13 tens = 130. 9 ones = 9. 7,000 + 130 + 9 = 7,139.
+
+--- Part-whole representations ---
+
+Question 7: In a part-whole model, the whole is 4,320. Two of the parts are 3,000 and 1,200. What is the value of the third part?
+Answer: 120
+Working: 3,000 + 1,200 = 4,200. 4,320 - 4,200 = 120.
+
+Question 8: In a part-whole model, the whole is 7,850. It is split into two parts. One part is 3,500. What is the other part?
+Answer: 4350
+Working: 7,850 - 3,500 = 4,350.
+
+Question 9: A part-whole model has three parts: 18 hundreds, 14 tens, and 7 ones. What is the value of the whole?
+Answer: 1947
+Working: 18 hundreds = 1,800. 14 tens = 140. 7 ones = 7. 1,800 + 140 + 7 = 1,947.
+
+Question 10: A part-whole model has a whole of 6,500. It is split into four parts: 4,000, 2,000, 450, and one missing part. What is the value of the missing part?
+Answer: 50
+Working: 4,000 + 2,000 + 450 = 6,450. 6,500 - 6,450 = 50.
+
+Question 11: In a part-whole diagram, the whole is 5,016. Three of the parts are 4,000, 900, and 100. What is the value of the fourth part?
+Answer: 16
+Working: 4,000 + 900 + 100 = 5,000. 5,016 - 5,000 = 16.

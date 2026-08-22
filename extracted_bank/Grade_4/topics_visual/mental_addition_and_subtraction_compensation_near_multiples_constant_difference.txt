@@ -1,0 +1,1608 @@
+###################################
+Mental addition and subtraction (compensation, near-multiples, constant difference)
+###################################
+
+--- Compensation ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+Use mental compensation to calculate 456 + 199.
+
+2. Look at the picture! {grandfather_name} is looking at this.
+Use mental compensation to calculate 456 + 199.
+
+3. Look at the picture! {mother_name} is looking at this.
+Use mental compensation to calculate 456 + 199.
+
+4. Look at the picture! {father_name} is looking at this.
+Use mental compensation to calculate 456 + 199.
+
+5. Look at the picture! {sibling_name} is looking at this.
+Use mental compensation to calculate 456 + 199.
+
+6. Look at the picture! {user_name} is looking at this.
+Use mental compensation to calculate 456 + 199.
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 456 + 199.
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Use mental compensation to calculate 734 - 298.
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Use mental compensation to calculate 734 - 298.
+
+44. Look at the picture! {mother_name} is looking at this.
+Use mental compensation to calculate 734 - 298.
+
+45. Look at the picture! {father_name} is looking at this.
+Use mental compensation to calculate 734 - 298.
+
+46. Look at the picture! {sibling_name} is looking at this.
+Use mental compensation to calculate 734 - 298.
+
+47. Look at the picture! {user_name} is looking at this.
+Use mental compensation to calculate 734 - 298.
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental compensation to calculate 734 - 298.
+
+83. Look at the picture! {grandmother_name} is looking at this.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+85. Look at the picture! {mother_name} is looking at this.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+86. Look at the picture! {father_name} is looking at this.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+87. Look at the picture! {sibling_name} is looking at this.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+88. Look at the picture! {user_name} is looking at this.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A library has 2,450 books. It receives a delivery of 1,998 new books. How many books does the library have in total?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+126. Look at the picture! {mother_name} is looking at this.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+127. Look at the picture! {father_name} is looking at this.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+128. Look at the picture! {sibling_name} is looking at this.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+129. Look at the picture! {user_name} is looking at this.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A runner aims to complete a 5,000 m race. She has run 2,995 m so far. How many metres does she have left to run?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+166. Look at the picture! {grandfather_name} is looking at this.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+167. Look at the picture! {mother_name} is looking at this.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+168. Look at the picture! {father_name} is looking at this.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+169. Look at the picture! {sibling_name} is looking at this.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+170. Look at the picture! {user_name} is looking at this.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 38 + 497 mentally by adjusting both numbers so that 497 becomes a multiple of 100.
+
+--- Near-multiples ---
+
+206. Look at the picture! {grandmother_name} is looking at this.
+Calculate 563 + 49 mentally using near-multiples.
+
+207. Look at the picture! {grandfather_name} is looking at this.
+Calculate 563 + 49 mentally using near-multiples.
+
+208. Look at the picture! {mother_name} is looking at this.
+Calculate 563 + 49 mentally using near-multiples.
+
+209. Look at the picture! {father_name} is looking at this.
+Calculate 563 + 49 mentally using near-multiples.
+
+210. Look at the picture! {sibling_name} is looking at this.
+Calculate 563 + 49 mentally using near-multiples.
+
+211. Look at the picture! {user_name} is looking at this.
+Calculate 563 + 49 mentally using near-multiples.
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 563 + 49 mentally using near-multiples.
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Calculate 842 - 39 mentally using near-multiples.
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Calculate 842 - 39 mentally using near-multiples.
+
+249. Look at the picture! {mother_name} is looking at this.
+Calculate 842 - 39 mentally using near-multiples.
+
+250. Look at the picture! {father_name} is looking at this.
+Calculate 842 - 39 mentally using near-multiples.
+
+251. Look at the picture! {sibling_name} is looking at this.
+Calculate 842 - 39 mentally using near-multiples.
+
+252. Look at the picture! {user_name} is looking at this.
+Calculate 842 - 39 mentally using near-multiples.
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 842 - 39 mentally using near-multiples.
+
+288. Look at the picture! {grandmother_name} is looking at this.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+290. Look at the picture! {mother_name} is looking at this.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+291. Look at the picture! {father_name} is looking at this.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+292. Look at the picture! {sibling_name} is looking at this.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+293. Look at the picture! {user_name} is looking at this.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A shopkeeper had 1,425 bottles of juice. She sold 390 bottles over the weekend. How many bottles of juice are left?
+
+329. Look at the picture! {grandmother_name} is looking at this.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+331. Look at the picture! {mother_name} is looking at this.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+332. Look at the picture! {father_name} is looking at this.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+333. Look at the picture! {sibling_name} is looking at this.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+334. Look at the picture! {user_name} is looking at this.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A school has 1,350 raffle tickets. It sells 495 tickets on Monday. How many tickets are left to sell?
+
+--- Constant difference ---
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+372. Look at the picture! {mother_name} is looking at this.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+373. Look at the picture! {father_name} is looking at this.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+374. Look at the picture! {sibling_name} is looking at this.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+375. Look at the picture! {user_name} is looking at this.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference strategy to solve 3,000 - 1,425 by subtracting 1 from each number.
+
+411. Look at the picture! {grandmother_name} is looking at this.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+412. Look at the picture! {grandfather_name} is looking at this.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+413. Look at the picture! {mother_name} is looking at this.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+414. Look at the picture! {father_name} is looking at this.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+415. Look at the picture! {sibling_name} is looking at this.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+416. Look at the picture! {user_name} is looking at this.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 843 - 299 by adding 1 to both numbers.
+
+452. Look at the picture! {grandmother_name} is looking at this.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+453. Look at the picture! {grandfather_name} is looking at this.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+454. Look at the picture! {mother_name} is looking at this.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+455. Look at the picture! {father_name} is looking at this.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+456. Look at the picture! {sibling_name} is looking at this.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+457. Look at the picture! {user_name} is looking at this.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A cinema has 4,000 seats. 1,567 tickets have been sold. Use the constant difference method to work out how many seats are left unsold.
+
+493. Look at the picture! {grandmother_name} is looking at this.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+494. Look at the picture! {grandfather_name} is looking at this.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+495. Look at the picture! {mother_name} is looking at this.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+496. Look at the picture! {father_name} is looking at this.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+497. Look at the picture! {sibling_name} is looking at this.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+498. Look at the picture! {user_name} is looking at this.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+499. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+500. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+501. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+502. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+503. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+504. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+505. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+506. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+507. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+508. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+509. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+510. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+511. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+512. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+513. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+514. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+515. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+516. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+517. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+518. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+519. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+520. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+521. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+522. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+523. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+524. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+525. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+526. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+527. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+528. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+529. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+530. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+531. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+532. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.
+
+533. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,002 - 1,998 mentally using the constant difference method.

@@ -1,0 +1,36 @@
+=== Topic: Associative law with 3 factors (efficient pairing) ===
+Domain: Multiplication and Division
+
+--- Associative law with 3 factors (efficient pairing) ---
+
+Question 1: Calculate $7 \times 2 \times 5$ by pairing two numbers to make 10 first.
+Answer: 70
+Working: Multiply $2 \times 5 = 10$. Then multiply $7 \times 10 = 70$.
+
+Question 2: Work out the value of $5 \times 9 \times 2$.
+Answer: 90
+Working: Pair $5 \times 2 = 10$. Then multiply $9 \times 10 = 90$.
+
+Question 3: Calculate $6 \times 5 \times 4$ using an efficient mental method.
+Answer: 120
+Working: Pair $5 \times 4 = 20$. Then multiply $6 \times 20 = 120$.
+
+Question 4: A baker packs rolls into trays. There are 5 trays. Each tray has 8 bags, and each bag contains 6 rolls. How many rolls are there in total?
+Answer: 240
+Working: Total rolls = $5 \times 8 \times 6$. Pair $5 \times 8 = 40$. Then $40 \times 6 = 240$.
+
+Question 5: Calculate $8 \times 5 \times 7$ by first multiplying the two numbers that make a multiple of 10.
+Answer: 280
+Working: Pair $8 \times 5 = 40$. Then multiply $40 \times 7 = 280$.
+
+Question 6: Calculate $25 \times 9 \times 4$ by pairing two factors to make 100 first.
+Answer: 900
+Working: Pair $25 \times 4 = 100$. Then multiply $100 \times 9 = 900$.
+
+Question 7: Find the missing number: $4 \times \text{___} \times 5 = 160$
+Answer: 8
+Working: Pair $4 \times 5 = 20$. So $20 \times \text{___} = 160$. $160 \div 20 = 8$.
+
+Question 8: A school orders 7 boxes of pencils. Each box holds 4 packs, and each pack has 25 pencils. How many pencils does the school order altogether?
+Answer: 700
+Working: Total pencils = $7 \times 4 \times 25$. Pair $4 \times 25 = 100$. Then $7 \times 100 = 700$.

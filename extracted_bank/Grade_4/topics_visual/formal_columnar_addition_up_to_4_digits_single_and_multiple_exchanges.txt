@@ -1,0 +1,1565 @@
+###################################
+Formal columnar addition up to 4 digits (single and multiple exchanges)
+###################################
+
+--- Single exchange ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+Calculate 3,428 + 2,154 using column addition.
+
+2. Look at the picture! {grandfather_name} is looking at this.
+Calculate 3,428 + 2,154 using column addition.
+
+3. Look at the picture! {mother_name} is looking at this.
+Calculate 3,428 + 2,154 using column addition.
+
+4. Look at the picture! {father_name} is looking at this.
+Calculate 3,428 + 2,154 using column addition.
+
+5. Look at the picture! {sibling_name} is looking at this.
+Calculate 3,428 + 2,154 using column addition.
+
+6. Look at the picture! {user_name} is looking at this.
+Calculate 3,428 + 2,154 using column addition.
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Calculate 4,583 + 271 using column addition.
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Calculate 4,583 + 271 using column addition.
+
+44. Look at the picture! {mother_name} is looking at this.
+Calculate 4,583 + 271 using column addition.
+
+45. Look at the picture! {father_name} is looking at this.
+Calculate 4,583 + 271 using column addition.
+
+46. Look at the picture! {sibling_name} is looking at this.
+Calculate 4,583 + 271 using column addition.
+
+47. Look at the picture! {user_name} is looking at this.
+Calculate 4,583 + 271 using column addition.
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+83. Look at the picture! {grandmother_name} is looking at this.
+Calculate 2,735 + 1,842 using column addition.
+
+84. Look at the picture! {grandfather_name} is looking at this.
+Calculate 2,735 + 1,842 using column addition.
+
+85. Look at the picture! {mother_name} is looking at this.
+Calculate 2,735 + 1,842 using column addition.
+
+86. Look at the picture! {father_name} is looking at this.
+Calculate 2,735 + 1,842 using column addition.
+
+87. Look at the picture! {sibling_name} is looking at this.
+Calculate 2,735 + 1,842 using column addition.
+
+88. Look at the picture! {user_name} is looking at this.
+Calculate 2,735 + 1,842 using column addition.
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+124. Look at the picture! {grandmother_name} is looking at this.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+126. Look at the picture! {mother_name} is looking at this.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+127. Look at the picture! {father_name} is looking at this.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+128. Look at the picture! {sibling_name} is looking at this.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+129. Look at the picture! {user_name} is looking at this.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+166. Look at the picture! {grandfather_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+167. Look at the picture! {mother_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+168. Look at the picture! {father_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+169. Look at the picture! {sibling_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+170. Look at the picture! {user_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+--- Multiple exchanges ---
+
+206. Look at the picture! {grandmother_name} is looking at this.
+Calculate 3,478 + 2,185 using column addition.
+
+207. Look at the picture! {grandfather_name} is looking at this.
+Calculate 3,478 + 2,185 using column addition.
+
+208. Look at the picture! {mother_name} is looking at this.
+Calculate 3,478 + 2,185 using column addition.
+
+209. Look at the picture! {father_name} is looking at this.
+Calculate 3,478 + 2,185 using column addition.
+
+210. Look at the picture! {sibling_name} is looking at this.
+Calculate 3,478 + 2,185 using column addition.
+
+211. Look at the picture! {user_name} is looking at this.
+Calculate 3,478 + 2,185 using column addition.
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Calculate 4,679 + 3,584 using column addition.
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Calculate 4,679 + 3,584 using column addition.
+
+249. Look at the picture! {mother_name} is looking at this.
+Calculate 4,679 + 3,584 using column addition.
+
+250. Look at the picture! {father_name} is looking at this.
+Calculate 4,679 + 3,584 using column addition.
+
+251. Look at the picture! {sibling_name} is looking at this.
+Calculate 4,679 + 3,584 using column addition.
+
+252. Look at the picture! {user_name} is looking at this.
+Calculate 4,679 + 3,584 using column addition.
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+288. Look at the picture! {grandmother_name} is looking at this.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+290. Look at the picture! {mother_name} is looking at this.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+291. Look at the picture! {father_name} is looking at this.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+292. Look at the picture! {sibling_name} is looking at this.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+293. Look at the picture! {user_name} is looking at this.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+329. Look at the picture! {grandmother_name} is looking at this.
+Calculate 5,786 + 2,437 using column addition.
+
+330. Look at the picture! {grandfather_name} is looking at this.
+Calculate 5,786 + 2,437 using column addition.
+
+331. Look at the picture! {mother_name} is looking at this.
+Calculate 5,786 + 2,437 using column addition.
+
+332. Look at the picture! {father_name} is looking at this.
+Calculate 5,786 + 2,437 using column addition.
+
+333. Look at the picture! {sibling_name} is looking at this.
+Calculate 5,786 + 2,437 using column addition.
+
+334. Look at the picture! {user_name} is looking at this.
+Calculate 5,786 + 2,437 using column addition.
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+372. Look at the picture! {mother_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+373. Look at the picture! {father_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+374. Look at the picture! {sibling_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+375. Look at the picture! {user_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4

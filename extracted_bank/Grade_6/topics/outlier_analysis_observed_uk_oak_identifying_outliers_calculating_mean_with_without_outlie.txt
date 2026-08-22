@@ -1,0 +1,53 @@
+=== Topic: Outlier analysis [OBSERVED UK_OAK]: identifying outliers, calculating mean with/without outliers, deciding contextual appropriateness (targets/tracking vs discrete sizing/unhelpful context) ===
+Domain: Statistics
+
+--- Identifying outliers ---
+
+Question 1: Six pupils record the number of books they read during the summer holidays: 4, 6, 5, 28, 5, 4. Identify the outlier in this data set.
+Answer: 28
+Working: An outlier is a value that is much larger or much smaller than most of the other values in the data set. Most pupils read between 4 and 6 books, while 28 is much larger than the rest of the values.
+
+Question 2: Five runners record their 100-metre sprint times in seconds: 15.2, 14.8, 15.0, 4.1, 15.4. Which time is the outlier?
+Answer: 4.1 seconds
+Working: An outlier is a value that lies far outside the rest of the data. 4.1 seconds is much smaller than the other times, which are all around 15 seconds.
+
+Question 3: A group of Year 6 children measure their heights in centimetres: 138, 142, 140, 195, 139, 141. Identify the outlier and state whether it is much larger or much smaller than the other measurements.
+Answer: 195 cm (much larger)
+Working: The values cluster closely between 138 cm and 142 cm. 195 cm is far above this cluster, so 195 cm is the outlier and it is much larger than the other values.
+
+--- Calculating mean with and without outliers ---
+
+Question 4: Five pupils record the number of minutes they spent on their homework: 20, 25, 22, 23, 85. Calculate the mean time spent on homework after excluding the outlier.
+Answer: 22.5 minutes
+Working: 1. Identify the outlier: 85 is much larger than the other values.
+2. Exclude 85, leaving four values: 20, 25, 22, 23.
+3. Find the new sum: 20 + 25 + 22 + 23 = 90.
+4. Divide by the new count: 90 ÷ 4 = 22.5 minutes.
+
+Question 5: A runner records lap times in seconds: 48, 50, 52, 46, 104. Calculate the mean lap time when the outlier is removed.
+Answer: 49 seconds
+Working: 1. The outlier is 104.
+2. Remove 104, leaving 48, 50, 52, 46.
+3. Total = 48 + 50 + 52 + 46 = 196.
+4. Mean = 196 ÷ 4 = 49 seconds.
+
+Question 6: Six children throw a beanbag. The distances thrown in metres are: 12, 14, 11, 15, 13, 37. Calculate the difference between the mean distance including the outlier and the mean distance excluding the outlier.
+Answer: 4 m
+Working: 1. Mean with outlier: Sum = 12 + 14 + 11 + 15 + 13 + 37 = 102. Mean = 102 ÷ 6 = 17 m.
+2. Identify outlier: 37.
+3. Mean without outlier: Sum = 12 + 14 + 11 + 15 + 13 = 65. Mean = 65 ÷ 5 = 13 m.
+4. Difference = 17 - 13 = 4 m.
+
+--- Deciding contextual appropriateness ---
+
+Question 7: A shop sells five pairs of children's shoes in sizes: 4, 4, 5, 5, 12. The mean shoe size is 6. Explain why ordering new shoe stock based on the mean size of 6 is not helpful for the shop.
+Answer: Size 6 was not bought by any customer; the shop needs to stock the discrete sizes (sizes 4 and 5) that customers actually wear rather than an average size that nobody bought.
+Working: Shoes come in discrete whole and half sizes. The mean average of 6 does not represent what typical customers purchased (sizes 4 and 5), and ordering size 6 would mean buying stock nobody requested.
+
+Question 8: In a class reading challenge, six children read the following number of pages in a week: 24, 31, 18, 38, 4, 167. The mean including all values is 47 pages, while the mean without the outlier 167 is 23 pages. Which mean average (23 or 47) is more appropriate to use when setting a weekly reading target for the whole class, and why?
+Answer: 23 pages, because 167 is an outlier that skews the mean too high; 23 pages is a better representation of typical weekly reading.
+Working: 167 is an extreme outlier that pulls the mean up to 47, which is higher than what almost all children read (most read between 4 and 38 pages). 23 pages represents typical performance and provides a realistic target.
+
+Question 9: Six pupils were due to sit a 20-mark maths quiz. Their scores were recorded as: 15, 18, 17, 16, 19, 0. The pupil with 0 was absent on the day of the test. Should the score of 0 be included when calculating the mean score of pupils who sat the quiz? Explain your reasoning.
+Answer: No, 0 should not be included because the pupil was absent and did not take the test.
+Working: A score of 0 for an absent pupil does not measure test performance. Including 0 would distort the mean and make it appear that the pupils who took the test performed worse than they did.

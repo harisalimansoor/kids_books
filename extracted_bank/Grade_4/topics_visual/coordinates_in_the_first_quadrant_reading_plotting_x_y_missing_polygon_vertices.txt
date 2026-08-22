@@ -1,0 +1,1731 @@
+###################################
+Coordinates in the first quadrant: reading, plotting (x, y), missing polygon vertices
+###################################
+
+--- Reading coordinates in the first quadrant ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+2. Look at the picture! {grandfather_name} is looking at this.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+3. Look at the picture! {mother_name} is looking at this.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+4. Look at the picture! {father_name} is looking at this.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+5. Look at the picture! {sibling_name} is looking at this.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+6. Look at the picture! {user_name} is looking at this.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+42. Look at the picture! {grandmother_name} is looking at this.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+43. Look at the picture! {grandfather_name} is looking at this.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+44. Look at the picture! {mother_name} is looking at this.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+45. Look at the picture! {father_name} is looking at this.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+46. Look at the picture! {sibling_name} is looking at this.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+47. Look at the picture! {user_name} is looking at this.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+83. Look at the picture! {grandmother_name} is looking at this.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+84. Look at the picture! {grandfather_name} is looking at this.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+85. Look at the picture! {mother_name} is looking at this.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+86. Look at the picture! {father_name} is looking at this.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+87. Look at the picture! {sibling_name} is looking at this.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+88. Look at the picture! {user_name} is looking at this.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+124. Look at the picture! {grandmother_name} is looking at this.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+126. Look at the picture! {mother_name} is looking at this.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+127. Look at the picture! {father_name} is looking at this.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+128. Look at the picture! {sibling_name} is looking at this.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+129. Look at the picture! {user_name} is looking at this.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+--- Plotting coordinates (x, y) ---
+
+165. Look at the picture! {grandmother_name} is looking at this.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+167. Look at the picture! {mother_name} is looking at this.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+168. Look at the picture! {father_name} is looking at this.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+169. Look at the picture! {sibling_name} is looking at this.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+170. Look at the picture! {user_name} is looking at this.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+206. Look at the picture! {grandmother_name} is looking at this.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+207. Look at the picture! {grandfather_name} is looking at this.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+208. Look at the picture! {mother_name} is looking at this.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+209. Look at the picture! {father_name} is looking at this.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+210. Look at the picture! {sibling_name} is looking at this.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+211. Look at the picture! {user_name} is looking at this.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+247. Look at the picture! {grandmother_name} is looking at this.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+248. Look at the picture! {grandfather_name} is looking at this.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+249. Look at the picture! {mother_name} is looking at this.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+250. Look at the picture! {father_name} is looking at this.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+251. Look at the picture! {sibling_name} is looking at this.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+252. Look at the picture! {user_name} is looking at this.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+290. Look at the picture! {mother_name} is looking at this.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+291. Look at the picture! {father_name} is looking at this.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+292. Look at the picture! {sibling_name} is looking at this.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+293. Look at the picture! {user_name} is looking at this.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+329. Look at the picture! {grandmother_name} is looking at this.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+331. Look at the picture! {mother_name} is looking at this.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+332. Look at the picture! {father_name} is looking at this.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+333. Look at the picture! {sibling_name} is looking at this.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+334. Look at the picture! {user_name} is looking at this.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+--- Missing polygon vertices ---
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+372. Look at the picture! {mother_name} is looking at this.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+373. Look at the picture! {father_name} is looking at this.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+374. Look at the picture! {sibling_name} is looking at this.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+375. Look at the picture! {user_name} is looking at this.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+411. Look at the picture! {grandmother_name} is looking at this.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+412. Look at the picture! {grandfather_name} is looking at this.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+413. Look at the picture! {mother_name} is looking at this.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+414. Look at the picture! {father_name} is looking at this.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+415. Look at the picture! {sibling_name} is looking at this.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+416. Look at the picture! {user_name} is looking at this.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+452. Look at the picture! {grandmother_name} is looking at this.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+453. Look at the picture! {grandfather_name} is looking at this.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+454. Look at the picture! {mother_name} is looking at this.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+455. Look at the picture! {father_name} is looking at this.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+456. Look at the picture! {sibling_name} is looking at this.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+457. Look at the picture! {user_name} is looking at this.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+493. Look at the picture! {grandmother_name} is looking at this.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+494. Look at the picture! {grandfather_name} is looking at this.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+495. Look at the picture! {mother_name} is looking at this.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+496. Look at the picture! {father_name} is looking at this.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+497. Look at the picture! {sibling_name} is looking at this.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+498. Look at the picture! {user_name} is looking at this.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+499. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+500. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+501. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+502. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+503. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+504. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+505. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+506. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+507. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+508. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+509. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+510. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+511. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+512. Look at the picture! {father_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+513. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+514. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+515. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+516. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+517. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+518. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+519. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+520. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+521. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+522. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+523. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+524. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+525. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+526. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+527. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+528. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+529. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+530. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+531. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+532. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+533. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+534. Look at the picture! {grandmother_name} is looking at this.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+535. Look at the picture! {grandfather_name} is looking at this.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+536. Look at the picture! {mother_name} is looking at this.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+537. Look at the picture! {father_name} is looking at this.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+538. Look at the picture! {sibling_name} is looking at this.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+539. Look at the picture! {user_name} is looking at this.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+540. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+541. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+542. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+543. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+544. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+545. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+546. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+547. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+548. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+549. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+550. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+551. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+552. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+553. Look at the picture! {father_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+554. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+555. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+556. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+557. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+558. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+559. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+560. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+561. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+562. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+563. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+564. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+565. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+566. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+567. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+568. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+569. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+570. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+571. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+572. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+573. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+574. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?

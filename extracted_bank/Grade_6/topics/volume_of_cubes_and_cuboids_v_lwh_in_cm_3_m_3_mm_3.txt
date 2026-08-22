@@ -1,0 +1,78 @@
+=== Topic: Volume of cubes and cuboids (V = lwh) in cm^3, m^3, mm^3 ===
+Domain: Measurement, Time, Area, Perimeter & Volume
+
+--- Volume of cubes ---
+
+Question 1: A wooden cube has an edge length of 4 cm. What is the volume of the cube? Give your answer in cm³.
+Answer: 64 cm³
+Working: Volume of a cube = edge × edge × edge = 4 cm × 4 cm × 4 cm = 64 cm³.
+
+Question 2: A small metal cube has sides of length 10 mm. Calculate the volume of the cube in mm³.
+Answer: 1,000 mm³
+Working: Volume = 10 mm × 10 mm × 10 mm = 1,000 mm³.
+
+Question 3: A large storage crate is in the shape of a cube with edge length 2 m. What is the volume of the crate in m³?
+Answer: 8 m³
+Working: Volume = 2 m × 2 m × 2 m = 8 m³.
+
+Question 4: A cube has a volume of 125 cm³. What is the length of one edge of the cube?
+Answer: 5 cm
+Working: 5 × 5 × 5 = 125, so the edge length is 5 cm.
+
+Question 5: Cube A has sides of length 3 cm. Cube B has sides of length 6 cm. How many times greater is the volume of Cube B than the volume of Cube A?
+Answer: 8
+Working: Volume of Cube A = 3 × 3 × 3 = 27 cm³. Volume of Cube B = 6 × 6 × 6 = 216 cm³. 216 ÷ 27 = 8 times greater.
+
+Question 6: One face of a cube has an area of 36 cm². What is the volume of the cube in cm³?
+Answer: 216 cm³
+Working: Each face is a square. Area = 36 cm², so edge length = 6 cm because 6 × 6 = 36. Volume = 6 cm × 6 cm × 6 cm = 216 cm³.
+
+Question 7: A model maker builds a solid cube using 1 cm³ unit cubes. She uses 27 cubes in total. What is the total surface area of this large cube in cm²?
+Answer: 54 cm²
+Working: Since 3 × 3 × 3 = 27, the edge length is 3 cm. The area of one face is 3 cm × 3 cm = 9 cm². A cube has 6 faces, so total surface area = 6 × 9 cm² = 54 cm².
+
+Question 8: A cube has a volume of 1,000 mm³. What is the perimeter of one face of this cube in mm?
+Answer: 40 mm
+Working: 10 × 10 × 10 = 1,000, so each edge is 10 mm. The perimeter of one square face = 4 × 10 mm = 40 mm.
+
+--- Volume of cuboids ---
+
+Question 9: A cuboid measures 8 cm long, 5 cm wide and 3 cm high. Calculate the volume of the cuboid in cm³.
+Answer: 120 cm³
+Working: Volume = length × width × height = 8 cm × 5 cm × 3 cm = 120 cm³.
+
+Question 10: A rectangular concrete block has a length of 6 m, a width of 2 m and a height of 3 m. What is its volume in m³?
+Answer: 36 m³
+Working: Volume = 6 m × 2 m × 3 m = 36 m³.
+
+Question 11: A microchip component is a cuboid measuring 5 mm by 4 mm by 2 mm. What is the volume of the component in mm³?
+Answer: 40 mm³
+Working: Volume = 5 mm × 4 mm × 2 mm = 40 mm³.
+
+Question 12: A cereal box has a base area of 140 cm² and a height of 25 cm. Calculate the volume of the cereal box in cm³.
+Answer: 3,500 cm³
+Working: Volume = base area × height = 140 cm² × 25 cm = 3,500 cm³.
+
+Question 13: A fish tank is in the shape of a cuboid. It has a volume of 480 cm³. The length is 12 cm and the width is 8 cm. What is the height of the fish tank?
+Answer: 5 cm
+Working: Base area = 12 cm × 8 cm = 96 cm². Height = volume ÷ base area = 480 ÷ 96 = 5 cm.
+
+Question 14: A shipping container is 10 m long, 3 m wide and 2.5 m high. Calculate the volume of the container in m³.
+Answer: 75 m³
+Working: Volume = 10 m × 3 m × 2.5 m = 30 × 2.5 = 75 m³.
+
+Question 15: A cuboid has a volume of 720 cm³. Its height is 9 cm and its length is 16 cm. Find the width of the cuboid.
+Answer: 5 cm
+Working: Length × height = 16 cm × 9 cm = 144 cm². Width = 720 ÷ 144 = 5 cm.
+
+Question 16: A cardboard box is 20 cm long, 15 cm wide and 10 cm high. How many solid 1 cm³ cubes can fit inside the box without any gaps?
+Answer: 3,000
+Working: Volume = 20 × 15 × 10 = 3,000 cm³. Since each cube is 1 cm³, 3,000 cubes fit inside.
+
+Question 17: A cuboid has a square base of side length 7 cm. Its volume is 490 cm³. What is the height of the cuboid?
+Answer: 10 cm
+Working: Base area = 7 cm × 7 cm = 49 cm². Height = 490 ÷ 49 = 10 cm.
+
+Question 18: A solid cube with side length 6 cm and a cuboid with length 9 cm and width 4 cm have the same volume. What is the height of the cuboid?
+Answer: 6 cm
+Working: Volume of cube = 6 × 6 × 6 = 216 cm³. Base area of cuboid = 9 × 4 = 36 cm². Height of cuboid = 216 ÷ 36 = 6 cm.

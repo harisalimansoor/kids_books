@@ -1,0 +1,88 @@
+=== Topic: Order of operations (BIDMAS/BODMAS), bracket insertion puzzles, shape algebra total grids ===
+Domain: Addition, Subtraction, Multiplication, Division & Operations
+
+--- Order of operations (BIDMAS/BODMAS) ---
+
+Question 1: Calculate 8 + 4 × 7.
+Answer: 36
+Working: Multiplication is completed before addition: 4 × 7 = 28. Then 8 + 28 = 36.
+
+Question 2: Calculate 45 - 30 ÷ 5.
+Answer: 39
+Working: Division is completed before subtraction: 30 ÷ 5 = 6. Then 45 - 6 = 39.
+
+Question 3: Calculate 60 - 6 × (4 + 3).
+Answer: 18
+Working: Evaluate brackets first: 4 + 3 = 7. Multiply next: 6 × 7 = 42. Finally, subtract: 60 - 42 = 18.
+
+Question 4: Calculate 15 + 3 × 4².
+Answer: 63
+Working: Evaluate indices/powers first: 4² = 16. Multiply next: 3 × 16 = 48. Finally, add: 15 + 48 = 63.
+
+Question 5: Calculate 75 - 3 × (2³ + 4) ÷ 2.
+Answer: 57
+Working: Evaluate inside brackets: 2³ = 8, then 8 + 4 = 12. Left-to-right for multiplication and division: 3 × 12 = 36, then 36 ÷ 2 = 18. Finally, subtract: 75 - 18 = 57.
+
+Question 6: A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+Answer: 57
+Working: The calculation is 4 × 12 + 3 × 8 - 15. 4 × 12 = 48 and 3 × 8 = 24. 48 + 24 = 72. 72 - 15 = 57 items left.
+
+--- Bracket insertion puzzles ---
+
+Question 7: Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+Answer: (8 + 12) ÷ 4 = 5
+Working: (8 + 12) = 20, and 20 ÷ 4 = 5.
+
+Question 8: Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+Answer: 7 × (9 - 4) = 35
+Working: (9 - 4) = 5, and 7 × 5 = 35.
+
+Question 9: Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+Answer: (18 + 6) ÷ (3 × 2) = 4
+Working: (18 + 6) ÷ (3 × 2) gives 24 ÷ 6 = 4.
+
+Question 10: Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+Answer: 40 ÷ (2 + 6) × 3 = 15
+Working: (2 + 6) = 8. Then 40 ÷ 8 × 3 = 5 × 3 = 15.
+
+Question 11: Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+Answer: 10 + 5 × (8 - 6) = 20
+Working: (8 - 6) = 2. Then 10 + 5 × 2 = 10 + 10 = 20.
+
+--- Shape algebra total grids ---
+
+Question 12: In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+Answer: 8
+Working: 3 stars = 27, so 1 star = 27 ÷ 3 = 9. In Row 2: 9 + 2 circles = 25, so 2 circles = 25 - 9 = 16. 1 circle = 16 ÷ 2 = 8.
+
+Question 13: In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+Answer: 31
+Working: 3 squares = 21, so 1 square = 21 ÷ 3 = 7. In Column 1: 2 × 7 + triangle = 26, so 14 + triangle = 26, giving triangle = 12. The row with 1 square and 2 triangles has a total of 7 + 2 × 12 = 7 + 24 = 31.
+
+Question 14: In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+Answer: 7
+Working: 3 hexagons = 36, so 1 hexagon = 36 ÷ 3 = 12. In Row 1: 2 × 12 + heart = 34, so 24 + heart = 34, giving heart = 10. In Row 3: 10 + 2 diamonds = 24, so 2 diamonds = 14, giving 1 diamond = 7.
+
+Question 15: In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+Answer: 10
+Working: Adding both rows: 3 circles + 3 squares = 48, so 1 circle + 1 square = 48 ÷ 3 = 16. Subtract this from Row 2 (1 circle + 2 squares = 26) to find 1 square: 26 - 16 = 10.
+
+Question 16: In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+Answer: 8
+Working: From Row 1, 2 triangles + 2 pentagons = 40, so 1 triangle + 1 pentagon = 20. Subtracting this from Row 2 (3 triangles + 1 pentagon = 36) leaves 2 triangles = 36 - 20 = 16. Therefore, 1 triangle = 16 ÷ 2 = 8.

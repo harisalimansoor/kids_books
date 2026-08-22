@@ -1,0 +1,36 @@
+=== Topic: Money calculations in pounds and pence (£.pp and p) ===
+Domain: Measurement, Money and Time
+
+--- Money calculations in pounds and pence (£.pp and p) ---
+
+Question 1: Anika buys an apple for 65p and a bottle of juice for £1.20. How much does she spend in total? Give your answer in pounds and pence.
+Answer: £1.85
+Working: Convert 65p to £0.65. Add £1.20 and £0.65: £1.20 + £0.65 = £1.85.
+
+Question 2: Maya has 580p in her money box. Write this amount in pounds using the £ symbol.
+Answer: £5.80
+Working: There are 100p in £1. Divide 580 by 100 to get £5.80.
+
+Question 3: Jack buys a book for £3.45. He pays with a £5 note. How much change should he receive?
+Answer: £1.55
+Working: Subtract the cost of the book from £5.00: £5.00 - £3.45 = £1.55.
+
+Question 4: A notebook costs £2.38, a pen costs £1.45, and a ruler costs 85p. What is the total cost of these three items?
+Answer: £4.68
+Working: Convert 85p to £0.85. Add the three amounts: £2.38 + £1.45 + £0.85 = £4.68.
+
+Question 5: Sophie has saved £14.65. Her brother Oliver has saved £8.90. How much more money has Sophie saved than Oliver?
+Answer: £5.75
+Working: Find the difference by subtracting Oliver's savings from Sophie's: £14.65 - £8.90 = £5.75.
+
+Question 6: Liam buys 4 packs of stickers. Each pack costs £1.35. He pays with a £10 note. How much change does Liam receive?
+Answer: £4.60
+Working: Find the total cost of the stickers: 4 × £1.35 = £5.40. Calculate the change from £10: £10.00 - £5.40 = £4.60.
+
+Question 7: Four friends share the cost of a board game equally. The game costs £18.60. How much does each friend pay?
+Answer: £4.65
+Working: Divide the total cost by 4: £18.60 ÷ 4 = £4.65.
+
+Question 8: An adult cinema ticket costs £7.80. A child ticket costs £4.95. Mr Davis buys 1 adult ticket and 2 child tickets. He pays with a £20 note. How much change does he get?
+Answer: £2.30
+Working: Cost of 2 child tickets: 2 × £4.95 = £9.90. Total cost: £7.80 + £9.90 = £17.70. Change: £20.00 - £17.70 = £2.30.

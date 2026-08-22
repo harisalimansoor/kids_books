@@ -1,0 +1,87 @@
+=== Topic: Decimal place value (tenths, hundredths, zero as placeholder) ===
+Domain: Fractions and Decimals
+
+--- Tenths ---
+
+Question 1: In the number 4.7, what is the value of the digit 7?
+Answer: 7 tenths (or 0.7)
+Working: The digit 4 is in the ones place. The digit 7 is directly to the right of the decimal point, which is the tenths place, so its value is 7 tenths or 0.7.
+
+Question 2: Complete the statement:
+3.8 = 3 + ___
+Answer: 0.8
+Working: 3.8 is partitioned into 3 ones and 8 tenths. 8 tenths written as a decimal is 0.8. Therefore, 3.8 = 3 + 0.8.
+
+Question 3: Write 6 ones and 4 tenths as a decimal number.
+Answer: 6.4
+Working: 6 ones goes in the ones column before the decimal point, and 4 tenths goes in the tenths column after the decimal point, giving 6.4.
+
+Question 4: What is 9 divided by 10 written as a decimal?
+Answer: 0.9
+Working: Dividing 9 ones by 10 shifts the digit 9 one place to the right into the tenths column, giving 0.9.
+
+Question 5: A number has 2 ones and 15 tenths. What is this number written as a decimal?
+Answer: 3.5
+Working: 15 tenths is equal to 1 one and 5 tenths (1.5). Adding this to 2 ones gives 2 + 1.5 = 3.5.
+
+Question 6: How many tenths are there altogether in the number 5.3?
+Answer: 53
+Working: Each 1 whole is equal to 10 tenths, so 5 ones = 50 tenths. 50 tenths + 3 tenths = 53 tenths altogether.
+
+--- Hundredths ---
+
+Question 7: In the number 8.26, what is the value of the digit 6?
+Answer: 6 hundredths (or 0.06)
+Working: 8 is in the ones place, 2 is in the tenths place, and 6 is in the hundredths place. Its value is 6 hundredths or 0.06.
+
+Question 8: Complete the partition:
+5.49 = 5 + 0.4 + ___
+Answer: 0.09
+Working: 5.49 consists of 5 ones (5), 4 tenths (0.4), and 9 hundredths (0.09). The missing value is 0.09.
+
+Question 9: Write a number that has 4 ones, 7 tenths, and 3 hundredths as a decimal.
+Answer: 4.73
+Working: Placing 4 in the ones column, 7 in the tenths column, and 3 in the hundredths column gives 4.73.
+
+Question 10: What is 47 divided by 100 written as a decimal?
+Answer: 0.47
+Working: Dividing 47 by 100 shifts the digits two places to the right: the 4 moves from tens to tenths (0.4) and the 7 moves from ones to hundredths (0.07), giving 0.47.
+
+Question 11: Write 38 hundredths as a decimal number.
+Answer: 0.38
+Working: 38 hundredths = 30 hundredths + 8 hundredths = 3 tenths and 8 hundredths. Written as a decimal, this is 0.38.
+
+Question 12: A number is made of 3 ones, 1 tenth, and 14 hundredths. What is the number written as a decimal?
+Answer: 3.24
+Working: 14 hundredths is equal to 1 tenth and 4 hundredths. Adding this to 1 tenth gives 2 tenths and 4 hundredths. Together with 3 ones, the decimal is 3.24.
+
+Question 13: How many hundredths are there altogether in the number 2.35?
+Answer: 235
+Working: 2 ones = 200 hundredths. 3 tenths = 30 hundredths. 5 hundredths = 5 hundredths. 200 + 30 + 5 = 235 hundredths altogether.
+
+--- Zero as placeholder ---
+
+Question 14: Write a number that has 5 ones, 0 tenths, and 8 hundredths as a decimal.
+Answer: 5.08
+Working: 5 is in the ones place, a 0 is placed in the tenths column as a placeholder, and 8 is in the hundredths column, making 5.08.
+
+Question 15: In the number 7.03, which digit is in the tenths place?
+Answer: 0
+Working: In 7.03, 7 is in the ones place, 0 is in the tenths place as a placeholder, and 3 is in the hundredths place.
+
+Question 16: Write 6 hundredths as a decimal number.
+Answer: 0.06
+Working: 6 hundredths has 0 ones and 0 tenths. Using 0 as a placeholder in the ones and tenths places gives 0.06.
+
+Question 17: Complete the partition:
+4.09 = 4 + ___
+Answer: 0.09
+Working: 4.09 has 4 ones, 0 tenths, and 9 hundredths. The remaining part is 9 hundredths, written as 0.09.
+
+Question 18: What is 7 divided by 100 written as a decimal?
+Answer: 0.07
+Working: Dividing 7 by 100 shifts the digit 7 two places to the right into the hundredths column. A zero is needed in the ones place and in the tenths place as placeholders, giving 0.07.
+
+Question 19: Write the decimal number that has 9 tens, 0 ones, 0 tenths, and 5 hundredths.
+Answer: 90.05
+Working: 9 tens = 90. Place 0 in the ones place and 0 in the tenths place as placeholders, then 5 in the hundredths place to give 90.05.

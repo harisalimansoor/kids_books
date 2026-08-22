@@ -1,0 +1,1360 @@
+###################################
+Dividing 1- and 2-digit numbers by 10 and 100 (digit shifts)
+###################################
+
+--- Dividing 1- and 2-digit numbers by 10 ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+Calculate $6 ÷ 10$.
+
+2. Look at the picture! {grandfather_name} is looking at this.
+Calculate $6 ÷ 10$.
+
+3. Look at the picture! {mother_name} is looking at this.
+Calculate $6 ÷ 10$.
+
+4. Look at the picture! {father_name} is looking at this.
+Calculate $6 ÷ 10$.
+
+5. Look at the picture! {sibling_name} is looking at this.
+Calculate $6 ÷ 10$.
+
+6. Look at the picture! {user_name} is looking at this.
+Calculate $6 ÷ 10$.
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $6 ÷ 10$.
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Calculate $53 ÷ 10$.
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Calculate $53 ÷ 10$.
+
+44. Look at the picture! {mother_name} is looking at this.
+Calculate $53 ÷ 10$.
+
+45. Look at the picture! {father_name} is looking at this.
+Calculate $53 ÷ 10$.
+
+46. Look at the picture! {sibling_name} is looking at this.
+Calculate $53 ÷ 10$.
+
+47. Look at the picture! {user_name} is looking at this.
+Calculate $53 ÷ 10$.
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $53 ÷ 10$.
+
+83. Look at the picture! {grandmother_name} is looking at this.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+85. Look at the picture! {mother_name} is looking at this.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+86. Look at the picture! {father_name} is looking at this.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+87. Look at the picture! {sibling_name} is looking at this.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+88. Look at the picture! {user_name} is looking at this.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A piece of wood is $85\text{ cm}$ long. It is cut into 10 equal pieces. How long is each piece in centimetres?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+126. Look at the picture! {mother_name} is looking at this.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+127. Look at the picture! {father_name} is looking at this.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+128. Look at the picture! {sibling_name} is looking at this.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+129. Look at the picture! {user_name} is looking at this.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+When 74 is divided by 10, what is the value of the digit 4 in the answer?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+166. Look at the picture! {grandfather_name} is looking at this.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+167. Look at the picture! {mother_name} is looking at this.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+168. Look at the picture! {father_name} is looking at this.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+169. Look at the picture! {sibling_name} is looking at this.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+170. Look at the picture! {user_name} is looking at this.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 10 = 3.9$
+
+--- Dividing 1- and 2-digit numbers by 100 ---
+
+206. Look at the picture! {grandmother_name} is looking at this.
+Calculate $8 \÷ 100$.
+
+207. Look at the picture! {grandfather_name} is looking at this.
+Calculate $8 \÷ 100$.
+
+208. Look at the picture! {mother_name} is looking at this.
+Calculate $8 \÷ 100$.
+
+209. Look at the picture! {father_name} is looking at this.
+Calculate $8 \÷ 100$.
+
+210. Look at the picture! {sibling_name} is looking at this.
+Calculate $8 \÷ 100$.
+
+211. Look at the picture! {user_name} is looking at this.
+Calculate $8 \÷ 100$.
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $8 \÷ 100$.
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Calculate $47 \÷ 100$.
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Calculate $47 \÷ 100$.
+
+249. Look at the picture! {mother_name} is looking at this.
+Calculate $47 \÷ 100$.
+
+250. Look at the picture! {father_name} is looking at this.
+Calculate $47 \÷ 100$.
+
+251. Look at the picture! {sibling_name} is looking at this.
+Calculate $47 \÷ 100$.
+
+252. Look at the picture! {user_name} is looking at this.
+Calculate $47 \÷ 100$.
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $47 \÷ 100$.
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+290. Look at the picture! {mother_name} is looking at this.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+291. Look at the picture! {father_name} is looking at this.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+292. Look at the picture! {sibling_name} is looking at this.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+293. Look at the picture! {user_name} is looking at this.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $60 \÷ 100$. Give your answer as a decimal.
+
+329. Look at the picture! {grandmother_name} is looking at this.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+331. Look at the picture! {mother_name} is looking at this.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+332. Look at the picture! {father_name} is looking at this.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+333. Look at the picture! {sibling_name} is looking at this.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+334. Look at the picture! {user_name} is looking at this.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+When the 2-digit number 91 is divided by 100, what is the value of the digit 1 in the answer?
+
+370. Look at the picture! {grandmother_name} is looking at this.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+371. Look at the picture! {grandfather_name} is looking at this.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+372. Look at the picture! {mother_name} is looking at this.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+373. Look at the picture! {father_name} is looking at this.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+374. Look at the picture! {sibling_name} is looking at this.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+375. Look at the picture! {user_name} is looking at this.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A ball of string of length $92\text{ m}$ is shared equally into 100 small pieces. What is the length of each piece in metres?
+
+411. Look at the picture! {grandmother_name} is looking at this.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+412. Look at the picture! {grandfather_name} is looking at this.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+413. Look at the picture! {mother_name} is looking at this.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+414. Look at the picture! {father_name} is looking at this.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+415. Look at the picture! {sibling_name} is looking at this.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+416. Look at the picture! {user_name} is looking at this.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number: $\square \÷ 100 = 0.25$

@@ -1,0 +1,106 @@
+=== Topic: Rounding to the nearest 10, 100, 1000 (midpoint rules) ===
+Domain: Number and Place Value
+
+--- Rounding to the nearest 10 ---
+
+Question 1: Round 74 to the nearest 10.
+Answer: 70
+Working: The ones digit is 4, which is less than 5, so round down to 70.
+
+Question 2: Round 368 to the nearest 10.
+Answer: 370
+Working: The ones digit is 8, which is 5 or more, so round up to 370.
+
+Question 3: Round 2,496 to the nearest 10.
+Answer: 2500
+Working: The ones digit is 6, which is 5 or more, so round up. Adding 1 ten to 49 tens gives 50 tens, making 2,500.
+
+Question 4: A school library has 1,384 books. What is the number of books rounded to the nearest 10?
+Answer: 1380
+Working: Look at the ones digit in 1,384. It is 4, so round down to 1,380.
+
+Question 5: What is the smallest whole number that rounds to 340 when rounded to the nearest 10?
+Answer: 335
+Working: Numbers from 335 to 344 round to 340. The smallest is 335.
+
+Question 6: What is the largest whole number that rounds to 560 when rounded to the nearest 10?
+Answer: 564
+Working: Numbers from 555 to 564 round to 560. The largest is 564.
+
+--- Rounding to the nearest 100 ---
+
+Question 7: Round 438 to the nearest 100.
+Answer: 400
+Working: The tens digit is 3, which is less than 5, so round down to 400.
+
+Question 8: Round 3,762 to the nearest 100.
+Answer: 3800
+Working: The tens digit is 6, which is 5 or more, so round up to 3,800.
+
+Question 9: Round 5,971 to the nearest 100.
+Answer: 6000
+Working: The tens digit is 7, so round up. 59 hundreds rounded up gives 60 hundreds, which is 6,000.
+
+Question 10: In a running event, 2,435 runners take part. What is the number of runners rounded to the nearest 100?
+Answer: 2400
+Working: The tens digit is 3, which is less than 5, so round down to 2,400.
+
+Question 11: What is the greatest whole number that rounds to 700 when rounded to the nearest 100?
+Answer: 749
+Working: Numbers from 650 to 749 round to 700. The greatest is 749.
+
+Question 12: What is the smallest whole number that rounds to 1,500 when rounded to the nearest 100?
+Answer: 1450
+Working: Numbers from 1,450 to 1,549 round to 1,500. The smallest is 1,450.
+
+--- Rounding to the nearest 1000 ---
+
+Question 13: Round 3,240 to the nearest 1000.
+Answer: 3000
+Working: The hundreds digit is 2, which is less than 5, so round down to 3,000.
+
+Question 14: Round 7,819 to the nearest 1000.
+Answer: 8000
+Working: The hundreds digit is 8, which is 5 or more, so round up to 8,000.
+
+Question 15: An aeroplane flies at an altitude of 8,365 metres. Round this altitude to the nearest 1000 metres.
+Answer: 8000
+Working: The hundreds digit in 8,365 is 3, which is less than 5, so round down to 8,000.
+
+Question 16: What is the smallest whole number that rounds to 6,000 when rounded to the nearest 1000?
+Answer: 5500
+Working: Numbers from 5,500 to 6,499 round to 6,000. The smallest is 5,500.
+
+Question 17: What is the largest whole number that rounds to 4,000 when rounded to the nearest 1000?
+Answer: 4499
+Working: Numbers from 3,500 to 4,499 round to 4,000. The largest is 4,499.
+
+--- Midpoint rules ---
+
+Question 18: What is the midpoint between 40 and 50 on a number line?
+Answer: 45
+Working: The number exactly halfway between 40 and 50 is 45.
+
+Question 19: What is the midpoint between 600 and 700 on a number line?
+Answer: 650
+Working: The number exactly halfway between 600 and 700 is 650.
+
+Question 20: What is the midpoint between 3,000 and 4,000 on a number line?
+Answer: 3500
+Working: The number exactly halfway between 3,000 and 4,000 is 3,500.
+
+Question 21: The midpoint between 200 and 300 is 250. According to the midpoint rule, which hundred does 250 round to when rounded to the nearest 100?
+Answer: 300
+Working: When a number is exactly at the midpoint, the rule is to round up. Therefore, 250 rounds up to 300.
+
+Question 22: On a number line from 8,000 to 9,000, the midpoint is 8,500. Does 8,500 round to 8,000 or 9,000 when rounded to the nearest 1000?
+Answer: 9000
+Working: By the midpoint rule, numbers at the midpoint round up to the next multiple of 1000. 8,500 rounds to 9,000.
+
+Question 23: What is the smallest two-digit number that rounds up to 50 when rounded to the nearest 10 because it is at the midpoint?
+Answer: 45
+Working: The midpoint between 40 and 50 is 45. It is the smallest number that rounds up to 50.
+
+Question 24: The midpoint between 4,000 and 5,000 is 4,500. Liam writes the number 4,499. Is 4,499 less than, equal to, or greater than the midpoint?
+Answer: less than
+Working: 4,499 is 1 less than 4,500, so it is less than the midpoint.

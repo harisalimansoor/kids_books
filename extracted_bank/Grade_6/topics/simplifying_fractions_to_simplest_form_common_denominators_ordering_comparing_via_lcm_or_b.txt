@@ -1,0 +1,90 @@
+=== Topic: Simplifying fractions to simplest form; common denominators; ordering/comparing via LCM or benchmarking against \frac{1{2 ===
+Domain: Fractions, Decimals, Percentages
+
+--- Simplifying fractions to simplest form ---
+
+Question 1: Write 18/24 in its simplest form.
+Answer: 3/4
+Working: Find the highest common factor of 18 and 24, which is 6. Divide numerator and denominator by 6: 18 ÷ 6 = 3, 24 ÷ 6 = 4. The simplest form is 3/4.
+
+Question 2: Write 42/70 in its simplest form.
+Answer: 3/5
+Working: Find the highest common factor of 42 and 70, which is 14. 42 ÷ 14 = 3 and 70 ÷ 14 = 5. The simplest form is 3/5.
+
+Question 3: In a class of 32 children, 20 walk to school. What fraction of the class walk to school? Give your answer in its simplest form.
+Answer: 5/8
+Working: The fraction is 20/32. The highest common factor of 20 and 32 is 4. 20 ÷ 4 = 5 and 32 ÷ 4 = 8. In simplest form, the fraction is 5/8.
+
+Question 4: A baker bakes 108 muffins. 84 of the muffins are blueberry. What fraction of the muffins are blueberry? Give your answer in its simplest form.
+Answer: 7/9
+Working: The fraction is 84/108. The highest common factor of 84 and 108 is 12. 84 ÷ 12 = 7 and 108 ÷ 12 = 9. In simplest form, the fraction is 7/9.
+
+Question 5: Write 96/120 in its simplest form.
+Answer: 4/5
+Working: Find the highest common factor of 96 and 120, which is 24. 96 ÷ 24 = 4 and 120 ÷ 24 = 5. In simplest form, the fraction is 4/5.
+
+--- Common denominators ---
+
+Question 6: What is the lowest common denominator of 3/4 and 5/6?
+Answer: 12
+Working: Multiples of 4: 4, 8, 12, 16... Multiples of 6: 6, 12, 18... The lowest common multiple of 4 and 6 is 12, so the lowest common denominator is 12.
+
+Question 7: Express 2/5 and 3/8 using their lowest common denominator.
+Answer: 16/40 and 15/40
+Working: The lowest common multiple of 5 and 8 is 40. 2/5 = (2 × 8)/(5 × 8) = 16/40. 3/8 = (3 × 5)/(8 × 5) = 15/40.
+
+Question 8: What is the lowest common denominator of the three fractions 1/4, 2/3 and 5/6?
+Answer: 12
+Working: Multiples of 4: 4, 8, 12, 16... Multiples of 3: 3, 6, 9, 12... Multiples of 6: 6, 12, 18... The lowest common multiple of 4, 3, and 6 is 12.
+
+Question 9: Rewrite 5/8 and 7/12 as equivalent fractions with their lowest common denominator.
+Answer: 15/24 and 14/24
+Working: The lowest common multiple of 8 and 12 is 24. For 5/8: multiply numerator and denominator by 3 to get 15/24. For 7/12: multiply numerator and denominator by 2 to get 14/24.
+
+Question 10: Convert 4/9 and 5/6 into equivalent fractions with a common denominator of 36.
+Answer: 16/36 and 30/36
+Working: 4/9 = (4 × 4)/(9 × 4) = 16/36. 5/6 = (5 × 6)/(6 × 6) = 30/36.
+
+--- Ordering and comparing fractions via LCM ---
+
+Question 11: Which fraction is greater, 5/8 or 7/12?
+Answer: 5/8
+Working: The lowest common denominator of 8 and 12 is 24. 5/8 = 15/24 and 7/12 = 14/24. Since 15/24 > 14/24, 5/8 is greater.
+
+Question 12: Write the fractions 3/4, 2/3 and 7/12 in order of size, starting with the smallest.
+Answer: 7/12, 2/3, 3/4
+Working: The lowest common denominator of 4, 3, and 12 is 12. 3/4 = 9/12, 2/3 = 8/12, 7/12 = 7/12. Comparing numerators: 7/12 < 8/12 < 9/12, so the order is 7/12, 2/3, 3/4.
+
+Question 13: Write these fractions in ascending order: 5/6, 7/9, 11/18, 2/3.
+Answer: 11/18, 2/3, 7/9, 5/6
+Working: The lowest common denominator of 6, 9, 18, and 3 is 18. Convert each fraction: 5/6 = 15/18, 7/9 = 14/18, 11/18 = 11/18, 2/3 = 12/18. Ordering from smallest to largest: 11/18, 12/18 (2/3), 14/18 (7/9), 15/18 (5/6).
+
+Question 14: Leo reads 5/8 of a book. Mia reads 7/10 of the same book. Who has read a greater fraction of the book?
+Answer: Mia
+Working: The lowest common denominator of 8 and 10 is 40. Leo: 5/8 = 25/40. Mia: 7/10 = 28/40. Since 28/40 > 25/40, Mia has read more.
+
+Question 15: Write these improper fractions in ascending order: 4/3, 7/6, 9/8, 5/4.
+Answer: 9/8, 7/6, 5/4, 4/3
+Working: The lowest common denominator of 3, 6, 8, and 4 is 24. Convert each: 4/3 = 32/24, 7/6 = 28/24, 9/8 = 27/24, 5/4 = 30/24. Ordering the numerators: 27/24 (9/8), 28/24 (7/6), 30/24 (5/4), 32/24 (4/3).
+
+--- Benchmarking fractions against 1/2 ---
+
+Question 16: Is 5/12 greater than, less than, or equal to 1/2?
+Answer: less than 1/2
+Working: Half of 12 is 6, so 1/2 is equivalent to 6/12. Since 5/12 < 6/12, 5/12 is less than 1/2.
+
+Question 17: Compare 4/9 and 7/12 by benchmarking against 1/2. Which fraction is greater?
+Answer: 7/12
+Working: Half of 9 is 4.5, so 4/9 is less than 1/2. Half of 12 is 6, so 7/12 is greater than 1/2 (6/12). Therefore, 7/12 is greater than 4/9.
+
+Question 18: From this list of fractions, write down all the fractions that are greater than 1/2: 3/8, 5/9, 4/11, 7/12.
+Answer: 5/9 and 7/12
+Working: 3/8: half of 8 is 4, 3 < 4 (less than 1/2). 5/9: half of 9 is 4.5, 5 > 4.5 (greater than 1/2). 4/11: half of 11 is 5.5, 4 < 5.5 (less than 1/2). 7/12: half of 12 is 6, 7 > 6 (greater than 1/2). The fractions greater than 1/2 are 5/9 and 7/12.
+
+Question 19: Which is greater, 5/11 or 6/10? Use 1/2 as a benchmark to justify your answer.
+Answer: 6/10
+Working: Half of 11 is 5.5, so 5/11 is less than 1/2. Half of 10 is 5, so 6/10 is greater than 1/2. Since 5/11 < 1/2 and 6/10 > 1/2, 6/10 is greater.
+
+Question 20: Which of these fractions is closest to 1/2: 4/10, 7/16, or 9/20?
+Answer: 9/20
+Working: Compare each fraction's difference from 1/2: 1/2 = 5/10, so 4/10 is 1/10 (0.1) away from 1/2. 1/2 = 8/16, so 7/16 is 1/16 (0.0625) away from 1/2. 1/2 = 10/20, so 9/20 is 1/20 (0.05) away from 1/2. 1/20 is the smallest difference, so 9/20 is closest to 1/2.

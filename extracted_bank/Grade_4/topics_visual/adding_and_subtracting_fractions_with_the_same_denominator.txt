@@ -1,0 +1,1483 @@
+###################################
+Adding and subtracting fractions with the same denominator
+###################################
+
+--- Adding fractions with the same denominator ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+Calculate: 2/7 + 3/7
+
+2. Look at the picture! {grandfather_name} is looking at this.
+Calculate: 2/7 + 3/7
+
+3. Look at the picture! {mother_name} is looking at this.
+Calculate: 2/7 + 3/7
+
+4. Look at the picture! {father_name} is looking at this.
+Calculate: 2/7 + 3/7
+
+5. Look at the picture! {sibling_name} is looking at this.
+Calculate: 2/7 + 3/7
+
+6. Look at the picture! {user_name} is looking at this.
+Calculate: 2/7 + 3/7
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 2/7 + 3/7
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+44. Look at the picture! {mother_name} is looking at this.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+45. Look at the picture! {father_name} is looking at this.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+46. Look at the picture! {sibling_name} is looking at this.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+47. Look at the picture! {user_name} is looking at this.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Liam walks 3/10 of a kilometre in the morning and 4/10 of a kilometre in the afternoon. What fraction of a kilometre does Liam walk altogether?
+
+83. Look at the picture! {grandmother_name} is looking at this.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+84. Look at the picture! {grandfather_name} is looking at this.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+85. Look at the picture! {mother_name} is looking at this.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+86. Look at the picture! {father_name} is looking at this.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+87. Look at the picture! {sibling_name} is looking at this.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+88. Look at the picture! {user_name} is looking at this.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 5/8 + 4/8. Give your answer as an improper fraction.
+
+124. Look at the picture! {grandmother_name} is looking at this.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+125. Look at the picture! {grandfather_name} is looking at this.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+126. Look at the picture! {mother_name} is looking at this.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+127. Look at the picture! {father_name} is looking at this.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+128. Look at the picture! {sibling_name} is looking at this.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+129. Look at the picture! {user_name} is looking at this.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 4/9 + ? = 8/9
+
+165. Look at the picture! {grandmother_name} is looking at this.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+167. Look at the picture! {mother_name} is looking at this.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+168. Look at the picture! {father_name} is looking at this.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+169. Look at the picture! {sibling_name} is looking at this.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+170. Look at the picture! {user_name} is looking at this.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Three children share a large carton of juice. Maya drinks 2/12 of the carton, Ethan drinks 5/12, and Chloe drinks 3/12. What fraction of the carton do they drink in total?
+
+206. Look at the picture! {grandmother_name} is looking at this.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+207. Look at the picture! {grandfather_name} is looking at this.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+208. Look at the picture! {mother_name} is looking at this.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+209. Look at the picture! {father_name} is looking at this.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+210. Look at the picture! {sibling_name} is looking at this.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+211. Look at the picture! {user_name} is looking at this.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A baker uses 5/6 of a kilogram of flour for white bread and 4/6 of a kilogram of flour for brown bread. Write the total amount of flour used as a mixed number.
+
+--- Subtracting fractions with the same denominator ---
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Calculate: 7/9 - 2/9
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Calculate: 7/9 - 2/9
+
+249. Look at the picture! {mother_name} is looking at this.
+Calculate: 7/9 - 2/9
+
+250. Look at the picture! {father_name} is looking at this.
+Calculate: 7/9 - 2/9
+
+251. Look at the picture! {sibling_name} is looking at this.
+Calculate: 7/9 - 2/9
+
+252. Look at the picture! {user_name} is looking at this.
+Calculate: 7/9 - 2/9
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 7/9 - 2/9
+
+288. Look at the picture! {grandmother_name} is looking at this.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+290. Look at the picture! {mother_name} is looking at this.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+291. Look at the picture! {father_name} is looking at this.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+292. Look at the picture! {sibling_name} is looking at this.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+293. Look at the picture! {user_name} is looking at this.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A bottle contains 9/10 of a litre of water. Sophie pours out 4/10 of a litre. How much water is left in the bottle?
+
+329. Look at the picture! {grandmother_name} is looking at this.
+Calculate: 1 - 3/8
+
+330. Look at the picture! {grandfather_name} is looking at this.
+Calculate: 1 - 3/8
+
+331. Look at the picture! {mother_name} is looking at this.
+Calculate: 1 - 3/8
+
+332. Look at the picture! {father_name} is looking at this.
+Calculate: 1 - 3/8
+
+333. Look at the picture! {sibling_name} is looking at this.
+Calculate: 1 - 3/8
+
+334. Look at the picture! {user_name} is looking at this.
+Calculate: 1 - 3/8
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate: 1 - 3/8
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate: 1 - 3/8
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate: 1 - 3/8
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate: 1 - 3/8
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate: 1 - 3/8
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate: 1 - 3/8
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate: 1 - 3/8
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate: 1 - 3/8
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate: 1 - 3/8
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate: 1 - 3/8
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate: 1 - 3/8
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate: 1 - 3/8
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate: 1 - 3/8
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate: 1 - 3/8
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate: 1 - 3/8
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 1 - 3/8
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate: 1 - 3/8
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate: 1 - 3/8
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 1 - 3/8
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 1 - 3/8
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 1 - 3/8
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+372. Look at the picture! {mother_name} is looking at this.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+373. Look at the picture! {father_name} is looking at this.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+374. Look at the picture! {sibling_name} is looking at this.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+375. Look at the picture! {user_name} is looking at this.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Find the missing fraction in the calculation: 11/12 - ? = 4/12
+
+411. Look at the picture! {grandmother_name} is looking at this.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+412. Look at the picture! {grandfather_name} is looking at this.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+413. Look at the picture! {mother_name} is looking at this.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+414. Look at the picture! {father_name} is looking at this.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+415. Look at the picture! {sibling_name} is looking at this.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+416. Look at the picture! {user_name} is looking at this.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate: 13/5 - 4/5. Give your answer as an improper fraction.
+
+452. Look at the picture! {grandmother_name} is looking at this.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+453. Look at the picture! {grandfather_name} is looking at this.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+454. Look at the picture! {mother_name} is looking at this.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+455. Look at the picture! {father_name} is looking at this.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+456. Look at the picture! {sibling_name} is looking at this.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+457. Look at the picture! {user_name} is looking at this.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A roll of ribbon is 1 whole metre long. James cuts a piece that is 2/7 of a metre long and another piece that is 3/7 of a metre long. What fraction of a metre of ribbon remains on the roll?

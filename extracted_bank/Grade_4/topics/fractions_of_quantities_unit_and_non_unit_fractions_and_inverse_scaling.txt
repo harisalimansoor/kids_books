@@ -1,0 +1,56 @@
+=== Topic: Fractions of quantities (unit and non-unit fractions) and inverse scaling ===
+Domain: Fractions and Decimals
+
+--- Unit fractions of quantities ---
+
+Question 1: What is \frac{1}{6} of 54?
+Answer: 9
+Working: 54 ÷ 6 = 9
+
+Question 2: A ribbon is 72 cm long. Anja cuts off \frac{1}{8} of the ribbon. How many centimetres does Anja cut off?
+Answer: 9 cm
+Working: 72 ÷ 8 = 9 cm
+
+Question 3: A box contains 96 marbles. \frac{1}{4} of the marbles are blue. How many marbles are blue?
+Answer: 24
+Working: 96 ÷ 4 = 24
+
+--- Non-unit fractions of quantities ---
+
+Question 4: Calculate \frac{3}{7} of 42.
+Answer: 18
+Working: 42 ÷ 7 = 6, then 6 × 3 = 18
+
+Question 5: There are 60 children in Year 4. \frac{3}{5} of them walk to school. How many children walk to school?
+Answer: 36
+Working: 60 ÷ 5 = 12, then 12 × 3 = 36
+
+Question 6: A reading book has 144 pages. Liam reads \frac{5}{12} of the book. How many pages does Liam read?
+Answer: 60
+Working: 144 ÷ 12 = 12, then 12 × 5 = 60
+
+Question 7: A bag contains 80 counters. \frac{3}{8} of the counters are red and the rest are yellow. How many yellow counters are in the bag?
+Answer: 50
+Working: 80 ÷ 8 = 10. Red counters = 3 × 10 = 30. Yellow counters = 80 - 30 = 50
+
+--- Inverse scaling ---
+
+Question 8: \frac{1}{5} of a number is 9. What is the number?
+Answer: 45
+Working: 9 × 5 = 45
+
+Question 9: \frac{1}{3} of the length of a piece of rope is 18 cm. What is the total length of the piece of rope?
+Answer: 54 cm
+Working: 18 × 3 = 54 cm
+
+Question 10: \frac{2}{3} of a number is 24. What is the number?
+Answer: 36
+Working: 24 ÷ 2 = 12 (which is \frac{1}{3}), then 12 × 3 = 36
+
+Question 11: \frac{3}{4} of the pupils in a class wear jumpers. If 21 pupils wear jumpers, how many pupils are there in total in the class?
+Answer: 28
+Working: 21 ÷ 3 = 7, then 7 × 4 = 28
+
+Question 12: \frac{5}{6} of a jug's full capacity is 450 ml. What is the full capacity of the jug in millilitres?
+Answer: 540 ml
+Working: 450 ÷ 5 = 90 ml (which is \frac{1}{6}), then 90 × 6 = 540 ml

@@ -1,0 +1,1893 @@
+###################################
+Ordering and comparing numbers beyond 1000 (<, >, =)
+###################################
+
+--- Comparing numbers beyond 1000 (<, >, =) ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+2. Look at the picture! {grandfather_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+3. Look at the picture! {mother_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+4. Look at the picture! {father_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+5. Look at the picture! {sibling_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+6. Look at the picture! {user_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+3,482 ___ 3,842
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+44. Look at the picture! {mother_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+45. Look at the picture! {father_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+46. Look at the picture! {sibling_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+47. Look at the picture! {user_name} is looking at this.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Write the correct symbol, <, >, or =, to make the statement true:
+
+6,000 + 700 + 9 ___ 6,790
+
+83. Look at the picture! {grandmother_name} is looking at this.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+85. Look at the picture! {mother_name} is looking at this.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+86. Look at the picture! {father_name} is looking at this.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+87. Look at the picture! {sibling_name} is looking at this.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+88. Look at the picture! {user_name} is looking at this.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A football stadium in Manchester has a capacity of 8,145 seats. A stadium in Birmingham has a capacity of 8,154 seats. Which stadium has the greater capacity?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+125. Look at the picture! {grandfather_name} is looking at this.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+126. Look at the picture! {mother_name} is looking at this.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+127. Look at the picture! {father_name} is looking at this.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+128. Look at the picture! {sibling_name} is looking at this.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+129. Look at the picture! {user_name} is looking at this.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+What is the smallest single digit that can be placed in the missing box to make the statement correct?
+
+7,5_4 > 7,568
+
+--- Ordering numbers beyond 1000 ---
+
+165. Look at the picture! {grandmother_name} is looking at this.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+166. Look at the picture! {grandfather_name} is looking at this.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+167. Look at the picture! {mother_name} is looking at this.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+168. Look at the picture! {father_name} is looking at this.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+169. Look at the picture! {sibling_name} is looking at this.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+170. Look at the picture! {user_name} is looking at this.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Write these numbers in order of size, starting with the smallest:
+
+4,215, 4,125, 4,521, 4,251
+
+206. Look at the picture! {grandmother_name} is looking at this.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+207. Look at the picture! {grandfather_name} is looking at this.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+208. Look at the picture! {mother_name} is looking at this.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+209. Look at the picture! {father_name} is looking at this.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+210. Look at the picture! {sibling_name} is looking at this.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+211. Look at the picture! {user_name} is looking at this.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Write these numbers in descending order (from greatest to smallest):
+
+9,080, 9,800, 9,008, 9,808
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+249. Look at the picture! {mother_name} is looking at this.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+250. Look at the picture! {father_name} is looking at this.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+251. Look at the picture! {sibling_name} is looking at this.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+252. Look at the picture! {user_name} is looking at this.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Four schools collected tokens for a charity appeal:
+- Oak School: 5 thousands, 3 tens and 6 ones
+- Pine School: 5,360
+- Elm School: 5,063
+- Ash School: 5,306
+
+Order the schools from the fewest tokens collected to the most tokens collected.
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+290. Look at the picture! {mother_name} is looking at this.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+291. Look at the picture! {father_name} is looking at this.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+292. Look at the picture! {sibling_name} is looking at this.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+293. Look at the picture! {user_name} is looking at this.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Here are four digit cards: 2, 5, 8, 3.
+
+Use all four cards once to make:
+a) The smallest possible 4-digit number.
+b) The greatest possible 4-digit number.
+
+Write both numbers.

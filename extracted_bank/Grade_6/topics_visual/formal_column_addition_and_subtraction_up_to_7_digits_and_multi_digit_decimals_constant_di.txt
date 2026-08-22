@@ -1,0 +1,1731 @@
+###################################
+Formal column addition and subtraction up to 7 digits and multi-digit decimals; constant difference mental subtraction (5000 - 1728 = 4999 - 1727)
+###################################
+
+--- Formal column addition and subtraction up to 7 digits ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+Calculate 3,425,180 + 1,253,604.
+
+2. Look at the picture! {grandfather_name} is looking at this.
+Calculate 3,425,180 + 1,253,604.
+
+3. Look at the picture! {mother_name} is looking at this.
+Calculate 3,425,180 + 1,253,604.
+
+4. Look at the picture! {father_name} is looking at this.
+Calculate 3,425,180 + 1,253,604.
+
+5. Look at the picture! {sibling_name} is looking at this.
+Calculate 3,425,180 + 1,253,604.
+
+6. Look at the picture! {user_name} is looking at this.
+Calculate 3,425,180 + 1,253,604.
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Calculate 5,834,291 - 2,461,835.
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Calculate 5,834,291 - 2,461,835.
+
+44. Look at the picture! {mother_name} is looking at this.
+Calculate 5,834,291 - 2,461,835.
+
+45. Look at the picture! {father_name} is looking at this.
+Calculate 5,834,291 - 2,461,835.
+
+46. Look at the picture! {sibling_name} is looking at this.
+Calculate 5,834,291 - 2,461,835.
+
+47. Look at the picture! {user_name} is looking at this.
+Calculate 5,834,291 - 2,461,835.
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+83. Look at the picture! {grandmother_name} is looking at this.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+85. Look at the picture! {mother_name} is looking at this.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+86. Look at the picture! {father_name} is looking at this.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+87. Look at the picture! {sibling_name} is looking at this.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+88. Look at the picture! {user_name} is looking at this.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+126. Look at the picture! {mother_name} is looking at this.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+127. Look at the picture! {father_name} is looking at this.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+128. Look at the picture! {sibling_name} is looking at this.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+129. Look at the picture! {user_name} is looking at this.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+166. Look at the picture! {grandfather_name} is looking at this.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+167. Look at the picture! {mother_name} is looking at this.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+168. Look at the picture! {father_name} is looking at this.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+169. Look at the picture! {sibling_name} is looking at this.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+170. Look at the picture! {user_name} is looking at this.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+--- Column addition and subtraction with multi-digit decimals ---
+
+206. Look at the picture! {grandmother_name} is looking at this.
+Calculate 46.38 + 27.85.
+
+207. Look at the picture! {grandfather_name} is looking at this.
+Calculate 46.38 + 27.85.
+
+208. Look at the picture! {mother_name} is looking at this.
+Calculate 46.38 + 27.85.
+
+209. Look at the picture! {father_name} is looking at this.
+Calculate 46.38 + 27.85.
+
+210. Look at the picture! {sibling_name} is looking at this.
+Calculate 46.38 + 27.85.
+
+211. Look at the picture! {user_name} is looking at this.
+Calculate 46.38 + 27.85.
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Calculate 83.4 - 29.675.
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Calculate 83.4 - 29.675.
+
+249. Look at the picture! {mother_name} is looking at this.
+Calculate 83.4 - 29.675.
+
+250. Look at the picture! {father_name} is looking at this.
+Calculate 83.4 - 29.675.
+
+251. Look at the picture! {sibling_name} is looking at this.
+Calculate 83.4 - 29.675.
+
+252. Look at the picture! {user_name} is looking at this.
+Calculate 83.4 - 29.675.
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+290. Look at the picture! {mother_name} is looking at this.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+291. Look at the picture! {father_name} is looking at this.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+292. Look at the picture! {sibling_name} is looking at this.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+293. Look at the picture! {user_name} is looking at this.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+329. Look at the picture! {grandmother_name} is looking at this.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+331. Look at the picture! {mother_name} is looking at this.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+332. Look at the picture! {father_name} is looking at this.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+333. Look at the picture! {sibling_name} is looking at this.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+334. Look at the picture! {user_name} is looking at this.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+--- Constant difference mental subtraction ---
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+372. Look at the picture! {mother_name} is looking at this.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+373. Look at the picture! {father_name} is looking at this.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+374. Look at the picture! {sibling_name} is looking at this.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+375. Look at the picture! {user_name} is looking at this.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+411. Look at the picture! {grandmother_name} is looking at this.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+412. Look at the picture! {grandfather_name} is looking at this.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+413. Look at the picture! {mother_name} is looking at this.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+414. Look at the picture! {father_name} is looking at this.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+415. Look at the picture! {sibling_name} is looking at this.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+416. Look at the picture! {user_name} is looking at this.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+452. Look at the picture! {grandmother_name} is looking at this.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+453. Look at the picture! {grandfather_name} is looking at this.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+454. Look at the picture! {mother_name} is looking at this.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+455. Look at the picture! {father_name} is looking at this.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+456. Look at the picture! {sibling_name} is looking at this.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+457. Look at the picture! {user_name} is looking at this.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+493. Look at the picture! {grandmother_name} is looking at this.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+494. Look at the picture! {grandfather_name} is looking at this.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+495. Look at the picture! {mother_name} is looking at this.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+496. Look at the picture! {father_name} is looking at this.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+497. Look at the picture! {sibling_name} is looking at this.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+498. Look at the picture! {user_name} is looking at this.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+499. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+500. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+501. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+502. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+503. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+504. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+505. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+506. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+507. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+508. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+509. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+510. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+511. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+512. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+513. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+514. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+515. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+516. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+517. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+518. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+519. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+520. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+521. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+522. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+523. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+524. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+525. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+526. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+527. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+528. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+529. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+530. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+531. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+532. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+533. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+534. Look at the picture! {grandmother_name} is looking at this.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+535. Look at the picture! {grandfather_name} is looking at this.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+536. Look at the picture! {mother_name} is looking at this.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+537. Look at the picture! {father_name} is looking at this.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+538. Look at the picture! {sibling_name} is looking at this.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+539. Look at the picture! {user_name} is looking at this.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+540. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+541. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+542. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+543. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+544. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+545. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+546. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+547. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+548. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+549. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+550. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+551. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+552. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+553. Look at the picture! {father_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+554. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+555. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+556. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+557. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+558. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+559. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+560. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+561. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+562. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+563. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+564. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+565. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+566. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+567. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+568. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+569. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+570. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+571. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+572. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+573. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+574. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.

@@ -1,0 +1,77 @@
+=== Topic: Comparing, ordering, and rounding decimals (1 d.p. to nearest integer) ===
+Domain: Fractions and Decimals
+
+--- Comparing decimals ---
+
+Question 1: Write the correct symbol, < or >, to make the statement true:
+3.4 [ ] 3.8
+Answer: <
+Working: Both numbers have 3 ones. Comparing the tenths, 4 tenths is less than 8 tenths, so 3.4 < 3.8.
+
+Question 2: Write the correct symbol, <, > or =, to make the statement true:
+5.62 [ ] 5.26
+Answer: >
+Working: Both numbers have 5 ones. Comparing tenths, 6 tenths is greater than 2 tenths, so 5.62 > 5.26.
+
+Question 3: Which decimal is smaller: 0.74 or 0.47?
+Answer: 0.47
+Working: Both have 0 ones. Comparing the tenths, 4 tenths is smaller than 7 tenths, so 0.47 is smaller.
+
+Question 4: Bag A has a mass of 2.75 kg. Bag B has a mass of 2.57 kg. Which bag is heavier?
+Answer: Bag A
+Working: Compare 2.75 kg and 2.57 kg. Both have 2 ones. 7 tenths is greater than 5 tenths, so 2.75 kg > 2.57 kg. Bag A is heavier.
+
+Question 5: Write the single missing digit that makes this statement true: 8.4_ > 8.48
+Answer: 9
+Working: Both numbers have 8 ones and 4 tenths. For 8.4_ to be strictly greater than 8.48, the hundredths digit must be greater than 8, which is 9.
+
+--- Ordering decimals ---
+
+Question 6: Write these decimals in order from smallest to largest:
+2.3, 1.9, 2.7
+Answer: 1.9, 2.3, 2.7
+Working: Compare the whole numbers first: 1.9 has 1 one. 2.3 and 2.7 have 2 ones, with 3 tenths being smaller than 7 tenths. Order: 1.9, 2.3, 2.7.
+
+Question 7: Write these numbers in order from smallest to largest:
+0.45, 0.54, 0.05, 0.50
+Answer: 0.05, 0.45, 0.50, 0.54
+Working: Compare tenths first: 0.05 (0 tenths), 0.45 (4 tenths), 0.50 and 0.54 (5 tenths). Then compare hundredths for 0.50 and 0.54 (0 hundredths < 4 hundredths). Order: 0.05, 0.45, 0.50, 0.54.
+
+Question 8: Write these numbers in descending order (largest to smallest):
+6.82, 6.28, 6.88, 6.22
+Answer: 6.88, 6.82, 6.28, 6.22
+Working: Group by tenths: 6.88 and 6.82 have 8 tenths (8 hundredths > 2 hundredths). 6.28 and 6.22 have 2 tenths (8 hundredths > 2 hundredths). Order: 6.88, 6.82, 6.28, 6.22.
+
+Question 9: Four children record their heights in metres: 1.34 m, 1.43 m, 1.31 m, 1.40 m. Write the heights in order starting with the tallest.
+Answer: 1.43 m, 1.40 m, 1.34 m, 1.31 m
+Working: Start with the greatest: 1.43 m > 1.40 m (4 tenths), followed by 1.34 m > 1.31 m (3 tenths). Tallest to shortest: 1.43 m, 1.40 m, 1.34 m, 1.31 m.
+
+Question 10: Four race times are recorded in seconds: 12.05 s, 12.50 s, 12.15 s, 12.55 s. Write the times in order from fastest to slowest.
+Answer: 12.05 s, 12.15 s, 12.50 s, 12.55 s
+Working: The fastest time is the shortest duration: 12.05 s < 12.15 s < 12.50 s < 12.55 s.
+
+--- Rounding decimals (1 d.p. to nearest integer) ---
+
+Question 11: Round 4.2 to the nearest whole number.
+Answer: 4
+Working: 4.2 lies between 4 and 5. The tenths digit is 2, which is less than 5, so round down to 4.
+
+Question 12: Round 7.8 to the nearest whole number.
+Answer: 8
+Working: 7.8 lies between 7 and 8. The tenths digit is 8, which is 5 or more, so round up to 8.
+
+Question 13: Round 9.5 to the nearest whole number.
+Answer: 10
+Working: 9.5 is the midpoint between 9 and 10. By convention, 5 tenths rounds up to the next whole number, which is 10.
+
+Question 14: A piece of wood is 6.7 metres long. What is the length of the wood rounded to the nearest metre?
+Answer: 7 m
+Working: The tenths digit is 7, which is 5 or more, so 6.7 rounds up to 7 m.
+
+Question 15: A parcel has a mass of 13.4 kg. What is the mass of the parcel rounded to the nearest kilogram?
+Answer: 13 kg
+Working: 13.4 lies between 13 and 14. The tenths digit is 4, so round down to 13 kg.
+
+Question 16: A number with 1 decimal place is rounded to the nearest whole number. The result is 10. What is the smallest number it could be?
+Answer: 9.5
+Working: Numbers with 1 decimal place that round to 10 are 9.5, 9.6, 9.7, 9.8, 9.9, 10.1, 10.2, 10.3, 10.4. The smallest of these is 9.5.

@@ -1,0 +1,92 @@
+=== Topic: Angle rules: straight lines (180^ degrees), around a point (360^ degrees), vertically opposite (a=c), triangle angles (180^ degrees); impossible triangle proofs ===
+Domain: Geometry: Properties of Shapes
+
+--- Angles on a straight line ---
+
+Question 1: Two angles meet on a straight line. One of the angles is 64°. Calculate the size of the other angle.
+Answer: 116°
+Working: Angles on a straight line add up to 180°. 180° - 64° = 116°.
+
+Question 2: Three angles lie on a straight line. Two of the angles measure 48° and 75°. Calculate the size of the third angle.
+Answer: 57°
+Working: Angles on a straight line total 180°. 48° + 75° = 123°. 180° - 123° = 57°.
+
+Question 3: A straight line is divided into three angles. One is a right angle (90°) and another angle is 37°. What is the size of the third angle?
+Answer: 53°
+Working: Angles on a straight line add to 180°. 90° + 37° = 127°. 180° - 127° = 53°.
+
+Question 4: Two angles lie on a straight line. Angle A is three times as large as Angle B. Calculate the size of Angle A.
+Answer: 135°
+Working: The angles add up to 180°. Angle A + Angle B = 3 parts + 1 part = 4 equal parts. 180° ÷ 4 = 45° (Angle B). Angle A = 3 × 45° = 135°.
+
+--- Angles around a point ---
+
+Question 5: Three angles meet at a point. Two of the angles are 130° and 115°. Calculate the size of the third angle.
+Answer: 115°
+Working: Angles around a point add up to 360°. 130° + 115° = 245°. 360° - 245° = 115°.
+
+Question 6: Four angles meet at a point. Three of the angles are 85°, 120°, and 90°. Calculate the size of the fourth angle.
+Answer: 65°
+Working: Angles around a point total 360°. 85° + 120° + 90° = 295°. 360° - 295° = 65°.
+
+Question 7: A regular pentagon and an equilateral triangle share a vertex at a single point without overlapping. The interior angle of the pentagon is 108° and the interior angle of the triangle is 60°. Calculate the size of the remaining angle around the point.
+Answer: 192°
+Working: Angles around a point sum to 360°. Sum of given angles = 108° + 60° = 168°. Remaining angle = 360° - 168° = 192°.
+
+Question 8: Five equal angles meet around a single point. What is the size of each angle?
+Answer: 72°
+Working: Angles around a point add up to 360°. 360° ÷ 5 = 72°.
+
+--- Vertically opposite angles ---
+
+Question 9: Two straight lines intersect at a point. One of the angles formed is 73°. What is the size of the angle vertically opposite to it?
+Answer: 73°
+Working: Vertically opposite angles are equal. Therefore, the opposite angle is 73°.
+
+Question 10: Two straight lines cross to form four angles. One angle is 124°. What is the size of an adjacent angle on the straight line?
+Answer: 56°
+Working: Adjacent angles on a straight line add up to 180°. 180° - 124° = 56°.
+
+Question 11: Two straight lines cross at a point. One of the angles formed is 58°. Calculate the sum of the other three angles.
+Answer: 302°
+Working: Angles around a point total 360°. 360° - 58° = 302°.
+
+Question 12: Two straight lines intersect to form four angles: a, b, c, and d in order around the intersection. Angles a and c are vertically opposite. If angle a = 42°, calculate the value of angle b + angle d.
+Answer: 276°
+Working: Angle c = angle a = 42° because vertically opposite angles are equal. The four angles total 360°. Angle b + angle d = 360° - (42° + 42°) = 360° - 84° = 276°.
+
+--- Angles in a triangle ---
+
+Question 13: A triangle has angles measuring 55° and 65°. Calculate the size of the third angle.
+Answer: 60°
+Working: Angles in a triangle add up to 180°. 55° + 65° = 120°. 180° - 120° = 60°.
+
+Question 14: A right-angled triangle has one angle of 34°. Calculate the size of the other acute angle.
+Answer: 56°
+Working: A right-angled triangle contains a 90° angle. The two acute angles add up to 90°. 90° - 34° = 56° (or 180° - 90° - 34° = 56°).
+
+Question 15: An isosceles triangle has an obtuse angle of 110°. Calculate the size of each of the other two equal angles.
+Answer: 35°
+Working: Angles in a triangle add to 180°. 180° - 110° = 70°. Since the remaining two angles are equal: 70° ÷ 2 = 35° each.
+
+Question 16: In a scalene triangle, one angle is 50°. The second angle is 20° larger than the third angle. Calculate the size of the smallest angle.
+Answer: 55°
+Working: The sum of the three angles is 180°. Sum of the remaining two angles = 180° - 50° = 130°. If the second is 20° larger, subtract 20° from 130° to get 110°. Divide by 2 to find the third angle: 110° ÷ 2 = 55°. (The angles are 50°, 75°, and 55°, so the smallest angle is 50°... wait: 50° is smaller than 55°. Let's re-verify: Angles are 50°, 75°, 55°. Smallest is 50°.)
+
+--- Impossible triangle proofs ---
+
+Question 17: Explain why it is impossible for a triangle to have two right angles.
+Answer: Two right angles sum to 180° (90° + 90° = 180°), leaving 0° for the third angle, so a three-sided closed shape cannot be formed.
+Working: Interior angles of a triangle sum to 180°. If two angles are 90°, their sum is 180°, which leaves 0° for the third angle.
+
+Question 18: A pupil claims that a triangle has angles measuring 85°, 55°, and 45°. Explain why this triangle is impossible.
+Answer: The angles add up to 185° (85° + 55° + 45° = 185°), but angles in a triangle must add up to exactly 180°.
+Working: 85° + 55° + 45° = 185°. The interior angles of any triangle must sum to exactly 180°.
+
+Question 19: Explain why a triangle cannot have two obtuse angles.
+Answer: An obtuse angle is greater than 90°. Two obtuse angles would add up to more than 180°, which exceeds the 180° total for all three angles in a triangle.
+Working: Each obtuse angle > 90°. Two obtuse angles > 90° + 90° = 180°. Since all three angles in a triangle must sum to exactly 180°, this is impossible.
+
+Question 20: Can a triangle have angles measuring 62°, 71°, and 47°? Explain your answer using calculations.
+Answer: Yes, because 62° + 71° + 47° = 180°, which satisfies the rule that angles in a triangle sum to 180°.
+Working: 62° + 71° + 47° = 180°. Since the sum of the angles is exactly 180°, the triangle is possible.

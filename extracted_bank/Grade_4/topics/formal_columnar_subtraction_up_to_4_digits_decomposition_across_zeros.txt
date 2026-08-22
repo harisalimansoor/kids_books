@@ -1,0 +1,36 @@
+=== Topic: Formal columnar subtraction up to 4 digits (decomposition across zeros) ===
+Domain: Addition and Subtraction
+
+--- Formal columnar subtraction up to 4 digits (decomposition across zeros) ---
+
+Question 1: Use formal column subtraction to calculate 5000 - 2374.
+Answer: 2626
+Working: Set up in columns. Exchange 1 thousand for 10 hundreds, 1 hundred for 10 tens, and 1 ten for 10 ones. Subtract the ones: 10 - 4 = 6. Subtract the tens: 9 - 7 = 2. Subtract the hundreds: 9 - 3 = 6. Subtract the thousands: 4 - 2 = 2. The answer is 2626.
+
+Question 2: Calculate 4002 - 1635 using formal column subtraction.
+Answer: 2367
+Working: Set up in columns. In the ones column, 2 is less than 5. Decompose across the zeros from the thousands: 4 thousands becomes 3 thousands, 9 hundreds, 9 tens, and 12 ones. Ones: 12 - 5 = 7. Tens: 9 - 3 = 6. Hundreds: 9 - 6 = 3. Thousands: 3 - 1 = 2. The answer is 2367.
+
+Question 3: A library has 6004 books. 2839 of the books are borrowed. How many books are left in the library?
+Answer: 3165
+Working: Calculate 6004 - 2839 using column subtraction. Exchange across zeros: 6 thousands becomes 5 thousands, 9 hundreds, 9 tens, and 14 ones. Ones: 14 - 9 = 5. Tens: 9 - 3 = 6. Hundreds: 9 - 8 = 1. Thousands: 5 - 2 = 3. There are 3165 books left.
+
+Question 4: A school aims to raise £3000 for charity. They have raised £1468 so far. How much more money do they need to raise?
+Answer: £1532
+Working: Calculate 3000 - 1468 using column subtraction. Exchange 3 thousands into 2 thousands, 9 hundreds, 9 tens, and 10 ones. Ones: 10 - 8 = 2. Tens: 9 - 6 = 3. Hundreds: 9 - 4 = 5. Thousands: 2 - 1 = 1. They need to raise £1532.
+
+Question 5: Use formal column subtraction to calculate 7030 - 3584.
+Answer: 3446
+Working: Set up in columns. In the ones: exchange 1 ten from 3 tens to make 2 tens and 10 ones; 10 - 4 = 6. In the tens: need to subtract 8 from 2, exchange from 7 thousands (becomes 6 thousands, 9 hundreds, 12 tens); 12 - 8 = 4. Hundreds: 9 - 5 = 4. Thousands: 6 - 3 = 3. The answer is 3446.
+
+Question 6: A plane flight is 5005 km long. It has travelled 2748 km. How many kilometres are left to travel?
+Answer: 2257 km
+Working: Calculate 5005 - 2748. Decompose across the zeros: 5 thousands becomes 4 thousands, 9 hundreds, 9 tens, and 15 ones. Ones: 15 - 8 = 7. Tens: 9 - 4 = 5. Hundreds: 9 - 7 = 2. Thousands: 4 - 2 = 2. There are 2257 km left.
+
+Question 7: What number is the missing value in the number sentence: 8000 - _____ = 4627?
+Answer: 3373
+Working: To find the missing subtrahend, calculate 8000 - 4627 using column subtraction. Exchange 8 thousands to 7 thousands, 9 hundreds, 9 tens, and 10 ones. Ones: 10 - 7 = 3. Tens: 9 - 2 = 7. Hundreds: 9 - 6 = 3. Thousands: 7 - 4 = 3. The missing value is 3373.
+
+Question 8: Calculate 9003 - 5476 using formal written column subtraction.
+Answer: 3527
+Working: Set up in columns. Decompose across the zeros: 9 thousands becomes 8 thousands, 9 hundreds, 9 tens, and 13 ones. Ones: 13 - 6 = 7. Tens: 9 - 7 = 2. Hundreds: 9 - 4 = 5. Thousands: 8 - 5 = 3. The answer is 3527.

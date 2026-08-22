@@ -1,0 +1,62 @@
+=== Topic: Addition and subtraction of fractions and mixed numbers with unlike denominators (including regrouping 5\frac{1{4 - 2\frac{2{3 = 2\frac{7{12) ===
+Domain: Fractions, Decimals, Percentages
+
+--- Addition of fractions and mixed numbers with unlike denominators ---
+
+Question 1: Calculate 1/3 + 2/5. Give your answer in its simplest form.
+Answer: 11/15
+Working: The lowest common denominator of 3 and 5 is 15. 1/3 = 5/15 and 2/5 = 6/15. 5/15 + 6/15 = 11/15.
+
+Question 2: Calculate 3/8 + 1/4. Give your answer in its simplest form.
+Answer: 5/8
+Working: The lowest common denominator of 8 and 4 is 8. 1/4 = 2/8. 3/8 + 2/8 = 5/8.
+
+Question 3: Calculate 5/6 + 3/4. Give your answer as a mixed number in its simplest form.
+Answer: 1 7/12
+Working: The lowest common denominator of 6 and 4 is 12. 5/6 = 10/12 and 3/4 = 9/12. 10/12 + 9/12 = 19/12 = 1 7/12.
+
+Question 4: Calculate 2 1/3 + 1 2/5. Give your answer as a mixed number in its simplest form.
+Answer: 3 11/15
+Working: Add the whole numbers: 2 + 1 = 3. Find a common denominator for the fractions: 1/3 = 5/15 and 2/5 = 6/15. 5/15 + 6/15 = 11/15. Combine with whole numbers: 3 + 11/15 = 3 11/15.
+
+Question 5: Oliver runs 1 3/4 km in the morning and 2 2/3 km in the afternoon. What is the total distance Oliver runs? Give your answer as a mixed number.
+Answer: 4 5/12 km
+Working: 1 3/4 + 2 2/3: Whole numbers = 1 + 2 = 3. Fractions: 3/4 = 9/12 and 2/3 = 8/12. 9/12 + 8/12 = 17/12 = 1 5/12. Total = 3 + 1 5/12 = 4 5/12 km.
+
+Question 6: Calculate 3 5/8 + 2 5/6. Give your answer as a mixed number in its simplest form.
+Answer: 6 11/24
+Working: Lowest common denominator of 8 and 6 is 24. 3 5/8 = 3 15/24 and 2 5/6 = 2 20/24. 3 + 2 = 5. 15/24 + 20/24 = 35/24 = 1 11/24. 5 + 1 11/24 = 6 11/24.
+
+Question 7: A baker mixes 1 7/10 kg of white flour, 3/5 kg of rye flour, and 1 1/2 kg of wholemeal flour. What is the total mass of flour used? Give your answer as a mixed number in its simplest form.
+Answer: 3 4/5 kg
+Working: Common denominator is 10. 1 7/10 = 1 7/10, 3/5 = 6/10, 1 1/2 = 1 5/10. Whole numbers: 1 + 1 = 2. Fractions: 7/10 + 6/10 + 5/10 = 18/10 = 1 8/10 = 1 4/5. Total: 2 + 1 4/5 = 3 4/5 kg.
+
+--- Subtraction of fractions and mixed numbers with unlike denominators (including regrouping) ---
+
+Question 8: Calculate 7/10 - 2/5. Give your answer in its simplest form.
+Answer: 3/10
+Working: The lowest common denominator is 10. 2/5 = 4/10. 7/10 - 4/10 = 3/10.
+
+Question 9: Calculate 5/6 - 3/8. Give your answer in its simplest form.
+Answer: 11/24
+Working: The lowest common denominator of 6 and 8 is 24. 5/6 = 20/24 and 3/8 = 9/24. 20/24 - 9/24 = 11/24.
+
+Question 10: Calculate 3 4/5 - 1 1/2. Give your answer as a mixed number in its simplest form.
+Answer: 2 3/10
+Working: The lowest common denominator of 5 and 2 is 10. 3 4/5 = 3 8/10 and 1 1/2 = 1 5/10. 3 - 1 = 2. 8/10 - 5/10 = 3/10. Answer = 2 3/10.
+
+Question 11: Calculate 4 1/3 - 1 3/4. Give your answer as a mixed number in its simplest form.
+Answer: 2 7/12
+Working: Find a common denominator of 12: 4 4/12 - 1 9/12. Regroup 1 whole from 4: 4 4/12 = 3 16/12. Subtract: 3 16/12 - 1 9/12 = 2 7/12.
+
+Question 12: Calculate 5 1/6 - 2 4/5. Give your answer as a mixed number in its simplest form.
+Answer: 2 11/30
+Working: Lowest common denominator of 6 and 5 is 30. 5 1/6 = 5 5/30 and 2 4/5 = 2 24/30. Regroup 1 whole from 5: 5 5/30 = 4 35/30. Subtract: 4 35/30 - 2 24/30 = 2 11/30.
+
+Question 13: A plank of wood is 6 1/8 m long. A carpenter cuts off a piece measuring 3 2/3 m. How long is the remaining piece of wood? Give your answer as a mixed number.
+Answer: 2 11/24 m
+Working: Common denominator of 8 and 3 is 24. 6 1/8 = 6 3/24 and 3 2/3 = 3 16/24. Regroup 1 whole from 6: 6 3/24 = 5 27/24. Subtract: 5 27/24 - 3 16/24 = 2 11/24 m.
+
+Question 14: Mia has a bottle containing 3 1/4 litres of water. She drinks 1 5/6 litres during sports day. How much water is left in the bottle? Give your answer as a mixed number in its simplest form.
+Answer: 1 5/12 litres
+Working: Lowest common denominator of 4 and 6 is 12. 3 1/4 = 3 3/12 and 1 5/6 = 1 10/12. Regroup 1 whole: 3 3/12 = 2 15/12. Subtract: 2 15/12 - 1 10/12 = 1 5/12 litres.

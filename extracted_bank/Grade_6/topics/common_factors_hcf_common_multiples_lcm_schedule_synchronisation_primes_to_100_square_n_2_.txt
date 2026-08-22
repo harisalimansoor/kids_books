@@ -1,0 +1,74 @@
+=== Topic: Common factors, HCF, common multiples, LCM (schedule synchronisation), primes to 100, square (n^2) and cube (n^3) powers ===
+Domain: Addition, Subtraction, Multiplication, Division & Operations
+
+--- Common factors and HCF ---
+
+Question 1: List all the common factors of 18 and 24 in ascending order, separated by commas.
+Answer: 1, 2, 3, 6
+Working: Factors of 18: 1, 2, 3, 6, 9, 18. Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24. The numbers in both lists are 1, 2, 3, 6.
+
+Question 2: Find the highest common factor (HCF) of 36 and 48.
+Answer: 12
+Working: Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36. Factors of 48: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48. The common factors are 1, 2, 3, 4, 6, 12. The highest common factor is 12.
+
+Question 3: A teacher has 42 red pencils and 70 blue pencils. She wants to divide all the pencils into identical packs containing the same number of red pencils and the same number of blue pencils, with none left over. What is the greatest number of packs she can make?
+Answer: 14
+Working: Find the HCF of 42 and 70. Factors of 42: 1, 2, 3, 6, 7, 14, 21, 42. Factors of 70: 1, 2, 5, 7, 10, 14, 35, 70. The common factors are 1, 2, 7, 14. The highest common factor is 14, so she can make 14 packs.
+
+Question 4: Find the highest common factor (HCF) of 45, 60, and 75.
+Answer: 15
+Working: Factors of 45: 1, 3, 5, 9, 15, 45. Factors of 60: 1, 2, 3, 4, 5, 6, 10, 12, 15, 20, 30, 60. Factors of 75: 1, 3, 5, 15, 25, 75. The common factors of all three numbers are 1, 3, 5, 15. The highest is 15.
+
+--- Common multiples and LCM (schedule synchronisation) ---
+
+Question 5: Find the lowest common multiple (LCM) of 6 and 8.
+Answer: 24
+Working: Multiples of 6: 6, 12, 18, 24, 30... Multiples of 8: 8, 16, 24, 32... The lowest common multiple is 24.
+
+Question 6: Write all the common multiples of 4 and 6 that are less than 40, in ascending order and separated by commas.
+Answer: 12, 24, 36
+Working: Multiples of 4 under 40: 4, 8, 12, 16, 20, 24, 28, 32, 36. Multiples of 6 under 40: 6, 12, 18, 24, 30, 36. The common multiples less than 40 are 12, 24, 36.
+
+Question 7: Bus A leaves the station every 12 minutes. Bus B leaves the station every 15 minutes. Both buses leave the station together at 08:30. At what time will both buses next leave the station together?
+Answer: 09:30
+Working: Find the LCM of 12 and 15. Multiples of 12: 12, 24, 36, 48, 60. Multiples of 15: 15, 30, 45, 60. The LCM is 60 minutes (1 hour). 08:30 + 1 hour = 09:30.
+
+Question 8: Two lighthouses flash their lights. Lighthouse X flashes every 20 seconds. Lighthouse Y flashes every 35 seconds. If they flash together at 14:00, how many seconds later will they next flash at the same time?
+Answer: 140
+Working: Find the LCM of 20 and 35. Multiples of 20: 20, 40, 60, 80, 100, 120, 140. Multiples of 35: 35, 70, 105, 140. The lowest common multiple is 140 seconds.
+
+--- Primes to 100 ---
+
+Question 9: List all the prime numbers between 20 and 35 in ascending order, separated by commas.
+Answer: 23, 29, 31
+Working: Numbers to test between 20 and 35: 23 has only factors 1 and 23. 29 has only factors 1 and 29. 31 has only factors 1 and 31. Other numbers are composite (21, 22, 24, 25, 26, 27, 28, 30, 32, 33, 34).
+
+Question 10: Jack says that 51, 87, and 91 are all prime numbers because they are odd. Give the smallest factor of 51 other than 1.
+Answer: 3
+Working: 5 + 1 = 6, which is divisible by 3. 51 ÷ 3 = 17, so 3 is a factor of 51. The smallest factor greater than 1 is 3.
+
+Question 11: I am thinking of a 2-digit prime number between 40 and 50. The sum of its two digits is 11. What number am I thinking of?
+Answer: 47
+Working: Prime numbers between 40 and 50 are 41, 43, and 47. Sum of digits: 4 + 1 = 5; 4 + 3 = 7; 4 + 7 = 11. The number is 47.
+
+Question 12: Two prime numbers add up to 40 and have a difference of 6. What are the two prime numbers? Give your answer with the smaller prime first, separated by a comma.
+Answer: 17, 23
+Working: Let the numbers be a and b with a + b = 40 and b - a = 6. 2b = 46, so b = 23. a = 40 - 23 = 17. Check: 17 and 23 are both prime numbers, 17 + 23 = 40, and 23 - 17 = 6.
+
+--- Square and cube powers ---
+
+Question 13: Calculate the value of 9² + 4³.
+Answer: 145
+Working: 9² = 9 × 9 = 81. 4³ = 4 × 4 × 4 = 64. 81 + 64 = 145.
+
+Question 14: Calculate the value of 12² - 5³.
+Answer: 19
+Working: 12² = 12 × 12 = 144. 5³ = 5 × 5 × 5 = 125. 144 - 125 = 19.
+
+Question 15: What is the only 2-digit whole number that is both a square number and a cube number?
+Answer: 64
+Working: 2-digit square numbers: 16, 25, 36, 49, 64, 81. 2-digit cube numbers: 27, 64. 64 is 8² (8 × 8) and 4³ (4 × 4 × 4).
+
+Question 16: A large solid cube is built from 1 cm³ unit cubes. If the cube has a side length of 6 cm, how many unit cubes are used altogether?
+Answer: 216
+Working: Volume of a cube = side³ = 6³ = 6 × 6 × 6 = 216 unit cubes.

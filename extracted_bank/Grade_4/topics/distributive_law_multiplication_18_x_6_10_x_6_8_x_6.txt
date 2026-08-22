@@ -1,0 +1,75 @@
+=== Topic: Distributive law multiplication (18 x 6 = 10 x 6 + 8 x 6) ===
+Domain: Multiplication and Division
+
+--- Distributive law multiplication (18 x 6 = 10 x 6 + 8 x 6) ---
+
+Question 1: Fill in the missing number to complete the statement:
+$17 \times 5 = (10 \times 5) + (\square \times 5)$
+Answer: 7
+Working: Partition 17 into tens and ones: $17 = 10 + 7$.
+Using the distributive law: $17 \times 5 = (10 \times 5) + (7 \times 5)$.
+The missing number is 7.
+
+Question 2: Fill in the missing number to complete the calculation:
+$14 \times 6 = (10 \times 6) + (4 \times 6) = 60 + \square$
+Answer: 24
+Working: $10 \times 6 = 60$
+$4 \times 6 = 24$
+$60 + 24 = 84$
+The missing number is 24.
+
+Question 3: Use the distributive law to calculate $19 \times 4$ by working out $(10 \times 4) + (9 \times 4)$.
+Answer: 76
+Working: $10 \times 4 = 40$
+$9 \times 4 = 36$
+$40 + 36 = 76$
+
+Question 4: Fill in the missing number to make the number sentence correct:
+$(10 \times 7) + (6 \times 7) = \square \times 7$
+Answer: 16
+Working: Combine the tens and ones: $10 + 6 = 16$.
+So $(10 \times 7) + (6 \times 7) = 16 \times 7$.
+The missing number is 16.
+
+Question 5: Fill in the missing number:
+$23 \times 4 = (20 \times 4) + (\square \times 4)$
+Answer: 3
+Working: Partition 23 into 20 and 3.
+$23 \times 4 = (20 \times 4) + (3 \times 4)$.
+The missing number is 3.
+
+Question 6: A box contains 16 packs of stickers. There are 8 stickers in each pack.
+Work out the total number of stickers by calculating $(10 \times 8) + (6 \times 8)$.
+Answer: 128
+Working: $10 \times 8 = 80$
+$6 \times 8 = 48$
+$80 + 48 = 128$
+
+Question 7: Fill in the missing number:
+$18 \times 9 = (10 \times 9) + (8 \times \square)$
+Answer: 9
+Working: By the distributive law, multiplying 18 by 9 means multiplying both 10 and 8 by 9.
+$18 \times 9 = (10 \times 9) + (8 \times 9)$.
+The missing number is 9.
+
+Question 8: A classroom has 6 rows of desks. There are 15 desks in each row.
+Use partitioning into tens and ones to write and solve the calculation for the total number of desks.
+Answer: 90
+Working: Partition 15 into $10 + 5$.
+$15 \times 6 = (10 \times 6) + (5 \times 6)$
+$10 \times 6 = 60$
+$5 \times 6 = 30$
+$60 + 30 = 90$
+
+Question 9: Work out the value of $(20 \times 7) + (5 \times 7)$ to find the product of $25 \times 7$.
+Answer: 175
+Working: $20 \times 7 = 140$
+$5 \times 7 = 35$
+$140 + 35 = 175$
+
+Question 10: Fill in the missing number to make the statement true:
+$(\square \times 6) + (7 \times 6) = 17 \times 6$
+Answer: 10
+Working: Partitioning 17 gives $10 + 7$.
+$17 \times 6 = (10 \times 6) + (7 \times 6)$.
+The missing number is 10.

@@ -1,0 +1,1524 @@
+###################################
+Factor pairs and mental factor splitting
+###################################
+
+--- Factor pairs ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+2. Look at the picture! {grandfather_name} is looking at this.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+3. Look at the picture! {mother_name} is looking at this.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+4. Look at the picture! {father_name} is looking at this.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+5. Look at the picture! {sibling_name} is looking at this.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+6. Look at the picture! {user_name} is looking at this.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+
+42. Look at the picture! {grandmother_name} is looking at this.
+List all four factor pairs of 24.
+
+43. Look at the picture! {grandfather_name} is looking at this.
+List all four factor pairs of 24.
+
+44. Look at the picture! {mother_name} is looking at this.
+List all four factor pairs of 24.
+
+45. Look at the picture! {father_name} is looking at this.
+List all four factor pairs of 24.
+
+46. Look at the picture! {sibling_name} is looking at this.
+List all four factor pairs of 24.
+
+47. Look at the picture! {user_name} is looking at this.
+List all four factor pairs of 24.
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+List all four factor pairs of 24.
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+List all four factor pairs of 24.
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+List all four factor pairs of 24.
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+List all four factor pairs of 24.
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+List all four factor pairs of 24.
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+List all four factor pairs of 24.
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+List all four factor pairs of 24.
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+List all four factor pairs of 24.
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+List all four factor pairs of 24.
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+List all four factor pairs of 24.
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+List all four factor pairs of 24.
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+List all four factor pairs of 24.
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+List all four factor pairs of 24.
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+List all four factor pairs of 24.
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+List all four factor pairs of 24.
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+List all four factor pairs of 24.
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+List all four factor pairs of 24.
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+List all four factor pairs of 24.
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+List all four factor pairs of 24.
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+List all four factor pairs of 24.
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+List all four factor pairs of 24.
+
+83. Look at the picture! {grandmother_name} is looking at this.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+84. Look at the picture! {grandfather_name} is looking at this.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+85. Look at the picture! {mother_name} is looking at this.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+86. Look at the picture! {father_name} is looking at this.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+87. Look at the picture! {sibling_name} is looking at this.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+88. Look at the picture! {user_name} is looking at this.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+
+124. Look at the picture! {grandmother_name} is looking at this.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+126. Look at the picture! {mother_name} is looking at this.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+127. Look at the picture! {father_name} is looking at this.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+128. Look at the picture! {sibling_name} is looking at this.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+129. Look at the picture! {user_name} is looking at this.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+166. Look at the picture! {grandfather_name} is looking at this.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+167. Look at the picture! {mother_name} is looking at this.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+168. Look at the picture! {father_name} is looking at this.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+169. Look at the picture! {sibling_name} is looking at this.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+170. Look at the picture! {user_name} is looking at this.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+
+206. Look at the picture! {grandmother_name} is looking at this.
+Find all six factor pairs of 72.
+
+207. Look at the picture! {grandfather_name} is looking at this.
+Find all six factor pairs of 72.
+
+208. Look at the picture! {mother_name} is looking at this.
+Find all six factor pairs of 72.
+
+209. Look at the picture! {father_name} is looking at this.
+Find all six factor pairs of 72.
+
+210. Look at the picture! {sibling_name} is looking at this.
+Find all six factor pairs of 72.
+
+211. Look at the picture! {user_name} is looking at this.
+Find all six factor pairs of 72.
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Find all six factor pairs of 72.
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Find all six factor pairs of 72.
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Find all six factor pairs of 72.
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Find all six factor pairs of 72.
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Find all six factor pairs of 72.
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Find all six factor pairs of 72.
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Find all six factor pairs of 72.
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Find all six factor pairs of 72.
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Find all six factor pairs of 72.
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Find all six factor pairs of 72.
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Find all six factor pairs of 72.
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Find all six factor pairs of 72.
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Find all six factor pairs of 72.
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Find all six factor pairs of 72.
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Find all six factor pairs of 72.
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Find all six factor pairs of 72.
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Find all six factor pairs of 72.
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Find all six factor pairs of 72.
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Find all six factor pairs of 72.
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Find all six factor pairs of 72.
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Find all six factor pairs of 72.
+
+--- Mental factor splitting ---
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+249. Look at the picture! {mother_name} is looking at this.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+250. Look at the picture! {father_name} is looking at this.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+251. Look at the picture! {sibling_name} is looking at this.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+252. Look at the picture! {user_name} is looking at this.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+290. Look at the picture! {mother_name} is looking at this.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+291. Look at the picture! {father_name} is looking at this.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+292. Look at the picture! {sibling_name} is looking at this.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+293. Look at the picture! {user_name} is looking at this.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+
+329. Look at the picture! {grandmother_name} is looking at this.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+330. Look at the picture! {grandfather_name} is looking at this.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+331. Look at the picture! {mother_name} is looking at this.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+332. Look at the picture! {father_name} is looking at this.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+333. Look at the picture! {sibling_name} is looking at this.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+334. Look at the picture! {user_name} is looking at this.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+372. Look at the picture! {mother_name} is looking at this.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+373. Look at the picture! {father_name} is looking at this.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+374. Look at the picture! {sibling_name} is looking at this.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+375. Look at the picture! {user_name} is looking at this.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+
+411. Look at the picture! {grandmother_name} is looking at this.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+412. Look at the picture! {grandfather_name} is looking at this.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+413. Look at the picture! {mother_name} is looking at this.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+414. Look at the picture! {father_name} is looking at this.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+415. Look at the picture! {sibling_name} is looking at this.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+416. Look at the picture! {user_name} is looking at this.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+
+452. Look at the picture! {grandmother_name} is looking at this.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+453. Look at the picture! {grandfather_name} is looking at this.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+454. Look at the picture! {mother_name} is looking at this.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+455. Look at the picture! {father_name} is looking at this.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+456. Look at the picture! {sibling_name} is looking at this.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+457. Look at the picture! {user_name} is looking at this.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.

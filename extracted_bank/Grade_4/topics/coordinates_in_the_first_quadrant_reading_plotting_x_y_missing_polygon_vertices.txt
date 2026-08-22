@@ -1,0 +1,64 @@
+=== Topic: Coordinates in the first quadrant: reading, plotting (x, y), missing polygon vertices ===
+Domain: Geometry (Properties of Shapes, Position and Direction)
+
+--- Reading coordinates in the first quadrant ---
+
+Question 1: On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+Answer: (6, 4)
+Working: The horizontal distance along the x-axis is the first coordinate (6). The vertical distance up the y-axis is the second coordinate (4). So point A is at (6, 4).
+
+Question 2: A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+Answer: (0, 7)
+Working: The point is on the y-axis, so the horizontal x-coordinate is 0. It is 7 units up, so the y-coordinate is 7. The coordinates are (0, 7).
+
+Question 3: A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+Answer: (8, 0)
+Working: The point is 8 units right along the x-axis, so the x-coordinate is 8. It lies on the x-axis, so the y-coordinate is 0. The coordinates are (8, 0).
+
+Question 4: Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+Answer: (9, 3)
+Working: Coordinates are written in the order (x, y). The horizontal distance along the x-axis is 9 and the vertical distance along the y-axis is 3, giving (9, 3).
+
+--- Plotting coordinates (x, y) ---
+
+Question 5: To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+Answer: 5 units along the x-axis and 8 units up the y-axis
+Working: In the coordinate pair (5, 8), the first number 5 represents the horizontal movement along the x-axis, and the second number 8 represents the vertical movement up the y-axis.
+
+Question 6: A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+Answer: 6 units
+Working: Both endpoints have an x-coordinate of 2. The vertical distance between y = 1 and y = 7 is 7 - 1 = 6 grid units.
+
+Question 7: A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+Answer: 7 units
+Working: Both endpoints have a y-coordinate of 5. The horizontal distance between x = 3 and x = 10 is 10 - 3 = 7 grid units.
+
+Question 8: Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+Answer: (6, 5)
+Working: Add 5 to the x-coordinate: 1 + 5 = 6. Add 3 to the y-coordinate: 2 + 3 = 5. So point S is at (6, 5).
+
+Question 9: Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+Answer: (3, 2)
+Working: Moving left subtracts from the x-coordinate: 7 - 4 = 3. Moving down subtracts from the y-coordinate: 8 - 6 = 2. So point D is at (3, 2).
+
+--- Missing polygon vertices ---
+
+Question 10: Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+Answer: (7, 3)
+Working: Opposite sides of a rectangle are equal and parallel. The vertex opposite (2, 8) must have the x-coordinate of (7, 8), which is 7, and the y-coordinate of (2, 3), which is 3. So the fourth vertex is (7, 3).
+
+Question 11: Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+Answer: (5, 1)
+Working: The side length is 5 - 1 = 4 units. The missing vertex is vertically below (5, 5) and horizontally aligned with (1, 1), giving the coordinates (5, 1).
+
+Question 12: Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+Answer: (9, 6)
+Working: The bottom edge runs from (3, 2) to (9, 2). The left vertical edge goes from (3, 2) to (3, 6). The fourth vertex must have x = 9 and y = 6, so its coordinates are (9, 6).
+
+Question 13: Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+Answer: (3, 4)
+Working: The base has a length of 6 - 2 = 4 units horizontally. The top edge must also be 4 units long horizontally at y = 4. Subtracting 4 from the top-right x-coordinate: 7 - 4 = 3. So the fourth vertex is (3, 4).
+
+Question 14: A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+Answer: (9, 2)
+Working: Starting from the right angle at (4, 2), moving 5 units right increases the x-coordinate: 4 + 5 = 9. The y-coordinate remains 2. The third vertex is (9, 2).

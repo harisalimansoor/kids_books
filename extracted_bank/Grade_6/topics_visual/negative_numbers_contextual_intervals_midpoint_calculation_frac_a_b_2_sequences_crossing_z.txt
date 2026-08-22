@@ -1,0 +1,2348 @@
+###################################
+Negative numbers: contextual intervals, midpoint calculation \frac{a+b{2, sequences crossing zero, endpoints given difference across zero (|A-B| = 160)
+###################################
+
+--- Contextual intervals ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+2. Look at the picture! {grandfather_name} is looking at this.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+3. Look at the picture! {mother_name} is looking at this.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+4. Look at the picture! {father_name} is looking at this.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+5. Look at the picture! {sibling_name} is looking at this.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+6. Look at the picture! {user_name} is looking at this.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The temperature at midnight in Leeds was -4 °C. By midday, the temperature had risen by 9 °C. What was the temperature at midday?
+
+42. Look at the picture! {grandmother_name} is looking at this.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+43. Look at the picture! {grandfather_name} is looking at this.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+44. Look at the picture! {mother_name} is looking at this.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+45. Look at the picture! {father_name} is looking at this.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+46. Look at the picture! {sibling_name} is looking at this.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+47. Look at the picture! {user_name} is looking at this.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The temperature inside a freezer is -18 °C. The temperature in the kitchen is 21 °C. What is the difference between these two temperatures?
+
+83. Look at the picture! {grandmother_name} is looking at this.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+85. Look at the picture! {mother_name} is looking at this.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+86. Look at the picture! {father_name} is looking at this.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+87. Look at the picture! {sibling_name} is looking at this.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+88. Look at the picture! {user_name} is looking at this.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A research submarine is at a depth of -65 metres relative to sea level. It ascends 42 metres towards the surface. What is the new depth of the submarine in metres?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+126. Look at the picture! {mother_name} is looking at this.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+127. Look at the picture! {father_name} is looking at this.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+128. Look at the picture! {sibling_name} is looking at this.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+129. Look at the picture! {user_name} is looking at this.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A bank account has a balance of -£45. The account holder deposits £120. What is the new balance of the account in pounds?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+167. Look at the picture! {mother_name} is looking at this.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+168. Look at the picture! {father_name} is looking at this.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+169. Look at the picture! {sibling_name} is looking at this.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+170. Look at the picture! {user_name} is looking at this.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+At 6:00 am, the temperature was -8 °C. By 2:00 pm, the temperature had increased by 15 °C. By 10:00 pm, the temperature had decreased by 11 °C from the 2:00 pm reading. What was the temperature at 10:00 pm?
+
+--- Midpoint calculation ---
+
+206. Look at the picture! {grandmother_name} is looking at this.
+What number is exactly halfway between -10 and 10 on a number line?
+
+207. Look at the picture! {grandfather_name} is looking at this.
+What number is exactly halfway between -10 and 10 on a number line?
+
+208. Look at the picture! {mother_name} is looking at this.
+What number is exactly halfway between -10 and 10 on a number line?
+
+209. Look at the picture! {father_name} is looking at this.
+What number is exactly halfway between -10 and 10 on a number line?
+
+210. Look at the picture! {sibling_name} is looking at this.
+What number is exactly halfway between -10 and 10 on a number line?
+
+211. Look at the picture! {user_name} is looking at this.
+What number is exactly halfway between -10 and 10 on a number line?
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+What number is exactly halfway between -10 and 10 on a number line?
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Calculate the midpoint between -14 and 26.
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Calculate the midpoint between -14 and 26.
+
+249. Look at the picture! {mother_name} is looking at this.
+Calculate the midpoint between -14 and 26.
+
+250. Look at the picture! {father_name} is looking at this.
+Calculate the midpoint between -14 and 26.
+
+251. Look at the picture! {sibling_name} is looking at this.
+Calculate the midpoint between -14 and 26.
+
+252. Look at the picture! {user_name} is looking at this.
+Calculate the midpoint between -14 and 26.
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the midpoint between -14 and 26.
+
+288. Look at the picture! {grandmother_name} is looking at this.
+What number is halfway between -35 and 15 on a number line?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+What number is halfway between -35 and 15 on a number line?
+
+290. Look at the picture! {mother_name} is looking at this.
+What number is halfway between -35 and 15 on a number line?
+
+291. Look at the picture! {father_name} is looking at this.
+What number is halfway between -35 and 15 on a number line?
+
+292. Look at the picture! {sibling_name} is looking at this.
+What number is halfway between -35 and 15 on a number line?
+
+293. Look at the picture! {user_name} is looking at this.
+What number is halfway between -35 and 15 on a number line?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+What number is halfway between -35 and 15 on a number line?
+
+329. Look at the picture! {grandmother_name} is looking at this.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+330. Look at the picture! {grandfather_name} is looking at this.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+331. Look at the picture! {mother_name} is looking at this.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+332. Look at the picture! {father_name} is looking at this.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+333. Look at the picture! {sibling_name} is looking at this.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+334. Look at the picture! {user_name} is looking at this.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Point A is at -48 and Point B is at 32 on a number line. Find the value of the midpoint between Point A and Point B.
+
+370. Look at the picture! {grandmother_name} is looking at this.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+371. Look at the picture! {grandfather_name} is looking at this.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+372. Look at the picture! {mother_name} is looking at this.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+373. Look at the picture! {father_name} is looking at this.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+374. Look at the picture! {sibling_name} is looking at this.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+375. Look at the picture! {user_name} is looking at this.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The midpoint between a negative number and 18 is 3. What is the negative number?
+
+--- Sequences crossing zero ---
+
+411. Look at the picture! {grandmother_name} is looking at this.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+412. Look at the picture! {grandfather_name} is looking at this.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+413. Look at the picture! {mother_name} is looking at this.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+414. Look at the picture! {father_name} is looking at this.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+415. Look at the picture! {sibling_name} is looking at this.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+416. Look at the picture! {user_name} is looking at this.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A number sequence decreases by 5 each time: 12, 7, 2, ... What is the next term in the sequence?
+
+452. Look at the picture! {grandmother_name} is looking at this.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+453. Look at the picture! {grandfather_name} is looking at this.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+454. Look at the picture! {mother_name} is looking at this.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+455. Look at the picture! {father_name} is looking at this.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+456. Look at the picture! {sibling_name} is looking at this.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+457. Look at the picture! {user_name} is looking at this.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A sequence decreases by the same amount each time: 26, 14, 2, ... What is the next number in the sequence?
+
+493. Look at the picture! {grandmother_name} is looking at this.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+494. Look at the picture! {grandfather_name} is looking at this.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+495. Look at the picture! {mother_name} is looking at this.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+496. Look at the picture! {father_name} is looking at this.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+497. Look at the picture! {sibling_name} is looking at this.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+498. Look at the picture! {user_name} is looking at this.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+499. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+500. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+501. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+502. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+503. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+504. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+505. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+506. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+507. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+508. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+509. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+510. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+511. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+512. Look at the picture! {father_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+513. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+514. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+515. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+516. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+517. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+518. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+519. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+520. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+521. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+522. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+523. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+524. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+525. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+526. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+527. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+528. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+529. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+530. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+531. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+532. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+533. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A linear sequence starts at -15 and increases by 6 each time. What is the first positive number in this sequence?
+
+534. Look at the picture! {grandmother_name} is looking at this.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+535. Look at the picture! {grandfather_name} is looking at this.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+536. Look at the picture! {mother_name} is looking at this.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+537. Look at the picture! {father_name} is looking at this.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+538. Look at the picture! {sibling_name} is looking at this.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+539. Look at the picture! {user_name} is looking at this.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+540. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+541. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+542. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+543. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+544. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+545. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+546. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+547. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+548. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+549. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+550. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+551. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+552. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+553. Look at the picture! {father_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+554. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+555. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+556. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+557. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+558. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+559. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+560. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+561. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+562. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+563. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+564. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+565. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+566. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+567. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+568. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+569. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+570. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+571. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+572. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+573. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+574. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The 1st term of a decreasing linear sequence is 17 and the 4th term is -4. By how much does the sequence decrease each time?
+
+575. Look at the picture! {grandmother_name} is looking at this.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+576. Look at the picture! {grandfather_name} is looking at this.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+577. Look at the picture! {mother_name} is looking at this.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+578. Look at the picture! {father_name} is looking at this.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+579. Look at the picture! {sibling_name} is looking at this.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+580. Look at the picture! {user_name} is looking at this.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+581. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+582. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+583. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+584. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+585. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+586. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+587. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+588. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+589. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+590. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+591. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+592. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+593. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+594. Look at the picture! {father_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+595. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+596. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+597. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+598. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+599. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+600. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+601. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+602. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+603. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+604. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+605. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+606. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+607. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+608. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+609. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+610. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+611. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+612. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+613. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+614. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+615. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A linear sequence begins: 21, 13, 5, -3, ... Find the 8th term of this sequence.
+
+--- Endpoints given difference across zero ---
+
+616. Look at the picture! {grandmother_name} is looking at this.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+617. Look at the picture! {grandfather_name} is looking at this.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+618. Look at the picture! {mother_name} is looking at this.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+619. Look at the picture! {father_name} is looking at this.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+620. Look at the picture! {sibling_name} is looking at this.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+621. Look at the picture! {user_name} is looking at this.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+622. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+623. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+624. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+625. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+626. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+627. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+628. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+629. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+630. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+631. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+632. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+633. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+634. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+635. Look at the picture! {father_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+636. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+637. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+638. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+639. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+640. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+641. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+642. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+643. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+644. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+645. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+646. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+647. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+648. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+649. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+650. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+651. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+652. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+653. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+654. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+655. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+656. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Two points, A and B, lie on a number line. Point A is a negative number and Point B is a positive number. The distance between Point A and Point B is 160. If Point B is 95, what is the value of Point A?
+
+657. Look at the picture! {grandmother_name} is looking at this.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+658. Look at the picture! {grandfather_name} is looking at this.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+659. Look at the picture! {mother_name} is looking at this.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+660. Look at the picture! {father_name} is looking at this.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+661. Look at the picture! {sibling_name} is looking at this.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+662. Look at the picture! {user_name} is looking at this.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+663. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+664. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+665. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+666. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+667. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+668. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+669. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+670. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+671. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+672. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+673. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+674. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+675. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+676. Look at the picture! {father_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+677. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+678. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+679. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+680. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+681. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+682. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+683. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+684. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+685. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+686. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+687. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+688. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+689. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+690. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+691. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+692. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+693. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+694. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+695. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+696. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+697. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The difference between two numbers is 50. One number is 18 and the other number is negative. What is the negative number?
+
+698. Look at the picture! {grandmother_name} is looking at this.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+699. Look at the picture! {grandfather_name} is looking at this.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+700. Look at the picture! {mother_name} is looking at this.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+701. Look at the picture! {father_name} is looking at this.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+702. Look at the picture! {sibling_name} is looking at this.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+703. Look at the picture! {user_name} is looking at this.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+704. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+705. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+706. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+707. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+708. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+709. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+710. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+711. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+712. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+713. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+714. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+715. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+716. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+717. Look at the picture! {father_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+718. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+719. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+720. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+721. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+722. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+723. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+724. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+725. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+726. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+727. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+728. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+729. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+730. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+731. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+732. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+733. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+734. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+735. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+736. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+737. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+738. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Point X is at -75 on a number line. Point Y is a positive number. The interval between Point X and Point Y across zero is 140. What is the value of Point Y?
+
+739. Look at the picture! {grandmother_name} is looking at this.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+740. Look at the picture! {grandfather_name} is looking at this.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+741. Look at the picture! {mother_name} is looking at this.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+742. Look at the picture! {father_name} is looking at this.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+743. Look at the picture! {sibling_name} is looking at this.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+744. Look at the picture! {user_name} is looking at this.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+745. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+746. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+747. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+748. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+749. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+750. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+751. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+752. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+753. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+754. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+755. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+756. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+757. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+758. Look at the picture! {father_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+759. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+760. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+761. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+762. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+763. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+764. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+765. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+766. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+767. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+768. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+769. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+770. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+771. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+772. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+773. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+774. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+775. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+776. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+777. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+778. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?
+
+779. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Point C is a negative number and Point D is a positive number on a number line. The difference between Point C and Point D is 120. Point D is three times as far from 0 as Point C is from 0. What is the value of Point C?

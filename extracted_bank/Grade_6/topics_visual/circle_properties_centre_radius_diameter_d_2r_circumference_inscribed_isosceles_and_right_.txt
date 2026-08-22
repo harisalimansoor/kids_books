@@ -1,0 +1,2221 @@
+###################################
+Circle properties: centre, radius, diameter (d=2r), circumference; inscribed isosceles and right-angled triangles
+###################################
+
+--- Circle properties: centre, radius, diameter and circumference ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+2. Look at the picture! {grandfather_name} is looking at this.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+3. Look at the picture! {mother_name} is looking at this.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+4. Look at the picture! {father_name} is looking at this.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+5. Look at the picture! {sibling_name} is looking at this.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+6. Look at the picture! {user_name} is looking at this.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a radius of 7 cm. What is the diameter of the circle?
+
+42. Look at the picture! {grandmother_name} is looking at this.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+43. Look at the picture! {grandfather_name} is looking at this.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+44. Look at the picture! {mother_name} is looking at this.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+45. Look at the picture! {father_name} is looking at this.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+46. Look at the picture! {sibling_name} is looking at this.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+47. Look at the picture! {user_name} is looking at this.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a diameter of 18 cm. What is the radius of the circle?
+
+83. Look at the picture! {grandmother_name} is looking at this.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+85. Look at the picture! {mother_name} is looking at this.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+86. Look at the picture! {father_name} is looking at this.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+87. Look at the picture! {sibling_name} is looking at this.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+88. Look at the picture! {user_name} is looking at this.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+What is the mathematical name for the distance all the way around the outside edge of a circle?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+126. Look at the picture! {mother_name} is looking at this.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+127. Look at the picture! {father_name} is looking at this.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+128. Look at the picture! {sibling_name} is looking at this.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+129. Look at the picture! {user_name} is looking at this.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a diameter of 13 cm. What is the radius of the circle?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+167. Look at the picture! {mother_name} is looking at this.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+168. Look at the picture! {father_name} is looking at this.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+169. Look at the picture! {sibling_name} is looking at this.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+170. Look at the picture! {user_name} is looking at this.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has a radius of 8.4 cm. What is the diameter of the circle?
+
+206. Look at the picture! {grandmother_name} is looking at this.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+207. Look at the picture! {grandfather_name} is looking at this.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+208. Look at the picture! {mother_name} is looking at this.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+209. Look at the picture! {father_name} is looking at this.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+210. Look at the picture! {sibling_name} is looking at this.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+211. Look at the picture! {user_name} is looking at this.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+249. Look at the picture! {mother_name} is looking at this.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+250. Look at the picture! {father_name} is looking at this.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+251. Look at the picture! {sibling_name} is looking at this.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+252. Look at the picture! {user_name} is looking at this.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+290. Look at the picture! {mother_name} is looking at this.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+291. Look at the picture! {father_name} is looking at this.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+292. Look at the picture! {sibling_name} is looking at this.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+293. Look at the picture! {user_name} is looking at this.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+
+329. Look at the picture! {grandmother_name} is looking at this.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+331. Look at the picture! {mother_name} is looking at this.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+332. Look at the picture! {father_name} is looking at this.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+333. Look at the picture! {sibling_name} is looking at this.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+334. Look at the picture! {user_name} is looking at this.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+372. Look at the picture! {mother_name} is looking at this.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+373. Look at the picture! {father_name} is looking at this.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+374. Look at the picture! {sibling_name} is looking at this.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+375. Look at the picture! {user_name} is looking at this.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+
+--- Inscribed isosceles and right-angled triangles ---
+
+411. Look at the picture! {grandmother_name} is looking at this.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+412. Look at the picture! {grandfather_name} is looking at this.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+413. Look at the picture! {mother_name} is looking at this.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+414. Look at the picture! {father_name} is looking at this.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+415. Look at the picture! {sibling_name} is looking at this.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+416. Look at the picture! {user_name} is looking at this.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+
+452. Look at the picture! {grandmother_name} is looking at this.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+453. Look at the picture! {grandfather_name} is looking at this.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+454. Look at the picture! {mother_name} is looking at this.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+455. Look at the picture! {father_name} is looking at this.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+456. Look at the picture! {sibling_name} is looking at this.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+457. Look at the picture! {user_name} is looking at this.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+
+493. Look at the picture! {grandmother_name} is looking at this.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+494. Look at the picture! {grandfather_name} is looking at this.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+495. Look at the picture! {mother_name} is looking at this.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+496. Look at the picture! {father_name} is looking at this.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+497. Look at the picture! {sibling_name} is looking at this.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+498. Look at the picture! {user_name} is looking at this.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+499. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+500. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+501. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+502. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+503. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+504. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+505. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+506. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+507. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+508. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+509. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+510. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+511. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+512. Look at the picture! {father_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+513. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+514. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+515. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+516. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+517. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+518. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+519. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+520. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+521. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+522. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+523. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+524. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+525. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+526. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+527. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+528. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+529. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+530. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+531. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+532. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+533. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+
+534. Look at the picture! {grandmother_name} is looking at this.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+535. Look at the picture! {grandfather_name} is looking at this.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+536. Look at the picture! {mother_name} is looking at this.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+537. Look at the picture! {father_name} is looking at this.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+538. Look at the picture! {sibling_name} is looking at this.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+539. Look at the picture! {user_name} is looking at this.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+540. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+541. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+542. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+543. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+544. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+545. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+546. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+547. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+548. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+549. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+550. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+551. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+552. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+553. Look at the picture! {father_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+554. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+555. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+556. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+557. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+558. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+559. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+560. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+561. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+562. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+563. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+564. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+565. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+566. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+567. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+568. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+569. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+570. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+571. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+572. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+573. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+574. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+
+575. Look at the picture! {grandmother_name} is looking at this.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+576. Look at the picture! {grandfather_name} is looking at this.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+577. Look at the picture! {mother_name} is looking at this.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+578. Look at the picture! {father_name} is looking at this.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+579. Look at the picture! {sibling_name} is looking at this.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+580. Look at the picture! {user_name} is looking at this.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+581. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+582. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+583. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+584. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+585. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+586. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+587. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+588. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+589. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+590. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+591. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+592. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+593. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+594. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+595. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+596. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+597. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+598. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+599. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+600. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+601. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+602. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+603. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+604. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+605. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+606. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+607. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+608. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+609. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+610. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+611. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+612. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+613. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+614. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+615. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+
+616. Look at the picture! {grandmother_name} is looking at this.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+617. Look at the picture! {grandfather_name} is looking at this.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+618. Look at the picture! {mother_name} is looking at this.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+619. Look at the picture! {father_name} is looking at this.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+620. Look at the picture! {sibling_name} is looking at this.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+621. Look at the picture! {user_name} is looking at this.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+622. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+623. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+624. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+625. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+626. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+627. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+628. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+629. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+630. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+631. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+632. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+633. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+634. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+635. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+636. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+637. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+638. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+639. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+640. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+641. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+642. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+643. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+644. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+645. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+646. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+647. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+648. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+649. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+650. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+651. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+652. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+653. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+654. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+655. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+656. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+
+657. Look at the picture! {grandmother_name} is looking at this.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+658. Look at the picture! {grandfather_name} is looking at this.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+659. Look at the picture! {mother_name} is looking at this.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+660. Look at the picture! {father_name} is looking at this.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+661. Look at the picture! {sibling_name} is looking at this.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+662. Look at the picture! {user_name} is looking at this.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+663. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+664. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+665. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+666. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+667. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+668. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+669. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+670. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+671. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+672. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+673. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+674. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+675. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+676. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+677. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+678. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+679. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+680. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+681. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+682. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+683. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+684. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+685. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+686. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+687. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+688. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+689. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+690. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+691. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+692. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+693. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+694. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+695. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+696. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+697. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+
+698. Look at the picture! {grandmother_name} is looking at this.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+699. Look at the picture! {grandfather_name} is looking at this.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+700. Look at the picture! {mother_name} is looking at this.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+701. Look at the picture! {father_name} is looking at this.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+702. Look at the picture! {sibling_name} is looking at this.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+703. Look at the picture! {user_name} is looking at this.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+704. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+705. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+706. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+707. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+708. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+709. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+710. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+711. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+712. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+713. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+714. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+715. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+716. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+717. Look at the picture! {father_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+718. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+719. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+720. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+721. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+722. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+723. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+724. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+725. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+726. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+727. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+728. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+729. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+730. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+731. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+732. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+733. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+734. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+735. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+736. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+737. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+
+738. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?

@@ -1,0 +1,86 @@
+=== Topic: Function machines (forward/inverse); expressions and substitution (2m + n = 10) ===
+Domain: Algebra & Two Unknowns
+
+--- Function machines (forward/inverse) ---
+
+Question 1: A number is put into a function machine. The rule is multiply by 7. What is the output when the input is 8?
+Answer: 56
+Working: Multiply the input by 7: 8 × 7 = 56.
+
+Question 2: A function machine adds 19 to any input number. If the output is 52, what was the input?
+Answer: 33
+Working: Use the inverse operation: 52 - 19 = 33.
+
+Question 3: A two-step function machine has two rules in order: first multiply by 6, then subtract 11. What is the output when the input is 9?
+Answer: 43
+Working: First multiply by 6: 9 × 6 = 54. Then subtract 11: 54 - 11 = 43.
+
+Question 4: A two-step function machine multiplies an input by 4, then adds 15 to give the output. If the output is 47, what was the input?
+Answer: 8
+Working: Work backwards using inverse operations: subtract 15 from the output: 47 - 15 = 32. Then divide by 4: 32 ÷ 4 = 8.
+
+Question 5: A number goes into a function machine. It is divided by 3, and then 8 is added. The final output is 17. What was the starting input number?
+Answer: 27
+Working: Use inverse operations in reverse order: subtract 8 from 17: 17 - 8 = 9. Then multiply by 3: 9 × 3 = 27.
+
+Question 6: A function machine takes an input, adds 14, and then multiplies the result by 3. If the output is 75, what was the input?
+Answer: 11
+Working: Work backwards: 75 ÷ 3 = 25. Then subtract 14: 25 - 14 = 11.
+
+Question 7: A function machine has two operations: input -> [multiply by 8] -> [subtract ?] -> output. When the input is 5, the output is 27. What is the missing number in the second operation?
+Answer: 13
+Working: First step: 5 × 8 = 40. Second step: 40 - missing number = 27. Missing number = 40 - 27 = 13.
+
+Question 8: A two-step function machine has the rules: divide by 5, then add 16. What is the input if the output is 23?
+Answer: 35
+Working: Work backwards: 23 - 16 = 7. Then multiply by 5: 7 × 5 = 35.
+
+Question 9: A function machine doubles the input and then subtracts 9. If the output is 14.6, what was the input?
+Answer: 11.8
+Working: Work backwards using inverse operations: 14.6 + 9 = 23.6. Then divide by 2: 23.6 ÷ 2 = 11.8.
+
+Question 10: Machine A multiplies an input by 5 and adds 6. Machine B multiplies the same input by 3 and adds 16. Both machines give the same output. What is the input number?
+Answer: 5
+Working: Set the outputs equal: 5 × input + 6 = 3 × input + 16. The difference of 2 × input equals 16 - 6 = 10. Therefore, input = 10 ÷ 2 = 5.
+
+--- Expressions and substitution ---
+
+Question 11: If a = 7, work out the value of the expression 4a + 3.
+Answer: 31
+Working: Substitute 7 for a: 4 × 7 + 3 = 28 + 3 = 31.
+
+Question 12: In the equation 2m + n = 10, find the value of n when m = 4.
+Answer: 2
+Working: Substitute m = 4 into the equation: 2 × 4 + n = 10. 8 + n = 10, so n = 10 - 8 = 2.
+
+Question 13: If x = 6 and y = 9, what is the value of 5x - 2y?
+Answer: 12
+Working: Substitute x = 6 and y = 9: 5 × 6 - 2 × 9 = 30 - 18 = 12.
+
+Question 14: The total cost in pounds (£) of hiring a bicycle is given by the formula C = 15 + 4h, where h is the number of hours. What is the total cost of hiring a bicycle for 6 hours?
+Answer: £39
+Working: Substitute h = 6 into the formula: C = 15 + (4 × 6) = 15 + 24 = 39. So the cost is £39.
+
+Question 15: In the equation 3a + 4b = 38, find the value of a when b = 5.
+Answer: 6
+Working: Substitute b = 5: 3a + (4 × 5) = 38, so 3a + 20 = 38. 3a = 38 - 20 = 18. a = 18 ÷ 3 = 6.
+
+Question 16: Work out the value of (p + 7) ÷ 4 when p = 25.
+Answer: 8
+Working: Substitute p = 25 into the bracket: (25 + 7) ÷ 4 = 32 ÷ 4 = 8.
+
+Question 17: The perimeter of a triangle is given by P = a + b + c. If P = 34 cm, a = 12 cm, and b = 9 cm, what is the length of side c?
+Answer: 13 cm
+Working: Substitute the known values: 34 = 12 + 9 + c. 34 = 21 + c, so c = 34 - 21 = 13 cm.
+
+Question 18: In the equation 5p - q = 18, find the value of q when p = 5.
+Answer: 7
+Working: Substitute p = 5: (5 × 5) - q = 18, so 25 - q = 18. Therefore, q = 25 - 18 = 7.
+
+Question 19: In the equation 2m + n = 10, find the value of m when n = 3.
+Answer: 3.5
+Working: Substitute n = 3 into the equation: 2m + 3 = 10. 2m = 10 - 3 = 7. m = 7 ÷ 2 = 3.5.
+
+Question 20: Work out the value of 6w - 7 and the value of 4w + 5 when w = 8. What is the difference between the two answers?
+Answer: 4
+Working: Substitute w = 8 into the first expression: 6 × 8 - 7 = 48 - 7 = 41. Substitute w = 8 into the second expression: 4 × 8 + 5 = 32 + 5 = 37. Find the difference: 41 - 37 = 4.

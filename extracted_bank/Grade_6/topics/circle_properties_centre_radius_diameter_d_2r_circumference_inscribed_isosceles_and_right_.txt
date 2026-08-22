@@ -1,0 +1,78 @@
+=== Topic: Circle properties: centre, radius, diameter (d=2r), circumference; inscribed isosceles and right-angled triangles ===
+Domain: Geometry: Properties of Shapes
+
+--- Circle properties: centre, radius, diameter and circumference ---
+
+Question 1: A circle has a radius of 7 cm. What is the diameter of the circle?
+Answer: 14 cm
+Working: The diameter is twice the radius: 7 cm × 2 = 14 cm.
+
+Question 2: A circle has a diameter of 18 cm. What is the radius of the circle?
+Answer: 9 cm
+Working: The radius is half the diameter: 18 cm ÷ 2 = 9 cm.
+
+Question 3: What is the mathematical name for the distance all the way around the outside edge of a circle?
+Answer: circumference
+Working: The perimeter of a circle is called its circumference.
+
+Question 4: A circle has a diameter of 13 cm. What is the radius of the circle?
+Answer: 6.5 cm
+Working: The radius is half of the diameter: 13 cm ÷ 2 = 6.5 cm.
+
+Question 5: A circle has a radius of 8.4 cm. What is the diameter of the circle?
+Answer: 16.8 cm
+Working: The diameter is twice the radius: 8.4 cm × 2 = 16.8 cm.
+
+Question 6: A circular bicycle wheel has a diameter of 72 cm. A metal spoke runs in a straight line from the centre hub to the outer rim. How long is the spoke?
+Answer: 36 cm
+Working: A spoke from the centre to the rim is a radius. Radius = diameter ÷ 2 = 72 cm ÷ 2 = 36 cm.
+
+Question 7: Two identical circles are placed side by side so that they touch each other and fit exactly inside a rectangle of length 32 cm. What is the radius of one circle?
+Answer: 8 cm
+Working: The length of the rectangle is equal to 2 diameters: 32 cm ÷ 2 = 16 cm for one diameter. Radius = diameter ÷ 2 = 16 cm ÷ 2 = 8 cm.
+
+Question 8: Four identical circular badges are arranged in a straight row touching edge-to-edge inside a presentation box. The row of four badges has a total length of 60 cm. What is the radius of one badge?
+Answer: 7.5 cm
+Working: Total length of 4 badges = 4 diameters = 60 cm. Diameter of 1 badge = 60 cm ÷ 4 = 15 cm. Radius = 15 cm ÷ 2 = 7.5 cm.
+
+Question 9: A circular pond has a radius of 4.5 m. A circular paved path is built all around the pond so that the outer circle has a diameter of 13 m. What is the width of the path?
+Answer: 2 m
+Working: Outer circle radius = 13 m ÷ 2 = 6.5 m. Path width = outer radius - inner radius = 6.5 m - 4.5 m = 2 m.
+
+Question 10: Two identical circles touch each other and touch all four sides of a rectangle. The length of the rectangle is 28 cm. What is the perimeter of the rectangle?
+Answer: 84 cm
+Working: The length is 2 diameters = 28 cm, so 1 diameter = 14 cm. The width of the rectangle is 1 diameter = 14 cm. Perimeter = 2 × (length + width) = 2 × (28 cm + 14 cm) = 2 × 42 cm = 84 cm.
+
+--- Inscribed isosceles and right-angled triangles ---
+
+Question 11: In a circle with centre O, points A and B lie on the circumference to form triangle OAB. The angle AOB at the centre is 74°. What is the size of angle OAB?
+Answer: 53°
+Working: OA and OB are both radii of the circle, so OA = OB and triangle OAB is isosceles. The remaining angle sum is 180° - 74° = 106°. Angle OAB = 106° ÷ 2 = 53°.
+
+Question 12: A triangle POQ is drawn inside a circle with centre O. Points P and Q lie on the circumference. Angle OPQ is 28°. What is the size of angle POQ at the centre?
+Answer: 124°
+Working: OP and OQ are both radii, so triangle POQ is isosceles with angle OQP = angle OPQ = 28°. Angle POQ = 180° - (28° + 28°) = 180° - 56° = 124°.
+
+Question 13: A triangle is drawn inside a circle. One side of the triangle is a diameter of the circle, and the opposite vertex lies on the circumference. What is the size of the angle at the circumference opposite the diameter?
+Answer: 90°
+Working: An angle in a semicircle subtended by the diameter is always a right angle, which is 90°.
+
+Question 14: Triangle ABC is drawn inside a circle. The side AB is the diameter of the circle, and vertex C lies on the circumference. Angle CAB is 37°. What is the size of angle ABC?
+Answer: 53°
+Working: Since AB is the diameter, angle ACB = 90°. The angles in triangle ABC add to 180°, so angle ABC = 180° - 90° - 37° = 53°.
+
+Question 15: In a circle with centre O, AB is a diameter and C is a point on the circumference. Angle BOC is 130°. What is the size of angle OCA?
+Answer: 65°
+Working: AOB is a straight line, so angle AOC = 180° - 130° = 50°. OA and OC are radii, so triangle AOC is isosceles with OA = OC. Angle OCA = (180° - 50°) ÷ 2 = 130° ÷ 2 = 65°.
+
+Question 16: In a circle, line segment KL is a diameter and point M lies on the circumference to form triangle KLM. If angle KLM is 63°, what is the size of angle MKL?
+Answer: 27°
+Working: Since KL is the diameter, angle KML = 90°. Angle MKL = 180° - 90° - 63° = 27°.
+
+Question 17: In a circle with centre O, points X and Y lie on the circumference. Angle XOY is 116°. What is the size of angle OYX?
+Answer: 32°
+Working: OX and OY are radii, so triangle OXY is isosceles with angle OXY = angle OYX. Angle OYX = (180° - 116°) ÷ 2 = 64° ÷ 2 = 32°.
+
+Question 18: A circle has centre O and diameter AB. Point C lies on the circumference. Angle AOC is 80°. What is the size of angle OCB?
+Answer: 40°
+Working: AOB is a straight line, so angle COB = 180° - 80° = 100°. In triangle BOC, OB and OC are radii, so triangle BOC is isosceles with OB = OC. Angle OCB = (180° - 100°) ÷ 2 = 80° ÷ 2 = 40°.

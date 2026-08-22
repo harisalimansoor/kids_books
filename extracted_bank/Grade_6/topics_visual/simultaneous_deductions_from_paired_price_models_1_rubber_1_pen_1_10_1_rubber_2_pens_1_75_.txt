@@ -1,0 +1,1483 @@
+###################################
+Simultaneous deductions from paired price models (1 rubber + 1 pen = £1.10, 1 rubber + 2 pens = £1.75) and sum/difference systems (x + y = 7, x - y = 0.7)
+###################################
+
+--- Simultaneous deductions from paired price models ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+2. Look at the picture! {grandfather_name} is looking at this.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+3. Look at the picture! {mother_name} is looking at this.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+4. Look at the picture! {father_name} is looking at this.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+5. Look at the picture! {sibling_name} is looking at this.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+6. Look at the picture! {user_name} is looking at this.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+42. Look at the picture! {grandmother_name} is looking at this.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+43. Look at the picture! {grandfather_name} is looking at this.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+44. Look at the picture! {mother_name} is looking at this.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+45. Look at the picture! {father_name} is looking at this.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+46. Look at the picture! {sibling_name} is looking at this.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+47. Look at the picture! {user_name} is looking at this.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+83. Look at the picture! {grandmother_name} is looking at this.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+85. Look at the picture! {mother_name} is looking at this.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+86. Look at the picture! {father_name} is looking at this.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+87. Look at the picture! {sibling_name} is looking at this.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+88. Look at the picture! {user_name} is looking at this.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+126. Look at the picture! {mother_name} is looking at this.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+127. Look at the picture! {father_name} is looking at this.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+128. Look at the picture! {sibling_name} is looking at this.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+129. Look at the picture! {user_name} is looking at this.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+167. Look at the picture! {mother_name} is looking at this.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+168. Look at the picture! {father_name} is looking at this.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+169. Look at the picture! {sibling_name} is looking at this.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+170. Look at the picture! {user_name} is looking at this.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+206. Look at the picture! {grandmother_name} is looking at this.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+207. Look at the picture! {grandfather_name} is looking at this.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+208. Look at the picture! {mother_name} is looking at this.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+209. Look at the picture! {father_name} is looking at this.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+210. Look at the picture! {sibling_name} is looking at this.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+211. Look at the picture! {user_name} is looking at this.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+--- Sum and difference systems ---
+
+247. Look at the picture! {grandmother_name} is looking at this.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+248. Look at the picture! {grandfather_name} is looking at this.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+249. Look at the picture! {mother_name} is looking at this.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+250. Look at the picture! {father_name} is looking at this.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+251. Look at the picture! {sibling_name} is looking at this.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+252. Look at the picture! {user_name} is looking at this.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+290. Look at the picture! {mother_name} is looking at this.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+291. Look at the picture! {father_name} is looking at this.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+292. Look at the picture! {sibling_name} is looking at this.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+293. Look at the picture! {user_name} is looking at this.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+329. Look at the picture! {grandmother_name} is looking at this.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+331. Look at the picture! {mother_name} is looking at this.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+332. Look at the picture! {father_name} is looking at this.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+333. Look at the picture! {sibling_name} is looking at this.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+334. Look at the picture! {user_name} is looking at this.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+372. Look at the picture! {mother_name} is looking at this.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+373. Look at the picture! {father_name} is looking at this.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+374. Look at the picture! {sibling_name} is looking at this.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+375. Look at the picture! {user_name} is looking at this.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+411. Look at the picture! {grandmother_name} is looking at this.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+412. Look at the picture! {grandfather_name} is looking at this.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+413. Look at the picture! {mother_name} is looking at this.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+414. Look at the picture! {father_name} is looking at this.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+415. Look at the picture! {sibling_name} is looking at this.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+416. Look at the picture! {user_name} is looking at this.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+452. Look at the picture! {grandmother_name} is looking at this.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+453. Look at the picture! {grandfather_name} is looking at this.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+454. Look at the picture! {mother_name} is looking at this.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+455. Look at the picture! {father_name} is looking at this.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+456. Look at the picture! {sibling_name} is looking at this.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+457. Look at the picture! {user_name} is looking at this.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?

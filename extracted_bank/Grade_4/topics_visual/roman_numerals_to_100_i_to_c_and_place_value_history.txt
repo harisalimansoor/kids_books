@@ -1,0 +1,1852 @@
+###################################
+Roman numerals to 100 (I to C) and place value history
+###################################
+
+--- Roman numerals to 100 (I to C) ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+What number is represented by the Roman numeral LXXIII?
+
+2. Look at the picture! {grandfather_name} is looking at this.
+What number is represented by the Roman numeral LXXIII?
+
+3. Look at the picture! {mother_name} is looking at this.
+What number is represented by the Roman numeral LXXIII?
+
+4. Look at the picture! {father_name} is looking at this.
+What number is represented by the Roman numeral LXXIII?
+
+5. Look at the picture! {sibling_name} is looking at this.
+What number is represented by the Roman numeral LXXIII?
+
+6. Look at the picture! {user_name} is looking at this.
+What number is represented by the Roman numeral LXXIII?
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral LXXIII?
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Write the number 34 in Roman numerals.
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Write the number 34 in Roman numerals.
+
+44. Look at the picture! {mother_name} is looking at this.
+Write the number 34 in Roman numerals.
+
+45. Look at the picture! {father_name} is looking at this.
+Write the number 34 in Roman numerals.
+
+46. Look at the picture! {sibling_name} is looking at this.
+Write the number 34 in Roman numerals.
+
+47. Look at the picture! {user_name} is looking at this.
+Write the number 34 in Roman numerals.
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 34 in Roman numerals.
+
+83. Look at the picture! {grandmother_name} is looking at this.
+What number is represented by the Roman numeral XLIX?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+What number is represented by the Roman numeral XLIX?
+
+85. Look at the picture! {mother_name} is looking at this.
+What number is represented by the Roman numeral XLIX?
+
+86. Look at the picture! {father_name} is looking at this.
+What number is represented by the Roman numeral XLIX?
+
+87. Look at the picture! {sibling_name} is looking at this.
+What number is represented by the Roman numeral XLIX?
+
+88. Look at the picture! {user_name} is looking at this.
+What number is represented by the Roman numeral XLIX?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XLIX?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+Write the number 88 in Roman numerals.
+
+125. Look at the picture! {grandfather_name} is looking at this.
+Write the number 88 in Roman numerals.
+
+126. Look at the picture! {mother_name} is looking at this.
+Write the number 88 in Roman numerals.
+
+127. Look at the picture! {father_name} is looking at this.
+Write the number 88 in Roman numerals.
+
+128. Look at the picture! {sibling_name} is looking at this.
+Write the number 88 in Roman numerals.
+
+129. Look at the picture! {user_name} is looking at this.
+Write the number 88 in Roman numerals.
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 88 in Roman numerals.
+
+165. Look at the picture! {grandmother_name} is looking at this.
+What number is represented by the Roman numeral XCVI?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+What number is represented by the Roman numeral XCVI?
+
+167. Look at the picture! {mother_name} is looking at this.
+What number is represented by the Roman numeral XCVI?
+
+168. Look at the picture! {father_name} is looking at this.
+What number is represented by the Roman numeral XCVI?
+
+169. Look at the picture! {sibling_name} is looking at this.
+What number is represented by the Roman numeral XCVI?
+
+170. Look at the picture! {user_name} is looking at this.
+What number is represented by the Roman numeral XCVI?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+What number is represented by the Roman numeral XCVI?
+
+206. Look at the picture! {grandmother_name} is looking at this.
+Write the number 65 in Roman numerals.
+
+207. Look at the picture! {grandfather_name} is looking at this.
+Write the number 65 in Roman numerals.
+
+208. Look at the picture! {mother_name} is looking at this.
+Write the number 65 in Roman numerals.
+
+209. Look at the picture! {father_name} is looking at this.
+Write the number 65 in Roman numerals.
+
+210. Look at the picture! {sibling_name} is looking at this.
+Write the number 65 in Roman numerals.
+
+211. Look at the picture! {user_name} is looking at this.
+Write the number 65 in Roman numerals.
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Write the number 65 in Roman numerals.
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+249. Look at the picture! {mother_name} is looking at this.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+250. Look at the picture! {father_name} is looking at this.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+251. Look at the picture! {sibling_name} is looking at this.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+252. Look at the picture! {user_name} is looking at this.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Put these Roman numerals in order from smallest to largest: LVI, XLIV, LXII, XXXIX.
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+290. Look at the picture! {mother_name} is looking at this.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+291. Look at the picture! {father_name} is looking at this.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+292. Look at the picture! {sibling_name} is looking at this.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+293. Look at the picture! {user_name} is looking at this.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Write <, > or = to make the statement true: XCIV [ ] LXXXVIII
+
+329. Look at the picture! {grandmother_name} is looking at this.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+330. Look at the picture! {grandfather_name} is looking at this.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+331. Look at the picture! {mother_name} is looking at this.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+332. Look at the picture! {father_name} is looking at this.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+333. Look at the picture! {sibling_name} is looking at this.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+334. Look at the picture! {user_name} is looking at this.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate the sum of XXXV and XLIII. Give your answer as a Roman numeral.
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+372. Look at the picture! {mother_name} is looking at this.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+373. Look at the picture! {father_name} is looking at this.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+374. Look at the picture! {sibling_name} is looking at this.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+375. Look at the picture! {user_name} is looking at this.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Write the missing Roman numeral to complete the number sequence: XVII, XXIV, XXXI, ___, XLV.
+
+--- Place value history ---
+
+411. Look at the picture! {grandmother_name} is looking at this.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+412. Look at the picture! {grandfather_name} is looking at this.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+413. Look at the picture! {mother_name} is looking at this.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+414. Look at the picture! {father_name} is looking at this.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+415. Look at the picture! {sibling_name} is looking at this.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+416. Look at the picture! {user_name} is looking at this.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Did the ancient Roman numeral system have a symbol to represent zero? Write yes or no.
+
+452. Look at the picture! {grandmother_name} is looking at this.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+453. Look at the picture! {grandfather_name} is looking at this.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+454. Look at the picture! {mother_name} is looking at this.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+455. Look at the picture! {father_name} is looking at this.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+456. Look at the picture! {sibling_name} is looking at this.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+457. Look at the picture! {user_name} is looking at this.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Over time, numeral systems developed to use place value. In the number 408, what is the role of the digit 0?
+
+493. Look at the picture! {grandmother_name} is looking at this.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+494. Look at the picture! {grandfather_name} is looking at this.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+495. Look at the picture! {mother_name} is looking at this.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+496. Look at the picture! {father_name} is looking at this.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+497. Look at the picture! {sibling_name} is looking at this.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+498. Look at the picture! {user_name} is looking at this.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+499. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+500. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+501. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+502. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+503. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+504. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+505. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+506. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+507. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+508. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+509. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+510. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+511. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+512. Look at the picture! {father_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+513. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+514. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+515. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+516. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+517. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+518. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+519. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+520. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+521. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+522. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+523. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+524. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+525. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+526. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+527. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+528. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+529. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+530. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+531. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+532. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+533. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In our modern number system, how does the digit 0 change the value of the digit 7 in the number 70 compared to the single digit 7?
+
+534. Look at the picture! {grandmother_name} is looking at this.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+535. Look at the picture! {grandfather_name} is looking at this.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+536. Look at the picture! {mother_name} is looking at this.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+537. Look at the picture! {father_name} is looking at this.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+538. Look at the picture! {sibling_name} is looking at this.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+539. Look at the picture! {user_name} is looking at this.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+540. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+541. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+542. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+543. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+544. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+545. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+546. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+547. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+548. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+549. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+550. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+551. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+552. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+553. Look at the picture! {father_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+554. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+555. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+556. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+557. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+558. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+559. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+560. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+561. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+562. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+563. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+564. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+565. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+566. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+567. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+568. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+569. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+570. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+571. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+572. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+573. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+574. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In the Roman numeral system, numbers are formed by adding or subtracting fixed letter values (such as X = 10, V = 5). In our modern numeral system, what determines the value of a digit within a number?
+
+575. Look at the picture! {grandmother_name} is looking at this.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+576. Look at the picture! {grandfather_name} is looking at this.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+577. Look at the picture! {mother_name} is looking at this.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+578. Look at the picture! {father_name} is looking at this.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+579. Look at the picture! {sibling_name} is looking at this.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+580. Look at the picture! {user_name} is looking at this.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+581. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+582. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+583. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+584. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+585. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+586. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+587. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+588. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+589. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+590. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+591. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+592. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+593. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+594. Look at the picture! {father_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+595. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+596. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+597. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+598. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+599. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+600. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+601. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+602. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+603. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+604. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+605. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+606. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+607. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+608. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+609. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+610. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+611. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+612. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+613. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+614. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?
+
+615. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Why does the modern number system require a zero to write five hundred and six (506), whereas Roman numerals write DVI without a zero?

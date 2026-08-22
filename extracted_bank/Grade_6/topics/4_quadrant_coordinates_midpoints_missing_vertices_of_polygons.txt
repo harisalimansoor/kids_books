@@ -1,0 +1,68 @@
+=== Topic: 4-quadrant coordinates, midpoints, missing vertices of polygons ===
+Domain: Geometry: Position and Direction
+
+--- 4-quadrant coordinates ---
+
+Question 1: A point starts at the origin (0, 0). It moves 4 units left and 3 units up. Write the coordinates of its new position.
+Answer: (-4, 3)
+Working: Starting at (0, 0): moving 4 units left changes the x-coordinate to 0 - 4 = -4. Moving 3 units up changes the y-coordinate to 0 + 3 = 3. The new coordinates are (-4, 3).
+
+Question 2: Point P has coordinates (-5, -2). Which coordinate is negative: the x-coordinate, the y-coordinate, or both?
+Answer: both
+Working: The x-coordinate is -5 and the y-coordinate is -2. Both coordinates are negative.
+
+Question 3: Point A has coordinates (-6, 5) and Point B has coordinates (4, 5). What is the distance in units between Point A and Point B?
+Answer: 10
+Working: Both points share the same y-coordinate of 5. The horizontal distance between x = -6 and x = 4 is 4 - (-6) = 10 units.
+
+Question 4: Point C has coordinates (3, -7) and Point D has coordinates (3, 2). What is the distance in units between Point C and Point D?
+Answer: 9
+Working: Both points share the same x-coordinate of 3. The vertical distance between y = -7 and y = 2 is 2 - (-7) = 9 units.
+
+Question 5: Point M has coordinates (-3, 4). It is moved 5 units right and 7 units down to Point N. Write the coordinates of Point N.
+Answer: (2, -3)
+Working: New x-coordinate: -3 + 5 = 2. New y-coordinate: 4 - 7 = -3. Point N is at (2, -3).
+
+--- Midpoints ---
+
+Question 6: Find the number halfway between -8 and 4 on a number line.
+Answer: -2
+Working: Add the two numbers: -8 + 4 = -4. Divide by 2: -4 ÷ 2 = -2.
+
+Question 7: Point A has coordinates (-4, 6) and Point B has coordinates (2, 6). Write the coordinates of the midpoint of the line segment AB.
+Answer: (-1, 6)
+Working: The y-coordinates are both 6. Halfway between x = -4 and x = 2 is (-4 + 2) ÷ 2 = -2 ÷ 2 = -1. The midpoint is (-1, 6).
+
+Question 8: Point P has coordinates (5, -3) and Point Q has coordinates (5, 7). Write the coordinates of the midpoint of the line segment PQ.
+Answer: (5, 2)
+Working: The x-coordinates are both 5. Halfway between y = -3 and y = 7 is (-3 + 7) ÷ 2 = 4 ÷ 2 = 2. The midpoint is (5, 2).
+
+Question 9: Point J has coordinates (-6, -4) and Point K has coordinates (2, 8). Write the coordinates of the midpoint of the line segment JK.
+Answer: (-2, 2)
+Working: Midpoint x = (-6 + 2) ÷ 2 = -4 ÷ 2 = -2. Midpoint y = (-4 + 8) ÷ 2 = 4 ÷ 2 = 2. The midpoint is (-2, 2).
+
+Question 10: M is the midpoint of the line segment AB. The coordinates of M are (1, -2). The coordinates of A are (-3, 4). Write the coordinates of Point B.
+Answer: (5, -8)
+Working: From A to M: x increases by 1 - (-3) = 4, so for B, x = 1 + 4 = 5. From A to M: y decreases by -2 - 4 = -6, so for B, y = -2 - 6 = -8. The coordinates of B are (5, -8).
+
+--- Missing vertices of polygons ---
+
+Question 11: Three vertices of a rectangle are (-4, 3), (2, 3), and (2, -1). Write the coordinates of the fourth vertex.
+Answer: (-4, -1)
+Working: The horizontal sides have y = 3 and y = -1. The vertical sides have x = -4 and x = 2. The missing fourth vertex is (-4, -1).
+
+Question 12: Three vertices of a square are (-2, 2), (3, 2), and (3, -3). Write the coordinates of the fourth vertex.
+Answer: (-2, -3)
+Working: The top side goes from (-2, 2) to (3, 2), length 5. The right side goes from (3, 2) to (3, -3), length 5. The fourth vertex is at x = -2 and y = -3, giving (-2, -3).
+
+Question 13: Three vertices of a parallelogram ABCD are A(-3, -2), B(1, -2), and C(3, 4). Write the coordinates of vertex D.
+Answer: (-1, 4)
+Working: Side AB is horizontal of length 4 units to the right from A(-3, -2) to B(1, -2). Side DC must be parallel and equal in length, ending at C(3, 4). Moving 4 units left from C gives D(3 - 4, 4) = (-1, 4).
+
+Question 14: An isosceles triangle has a horizontal base with vertices at (-5, -3) and (3, -3). Its line of symmetry is vertical, and the third vertex has a y-coordinate of 4. Write the coordinates of the third vertex.
+Answer: (-1, 4)
+Working: The x-coordinate of the third vertex is the midpoint of the base: (-5 + 3) ÷ 2 = -2 ÷ 2 = -1. The y-coordinate is given as 4. So the third vertex is (-1, 4).
+
+Question 15: The diagonals of a rhombus cross at the origin (0, 0). Two of the vertices are at (0, 5) and (4, 0). Write the coordinates of the other two vertices.
+Answer: (0, -5) and (-4, 0)
+Working: The origin (0, 0) is the midpoint of both diagonals. The vertex opposite (0, 5) is (0, -5). The vertex opposite (4, 0) is (-4, 0).

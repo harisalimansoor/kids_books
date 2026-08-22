@@ -1,0 +1,90 @@
+=== Topic: Time conversions (hr/min/sec, yr/mth, wk/day) and 12h/24h durations ===
+Domain: Measurement, Money and Time
+
+--- Converting between hours, minutes and seconds ---
+
+Question 1: Convert 3 hours into minutes.
+Answer: 180 minutes
+Working: There are 60 minutes in 1 hour. 3 × 60 = 180 minutes.
+
+Question 2: A runner takes 4 minutes to run one lap of a track. How many seconds does this take?
+Answer: 240 seconds
+Working: There are 60 seconds in 1 minute. 4 × 60 = 240 seconds.
+
+Question 3: A film lasts for 2 hours and 25 minutes. How many minutes long is the film in total?
+Answer: 145 minutes
+Working: 2 hours = 2 × 60 = 120 minutes. 120 + 25 = 145 minutes.
+
+Question 4: A car journey takes 190 minutes. Convert 190 minutes into hours and minutes.
+Answer: 3 hours and 10 minutes
+Working: 190 ÷ 60 = 3 with a remainder of 10. 190 minutes = 3 hours and 10 minutes.
+
+Question 5: A swimmer completes a race in 135 seconds. How many minutes and seconds is this?
+Answer: 2 minutes and 15 seconds
+Working: 135 ÷ 60 = 2 with a remainder of 15 (as 2 × 60 = 120 seconds). 135 seconds = 2 minutes and 15 seconds.
+
+Question 6: Leo spends 150 seconds brushing his teeth. Maya spends 2 minutes and 40 seconds brushing her teeth. How many seconds longer does Maya spend brushing her teeth than Leo?
+Answer: 10 seconds
+Working: Convert Maya's time to seconds: 2 minutes 40 seconds = (2 × 60) + 40 = 120 + 40 = 160 seconds. Difference: 160 - 150 = 10 seconds.
+
+--- Converting between years and months ---
+
+Question 7: A tree in the school garden is 5 years old. How many months old is the tree?
+Answer: 60 months
+Working: There are 12 months in 1 year. 5 × 12 = 60 months.
+
+Question 8: A building project took 36 months to finish. How many years is this?
+Answer: 3 years
+Working: There are 12 months in 1 year. 36 ÷ 12 = 3 years.
+
+Question 9: An elephant calf is 2 years and 7 months old. What is the calf's age in months?
+Answer: 31 months
+Working: 2 years = 2 × 12 = 24 months. 24 + 7 = 31 months.
+
+Question 10: A car lease lasts for 50 months. Convert 50 months into years and months.
+Answer: 4 years and 2 months
+Working: 50 ÷ 12 = 4 with a remainder of 2 (since 4 × 12 = 48). 50 months = 4 years and 2 months.
+
+--- Converting between weeks and days ---
+
+Question 11: A summer camp lasts for 6 weeks. How many days does the camp last?
+Answer: 42 days
+Working: There are 7 days in 1 week. 6 × 7 = 42 days.
+
+Question 12: There are 56 days until sports day. How many weeks is this?
+Answer: 8 weeks
+Working: There are 7 days in 1 week. 56 ÷ 7 = 8 weeks.
+
+Question 13: A family goes on holiday for 3 weeks and 4 days. How many days are they on holiday in total?
+Answer: 25 days
+Working: 3 weeks = 3 × 7 = 21 days. 21 + 4 = 25 days.
+
+Question 14: A bird's eggs take 38 days to hatch. Convert 38 days into weeks and days.
+Answer: 5 weeks and 3 days
+Working: 38 ÷ 7 = 5 with a remainder of 3 (since 5 × 7 = 35). 38 days = 5 weeks and 3 days.
+
+--- 12-hour and 24-hour time and durations ---
+
+Question 15: A train departs at 4:35 pm. Write this time using the 24-hour clock.
+Answer: 16:35
+Working: To convert a pm time to 24-hour format, add 12 to the hour: 4 + 12 = 16. The time is 16:35.
+
+Question 16: A digital clock shows the time 20:15. Write this time using the 12-hour clock, including am or pm.
+Answer: 8:15 pm
+Working: 20 - 12 = 8, so 20:15 in 12-hour format is 8:15 pm.
+
+Question 17: A school assembly begins at 9:20 am. Write this time as a 24-hour digital clock time.
+Answer: 09:20
+Working: For morning times before 10:00 am, include a leading zero: 9:20 am becomes 09:20.
+
+Question 18: A football match starts at 14:15 and finishes at 16:00. How many minutes does the match last?
+Answer: 105 minutes
+Working: From 14:15 to 15:00 is 45 minutes. From 15:00 to 16:00 is 60 minutes. 45 + 60 = 105 minutes.
+
+Question 19: A concert ends at 21:40. The concert lasted for 1 hour and 25 minutes. At what time did the concert start? Give your answer using the 24-hour clock.
+Answer: 20:15
+Working: Subtract 1 hour: 21:40 - 1 hour = 20:40. Subtract 25 minutes: 20:40 - 25 minutes = 20:15.
+
+Question 20: A bus journey begins at 11:35 am and takes 50 minutes. At what time does the bus journey finish? Give your answer in 12-hour time, including am or pm.
+Answer: 12:25 pm
+Working: 11:35 am + 25 minutes = 12:00 pm (noon). 12:00 pm + 25 minutes = 12:25 pm.

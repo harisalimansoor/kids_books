@@ -1,0 +1,76 @@
+=== Topic: Factor pairs and mental factor splitting ===
+Domain: Multiplication and Division
+
+--- Factor pairs ---
+
+Question 1: One factor pair of 28 is 4 and 7. Write down another factor pair of 28.
+Answer: 1 and 28 (or 2 and 14)
+Working: The factor pairs of 28 are 1 and 28, 2 and 14, and 4 and 7. Any pair other than 4 and 7 is correct.
+
+Question 2: List all four factor pairs of 24.
+Answer: 1 and 24, 2 and 12, 3 and 8, 4 and 6
+Working: 1 × 24 = 24
+2 × 12 = 24
+3 × 8 = 24
+4 × 6 = 24
+The factor pairs are (1, 24), (2, 12), (3, 8), and (4, 6).
+
+Question 3: A baker arranges 30 rolls onto a tray in equal rows and columns. Name a factor pair of 30 where both numbers are greater than 2.
+Answer: 3 and 10 (or 5 and 6)
+Working: The factor pairs of 30 are 1 × 30, 2 × 15, 3 × 10, and 5 × 6. Pairs with both numbers greater than 2 are 3 and 10, or 5 and 6.
+
+Question 4: The two numbers in a factor pair of 40 have a sum of 14. What are the two factors in this pair?
+Answer: 4 and 10
+Working: Factor pairs of 40 are:
+1 and 40 (sum = 41)
+2 and 20 (sum = 22)
+4 and 10 (sum = 14)
+5 and 8 (sum = 13)
+The pair with a sum of 14 is 4 and 10.
+
+Question 5: Sam says, 'Every factor of 36 must be an even number because 36 is even.' Write down two odd factors of 36 to show that Sam is incorrect.
+Answer: 1 and 3 (or 1 and 9, or 3 and 9)
+Working: The factors of 36 are 1, 2, 3, 4, 6, 9, 12, 18, and 36. The odd factors are 1, 3, and 9. Any two of these prove Sam is incorrect.
+
+Question 6: Find all six factor pairs of 72.
+Answer: 1 and 72, 2 and 36, 3 and 24, 4 and 18, 6 and 12, 8 and 9
+Working: 1 × 72 = 72
+2 × 36 = 72
+3 × 24 = 72
+4 × 18 = 72
+6 × 12 = 72
+8 × 9 = 72
+The factor pairs are (1, 72), (2, 36), (3, 24), (4, 18), (6, 12), and (8, 9).
+
+--- Mental factor splitting ---
+
+Question 7: Fill in the missing number to complete the mental calculation:
+14 × 5 = 7 × 2 × 5 = 7 × ___ = 70
+Answer: 10
+Working: 2 × 5 = 10, so 14 × 5 = 7 × 10 = 70. The missing number is 10.
+
+Question 8: Use mental factor splitting to calculate 26 × 5 by halving 26 and then multiplying by 10.
+Answer: 130
+Working: 26 × 5 = (13 × 2) × 5 = 13 × (2 × 5) = 13 × 10 = 130.
+
+Question 9: A classroom has 35 rows of 4 chairs. Work out the total number of chairs mentally by doubling 35 twice.
+Answer: 140
+Working: Double 35 is 70 (35 × 2 = 70).
+Double 70 is 140 (70 × 2 = 140).
+So 35 × 4 = 140 chairs.
+
+Question 10: Calculate 15 × 6 mentally by splitting 6 into the factor pair 2 × 3.
+Answer: 90
+Working: 15 × 6 = 15 × 2 × 3 = 30 × 3 = 90.
+
+Question 11: A box contains 18 bags of marbles. Each bag has 15 marbles. Work out the total number of marbles mentally by writing 18 as 9 × 2 and calculating 9 × (2 × 15).
+Answer: 270
+Working: 18 × 15 = 9 × 2 × 15
+2 × 15 = 30
+9 × 30 = 270 marbles.
+
+Question 12: Work out 45 × 12 mentally by splitting 12 into a factor pair of 2 × 6 and doubling 45 first.
+Answer: 540
+Working: 45 × 12 = 45 × 2 × 6
+45 × 2 = 90
+90 × 6 = 540.

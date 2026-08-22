@@ -1,0 +1,1483 @@
+###################################
+Formal short multiplication (2D x 1D and 3D x 1D)
+###################################
+
+--- Formal short multiplication (2-digit by 1-digit) ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+Use a formal written method to calculate $43 \times 3$.
+
+2. Look at the picture! {grandfather_name} is looking at this.
+Use a formal written method to calculate $43 \times 3$.
+
+3. Look at the picture! {mother_name} is looking at this.
+Use a formal written method to calculate $43 \times 3$.
+
+4. Look at the picture! {father_name} is looking at this.
+Use a formal written method to calculate $43 \times 3$.
+
+5. Look at the picture! {sibling_name} is looking at this.
+Use a formal written method to calculate $43 \times 3$.
+
+6. Look at the picture! {user_name} is looking at this.
+Use a formal written method to calculate $43 \times 3$.
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use a formal written method to calculate $43 \times 3$.
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Use formal short multiplication to calculate $56 \times 4$.
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Use formal short multiplication to calculate $56 \times 4$.
+
+44. Look at the picture! {mother_name} is looking at this.
+Use formal short multiplication to calculate $56 \times 4$.
+
+45. Look at the picture! {father_name} is looking at this.
+Use formal short multiplication to calculate $56 \times 4$.
+
+46. Look at the picture! {sibling_name} is looking at this.
+Use formal short multiplication to calculate $56 \times 4$.
+
+47. Look at the picture! {user_name} is looking at this.
+Use formal short multiplication to calculate $56 \times 4$.
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $56 \times 4$.
+
+83. Look at the picture! {grandmother_name} is looking at this.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+85. Look at the picture! {mother_name} is looking at this.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+86. Look at the picture! {father_name} is looking at this.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+87. Look at the picture! {sibling_name} is looking at this.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+88. Look at the picture! {user_name} is looking at this.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A box contains 38 coloured pencils. How many pencils are there altogether in 6 of these boxes?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+Calculate $87 \times 9$ using a formal column method.
+
+125. Look at the picture! {grandfather_name} is looking at this.
+Calculate $87 \times 9$ using a formal column method.
+
+126. Look at the picture! {mother_name} is looking at this.
+Calculate $87 \times 9$ using a formal column method.
+
+127. Look at the picture! {father_name} is looking at this.
+Calculate $87 \times 9$ using a formal column method.
+
+128. Look at the picture! {sibling_name} is looking at this.
+Calculate $87 \times 9$ using a formal column method.
+
+129. Look at the picture! {user_name} is looking at this.
+Calculate $87 \times 9$ using a formal column method.
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $87 \times 9$ using a formal column method.
+
+165. Look at the picture! {grandmother_name} is looking at this.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+167. Look at the picture! {mother_name} is looking at this.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+168. Look at the picture! {father_name} is looking at this.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+169. Look at the picture! {sibling_name} is looking at this.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+170. Look at the picture! {user_name} is looking at this.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A baker bakes 74 loaves of bread every day for 7 days. How many loaves of bread does the baker make in total?
+
+206. Look at the picture! {grandmother_name} is looking at this.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+207. Look at the picture! {grandfather_name} is looking at this.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+208. Look at the picture! {mother_name} is looking at this.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+209. Look at the picture! {father_name} is looking at this.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+210. Look at the picture! {sibling_name} is looking at this.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+211. Look at the picture! {user_name} is looking at this.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In the short multiplication calculation $[\;]8 \times 6 = 408$, what is the missing tens digit?
+
+--- Formal short multiplication (3-digit by 1-digit) ---
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Use formal short multiplication to calculate $231 \times 3$.
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Use formal short multiplication to calculate $231 \times 3$.
+
+249. Look at the picture! {mother_name} is looking at this.
+Use formal short multiplication to calculate $231 \times 3$.
+
+250. Look at the picture! {father_name} is looking at this.
+Use formal short multiplication to calculate $231 \times 3$.
+
+251. Look at the picture! {sibling_name} is looking at this.
+Use formal short multiplication to calculate $231 \times 3$.
+
+252. Look at the picture! {user_name} is looking at this.
+Use formal short multiplication to calculate $231 \times 3$.
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $231 \times 3$.
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Calculate $324 \times 4$ using a formal written method.
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Calculate $324 \times 4$ using a formal written method.
+
+290. Look at the picture! {mother_name} is looking at this.
+Calculate $324 \times 4$ using a formal written method.
+
+291. Look at the picture! {father_name} is looking at this.
+Calculate $324 \times 4$ using a formal written method.
+
+292. Look at the picture! {sibling_name} is looking at this.
+Calculate $324 \times 4$ using a formal written method.
+
+293. Look at the picture! {user_name} is looking at this.
+Calculate $324 \times 4$ using a formal written method.
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate $324 \times 4$ using a formal written method.
+
+329. Look at the picture! {grandmother_name} is looking at this.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+331. Look at the picture! {mother_name} is looking at this.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+332. Look at the picture! {father_name} is looking at this.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+333. Look at the picture! {sibling_name} is looking at this.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+334. Look at the picture! {user_name} is looking at this.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A school buys 8 identical science kits. Each kit costs £125. What is the total cost of the science kits?
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Use formal short multiplication to calculate $648 \times 7$.
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Use formal short multiplication to calculate $648 \times 7$.
+
+372. Look at the picture! {mother_name} is looking at this.
+Use formal short multiplication to calculate $648 \times 7$.
+
+373. Look at the picture! {father_name} is looking at this.
+Use formal short multiplication to calculate $648 \times 7$.
+
+374. Look at the picture! {sibling_name} is looking at this.
+Use formal short multiplication to calculate $648 \times 7$.
+
+375. Look at the picture! {user_name} is looking at this.
+Use formal short multiplication to calculate $648 \times 7$.
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Use formal short multiplication to calculate $648 \times 7$.
+
+411. Look at the picture! {grandmother_name} is looking at this.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+412. Look at the picture! {grandfather_name} is looking at this.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+413. Look at the picture! {mother_name} is looking at this.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+414. Look at the picture! {father_name} is looking at this.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+415. Look at the picture! {sibling_name} is looking at this.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+416. Look at the picture! {user_name} is looking at this.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A factory packs 309 bottles of juice into each shipping crate. How many bottles of juice are there in 9 crates?
+
+452. Look at the picture! {grandmother_name} is looking at this.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+453. Look at the picture! {grandfather_name} is looking at this.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+454. Look at the picture! {mother_name} is looking at this.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+455. Look at the picture! {father_name} is looking at this.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+456. Look at the picture! {sibling_name} is looking at this.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+457. Look at the picture! {user_name} is looking at this.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A 3-digit by 1-digit multiplication has a missing tens digit: $4[\;]7 \times 5 = 2335$. What is the missing digit?

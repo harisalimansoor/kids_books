@@ -1,0 +1,54 @@
+=== Topic: Simultaneous deductions from paired price models (1 rubber + 1 pen = £1.10, 1 rubber + 2 pens = £1.75) and sum/difference systems (x + y = 7, x - y = 0.7) ===
+Domain: Algebra & Two Unknowns
+
+--- Simultaneous deductions from paired price models ---
+
+Question 1: 1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+Answer: 30p
+Working: The difference between the two purchases is 2 pencils. 2 pencils cost £1.40 - 80p = 60p. So, 1 pencil costs 60p ÷ 2 = 30p.
+
+Question 2: 1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+Answer: 45p
+Working: 1 extra pen costs £1.75 - £1.10 = £0.65 (65p). 1 ruler costs £1.10 - £0.65 = £0.45 (45p).
+
+Question 3: 1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+Answer: £2.40
+Working: 2 extra cartons of juice cost £6.00 - £4.20 = £1.80. 1 carton of juice costs £1.80 ÷ 2 = £0.90. 2 cartons cost £1.80, so 1 sandwich costs £4.20 - £1.80 = £2.40.
+
+Question 4: 4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+Answer: £1.50
+Working: 3 extra hot chocolates cost £14.50 - £10.00 = £4.50. 1 hot chocolate costs £4.50 ÷ 3 = £1.50.
+
+Question 5: 2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+Answer: 60p
+Working: 3 extra stickers cost £2.40 - £1.50 = £0.90 (90p). 1 sticker costs 90p ÷ 3 = 30p. 2 badges cost £1.50 - 30p = £1.20. 1 badge costs £1.20 ÷ 2 = 60p (or £0.60).
+
+Question 6: 3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+Answer: 70p
+Working: 3 extra pears cost £2.70 - £1.80 = £0.90 (90p). 1 pear costs 90p ÷ 3 = 30p. 2 pears cost 60p, so 3 apples cost £1.80 - 60p = £1.20. 1 apple costs £1.20 ÷ 3 = 40p. Total cost of 1 apple and 1 pear = 40p + 30p = 70p (or £0.70).
+
+--- Sum and difference systems ---
+
+Question 7: The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+Answer: 11
+Working: Subtract the difference from the sum: 30 - 8 = 22. Divide by 2: 22 ÷ 2 = 11. The smaller number is 11.
+
+Question 8: Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+Answer: 3.85
+Working: Adding the two equations: 2x = 7 + 0.7 = 7.7. Dividing by 2: x = 7.7 ÷ 2 = 3.85.
+
+Question 9: Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+Answer: 4.6
+Working: Subtracting the difference from the sum gives 2b: 12.6 - 3.4 = 9.2. Dividing by 2: b = 9.2 ÷ 2 = 4.6.
+
+Question 10: Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+Answer: 73
+Working: Subtract the difference from the total: 120 - 26 = 94. Mia has 94 ÷ 2 = 47 cards. Leo has 47 + 26 = 73 cards.
+
+Question 11: Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+Answer: 58
+Working: Add the difference to the sum: 95 + 21 = 116. Divide by 2: 116 ÷ 2 = 58. The larger number is 58.
+
+Question 12: A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+Answer: 80 cm
+Working: Convert total length to centimetres: 2 m = 200 cm. Subtract the difference: 200 - 40 = 160 cm. Divide by 2: 160 ÷ 2 = 80 cm.

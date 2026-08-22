@@ -1,0 +1,54 @@
+=== Topic: Converting fractions to ratios (\frac{2{5 boys \implies 2:3); unitary scaling in recipes, paving, and linear shape alignments (e.g. 3 squares + 2 triangles = 264 cm) ===
+Domain: Ratio and Proportion
+
+--- Converting fractions to ratios ---
+
+Question 1: In a Year 6 class, 2/5 of the pupils are boys and the rest are girls. What is the ratio of boys to girls in its simplest form?
+Answer: 2:3
+Working: The whole class represents 5 equal parts. If 2 of the 5 parts are boys, then 5 - 2 = 3 parts are girls. Therefore, the ratio of boys to girls is 2:3.
+
+Question 2: In a fruit bowl, 3/7 of the pieces of fruit are apples and the rest are oranges. What is the ratio of apples to oranges?
+Answer: 3:4
+Working: Total parts = 7. Apples = 3 parts. Oranges = 7 - 3 = 4 parts. Ratio of apples to oranges = 3:4.
+
+Question 3: In a box of counters, 5/8 of the counters are blue and the rest are red. What is the ratio of red counters to blue counters?
+Answer: 3:5
+Working: Total parts = 8. Blue counters = 5 parts. Red counters = 8 - 5 = 3 parts. The question asks for the ratio of red counters to blue counters, which is 3:5.
+
+Question 4: A tin of paint is made from white paint and blue paint only. White paint makes up 7/10 of the mixture. What is the ratio of white paint to blue paint in its simplest form?
+Answer: 7:3
+Working: Total parts = 10. White paint = 7 parts. Blue paint = 10 - 7 = 3 parts. Ratio of white paint to blue paint = 7:3.
+
+Question 5: In a school choir, 3/8 of the singers are boys, 1/8 are male teachers, and the rest are girls. What is the ratio of boys to male teachers to girls in its simplest form?
+Answer: 3:1:4
+Working: Total parts = 8. Boys = 3 parts. Male teachers = 1 part. Girls = 8 - (3 + 1) = 4 parts. Ratio of boys to male teachers to girls = 3:1:4.
+
+Question 6: In a flower bed, 3/5 of the flowers are tulips and the rest are daffodils. There are 24 tulips. How many daffodils are there?
+Answer: 16
+Working: Tulips make up 3 parts out of 5, so 3 parts = 24 flowers. 1 part = 24 ÷ 3 = 8 flowers. Daffodils make up 5 - 3 = 2 parts. 2 parts = 2 × 8 = 16 daffodils.
+
+--- Unitary scaling in recipes, paving, and linear shape alignments ---
+
+Question 7: A recipe for 8 flapjacks requires 120 g of oats. How many grams of oats are needed to make 12 flapjacks?
+Answer: 180 g
+Working: Mass of oats for 1 flapjack = 120 ÷ 8 = 15 g. Mass of oats for 12 flapjacks = 15 × 12 = 180 g.
+
+Question 8: A soup recipe for 6 people requires 450 g of carrots. How many grams of carrots are needed to make the soup for 10 people?
+Answer: 750 g
+Working: Amount of carrots for 1 person = 450 ÷ 6 = 75 g. Amount of carrots for 10 people = 75 × 10 = 750 g.
+
+Question 9: A garden paving pattern uses 5 grey paving slabs for every 2 red paving slabs. A builder uses 35 grey slabs to finish a patio. How many red slabs does the builder use?
+Answer: 14
+Working: Number of sets of 5 grey slabs = 35 ÷ 5 = 7 sets. Number of red slabs = 7 × 2 = 14.
+
+Question 10: 3 identical squares and 2 identical triangles are placed side by side in a straight line. The width of each square is 60 cm. The total length of the line is 264 cm. What is the width of one triangle?
+Answer: 42 cm
+Working: Total width of the 3 squares = 3 × 60 = 180 cm. Remaining length for the 2 triangles = 264 - 180 = 84 cm. Width of 1 triangle = 84 ÷ 2 = 42 cm.
+
+Question 11: 4 identical regular hexagons and 3 identical squares are placed in a straight line touching edge-to-edge. Each hexagon has a width of 15 cm. The total length of the line is 102 cm. What is the width of one square?
+Answer: 14 cm
+Working: Total width of 4 hexagons = 4 × 15 = 60 cm. Width of 3 squares = 102 - 60 = 42 cm. Width of 1 square = 42 ÷ 3 = 14 cm.
+
+Question 12: A straight path is made from 5 large paving slabs and 4 small paving slabs placed end to end. The total length of the path is 330 cm. Each small paving slab is 20 cm long. What is the length of one large paving slab?
+Answer: 50 cm
+Working: Total length of 4 small slabs = 4 × 20 = 80 cm. Total length of 5 large slabs = 330 - 80 = 250 cm. Length of 1 large slab = 250 ÷ 5 = 50 cm.

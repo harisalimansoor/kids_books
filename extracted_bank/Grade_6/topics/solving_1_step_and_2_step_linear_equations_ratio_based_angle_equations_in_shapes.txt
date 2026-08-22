@@ -1,0 +1,62 @@
+=== Topic: Solving 1-step and 2-step linear equations; ratio-based angle equations in shapes ===
+Domain: Algebra & Two Unknowns
+
+--- Solving 1-step and 2-step linear equations ---
+
+Question 1: Solve the equation: x + 29 = 75
+Answer: 46
+Working: Subtract 29 from both sides: x = 75 - 29 = 46.
+
+Question 2: Solve the equation: 6y = 54
+Answer: 9
+Working: Divide both sides by 6: y = 54 ÷ 6 = 9.
+
+Question 3: Solve the equation: m - 18.5 = 31.5
+Answer: 50
+Working: Add 18.5 to both sides: m = 31.5 + 18.5 = 50.
+
+Question 4: Solve the equation: 3a + 8 = 35
+Answer: 9
+Working: Subtract 8 from both sides: 3a = 27. Divide by 3: a = 27 ÷ 3 = 9.
+
+Question 5: Solve the equation: 5p - 14 = 46
+Answer: 12
+Working: Add 14 to both sides: 5p = 60. Divide by 5: p = 60 ÷ 5 = 12.
+
+Question 6: Liam thinks of a number, n. He multiplies it by 4 and then adds 15. His final result is 63. Find the value of n.
+Answer: 12
+Working: Set up the equation 4n + 15 = 63. Subtract 15: 4n = 48. Divide by 4: n = 12.
+
+Question 7: Solve the equation: (w ÷ 4) + 9 = 16
+Answer: 28
+Working: Subtract 9 from both sides: w ÷ 4 = 7. Multiply by 4: w = 7 × 4 = 28.
+
+Question 8: Two identical bags of flour and one 250 g bag of sugar balance a total mass of 1,150 g on a scale. The equation is 2b + 250 = 1,150, where b is the mass of one bag of flour in grams. Find the value of b.
+Answer: 450
+Working: Subtract 250 from both sides: 2b = 900. Divide by 2: b = 450.
+
+--- Ratio-based angle equations in shapes ---
+
+Question 9: The three angles inside a triangle are a, 2a, and 3a. Since the angles in a triangle add up to 180°, find the value of a.
+Answer: 30
+Working: Write the equation: a + 2a + 3a = 180°. Combine like terms: 6a = 180°. Divide by 6: a = 30°.
+
+Question 10: Two angles meet at a point on a straight line to make 180°. One angle is 4x and the other angle is x. Find the value of x.
+Answer: 36
+Working: Write the equation: 4x + x = 180°. Combine like terms: 5x = 180°. Divide by 5: x = 36°.
+
+Question 11: An isosceles triangle has two equal angles of size 2y and a third angle of size y. Angles in a triangle sum to 180°. Find the value of y.
+Answer: 36
+Working: Write the equation: 2y + 2y + y = 180°. Combine like terms: 5y = 180°. Divide by 5: y = 36°.
+
+Question 12: Three angles meet around a single point to make 360°. Their sizes are 2k, 3k, and 5k. Find the value of k.
+Answer: 36
+Working: Write the equation: 2k + 3k + 5k = 360°. Combine like terms: 10k = 360°. Divide by 10: k = 36°.
+
+Question 13: The four angles in a quadrilateral are x, 2x, 3x, and 4x. The angles in a quadrilateral sum to 360°. Find the size of the largest angle in degrees.
+Answer: 144°
+Working: Write the equation: x + 2x + 3x + 4x = 360°. Combine like terms: 10x = 360°. Divide by 10: x = 36°. The largest angle is 4x = 4 × 36° = 144°.
+
+Question 14: A right-angled triangle has one angle of 90° and two acute angles of sizes 2n and 3n. The angles in a triangle sum to 180°. Find the value of n.
+Answer: 18
+Working: Write the equation: 90° + 2n + 3n = 180°. Combine terms: 90° + 5n = 180°. Subtract 90°: 5n = 90°. Divide by 5: n = 18°.

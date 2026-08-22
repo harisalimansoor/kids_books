@@ -1,0 +1,1729 @@
+###################################
+Scale conversions on maps and models (1 cm : 2.5 m); similar shapes scale factors
+###################################
+
+--- Scale conversions on maps and models ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+2. Look at the picture! {grandfather_name} is looking at this.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+3. Look at the picture! {mother_name} is looking at this.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+4. Look at the picture! {father_name} is looking at this.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+5. Look at the picture! {sibling_name} is looking at this.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+6. Look at the picture! {user_name} is looking at this.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+On a map, the scale is 1 cm : 2.5 m. A path measures 6 cm on the map. What is the real length of the path in metres?
+
+42. Look at the picture! {grandmother_name} is looking at this.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+43. Look at the picture! {grandfather_name} is looking at this.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+44. Look at the picture! {mother_name} is looking at this.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+45. Look at the picture! {father_name} is looking at this.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+46. Look at the picture! {sibling_name} is looking at this.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+47. Look at the picture! {user_name} is looking at this.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+On a map of a nature reserve, 1 cm represents 4 km. The distance between two viewpoints on the map is 7 cm. What is the actual distance between the viewpoints in kilometres?
+
+83. Look at the picture! {grandmother_name} is looking at this.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+85. Look at the picture! {mother_name} is looking at this.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+86. Look at the picture! {father_name} is looking at this.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+87. Look at the picture! {sibling_name} is looking at this.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+88. Look at the picture! {user_name} is looking at this.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A scale drawing of a playground uses the scale 1 cm : 3 m. The real length of the climbing frame is 18 m. How long is the climbing frame on the scale drawing in centimetres?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+126. Look at the picture! {mother_name} is looking at this.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+127. Look at the picture! {father_name} is looking at this.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+128. Look at the picture! {sibling_name} is looking at this.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+129. Look at the picture! {user_name} is looking at this.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A model of a ship uses a scale of 1 cm : 2.5 m. The actual ship is 35 m long. What is the length of the model ship in centimetres?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+167. Look at the picture! {mother_name} is looking at this.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+168. Look at the picture! {father_name} is looking at this.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+169. Look at the picture! {sibling_name} is looking at this.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+170. Look at the picture! {user_name} is looking at this.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+On a floor plan of a house, the scale is 1 cm : 2 m. The living room on the plan is 4.5 cm long. What is the actual length of the living room in metres?
+
+206. Look at the picture! {grandmother_name} is looking at this.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+207. Look at the picture! {grandfather_name} is looking at this.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+208. Look at the picture! {mother_name} is looking at this.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+209. Look at the picture! {father_name} is looking at this.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+210. Look at the picture! {sibling_name} is looking at this.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+211. Look at the picture! {user_name} is looking at this.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+On a town map, a scale of 1 cm represents 200 m. Two libraries are 1.6 km apart in real life. What is the distance between the two libraries on the map in centimetres?
+
+247. Look at the picture! {grandmother_name} is looking at this.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+248. Look at the picture! {grandfather_name} is looking at this.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+249. Look at the picture! {mother_name} is looking at this.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+250. Look at the picture! {father_name} is looking at this.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+251. Look at the picture! {sibling_name} is looking at this.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+252. Look at the picture! {user_name} is looking at this.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+On a plan of a school hall, the scale is 1 cm : 2.5 m. The hall is 20 m long and 15 m wide in real life. What are the length and width of the hall on the plan in centimetres?
+
+--- Similar shapes scale factors ---
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+290. Look at the picture! {mother_name} is looking at this.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+291. Look at the picture! {father_name} is looking at this.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+292. Look at the picture! {sibling_name} is looking at this.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+293. Look at the picture! {user_name} is looking at this.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Rectangle A is 4 cm long and 3 cm wide. Rectangle B is an enlargement of Rectangle A by a scale factor of 3. What are the length and width of Rectangle B?
+
+329. Look at the picture! {grandmother_name} is looking at this.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+331. Look at the picture! {mother_name} is looking at this.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+332. Look at the picture! {father_name} is looking at this.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+333. Look at the picture! {sibling_name} is looking at this.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+334. Look at the picture! {user_name} is looking at this.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A triangle has side lengths of 5 cm, 7 cm, and 8 cm. A similar larger triangle has side lengths of 15 cm, 21 cm, and 24 cm. What is the scale factor of enlargement?
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+372. Look at the picture! {mother_name} is looking at this.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+373. Look at the picture! {father_name} is looking at this.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+374. Look at the picture! {sibling_name} is looking at this.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+375. Look at the picture! {user_name} is looking at this.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Shape A and Shape B are similar shapes. A side of 6 cm on Shape A corresponds to a side of 24 cm on Shape B. Another side on Shape A is 9 cm. What is the length of the corresponding side on Shape B in centimetres?
+
+411. Look at the picture! {grandmother_name} is looking at this.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+412. Look at the picture! {grandfather_name} is looking at this.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+413. Look at the picture! {mother_name} is looking at this.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+414. Look at the picture! {father_name} is looking at this.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+415. Look at the picture! {sibling_name} is looking at this.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+416. Look at the picture! {user_name} is looking at this.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+An equilateral triangle has a perimeter of 18 cm. A larger similar equilateral triangle is drawn using a scale factor of 4. What is the perimeter of the larger triangle in centimetres?
+
+452. Look at the picture! {grandmother_name} is looking at this.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+453. Look at the picture! {grandfather_name} is looking at this.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+454. Look at the picture! {mother_name} is looking at this.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+455. Look at the picture! {father_name} is looking at this.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+456. Look at the picture! {sibling_name} is looking at this.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+457. Look at the picture! {user_name} is looking at this.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A photo measuring 8 cm by 12 cm is enlarged by a scale factor of 2.5. What are the dimensions of the enlarged photo in centimetres?
+
+493. Look at the picture! {grandmother_name} is looking at this.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+494. Look at the picture! {grandfather_name} is looking at this.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+495. Look at the picture! {mother_name} is looking at this.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+496. Look at the picture! {father_name} is looking at this.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+497. Look at the picture! {sibling_name} is looking at this.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+498. Look at the picture! {user_name} is looking at this.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+499. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+500. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+501. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+502. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+503. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+504. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+505. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+506. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+507. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+508. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+509. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+510. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+511. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+512. Look at the picture! {father_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+513. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+514. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+515. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+516. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+517. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+518. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+519. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+520. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+521. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+522. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+523. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+524. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+525. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+526. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+527. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+528. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+529. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+530. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+531. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+532. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+533. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Triangle X has sides measuring 6 cm, 8 cm, and 10 cm. Triangle Y is similar to Triangle X, and its longest side measures 25 cm. What is the perimeter of Triangle Y in centimetres?
+
+534. Look at the picture! {grandmother_name} is looking at this.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+535. Look at the picture! {grandfather_name} is looking at this.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+536. Look at the picture! {mother_name} is looking at this.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+537. Look at the picture! {father_name} is looking at this.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+538. Look at the picture! {sibling_name} is looking at this.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+539. Look at the picture! {user_name} is looking at this.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+540. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+541. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+542. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+543. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+544. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+545. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+546. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+547. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+548. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+549. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+550. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+551. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+552. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+553. Look at the picture! {father_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+554. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+555. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+556. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+557. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+558. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+559. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+560. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+561. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+562. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+563. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+564. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+565. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+566. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+567. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+568. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+569. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+570. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+571. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+572. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+573. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?
+
+574. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Rectangle P has a perimeter of 26 cm and a width of 5 cm. Rectangle Q is similar to Rectangle P. The length of Rectangle Q is 24 cm. What is the width of Rectangle Q in centimetres?

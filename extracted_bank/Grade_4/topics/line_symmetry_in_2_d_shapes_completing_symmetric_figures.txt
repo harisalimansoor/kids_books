@@ -1,0 +1,74 @@
+=== Topic: Line symmetry in 2-D shapes; completing symmetric figures ===
+Domain: Geometry (Properties of Shapes, Position and Direction)
+
+--- Line symmetry in 2-D shapes ---
+
+Question 1: How many lines of symmetry does a regular hexagon have?
+Answer: 6
+Working: A regular polygon has the same number of lines of symmetry as it has sides. A regular hexagon has 6 equal sides, so it has 6 lines of symmetry.
+
+Question 2: How many lines of symmetry does an equilateral triangle have?
+Answer: 3
+Working: An equilateral triangle has 3 equal sides and 3 equal angles. It has 3 lines of symmetry passing from each vertex to the midpoint of the opposite side.
+
+Question 3: How many lines of symmetry does a rectangle have if its length is not equal to its width?
+Answer: 2
+Working: A non-square rectangle has 2 lines of symmetry: one vertical line connecting the midpoints of the horizontal sides, and one horizontal line connecting the midpoints of the vertical sides.
+
+Question 4: How many lines of symmetry does an isosceles triangle have?
+Answer: 1
+Working: An isosceles triangle has 2 equal sides and 1 line of symmetry passing through the vertex between the equal sides to the midpoint of the base.
+
+Question 5: How many lines of symmetry does a rhombus have if it is not a square?
+Answer: 2
+Working: A rhombus has 4 equal sides. Its 2 lines of symmetry run along its diagonals.
+
+Question 6: How many lines of symmetry does a standard parallelogram have if none of its angles are right angles and not all sides are equal?
+Answer: 0
+Working: A standard parallelogram with unequal adjacent sides and non-right angles has rotational symmetry of order 2, but 0 lines of symmetry.
+
+Question 7: How many lines of symmetry does an isosceles trapezium have?
+Answer: 1
+Working: An isosceles trapezium has one pair of parallel sides and one pair of equal non-parallel sides. It has exactly 1 line of symmetry passing vertically through the midpoints of the parallel sides.
+
+Question 8: How many lines of symmetry does a kite shape have?
+Answer: 1
+Working: A kite has two pairs of adjacent equal sides. It has exactly 1 line of symmetry running along its main diagonal between the two pairs of equal sides.
+
+Question 9: A regular polygon has 8 equal sides and 8 equal angles. How many lines of symmetry does it have?
+Answer: 8
+Working: A regular octagon has 8 sides. All regular polygons have the same number of lines of symmetry as their number of sides, so it has 8 lines of symmetry.
+
+Question 10: A shape is a quadrilateral with 4 equal sides and 4 right angles. How many lines of symmetry does this shape have?
+Answer: 4
+Working: A quadrilateral with 4 equal sides and 4 right angles is a square. A square has 4 lines of symmetry: 2 through opposite side midpoints and 2 along the diagonals.
+
+--- Completing symmetric figures ---
+
+Question 11: A pattern is drawn on a grid with a vertical line of symmetry. A point is plotted 5 squares to the left of the line of symmetry. How many squares to the right of the line of symmetry should the matching point be plotted?
+Answer: 5
+Working: In a symmetric figure, matching points are the same perpendicular distance from the line of symmetry. The matching point must be plotted 5 squares to the right.
+
+Question 12: A vertical line of symmetry is at x = 5 on a coordinate grid. A vertex of a shape is at (2, 4). What are the coordinates of the reflected vertex?
+Answer: (8, 4)
+Working: The point (2, 4) is 3 units to the left of the line of symmetry x = 5 (5 - 2 = 3). The reflected point must be 3 units to the right: 5 + 3 = 8. The y-coordinate remains 4. The coordinates are (8, 4).
+
+Question 13: A horizontal line of symmetry is at y = 4 on a coordinate grid. A point is plotted at (6, 1). What are the coordinates of the reflected point?
+Answer: (6, 7)
+Working: The point (6, 1) is 3 units below the line y = 4 (4 - 1 = 3). The reflected point must be 3 units above: 4 + 3 = 7. The x-coordinate remains 6. The coordinates are (6, 7).
+
+Question 14: A grid is divided into two halves by a vertical mirror line. To make a symmetrical design, 7 squares are shaded on the left side of the mirror line and 0 squares on the mirror line itself. How many squares in total must be shaded across the whole design?
+Answer: 14
+Working: The right side must have the exact same number of shaded squares as the left side. Total shaded squares = 7 + 7 = 14.
+
+Question 15: A vertical line of symmetry is at x = 7 on a coordinate grid. Two vertices on the left side of the line are plotted at (3, 2) and (5, 6). What are the coordinates of the matching reflected point for (3, 2)?
+Answer: (11, 2)
+Working: The point (3, 2) has an x-distance of 7 - 3 = 4 units to the mirror line. The reflected point is at x = 7 + 4 = 11, with the same y-value of 2. The coordinates are (11, 2).
+
+Question 16: A symmetrical polygon has a vertical line of symmetry. The left half of the shape has a width of 6 centimetres from the mirror line to its outermost edge. What is the total width of the completed shape in centimetres?
+Answer: 12 cm
+Working: The right half must also extend 6 cm from the mirror line. Total width = 6 cm + 6 cm = 12 cm.
+
+Question 17: A horizontal line of symmetry is at y = 6 on a coordinate grid. A vertex of a symmetric hexagon is at (4, 9). What are the coordinates of the reflected vertex?
+Answer: (4, 3)
+Working: The point (4, 9) is 3 units above the mirror line y = 6 (9 - 6 = 3). The reflected vertex is 3 units below: 6 - 3 = 3. The x-coordinate remains 4. The coordinates are (4, 3).

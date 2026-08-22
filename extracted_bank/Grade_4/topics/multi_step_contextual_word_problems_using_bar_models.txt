@@ -1,0 +1,28 @@
+=== Topic: Multi-step contextual word problems using bar models ===
+Domain: Addition and Subtraction
+
+--- Multi-step contextual word problems using bar models ---
+
+Question 1: A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+Answer: 485
+Working: 1,125 + 840 = 1,965 books. 2,450 - 1,965 = 485 poetry books.
+
+Question 2: Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+Answer: 3,155
+Working: Maya's stickers: 1,340 + 475 = 1,815. Total: 1,340 + 1,815 = 3,155 stickers.
+
+Question 3: A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+Answer: £875
+Working: Total raised so far: £1,685 + £940 = £2,625. Amount still needed: £3,500 - £2,625 = £875.
+
+Question 4: A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+Answer: 555
+Working: Adults and children: 1,835 + 1,460 = 3,295. Volunteers: 4,200 - 3,295 = 905. Difference between children and volunteers: 1,460 - 905 = 555.
+
+Question 5: A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+Answer: 480
+Working: Saturday: 480 + 210 = 690 rolls. Friday + Saturday: 480 + 690 = 1,170 rolls. Sunday: 1,650 - 1,170 = 480 rolls.
+
+Question 6: A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+Answer: 3,530
+Working: Crate B: 1,250 - 380 = 870 apples. Crate C: 870 + 540 = 1,410 apples. Total in all three crates: 1,250 + 870 + 1,410 = 3,530 apples.

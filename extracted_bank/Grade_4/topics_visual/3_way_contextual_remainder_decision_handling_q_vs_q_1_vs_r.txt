@@ -1,0 +1,1485 @@
+###################################
+3-way contextual remainder decision handling (q vs q+1 vs r)
+###################################
+
+--- Ignore remainder / round down (q) ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+2. Look at the picture! {grandfather_name} is looking at this.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+3. Look at the picture! {mother_name} is looking at this.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+4. Look at the picture! {father_name} is looking at this.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+5. Look at the picture! {sibling_name} is looking at this.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+6. Look at the picture! {user_name} is looking at this.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+
+42. Look at the picture! {grandmother_name} is looking at this.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+43. Look at the picture! {grandfather_name} is looking at this.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+44. Look at the picture! {mother_name} is looking at this.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+45. Look at the picture! {father_name} is looking at this.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+46. Look at the picture! {sibling_name} is looking at this.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+47. Look at the picture! {user_name} is looking at this.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+
+83. Look at the picture! {grandmother_name} is looking at this.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+85. Look at the picture! {mother_name} is looking at this.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+86. Look at the picture! {father_name} is looking at this.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+87. Look at the picture! {sibling_name} is looking at this.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+88. Look at the picture! {user_name} is looking at this.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+126. Look at the picture! {mother_name} is looking at this.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+127. Look at the picture! {father_name} is looking at this.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+128. Look at the picture! {sibling_name} is looking at this.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+129. Look at the picture! {user_name} is looking at this.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+
+--- Include remainder / round up (q + 1) ---
+
+165. Look at the picture! {grandmother_name} is looking at this.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+167. Look at the picture! {mother_name} is looking at this.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+168. Look at the picture! {father_name} is looking at this.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+169. Look at the picture! {sibling_name} is looking at this.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+170. Look at the picture! {user_name} is looking at this.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+
+206. Look at the picture! {grandmother_name} is looking at this.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+207. Look at the picture! {grandfather_name} is looking at this.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+208. Look at the picture! {mother_name} is looking at this.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+209. Look at the picture! {father_name} is looking at this.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+210. Look at the picture! {sibling_name} is looking at this.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+211. Look at the picture! {user_name} is looking at this.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+
+247. Look at the picture! {grandmother_name} is looking at this.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+248. Look at the picture! {grandfather_name} is looking at this.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+249. Look at the picture! {mother_name} is looking at this.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+250. Look at the picture! {father_name} is looking at this.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+251. Look at the picture! {sibling_name} is looking at this.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+252. Look at the picture! {user_name} is looking at this.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+
+288. Look at the picture! {grandmother_name} is looking at this.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+290. Look at the picture! {mother_name} is looking at this.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+291. Look at the picture! {father_name} is looking at this.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+292. Look at the picture! {sibling_name} is looking at this.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+293. Look at the picture! {user_name} is looking at this.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+
+--- Record remainder as leftover (r) ---
+
+329. Look at the picture! {grandmother_name} is looking at this.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+331. Look at the picture! {mother_name} is looking at this.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+332. Look at the picture! {father_name} is looking at this.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+333. Look at the picture! {sibling_name} is looking at this.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+334. Look at the picture! {user_name} is looking at this.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+
+370. Look at the picture! {grandmother_name} is looking at this.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+371. Look at the picture! {grandfather_name} is looking at this.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+372. Look at the picture! {mother_name} is looking at this.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+373. Look at the picture! {father_name} is looking at this.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+374. Look at the picture! {sibling_name} is looking at this.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+375. Look at the picture! {user_name} is looking at this.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+
+411. Look at the picture! {grandmother_name} is looking at this.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+412. Look at the picture! {grandfather_name} is looking at this.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+413. Look at the picture! {mother_name} is looking at this.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+414. Look at the picture! {father_name} is looking at this.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+415. Look at the picture! {sibling_name} is looking at this.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+416. Look at the picture! {user_name} is looking at this.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+
+452. Look at the picture! {grandmother_name} is looking at this.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+453. Look at the picture! {grandfather_name} is looking at this.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+454. Look at the picture! {mother_name} is looking at this.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+455. Look at the picture! {father_name} is looking at this.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+456. Look at the picture! {sibling_name} is looking at this.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+457. Look at the picture! {user_name} is looking at this.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?

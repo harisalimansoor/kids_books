@@ -1,0 +1,46 @@
+=== Topic: Fractions greater than 1: improper fractions and mixed numbers ===
+Domain: Fractions and Decimals
+
+--- Improper fractions ---
+
+Question 1: Each whole chocolate bar is divided into 4 equal pieces. Max has 7 of these pieces. Write the amount of chocolate Max has as an improper fraction.
+Answer: 7/4
+Working: Each piece represents 1/4 of a bar. 7 pieces equal 7/4.
+
+Question 2: Convert 2 3/5 into an improper fraction.
+Answer: 13/5
+Working: Each whole contains 5/5. 2 wholes equal 2 x 5 = 10 fifths. 10/5 + 3/5 = 13/5.
+
+Question 3: What is the missing fraction in this sequence: 4/3, 5/3, 6/3, ____, 8/3?
+Answer: 7/3
+Working: The sequence increases by 1/3 each time. 6/3 + 1/3 = 7/3.
+
+Question 4: Convert 3 5/6 into an improper fraction.
+Answer: 23/6
+Working: 3 wholes = 3 x 6 = 18 sixths. 18/6 + 5/6 = 23/6.
+
+Question 5: Which is greater, 11/4 or 3 wholes? Explain by writing both as quarters.
+Answer: 3 wholes
+Working: 3 wholes is equal to 3 x 4/4 = 12/4. 12/4 is greater than 11/4, so 3 wholes is greater.
+
+--- Mixed numbers ---
+
+Question 6: A baker has 9 half loaves of bread. Write this amount as a mixed number.
+Answer: 4 1/2
+Working: 9 halves = 9/2. 9 divided by 2 is 4 with a remainder of 1. So 9/2 = 4 1/2.
+
+Question 7: Convert the improper fraction 11/3 into a mixed number.
+Answer: 3 2/3
+Working: 11 divided by 3 is 3 remainder 2. 11/3 = 3 wholes and 2/3, which is 3 2/3.
+
+Question 8: Write the next mixed number in the sequence: 1 3/4, 2, 2 1/4, 2 2/4, ____.
+Answer: 2 3/4
+Working: The sequence counts up by one quarter (1/4) each step. 2 2/4 + 1/4 = 2 3/4.
+
+Question 9: Convert the improper fraction 29/8 into a mixed number.
+Answer: 3 5/8
+Working: 29 divided by 8 is 3 remainder 5 (since 3 x 8 = 24 and 29 - 24 = 5). So 29/8 = 3 5/8.
+
+Question 10: Zara has 2 1/5 litres of water in a jug. How many more fifths of a litre does she need to add to make exactly 3 litres?
+Answer: 4/5
+Working: To reach 3 wholes from 2 1/5, Zara needs 1 whole minus 1/5. 5/5 - 1/5 = 4/5 litres.

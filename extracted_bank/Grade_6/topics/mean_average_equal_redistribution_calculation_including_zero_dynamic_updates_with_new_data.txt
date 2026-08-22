@@ -1,0 +1,72 @@
+=== Topic: Mean average: equal redistribution, calculation including zero, dynamic updates with new data, reverse mean, divisibility checks (T = n x \bar{x) ===
+Domain: Statistics
+
+--- Equal redistribution ---
+
+Question 1: Four friends build towers of blocks. Their towers have heights of 9 blocks, 5 blocks, 8 blocks, and 6 blocks. If they redistribute the blocks equally so all towers have the same height, how many blocks will be in each tower?
+Answer: 7
+Working: Total number of blocks = 9 + 5 + 8 + 6 = 28. Redistribute equally among 4 towers: 28 ÷ 4 = 7 blocks.
+
+Question 2: Three jugs contain 240 ml, 310 ml, and 350 ml of water. The water is shared out equally among the three jugs. How many millilitres of water are in each jug?
+Answer: 300 ml
+Working: Total volume of water = 240 + 310 + 350 = 900 ml. Redistribute equally among 3 jugs: 900 ÷ 3 = 300 ml.
+
+Question 3: Five boxes contain different numbers of pencils: 14, 18, 11, 25, and 12. If the pencils are redistributed equally across all five boxes, how many pencils will be in each box?
+Answer: 16
+Working: Total number of pencils = 14 + 18 + 11 + 25 + 12 = 80. Redistribute equally among 5 boxes: 80 ÷ 5 = 16 pencils.
+
+--- Calculation including zero ---
+
+Question 4: A netball team played five matches. The number of goals they scored in each match was 6, 0, 4, 0, and 5. Calculate the mean number of goals scored per match.
+Answer: 3
+Working: Total goals = 6 + 0 + 4 + 0 + 5 = 15. Number of matches = 5. Mean = 15 ÷ 5 = 3 goals.
+
+Question 5: In six spelling tests, James recorded the following number of errors: 3, 0, 5, 0, 4, and 0. Calculate his mean number of errors per test.
+Answer: 2
+Working: Total errors = 3 + 0 + 5 + 0 + 4 + 0 = 12. Number of tests = 6. Mean = 12 ÷ 6 = 2 errors.
+
+Question 6: During four days of birdwatching, Amy counted 8, 0, 6, and 2 robins each day. What was the mean number of robins seen per day?
+Answer: 4
+Working: Total robins = 8 + 0 + 6 + 2 = 16. Number of days = 4. Mean = 16 ÷ 4 = 4 robins.
+
+--- Dynamic updates with new data ---
+
+Question 7: Four pupils have a mean test score of 15. A fifth pupil joins the group with a test score of 20. What is the new mean score of all five pupils?
+Answer: 16
+Working: Original total for 4 pupils = 4 × 15 = 60. New total with fifth pupil = 60 + 20 = 80. New mean for 5 pupils = 80 ÷ 5 = 16.
+
+Question 8: The heights of three sunflower plants are 48 cm, 52 cm, and 56 cm. A fourth sunflower of height 60 cm is added to the group. Calculate the new mean height of the four plants.
+Answer: 54 cm
+Working: Total height of first 3 plants = 48 + 52 + 56 = 156 cm. New total with fourth plant = 156 + 60 = 216 cm. New mean = 216 ÷ 4 = 54 cm.
+
+Question 9: Five runners have a mean 100-metre sprint time of 16 seconds. A sixth runner joins the team with a sprint time of 22 seconds. What is the new mean sprint time for the six runners?
+Answer: 17 seconds
+Working: Original total time = 5 × 16 = 80 seconds. New total time = 80 + 22 = 102 seconds. New mean = 102 ÷ 6 = 17 seconds.
+
+--- Reverse mean ---
+
+Question 10: The mean of four numbers is 14. Three of the numbers are 11, 15, and 18. What is the fourth number?
+Answer: 12
+Working: Total sum of all 4 numbers = 4 × 14 = 56. Sum of the three known numbers = 11 + 15 + 18 = 44. Fourth number = 56 - 44 = 12.
+
+Question 11: Five children have a mean mass of 34 kg. The masses of four of the children are 31 kg, 36 kg, 32 kg, and 39 kg. Calculate the mass of the fifth child.
+Answer: 32 kg
+Working: Total mass of 5 children = 5 × 34 = 170 kg. Sum of four known masses = 31 + 36 + 32 + 39 = 138 kg. Fifth child = 170 - 138 = 32 kg.
+
+Question 12: Priya needs a mean score of 85 marks across 4 reading quizzes. Her scores in the first 3 quizzes are 82, 88, and 79. What mark must Priya score in her fourth quiz to achieve her target mean?
+Answer: 91
+Working: Total marks required for 4 quizzes = 4 × 85 = 340. Sum of first 3 quizzes = 82 + 88 + 79 = 249. Required score on fourth quiz = 340 - 249 = 91.
+
+--- Divisibility checks ---
+
+Question 13: The mean number of points scored by 5 players in a board game is exactly 12. What was the total number of points scored by all 5 players?
+Answer: 60
+Working: Total sum = number of players × mean = 5 × 12 = 60 points.
+
+Question 14: A teacher calculates the mean score of 6 pupils on a test. The mean is a whole number. Which of the following could be the total number of marks scored by the 6 pupils: 45, 50, 54, or 58?
+Answer: 54
+Working: Total = number of pupils × mean. Since the mean is a whole number, the total must be divisible by 6. 54 ÷ 6 = 9 with no remainder, whereas 45, 50, and 58 are not divisible by 6.
+
+Question 15: Four friends collect football cards. They each have a whole number of cards. Can their mean number of cards be a whole number if their total number of cards is 42? Write 'Yes' or 'No' and give the remainder when 42 is divided by 4.
+Answer: No, remainder 2
+Working: For the mean of 4 whole numbers to be a whole number, the total must be a multiple of 4. 42 ÷ 4 = 10 r 2. Since there is a remainder of 2, the mean is not a whole number.

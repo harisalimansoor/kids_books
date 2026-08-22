@@ -1,0 +1,72 @@
+=== Topic: Metric conversions to 3 d.p.; imperial conversions (5 miles \approx 8 km, 1 kg \approx 2.2 lbs, 12 inches = 1 foot); conversion straight-line graphs ===
+Domain: Measurement, Time, Area, Perimeter & Volume
+
+--- Metric conversions to 3 decimal places ---
+
+Question 1: Convert 3,450 grams into kilograms. Give your answer as a decimal.
+Answer: 3.45 kg
+Working: There are 1,000 g in 1 kg. 3,450 ÷ 1,000 = 3.45 kg.
+
+Question 2: A bottle contains 75 millilitres of medicine. How many litres is this? Give your answer as a decimal.
+Answer: 0.075 litres
+Working: There are 1,000 ml in 1 litre. 75 ÷ 1,000 = 0.075 litres.
+
+Question 3: A piece of wire is 8 millimetres long. What is the length of the wire in metres? Give your answer as a decimal.
+Answer: 0.008 m
+Working: There are 1,000 mm in 1 metre. 8 ÷ 1,000 = 0.008 m.
+
+Question 4: A jug contains 1.45 litres of water. Hannah adds 375 millilitres of water to the jug. What is the total volume of water in the jug, in litres?
+Answer: 1.825 litres
+Working: Convert 375 ml to litres: 375 ÷ 1,000 = 0.375 litres. Total = 1.45 + 0.375 = 1.825 litres.
+
+Question 5: A baker has 2.5 kg of flour. He uses 875 g for a cake and 450 g for biscuits. How many kilograms of flour does he have left?
+Answer: 1.175 kg
+Working: Total flour used = 875 g + 450 g = 1,325 g. Convert to kg: 1,325 ÷ 1,000 = 1.325 kg. Flour left = 2.5 - 1.325 = 1.175 kg.
+
+Question 6: Four parcels have masses of 650 g, 1.2 kg, 425 g, and 0.85 kg. What is the total mass of the four parcels in kilograms?
+Answer: 3.125 kg
+Working: Convert all to kg: 650 g = 0.65 kg; 1.2 kg; 425 g = 0.425 kg; 0.85 kg. Sum = 0.65 + 1.2 + 0.425 + 0.85 = 3.125 kg.
+
+--- Imperial conversions ---
+
+Question 7: Given that 12 inches = 1 foot, how many inches are there in 5 feet?
+Answer: 60 inches
+Working: 5 × 12 = 60 inches.
+
+Question 8: Use the approximation 5 miles ≈ 8 km. How many kilometres are approximately equal to 35 miles?
+Answer: 56 km
+Working: 35 ÷ 5 = 7. 7 × 8 = 56 km.
+
+Question 9: A dog weighs 15 kg. Using the approximation 1 kg ≈ 2.2 lbs, what is the weight of the dog in pounds (lbs)?
+Answer: 33 lbs
+Working: 15 × 2.2 = 33 lbs.
+
+Question 10: A wooden plank is 4 feet and 7 inches long. Given that 12 inches = 1 foot, what is the total length of the plank in inches?
+Answer: 55 inches
+Working: 4 feet = 4 × 12 = 48 inches. Total length = 48 + 7 = 55 inches.
+
+Question 11: A road sign in France shows a distance of 64 km. Using 5 miles ≈ 8 km, how many miles is this distance?
+Answer: 40 miles
+Working: 64 ÷ 8 = 8. 8 × 5 = 40 miles.
+
+Question 12: Liam walks 6 miles. Noah walks 10 km. Using 5 miles ≈ 8 km, who walked further and by how many kilometres?
+Answer: Noah by 0.4 km
+Working: Convert Liam's walk to km: 1 mile ≈ 8 ÷ 5 = 1.6 km. 6 miles ≈ 6 × 1.6 = 9.6 km. Noah walked 10 km. Difference = 10 - 9.6 = 0.4 km. Noah walked further by 0.4 km.
+
+--- Conversion straight-line graphs ---
+
+Question 13: A straight-line conversion graph between pounds (£) and euros (€) passes through the origin (0, 0) and the point (£10, €12). How many euros are equal to £25?
+Answer: €30
+Working: £10 = €12, so £5 = €6. £25 = 5 × £5 = 5 × €6 = €30.
+
+Question 14: A straight-line graph converts gallons to litres. The line passes through (0, 0) and shows that 4 gallons = 18 litres. How many litres are equivalent to 10 gallons?
+Answer: 45 litres
+Working: 4 gallons = 18 litres, so 2 gallons = 9 litres. 10 gallons = 5 × 2 gallons = 5 × 9 = 45 litres.
+
+Question 15: A straight-line conversion graph converts distance in kilometres (horizontal axis) to miles (vertical axis). The line passes through (0, 0), (40, 25), and (80, 50). Using this linear relationship, how many kilometres are equivalent to 75 miles?
+Answer: 120 km
+Working: 25 miles = 40 km, so 75 miles = 3 × 25 miles = 3 × 40 km = 120 km.
+
+Question 16: A straight-line conversion graph converts temperatures from degrees Celsius (°C) on the horizontal axis to degrees Fahrenheit (°F) on the vertical axis. The line passes through (0, 32), (10, 50), and (20, 68). What is the temperature in degrees Fahrenheit when the temperature is 35 °C?
+Answer: 95 °F
+Working: Every increase of 10 °C increases the temperature by 18 °F (since 50 - 32 = 18 and 68 - 50 = 18). An increase of 5 °C corresponds to 9 °F. For 35 °C: start at 20 °C (68 °F), add 10 °C (18 °F) to reach 30 °C (86 °F), then add 5 °C (9 °F) to reach 35 °C: 86 + 9 = 95 °F.

@@ -1,0 +1,1237 @@
+###################################
+Protractor reading (0^ degrees--180^ degrees) and drawing 2D shapes accurately
+###################################
+
+--- Protractor reading ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+2. Look at the picture! {grandfather_name} is looking at this.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+3. Look at the picture! {mother_name} is looking at this.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+4. Look at the picture! {father_name} is looking at this.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+5. Look at the picture! {sibling_name} is looking at this.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+6. Look at the picture! {user_name} is looking at this.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A protractor is placed on an acute angle with its baseline on the bottom ray starting at 0° on the inner scale. The other ray passes through 68° on the inner scale and 112° on the outer scale. What is the size of the acute angle?
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+44. Look at the picture! {mother_name} is looking at this.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+45. Look at the picture! {father_name} is looking at this.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+46. Look at the picture! {sibling_name} is looking at this.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+47. Look at the picture! {user_name} is looking at this.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Sam measures an acute angle with a protractor. He reads the wrong scale and writes down 135°. What is the true measurement of the acute angle in degrees?
+
+83. Look at the picture! {grandmother_name} is looking at this.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+85. Look at the picture! {mother_name} is looking at this.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+86. Look at the picture! {father_name} is looking at this.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+87. Look at the picture! {sibling_name} is looking at this.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+88. Look at the picture! {user_name} is looking at this.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A protractor is placed over an angle so that its vertex is at the centre mark. One ray points to 24° on the outer scale and the other ray points to 139° on the same outer scale. What is the size of the angle between the two rays?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+126. Look at the picture! {mother_name} is looking at this.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+127. Look at the picture! {father_name} is looking at this.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+128. Look at the picture! {sibling_name} is looking at this.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+129. Look at the picture! {user_name} is looking at this.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A straight line lies along the baseline of a protractor. An angle of 73° is measured opening from the 0° mark on the right. What is the size of the obtuse angle opening from the 0° mark on the left to the same line?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+167. Look at the picture! {mother_name} is looking at this.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+168. Look at the picture! {father_name} is looking at this.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+169. Look at the picture! {sibling_name} is looking at this.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+170. Look at the picture! {user_name} is looking at this.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+An angle is drawn on a protractor. Ray A points to 38° on the inner scale. Ray B points to 82° on the outer scale. What is the size of the angle between ray A and ray B?
+
+--- Drawing 2D shapes accurately ---
+
+206. Look at the picture! {grandmother_name} is looking at this.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+207. Look at the picture! {grandfather_name} is looking at this.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+208. Look at the picture! {mother_name} is looking at this.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+209. Look at the picture! {father_name} is looking at this.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+210. Look at the picture! {sibling_name} is looking at this.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+211. Look at the picture! {user_name} is looking at this.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil draws a right-angled triangle accurately with a ruler and protractor. One of the acute angles measures 37°. What is the size of the other acute angle in the triangle?
+
+247. Look at the picture! {grandmother_name} is looking at this.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+248. Look at the picture! {grandfather_name} is looking at this.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+249. Look at the picture! {mother_name} is looking at this.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+250. Look at the picture! {father_name} is looking at this.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+251. Look at the picture! {sibling_name} is looking at this.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+252. Look at the picture! {user_name} is looking at this.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil accurately draws triangle ABC using a ruler and protractor. Side AB measures 7 cm, angle CAB measures 48°, and angle ABC measures 65°. What must angle BCA measure?
+
+288. Look at the picture! {grandmother_name} is looking at this.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+289. Look at the picture! {grandfather_name} is looking at this.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+290. Look at the picture! {mother_name} is looking at this.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+291. Look at the picture! {father_name} is looking at this.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+292. Look at the picture! {sibling_name} is looking at this.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+293. Look at the picture! {user_name} is looking at this.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil is drawing an accurate parallelogram with side lengths of 8 cm and 5 cm. One of the interior angles is 64°. What is the size of the adjacent interior obtuse angle?
+
+329. Look at the picture! {grandmother_name} is looking at this.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+331. Look at the picture! {mother_name} is looking at this.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+332. Look at the picture! {father_name} is looking at this.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+333. Look at the picture! {sibling_name} is looking at this.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+334. Look at the picture! {user_name} is looking at this.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil draws an accurate isosceles triangle where the angle between the two equal sides is 44°. What is the size of each of the two equal base angles?
+
+370. Look at the picture! {grandmother_name} is looking at this.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+371. Look at the picture! {grandfather_name} is looking at this.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+372. Look at the picture! {mother_name} is looking at this.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+373. Look at the picture! {father_name} is looking at this.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+374. Look at the picture! {sibling_name} is looking at this.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+375. Look at the picture! {user_name} is looking at this.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A pupil is constructing a quadrilateral. Three of the interior angles are measured and drawn as 75°, 115°, and 85°. What must the fourth interior angle measure for the shape to close correctly?

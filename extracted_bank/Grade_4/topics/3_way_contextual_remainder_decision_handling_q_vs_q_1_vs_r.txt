@@ -1,0 +1,56 @@
+=== Topic: 3-way contextual remainder decision handling (q vs q+1 vs r) ===
+Domain: Multiplication and Division
+
+--- Ignore remainder / round down (q) ---
+
+Question 1: A baker has 58 eggs. She needs 6 eggs to bake one large cake. How many complete cakes can she bake?
+Answer: 9
+Working: 58 ÷ 6 = 9 r 4. The question asks for complete cakes, so ignore the remainder. 9 cakes can be baked.
+
+Question 2: A teacher has 75 pencils. She places 8 pencils into each pot. How many pots can she completely fill?
+Answer: 9
+Working: 75 ÷ 8 = 9 r 3. Only full pots are counted, so ignore the remainder of 3. 9 pots can be completely filled.
+
+Question 3: Liam has 86 stickers. He needs 7 stickers to decorate one card. How many complete cards can he make?
+Answer: 12
+Working: 86 ÷ 7 = 12 r 2. To make complete cards, round down to the quotient. Liam can make 12 complete cards.
+
+Question 4: A gardener has 50 seeds. He plants 4 seeds in each plant pot. How many pots can be completely filled with seeds?
+Answer: 12
+Working: 50 ÷ 4 = 12 r 2. To find the number of completely filled pots, ignore the remainder. The answer is 12 pots.
+
+--- Include remainder / round up (q + 1) ---
+
+Question 5: There are 67 children going on a school trip. Each minibus can seat up to 9 children. How many minibuses are needed so that all the children can travel?
+Answer: 8
+Working: 67 ÷ 9 = 7 r 4. 7 minibuses carry 63 children, leaving 4 children without a seat. An extra minibus is needed: 7 + 1 = 8 minibuses.
+
+Question 6: A farmer has 46 sheep. Each pen can hold a maximum of 6 sheep. What is the smallest number of pens needed to hold all 46 sheep?
+Answer: 8
+Working: 46 ÷ 6 = 7 r 4. 7 pens hold 42 sheep, leaving 4 sheep. 1 more pen is needed: 7 + 1 = 8 pens.
+
+Question 7: An art club has 53 paintbrushes. Each pot can hold up to 8 brushes. How many pots are needed to store all of the paintbrushes?
+Answer: 7
+Working: 53 ÷ 8 = 6 r 5. 6 pots store 48 paintbrushes, leaving 5 paintbrushes. An extra pot is required: 6 + 1 = 7 pots.
+
+Question 8: A board game uses 95 cards. Each card tray holds a maximum of 12 cards. How many card trays are needed to hold all 95 cards?
+Answer: 8
+Working: 95 ÷ 12 = 7 r 11. 7 trays hold 84 cards, leaving 11 cards. 1 more tray is needed: 7 + 1 = 8 trays.
+
+--- Record remainder as leftover (r) ---
+
+Question 9: Maya has 47 sweets. She shares them equally between 6 party bags. How many sweets are left over?
+Answer: 5
+Working: 47 ÷ 6 = 7 r 5. Each bag gets 7 sweets, and the leftover remainder is 5 sweets.
+
+Question 10: A gardener has 68 flower bulbs. He plants them in equal rows of 7 bulbs. How many bulbs are left over?
+Answer: 5
+Working: 68 ÷ 7 = 9 r 5. 9 full rows of 7 bulbs use 63 bulbs. 68 - 63 = 5 bulbs left over.
+
+Question 11: A sports shop packs 39 tennis balls into tubes of 4. How many tennis balls are left unpacked?
+Answer: 3
+Working: 39 ÷ 4 = 9 r 3. 9 full tubes contain 36 tennis balls, so 3 tennis balls are left unpacked.
+
+Question 12: A class has 83 counters. Pupils place them into groups of 9. How many counters are not in a full group of 9?
+Answer: 2
+Working: 83 ÷ 9 = 9 r 2. 9 full groups use 81 counters, leaving 2 counters that are not in a full group.

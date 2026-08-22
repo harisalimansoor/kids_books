@@ -1,0 +1,2633 @@
+###################################
+Order of operations (BIDMAS/BODMAS), bracket insertion puzzles, shape algebra total grids
+###################################
+
+--- Order of operations (BIDMAS/BODMAS) ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+Calculate 8 + 4 × 7.
+
+2. Look at the picture! {grandfather_name} is looking at this.
+Calculate 8 + 4 × 7.
+
+3. Look at the picture! {mother_name} is looking at this.
+Calculate 8 + 4 × 7.
+
+4. Look at the picture! {father_name} is looking at this.
+Calculate 8 + 4 × 7.
+
+5. Look at the picture! {sibling_name} is looking at this.
+Calculate 8 + 4 × 7.
+
+6. Look at the picture! {user_name} is looking at this.
+Calculate 8 + 4 × 7.
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Calculate 45 - 30 ÷ 5.
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Calculate 45 - 30 ÷ 5.
+
+44. Look at the picture! {mother_name} is looking at this.
+Calculate 45 - 30 ÷ 5.
+
+45. Look at the picture! {father_name} is looking at this.
+Calculate 45 - 30 ÷ 5.
+
+46. Look at the picture! {sibling_name} is looking at this.
+Calculate 45 - 30 ÷ 5.
+
+47. Look at the picture! {user_name} is looking at this.
+Calculate 45 - 30 ÷ 5.
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+83. Look at the picture! {grandmother_name} is looking at this.
+Calculate 60 - 6 × (4 + 3).
+
+84. Look at the picture! {grandfather_name} is looking at this.
+Calculate 60 - 6 × (4 + 3).
+
+85. Look at the picture! {mother_name} is looking at this.
+Calculate 60 - 6 × (4 + 3).
+
+86. Look at the picture! {father_name} is looking at this.
+Calculate 60 - 6 × (4 + 3).
+
+87. Look at the picture! {sibling_name} is looking at this.
+Calculate 60 - 6 × (4 + 3).
+
+88. Look at the picture! {user_name} is looking at this.
+Calculate 60 - 6 × (4 + 3).
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+124. Look at the picture! {grandmother_name} is looking at this.
+Calculate 15 + 3 × 4².
+
+125. Look at the picture! {grandfather_name} is looking at this.
+Calculate 15 + 3 × 4².
+
+126. Look at the picture! {mother_name} is looking at this.
+Calculate 15 + 3 × 4².
+
+127. Look at the picture! {father_name} is looking at this.
+Calculate 15 + 3 × 4².
+
+128. Look at the picture! {sibling_name} is looking at this.
+Calculate 15 + 3 × 4².
+
+129. Look at the picture! {user_name} is looking at this.
+Calculate 15 + 3 × 4².
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+165. Look at the picture! {grandmother_name} is looking at this.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+166. Look at the picture! {grandfather_name} is looking at this.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+167. Look at the picture! {mother_name} is looking at this.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+168. Look at the picture! {father_name} is looking at this.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+169. Look at the picture! {sibling_name} is looking at this.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+170. Look at the picture! {user_name} is looking at this.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+206. Look at the picture! {grandmother_name} is looking at this.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+207. Look at the picture! {grandfather_name} is looking at this.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+208. Look at the picture! {mother_name} is looking at this.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+209. Look at the picture! {father_name} is looking at this.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+210. Look at the picture! {sibling_name} is looking at this.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+211. Look at the picture! {user_name} is looking at this.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+--- Bracket insertion puzzles ---
+
+247. Look at the picture! {grandmother_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+248. Look at the picture! {grandfather_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+249. Look at the picture! {mother_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+250. Look at the picture! {father_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+251. Look at the picture! {sibling_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+252. Look at the picture! {user_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+288. Look at the picture! {grandmother_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+289. Look at the picture! {grandfather_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+290. Look at the picture! {mother_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+291. Look at the picture! {father_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+292. Look at the picture! {sibling_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+293. Look at the picture! {user_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+329. Look at the picture! {grandmother_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+330. Look at the picture! {grandfather_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+331. Look at the picture! {mother_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+332. Look at the picture! {father_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+333. Look at the picture! {sibling_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+334. Look at the picture! {user_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+370. Look at the picture! {grandmother_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+371. Look at the picture! {grandfather_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+372. Look at the picture! {mother_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+373. Look at the picture! {father_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+374. Look at the picture! {sibling_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+375. Look at the picture! {user_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+376. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+377. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+378. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+379. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+380. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+381. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+382. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+383. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+384. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+385. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+386. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+387. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+388. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+389. Look at the picture! {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+390. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+391. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+392. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+393. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+394. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+395. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+396. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+397. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+398. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+399. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+400. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+401. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+402. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+403. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+404. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+405. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+406. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+407. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+408. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+409. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+410. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+411. Look at the picture! {grandmother_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+412. Look at the picture! {grandfather_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+413. Look at the picture! {mother_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+414. Look at the picture! {father_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+415. Look at the picture! {sibling_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+416. Look at the picture! {user_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+417. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+418. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+419. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+420. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+421. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+422. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+423. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+424. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+425. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+426. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+427. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+428. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+429. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+430. Look at the picture! {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+431. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+432. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+433. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+434. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+435. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+436. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+437. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+438. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+439. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+440. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+441. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+442. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+443. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+444. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+445. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+446. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+447. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+448. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+449. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+450. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+451. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+--- Shape algebra total grids ---
+
+452. Look at the picture! {grandmother_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+453. Look at the picture! {grandfather_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+454. Look at the picture! {mother_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+455. Look at the picture! {father_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+456. Look at the picture! {sibling_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+457. Look at the picture! {user_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+458. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+459. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+460. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+461. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+462. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+463. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+464. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+465. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+466. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+467. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+468. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+469. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+470. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+471. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+472. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+473. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+474. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+475. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+476. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+477. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+478. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+479. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+480. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+481. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+482. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+483. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+484. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+485. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+486. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+487. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+488. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+489. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+490. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+491. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+492. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+493. Look at the picture! {grandmother_name} is looking at this.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+494. Look at the picture! {grandfather_name} is looking at this.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+495. Look at the picture! {mother_name} is looking at this.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+496. Look at the picture! {father_name} is looking at this.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+497. Look at the picture! {sibling_name} is looking at this.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+498. Look at the picture! {user_name} is looking at this.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+499. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+500. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+501. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+502. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+503. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+504. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+505. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+506. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+507. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+508. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+509. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+510. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+511. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+512. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+513. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+514. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+515. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+516. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+517. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+518. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+519. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+520. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+521. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+522. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+523. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+524. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+525. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+526. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+527. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+528. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+529. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+530. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+531. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+532. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+533. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+534. Look at the picture! {grandmother_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+535. Look at the picture! {grandfather_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+536. Look at the picture! {mother_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+537. Look at the picture! {father_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+538. Look at the picture! {sibling_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+539. Look at the picture! {user_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+540. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+541. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+542. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+543. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+544. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+545. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+546. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+547. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+548. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+549. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+550. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+551. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+552. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+553. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+554. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+555. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+556. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+557. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+558. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+559. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+560. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+561. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+562. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+563. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+564. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+565. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+566. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+567. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+568. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+569. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+570. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+571. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+572. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+573. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+574. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+575. Look at the picture! {grandmother_name} is looking at this.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+576. Look at the picture! {grandfather_name} is looking at this.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+577. Look at the picture! {mother_name} is looking at this.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+578. Look at the picture! {father_name} is looking at this.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+579. Look at the picture! {sibling_name} is looking at this.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+580. Look at the picture! {user_name} is looking at this.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+581. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+582. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+583. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+584. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+585. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+586. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+587. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+588. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+589. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+590. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+591. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+592. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+593. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+594. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+595. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+596. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+597. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+598. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+599. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+600. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+601. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+602. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+603. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+604. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+605. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+606. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+607. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+608. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+609. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+610. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+611. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+612. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+613. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+614. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+615. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+616. Look at the picture! {grandmother_name} is looking at this.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+617. Look at the picture! {grandfather_name} is looking at this.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+618. Look at the picture! {mother_name} is looking at this.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+619. Look at the picture! {father_name} is looking at this.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+620. Look at the picture! {sibling_name} is looking at this.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+621. Look at the picture! {user_name} is looking at this.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+622. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+623. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+624. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+625. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+626. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+627. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+628. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+629. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+630. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+631. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+632. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+633. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+634. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+635. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+636. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+637. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+638. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+639. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+640. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+641. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+642. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+643. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+644. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+645. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+646. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+647. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+648. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+649. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+650. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+651. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+652. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+653. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+654. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+655. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+656. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.

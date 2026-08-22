@@ -1,0 +1,1112 @@
+###################################
+Enumerating combinations of two variables satisfying constraints
+###################################
+
+--- Enumerating combinations of two variables satisfying constraints ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+2. Look at the picture! {grandfather_name} is looking at this.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+3. Look at the picture! {mother_name} is looking at this.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+4. Look at the picture! {father_name} is looking at this.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+5. Look at the picture! {sibling_name} is looking at this.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+6. Look at the picture! {user_name} is looking at this.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+42. Look at the picture! {grandmother_name} is looking at this.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+43. Look at the picture! {grandfather_name} is looking at this.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+44. Look at the picture! {mother_name} is looking at this.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+45. Look at the picture! {father_name} is looking at this.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+46. Look at the picture! {sibling_name} is looking at this.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+47. Look at the picture! {user_name} is looking at this.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+83. Look at the picture! {grandmother_name} is looking at this.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+84. Look at the picture! {grandfather_name} is looking at this.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+85. Look at the picture! {mother_name} is looking at this.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+86. Look at the picture! {father_name} is looking at this.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+87. Look at the picture! {sibling_name} is looking at this.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+88. Look at the picture! {user_name} is looking at this.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+124. Look at the picture! {grandmother_name} is looking at this.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+125. Look at the picture! {grandfather_name} is looking at this.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+126. Look at the picture! {mother_name} is looking at this.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+127. Look at the picture! {father_name} is looking at this.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+128. Look at the picture! {sibling_name} is looking at this.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+129. Look at the picture! {user_name} is looking at this.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+165. Look at the picture! {grandmother_name} is looking at this.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+167. Look at the picture! {mother_name} is looking at this.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+168. Look at the picture! {father_name} is looking at this.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+169. Look at the picture! {sibling_name} is looking at this.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+170. Look at the picture! {user_name} is looking at this.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+206. Look at the picture! {grandmother_name} is looking at this.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+207. Look at the picture! {grandfather_name} is looking at this.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+208. Look at the picture! {mother_name} is looking at this.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+209. Look at the picture! {father_name} is looking at this.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+210. Look at the picture! {sibling_name} is looking at this.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+211. Look at the picture! {user_name} is looking at this.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+247. Look at the picture! {grandmother_name} is looking at this.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+248. Look at the picture! {grandfather_name} is looking at this.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+249. Look at the picture! {mother_name} is looking at this.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+250. Look at the picture! {father_name} is looking at this.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+251. Look at the picture! {sibling_name} is looking at this.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+252. Look at the picture! {user_name} is looking at this.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+253. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+254. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+255. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+256. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+257. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+258. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+259. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+260. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+261. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+262. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+263. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+264. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+265. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+266. Look at the picture! {father_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+267. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+268. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+269. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+270. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+271. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+272. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+273. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+274. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+275. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+276. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+277. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+278. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+279. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+280. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+281. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+282. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+283. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+284. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+285. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+286. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+287. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+288. Look at the picture! {grandmother_name} is looking at this.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+289. Look at the picture! {grandfather_name} is looking at this.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+290. Look at the picture! {mother_name} is looking at this.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+291. Look at the picture! {father_name} is looking at this.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+292. Look at the picture! {sibling_name} is looking at this.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+293. Look at the picture! {user_name} is looking at this.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+294. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+295. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+296. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+297. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+298. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+299. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+300. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+301. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+302. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+303. Look at the picture! {mother_name} and {father_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+304. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+305. Look at the picture! {mother_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+306. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+307. Look at the picture! {father_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+308. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+309. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+310. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+311. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+312. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+313. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+314. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+315. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+316. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+317. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+318. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+319. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+320. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+321. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+322. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+323. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+324. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+325. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+326. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+327. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+328. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+329. Look at the picture! {grandmother_name} is looking at this.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+330. Look at the picture! {grandfather_name} is looking at this.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+331. Look at the picture! {mother_name} is looking at this.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+332. Look at the picture! {father_name} is looking at this.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+333. Look at the picture! {sibling_name} is looking at this.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+334. Look at the picture! {user_name} is looking at this.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+335. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+336. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+337. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+338. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+339. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+340. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+341. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+342. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+343. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+344. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+345. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+346. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+347. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+348. Look at the picture! {father_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+349. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+350. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+351. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+352. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+353. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+354. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+355. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+356. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+357. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+358. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+359. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+360. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+361. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+362. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+363. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+364. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+365. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+366. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+367. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+368. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+369. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?

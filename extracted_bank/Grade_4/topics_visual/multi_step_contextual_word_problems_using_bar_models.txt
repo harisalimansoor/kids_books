@@ -1,0 +1,743 @@
+###################################
+Multi-step contextual word problems using bar models
+###################################
+
+--- Multi-step contextual word problems using bar models ---
+
+1. Look at the picture! {grandmother_name} is looking at this.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+2. Look at the picture! {grandfather_name} is looking at this.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+3. Look at the picture! {mother_name} is looking at this.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+4. Look at the picture! {father_name} is looking at this.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+5. Look at the picture! {sibling_name} is looking at this.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+6. Look at the picture! {user_name} is looking at this.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+7. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+8. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+9. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+10. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+11. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+12. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+13. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+14. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+15. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+16. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+17. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+18. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+19. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+20. Look at the picture! {father_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+21. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+22. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+23. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+24. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+25. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+26. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+27. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+28. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+29. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+30. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+31. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+32. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+33. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+34. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+35. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+36. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+37. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+38. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+39. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+40. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+41. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+42. Look at the picture! {grandmother_name} is looking at this.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+43. Look at the picture! {grandfather_name} is looking at this.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+44. Look at the picture! {mother_name} is looking at this.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+45. Look at the picture! {father_name} is looking at this.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+46. Look at the picture! {sibling_name} is looking at this.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+47. Look at the picture! {user_name} is looking at this.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+48. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+49. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+50. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+51. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+52. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+53. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+54. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+55. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+56. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+57. Look at the picture! {mother_name} and {father_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+58. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+59. Look at the picture! {mother_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+60. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+61. Look at the picture! {father_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+62. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+63. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+64. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+65. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+66. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+67. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+68. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+69. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+70. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+71. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+72. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+73. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+74. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+75. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+76. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+77. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+78. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+79. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+80. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+81. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+82. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+83. Look at the picture! {grandmother_name} is looking at this.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+84. Look at the picture! {grandfather_name} is looking at this.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+85. Look at the picture! {mother_name} is looking at this.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+86. Look at the picture! {father_name} is looking at this.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+87. Look at the picture! {sibling_name} is looking at this.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+88. Look at the picture! {user_name} is looking at this.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+89. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+90. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+91. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+92. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+93. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+94. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+95. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+96. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+97. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+98. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+99. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+100. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+101. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+102. Look at the picture! {father_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+103. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+104. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+105. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+106. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+107. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+108. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+109. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+110. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+111. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+112. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+113. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+114. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+115. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+116. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+117. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+118. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+119. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+120. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+121. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+122. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+123. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+124. Look at the picture! {grandmother_name} is looking at this.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+125. Look at the picture! {grandfather_name} is looking at this.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+126. Look at the picture! {mother_name} is looking at this.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+127. Look at the picture! {father_name} is looking at this.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+128. Look at the picture! {sibling_name} is looking at this.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+129. Look at the picture! {user_name} is looking at this.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+130. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+131. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+132. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+133. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+134. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+135. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+136. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+137. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+138. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+139. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+140. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+141. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+142. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+143. Look at the picture! {father_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+144. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+145. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+146. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+147. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+148. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+149. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+150. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+151. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+152. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+153. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+154. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+155. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+156. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+157. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+158. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+159. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+160. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+161. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+162. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+163. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+164. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+165. Look at the picture! {grandmother_name} is looking at this.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+166. Look at the picture! {grandfather_name} is looking at this.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+167. Look at the picture! {mother_name} is looking at this.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+168. Look at the picture! {father_name} is looking at this.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+169. Look at the picture! {sibling_name} is looking at this.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+170. Look at the picture! {user_name} is looking at this.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+171. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+172. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+173. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+174. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+175. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+176. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+177. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+178. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+179. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+180. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+181. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+182. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+183. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+184. Look at the picture! {father_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+185. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+186. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+187. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+188. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+189. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+190. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+191. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+192. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+193. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+194. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+195. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+196. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+197. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+198. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+199. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+200. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+201. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+202. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+203. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+204. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+205. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+206. Look at the picture! {grandmother_name} is looking at this.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+207. Look at the picture! {grandfather_name} is looking at this.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+208. Look at the picture! {mother_name} is looking at this.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+209. Look at the picture! {father_name} is looking at this.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+210. Look at the picture! {sibling_name} is looking at this.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+211. Look at the picture! {user_name} is looking at this.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+212. Look at the picture! {grandmother_name} and {grandfather_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+213. Look at the picture! {grandmother_name} and {mother_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+214. Look at the picture! {grandmother_name} and {father_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+215. Look at the picture! {grandmother_name} and {sibling_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+216. Look at the picture! {grandmother_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+217. Look at the picture! {grandfather_name} and {mother_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+218. Look at the picture! {grandfather_name} and {father_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+219. Look at the picture! {grandfather_name} and {sibling_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+220. Look at the picture! {grandfather_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+221. Look at the picture! {mother_name} and {father_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+222. Look at the picture! {mother_name} and {sibling_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+223. Look at the picture! {mother_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+224. Look at the picture! {father_name} and {sibling_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+225. Look at the picture! {father_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+226. Look at the picture! {sibling_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+227. Look at the picture! {grandmother_name}, {grandfather_name} and {mother_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+228. Look at the picture! {grandmother_name}, {grandfather_name} and {father_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+229. Look at the picture! {grandmother_name}, {grandfather_name} and {sibling_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+230. Look at the picture! {grandmother_name}, {grandfather_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+231. Look at the picture! {grandmother_name}, {mother_name} and {father_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+232. Look at the picture! {grandmother_name}, {mother_name} and {sibling_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+233. Look at the picture! {grandmother_name}, {mother_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+234. Look at the picture! {grandmother_name}, {father_name} and {sibling_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+235. Look at the picture! {grandmother_name}, {father_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+236. Look at the picture! {grandmother_name}, {sibling_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+237. Look at the picture! {grandfather_name}, {mother_name} and {father_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+238. Look at the picture! {grandfather_name}, {mother_name} and {sibling_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+239. Look at the picture! {grandfather_name}, {mother_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+240. Look at the picture! {grandfather_name}, {father_name} and {sibling_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+241. Look at the picture! {grandfather_name}, {father_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+242. Look at the picture! {grandfather_name}, {sibling_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+243. Look at the picture! {mother_name}, {father_name} and {sibling_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+244. Look at the picture! {mother_name}, {father_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+245. Look at the picture! {mother_name}, {sibling_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+246. Look at the picture! {father_name}, {sibling_name} and {user_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?

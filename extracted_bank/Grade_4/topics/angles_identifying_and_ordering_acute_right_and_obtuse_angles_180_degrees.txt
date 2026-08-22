@@ -1,0 +1,46 @@
+=== Topic: Angles: identifying and ordering acute, right, and obtuse angles (<180^ degrees) ===
+Domain: Geometry (Properties of Shapes, Position and Direction)
+
+--- Identifying acute, right, and obtuse angles ---
+
+Question 1: An angle measures 52°. Is this angle acute, right, or obtuse?
+Answer: acute
+Working: An angle less than 90° is an acute angle. 52° is less than 90°, so it is acute.
+
+Question 2: What name is given to an angle that measures exactly 90°?
+Answer: right angle
+Working: An angle of exactly 90° is a right angle.
+
+Question 3: An angle measures 135°. Is this angle acute, right, or obtuse?
+Answer: obtuse
+Working: An angle greater than 90° but less than 180° is an obtuse angle. 135° is between 90° and 180°, so it is obtuse.
+
+Question 4: An angle is smaller than a right angle. State whether this angle is acute or obtuse.
+Answer: acute
+Working: A right angle is 90°. Any angle smaller than 90° is acute.
+
+Question 5: A triangle has angles measuring 90°, 40°, and 50°. What type of angle are the 40° and 50° angles?
+Answer: acute
+Working: Both 40° and 50° are less than 90°, so they are acute angles.
+
+--- Comparing and ordering angles up to two right angles ---
+
+Question 6: Put these types of angles in order of size, starting with the smallest: right angle, acute angle, obtuse angle.
+Answer: acute angle, right angle, obtuse angle
+Working: An acute angle is less than 90°, a right angle is exactly 90°, and an obtuse angle is between 90° and 180°. So from smallest to largest: acute angle, right angle, obtuse angle.
+
+Question 7: Order these angles from smallest to largest: 130°, 25°, 90°, 75°.
+Answer: 25°, 75°, 90°, 130°
+Working: Comparing the angle sizes in degrees: 25° < 75° < 90° < 130°.
+
+Question 8: Four angles are measured: Angle A = 110°, Angle B = 35°, Angle C = 85°, Angle D = 160°. Write the letters of the angles in order from largest to smallest.
+Answer: D, A, C, B
+Working: Ordering by size from largest to smallest: 160° (D), 110° (A), 85° (C), 35° (B).
+
+Question 9: Two right angles together equal 180°. Is an angle of 145° greater than or less than two right angles?
+Answer: less than
+Working: Two right angles = 90° + 90° = 180°. 145° is less than 180°, so it is less than two right angles.
+
+Question 10: A quadrilateral has four angles: 90°, 125°, 65°, and 80°. What is the size of the largest angle?
+Answer: 125°
+Working: Comparing the four angles: 65° < 80° < 90° < 125°. The largest angle is 125°.

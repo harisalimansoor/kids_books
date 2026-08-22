@@ -1,0 +1,56 @@
+=== Topic: Integer scaling, rate problems, and n x m correspondence problems ===
+Domain: Multiplication and Division
+
+--- Integer scaling ---
+
+Question 1: A red ribbon is 14 cm long. A blue ribbon is 6 times as long as the red ribbon. What is the length of the blue ribbon in centimetres?
+Answer: 84 cm
+Working: Multiply the length of the red ribbon by 6: 14 cm × 6 = 84 cm.
+
+Question 2: A sunflower is 180 cm tall. It is 4 times as tall as a daffodil. What is the height of the daffodil in centimetres?
+Answer: 45 cm
+Working: Divide the height of the sunflower by 4: 180 cm ÷ 4 = 45 cm.
+
+Question 3: Tom has 28 marbles. Priya has 3 times as many marbles as Tom. How many marbles do Tom and Priya have altogether?
+Answer: 112 marbles
+Working: Priya has 28 × 3 = 84 marbles. Altogether: 28 + 84 = 112 marbles.
+
+Question 4: A small water tank holds 125 litres of water. A large water tank holds 8 times as much water as the small tank. How many litres of water does the large tank hold?
+Answer: 1000 litres
+Working: Multiply the volume of the small tank by 8: 125 × 8 = 1000 litres.
+
+--- Rate problems ---
+
+Question 5: Cinema tickets cost £7 each. How much do 9 cinema tickets cost in total?
+Answer: £63
+Working: Multiply the cost per ticket by the number of tickets: 9 × £7 = £63.
+
+Question 6: A baker uses 6 eggs to make one large cake. How many eggs does the baker need to make 14 of these cakes?
+Answer: 84 eggs
+Working: Multiply the number of eggs per cake by 14: 14 × 6 = 84 eggs.
+
+Question 7: 3 identical reading books cost £24 in total. What is the cost of 5 of these reading books?
+Answer: £40
+Working: Find the cost of 1 book: £24 ÷ 3 = £8. Find the cost of 5 books: 5 × £8 = £40.
+
+Question 8: A runner runs 6 km each day. How many kilometres does the runner run in 3 weeks?
+Answer: 126 km
+Working: 3 weeks = 3 × 7 = 21 days. Total distance = 21 × 6 km = 126 km.
+
+--- n x m correspondence problems ---
+
+Question 9: Sam has 4 different shirts and 3 different pairs of trousers. How many different outfit combinations of one shirt and one pair of trousers can Sam make?
+Answer: 12 combinations
+Working: Multiply the number of shirts by the number of pairs of trousers: 4 × 3 = 12 combinations.
+
+Question 10: At an ice cream shop, a customer chooses 1 flavour of ice cream and 1 topping. There are 6 different ice cream flavours and 8 different toppings available. How many different combinations of 1 flavour and 1 topping can be chosen?
+Answer: 48 combinations
+Working: Multiply the number of flavours by the number of toppings: 6 × 8 = 48 combinations.
+
+Question 11: A school offers 5 different sports clubs and 7 different art clubs. Each pupil chooses 1 sports club and 1 art club. How many different combinations of clubs can a pupil choose?
+Answer: 35 combinations
+Working: Multiply the number of sports clubs by the number of art clubs: 5 × 7 = 35 combinations.
+
+Question 12: A café offers a lunch meal deal of 1 sandwich and 1 drink. There are 4 different types of sandwiches. In total, there are 28 different possible meal deal combinations. How many different types of drinks does the café offer?
+Answer: 7 drinks
+Working: Divide the total number of combinations by the number of sandwich types: 28 ÷ 4 = 7 drinks.
