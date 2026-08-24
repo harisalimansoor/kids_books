@@ -30,68 +30,66 @@
     "hobbies": [
       "cooking"
     ],
-    "notes": "Making sandwiches with father addition stem."
+    "notes": "Making sandwiches at a food stall with father addition stem."
   },
   "face_regions": [
     {
       "role": "child",
-      "x": 233,
-      "y": 405,
-      "w": 118,
-      "h": 150,
+      "x": 217,
+      "y": 383,
+      "w": 127,
+      "h": 155,
       "landmarks": {
         "right_eye": [
-          272,
-          463
+          251,
+          443
         ],
         "left_eye": [
-          326,
-          464
+          309,
+          444
         ],
         "nose": [
-          300,
-          496
+          282,
+          477
         ],
         "mouth_right": [
-          271,
-          514
+          255,
+          501
         ],
         "mouth_left": [
-          318,
-          515
+          304,
+          501
         ]
-      },
-      "confidence": 0.951
+      }
     },
     {
       "role": "father",
-      "x": 524,
-      "y": 154,
-      "w": 139,
-      "h": 193,
+      "x": 553,
+      "y": 79,
+      "w": 146,
+      "h": 211,
       "landmarks": {
         "right_eye": [
-          562,
-          234
+          581,
+          174
         ],
         "left_eye": [
-          619,
-          227
+          656,
+          157
         ],
         "nose": [
-          593,
-          270
+          628,
+          211
         ],
         "mouth_right": [
-          572,
-          297
+          606,
+          240
         ],
         "mouth_left": [
-          629,
-          290
+          675,
+          225
         ]
-      },
-      "confidence": 0.945
+      }
     }
   ],
   "visual_groups": [
@@ -126,7 +124,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Counts locked: 2 child + 3 father."
+    "notes": "Vision-checked: (2, 3, True)"
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",

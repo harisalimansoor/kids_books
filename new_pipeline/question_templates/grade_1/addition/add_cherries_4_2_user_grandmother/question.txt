@@ -1,1 +1,1 @@
-Look at the picture! {user_name} has 4 cherries in front of {user_name}, and {grandmother_name} has 2 cherries in front of her. How many cherries are there altogether?
+Look at the picture! {user_name} and {grandmother_name} are picking cherries in the garden. {user_name} has 4 cherries in front of {user_name}, and {grandmother_name} has 2 cherries in front of her. How many cherries are there altogether?

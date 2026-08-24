@@ -28,71 +28,68 @@
       "cherries"
     ],
     "hobbies": [
-      "cooking",
       "gardening"
     ],
-    "notes": "Picking cherries with grandmother addition stem."
+    "notes": "Picking cherries from garden with grandmother addition stem."
   },
   "face_regions": [
     {
       "role": "child",
-      "x": 203,
-      "y": 331,
-      "w": 146,
-      "h": 183,
+      "x": 306,
+      "y": 244,
+      "w": 115,
+      "h": 142,
       "landmarks": {
         "right_eye": [
-          244,
-          403
+          333,
+          301
         ],
         "left_eye": [
-          313,
-          401
+          389,
+          301
         ],
         "nose": [
-          283,
-          440
+          360,
+          330
         ],
         "mouth_right": [
-          249,
-          465
+          335,
+          349
         ],
         "mouth_left": [
-          310,
-          464
+          388,
+          349
         ]
-      },
-      "confidence": 0.943
+      }
     },
     {
       "role": "grandmother",
-      "x": 626,
-      "y": 145,
-      "w": 173,
-      "h": 218,
+      "x": 589,
+      "y": 101,
+      "w": 136,
+      "h": 166,
       "landmarks": {
         "right_eye": [
-          655,
-          245
+          616,
+          173
         ],
         "left_eye": [
-          732,
-          230
+          677,
+          165
         ],
         "nose": [
-          694,
-          279
+          646,
+          204
         ],
         "mouth_right": [
-          680,
-          313
+          630,
+          225
         ],
         "mouth_left": [
-          747,
-          300
+          686,
+          218
         ]
-      },
-      "confidence": 0.931
+      }
     }
   ],
   "visual_groups": [
@@ -127,7 +124,7 @@
     "must_match_image_counts": true,
     "correct_must_be_in_options": true,
     "verified": true,
-    "notes": "Counts locked: 4 child + 2 grandmother."
+    "notes": "Forced separate cherries; left votes last run"
   },
   "source": {
     "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
