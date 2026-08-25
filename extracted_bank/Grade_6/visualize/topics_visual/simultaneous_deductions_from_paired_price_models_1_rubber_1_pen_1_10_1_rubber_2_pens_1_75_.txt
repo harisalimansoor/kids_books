@@ -1,0 +1,115 @@
+###################################
+Simultaneous deductions from paired price models (1 rubber + 1 pen = £1.10, 1 rubber + 2 pens = £1.75) and sum/difference systems (x + y = 7, x - y = 0.7)
+###################################
+
+--- Simultaneous deductions from paired price models ---
+
+1. Look at the picture! {user_name} is looking at this.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+1 rubber and 1 pencil cost 80p in total. 1 rubber and 3 pencils cost £1.40 in total. How much does 1 pencil cost?
+
+4. Look at the picture! {user_name} is looking at this.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+1 ruler and 1 pen cost £1.10. 1 ruler and 2 pens cost £1.75. What is the cost of 1 ruler?
+
+7. Look at the picture! {user_name} is looking at this.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+1 sandwich and 2 cartons of juice cost £4.20. 1 sandwich and 4 cartons of juice cost £6.00. How much does 1 sandwich cost?
+
+10. Look at the picture! {user_name} is looking at this.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+4 muffins and 2 hot chocolates cost £10.00. 4 muffins and 5 hot chocolates cost £14.50. How much does 1 hot chocolate cost?
+
+13. Look at the picture! {user_name} is looking at this.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+2 badges and 1 sticker cost £1.50. 2 badges and 4 stickers cost £2.40. How much does 1 badge cost?
+
+16. Look at the picture! {user_name} is looking at this.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+3 apples and 2 pears cost £1.80. 3 apples and 5 pears cost £2.70. What is the total cost of 1 apple and 1 pear?
+
+--- Sum and difference systems ---
+
+19. Look at the picture! {user_name} is looking at this.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+The sum of two numbers is 30 and their difference is 8. What is the value of the smaller number?
+
+22. Look at the picture! {user_name} is looking at this.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Two numbers, x and y, satisfy the equations x + y = 7 and x - y = 0.7. What is the value of x?
+
+25. Look at the picture! {user_name} is looking at this.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Two numbers, a and b, satisfy the equations a + b = 12.6 and a - b = 3.4. What is the value of b?
+
+28. Look at the picture! {user_name} is looking at this.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Mia and Leo collect 120 football cards altogether. Leo has 26 more cards than Mia. How many cards does Leo have?
+
+31. Look at the picture! {user_name} is looking at this.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Two whole numbers have a sum of 95 and a difference of 21. What is the larger number?
+
+34. Look at the picture! {user_name} is looking at this.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A piece of wire is 2 metres long. It is cut into two pieces. One piece is 40 centimetres longer than the other. What is the length of the shorter piece in centimetres?

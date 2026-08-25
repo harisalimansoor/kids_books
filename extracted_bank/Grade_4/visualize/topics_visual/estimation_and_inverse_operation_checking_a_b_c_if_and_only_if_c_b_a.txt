@@ -1,0 +1,97 @@
+###################################
+Estimation and inverse operation checking (A - B = C if and only if C + B = A)
+###################################
+
+--- Estimation ---
+
+1. Look at the picture! {user_name} is looking at this.
+Estimate the answer to $3812 + 4195$ by rounding each number to the nearest 1000.
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Estimate the answer to $3812 + 4195$ by rounding each number to the nearest 1000.
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Estimate the answer to $3812 + 4195$ by rounding each number to the nearest 1000.
+
+4. Look at the picture! {user_name} is looking at this.
+Estimate the answer to $6738 - 2481$ by rounding each number to the nearest 100.
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Estimate the answer to $6738 - 2481$ by rounding each number to the nearest 100.
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Estimate the answer to $6738 - 2481$ by rounding each number to the nearest 100.
+
+7. Look at the picture! {user_name} is looking at this.
+A library has 2184 fiction books and 1327 non-fiction books. Estimate the total number of books by rounding each value to the nearest 100.
+
+8. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A library has 2184 fiction books and 1327 non-fiction books. Estimate the total number of books by rounding each value to the nearest 100.
+
+9. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A library has 2184 fiction books and 1327 non-fiction books. Estimate the total number of books by rounding each value to the nearest 100.
+
+10. Look at the picture! {user_name} is looking at this.
+Estimate the value of $5376 - 1824$ by rounding each number to the nearest 10.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Estimate the value of $5376 - 1824$ by rounding each number to the nearest 10.
+
+12. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Estimate the value of $5376 - 1824$ by rounding each number to the nearest 10.
+
+13. Look at the picture! {user_name} is looking at this.
+A factory makes 4875 toy cars on Thursday and 3120 toy cars on Friday. Estimate how many more cars were made on Thursday than Friday by rounding each number to the nearest 1000.
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A factory makes 4875 toy cars on Thursday and 3120 toy cars on Friday. Estimate how many more cars were made on Thursday than Friday by rounding each number to the nearest 1000.
+
+15. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A factory makes 4875 toy cars on Thursday and 3120 toy cars on Friday. Estimate how many more cars were made on Thursday than Friday by rounding each number to the nearest 1000.
+
+--- Inverse operation checking ---
+
+16. Look at the picture! {user_name} is looking at this.
+A student works out that $6582 - 2341 = 4241$. Write an addition calculation using these three numbers to check the subtraction.
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A student works out that $6582 - 2341 = 4241$. Write an addition calculation using these three numbers to check the subtraction.
+
+18. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A student works out that $6582 - 2341 = 4241$. Write an addition calculation using these three numbers to check the subtraction.
+
+19. Look at the picture! {user_name} is looking at this.
+Write a subtraction calculation using the same numbers that can be used to check $3245 + 1680 = 4925$.
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write a subtraction calculation using the same numbers that can be used to check $3245 + 1680 = 4925$.
+
+21. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Write a subtraction calculation using the same numbers that can be used to check $3245 + 1680 = 4925$.
+
+22. Look at the picture! {user_name} is looking at this.
+Oliver calculated that $5000 - 1835 = 3165$. Use the inverse operation of addition to check his working. What is the value of $3165 + 1835$?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+Oliver calculated that $5000 - 1835 = 3165$. Use the inverse operation of addition to check his working. What is the value of $3165 + 1835$?
+
+24. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Oliver calculated that $5000 - 1835 = 3165$. Use the inverse operation of addition to check his working. What is the value of $3165 + 1835$?
+
+25. Look at the picture! {user_name} is looking at this.
+A shop had 4320 bottles of water. After selling some bottles, 1585 bottles remain. The shopkeeper calculates that $4320 - 1585 = 2735$ bottles were sold. Check this result by working out $2735 + 1585$.
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+A shop had 4320 bottles of water. After selling some bottles, 1585 bottles remain. The shopkeeper calculates that $4320 - 1585 = 2735$ bottles were sold. Check this result by working out $2735 + 1585$.
+
+27. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A shop had 4320 bottles of water. After selling some bottles, 1585 bottles remain. The shopkeeper calculates that $4320 - 1585 = 2735$ bottles were sold. Check this result by working out $2735 + 1585$.
+
+28. Look at the picture! {user_name} is looking at this.
+Use the inverse calculation to find the missing number: $\square - 2468 = 3519$.
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+Use the inverse calculation to find the missing number: $\square - 2468 = 3519$.
+
+30. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Use the inverse calculation to find the missing number: $\square - 2468 = 3519$.

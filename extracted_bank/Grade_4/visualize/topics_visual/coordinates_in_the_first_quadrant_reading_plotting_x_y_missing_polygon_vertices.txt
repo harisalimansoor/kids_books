@@ -1,0 +1,135 @@
+###################################
+Coordinates in the first quadrant: reading, plotting (x, y), missing polygon vertices
+###################################
+
+--- Reading coordinates in the first quadrant ---
+
+1. Look at the picture! {user_name} is looking at this.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+3. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+On a coordinate grid, point A is reached by starting at the origin $(0, 0)$, moving 6 units along the horizontal $x$-axis and 4 units up the vertical $y$-axis. Write the coordinates of point A.
+
+4. Look at the picture! {user_name} is looking at this.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+6. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A point P lies on the vertical $y$-axis, exactly 7 units up from the origin $(0, 0)$. Write the coordinates of point P.
+
+7. Look at the picture! {user_name} is looking at this.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+9. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A point M lies on the horizontal $x$-axis, 8 units to the right of the origin $(0, 0)$. Write the coordinates of point M.
+
+10. Look at the picture! {user_name} is looking at this.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+12. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Point K is plotted 9 units along the $x$-axis and 3 units up the $y$-axis from $(0, 0)$. Ben mistakenly writes the coordinates as $(3, 9)$. What are the correct coordinates of point K?
+
+--- Plotting coordinates (x, y) ---
+
+13. Look at the picture! {user_name} is looking at this.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+To plot the point $(5, 8)$ on a grid starting at $(0, 0)$, how many units do you move along the horizontal $x$-axis, and how many units do you move up the vertical $y$-axis?
+
+16. Look at the picture! {user_name} is looking at this.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A vertical line segment is drawn from $(2, 1)$ to $(2, 7)$ on a coordinate grid. What is the length of this line segment in grid units?
+
+19. Look at the picture! {user_name} is looking at this.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+20. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+21. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A horizontal line segment joins $(3, 5)$ to $(10, 5)$ on a grid. What is the length of this line segment in grid units?
+
+22. Look at the picture! {user_name} is looking at this.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+24. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Point R is at $(1, 2)$. Point S is plotted by moving 5 units to the right and 3 units up from point R. What are the coordinates of point S?
+
+25. Look at the picture! {user_name} is looking at this.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+27. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Point C is plotted at $(7, 8)$. Point D is plotted by moving 4 units left and 6 units down from point C. What are the coordinates of point D?
+
+--- Missing polygon vertices ---
+
+28. Look at the picture! {user_name} is looking at this.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Three vertices of a rectangle are plotted at $(2, 3)$, $(2, 8)$, and $(7, 8)$. What are the coordinates of the fourth vertex?
+
+31. Look at the picture! {user_name} is looking at this.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+33. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Three vertices of a square are plotted at $(1, 1)$, $(1, 5)$, and $(5, 5)$. What are the coordinates of the fourth vertex?
+
+34. Look at the picture! {user_name} is looking at this.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+36. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Three vertices of a rectangle are $(3, 2)$, $(9, 2)$, and $(3, 6)$. What are the coordinates of the fourth vertex to complete the rectangle?
+
+37. Look at the picture! {user_name} is looking at this.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+39. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Three vertices of a parallelogram are plotted at $(2, 1)$, $(6, 1)$, and $(7, 4)$. What are the coordinates of the fourth vertex?
+
+40. Look at the picture! {user_name} is looking at this.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?
+
+42. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A right-angled triangle has vertices at $(4, 2)$ and $(4, 7)$. The right angle is at $(4, 2)$. The third vertex is 5 units to the right along the horizontal line from the right angle. What are the coordinates of the third vertex?

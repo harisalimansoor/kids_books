@@ -1,0 +1,115 @@
+###################################
+Translations of shapes and finding inverse movements
+###################################
+
+--- Translations of shapes ---
+
+1. Look at the picture! {user_name} is looking at this.
+Point A has coordinates (3, 5). It is translated 4 units to the right and 2 units up. What are the coordinates of point A after the translation?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+Point A has coordinates (3, 5). It is translated 4 units to the right and 2 units up. What are the coordinates of point A after the translation?
+
+3. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Point A has coordinates (3, 5). It is translated 4 units to the right and 2 units up. What are the coordinates of point A after the translation?
+
+4. Look at the picture! {user_name} is looking at this.
+A rectangle has vertices at (2, 1), (2, 4), (7, 4) and (7, 1). The rectangle is translated 3 units to the right and 5 units up. What are the new coordinates of the vertex that started at (7, 4)?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectangle has vertices at (2, 1), (2, 4), (7, 4) and (7, 1). The rectangle is translated 3 units to the right and 5 units up. What are the new coordinates of the vertex that started at (7, 4)?
+
+6. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A rectangle has vertices at (2, 1), (2, 4), (7, 4) and (7, 1). The rectangle is translated 3 units to the right and 5 units up. What are the new coordinates of the vertex that started at (7, 4)?
+
+7. Look at the picture! {user_name} is looking at this.
+A triangle is translated on a coordinate grid. One of its vertices moves from (4, 8) to (9, 3). Describe the translation.
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A triangle is translated on a coordinate grid. One of its vertices moves from (4, 8) to (9, 3). Describe the translation.
+
+9. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A triangle is translated on a coordinate grid. One of its vertices moves from (4, 8) to (9, 3). Describe the translation.
+
+10. Look at the picture! {user_name} is looking at this.
+A point at (8, 12) is translated to (2, 15). How many units to the left has the point moved?
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A point at (8, 12) is translated to (2, 15). How many units to the left has the point moved?
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A point at (8, 12) is translated to (2, 15). How many units to the left has the point moved?
+
+13. Look at the picture! {user_name} is looking at this.
+A right-angled triangle has vertices at P(3, 2), Q(3, 7) and R(6, 2). After a translation, vertex P moves to (8, 6). What are the new coordinates of vertex Q?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A right-angled triangle has vertices at P(3, 2), Q(3, 7) and R(6, 2). After a translation, vertex P moves to (8, 6). What are the new coordinates of vertex Q?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A right-angled triangle has vertices at P(3, 2), Q(3, 7) and R(6, 2). After a translation, vertex P moves to (8, 6). What are the new coordinates of vertex Q?
+
+16. Look at the picture! {user_name} is looking at this.
+A square has vertices at (1, 3), (1, 7), (5, 7) and (5, 3). The square is translated 6 units to the right and 2 units down. What are the new coordinates of the vertex that was at (5, 7)?
+
+17. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A square has vertices at (1, 3), (1, 7), (5, 7) and (5, 3). The square is translated 6 units to the right and 2 units down. What are the new coordinates of the vertex that was at (5, 7)?
+
+18. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A square has vertices at (1, 3), (1, 7), (5, 7) and (5, 3). The square is translated 6 units to the right and 2 units down. What are the new coordinates of the vertex that was at (5, 7)?
+
+--- Finding inverse movements ---
+
+19. Look at the picture! {user_name} is looking at this.
+A shape is translated 6 units to the left and 4 units down. What translation will move the shape directly back to its original position?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A shape is translated 6 units to the left and 4 units down. What translation will move the shape directly back to its original position?
+
+21. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A shape is translated 6 units to the left and 4 units down. What translation will move the shape directly back to its original position?
+
+22. Look at the picture! {user_name} is looking at this.
+After being translated 5 units to the right and 3 units up, a point is at (9, 8). What were the original coordinates of the point?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+After being translated 5 units to the right and 3 units up, a point is at (9, 8). What were the original coordinates of the point?
+
+24. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+After being translated 5 units to the right and 3 units up, a point is at (9, 8). What were the original coordinates of the point?
+
+25. Look at the picture! {user_name} is looking at this.
+A counter moves 7 units down and 2 units right on a grid. State the inverse movement needed to return the counter to its starting square.
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A counter moves 7 units down and 2 units right on a grid. State the inverse movement needed to return the counter to its starting square.
+
+27. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A counter moves 7 units down and 2 units right on a grid. State the inverse movement needed to return the counter to its starting square.
+
+28. Look at the picture! {user_name} is looking at this.
+A parallelogram is translated 4 units to the left and 6 units up. The new position of one vertex is (3, 11). What were the coordinates of this vertex before the translation?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A parallelogram is translated 4 units to the left and 6 units up. The new position of one vertex is (3, 11). What were the coordinates of this vertex before the translation?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A parallelogram is translated 4 units to the left and 6 units up. The new position of one vertex is (3, 11). What were the coordinates of this vertex before the translation?
+
+31. Look at the picture! {user_name} is looking at this.
+A shape is translated 3 units right and 1 unit down, and then translated another 4 units right and 1 unit down. What single translation will return the shape to its starting position?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+A shape is translated 3 units right and 1 unit down, and then translated another 4 units right and 1 unit down. What single translation will return the shape to its starting position?
+
+33. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A shape is translated 3 units right and 1 unit down, and then translated another 4 units right and 1 unit down. What single translation will return the shape to its starting position?
+
+34. Look at the picture! {user_name} is looking at this.
+A square with vertex A at (5, 9) is translated to a new position. To move the square back to its starting position, an inverse translation of 8 units left and 3 units down is required. What were the coordinates of vertex A after the first translation?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+A square with vertex A at (5, 9) is translated to a new position. To move the square back to its starting position, an inverse translation of 8 units left and 3 units down is required. What were the coordinates of vertex A after the first translation?
+
+36. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A square with vertex A at (5, 9) is translated to a new position. To move the square back to its starting position, an inverse translation of 8 units left and 3 units down is required. What were the coordinates of vertex A after the first translation?

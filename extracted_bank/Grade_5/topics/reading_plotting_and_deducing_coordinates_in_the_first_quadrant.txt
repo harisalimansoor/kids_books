@@ -1,0 +1,56 @@
+=== Topic: Reading, plotting, and deducing coordinates in the first quadrant ===
+Domain: Geometry: Position and Direction
+
+--- Reading coordinates in the first quadrant ---
+
+Question 1: A point is plotted 7 units along the horizontal x-axis and 4 units up the vertical y-axis from the origin (0, 0). Write the coordinates of this point.
+Answer: (7, 4)
+Working: The horizontal distance gives the x-coordinate of 7. The vertical distance gives the y-coordinate of 4. Written as an ordered pair, this is (7, 4).
+
+Question 2: Point A is plotted at (6, 9) on a coordinate grid. What is the y-coordinate of point A?
+Answer: 9
+Working: In the coordinate pair (x, y), the second number is the y-coordinate, which is 9.
+
+Question 3: Point P is plotted at (5, 12). How many units above the horizontal axis (x-axis) is point P?
+Answer: 12
+Working: The y-coordinate represents the vertical distance above the horizontal x-axis. For the point (5, 12), this distance is 12 units.
+
+Question 4: On a map grid, a school is at (14, 8) and a library is at (14, 3). What is the distance in grid units between the school and the library?
+Answer: 5
+Working: Both locations share the same x-coordinate of 14. Find the difference between their y-coordinates: 8 - 3 = 5 units.
+
+--- Plotting coordinates in the first quadrant ---
+
+Question 5: To plot the point (8, 3) starting from the origin (0, 0), how many units must you move to the right along the x-axis before moving up?
+Answer: 8
+Working: The first number in a coordinate pair is the x-coordinate, which shows movement to the right along the horizontal axis: 8 units.
+
+Question 6: Point J is plotted at (4, 2). To plot point K, start at point J, move 5 units to the right and 6 units up. What are the coordinates of point K?
+Answer: (9, 8)
+Working: Add 5 to the x-coordinate: 4 + 5 = 9. Add 6 to the y-coordinate: 2 + 6 = 8. Point K is at (9, 8).
+
+Question 7: To plot vertex C of a triangle, start at (3, 9), move 4 units to the right and 5 units down. What are the coordinates of vertex C?
+Answer: (7, 4)
+Working: Moving 4 units right increases the x-coordinate: 3 + 4 = 7. Moving 5 units down decreases the y-coordinate: 9 - 5 = 4. The coordinates are (7, 4).
+
+--- Deducing coordinates in the first quadrant ---
+
+Question 8: Three vertices of a rectangle are (2, 3), (8, 3), and (8, 7). What are the coordinates of the fourth vertex?
+Answer: (2, 7)
+Working: The opposite sides of a rectangle are parallel and equal in length. The fourth vertex must have the same x-coordinate as (2, 3) and the same y-coordinate as (8, 7), which gives (2, 7).
+
+Question 9: A square has vertices at (1, 2), (1, 7), and (6, 7). What are the coordinates of the fourth vertex?
+Answer: (6, 2)
+Working: The side length is 7 - 2 = 5 units. The missing vertex must share the x-coordinate of 6 with (6, 7) and the y-coordinate of 2 with (1, 2), giving (6, 2).
+
+Question 10: A horizontal line segment has endpoints at A(3, 8) and B(11, 8). What are the coordinates of the midpoint of line segment AB?
+Answer: (7, 8)
+Working: The y-coordinate remains 8. The midpoint x-coordinate is halfway between 3 and 11: (3 + 11) ÷ 2 = 14 ÷ 2 = 7. The midpoint is (7, 8).
+
+Question 11: Three vertices of a parallelogram are at (2, 1), (7, 1), and (9, 5). The fourth vertex has a y-coordinate of 5. What are the coordinates of the fourth vertex?
+Answer: (4, 5)
+Working: The bottom horizontal edge has length 7 - 2 = 5 units. The top horizontal edge must also have length 5 units. Subtract 5 from the top right vertex x-coordinate: 9 - 5 = 4. The fourth vertex is (4, 5).
+
+Question 12: A rectangle with sides parallel to the axes has diagonally opposite vertices at (3, 2) and (10, 8). One of the other vertices is (3, 8). What are the coordinates of the remaining vertex?
+Answer: (10, 2)
+Working: The sides are parallel to the axes. The remaining vertex must take the x-coordinate from (10, 8) and the y-coordinate from (3, 2), giving (10, 2).

@@ -1,0 +1,168 @@
+=== Topic: Columnar subtraction of numbers with more than 4 digits and decimals with exchanges ===
+Domain: Addition and Subtraction
+
+--- Columnar subtraction of numbers with more than 4 digits ---
+
+Question 1: Calculate 68 452 − 25 181
+Answer: 43 271
+Working: Align the numbers into place-value columns:
+  68 452
+− 25 181
+
+Ones: 2 − 1 = 1
+Tens: 5 − 8 requires an exchange. Exchange 1 hundred for 10 tens: 15 − 8 = 7
+Hundreds: 3 − 1 = 2
+Thousands: 8 − 5 = 3
+Ten thousands: 6 − 2 = 4
+
+Result: 43 271
+
+Question 2: Work out 53 218 − 27 465
+Answer: 25 753
+Working: Align in columns:
+  53 218
+− 27 465
+
+Ones: 8 − 5 = 3
+Tens: 1 − 6 requires an exchange. Exchange 1 hundred: 11 − 6 = 5
+Hundreds: 1 − 4 requires an exchange. Exchange 1 thousand: 11 − 4 = 7
+Thousands: 2 − 7 requires an exchange. Exchange 1 ten thousand: 12 − 7 = 5
+Ten thousands: 4 − 2 = 2
+
+Result: 25 753
+
+Question 3: A stadium has a capacity of 72 450 seats. For a football match, 58 674 tickets are sold. How many seats remain unsold?
+Answer: 13 776
+Working: Subtract tickets sold from total capacity: 72 450 − 58 674.
+
+Ones: 0 − 4 (exchange 1 ten) → 10 − 4 = 6
+Tens: 4 − 7 (exchange 1 hundred) → 14 − 7 = 7
+Hundreds: 3 − 6 (exchange 1 thousand) → 13 − 6 = 7
+Thousands: 1 − 8 (exchange 1 ten thousand) → 11 − 8 = 3
+Ten thousands: 6 − 5 = 1
+
+Total unsold seats = 13 776
+
+Question 4: Work out 50 004 − 28 376
+Answer: 21 628
+Working: Subtract using column subtraction with cascading exchanges across zeros:
+  50 004
+− 28 376
+
+Exchange 1 ten thousand from 5 into thousands, hundreds, and tens:
+50 004 becomes 4 ten thousands, 9 thousands, 9 hundreds, 9 tens, and 14 ones.
+
+Ones: 14 − 6 = 8
+Tens: 9 − 7 = 2
+Hundreds: 9 − 3 = 6
+Thousands: 9 − 8 = 1
+Ten thousands: 4 − 2 = 2
+
+Result: 21 628
+
+Question 5: Calculate 403 215 − 167 482
+Answer: 235 733
+Working: Align in columns:
+  403 215
+− 167 482
+
+Ones: 5 − 2 = 3
+Tens: 1 − 8 (exchange 1 hundred) → 11 − 8 = 3
+Hundreds: 1 − 4 (exchange 1 thousand) → 11 − 4 = 7
+Thousands: 2 − 7 (exchange across ten thousands from hundred thousands: 40 ten thousands becomes 39 ten thousands) → 12 − 7 = 5
+Ten thousands: 9 − 6 = 3
+Hundred thousands: 3 − 1 = 2
+
+Result: 235 733
+
+Question 6: In a charity campaign, City A raised £342 050 and City B raised £186 475. How much more money did City A raise than City B?
+Answer: £155 575
+Working: Calculate £342 050 − £186 475 using column subtraction:
+
+Ones: 0 − 5 (exchange 1 ten) → 10 − 5 = 5
+Tens: 4 − 7 (exchange 1 thousand across hundred: 2 thousands becomes 1 thousand, 10 hundreds, then 9 hundreds and 14 tens) → 14 − 7 = 7
+Hundreds: 9 − 4 = 5
+Thousands: 1 − 6 (exchange 1 ten thousand) → 11 − 6 = 5
+Ten thousands: 3 − 8 (exchange 1 hundred thousand) → 13 − 8 = 5
+Hundred thousands: 2 − 1 = 1
+
+Difference = £155 575
+
+--- Columnar subtraction of decimals with exchanges ---
+
+Question 7: Work out 8.42 − 3.65
+Answer: 4.77
+Working: Align decimal points:
+  8.42
+− 3.65
+
+Hundredths: 2 − 5 (exchange 1 tenth) → 12 − 5 = 7
+Tenths: 3 − 6 (exchange 1 one) → 13 − 6 = 7
+Ones: 7 − 3 = 4
+
+Result: 4.77
+
+Question 8: Calculate 24.3 − 8.76
+Answer: 15.54
+Working: Write 24.3 with a placeholder zero as 24.30:
+  24.30
+−  8.76
+
+Hundredths: 0 − 6 (exchange 1 tenth) → 10 − 6 = 4
+Tenths: 2 − 7 (exchange 1 one) → 12 − 7 = 5
+Ones: 3 − 8 (exchange 1 ten) → 13 − 8 = 5
+Tens: 1 − 0 = 1
+
+Result: 15.54
+
+Question 9: A plank of wood is 5.2 metres long. A builder cuts off a piece measuring 1.85 metres. What is the length of the remaining piece of wood in metres?
+Answer: 3.35 m
+Working: Subtract 1.85 from 5.20:
+  5.20
+− 1.85
+
+Hundredths: 0 − 5 (exchange 1 tenth) → 10 − 5 = 5
+Tenths: 1 − 8 (exchange 1 one) → 11 − 8 = 3
+Ones: 4 − 1 = 3
+
+Remaining length = 3.35 m
+
+Question 10: Work out 16 − 4.728
+Answer: 11.272
+Working: Write 16 with decimal placeholder zeros as 16.000:
+  16.000
+−  4.728
+
+Exchange from the ones column across tenths and hundredths:
+16.000 becomes 1 ten, 5 ones, 9 tenths, 9 hundredths, and 10 thousandths.
+
+Thousandths: 10 − 8 = 2
+Hundredths: 9 − 2 = 7
+Tenths: 9 − 7 = 2
+Ones: 5 − 4 = 1
+Tens: 1 − 0 = 1
+
+Result: 11.272
+
+Question 11: Calculate 32.14 − 17.865
+Answer: 14.275
+Working: Align with a placeholder zero: 32.140 − 17.865
+
+Thousandths: 0 − 5 (exchange 1 hundredth) → 10 − 5 = 5
+Hundredths: 3 − 6 (exchange 1 tenth) → 13 − 6 = 7
+Tenths: 0 − 8 (exchange 1 one) → 10 − 8 = 2
+Ones: 1 − 7 (exchange 1 ten) → 11 − 7 = 4
+Tens: 2 − 1 = 1
+
+Result: 14.275
+
+Question 12: A container holds 8.05 litres of water. After some water is used, 2.386 litres remain. How many litres of water were used?
+Answer: 5.664 litres
+Working: Subtract remaining water from total: 8.050 − 2.386
+
+Thousandths: 0 − 6 (exchange 1 hundredth) → 10 − 6 = 4
+Hundredths: 4 − 8 (exchange across tenths from ones: 8.0 becomes 7 ones and 9 tenths, giving 14 hundredths) → 14 − 8 = 6
+Tenths: 9 − 3 = 6
+Ones: 7 − 2 = 5
+
+Water used = 5.664 litres

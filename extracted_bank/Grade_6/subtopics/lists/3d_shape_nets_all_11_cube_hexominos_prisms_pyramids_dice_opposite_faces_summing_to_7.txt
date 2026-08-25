@@ -1,0 +1,16 @@
+###################################
+3D shape nets (all 11 cube hexominos, prisms, pyramids); dice opposite faces summing to 7
+###################################
+Domain: Geometry: Properties of Shapes
+
+1. All 11 cube hexominos
+   From: all 11 cube hexominos
+
+2. Prism nets
+   From: prisms
+
+3. Pyramid nets
+   From: pyramids
+
+4. Dice opposite faces summing to 7
+   From: dice opposite faces summing to 7

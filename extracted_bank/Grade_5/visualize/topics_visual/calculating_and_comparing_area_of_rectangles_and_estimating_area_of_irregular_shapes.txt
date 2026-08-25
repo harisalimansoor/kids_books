@@ -1,0 +1,133 @@
+###################################
+Calculating and comparing area of rectangles and estimating area of irregular shapes
+###################################
+
+--- Calculating and comparing area of rectangles ---
+
+1. Look at the picture! {user_name} is looking at this.
+A rectangular bookmark is 8 cm long and 5 cm wide. What is the area of the bookmark in square centimetres?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectangular bookmark is 8 cm long and 5 cm wide. What is the area of the bookmark in square centimetres?
+
+3. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectangular bookmark is 8 cm long and 5 cm wide. What is the area of the bookmark in square centimetres?
+
+4. Look at the picture! {user_name} is looking at this.
+A square floor tile has sides of length 9 cm. What is the area of the tile?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A square floor tile has sides of length 9 cm. What is the area of the tile?
+
+6. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A square floor tile has sides of length 9 cm. What is the area of the tile?
+
+7. Look at the picture! {user_name} is looking at this.
+A rectangular flowerbed is 12 m long and 4 m wide. A second rectangular flowerbed is 8 m long and 7 m wide. How many square metres larger is the area of the second flowerbed than the first?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectangular flowerbed is 12 m long and 4 m wide. A second rectangular flowerbed is 8 m long and 7 m wide. How many square metres larger is the area of the second flowerbed than the first?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A rectangular flowerbed is 12 m long and 4 m wide. A second rectangular flowerbed is 8 m long and 7 m wide. How many square metres larger is the area of the second flowerbed than the first?
+
+10. Look at the picture! {user_name} is looking at this.
+A rectangular noticeboard has an area of 72 cm² and a width of 8 cm. What is the length of the noticeboard in centimetres?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectangular noticeboard has an area of 72 cm² and a width of 8 cm. What is the length of the noticeboard in centimetres?
+
+12. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A rectangular noticeboard has an area of 72 cm² and a width of 8 cm. What is the length of the noticeboard in centimetres?
+
+13. Look at the picture! {user_name} is looking at this.
+A rectangular swimming pool is 15 m long and 6 m wide. A square paddling pool has sides of length 10 m. Which pool has the greater area, and by how many square metres?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectangular swimming pool is 15 m long and 6 m wide. A square paddling pool has sides of length 10 m. Which pool has the greater area, and by how many square metres?
+
+15. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A rectangular swimming pool is 15 m long and 6 m wide. A square paddling pool has sides of length 10 m. Which pool has the greater area, and by how many square metres?
+
+16. Look at the picture! {user_name} is looking at this.
+A rectangular tabletop is 2 m long and 60 cm wide. What is the area of the tabletop in square centimetres?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectangular tabletop is 2 m long and 60 cm wide. What is the area of the tabletop in square centimetres?
+
+18. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A rectangular tabletop is 2 m long and 60 cm wide. What is the area of the tabletop in square centimetres?
+
+19. Look at the picture! {user_name} is looking at this.
+Farmer Giles has two rectangular fields. Field A is 24 m long and 10 m wide. Field B is 16 m long and 15 m wide. What is the total area of the two fields combined in square metres?
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Farmer Giles has two rectangular fields. Field A is 24 m long and 10 m wide. Field B is 16 m long and 15 m wide. What is the total area of the two fields combined in square metres?
+
+21. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Farmer Giles has two rectangular fields. Field A is 24 m long and 10 m wide. Field B is 16 m long and 15 m wide. What is the total area of the two fields combined in square metres?
+
+22. Look at the picture! {user_name} is looking at this.
+Two rectangles, A and B, each have an area of 36 cm². Rectangle A has a length of 9 cm and Rectangle B has a length of 12 cm. What is the difference between the perimeter of Rectangle A and the perimeter of Rectangle B?
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Two rectangles, A and B, each have an area of 36 cm². Rectangle A has a length of 9 cm and Rectangle B has a length of 12 cm. What is the difference between the perimeter of Rectangle A and the perimeter of Rectangle B?
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Two rectangles, A and B, each have an area of 36 cm². Rectangle A has a length of 9 cm and Rectangle B has a length of 12 cm. What is the difference between the perimeter of Rectangle A and the perimeter of Rectangle B?
+
+--- Estimating area of irregular shapes ---
+
+25. Look at the picture! {user_name} is looking at this.
+An irregular shape drawn on a grid of 1 cm² squares covers 11 whole squares and 6 half squares. What is the estimated total area of the shape in square centimetres?
+
+26. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+An irregular shape drawn on a grid of 1 cm² squares covers 11 whole squares and 6 half squares. What is the estimated total area of the shape in square centimetres?
+
+27. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+An irregular shape drawn on a grid of 1 cm² squares covers 11 whole squares and 6 half squares. What is the estimated total area of the shape in square centimetres?
+
+28. Look at the picture! {user_name} is looking at this.
+Maya places an autumn leaf onto a grid of 1 cm² squares and draws around it. Inside the outline, she counts 18 whole squares and 12 partial squares that each cover roughly half a square. What is the estimated area of the leaf?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Maya places an autumn leaf onto a grid of 1 cm² squares and draws around it. Inside the outline, she counts 18 whole squares and 12 partial squares that each cover roughly half a square. What is the estimated area of the leaf?
+
+30. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Maya places an autumn leaf onto a grid of 1 cm² squares and draws around it. Inside the outline, she counts 18 whole squares and 12 partial squares that each cover roughly half a square. What is the estimated area of the leaf?
+
+31. Look at the picture! {user_name} is looking at this.
+An irregular garden pond drawn on a grid of 1 m² squares covers 27 full grid squares and 14 parts of squares. Counting each pair of part squares as 1 whole square metre, what is the estimated area of the pond?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+An irregular garden pond drawn on a grid of 1 m² squares covers 27 full grid squares and 14 parts of squares. Counting each pair of part squares as 1 whole square metre, what is the estimated area of the pond?
+
+33. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+An irregular garden pond drawn on a grid of 1 m² squares covers 27 full grid squares and 14 parts of squares. Counting each pair of part squares as 1 whole square metre, what is the estimated area of the pond?
+
+34. Look at the picture! {user_name} is looking at this.
+A map of an island is drawn on a 1 cm² grid. The island covers 35 whole squares. It also covers 16 squares that are more than half covered (counted as 1 cm² each) and 14 squares that are less than half covered (counted as 0 cm²). What is the estimated area of the island?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A map of an island is drawn on a 1 cm² grid. The island covers 35 whole squares. It also covers 16 squares that are more than half covered (counted as 1 cm² each) and 14 squares that are less than half covered (counted as 0 cm²). What is the estimated area of the island?
+
+36. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A map of an island is drawn on a 1 cm² grid. The island covers 35 whole squares. It also covers 16 squares that are more than half covered (counted as 1 cm² each) and 14 squares that are less than half covered (counted as 0 cm²). What is the estimated area of the island?
+
+37. Look at the picture! {user_name} is looking at this.
+Leo estimates the area of an irregular paint spill on a 1 cm² grid. He finds 15 whole squares completely covered and 18 squares that are partly covered. If he counts each partly covered square as 0.5 cm², what is his estimated total area?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Leo estimates the area of an irregular paint spill on a 1 cm² grid. He finds 15 whole squares completely covered and 18 squares that are partly covered. If he counts each partly covered square as 0.5 cm², what is his estimated total area?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Leo estimates the area of an irregular paint spill on a 1 cm² grid. He finds 15 whole squares completely covered and 18 squares that are partly covered. If he counts each partly covered square as 0.5 cm², what is his estimated total area?
+
+40. Look at the picture! {user_name} is looking at this.
+An irregular mosaic is planned on a 1 m² grid. The inner section covers 42 complete 1 m² squares. The outer border passes through 26 grid squares. The designer estimates the total area by adding the complete squares to half of the border squares. What is the estimated total area of the mosaic in square metres?
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+An irregular mosaic is planned on a 1 m² grid. The inner section covers 42 complete 1 m² squares. The outer border passes through 26 grid squares. The designer estimates the total area by adding the complete squares to half of the border squares. What is the estimated total area of the mosaic in square metres?
+
+42. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+An irregular mosaic is planned on a 1 m² grid. The inner section covers 42 complete 1 m² squares. The outer border passes through 26 grid squares. The designer estimates the total area by adding the complete squares to half of the border squares. What is the estimated total area of the mosaic in square metres?

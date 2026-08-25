@@ -1,0 +1,92 @@
+=== Topic: Rounding numbers up to 1 000 000 to the nearest 10, 100, 1000, 10 000, and 100 000 ===
+Domain: Number and Place Value
+
+--- Rounding to the nearest 10 ---
+
+Question 1: Round 48 376 to the nearest 10.
+Answer: 48 380
+Working: Look at the ones digit, which is 6. Since 6 is 5 or more, round up to 48 380.
+
+Question 2: Round 349 298 to the nearest 10.
+Answer: 349 300
+Working: Look at the ones digit, which is 8. Since 8 is 5 or more, round up from 290 to 300, giving 349 300.
+
+Question 3: The attendance at a concert was rounded to the nearest 10 as 15 480. What is the greatest possible number of people who attended?
+Answer: 15 484
+Working: Numbers from 15 475 to 15 484 round to 15 480 to the nearest 10. The greatest possible whole number is 15 484.
+
+Question 4: What is the smallest whole number that rounds to 600 000 when rounded to the nearest 10?
+Answer: 599 995
+Working: To round up to 600 000 to the nearest 10, the ones digit must be at least 5. The smallest number is 600 000 - 5 = 599 995.
+
+--- Rounding to the nearest 100 ---
+
+Question 5: Round 72 649 to the nearest 100.
+Answer: 72 600
+Working: Look at the tens digit, which is 4. Since 4 is less than 5, round down to 72 600.
+
+Question 6: Round 809 962 to the nearest 100.
+Answer: 810 000
+Working: Look at the tens digit, which is 6. Since 6 is 5 or more, round up. 809 900 rounds up to 810 000.
+
+Question 7: A factory produced a batch of books. When rounded to the nearest 100, the number of books is 43 500. What is the smallest whole number of books the factory could have produced?
+Answer: 43 450
+Working: To round to 43 500 to the nearest 100, numbers must be in the range 43 450 to 43 549. The smallest whole number is 43 450.
+
+Question 8: A 5-digit number is formed using the digits 7, 4, 9, 5, and 2 exactly once each. When rounded to the nearest 100, the number is 75 000. What is the greatest possible value of this 5-digit number?
+Answer: 74 952
+Working: Numbers that round to 75 000 to the nearest 100 lie between 74 950 and 75 049. Using digits {7, 4, 9, 5, 2}, numbers starting with 75 cannot have hundreds digit 0 because 0 is not available. For numbers starting with 74 9.., the remaining digits are 5 and 2. The greatest arrangement is 74 952, which rounds to 75 000.
+
+--- Rounding to the nearest 1000 ---
+
+Question 9: Round 53 487 to the nearest 1000.
+Answer: 53 000
+Working: Look at the hundreds digit, which is 4. Since 4 is less than 5, round down to 53 000.
+
+Question 10: Round 499 620 to the nearest 1000.
+Answer: 500 000
+Working: Look at the hundreds digit, which is 6. Since 6 is 5 or more, round up from 499 000 to 500 000.
+
+Question 11: A stadium holds 68 000 spectators when rounded to the nearest 1000. What is the difference between the greatest and smallest whole number of spectators that round to 68 000?
+Answer: 999
+Working: The smallest whole number is 67 500 and the greatest whole number is 68 499. Difference = 68 499 - 67 500 = 999.
+
+Question 12: A 6-digit number rounds to 240 000 when rounded to the nearest 10 000, and rounds to 236 000 when rounded to the nearest 1000. What is the smallest possible whole number it could be?
+Answer: 235 500
+Working: To round to 236 000 to the nearest 1000, the number must be at least 235 500. Rounding 235 500 to the nearest 10 000 gives 240 000 (since thousands digit 5 rounds up). So the smallest possible whole number is 235 500.
+
+--- Rounding to the nearest 10 000 ---
+
+Question 13: Round 384 512 to the nearest 10 000.
+Answer: 380 000
+Working: Look at the thousands digit, which is 4. Since 4 is less than 5, round down to 380 000.
+
+Question 14: A charity appeal raised £795 240. Round this amount of money to the nearest £10 000.
+Answer: £800 000
+Working: Look at the thousands digit, which is 5. Since 5 is 5 or more, round up from 790 000 to 800 000, so the amount is £800 000.
+
+Question 15: What is the greatest whole number that rounds to 520 000 when rounded to the nearest 10 000?
+Answer: 524 999
+Working: Numbers that round to 520 000 to the nearest 10 000 range from 515 000 to 524 999. The greatest whole number is 524 999.
+
+Question 16: A whole number rounds to 400 000 when rounded to the nearest 100 000, and rounds to 350 000 when rounded to the nearest 10 000. What is the smallest possible value of this whole number?
+Answer: 350 000
+Working: To round to 400 000 to the nearest 100 000, the number must be at least 350 000. Any number from 345 000 to 349 999 rounds to 300 000 to the nearest 100 000. Since 350 000 rounds to 350 000 to the nearest 10 000 and rounds to 400 000 to the nearest 100 000, the smallest possible whole number is 350 000.
+
+--- Rounding to the nearest 100 000 ---
+
+Question 17: Round 638 214 to the nearest 100 000.
+Answer: 600 000
+Working: Look at the ten-thousands digit, which is 3. Since 3 is less than 5, round down to 600 000.
+
+Question 18: The population of a UK city is 852 700. Round this population to the nearest 100 000.
+Answer: 900 000
+Working: Look at the ten-thousands digit, which is 5. Since 5 is 5 or more, round up from 800 000 to 900 000.
+
+Question 19: What is the smallest whole number that rounds to 900 000 when rounded to the nearest 100 000?
+Answer: 850 000
+Working: To round up to 900 000 to the nearest 100 000, the ten-thousands digit must be at least 5. The smallest whole number is 850 000.
+
+Question 20: A 6-digit whole number rounds to 700 000 to the nearest 100 000, to 650 000 to the nearest 10 000, and to 654 000 to the nearest 1000. What is the greatest possible value of this number?
+Answer: 654 499
+Working: To round to 654 000 to the nearest 1000, the greatest whole number is 654 499. Checking constraints: 654 499 rounded to the nearest 10 000 is 650 000 (thousands digit 4 < 5), and rounded to the nearest 100 000 is 700 000 (ten-thousands digit 5 >= 5). All constraints hold, so the greatest possible value is 654 499.

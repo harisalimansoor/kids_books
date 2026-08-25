@@ -1,0 +1,52 @@
+=== Topic: Multi-step measurement word problems combining all four operations ===
+Domain: Measurement
+
+--- Multi-step measurement word problems combining all four operations ---
+
+Question 1: A roll of ribbon is 4 m long. A teacher cuts 6 strips that are 45 cm each, and 3 strips that are 30 cm each. How many centimetres of ribbon are left on the roll?
+Answer: 40 cm
+Working: Convert 4 m to centimetres: 4 × 100 = 400 cm. Calculate length of first set of strips: 6 × 45 = 270 cm. Calculate length of second set: 3 × 30 = 90 cm. Total ribbon cut = 270 + 90 = 360 cm. Ribbon left = 400 - 360 = 40 cm.
+
+Question 2: A baker starts with a 5 kg bag of flour. She uses 350 g of flour for each loaf of bread. If she bakes 8 loaves, how many kilograms of flour are left in the bag?
+Answer: 2.2 kg
+Working: Convert 5 kg to grams: 5 × 1000 = 5000 g. Total flour used = 8 × 350 = 2800 g. Flour remaining in grams = 5000 - 2800 = 2200 g. Convert back to kilograms: 2200 ÷ 1000 = 2.2 kg.
+
+Question 3: A large jug contains 3 litres of orange juice. First, 5 glasses are filled with 320 ml of juice each. The remaining juice is poured equally into 4 mugs. How many millilitres of juice are in each mug?
+Answer: 350 ml
+Working: Convert 3 litres to millilitres: 3 × 1000 = 3000 ml. Total poured into glasses = 5 × 320 = 1600 ml. Remaining juice = 3000 - 1600 = 1400 ml. Amount in each mug = 1400 ÷ 4 = 350 ml.
+
+Question 4: Leo buys 3 planks of timber that are each 1.5 m long. The timber costs £6 per metre. How much change does Leo receive from a £50 note?
+Answer: £23
+Working: Total length of timber = 3 × 1.5 = 4.5 m. Total cost = 4.5 × £6 = £27. Change = £50 - £27 = £23.
+
+Question 5: A rectangular garden is 12 m long and 8 m wide. Fencing costs £15 per metre. The garden has a 2 m gap for a gate that does not require fencing. What is the total cost of the fencing needed to enclose the garden?
+Answer: £570
+Working: Perimeter of the garden = 2 × (12 + 8) = 2 × 20 = 40 m. Subtract the 2 m gate: 40 - 2 = 38 m of fencing needed. Total cost = 38 × £15 = £570.
+
+Question 6: A parcel contains 4 hardback books and 3 notebooks packed inside a cardboard box. Each hardback book has a mass of 650 g, each notebook has a mass of 180 g, and the empty box has a mass of 260 g. What is the total mass of the parcel in kilograms?
+Answer: 3.4 kg
+Working: Mass of books = 4 × 650 = 2600 g. Mass of notebooks = 3 × 180 = 540 g. Total mass in grams = 2600 + 540 + 260 = 3400 g. Convert to kilograms: 3400 ÷ 1000 = 3.4 kg.
+
+Question 7: A water dispenser is filled with 18 litres of water. On Monday, 24 pupils each fill a 350 ml bottle. On Tuesday, 15 pupils each fill a 500 ml bottle. How many litres of water remain in the dispenser?
+Answer: 2.1 litres
+Working: Monday water used = 24 × 350 = 8400 ml = 8.4 litres. Tuesday water used = 15 × 500 = 7500 ml = 7.5 litres. Total water used = 8.4 + 7.5 = 15.9 litres. Water remaining = 18 - 15.9 = 2.1 litres.
+
+Question 8: A straight running path is 1.2 km long. Cones are placed at the start, at the finish, and at equal intervals of 150 m along the entire path. How many cones are placed altogether?
+Answer: 9 cones
+Working: Convert 1.2 km to metres: 1.2 × 1000 = 1200 m. Number of 150 m intervals = 1200 ÷ 150 = 8 intervals. Total number of cones = 8 + 1 (for the starting cone) = 9 cones.
+
+Question 9: A recipe for 6 people requires 450 g of rice. Liam wants to make enough for 18 people. He buys a 2 kg bag of rice. How many grams of rice will Liam have left after making the meal?
+Answer: 650 g
+Working: Scaling factor = 18 ÷ 6 = 3. Total rice needed = 3 × 450 = 1350 g. Convert 2 kg bag to grams: 2 × 1000 = 2000 g. Rice left = 2000 - 1350 = 650 g.
+
+Question 10: Maya runs 4 laps around a track. Each lap takes 2 minutes and 45 seconds. She then rests for 3 minutes and 20 seconds before running one final lap in 2 minutes and 30 seconds. What is the total time taken for the run and rest combined?
+Answer: 16 minutes 50 seconds
+Working: Time for 4 laps = 4 × 2 min 45 s = 8 min + 180 s = 8 min + 3 min = 11 minutes. Add rest time: 11 min + 3 min 20 s = 14 min 20 s. Add final lap: 14 min 20 s + 2 min 30 s = 16 minutes 50 seconds.
+
+Question 11: At a farm shop, apples cost £1.60 per kilogram and bananas cost £1.20 per kilogram. Hannah buys 2.5 kg of apples and 1.5 kg of bananas. She pays with a £10 note. How much change does Hannah receive?
+Answer: £4.20
+Working: Cost of apples = 2.5 × £1.60 = £4.00. Cost of bananas = 1.5 × £1.20 = £1.80. Total cost = £4.00 + £1.80 = £5.80. Change = £10.00 - £5.80 = £4.20.
+
+Question 12: A carpenter has a wooden plank of length 3.6 m. He cuts off one piece measuring 84 cm. He then cuts the remaining length of plank into 6 equal pieces. How many centimetres long is each equal piece?
+Answer: 46 cm
+Working: Convert 3.6 m to centimetres: 3.6 × 100 = 360 cm. Remaining length after first cut = 360 - 84 = 276 cm. Length of each equal piece = 276 ÷ 6 = 46 cm.

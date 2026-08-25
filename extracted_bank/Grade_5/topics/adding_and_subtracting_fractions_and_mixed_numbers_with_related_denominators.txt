@@ -1,0 +1,70 @@
+=== Topic: Adding and subtracting fractions and mixed numbers with related denominators ===
+Domain: Fractions, Decimals and Percentages
+
+--- Adding and subtracting fractions with related denominators ---
+
+Question 1: Calculate 1/4 + 3/8. Give your answer as a fraction in its simplest form.
+Answer: 5/8
+Working: Convert 1/4 to an equivalent fraction with denominator 8: 1/4 = 2/8. Then add the numerators: 2/8 + 3/8 = 5/8.
+
+Question 2: Calculate 7/10 - 2/5. Give your answer as a fraction in its simplest form.
+Answer: 3/10
+Working: Convert 2/5 to tenths: 2/5 = 4/10. Then subtract: 7/10 - 4/10 = 3/10.
+
+Question 3: Calculate 5/6 + 2/3. Give your answer as a mixed number in its simplest form.
+Answer: 1 1/2
+Working: Convert 2/3 to sixths: 2/3 = 4/6. Add the fractions: 5/6 + 4/6 = 9/6. Simplify and convert to a mixed number: 9/6 = 3/2 = 1 1/2.
+
+Question 4: Calculate 11/12 - 2/3. Give your answer as a fraction in its simplest form.
+Answer: 1/4
+Working: Convert 2/3 to twelfths: 2/3 = 8/12. Subtract the numerators: 11/12 - 8/12 = 3/12. Simplify: 3/12 = 1/4.
+
+Question 5: A jug contains 3/8 litre of orange juice. Chloe pours in 1/4 litre of mango juice. What is the total volume of juice in the jug? Give your answer in litres as a fraction in its simplest form.
+Answer: 5/8 litres
+Working: Convert 1/4 to eighths: 1/4 = 2/8. Add the two quantities: 3/8 + 2/8 = 5/8 litres.
+
+Question 6: A piece of ribbon is 9/10 m long. Maya cuts off 1/2 m to wrap a parcel. What length of ribbon is left? Give your answer in metres as a fraction in its simplest form.
+Answer: 2/5 m
+Working: Convert 1/2 to tenths: 1/2 = 5/10. Subtract: 9/10 - 5/10 = 4/10. Simplify: 4/10 = 2/5 m.
+
+Question 7: Find the missing fraction: 3/10 + ? = 4/5. Give your answer as a fraction in its simplest form.
+Answer: 1/2
+Working: Convert 4/5 to tenths: 4/5 = 8/10. Subtract: 8/10 - 3/10 = 5/10. Simplify: 5/10 = 1/2.
+
+Question 8: Oliver walks 7/12 km on Monday and 1/3 km on Tuesday. How much further does Oliver walk on Monday than on Tuesday? Give your answer in kilometres as a fraction in its simplest form.
+Answer: 1/4 km
+Working: Convert 1/3 to twelfths: 1/3 = 4/12. Find the difference: 7/12 - 4/12 = 3/12. Simplify: 3/12 = 1/4 km.
+
+--- Adding and subtracting mixed numbers with related denominators ---
+
+Question 9: Calculate 1 1/3 + 2 1/6. Give your answer as a mixed number in its simplest form.
+Answer: 3 1/2
+Working: Convert 1/3 to sixths: 1/3 = 2/6. Add the whole numbers: 1 + 2 = 3. Add the fractions: 2/6 + 1/6 = 3/6 = 1/2. Combine: 3 1/2.
+
+Question 10: Calculate 3 7/10 - 1 2/5. Give your answer as a mixed number in its simplest form.
+Answer: 2 3/10
+Working: Convert 2/5 to tenths: 2/5 = 4/10. Subtract whole numbers: 3 - 1 = 2. Subtract fractions: 7/10 - 4/10 = 3/10. Combine: 2 3/10.
+
+Question 11: Calculate 2 3/4 + 1 5/8. Give your answer as a mixed number in its simplest form.
+Answer: 4 3/8
+Working: Convert 3/4 to eighths: 3/4 = 6/8. Add whole numbers: 2 + 1 = 3. Add fractions: 6/8 + 5/8 = 11/8 = 1 3/8. Combine: 3 + 1 3/8 = 4 3/8.
+
+Question 12: Calculate 4 1/6 - 1 2/3. Give your answer as a mixed number in its simplest form.
+Answer: 2 1/2
+Working: Convert 2/3 to sixths: 2/3 = 4/6. Exchange 1 whole from 4: 4 1/6 = 3 7/6. Subtract: 3 7/6 - 1 4/6 = 2 3/6 = 2 1/2.
+
+Question 13: A baker has 3 3/4 kg of flour. She uses 1 3/8 kg to bake bread. How many kilograms of flour does the baker have left? Give your answer as a mixed number in its simplest form.
+Answer: 2 3/8 kg
+Working: Convert 3/4 to eighths: 3/4 = 6/8. Calculate 3 6/8 - 1 3/8: whole numbers 3 - 1 = 2, fractions 6/8 - 3/8 = 3/8. The result is 2 3/8 kg.
+
+Question 14: Liam cycles 2 1/5 km in the morning and 3 7/10 km in the afternoon. What is the total distance Liam cycles? Give your answer in kilometres as a mixed number in its simplest form.
+Answer: 5 9/10 km
+Working: Convert 1/5 to tenths: 1/5 = 2/10. Add whole numbers: 2 + 3 = 5. Add fractions: 2/10 + 7/10 = 9/10. Total distance: 5 9/10 km.
+
+Question 15: A piece of timber is 5 1/4 m long. A carpenter cuts off a length measuring 2 7/12 m. What length of timber remains? Give your answer in metres as a mixed number in its simplest form.
+Answer: 2 2/3 m
+Working: Convert 1/4 to twelfths: 1/4 = 3/12. Exchange 1 whole: 5 3/12 = 4 15/12. Subtract: 4 15/12 - 2 7/12 = 2 8/12. Simplify: 2 8/12 = 2 2/3 m.
+
+Question 16: Find the missing mixed number: 1 3/4 + ? = 4 1/8. Give your answer as a mixed number in its simplest form.
+Answer: 2 3/8
+Working: Subtract 1 3/4 from 4 1/8. Convert 3/4 to eighths: 1 3/4 = 1 6/8. Exchange 1 whole: 4 1/8 = 3 9/8. Subtract: 3 9/8 - 1 6/8 = 2 3/8.

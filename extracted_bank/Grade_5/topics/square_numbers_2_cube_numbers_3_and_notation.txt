@@ -1,0 +1,88 @@
+=== Topic: Square numbers (^2), cube numbers (^3), and notation ===
+Domain: Multiplication and Division
+
+--- Square numbers ---
+
+Question 1: What is the square number between 30 and 40?
+Answer: 36
+Working: 5 × 5 = 25 and 6 × 6 = 36. 36 is between 30 and 40.
+
+Question 2: A square tiled floor is made of 81 identical square tiles. How many tiles are in each row?
+Answer: 9
+Working: A square has equal rows and columns. 9 × 9 = 81, so there are 9 tiles in each row.
+
+Question 3: What is the difference between the 6th square number and the 4th square number?
+Answer: 20
+Working: The 6th square number is 6 × 6 = 36. The 4th square number is 4 × 4 = 16. 36 - 16 = 20.
+
+Question 4: A square vegetable patch has an area of 49 m². What is the perimeter of the vegetable patch in metres?
+Answer: 28 m
+Working: The side length is 7 m because 7 × 7 = 49. The perimeter of a square is 4 × 7 m = 28 m.
+
+Question 5: How many square numbers are there between 20 and 70?
+Answer: 4
+Working: The square numbers in this range are 5² = 25, 6² = 36, 7² = 49, and 8² = 64. That is 4 square numbers.
+
+Question 6: Write the two square numbers that add together to make 65.
+Answer: 16 and 49
+Working: The square numbers less than 65 are 1, 4, 9, 16, 25, 36, 49, 64. 16 + 49 = 65.
+
+--- Cube numbers ---
+
+Question 7: What is the 3rd cube number?
+Answer: 27
+Working: The 3rd cube number is 3 × 3 × 3 = 27.
+
+Question 8: Calculate the value of 5 cubed.
+Answer: 125
+Working: 5 cubed is 5 × 5 × 5 = 25 × 5 = 125.
+
+Question 9: A large solid cube is built using 1 cm³ blocks. The cube is 4 cm long, 4 cm wide, and 4 cm high. How many 1 cm³ blocks are used in total?
+Answer: 64
+Working: Volume = length × width × height = 4 × 4 × 4 = 64 blocks.
+
+Question 10: What is the difference between the 4th cube number and the 3rd cube number?
+Answer: 37
+Working: The 4th cube number is 4 × 4 × 4 = 64. The 3rd cube number is 3 × 3 × 3 = 27. 64 - 27 = 37.
+
+Question 11: Which cube number lies between 200 and 300?
+Answer: 216
+Working: 5³ = 125, 6³ = 6 × 6 × 6 = 216, and 7³ = 343. 216 is between 200 and 300.
+
+Question 12: Which whole number between 20 and 100 is both a square number and a cube number?
+Answer: 64
+Working: 8 × 8 = 64 (square number) and 4 × 4 × 4 = 64 (cube number).
+
+--- Notation ---
+
+Question 13: Calculate the value of 9².
+Answer: 81
+Working: 9² = 9 × 9 = 81.
+
+Question 14: Calculate the value of 2³.
+Answer: 8
+Working: 2³ = 2 × 2 × 2 = 8.
+
+Question 15: Work out the value of 7² + 3².
+Answer: 58
+Working: 7² = 49 and 3² = 9. 49 + 9 = 58.
+
+Question 16: Work out the value of 10² - 4³.
+Answer: 36
+Working: 10² = 100 and 4³ = 64. 100 - 64 = 36.
+
+Question 17: Work out the value of 4³ - 4².
+Answer: 48
+Working: 4³ = 64 and 4² = 16. 64 - 16 = 48.
+
+Question 18: Write the missing number to make the statement true: 8² = 50 + ___
+Answer: 14
+Working: 8² = 64. 64 - 50 = 14.
+
+Question 19: Work out the value of 2³ + 5² + 10².
+Answer: 133
+Working: 2³ = 8, 5² = 25, and 10² = 100. 8 + 25 + 100 = 133.
+
+Question 20: Work out the value of 10³ ÷ 10².
+Answer: 10
+Working: 10³ = 1000 and 10² = 100. 1000 ÷ 100 = 10.

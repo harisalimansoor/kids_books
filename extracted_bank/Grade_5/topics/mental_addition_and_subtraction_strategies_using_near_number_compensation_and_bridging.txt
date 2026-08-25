@@ -1,0 +1,70 @@
+=== Topic: Mental addition and subtraction strategies using near-number compensation and bridging ===
+Domain: Addition and Subtraction
+
+--- Near-number compensation ---
+
+Question 1: Calculate mentally: 345 + 99
+Answer: 444
+Working: Add 100 to 345 to get 445, then subtract 1 to compensate: 445 - 1 = 444.
+
+Question 2: Calculate mentally: 672 - 98
+Answer: 574
+Working: Subtract 100 from 672 to get 572, then add 2 to compensate: 572 + 2 = 574.
+
+Question 3: A library had 4,520 books. It received a delivery of 1,998 new books. How many books does the library have now?
+Answer: 6,518
+Working: Add 2,000 to 4,520 to get 6,520, then subtract 2 to compensate: 6,520 - 2 = 6,518.
+
+Question 4: A delivery van's odometer reads 28,450 km. It travels a journey of 3,999 km. What is the new reading on the odometer in km?
+Answer: 32,449 km
+Working: Add 4,000 km to 28,450 km to get 32,450 km, then subtract 1 km to compensate: 32,450 - 1 = 32,449 km.
+
+Question 5: A warehouse had 15,340 kg of grain. It dispatched 2,995 kg to a bakery. How many kilograms of grain remain in the warehouse?
+Answer: 12,345 kg
+Working: Subtract 3,000 kg from 15,340 kg to get 12,340 kg, then add 5 kg to compensate: 12,340 + 5 = 12,345 kg.
+
+Question 6: A town has a population of 84,215. Over a year, 9,996 people move away. What is the town's new population?
+Answer: 74,219
+Working: Subtract 10,000 from 84,215 to get 74,215, then add 4 to compensate: 74,215 + 4 = 74,219.
+
+Question 7: A concert hall has 12,500 seats. In the morning, 4,997 tickets are sold, and in the afternoon, 2,998 tickets are sold. How many tickets are left unsold?
+Answer: 4,505
+Working: Total tickets sold: (5,000 - 3) + (3,000 - 2) = 8,000 - 5 = 7,995. Unsold tickets: 12,500 - 7,995 = 12,500 - 8,000 + 5 = 4,500 + 5 = 4,505.
+
+Question 8: A school fundraiser aims to raise £10,000. In week one, they raise £3,998. In week two, they raise £2,995. How much more money do they need to raise to reach their target?
+Answer: £3,007
+Working: Total raised so far: £3,998 + £2,995 = (£4,000 - £2) + (£3,000 - £5) = £7,000 - £7 = £6,993. Remaining to raise: £10,000 - £6,993 = £10,000 - £7,000 + £7 = £3,000 + £7 = £3,007.
+
+--- Bridging ---
+
+Question 9: Calculate mentally by bridging through 1,000: 870 + 350
+Answer: 1,220
+Working: Bridge through 1,000: 870 + 130 = 1,000. Partition 350 into 130 + 220. Then 1,000 + 220 = 1,220.
+
+Question 10: Calculate mentally by bridging through 100: 345 + 85
+Answer: 430
+Working: Bridge through 400: 345 + 55 = 400. Partition 85 into 55 + 30. Then 400 + 30 = 430.
+
+Question 11: A runner has completed 4,800 m of a 6,200 m course. How many metres does the runner have left to complete?
+Answer: 1,400 m
+Working: Bridge through 5,000 m: from 4,800 m to 5,000 m is 200 m, and from 5,000 m to 6,200 m is 1,200 m. 200 m + 1,200 m = 1,400 m.
+
+Question 12: A plane is flying at an altitude of 8,650 m and descends to 5,900 m. How many metres has the plane descended?
+Answer: 2,750 m
+Working: Bridge through 6,000 m: from 5,900 m to 6,000 m is 100 m, and from 6,000 m to 8,650 m is 2,650 m. 100 m + 2,650 m = 2,750 m.
+
+Question 13: Calculate mentally: 29,800 + 4,500
+Answer: 34,300
+Working: Bridge through 30,000: 29,800 + 200 = 30,000. Partition 4,500 into 200 + 4,300. Then 30,000 + 4,300 = 34,300.
+
+Question 14: A water tank holds 50,000 litres. It currently contains 38,700 litres. How many more litres of water are needed to fill the tank completely?
+Answer: 11,300 litres
+Working: Bridge through 39,000 and 40,000: from 38,700 to 39,000 is 300 litres, from 39,000 to 40,000 is 1,000 litres, and from 40,000 to 50,000 is 10,000 litres. Total needed: 300 + 1,000 + 10,000 = 11,300 litres.
+
+Question 15: A train starts a journey with 750 passengers. At the first stop, 380 passengers get off and 290 passengers get on. How many passengers are on the train now?
+Answer: 660
+Working: After 380 get off: 750 - 380 = 370 (bridging through 700: 750 - 50 - 330 = 370). After 290 get on: 370 + 290 = 660 (bridging through 400: 370 + 30 + 260 = 660).
+
+Question 16: A lorry loaded with cargo has a total mass of 42,300 kg. When completely empty, the lorry has a mass of 18,750 kg. What is the mass of the cargo in kilograms?
+Answer: 23,550 kg
+Working: Bridge from 18,750 kg to 42,300 kg: 18,750 to 19,000 is 250 kg; 19,000 to 20,000 is 1,000 kg; 20,000 to 42,000 is 22,000 kg; 42,000 to 42,300 is 300 kg. Total cargo mass: 250 + 1,000 + 22,000 + 300 = 23,550 kg.

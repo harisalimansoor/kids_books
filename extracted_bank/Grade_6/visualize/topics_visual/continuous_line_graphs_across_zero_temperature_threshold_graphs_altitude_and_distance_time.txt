@@ -1,0 +1,117 @@
+###################################
+Continuous line graphs across zero (temperature), threshold graphs (altitude), and distance-time graphs (speed, rest plateaus, cumulative distance vs displacement)
+###################################
+
+--- Continuous line graphs across zero (temperature) ---
+
+1. Look at the picture! {user_name} is looking at this.
+A continuous line graph tracks the temperature in a town every 2 hours: at 02:00 it is -5°C, at 04:00 it is -6°C, at 06:00 it is -2°C, at 08:00 it is 3°C, and at 10:00 it is 7°C. What is the total rise in temperature between the coldest time recorded and 10:00?
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A continuous line graph tracks the temperature in a town every 2 hours: at 02:00 it is -5°C, at 04:00 it is -6°C, at 06:00 it is -2°C, at 08:00 it is 3°C, and at 10:00 it is 7°C. What is the total rise in temperature between the coldest time recorded and 10:00?
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A continuous line graph tracks the temperature in a town every 2 hours: at 02:00 it is -5°C, at 04:00 it is -6°C, at 06:00 it is -2°C, at 08:00 it is 3°C, and at 10:00 it is 7°C. What is the total rise in temperature between the coldest time recorded and 10:00?
+
+4. Look at the picture! {user_name} is looking at this.
+A line graph shows the hourly temperature outside a school: 06:00 (-4°C), 07:00 (-2°C), 08:00 (-1°C), 09:00 (2°C), 10:00 (5°C). Between which two consecutive hours did the temperature cross zero degrees Celsius?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A line graph shows the hourly temperature outside a school: 06:00 (-4°C), 07:00 (-2°C), 08:00 (-1°C), 09:00 (2°C), 10:00 (5°C). Between which two consecutive hours did the temperature cross zero degrees Celsius?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A line graph shows the hourly temperature outside a school: 06:00 (-4°C), 07:00 (-2°C), 08:00 (-1°C), 09:00 (2°C), 10:00 (5°C). Between which two consecutive hours did the temperature cross zero degrees Celsius?
+
+7. Look at the picture! {user_name} is looking at this.
+A weather station line graph shows temperatures recorded on a mountain: 20:00 (4°C), 23:00 (1°C), 02:00 (-3°C), 05:00 (-7°C), 08:00 (-2°C), 11:00 (6°C). What is the difference in degrees Celsius between the highest temperature and the lowest temperature recorded?
+
+8. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A weather station line graph shows temperatures recorded on a mountain: 20:00 (4°C), 23:00 (1°C), 02:00 (-3°C), 05:00 (-7°C), 08:00 (-2°C), 11:00 (6°C). What is the difference in degrees Celsius between the highest temperature and the lowest temperature recorded?
+
+9. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A weather station line graph shows temperatures recorded on a mountain: 20:00 (4°C), 23:00 (1°C), 02:00 (-3°C), 05:00 (-7°C), 08:00 (-2°C), 11:00 (6°C). What is the difference in degrees Celsius between the highest temperature and the lowest temperature recorded?
+
+10. Look at the picture! {user_name} is looking at this.
+A science experiment tracks the temperature of a liquid cooling and then freezing. The line graph shows: 0 min (8°C), 5 min (3°C), 10 min (0°C), 15 min (-4°C), 20 min (-9°C). How many degrees Celsius did the temperature fall between 5 minutes and 20 minutes?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A science experiment tracks the temperature of a liquid cooling and then freezing. The line graph shows: 0 min (8°C), 5 min (3°C), 10 min (0°C), 15 min (-4°C), 20 min (-9°C). How many degrees Celsius did the temperature fall between 5 minutes and 20 minutes?
+
+12. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A science experiment tracks the temperature of a liquid cooling and then freezing. The line graph shows: 0 min (8°C), 5 min (3°C), 10 min (0°C), 15 min (-4°C), 20 min (-9°C). How many degrees Celsius did the temperature fall between 5 minutes and 20 minutes?
+
+--- Threshold graphs (altitude) ---
+
+13. Look at the picture! {user_name} is looking at this.
+A line graph tracks a hill walker's altitude above sea level: Start (150 m), 2 km (320 m), 4 km (480 m), 6 km (650 m), 8 km (820 m). The cloud base threshold begins at 500 m. How many metres of vertical ascent did the walker make from the 500 m threshold to the 8 km checkpoint?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A line graph tracks a hill walker's altitude above sea level: Start (150 m), 2 km (320 m), 4 km (480 m), 6 km (650 m), 8 km (820 m). The cloud base threshold begins at 500 m. How many metres of vertical ascent did the walker make from the 500 m threshold to the 8 km checkpoint?
+
+15. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A line graph tracks a hill walker's altitude above sea level: Start (150 m), 2 km (320 m), 4 km (480 m), 6 km (650 m), 8 km (820 m). The cloud base threshold begins at 500 m. How many metres of vertical ascent did the walker make from the 500 m threshold to the 8 km checkpoint?
+
+16. Look at the picture! {user_name} is looking at this.
+A drone flight graph records altitude at 1-minute intervals: 1 min (45 m), 2 min (90 m), 3 min (125 m), 4 min (140 m), 5 min (115 m), 6 min (80 m). The safety threshold limit is 100 m. At how many of these 6 recorded checkpoints was the drone flying above the 100 m threshold?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A drone flight graph records altitude at 1-minute intervals: 1 min (45 m), 2 min (90 m), 3 min (125 m), 4 min (140 m), 5 min (115 m), 6 min (80 m). The safety threshold limit is 100 m. At how many of these 6 recorded checkpoints was the drone flying above the 100 m threshold?
+
+18. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A drone flight graph records altitude at 1-minute intervals: 1 min (45 m), 2 min (90 m), 3 min (125 m), 4 min (140 m), 5 min (115 m), 6 min (80 m). The safety threshold limit is 100 m. At how many of these 6 recorded checkpoints was the drone flying above the 100 m threshold?
+
+19. Look at the picture! {user_name} is looking at this.
+A research submarine dive is shown on a depth graph relative to sea level: 0 min (0 m), 10 min (-40 m), 20 min (-85 m), 30 min (-85 m), 40 min (-50 m), 50 min (0 m). The deep-pressure threshold begins below -60 m. The graph shows the submarine crossed below -60 m at 15 minutes and rose back above -60 m at 36 minutes. For how many minutes was the submarine at or below the -60 m threshold?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A research submarine dive is shown on a depth graph relative to sea level: 0 min (0 m), 10 min (-40 m), 20 min (-85 m), 30 min (-85 m), 40 min (-50 m), 50 min (0 m). The deep-pressure threshold begins below -60 m. The graph shows the submarine crossed below -60 m at 15 minutes and rose back above -60 m at 36 minutes. For how many minutes was the submarine at or below the -60 m threshold?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A research submarine dive is shown on a depth graph relative to sea level: 0 min (0 m), 10 min (-40 m), 20 min (-85 m), 30 min (-85 m), 40 min (-50 m), 50 min (0 m). The deep-pressure threshold begins below -60 m. The graph shows the submarine crossed below -60 m at 15 minutes and rose back above -60 m at 36 minutes. For how many minutes was the submarine at or below the -60 m threshold?
+
+22. Look at the picture! {user_name} is looking at this.
+An aircraft climb graph plots altitude against time: 0 min (0 m), 4 min (1,200 m), 8 min (2,600 m), 12 min (4,100 m), 16 min (5,500 m). The minimum cruising altitude threshold is 5,000 m. How many metres did the aircraft climb between 8 minutes and 16 minutes?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+An aircraft climb graph plots altitude against time: 0 min (0 m), 4 min (1,200 m), 8 min (2,600 m), 12 min (4,100 m), 16 min (5,500 m). The minimum cruising altitude threshold is 5,000 m. How many metres did the aircraft climb between 8 minutes and 16 minutes?
+
+24. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+An aircraft climb graph plots altitude against time: 0 min (0 m), 4 min (1,200 m), 8 min (2,600 m), 12 min (4,100 m), 16 min (5,500 m). The minimum cruising altitude threshold is 5,000 m. How many metres did the aircraft climb between 8 minutes and 16 minutes?
+
+--- Distance-time graphs (speed, rest plateaus, cumulative distance vs displacement) ---
+
+25. Look at the picture! {user_name} is looking at this.
+A distance-time graph shows a cyclist's journey: from 10:00 to 11:00 the cyclist travels 15 km; from 11:00 to 11:45 the graph shows a horizontal line plateau at 15 km; from 11:45 to 12:45 the cyclist travels to 30 km. For how many minutes did the cyclist rest at the plateau?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+A distance-time graph shows a cyclist's journey: from 10:00 to 11:00 the cyclist travels 15 km; from 11:00 to 11:45 the graph shows a horizontal line plateau at 15 km; from 11:45 to 12:45 the cyclist travels to 30 km. For how many minutes did the cyclist rest at the plateau?
+
+27. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A distance-time graph shows a cyclist's journey: from 10:00 to 11:00 the cyclist travels 15 km; from 11:00 to 11:45 the graph shows a horizontal line plateau at 15 km; from 11:45 to 12:45 the cyclist travels to 30 km. For how many minutes did the cyclist rest at the plateau?
+
+28. Look at the picture! {user_name} is looking at this.
+A displacement-time graph shows Oliver walking from home to the library and back. From 0 to 30 minutes, he walks 2 km to the library. From 30 to 50 minutes, he stays at the library (distance from home remains 2 km). From 50 to 80 minutes, he walks straight back home (distance decreases to 0 km). What is the total cumulative distance Oliver walked during the 80 minutes?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+A displacement-time graph shows Oliver walking from home to the library and back. From 0 to 30 minutes, he walks 2 km to the library. From 30 to 50 minutes, he stays at the library (distance from home remains 2 km). From 50 to 80 minutes, he walks straight back home (distance decreases to 0 km). What is the total cumulative distance Oliver walked during the 80 minutes?
+
+30. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A displacement-time graph shows Oliver walking from home to the library and back. From 0 to 30 minutes, he walks 2 km to the library. From 30 to 50 minutes, he stays at the library (distance from home remains 2 km). From 50 to 80 minutes, he walks straight back home (distance decreases to 0 km). What is the total cumulative distance Oliver walked during the 80 minutes?
+
+31. Look at the picture! {user_name} is looking at this.
+A distance-time graph for a coach trip shows that between 09:00 and 09:30 the coach travelled from 0 km to 24 km at a constant speed. What was the speed of the coach during this 30-minute period in kilometres per hour (km/h)?
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A distance-time graph for a coach trip shows that between 09:00 and 09:30 the coach travelled from 0 km to 24 km at a constant speed. What was the speed of the coach during this 30-minute period in kilometres per hour (km/h)?
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A distance-time graph for a coach trip shows that between 09:00 and 09:30 the coach travelled from 0 km to 24 km at a constant speed. What was the speed of the coach during this 30-minute period in kilometres per hour (km/h)?
+
+34. Look at the picture! {user_name} is looking at this.
+A runner's distance-time graph shows: 0 to 20 minutes (covers 0 km to 3 km); 20 to 30 minutes (rest plateau at 3 km); 30 to 50 minutes (covers 3 km to 8 km). What was the runner's speed in kilometres per hour (km/h) during the final 20-minute section from 30 to 50 minutes?
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A runner's distance-time graph shows: 0 to 20 minutes (covers 0 km to 3 km); 20 to 30 minutes (rest plateau at 3 km); 30 to 50 minutes (covers 3 km to 8 km). What was the runner's speed in kilometres per hour (km/h) during the final 20-minute section from 30 to 50 minutes?
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A runner's distance-time graph shows: 0 to 20 minutes (covers 0 km to 3 km); 20 to 30 minutes (rest plateau at 3 km); 30 to 50 minutes (covers 3 km to 8 km). What was the runner's speed in kilometres per hour (km/h) during the final 20-minute section from 30 to 50 minutes?

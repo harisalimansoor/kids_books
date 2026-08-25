@@ -1,0 +1,13 @@
+###################################
+Interior angle sums of triangles (180^ degrees), quadrilaterals (360^ degrees), and polygons ((n-2) x 180^ degrees)
+###################################
+Domain: Geometry: Properties of Shapes
+
+1. Interior angle sums of triangles (180^ degrees)
+   From: Interior angle sums of triangles ($180^\circ$)
+
+2. Interior angle sums of quadrilaterals (360^ degrees)
+   From: quadrilaterals ($360^\circ$)
+
+3. Interior angle sums of polygons ((n-2) x 180^ degrees)
+   From: polygons ($(n-2) \times 180^\circ$)

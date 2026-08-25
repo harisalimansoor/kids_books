@@ -1,0 +1,121 @@
+###################################
+Formal columnar addition up to 4 digits (single and multiple exchanges)
+###################################
+
+--- Single exchange ---
+
+1. Look at the picture! {user_name} is looking at this.
+Calculate 3,428 + 2,154 using column addition.
+
+2. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+3. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 3,428 + 2,154 using column addition.
+
+4. Look at the picture! {user_name} is looking at this.
+Calculate 4,583 + 271 using column addition.
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+6. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 4,583 + 271 using column addition.
+
+7. Look at the picture! {user_name} is looking at this.
+Calculate 2,735 + 1,842 using column addition.
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+9. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 2,735 + 1,842 using column addition.
+
+10. Look at the picture! {user_name} is looking at this.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A school library has 3,246 fiction books and 1,518 non-fiction books. What is the total number of books in the library?
+
+13. Look at the picture! {user_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+15. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 4 2
++ 2   3 8 5
+-----------
+  5   7 2 7
+
+--- Multiple exchanges ---
+
+16. Look at the picture! {user_name} is looking at this.
+Calculate 3,478 + 2,185 using column addition.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+18. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,478 + 2,185 using column addition.
+
+19. Look at the picture! {user_name} is looking at this.
+Calculate 4,679 + 3,584 using column addition.
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+21. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Calculate 4,679 + 3,584 using column addition.
+
+22. Look at the picture! {user_name} is looking at this.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+24. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+In a charity run, 2,865 adults and 1,478 children took part. How many people took part altogether?
+
+25. Look at the picture! {user_name} is looking at this.
+Calculate 5,786 + 2,437 using column addition.
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Calculate 5,786 + 2,437 using column addition.
+
+28. Look at the picture! {user_name} is looking at this.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+29. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4
+
+30. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Find the missing digit marked by the square [ ] in this addition calculation:
+  3 [ ] 7 5
++ 2   6 8 9
+-----------
+  6   2 6 4

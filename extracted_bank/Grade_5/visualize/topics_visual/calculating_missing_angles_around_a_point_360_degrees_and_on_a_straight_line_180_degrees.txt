@@ -1,0 +1,133 @@
+###################################
+Calculating missing angles around a point (360^ degrees) and on a straight line (180^ degrees)
+###################################
+
+--- Calculating missing angles around a point (360°) ---
+
+1. Look at the picture! {user_name} is looking at this.
+Two angles meet at a point to make a full turn. One angle is 275°. What is the size of the other angle?
+
+2. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Two angles meet at a point to make a full turn. One angle is 275°. What is the size of the other angle?
+
+3. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Two angles meet at a point to make a full turn. One angle is 275°. What is the size of the other angle?
+
+4. Look at the picture! {user_name} is looking at this.
+A reflex angle of 312° and an acute angle meet at a point to make a complete turn. What is the size of the acute angle?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A reflex angle of 312° and an acute angle meet at a point to make a complete turn. What is the size of the acute angle?
+
+6. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A reflex angle of 312° and an acute angle meet at a point to make a complete turn. What is the size of the acute angle?
+
+7. Look at the picture! {user_name} is looking at this.
+Three angles meet at a point. Two of the angles are 115° and 130°. What is the size of the third angle?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Three angles meet at a point. Two of the angles are 115° and 130°. What is the size of the third angle?
+
+9. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Three angles meet at a point. Two of the angles are 115° and 130°. What is the size of the third angle?
+
+10. Look at the picture! {user_name} is looking at this.
+Three angles meet at a point. One angle is a right angle (90°) and another angle is 145°. Calculate the size of the third angle.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Three angles meet at a point. One angle is a right angle (90°) and another angle is 145°. Calculate the size of the third angle.
+
+12. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Three angles meet at a point. One angle is a right angle (90°) and another angle is 145°. Calculate the size of the third angle.
+
+13. Look at the picture! {user_name} is looking at this.
+Four angles meet at a point. Three of the angles are 72°, 98°, and 110°. Calculate the size of the missing fourth angle.
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Four angles meet at a point. Three of the angles are 72°, 98°, and 110°. Calculate the size of the missing fourth angle.
+
+15. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Four angles meet at a point. Three of the angles are 72°, 98°, and 110°. Calculate the size of the missing fourth angle.
+
+16. Look at the picture! {user_name} is looking at this.
+Four angles meet at a point. One angle is 120°. The remaining three angles are all equal in size. What is the size of each of the three equal angles?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Four angles meet at a point. One angle is 120°. The remaining three angles are all equal in size. What is the size of each of the three equal angles?
+
+18. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Four angles meet at a point. One angle is 120°. The remaining three angles are all equal in size. What is the size of each of the three equal angles?
+
+19. Look at the picture! {user_name} is looking at this.
+Five angles meet at a point. Two of the angles are right angles (90° each). The other three angles are equal in size to each other. Calculate the size of one of these three equal angles.
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Five angles meet at a point. Two of the angles are right angles (90° each). The other three angles are equal in size to each other. Calculate the size of one of these three equal angles.
+
+21. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Five angles meet at a point. Two of the angles are right angles (90° each). The other three angles are equal in size to each other. Calculate the size of one of these three equal angles.
+
+--- Calculating missing angles on a straight line (180°) ---
+
+22. Look at the picture! {user_name} is looking at this.
+Two angles meet at a point on a straight line. One angle is 65°. What is the size of the other angle?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+Two angles meet at a point on a straight line. One angle is 65°. What is the size of the other angle?
+
+24. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Two angles meet at a point on a straight line. One angle is 65°. What is the size of the other angle?
+
+25. Look at the picture! {user_name} is looking at this.
+An angle of 142° sits on a straight line next to a missing angle. Calculate the size of the missing angle.
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An angle of 142° sits on a straight line next to a missing angle. Calculate the size of the missing angle.
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+An angle of 142° sits on a straight line next to a missing angle. Calculate the size of the missing angle.
+
+28. Look at the picture! {user_name} is looking at this.
+Three angles meet at a point on a straight line. Two of the angles are 48° and 76°. What is the size of the third angle?
+
+29. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Three angles meet at a point on a straight line. Two of the angles are 48° and 76°. What is the size of the third angle?
+
+30. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Three angles meet at a point on a straight line. Two of the angles are 48° and 76°. What is the size of the third angle?
+
+31. Look at the picture! {user_name} is looking at this.
+Three angles lie on a straight line. One is a right angle (90°) and another is 37°. Calculate the size of the third angle.
+
+32. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Three angles lie on a straight line. One is a right angle (90°) and another is 37°. Calculate the size of the third angle.
+
+33. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Three angles lie on a straight line. One is a right angle (90°) and another is 37°. Calculate the size of the third angle.
+
+34. Look at the picture! {user_name} is looking at this.
+Three angles meet at a point on a straight line. One angle is 50°. The other two angles are equal in size. What is the size of each of the two equal angles?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Three angles meet at a point on a straight line. One angle is 50°. The other two angles are equal in size. What is the size of each of the two equal angles?
+
+36. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Three angles meet at a point on a straight line. One angle is 50°. The other two angles are equal in size. What is the size of each of the two equal angles?
+
+37. Look at the picture! {user_name} is looking at this.
+Four angles lie on a straight line. Three of the angles are 28°, 54°, and 63°. Calculate the size of the fourth angle.
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Four angles lie on a straight line. Three of the angles are 28°, 54°, and 63°. Calculate the size of the fourth angle.
+
+39. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Four angles lie on a straight line. Three of the angles are 28°, 54°, and 63°. Calculate the size of the fourth angle.
+
+40. Look at the picture! {user_name} is looking at this.
+Two angles, angle A and angle B, meet at a point on a straight line. Angle A is three times the size of angle B. What is the size of angle A?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Two angles, angle A and angle B, meet at a point on a straight line. Angle A is three times the size of angle B. What is the size of angle A?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Two angles, angle A and angle B, meet at a point on a straight line. Angle A is three times the size of angle B. What is the size of angle A?

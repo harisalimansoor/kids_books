@@ -1,0 +1,13 @@
+###################################
+Isosceles triangles (acute dual-solution vs obtuse single-solution; embedded in rectangles); polygon interior angle sums ((n-2) x 180^ degrees); composite shapes meeting at a point (pentagon 108^ degrees + equilateral triangle 60^ degrees \implies 192^ degrees)
+###################################
+Domain: Geometry: Properties of Shapes
+
+1. Isosceles triangles (acute dual-solution vs obtuse single-solution; embedded in rectangles)
+   From: Isosceles triangles (acute dual-solution vs obtuse single-solution; embedded in rectangles)
+
+2. Polygon interior angle sums ((n-2) × 180^°)
+   From: polygon interior angle sums ($(n-2) × 180^°$)
+
+3. Composite shapes meeting at a point (pentagon 108^° + equilateral triangle 60^° \implies 192^°)
+   From: composite shapes meeting at a point (pentagon $108^°$ + equilateral triangle $60^° \implies 192^°$)

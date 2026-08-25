@@ -1,0 +1,194 @@
+###################################
+Time conversions, leap years, calendar intervals, and 24-hour clock timetables
+###################################
+
+--- Time conversions ---
+
+1. Look at the picture! {user_name} is looking at this.
+A runner completed a race in 3 hours and 42 minutes. How many minutes did the race take in total?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+A runner completed a race in 3 hours and 42 minutes. How many minutes did the race take in total?
+
+3. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A runner completed a race in 3 hours and 42 minutes. How many minutes did the race take in total?
+
+4. Look at the picture! {user_name} is looking at this.
+A film lasts 138 minutes. Express this time in hours and minutes.
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+A film lasts 138 minutes. Express this time in hours and minutes.
+
+6. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A film lasts 138 minutes. Express this time in hours and minutes.
+
+7. Look at the picture! {user_name} is looking at this.
+A space probe takes 3 minutes and 48 seconds to send a signal to Earth. Convert this time entirely into seconds.
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A space probe takes 3 minutes and 48 seconds to send a signal to Earth. Convert this time entirely into seconds.
+
+9. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A space probe takes 3 minutes and 48 seconds to send a signal to Earth. Convert this time entirely into seconds.
+
+10. Look at the picture! {user_name} is looking at this.
+A science experiment took 325 seconds. Write this duration in minutes and seconds.
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A science experiment took 325 seconds. Write this duration in minutes and seconds.
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A science experiment took 325 seconds. Write this duration in minutes and seconds.
+
+13. Look at the picture! {user_name} is looking at this.
+Convert 4.75 hours into hours and minutes.
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Convert 4.75 hours into hours and minutes.
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Convert 4.75 hours into hours and minutes.
+
+--- Leap years ---
+
+16. Look at the picture! {user_name} is looking at this.
+How many days are there altogether in a leap year?
+
+17. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+How many days are there altogether in a leap year?
+
+18. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+How many days are there altogether in a leap year?
+
+19. Look at the picture! {user_name} is looking at this.
+Leap years occur every 4 years. What is the next leap year after 2028?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Leap years occur every 4 years. What is the next leap year after 2028?
+
+21. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Leap years occur every 4 years. What is the next leap year after 2028?
+
+22. Look at the picture! {user_name} is looking at this.
+How many total days are there altogether in January, February, and March during a leap year?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many total days are there altogether in January, February, and March during a leap year?
+
+24. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+How many total days are there altogether in January, February, and March during a leap year?
+
+25. Look at the picture! {user_name} is looking at this.
+A leap year has 366 days. How many full weeks and remaining days is this?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A leap year has 366 days. How many full weeks and remaining days is this?
+
+27. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A leap year has 366 days. How many full weeks and remaining days is this?
+
+28. Look at the picture! {user_name} is looking at this.
+A primary school opened in the leap year 2004. How many leap years occurred from 2004 to 2024 inclusive?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A primary school opened in the leap year 2004. How many leap years occurred from 2004 to 2024 inclusive?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A primary school opened in the leap year 2004. How many leap years occurred from 2004 to 2024 inclusive?
+
+--- Calendar intervals ---
+
+31. Look at the picture! {user_name} is looking at this.
+A local leisure centre was closed for refurbishment for 5 weeks and 3 days. How many days was the leisure centre closed in total?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+A local leisure centre was closed for refurbishment for 5 weeks and 3 days. How many days was the leisure centre closed in total?
+
+33. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A local leisure centre was closed for refurbishment for 5 weeks and 3 days. How many days was the leisure centre closed in total?
+
+34. Look at the picture! {user_name} is looking at this.
+A library book is borrowed on 24 April. It must be returned in exactly 21 days. On what date is the book due back? (April has 30 days.)
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+A library book is borrowed on 24 April. It must be returned in exactly 21 days. On what date is the book due back? (April has 30 days.)
+
+36. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A library book is borrowed on 24 April. It must be returned in exactly 21 days. On what date is the book due back? (April has 30 days.)
+
+37. Look at the picture! {user_name} is looking at this.
+A holiday activity club starts on 18 July and ends on 6 August. How many days does the club run for in total, including both the start date and the end date? (July has 31 days.)
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+A holiday activity club starts on 18 July and ends on 6 August. How many days does the club run for in total, including both the start date and the end date? (July has 31 days.)
+
+39. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A holiday activity club starts on 18 July and ends on 6 August. How many days does the club run for in total, including both the start date and the end date? (July has 31 days.)
+
+40. Look at the picture! {user_name} is looking at this.
+An art exhibition opens on 12 October and runs for 3 weeks and 4 days. On what date does the exhibition end? (October has 31 days.)
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An art exhibition opens on 12 October and runs for 3 weeks and 4 days. On what date does the exhibition end? (October has 31 days.)
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+An art exhibition opens on 12 October and runs for 3 weeks and 4 days. On what date does the exhibition end? (October has 31 days.)
+
+--- 24-hour clock timetables ---
+
+43. Look at the picture! {user_name} is looking at this.
+A bus departs from the Town Hall at 08:45 and arrives at the Train Station at 09:32. How many minutes does the journey take?
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A bus departs from the Town Hall at 08:45 and arrives at the Train Station at 09:32. How many minutes does the journey take?
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A bus departs from the Town Hall at 08:45 and arrives at the Train Station at 09:32. How many minutes does the journey take?
+
+46. Look at the picture! {user_name} is looking at this.
+A train stops at Station B at 14:48 and reaches Station C at 15:22. How many minutes does the journey between Station B and Station C take?
+
+47. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A train stops at Station B at 14:48 and reaches Station C at 15:22. How many minutes does the journey between Station B and Station C take?
+
+48. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A train stops at Station B at 14:48 and reaches Station C at 15:22. How many minutes does the journey between Station B and Station C take?
+
+49. Look at the picture! {user_name} is looking at this.
+A coach leaves Manchester at 10:40 and arrives in London at 14:15. How long did the coach journey take in hours and minutes?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A coach leaves Manchester at 10:40 and arrives in London at 14:15. How long did the coach journey take in hours and minutes?
+
+51. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A coach leaves Manchester at 10:40 and arrives in London at 14:15. How long did the coach journey take in hours and minutes?
+
+52. Look at the picture! {user_name} is looking at this.
+A ferry departs at 11:45. The sailing takes 1 hour and 50 minutes. At what time does the ferry arrive? Give your answer using the 24-hour clock.
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A ferry departs at 11:45. The sailing takes 1 hour and 50 minutes. At what time does the ferry arrive? Give your answer using the 24-hour clock.
+
+54. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A ferry departs at 11:45. The sailing takes 1 hour and 50 minutes. At what time does the ferry arrive? Give your answer using the 24-hour clock.
+
+55. Look at the picture! {user_name} is looking at this.
+Three trains travel from Leeds to York:
+- Train A departs at 07:15 and arrives at 08:02.
+- Train B departs at 07:45 and arrives at 08:26.
+- Train C departs at 08:10 and arrives at 09:01.
+Which train has the shortest journey time?
+
+56. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Three trains travel from Leeds to York:
+- Train A departs at 07:15 and arrives at 08:02.
+- Train B departs at 07:45 and arrives at 08:26.
+- Train C departs at 08:10 and arrives at 09:01.
+Which train has the shortest journey time?
+
+57. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Three trains travel from Leeds to York:
+- Train A departs at 07:15 and arrives at 08:02.
+- Train B departs at 07:45 and arrives at 08:26.
+- Train C departs at 08:10 and arrives at 09:01.
+Which train has the shortest journey time?

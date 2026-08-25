@@ -1,0 +1,52 @@
+=== Topic: Formal short division of up to 4-digit by 1-digit numbers with remainders ===
+Domain: Multiplication and Division
+
+--- Formal short division of up to 4-digit by 1-digit numbers with remainders ---
+
+Question 1: Calculate 754 ÷ 6. Give your answer with a remainder.
+Answer: 125 r 4
+Working: 7 ÷ 6 = 1 remainder 1. 15 ÷ 6 = 2 remainder 3. 34 ÷ 6 = 5 remainder 4. So, 754 ÷ 6 = 125 r 4.
+
+Question 2: Calculate 4,323 ÷ 7. Give your answer with a remainder.
+Answer: 617 r 4
+Working: 43 ÷ 7 = 6 remainder 1. 12 ÷ 7 = 1 remainder 5. 53 ÷ 7 = 7 remainder 4. So, 4,323 ÷ 7 = 617 r 4.
+
+Question 3: A baker bakes 1,845 biscuits. She packs them into boxes of 8 biscuits. How many biscuits are left over?
+Answer: 5
+Working: 1,845 ÷ 8 = 230 with a remainder of 5. Therefore, 5 biscuits are left over.
+
+Question 4: There are 1,375 pupils and staff going on a school trip. Each minibus can seat 9 passengers. How many minibuses are needed to transport everyone?
+Answer: 153
+Working: 1,375 ÷ 9 = 152 remainder 7. 152 minibuses seat 1,368 passengers, leaving 7 passengers. An extra minibus is needed, so 152 + 1 = 153 minibuses.
+
+Question 5: A factory produces 3,650 coloured pencils. The pencils are packed into tins of 6. How many full tins of pencils can be made?
+Answer: 608
+Working: 3,650 ÷ 6 = 608 remainder 2. Only full tins are counted, so 608 full tins can be made.
+
+Question 6: Four friends share £3,175 equally. Each friend receives a whole number of pounds. How many pounds are left over?
+Answer: £3
+Working: 3,175 ÷ 4 = 793 remainder 3. Each friend receives £793 and £3 is left over.
+
+Question 7: A whole number is divided by 8. The quotient is 346 and the remainder is 5. What was the original whole number?
+Answer: 2,773
+Working: Dividend = (quotient × divisor) + remainder = (346 × 8) + 5 = 2,768 + 5 = 2,773.
+
+Question 8: Calculate 2,543 ÷ 4. Express your answer as a mixed number.
+Answer: 635 3/4
+Working: 2,543 ÷ 4 = 635 with a remainder of 3. As a fraction of the divisor 4, the remainder is 3/4. So the answer is 635 3/4.
+
+Question 9: In the division calculation 5,8_7 ÷ 6 = 974 r 3, what is the missing tens digit?
+Answer: 4
+Working: Dividend = (974 × 6) + 3 = 5,844 + 3 = 5,847. The tens digit is 4.
+
+Question 10: A farmer collects 2,450 eggs. She packs as many eggs as possible into boxes of 6. She sells each full box for £2. How much money does she make in total?
+Answer: £816
+Working: 2,450 ÷ 6 = 408 remainder 2. She packs 408 full boxes. 408 × £2 = £816.
+
+Question 11: A 4-digit number is divided by 7. The whole number part of the quotient is 512. What is the greatest possible value of the original 4-digit number?
+Answer: 3,590
+Working: When dividing by 7, the largest possible remainder is 6. Greatest dividend = (512 × 7) + 6 = 3,584 + 6 = 3,590.
+
+Question 12: Class A shares 1,245 counters equally into 6 pots. Class B shares 1,658 counters equally into 8 pots. How many more leftover counters does Class A have than Class B?
+Answer: 1
+Working: Class A: 1,245 ÷ 6 = 207 remainder 3. Class B: 1,658 ÷ 8 = 207 remainder 2. Difference in leftover counters = 3 - 2 = 1.

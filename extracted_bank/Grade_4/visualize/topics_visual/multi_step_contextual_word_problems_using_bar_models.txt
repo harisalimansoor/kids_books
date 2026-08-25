@@ -1,0 +1,59 @@
+###################################
+Multi-step contextual word problems using bar models
+###################################
+
+--- Multi-step contextual word problems using bar models ---
+
+1. Look at the picture! {user_name} is looking at this.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A school library has 2,450 books in total. 1,125 are fiction books and 840 are non-fiction books. The rest are poetry books. How many poetry books are in the library?
+
+4. Look at the picture! {user_name} is looking at this.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Liam has 1,340 stickers. Maya has 475 more stickers than Liam. How many stickers do Liam and Maya have altogether?
+
+7. Look at the picture! {user_name} is looking at this.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+8. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+9. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A charity aims to raise £3,500 over a weekend. On Saturday, they raise £1,685. On Sunday morning, they raise £940. How much more money do they need to raise on Sunday afternoon to reach their target?
+
+10. Look at the picture! {user_name} is looking at this.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+12. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A festival had 4,200 visitors in total. 1,835 were adults, 1,460 were children, and the remaining visitors were volunteers. How many more children than volunteers attended the festival?
+
+13. Look at the picture! {user_name} is looking at this.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+15. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A bakery bakes 1,650 bread rolls over three days. On Friday, the bakery bakes 480 rolls. On Saturday, it bakes 210 more rolls than on Friday. How many rolls does the bakery bake on Sunday?
+
+16. Look at the picture! {user_name} is looking at this.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?
+
+18. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A warehouse holds three crates of apples: Crate A, Crate B, and Crate C. Crate A contains 1,250 apples. Crate B contains 380 fewer apples than Crate A. Crate C contains 540 more apples than Crate B. How many apples are there altogether in the three crates?

@@ -1,0 +1,66 @@
+=== Topic: Metric and imperial approximate equivalences and comparative conversions ===
+Domain: Measurement
+
+--- Metric and imperial approximate equivalences ---
+
+Question 1: Using the approximation 1 inch ≈ 2.5 cm, how many centimetres are equal to 6 inches?
+Answer: 15 cm
+Working: Multiply 6 by 2.5 cm: 6 × 2.5 = 15 cm.
+
+Question 2: Using the approximation 5 miles ≈ 8 km, calculate the distance in kilometres of a 15-mile journey.
+Answer: 24 km
+Working: Find how many 5-mile groups are in 15 miles: 15 ÷ 5 = 3. Multiply by 8 km: 3 × 8 = 24 km.
+
+Question 3: Using the approximation 1 kg ≈ 2.2 lb, convert a mass of 5 kg into pounds (lb).
+Answer: 11 lb
+Working: Multiply 5 by 2.2: 5 × 2.2 = 11 lb.
+
+Question 4: Using the approximation 1 pint ≈ 570 ml, how many millilitres of milk are in 4 pints?
+Answer: 2280 ml
+Working: Multiply 4 by 570 ml: 4 × 570 = 2280 ml.
+
+Question 5: Using the approximation 1 gallon ≈ 4.5 litres, convert 6 gallons of water into litres.
+Answer: 27 litres
+Working: Multiply 6 by 4.5 litres: 6 × 4.5 = 27 litres.
+
+Question 6: Using the approximation 5 miles ≈ 8 km, how many miles is a 40 km road race?
+Answer: 25 miles
+Working: Find how many 8 km units are in 40 km: 40 ÷ 8 = 5. Multiply by 5 miles: 5 × 5 = 25 miles.
+
+Question 7: Using the approximation 1 foot ≈ 30 cm, calculate the length in metres of an 8-foot wooden plank.
+Answer: 2.4 m
+Working: Convert feet to centimetres: 8 × 30 cm = 240 cm. Convert centimetres to metres: 240 ÷ 100 = 2.4 m.
+
+Question 8: A shelf is 35 cm wide. Using the approximation 1 inch ≈ 2.5 cm, calculate the width of the shelf in inches.
+Answer: 14 inches
+Working: Divide 35 cm by 2.5: 35 ÷ 2.5 = 350 ÷ 25 = 14 inches.
+
+Question 9: A recipe uses 3 pints of milk. Using the approximation 1 pint ≈ 570 ml, calculate the total amount of milk in litres.
+Answer: 1.71 litres
+Working: Calculate millilitres: 3 × 570 ml = 1710 ml. Convert millilitres to litres: 1710 ÷ 1000 = 1.71 litres.
+
+--- Comparative conversions ---
+
+Question 10: Jack walks 6 miles. Mia walks 10 km. Using the approximation 5 miles ≈ 8 km, who walks the greater distance?
+Answer: Mia
+Working: Convert Jack's distance to km: 5 miles ≈ 8 km, so 1 mile ≈ 1.6 km. 6 × 1.6 km = 9.6 km. Mia walks 10 km, and 10 km > 9.6 km, so Mia walks the greater distance.
+
+Question 11: Package A weighs 2.5 kg. Package B weighs 5 lb. Using the approximation 1 kg ≈ 2.2 lb, which package is heavier?
+Answer: Package A
+Working: Convert Package A to pounds: 2.5 × 2.2 = 5.5 lb. Compare the masses: 5.5 lb > 5 lb, so Package A is heavier.
+
+Question 12: Craft Shop A sells ribbon at £1.80 per yard (1 yard ≈ 90 cm). Craft Shop B sells the same ribbon at £2.10 per metre. Which shop is cheaper per metre?
+Answer: Shop A
+Working: In Shop A, 90 cm costs £1.80 = 180p. Cost of 10 cm = 180p ÷ 9 = 20p. Cost of 1 m (100 cm) = 10 × 20p = 200p = £2.00. In Shop B, 1 m costs £2.10. £2.00 < £2.10, so Shop A is cheaper per metre.
+
+Question 13: Jug A contains 2 pints of water (1 pint ≈ 570 ml). Jug B contains 1.2 litres of water. How many more millilitres of water does Jug B contain than Jug A?
+Answer: 60 ml
+Working: Jug A capacity: 2 × 570 ml = 1140 ml. Jug B capacity: 1.2 litres = 1200 ml. Difference: 1200 ml - 1140 ml = 60 ml.
+
+Question 14: A road sign in England shows that a castle is 25 miles away. A road sign in France shows that a museum is 42 km away. Using the approximation 5 miles ≈ 8 km, which destination is further away, and by how many kilometres?
+Answer: Museum by 2 km
+Working: Convert castle distance to km: (25 ÷ 5) × 8 km = 5 × 8 = 40 km. Compare: 42 km - 40 km = 2 km. The museum is further away by 2 km.
+
+Question 15: A farmer has two barrels of cider. Barrel A contains 10 gallons (1 gallon ≈ 4.5 litres). Barrel B contains 48 litres. Which barrel contains more cider, and by how many litres?
+Answer: Barrel B by 3 litres
+Working: Convert Barrel A to litres: 10 × 4.5 = 45 litres. Compare volumes: 48 - 45 = 3 litres. Barrel B contains more cider by 3 litres.

@@ -1,0 +1,201 @@
+###################################
+Order of operations (BIDMAS/BODMAS), bracket insertion puzzles, shape algebra total grids
+###################################
+
+--- Order of operations (BIDMAS/BODMAS) ---
+
+1. Look at the picture! {user_name} is looking at this.
+Calculate 8 + 4 × 7.
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 8 + 4 × 7.
+
+4. Look at the picture! {user_name} is looking at this.
+Calculate 45 - 30 ÷ 5.
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 45 - 30 ÷ 5.
+
+7. Look at the picture! {user_name} is looking at this.
+Calculate 60 - 6 × (4 + 3).
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Calculate 60 - 6 × (4 + 3).
+
+10. Look at the picture! {user_name} is looking at this.
+Calculate 15 + 3 × 4².
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Calculate 15 + 3 × 4².
+
+13. Look at the picture! {user_name} is looking at this.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 75 - 3 × (2³ + 4) ÷ 2.
+
+16. Look at the picture! {user_name} is looking at this.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A teacher buys 4 packs of 12 pens and 3 packs of 8 pencils. She gives 15 stationery items to her class. Write and evaluate a single calculation to find how many items she has left.
+
+--- Bracket insertion puzzles ---
+
+19. Look at the picture! {user_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 8 + 12 ÷ 4 = 5.
+
+22. Look at the picture! {user_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 7 × 9 - 4 = 35.
+
+25. Look at the picture! {user_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 18 + 6 ÷ 3 × 2 = 4.
+
+28. Look at the picture! {user_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 40 ÷ 2 + 6 × 3 = 15.
+
+31. Look at the picture! {user_name} is looking at this.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Insert one pair of brackets to make the calculation correct: 10 + 5 × 8 - 6 = 20.
+
+--- Shape algebra total grids ---
+
+34. Look at the picture! {user_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 3 identical stars and has a total of 27.
+Row 2 contains 1 star and 2 identical circles and has a total of 25.
+What is the value of 1 circle?
+
+37. Look at the picture! {user_name} is looking at this.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+In a puzzle grid:
+Column 1 contains 2 squares and 1 triangle with a total of 26.
+Column 2 contains 3 identical squares with a total of 21.
+What is the total of a row containing 1 square and 2 triangles?
+
+40. Look at the picture! {user_name} is looking at this.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+In a grid of shapes:
+Row 1 contains 2 hexagons and 1 heart with a total of 34.
+Row 2 contains 3 hexagons with a total of 36.
+Row 3 contains 1 heart and 2 diamonds with a total of 24.
+What is the value of 1 diamond?
+
+43. Look at the picture! {user_name} is looking at this.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+In a shape total grid:
+Row 1: 2 circles + 1 square = 22
+Row 2: 1 circle + 2 squares = 26
+What is the value of 1 square?
+
+46. Look at the picture! {user_name} is looking at this.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+In a shape grid:
+Row 1 contains 2 triangles and 2 pentagons, with a total sum of 40.
+Row 2 contains 3 triangles and 1 pentagon, with a total sum of 36.
+Find the value of 1 triangle.

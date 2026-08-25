@@ -1,0 +1,227 @@
+###################################
+Rounding to the nearest 10, 100, 1000 (midpoint rules)
+###################################
+
+--- Rounding to the nearest 10 ---
+
+1. Look at the picture! {user_name} is looking at this.
+Round 74 to the nearest 10.
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Round 74 to the nearest 10.
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Round 74 to the nearest 10.
+
+4. Look at the picture! {user_name} is looking at this.
+Round 368 to the nearest 10.
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Round 368 to the nearest 10.
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Round 368 to the nearest 10.
+
+7. Look at the picture! {user_name} is looking at this.
+Round 2,496 to the nearest 10.
+
+8. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Round 2,496 to the nearest 10.
+
+9. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Round 2,496 to the nearest 10.
+
+10. Look at the picture! {user_name} is looking at this.
+A school library has 1,384 books. What is the number of books rounded to the nearest 10?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A school library has 1,384 books. What is the number of books rounded to the nearest 10?
+
+12. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A school library has 1,384 books. What is the number of books rounded to the nearest 10?
+
+13. Look at the picture! {user_name} is looking at this.
+What is the smallest whole number that rounds to 340 when rounded to the nearest 10?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is the smallest whole number that rounds to 340 when rounded to the nearest 10?
+
+15. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+What is the smallest whole number that rounds to 340 when rounded to the nearest 10?
+
+16. Look at the picture! {user_name} is looking at this.
+What is the largest whole number that rounds to 560 when rounded to the nearest 10?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is the largest whole number that rounds to 560 when rounded to the nearest 10?
+
+18. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+What is the largest whole number that rounds to 560 when rounded to the nearest 10?
+
+--- Rounding to the nearest 100 ---
+
+19. Look at the picture! {user_name} is looking at this.
+Round 438 to the nearest 100.
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Round 438 to the nearest 100.
+
+21. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Round 438 to the nearest 100.
+
+22. Look at the picture! {user_name} is looking at this.
+Round 3,762 to the nearest 100.
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+Round 3,762 to the nearest 100.
+
+24. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Round 3,762 to the nearest 100.
+
+25. Look at the picture! {user_name} is looking at this.
+Round 5,971 to the nearest 100.
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Round 5,971 to the nearest 100.
+
+27. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Round 5,971 to the nearest 100.
+
+28. Look at the picture! {user_name} is looking at this.
+In a running event, 2,435 runners take part. What is the number of runners rounded to the nearest 100?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a running event, 2,435 runners take part. What is the number of runners rounded to the nearest 100?
+
+30. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+In a running event, 2,435 runners take part. What is the number of runners rounded to the nearest 100?
+
+31. Look at the picture! {user_name} is looking at this.
+What is the greatest whole number that rounds to 700 when rounded to the nearest 100?
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is the greatest whole number that rounds to 700 when rounded to the nearest 100?
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+What is the greatest whole number that rounds to 700 when rounded to the nearest 100?
+
+34. Look at the picture! {user_name} is looking at this.
+What is the smallest whole number that rounds to 1,500 when rounded to the nearest 100?
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is the smallest whole number that rounds to 1,500 when rounded to the nearest 100?
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+What is the smallest whole number that rounds to 1,500 when rounded to the nearest 100?
+
+--- Rounding to the nearest 1000 ---
+
+37. Look at the picture! {user_name} is looking at this.
+Round 3,240 to the nearest 1000.
+
+38. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Round 3,240 to the nearest 1000.
+
+39. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Round 3,240 to the nearest 1000.
+
+40. Look at the picture! {user_name} is looking at this.
+Round 7,819 to the nearest 1000.
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Round 7,819 to the nearest 1000.
+
+42. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Round 7,819 to the nearest 1000.
+
+43. Look at the picture! {user_name} is looking at this.
+An aeroplane flies at an altitude of 8,365 metres. Round this altitude to the nearest 1000 metres.
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+An aeroplane flies at an altitude of 8,365 metres. Round this altitude to the nearest 1000 metres.
+
+45. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+An aeroplane flies at an altitude of 8,365 metres. Round this altitude to the nearest 1000 metres.
+
+46. Look at the picture! {user_name} is looking at this.
+What is the smallest whole number that rounds to 6,000 when rounded to the nearest 1000?
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is the smallest whole number that rounds to 6,000 when rounded to the nearest 1000?
+
+48. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+What is the smallest whole number that rounds to 6,000 when rounded to the nearest 1000?
+
+49. Look at the picture! {user_name} is looking at this.
+What is the largest whole number that rounds to 4,000 when rounded to the nearest 1000?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is the largest whole number that rounds to 4,000 when rounded to the nearest 1000?
+
+51. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+What is the largest whole number that rounds to 4,000 when rounded to the nearest 1000?
+
+--- Midpoint rules ---
+
+52. Look at the picture! {user_name} is looking at this.
+What is the midpoint between 40 and 50 on a number line?
+
+53. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is the midpoint between 40 and 50 on a number line?
+
+54. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+What is the midpoint between 40 and 50 on a number line?
+
+55. Look at the picture! {user_name} is looking at this.
+What is the midpoint between 600 and 700 on a number line?
+
+56. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is the midpoint between 600 and 700 on a number line?
+
+57. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+What is the midpoint between 600 and 700 on a number line?
+
+58. Look at the picture! {user_name} is looking at this.
+What is the midpoint between 3,000 and 4,000 on a number line?
+
+59. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is the midpoint between 3,000 and 4,000 on a number line?
+
+60. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+What is the midpoint between 3,000 and 4,000 on a number line?
+
+61. Look at the picture! {user_name} is looking at this.
+The midpoint between 200 and 300 is 250. According to the midpoint rule, which hundred does 250 round to when rounded to the nearest 100?
+
+62. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+The midpoint between 200 and 300 is 250. According to the midpoint rule, which hundred does 250 round to when rounded to the nearest 100?
+
+63. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+The midpoint between 200 and 300 is 250. According to the midpoint rule, which hundred does 250 round to when rounded to the nearest 100?
+
+64. Look at the picture! {user_name} is looking at this.
+On a number line from 8,000 to 9,000, the midpoint is 8,500. Does 8,500 round to 8,000 or 9,000 when rounded to the nearest 1000?
+
+65. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+On a number line from 8,000 to 9,000, the midpoint is 8,500. Does 8,500 round to 8,000 or 9,000 when rounded to the nearest 1000?
+
+66. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+On a number line from 8,000 to 9,000, the midpoint is 8,500. Does 8,500 round to 8,000 or 9,000 when rounded to the nearest 1000?
+
+67. Look at the picture! {user_name} is looking at this.
+What is the smallest two-digit number that rounds up to 50 when rounded to the nearest 10 because it is at the midpoint?
+
+68. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+What is the smallest two-digit number that rounds up to 50 when rounded to the nearest 10 because it is at the midpoint?
+
+69. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+What is the smallest two-digit number that rounds up to 50 when rounded to the nearest 10 because it is at the midpoint?
+
+70. Look at the picture! {user_name} is looking at this.
+The midpoint between 4,000 and 5,000 is 4,500. Liam writes the number 4,499. Is 4,499 less than, equal to, or greater than the midpoint?
+
+71. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The midpoint between 4,000 and 5,000 is 4,500. Liam writes the number 4,499. Is 4,499 less than, equal to, or greater than the midpoint?
+
+72. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+The midpoint between 4,000 and 5,000 is 4,500. Liam writes the number 4,499. Is 4,499 less than, equal to, or greater than the midpoint?

@@ -1,0 +1,97 @@
+###################################
+Angles: identifying and ordering acute, right, and obtuse angles (<180^ degrees)
+###################################
+
+--- Identifying acute, right, and obtuse angles ---
+
+1. Look at the picture! {user_name} is looking at this.
+An angle measures 52°. Is this angle acute, right, or obtuse?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+An angle measures 52°. Is this angle acute, right, or obtuse?
+
+3. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+An angle measures 52°. Is this angle acute, right, or obtuse?
+
+4. Look at the picture! {user_name} is looking at this.
+What name is given to an angle that measures exactly 90°?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What name is given to an angle that measures exactly 90°?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+What name is given to an angle that measures exactly 90°?
+
+7. Look at the picture! {user_name} is looking at this.
+An angle measures 135°. Is this angle acute, right, or obtuse?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An angle measures 135°. Is this angle acute, right, or obtuse?
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+An angle measures 135°. Is this angle acute, right, or obtuse?
+
+10. Look at the picture! {user_name} is looking at this.
+An angle is smaller than a right angle. State whether this angle is acute or obtuse.
+
+11. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+An angle is smaller than a right angle. State whether this angle is acute or obtuse.
+
+12. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+An angle is smaller than a right angle. State whether this angle is acute or obtuse.
+
+13. Look at the picture! {user_name} is looking at this.
+A triangle has angles measuring 90°, 40°, and 50°. What type of angle are the 40° and 50° angles?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A triangle has angles measuring 90°, 40°, and 50°. What type of angle are the 40° and 50° angles?
+
+15. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A triangle has angles measuring 90°, 40°, and 50°. What type of angle are the 40° and 50° angles?
+
+--- Comparing and ordering angles up to two right angles ---
+
+16. Look at the picture! {user_name} is looking at this.
+Put these types of angles in order of size, starting with the smallest: right angle, acute angle, obtuse angle.
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Put these types of angles in order of size, starting with the smallest: right angle, acute angle, obtuse angle.
+
+18. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Put these types of angles in order of size, starting with the smallest: right angle, acute angle, obtuse angle.
+
+19. Look at the picture! {user_name} is looking at this.
+Order these angles from smallest to largest: 130°, 25°, 90°, 75°.
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Order these angles from smallest to largest: 130°, 25°, 90°, 75°.
+
+21. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Order these angles from smallest to largest: 130°, 25°, 90°, 75°.
+
+22. Look at the picture! {user_name} is looking at this.
+Four angles are measured: Angle A = 110°, Angle B = 35°, Angle C = 85°, Angle D = 160°. Write the letters of the angles in order from largest to smallest.
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Four angles are measured: Angle A = 110°, Angle B = 35°, Angle C = 85°, Angle D = 160°. Write the letters of the angles in order from largest to smallest.
+
+24. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Four angles are measured: Angle A = 110°, Angle B = 35°, Angle C = 85°, Angle D = 160°. Write the letters of the angles in order from largest to smallest.
+
+25. Look at the picture! {user_name} is looking at this.
+Two right angles together equal 180°. Is an angle of 145° greater than or less than two right angles?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Two right angles together equal 180°. Is an angle of 145° greater than or less than two right angles?
+
+27. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Two right angles together equal 180°. Is an angle of 145° greater than or less than two right angles?
+
+28. Look at the picture! {user_name} is looking at this.
+A quadrilateral has four angles: 90°, 125°, 65°, and 80°. What is the size of the largest angle?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+A quadrilateral has four angles: 90°, 125°, 65°, and 80°. What is the size of the largest angle?
+
+30. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A quadrilateral has four angles: 90°, 125°, 65°, and 80°. What is the size of the largest angle?
