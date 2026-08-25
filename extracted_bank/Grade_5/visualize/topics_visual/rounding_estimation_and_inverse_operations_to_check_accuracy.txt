@@ -1,0 +1,144 @@
+###################################
+Rounding, estimation, and inverse operations to check accuracy
+###################################
+
+--- Rounding ---
+
+1. Look at the picture! {user_name} is looking at this.
+Round 48,279 to the nearest 1,000.
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Round 48,279 to the nearest 1,000.
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Round 48,279 to the nearest 1,000.
+
+4. Look at the picture! {user_name} is looking at this.
+A runner records a total distance of 14,682 m. What is this distance rounded to the nearest 100 m?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A runner records a total distance of 14,682 m. What is this distance rounded to the nearest 100 m?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A runner records a total distance of 14,682 m. What is this distance rounded to the nearest 100 m?
+
+7. Look at the picture! {user_name} is looking at this.
+Round 364,520 to the nearest 10,000.
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Round 364,520 to the nearest 10,000.
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Round 364,520 to the nearest 10,000.
+
+10. Look at the picture! {user_name} is looking at this.
+A 5-digit whole number rounds to 40,000 when rounded to the nearest 10,000, and rounds to 38,000 when rounded to the nearest 1,000. What is the smallest possible value of this number?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A 5-digit whole number rounds to 40,000 when rounded to the nearest 10,000, and rounds to 38,000 when rounded to the nearest 1,000. What is the smallest possible value of this number?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A 5-digit whole number rounds to 40,000 when rounded to the nearest 10,000, and rounds to 38,000 when rounded to the nearest 1,000. What is the smallest possible value of this number?
+
+13. Look at the picture! {user_name} is looking at this.
+A stadium recorded attendance of 59,614 on Saturday and 24,530 on Sunday. Round each attendance to the nearest 10,000 and add the rounded numbers.
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A stadium recorded attendance of 59,614 on Saturday and 24,530 on Sunday. Round each attendance to the nearest 10,000 and add the rounded numbers.
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A stadium recorded attendance of 59,614 on Saturday and 24,530 on Sunday. Round each attendance to the nearest 10,000 and add the rounded numbers.
+
+--- Estimation ---
+
+16. Look at the picture! {user_name} is looking at this.
+Estimate the total of 39,215 and 41,870 by rounding each number to the nearest 10,000.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Estimate the total of 39,215 and 41,870 by rounding each number to the nearest 10,000.
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Estimate the total of 39,215 and 41,870 by rounding each number to the nearest 10,000.
+
+19. Look at the picture! {user_name} is looking at this.
+Estimate the difference between 78,410 and 29,650 by rounding each number to the nearest 1,000.
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Estimate the difference between 78,410 and 29,650 by rounding each number to the nearest 1,000.
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Estimate the difference between 78,410 and 29,650 by rounding each number to the nearest 1,000.
+
+22. Look at the picture! {user_name} is looking at this.
+A museum had 58,194 visitors in May and 31,826 visitors in June. Estimate how many more visitors arrived in May than June by rounding each value to the nearest 1,000.
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A museum had 58,194 visitors in May and 31,826 visitors in June. Estimate how many more visitors arrived in May than June by rounding each value to the nearest 1,000.
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A museum had 58,194 visitors in May and 31,826 visitors in June. Estimate how many more visitors arrived in May than June by rounding each value to the nearest 1,000.
+
+25. Look at the picture! {user_name} is looking at this.
+A delivery lorry carries 12,480 kg of gravel on Monday, 8,920 kg on Tuesday, and 15,610 kg on Wednesday. Estimate the total mass carried over the three days by rounding each amount to the nearest 1,000 kg.
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A delivery lorry carries 12,480 kg of gravel on Monday, 8,920 kg on Tuesday, and 15,610 kg on Wednesday. Estimate the total mass carried over the three days by rounding each amount to the nearest 1,000 kg.
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A delivery lorry carries 12,480 kg of gravel on Monday, 8,920 kg on Tuesday, and 15,610 kg on Wednesday. Estimate the total mass carried over the three days by rounding each amount to the nearest 1,000 kg.
+
+28. Look at the picture! {user_name} is looking at this.
+A school buys two sets of equipment costing £38.75 and £61.40. Estimate the total cost by rounding each amount to the nearest whole pound.
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A school buys two sets of equipment costing £38.75 and £61.40. Estimate the total cost by rounding each amount to the nearest whole pound.
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A school buys two sets of equipment costing £38.75 and £61.40. Estimate the total cost by rounding each amount to the nearest whole pound.
+
+--- Inverse operations to check accuracy ---
+
+31. Look at the picture! {user_name} is looking at this.
+A pupil calculates 54,328 - 21,815 = 32,513. Write the addition calculation using these three numbers to check the subtraction.
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A pupil calculates 54,328 - 21,815 = 32,513. Write the addition calculation using these three numbers to check the subtraction.
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A pupil calculates 54,328 - 21,815 = 32,513. Write the addition calculation using these three numbers to check the subtraction.
+
+34. Look at the picture! {user_name} is looking at this.
+Leo works out 45,619 + 23,784 = 69,403. Write a subtraction calculation that uses 69,403 to check whether Leo's answer is correct.
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Leo works out 45,619 + 23,784 = 69,403. Write a subtraction calculation that uses 69,403 to check whether Leo's answer is correct.
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Leo works out 45,619 + 23,784 = 69,403. Write a subtraction calculation that uses 69,403 to check whether Leo's answer is correct.
+
+37. Look at the picture! {user_name} is looking at this.
+Mia calculates 80,000 - 34,267 = 45,733. Use the inverse operation to calculate 45,733 + 34,267 to check if her answer is correct.
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Mia calculates 80,000 - 34,267 = 45,733. Use the inverse operation to calculate 45,733 + 34,267 to check if her answer is correct.
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Mia calculates 80,000 - 34,267 = 45,733. Use the inverse operation to calculate 45,733 + 34,267 to check if her answer is correct.
+
+40. Look at the picture! {user_name} is looking at this.
+Use an inverse operation to find the missing number: missing number + 16,840 = 50,000.
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use an inverse operation to find the missing number: missing number + 16,840 = 50,000.
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Use an inverse operation to find the missing number: missing number + 16,840 = 50,000.
+
+43. Look at the picture! {user_name} is looking at this.
+A student calculates 62,450 - 18,320 = 44,130. Check this calculation by adding 44,130 and 18,320. State whether the student's original answer is correct or incorrect.
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+A student calculates 62,450 - 18,320 = 44,130. Check this calculation by adding 44,130 and 18,320. State whether the student's original answer is correct or incorrect.
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A student calculates 62,450 - 18,320 = 44,130. Check this calculation by adding 44,130 and 18,320. State whether the student's original answer is correct or incorrect.

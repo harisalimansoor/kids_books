@@ -1,0 +1,70 @@
+=== Topic: Fractions of amounts and finding the whole from a fractional part ===
+Domain: Fractions, Decimals and Percentages
+
+--- Fractions of amounts ---
+
+Question 1: Calculate 1/6 of 54.
+Answer: 9
+Working: 54 ÷ 6 = 9
+
+Question 2: Work out 3/8 of 72.
+Answer: 27
+Working: 72 ÷ 8 = 9, then 9 × 3 = 27
+
+Question 3: Calculate 4/5 of £65.
+Answer: £52
+Working: £65 ÷ 5 = £13, then £13 × 4 = £52
+
+Question 4: A piece of ribbon is 2 m 40 cm long. Maya cuts off 3/4 of the ribbon. How many centimetres of ribbon does Maya cut off?
+Answer: 180 cm
+Working: 2 m 40 cm = 240 cm. 240 ÷ 4 = 60 cm. 60 × 3 = 180 cm.
+
+Question 5: A school library has 420 books. 2/7 of the books are non-fiction and the rest are fiction. How many fiction books are in the library?
+Answer: 300
+Working: 420 ÷ 7 = 60 books per seventh. Fiction fraction = 5/7. 60 × 5 = 300 fiction books.
+
+Question 6: Liam has £48. He spends 3/8 of his money on a book and 1/4 of his money on a game. How much money does Liam have left?
+Answer: £18
+Working: 3/8 of £48 = (48 ÷ 8) × 3 = £18. 1/4 of £48 = 48 ÷ 4 = £12. Total spent = £18 + £12 = £30. Remaining = £48 - £30 = £18.
+
+Question 7: A box holds 96 pencils. 5/8 of the pencils are blue, 1/6 of the pencils are red, and the rest are green. How many green pencils are in the box?
+Answer: 20
+Working: Blue pencils: 96 ÷ 8 × 5 = 60. Red pencils: 96 ÷ 6 = 16. Total blue and red = 60 + 16 = 76. Green pencils: 96 - 76 = 20.
+
+Question 8: A sack contains 3 kg 500 g of potatoes. A chef uses 3/5 of the sack for lunch and 1/10 of the sack for dinner. How many grams of potatoes are left in the sack?
+Answer: 1050 g
+Working: 3 kg 500 g = 3500 g. Lunch: 3500 ÷ 5 × 3 = 2100 g. Dinner: 3500 ÷ 10 = 350 g. Total used = 2100 + 350 = 2450 g. Left = 3500 - 2450 = 1050 g.
+
+--- Finding the whole from a fractional part ---
+
+Question 9: 1/5 of a number is 14. What is the number?
+Answer: 70
+Working: 14 × 5 = 70
+
+Question 10: 3/4 of a number is 36. What is the number?
+Answer: 48
+Working: 36 ÷ 3 = 12 (value of 1/4), then 12 × 4 = 48
+
+Question 11: 2/3 of the marbles in a bag is 28 marbles. How many marbles are in the whole bag?
+Answer: 42
+Working: 28 ÷ 2 = 14 (value of 1/3), then 14 × 3 = 42 marbles
+
+Question 12: Holly spent 4/7 of her pocket money on a book. The book cost £16. How much pocket money did Holly have at first?
+Answer: £28
+Working: £16 ÷ 4 = £4 (value of 1/7), then £4 × 7 = £28
+
+Question 13: 5/8 of the water in a measuring jug is 450 ml. What is the full capacity of the jug in millilitres?
+Answer: 720 ml
+Working: 450 ÷ 5 = 90 ml (value of 1/8), then 90 × 8 = 720 ml
+
+Question 14: James has read 3/5 of his book. He still has 64 pages left to read. How many pages are in the whole book?
+Answer: 160
+Working: Pages left = 1 - 3/5 = 2/5 of the book. 2/5 = 64 pages, so 1/5 = 64 ÷ 2 = 32 pages. Total pages = 32 × 5 = 160 pages.
+
+Question 15: 2/5 of number A is 24. 3/8 of number B is 24. What is the difference between number A and number B?
+Answer: 4
+Working: Number A: 24 ÷ 2 × 5 = 60. Number B: 24 ÷ 3 × 8 = 64. Difference = 64 - 60 = 4.
+
+Question 16: A runner has completed 5/6 of a race. So far, she has run 750 metres. What is the total length of the race in metres?
+Answer: 900 m
+Working: 750 ÷ 5 = 150 m (value of 1/6). Total length = 150 × 6 = 900 m.

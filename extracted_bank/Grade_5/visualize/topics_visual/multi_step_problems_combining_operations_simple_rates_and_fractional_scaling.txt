@@ -1,0 +1,162 @@
+###################################
+Multi-step problems combining operations, simple rates, and fractional scaling
+###################################
+
+--- Multi-step problems combining operations ---
+
+1. Look at the picture! {user_name} is looking at this.
+A baker packs 6 boxes of cupcakes. Each box contains 12 cupcakes. He sells 45 cupcakes in the morning. How many cupcakes does he have left?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A baker packs 6 boxes of cupcakes. Each box contains 12 cupcakes. He sells 45 cupcakes in the morning. How many cupcakes does he have left?
+
+3. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A baker packs 6 boxes of cupcakes. Each box contains 12 cupcakes. He sells 45 cupcakes in the morning. How many cupcakes does he have left?
+
+4. Look at the picture! {user_name} is looking at this.
+A school buys 4 packs of whiteboards with 25 boards in each pack, and 3 packs of pens with 30 pens in each pack. How many items were bought altogether?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A school buys 4 packs of whiteboards with 25 boards in each pack, and 3 packs of pens with 30 pens in each pack. How many items were bought altogether?
+
+6. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A school buys 4 packs of whiteboards with 25 boards in each pack, and 3 packs of pens with 30 pens in each pack. How many items were bought altogether?
+
+7. Look at the picture! {user_name} is looking at this.
+A cinema sells adult tickets for £8 each and child tickets for £5 each. A family buys 3 adult tickets and 4 child tickets. They pay with a £50 note. How much change do they receive?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A cinema sells adult tickets for £8 each and child tickets for £5 each. A family buys 3 adult tickets and 4 child tickets. They pay with a £50 note. How much change do they receive?
+
+9. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A cinema sells adult tickets for £8 each and child tickets for £5 each. A family buys 3 adult tickets and 4 child tickets. They pay with a £50 note. How much change do they receive?
+
+10. Look at the picture! {user_name} is looking at this.
+A factory produces 1 240 pencils each day. Over 5 working days, all the pencils produced are packed into boxes of 8. How many full boxes of pencils are made?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+A factory produces 1 240 pencils each day. Over 5 working days, all the pencils produced are packed into boxes of 8. How many full boxes of pencils are made?
+
+12. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A factory produces 1 240 pencils each day. Over 5 working days, all the pencils produced are packed into boxes of 8. How many full boxes of pencils are made?
+
+13. Look at the picture! {user_name} is looking at this.
+A charity raises money by selling 350 raffle tickets at £3 each. The total cost of the prizes is £175 and the printing costs are £25. The remaining money is shared equally between 5 local projects. How much money does each project receive?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A charity raises money by selling 350 raffle tickets at £3 each. The total cost of the prizes is £175 and the printing costs are £25. The remaining money is shared equally between 5 local projects. How much money does each project receive?
+
+15. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A charity raises money by selling 350 raffle tickets at £3 each. The total cost of the prizes is £175 and the printing costs are £25. The remaining money is shared equally between 5 local projects. How much money does each project receive?
+
+--- Simple rates ---
+
+16. Look at the picture! {user_name} is looking at this.
+A car travels at a steady speed of 45 miles per hour. How far does the car travel in 3 hours?
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A car travels at a steady speed of 45 miles per hour. How far does the car travel in 3 hours?
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A car travels at a steady speed of 45 miles per hour. How far does the car travel in 3 hours?
+
+19. Look at the picture! {user_name} is looking at this.
+A machine prints 120 leaflets in 4 minutes at a constant rate. How many leaflets does the machine print in 1 minute?
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A machine prints 120 leaflets in 4 minutes at a constant rate. How many leaflets does the machine print in 1 minute?
+
+21. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A machine prints 120 leaflets in 4 minutes at a constant rate. How many leaflets does the machine print in 1 minute?
+
+22. Look at the picture! {user_name} is looking at this.
+Apples cost £1.80 for 1 kg. What is the total cost of 4 kg of apples?
+
+23. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Apples cost £1.80 for 1 kg. What is the total cost of 4 kg of apples?
+
+24. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Apples cost £1.80 for 1 kg. What is the total cost of 4 kg of apples?
+
+25. Look at the picture! {user_name} is looking at this.
+A runner drinks 250 ml of water every 15 minutes during a race. How many litres of water does the runner drink in 2 hours?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A runner drinks 250 ml of water every 15 minutes during a race. How many litres of water does the runner drink in 2 hours?
+
+27. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A runner drinks 250 ml of water every 15 minutes during a race. How many litres of water does the runner drink in 2 hours?
+
+28. Look at the picture! {user_name} is looking at this.
+A printing press produces 450 pages in 5 minutes. At this same rate, how many pages will it produce in 12 minutes?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A printing press produces 450 pages in 5 minutes. At this same rate, how many pages will it produce in 12 minutes?
+
+30. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A printing press produces 450 pages in 5 minutes. At this same rate, how many pages will it produce in 12 minutes?
+
+31. Look at the picture! {user_name} is looking at this.
+Tap A fills a 60-litre water tank in 4 minutes. Tap B fills the same 60-litre tank in 6 minutes. How many litres of water will both taps together pour into the tank in 3 minutes?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Tap A fills a 60-litre water tank in 4 minutes. Tap B fills the same 60-litre tank in 6 minutes. How many litres of water will both taps together pour into the tank in 3 minutes?
+
+33. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Tap A fills a 60-litre water tank in 4 minutes. Tap B fills the same 60-litre tank in 6 minutes. How many litres of water will both taps together pour into the tank in 3 minutes?
+
+--- Fractional scaling ---
+
+34. Look at the picture! {user_name} is looking at this.
+A recipe for 4 pancakes needs 200 g of flour. How many grams of flour are needed to make 2 pancakes?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A recipe for 4 pancakes needs 200 g of flour. How many grams of flour are needed to make 2 pancakes?
+
+36. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A recipe for 4 pancakes needs 200 g of flour. How many grams of flour are needed to make 2 pancakes?
+
+37. Look at the picture! {user_name} is looking at this.
+A piece of ribbon is 120 cm long. Maya cuts off a piece that is 3/4 the length of the ribbon. How long is the piece of ribbon Maya cuts off?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+A piece of ribbon is 120 cm long. Maya cuts off a piece that is 3/4 the length of the ribbon. How long is the piece of ribbon Maya cuts off?
+
+39. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A piece of ribbon is 120 cm long. Maya cuts off a piece that is 3/4 the length of the ribbon. How long is the piece of ribbon Maya cuts off?
+
+40. Look at the picture! {user_name} is looking at this.
+A large bottle holds 1 500 ml of juice. A small bottle holds 2/5 of the amount of juice in the large bottle. How much juice does the small bottle hold?
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+A large bottle holds 1 500 ml of juice. A small bottle holds 2/5 of the amount of juice in the large bottle. How much juice does the small bottle hold?
+
+42. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A large bottle holds 1 500 ml of juice. A small bottle holds 2/5 of the amount of juice in the large bottle. How much juice does the small bottle hold?
+
+43. Look at the picture! {user_name} is looking at this.
+A recipe for 10 flapjacks requires 80 g of butter. How many grams of butter are required to make 15 flapjacks?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+A recipe for 10 flapjacks requires 80 g of butter. How many grams of butter are required to make 15 flapjacks?
+
+45. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A recipe for 10 flapjacks requires 80 g of butter. How many grams of butter are required to make 15 flapjacks?
+
+46. Look at the picture! {user_name} is looking at this.
+A swimming club has 180 members. 2/3 of the members are juniors. 3/4 of the junior members are girls. How many junior members are girls?
+
+47. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A swimming club has 180 members. 2/3 of the members are juniors. 3/4 of the junior members are girls. How many junior members are girls?
+
+48. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A swimming club has 180 members. 2/3 of the members are juniors. 3/4 of the junior members are girls. How many junior members are girls?
+
+49. Look at the picture! {user_name} is looking at this.
+A standard model car is 40 cm long. A scale replica is made to 3/8 of the length of the standard model. A miniature pocket version is then made to 2/3 of the replica's length. What is the length of the miniature pocket version in centimetres?
+
+50. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A standard model car is 40 cm long. A scale replica is made to 3/8 of the length of the standard model. A miniature pocket version is then made to 2/3 of the replica's length. What is the length of the miniature pocket version in centimetres?
+
+51. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A standard model car is 40 cm long. A scale replica is made to 3/8 of the length of the standard model. A miniature pocket version is then made to 2/3 of the replica's length. What is the length of the miniature pocket version in centimetres?

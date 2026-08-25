@@ -1,0 +1,191 @@
+###################################
+Classifying, estimating, measuring, and drawing acute, obtuse, and reflex angles in degrees
+###################################
+
+--- Classifying acute, obtuse, and reflex angles ---
+
+1. Look at the picture! {user_name} is looking at this.
+An angle measures 74°. Classify this angle as acute, obtuse, or reflex.
+
+2. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+An angle measures 74°. Classify this angle as acute, obtuse, or reflex.
+
+3. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+An angle measures 74°. Classify this angle as acute, obtuse, or reflex.
+
+4. Look at the picture! {user_name} is looking at this.
+An angle measures 138°. Classify this angle as acute, obtuse, or reflex.
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+An angle measures 138°. Classify this angle as acute, obtuse, or reflex.
+
+6. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+An angle measures 138°. Classify this angle as acute, obtuse, or reflex.
+
+7. Look at the picture! {user_name} is looking at this.
+An angle measures 245°. Classify this angle as acute, obtuse, or reflex.
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+An angle measures 245°. Classify this angle as acute, obtuse, or reflex.
+
+9. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+An angle measures 245°. Classify this angle as acute, obtuse, or reflex.
+
+10. Look at the picture! {user_name} is looking at this.
+Angle A measures 95°, Angle B measures 89°, and Angle C measures 190°. Which of these three angles is an obtuse angle?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Angle A measures 95°, Angle B measures 89°, and Angle C measures 190°. Which of these three angles is an obtuse angle?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Angle A measures 95°, Angle B measures 89°, and Angle C measures 190°. Which of these three angles is an obtuse angle?
+
+13. Look at the picture! {user_name} is looking at this.
+Look at these angle sizes: 45°, 185°, 92°, 270°, 179°, 310°. How many of these angles are reflex angles?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Look at these angle sizes: 45°, 185°, 92°, 270°, 179°, 310°. How many of these angles are reflex angles?
+
+15. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Look at these angle sizes: 45°, 185°, 92°, 270°, 179°, 310°. How many of these angles are reflex angles?
+
+16. Look at the picture! {user_name} is looking at this.
+A new angle is created by adding 35° to a right angle (90°). Classify the new angle as acute, obtuse, or reflex.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A new angle is created by adding 35° to a right angle (90°). Classify the new angle as acute, obtuse, or reflex.
+
+18. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A new angle is created by adding 35° to a right angle (90°). Classify the new angle as acute, obtuse, or reflex.
+
+--- Estimating acute, obtuse, and reflex angles ---
+
+19. Look at the picture! {user_name} is looking at this.
+An angle is estimated to be 5° less than a right angle. What is the size of this angle in degrees?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+An angle is estimated to be 5° less than a right angle. What is the size of this angle in degrees?
+
+21. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+An angle is estimated to be 5° less than a right angle. What is the size of this angle in degrees?
+
+22. Look at the picture! {user_name} is looking at this.
+An angle is exactly halfway between a right angle (90°) and a straight line (180°). What is the size of this angle in degrees?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+An angle is exactly halfway between a right angle (90°) and a straight line (180°). What is the size of this angle in degrees?
+
+24. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+An angle is exactly halfway between a right angle (90°) and a straight line (180°). What is the size of this angle in degrees?
+
+25. Look at the picture! {user_name} is looking at this.
+A spinner turns through two whole right angles plus another half of a right angle. How many degrees has the spinner turned in total?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A spinner turns through two whole right angles plus another half of a right angle. How many degrees has the spinner turned in total?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A spinner turns through two whole right angles plus another half of a right angle. How many degrees has the spinner turned in total?
+
+28. Look at the picture! {user_name} is looking at this.
+A reflex angle is estimated to be 30° less than a full turn of 360°. What is the estimated size of this reflex angle in degrees?
+
+29. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A reflex angle is estimated to be 30° less than a full turn of 360°. What is the estimated size of this reflex angle in degrees?
+
+30. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A reflex angle is estimated to be 30° less than a full turn of 360°. What is the estimated size of this reflex angle in degrees?
+
+31. Look at the picture! {user_name} is looking at this.
+Angle P is estimated to be 40° and angle Q is estimated to be 135°. What is the estimated difference in degrees between angle Q and angle P?
+
+32. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Angle P is estimated to be 40° and angle Q is estimated to be 135°. What is the estimated difference in degrees between angle Q and angle P?
+
+33. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Angle P is estimated to be 40° and angle Q is estimated to be 135°. What is the estimated difference in degrees between angle Q and angle P?
+
+--- Measuring angles in degrees ---
+
+34. Look at the picture! {user_name} is looking at this.
+A protractor is placed on an acute angle. The baseline aligns with 0° on the inner scale and the other ray passes through 65° on the same scale. What is the size of the angle in degrees?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A protractor is placed on an acute angle. The baseline aligns with 0° on the inner scale and the other ray passes through 65° on the same scale. What is the size of the angle in degrees?
+
+36. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A protractor is placed on an acute angle. The baseline aligns with 0° on the inner scale and the other ray passes through 65° on the same scale. What is the size of the angle in degrees?
+
+37. Look at the picture! {user_name} is looking at this.
+Maya uses a protractor to measure an obtuse angle. The baseline is at 0° on the outer scale. The other ray points to the mark that reads 50° on the inner scale and 130° on the outer scale. What is the correct measurement of this obtuse angle in degrees?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Maya uses a protractor to measure an obtuse angle. The baseline is at 0° on the outer scale. The other ray points to the mark that reads 50° on the inner scale and 130° on the outer scale. What is the correct measurement of this obtuse angle in degrees?
+
+39. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Maya uses a protractor to measure an obtuse angle. The baseline is at 0° on the outer scale. The other ray points to the mark that reads 50° on the inner scale and 130° on the outer scale. What is the correct measurement of this obtuse angle in degrees?
+
+40. Look at the picture! {user_name} is looking at this.
+Oliver measures an angle starting from 0° on the outer scale of a protractor. The other ray points exactly halfway between 70° and 80° on the outer scale. What is the size of the angle in degrees?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Oliver measures an angle starting from 0° on the outer scale of a protractor. The other ray points exactly halfway between 70° and 80° on the outer scale. What is the size of the angle in degrees?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Oliver measures an angle starting from 0° on the outer scale of a protractor. The other ray points exactly halfway between 70° and 80° on the outer scale. What is the size of the angle in degrees?
+
+43. Look at the picture! {user_name} is looking at this.
+A protractor is placed over an angle. One ray aligns with 25° on the outer scale, and the other ray aligns with 115° on the same outer scale. What is the size of the angle between the two rays in degrees?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A protractor is placed over an angle. One ray aligns with 25° on the outer scale, and the other ray aligns with 115° on the same outer scale. What is the size of the angle between the two rays in degrees?
+
+45. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A protractor is placed over an angle. One ray aligns with 25° on the outer scale, and the other ray aligns with 115° on the same outer scale. What is the size of the angle between the two rays in degrees?
+
+46. Look at the picture! {user_name} is looking at this.
+To measure a reflex angle, Liam measures the smaller interior angle at the same vertex using a 180° protractor and finds it is 110°. What is the size of the reflex angle in degrees?
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+To measure a reflex angle, Liam measures the smaller interior angle at the same vertex using a 180° protractor and finds it is 110°. What is the size of the reflex angle in degrees?
+
+48. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+To measure a reflex angle, Liam measures the smaller interior angle at the same vertex using a 180° protractor and finds it is 110°. What is the size of the reflex angle in degrees?
+
+--- Drawing angles in degrees ---
+
+49. Look at the picture! {user_name} is looking at this.
+A pupil draws a horizontal line and places the centre of a protractor on the left endpoint. Starting from 0° on the baseline, how many degrees along the scale must they count to draw an angle of 52°?
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+A pupil draws a horizontal line and places the centre of a protractor on the left endpoint. Starting from 0° on the baseline, how many degrees along the scale must they count to draw an angle of 52°?
+
+51. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A pupil draws a horizontal line and places the centre of a protractor on the left endpoint. Starting from 0° on the baseline, how many degrees along the scale must they count to draw an angle of 52°?
+
+52. Look at the picture! {user_name} is looking at this.
+Gemma draws a straight line of 180°. She wants to draw a reflex angle of 220° using the same baseline and vertex. How many degrees past the straight line must she measure and draw?
+
+53. Look at the picture! {user_name} and {father_name} are looking at this together.
+Gemma draws a straight line of 180°. She wants to draw a reflex angle of 220° using the same baseline and vertex. How many degrees past the straight line must she measure and draw?
+
+54. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Gemma draws a straight line of 180°. She wants to draw a reflex angle of 220° using the same baseline and vertex. How many degrees past the straight line must she measure and draw?
+
+55. Look at the picture! {user_name} is looking at this.
+A pupil draws an angle of 35° and then draws an adjacent angle of 55° sharing the same vertex and middle line. What is the total combined size of the two drawn angles in degrees?
+
+56. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A pupil draws an angle of 35° and then draws an adjacent angle of 55° sharing the same vertex and middle line. What is the total combined size of the two drawn angles in degrees?
+
+57. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A pupil draws an angle of 35° and then draws an adjacent angle of 55° sharing the same vertex and middle line. What is the total combined size of the two drawn angles in degrees?
+
+58. Look at the picture! {user_name} is looking at this.
+Leo wants to draw a reflex angle of 305°. If he draws it by subtracting an angle from a full turn of 360°, what size angle must he measure and subtract from 360°?
+
+59. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Leo wants to draw a reflex angle of 305°. If he draws it by subtracting an angle from a full turn of 360°, what size angle must he measure and subtract from 360°?
+
+60. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Leo wants to draw a reflex angle of 305°. If he draws it by subtracting an angle from a full turn of 360°, what size angle must he measure and subtract from 360°?

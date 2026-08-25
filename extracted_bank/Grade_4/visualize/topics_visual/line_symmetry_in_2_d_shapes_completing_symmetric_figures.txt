@@ -1,0 +1,160 @@
+###################################
+Line symmetry in 2-D shapes; completing symmetric figures
+###################################
+
+--- Line symmetry in 2-D shapes ---
+
+1. Look at the picture! {user_name} is looking at this.
+How many lines of symmetry does a regular hexagon have?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many lines of symmetry does a regular hexagon have?
+
+3. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+How many lines of symmetry does a regular hexagon have?
+
+4. Look at the picture! {user_name} is looking at this.
+How many lines of symmetry does an equilateral triangle have?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many lines of symmetry does an equilateral triangle have?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+How many lines of symmetry does an equilateral triangle have?
+
+7. Look at the picture! {user_name} is looking at this.
+How many lines of symmetry does a rectangle have if its length is not equal to its width?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many lines of symmetry does a rectangle have if its length is not equal to its width?
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+How many lines of symmetry does a rectangle have if its length is not equal to its width?
+
+10. Look at the picture! {user_name} is looking at this.
+How many lines of symmetry does an isosceles triangle have?
+
+11. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+How many lines of symmetry does an isosceles triangle have?
+
+12. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+How many lines of symmetry does an isosceles triangle have?
+
+13. Look at the picture! {user_name} is looking at this.
+How many lines of symmetry does a rhombus have if it is not a square?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many lines of symmetry does a rhombus have if it is not a square?
+
+15. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+How many lines of symmetry does a rhombus have if it is not a square?
+
+16. Look at the picture! {user_name} is looking at this.
+How many lines of symmetry does a standard parallelogram have if none of its angles are right angles and not all sides are equal?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many lines of symmetry does a standard parallelogram have if none of its angles are right angles and not all sides are equal?
+
+18. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+How many lines of symmetry does a standard parallelogram have if none of its angles are right angles and not all sides are equal?
+
+19. Look at the picture! {user_name} is looking at this.
+How many lines of symmetry does an isosceles trapezium have?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many lines of symmetry does an isosceles trapezium have?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+How many lines of symmetry does an isosceles trapezium have?
+
+22. Look at the picture! {user_name} is looking at this.
+How many lines of symmetry does a kite shape have?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many lines of symmetry does a kite shape have?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+How many lines of symmetry does a kite shape have?
+
+25. Look at the picture! {user_name} is looking at this.
+A regular polygon has 8 equal sides and 8 equal angles. How many lines of symmetry does it have?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+A regular polygon has 8 equal sides and 8 equal angles. How many lines of symmetry does it have?
+
+27. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A regular polygon has 8 equal sides and 8 equal angles. How many lines of symmetry does it have?
+
+28. Look at the picture! {user_name} is looking at this.
+A shape is a quadrilateral with 4 equal sides and 4 right angles. How many lines of symmetry does this shape have?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+A shape is a quadrilateral with 4 equal sides and 4 right angles. How many lines of symmetry does this shape have?
+
+30. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A shape is a quadrilateral with 4 equal sides and 4 right angles. How many lines of symmetry does this shape have?
+
+--- Completing symmetric figures ---
+
+31. Look at the picture! {user_name} is looking at this.
+A pattern is drawn on a grid with a vertical line of symmetry. A point is plotted 5 squares to the left of the line of symmetry. How many squares to the right of the line of symmetry should the matching point be plotted?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+A pattern is drawn on a grid with a vertical line of symmetry. A point is plotted 5 squares to the left of the line of symmetry. How many squares to the right of the line of symmetry should the matching point be plotted?
+
+33. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A pattern is drawn on a grid with a vertical line of symmetry. A point is plotted 5 squares to the left of the line of symmetry. How many squares to the right of the line of symmetry should the matching point be plotted?
+
+34. Look at the picture! {user_name} is looking at this.
+A vertical line of symmetry is at x = 5 on a coordinate grid. A vertex of a shape is at (2, 4). What are the coordinates of the reflected vertex?
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A vertical line of symmetry is at x = 5 on a coordinate grid. A vertex of a shape is at (2, 4). What are the coordinates of the reflected vertex?
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A vertical line of symmetry is at x = 5 on a coordinate grid. A vertex of a shape is at (2, 4). What are the coordinates of the reflected vertex?
+
+37. Look at the picture! {user_name} is looking at this.
+A horizontal line of symmetry is at y = 4 on a coordinate grid. A point is plotted at (6, 1). What are the coordinates of the reflected point?
+
+38. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A horizontal line of symmetry is at y = 4 on a coordinate grid. A point is plotted at (6, 1). What are the coordinates of the reflected point?
+
+39. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A horizontal line of symmetry is at y = 4 on a coordinate grid. A point is plotted at (6, 1). What are the coordinates of the reflected point?
+
+40. Look at the picture! {user_name} is looking at this.
+A grid is divided into two halves by a vertical mirror line. To make a symmetrical design, 7 squares are shaded on the left side of the mirror line and 0 squares on the mirror line itself. How many squares in total must be shaded across the whole design?
+
+41. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A grid is divided into two halves by a vertical mirror line. To make a symmetrical design, 7 squares are shaded on the left side of the mirror line and 0 squares on the mirror line itself. How many squares in total must be shaded across the whole design?
+
+42. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A grid is divided into two halves by a vertical mirror line. To make a symmetrical design, 7 squares are shaded on the left side of the mirror line and 0 squares on the mirror line itself. How many squares in total must be shaded across the whole design?
+
+43. Look at the picture! {user_name} is looking at this.
+A vertical line of symmetry is at x = 7 on a coordinate grid. Two vertices on the left side of the line are plotted at (3, 2) and (5, 6). What are the coordinates of the matching reflected point for (3, 2)?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A vertical line of symmetry is at x = 7 on a coordinate grid. Two vertices on the left side of the line are plotted at (3, 2) and (5, 6). What are the coordinates of the matching reflected point for (3, 2)?
+
+45. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A vertical line of symmetry is at x = 7 on a coordinate grid. Two vertices on the left side of the line are plotted at (3, 2) and (5, 6). What are the coordinates of the matching reflected point for (3, 2)?
+
+46. Look at the picture! {user_name} is looking at this.
+A symmetrical polygon has a vertical line of symmetry. The left half of the shape has a width of 6 centimetres from the mirror line to its outermost edge. What is the total width of the completed shape in centimetres?
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A symmetrical polygon has a vertical line of symmetry. The left half of the shape has a width of 6 centimetres from the mirror line to its outermost edge. What is the total width of the completed shape in centimetres?
+
+48. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A symmetrical polygon has a vertical line of symmetry. The left half of the shape has a width of 6 centimetres from the mirror line to its outermost edge. What is the total width of the completed shape in centimetres?
+
+49. Look at the picture! {user_name} is looking at this.
+A horizontal line of symmetry is at y = 6 on a coordinate grid. A vertex of a symmetric hexagon is at (4, 9). What are the coordinates of the reflected vertex?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A horizontal line of symmetry is at y = 6 on a coordinate grid. A vertex of a symmetric hexagon is at (4, 9). What are the coordinates of the reflected vertex?
+
+51. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A horizontal line of symmetry is at y = 6 on a coordinate grid. A vertex of a symmetric hexagon is at (4, 9). What are the coordinates of the reflected vertex?

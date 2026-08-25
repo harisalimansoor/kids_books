@@ -1,0 +1,62 @@
+=== Topic: Calculating and comparing area of rectangles and estimating area of irregular shapes ===
+Domain: Measurement
+
+--- Calculating and comparing area of rectangles ---
+
+Question 1: A rectangular bookmark is 8 cm long and 5 cm wide. What is the area of the bookmark in square centimetres?
+Answer: 40 cm²
+Working: Area of a rectangle = length × width. Area = 8 × 5 = 40 cm².
+
+Question 2: A square floor tile has sides of length 9 cm. What is the area of the tile?
+Answer: 81 cm²
+Working: Area of a square = side × side. Area = 9 × 9 = 81 cm².
+
+Question 3: A rectangular flowerbed is 12 m long and 4 m wide. A second rectangular flowerbed is 8 m long and 7 m wide. How many square metres larger is the area of the second flowerbed than the first?
+Answer: 8 m²
+Working: First flowerbed area = 12 × 4 = 48 m². Second flowerbed area = 8 × 7 = 56 m². Difference = 56 - 48 = 8 m².
+
+Question 4: A rectangular noticeboard has an area of 72 cm² and a width of 8 cm. What is the length of the noticeboard in centimetres?
+Answer: 9 cm
+Working: Length = Area ÷ width. Length = 72 ÷ 8 = 9 cm.
+
+Question 5: A rectangular swimming pool is 15 m long and 6 m wide. A square paddling pool has sides of length 10 m. Which pool has the greater area, and by how many square metres?
+Answer: Paddling pool by 10 m²
+Working: Area of swimming pool = 15 × 6 = 90 m². Area of paddling pool = 10 × 10 = 100 m². 100 - 90 = 10 m². The paddling pool is larger by 10 m².
+
+Question 6: A rectangular tabletop is 2 m long and 60 cm wide. What is the area of the tabletop in square centimetres?
+Answer: 12 000 cm²
+Working: Convert length to centimetres: 2 m = 200 cm. Area = 200 × 60 = 12 000 cm².
+
+Question 7: Farmer Giles has two rectangular fields. Field A is 24 m long and 10 m wide. Field B is 16 m long and 15 m wide. What is the total area of the two fields combined in square metres?
+Answer: 480 m²
+Working: Area of Field A = 24 × 10 = 240 m². Area of Field B = 16 × 15 = 240 m². Total area = 240 + 240 = 480 m².
+
+Question 8: Two rectangles, A and B, each have an area of 36 cm². Rectangle A has a length of 9 cm and Rectangle B has a length of 12 cm. What is the difference between the perimeter of Rectangle A and the perimeter of Rectangle B?
+Answer: 4 cm
+Working: Rectangle A width = 36 ÷ 9 = 4 cm. Perimeter A = (9 + 4) × 2 = 26 cm. Rectangle B width = 36 ÷ 12 = 3 cm. Perimeter B = (12 + 3) × 2 = 30 cm. Difference = 30 - 26 = 4 cm.
+
+--- Estimating area of irregular shapes ---
+
+Question 9: An irregular shape drawn on a grid of 1 cm² squares covers 11 whole squares and 6 half squares. What is the estimated total area of the shape in square centimetres?
+Answer: 14 cm²
+Working: 11 whole squares = 11 cm². 6 half squares = 6 ÷ 2 = 3 cm². Total estimated area = 11 + 3 = 14 cm².
+
+Question 10: Maya places an autumn leaf onto a grid of 1 cm² squares and draws around it. Inside the outline, she counts 18 whole squares and 12 partial squares that each cover roughly half a square. What is the estimated area of the leaf?
+Answer: 24 cm²
+Working: Whole squares = 18 cm². 12 half squares = 12 × 0.5 = 6 cm². Estimated area = 18 + 6 = 24 cm².
+
+Question 11: An irregular garden pond drawn on a grid of 1 m² squares covers 27 full grid squares and 14 parts of squares. Counting each pair of part squares as 1 whole square metre, what is the estimated area of the pond?
+Answer: 34 m²
+Working: Full squares = 27 m². 14 part squares = 14 ÷ 2 = 7 m². Estimated area = 27 + 7 = 34 m².
+
+Question 12: A map of an island is drawn on a 1 cm² grid. The island covers 35 whole squares. It also covers 16 squares that are more than half covered (counted as 1 cm² each) and 14 squares that are less than half covered (counted as 0 cm²). What is the estimated area of the island?
+Answer: 51 cm²
+Working: Estimated area = 35 + 16 + 0 = 51 cm².
+
+Question 13: Leo estimates the area of an irregular paint spill on a 1 cm² grid. He finds 15 whole squares completely covered and 18 squares that are partly covered. If he counts each partly covered square as 0.5 cm², what is his estimated total area?
+Answer: 24 cm²
+Working: Whole squares = 15 cm². Partly covered squares = 18 × 0.5 = 9 cm². Estimated total area = 15 + 9 = 24 cm².
+
+Question 14: An irregular mosaic is planned on a 1 m² grid. The inner section covers 42 complete 1 m² squares. The outer border passes through 26 grid squares. The designer estimates the total area by adding the complete squares to half of the border squares. What is the estimated total area of the mosaic in square metres?
+Answer: 55 m²
+Working: Complete squares = 42 m². Border squares contribution = 26 ÷ 2 = 13 m². Estimated total area = 42 + 13 = 55 m².

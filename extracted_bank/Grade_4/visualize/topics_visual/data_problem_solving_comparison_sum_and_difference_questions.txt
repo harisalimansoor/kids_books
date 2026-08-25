@@ -1,0 +1,90 @@
+###################################
+Data problem solving: comparison, sum, and difference questions
+###################################
+
+--- Comparison questions ---
+
+1. Look at the picture! {user_name} is looking at this.
+A table shows the points scored by four school houses at sports day: Oak scored 425 points, Beech scored 390 points, Ash scored 460 points, and Elm scored 415 points. Write the names of the houses in order of points scored, from most to least.
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+A table shows the points scored by four school houses at sports day: Oak scored 425 points, Beech scored 390 points, Ash scored 460 points, and Elm scored 415 points. Write the names of the houses in order of points scored, from most to least.
+
+3. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A table shows the points scored by four school houses at sports day: Oak scored 425 points, Beech scored 390 points, Ash scored 460 points, and Elm scored 415 points. Write the names of the houses in order of points scored, from most to least.
+
+4. Look at the picture! {user_name} is looking at this.
+A bar chart shows the mass of paper collected for recycling by three classes: Class 4A collected 24 kg, Class 4B collected 72 kg, and Class 4C collected 48 kg. How many times as much paper did Class 4B collect compared to Class 4A?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+A bar chart shows the mass of paper collected for recycling by three classes: Class 4A collected 24 kg, Class 4B collected 72 kg, and Class 4C collected 48 kg. How many times as much paper did Class 4B collect compared to Class 4A?
+
+6. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A bar chart shows the mass of paper collected for recycling by three classes: Class 4A collected 24 kg, Class 4B collected 72 kg, and Class 4C collected 48 kg. How many times as much paper did Class 4B collect compared to Class 4A?
+
+7. Look at the picture! {user_name} is looking at this.
+A line graph tracks the temperature of water cooling in a science experiment over four recordings: at 0 minutes it was 80°C, at 5 minutes it was 62°C, at 10 minutes it was 48°C, and at 15 minutes it was 35°C. At which recorded time was the water temperature closest to 50°C?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A line graph tracks the temperature of water cooling in a science experiment over four recordings: at 0 minutes it was 80°C, at 5 minutes it was 62°C, at 10 minutes it was 48°C, and at 15 minutes it was 35°C. At which recorded time was the water temperature closest to 50°C?
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A line graph tracks the temperature of water cooling in a science experiment over four recordings: at 0 minutes it was 80°C, at 5 minutes it was 62°C, at 10 minutes it was 48°C, and at 15 minutes it was 35°C. At which recorded time was the water temperature closest to 50°C?
+
+--- Sum questions ---
+
+10. Look at the picture! {user_name} is looking at this.
+A table shows the number of swimmers at a leisure centre across four sessions on Saturday: Morning session had 145 swimmers, Midday session had 218 swimmers, Afternoon session had 264 swimmers, and Evening session had 183 swimmers. What was the total number of swimmers across all four sessions?
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A table shows the number of swimmers at a leisure centre across four sessions on Saturday: Morning session had 145 swimmers, Midday session had 218 swimmers, Afternoon session had 264 swimmers, and Evening session had 183 swimmers. What was the total number of swimmers across all four sessions?
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A table shows the number of swimmers at a leisure centre across four sessions on Saturday: Morning session had 145 swimmers, Midday session had 218 swimmers, Afternoon session had 264 swimmers, and Evening session had 183 swimmers. What was the total number of swimmers across all four sessions?
+
+13. Look at the picture! {user_name} is looking at this.
+A pictogram shows the number of trees planted by a conservation group over three weeks. The key shows that 1 tree symbol represents 40 trees. Week 1 has 3 symbols, Week 2 has 4 symbols, and Week 3 has 2 and a half symbols. How many trees were planted altogether over the three weeks?
+
+14. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A pictogram shows the number of trees planted by a conservation group over three weeks. The key shows that 1 tree symbol represents 40 trees. Week 1 has 3 symbols, Week 2 has 4 symbols, and Week 3 has 2 and a half symbols. How many trees were planted altogether over the three weeks?
+
+15. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A pictogram shows the number of trees planted by a conservation group over three weeks. The key shows that 1 tree symbol represents 40 trees. Week 1 has 3 symbols, Week 2 has 4 symbols, and Week 3 has 2 and a half symbols. How many trees were planted altogether over the three weeks?
+
+16. Look at the picture! {user_name} is looking at this.
+A line graph shows the distance a cyclist travelled in each stage of a three-stage charity ride: 18 km in stage 1, 23 km in stage 2, and 19 km in stage 3. What was the total distance cycled across all three stages?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A line graph shows the distance a cyclist travelled in each stage of a three-stage charity ride: 18 km in stage 1, 23 km in stage 2, and 19 km in stage 3. What was the total distance cycled across all three stages?
+
+18. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A line graph shows the distance a cyclist travelled in each stage of a three-stage charity ride: 18 km in stage 1, 23 km in stage 2, and 19 km in stage 3. What was the total distance cycled across all three stages?
+
+--- Difference questions ---
+
+19. Look at the picture! {user_name} is looking at this.
+A bar chart shows the number of books loaned by a community library: 186 books on Monday, 245 books on Tuesday, 198 books on Wednesday, and 312 books on Thursday. How many more books were loaned on Thursday than on Monday?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A bar chart shows the number of books loaned by a community library: 186 books on Monday, 245 books on Tuesday, 198 books on Wednesday, and 312 books on Thursday. How many more books were loaned on Thursday than on Monday?
+
+21. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A bar chart shows the number of books loaned by a community library: 186 books on Monday, 245 books on Tuesday, 198 books on Wednesday, and 312 books on Thursday. How many more books were loaned on Thursday than on Monday?
+
+22. Look at the picture! {user_name} is looking at this.
+A time graph shows the temperature inside a greenhouse from 8:00 am to 2:00 pm. At 8:00 am the temperature was 13°C, and at 2:00 pm the temperature reached 27°C. What was the difference in temperature between 8:00 am and 2:00 pm?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A time graph shows the temperature inside a greenhouse from 8:00 am to 2:00 pm. At 8:00 am the temperature was 13°C, and at 2:00 pm the temperature reached 27°C. What was the difference in temperature between 8:00 am and 2:00 pm?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A time graph shows the temperature inside a greenhouse from 8:00 am to 2:00 pm. At 8:00 am the temperature was 13°C, and at 2:00 pm the temperature reached 27°C. What was the difference in temperature between 8:00 am and 2:00 pm?
+
+25. Look at the picture! {user_name} is looking at this.
+A pictogram shows the number of merit stickers earned by two classes. The key states that 1 star symbol represents 8 stickers. Class 4R has 7 whole star symbols. Class 4S has 4 whole star symbols and 1 half star symbol. How many more stickers did Class 4R earn than Class 4S?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A pictogram shows the number of merit stickers earned by two classes. The key states that 1 star symbol represents 8 stickers. Class 4R has 7 whole star symbols. Class 4S has 4 whole star symbols and 1 half star symbol. How many more stickers did Class 4R earn than Class 4S?
+
+27. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A pictogram shows the number of merit stickers earned by two classes. The key states that 1 star symbol represents 8 stickers. Class 4R has 7 whole star symbols. Class 4S has 4 whole star symbols and 1 half star symbol. How many more stickers did Class 4R earn than Class 4S?

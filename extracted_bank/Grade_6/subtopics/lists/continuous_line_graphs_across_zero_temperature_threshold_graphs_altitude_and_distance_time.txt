@@ -1,0 +1,13 @@
+###################################
+Continuous line graphs across zero (temperature), threshold graphs (altitude), and distance-time graphs (speed, rest plateaus, cumulative distance vs displacement)
+###################################
+Domain: Statistics
+
+1. Continuous line graphs across zero (temperature)
+   From: Continuous line graphs across zero (temperature)
+
+2. Threshold graphs (altitude)
+   From: threshold graphs (altitude)
+
+3. Distance-time graphs (speed, rest plateaus, cumulative distance vs displacement)
+   From: distance-time graphs (speed, rest plateaus, cumulative distance vs displacement)

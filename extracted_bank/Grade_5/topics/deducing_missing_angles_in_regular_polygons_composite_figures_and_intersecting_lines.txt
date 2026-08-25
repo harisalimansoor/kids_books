@@ -1,0 +1,80 @@
+=== Topic: Deducing missing angles in regular polygons, composite figures, and intersecting lines ===
+Domain: Geometry: Properties of Shapes
+
+--- Deducing missing angles in regular polygons ---
+
+Question 1: An equilateral triangle is a regular polygon with 3 equal sides and 3 equal interior angles. The sum of the interior angles is 180°. What is the size of each interior angle in degrees?
+Answer: 60°
+Working: Divide the total angle sum by 3: 180° ÷ 3 = 60°.
+
+Question 2: A regular pentagon has 5 equal interior angles. The sum of all 5 interior angles is 540°. What is the size of one interior angle in degrees?
+Answer: 108°
+Working: Divide the total sum of angles by 5: 540° ÷ 5 = 108°.
+
+Question 3: A regular hexagon is split from one vertex into 4 internal triangles. Each triangle has an angle sum of 180°, so the total interior angle sum of the hexagon is 720°. What is the size of each interior angle in degrees?
+Answer: 120°
+Working: A regular hexagon has 6 equal angles: 720° ÷ 6 = 120°.
+
+Question 4: A regular octagon has 8 equal sides and 8 equal interior angles. The sum of its interior angles is 1080°. What is the size of one interior angle in degrees?
+Answer: 135°
+Working: Divide the total sum by 8: 1080° ÷ 8 = 135°.
+
+Question 5: One side of a regular pentagon is extended to make a straight line. The interior angle of the pentagon is 108°. What is the size of the exterior angle on that straight line in degrees?
+Answer: 72°
+Working: Angles on a straight line add up to 180°: 180° - 108° = 72°.
+
+Question 6: One side of a regular hexagon is extended in a straight line. The interior angle of the regular hexagon is 120°. What is the size of the exterior angle that sits on the straight line with it?
+Answer: 60°
+Working: Angles on a straight line total 180°: 180° - 120° = 60°.
+
+--- Deducing missing angles in composite figures ---
+
+Question 7: A corner of a rectangle is a right angle (90°). A straight line divides this corner into two smaller angles. If one of the angles is 34°, what is the size of the other angle in degrees?
+Answer: 56°
+Working: Subtract the given angle from 90°: 90° - 34° = 56°.
+
+Question 8: Two equilateral triangles are joined along one whole side to form a rhombus. At one vertex, an angle from each triangle meets side by side. If each equilateral triangle has angles of 60°, what is the total size of the combined angle at that vertex in degrees?
+Answer: 120°
+Working: Add the two adjacent angles: 60° + 60° = 120°.
+
+Question 9: An equilateral triangle is attached to the outside edge of a square so that they share a side. At one shared corner, the 90° angle of the square and the 60° angle of the triangle sit side by side. What is the total angle formed by combining these two angles?
+Answer: 150°
+Working: Add the angle of the square and the angle of the equilateral triangle: 90° + 60° = 150°.
+
+Question 10: A right-angle corner of 90° is divided into three smaller angles. Two of the angles measure 25° and 40°. What is the size of the third angle in degrees?
+Answer: 25°
+Working: Add the two known angles: 25° + 40° = 65°. Subtract from 90°: 90° - 65° = 25°.
+
+Question 11: A square and an equilateral triangle share a full side. At one shared vertex, three angles meet to complete a full turn of 360°: the 90° angle of the square, the 60° angle of the triangle, and a third angle. What is the size of the third angle in degrees?
+Answer: 210°
+Working: Angles around a point total 360°. Add the known angles: 90° + 60° = 150°. Subtract from 360°: 360° - 150° = 210°.
+
+Question 12: A square and a regular pentagon share a side. At one shared vertex, the angle of the square is 90° and the interior angle of the pentagon is 108°. What is the size of the remaining angle needed to complete a full turn of 360° around that point?
+Answer: 162°
+Working: Add the two interior angles: 90° + 108° = 198°. Subtract from 360°: 360° - 198° = 162°.
+
+--- Deducing missing angles in intersecting lines ---
+
+Question 13: Two straight lines intersect at a point. One of the angles formed is 65°. What is the size of the adjacent angle that lies on the same straight line with it?
+Answer: 115°
+Working: Angles on a straight line add up to 180°: 180° - 65° = 115°.
+
+Question 14: Two straight lines cross at a point to form four angles. One angle is 132°. What is the size of the vertically opposite angle in degrees?
+Answer: 132°
+Working: Vertically opposite angles are equal, so the opposite angle is 132°.
+
+Question 15: Two straight lines intersect at a point. One of the acute angles is 48°. What is the size of each obtuse angle formed at this intersection in degrees?
+Answer: 132°
+Working: An adjacent angle on a straight line adds to 180°: 180° - 48° = 132°.
+
+Question 16: Four angles meet at a point where straight lines intersect. Three of the angles are 85°, 110°, and 95°. What is the size of the fourth angle in degrees?
+Answer: 70°
+Working: Angles around a point total 360°. Sum the three angles: 85° + 110° + 95° = 290°. Subtract from 360°: 360° - 290° = 70°.
+
+Question 17: Two straight lines cross at a point to form four angles that make a full turn of 360°. If one of the angles is 115°, what is the total sum of the other three angles?
+Answer: 245°
+Working: Angles around a point total 360°: 360° - 115° = 245°.
+
+Question 18: Three straight lines cross at a single point to create six angles that meet around the point. Five of the angles are 45°, 70°, 65°, 50°, and 80°. What is the size of the sixth angle in degrees?
+Answer: 50°
+Working: Angles around a point total 360°. Add the five known angles: 45° + 70° + 65° + 50° + 80° = 310°. Subtract from 360°: 360° - 310° = 50°.

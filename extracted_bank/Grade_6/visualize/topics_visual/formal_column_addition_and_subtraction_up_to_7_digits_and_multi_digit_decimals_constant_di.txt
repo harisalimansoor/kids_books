@@ -1,0 +1,135 @@
+###################################
+Formal column addition and subtraction up to 7 digits and multi-digit decimals; constant difference mental subtraction (5000 - 1728 = 4999 - 1727)
+###################################
+
+--- Formal column addition and subtraction up to 7 digits ---
+
+1. Look at the picture! {user_name} is looking at this.
+Calculate 3,425,180 + 1,253,604.
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+3. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 3,425,180 + 1,253,604.
+
+4. Look at the picture! {user_name} is looking at this.
+Calculate 5,834,291 - 2,461,835.
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+6. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Calculate 5,834,291 - 2,461,835.
+
+7. Look at the picture! {user_name} is looking at this.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+9. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+In one year, an airport recorded 4,879,350 arriving passengers and 4,642,875 departing passengers. What was the total number of passengers recorded that year?
+
+10. Look at the picture! {user_name} is looking at this.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A city had a population of 2,105,040 at the start of a decade. Over ten years, the population increased by 386,975 and then decreased by 149,820. What was the population at the end of the decade?
+
+13. Look at the picture! {user_name} is looking at this.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+In this column addition, find the missing digit represented by the letter A: 4,3A6,512 + 1,472,835 = 5,859,347.
+
+--- Column addition and subtraction with multi-digit decimals ---
+
+16. Look at the picture! {user_name} is looking at this.
+Calculate 46.38 + 27.85.
+
+17. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+18. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 46.38 + 27.85.
+
+19. Look at the picture! {user_name} is looking at this.
+Calculate 83.4 - 29.675.
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+21. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 83.4 - 29.675.
+
+22. Look at the picture! {user_name} is looking at this.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+24. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate the total of 14.8, 6.275, and 129.46.
+
+25. Look at the picture! {user_name} is looking at this.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+27. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A plank of wood is 4.2 metres long. A carpenter cuts two pieces from it: one measuring 1.65 metres and another measuring 0.875 metres. How many metres of wood are left?
+
+--- Constant difference mental subtraction ---
+
+28. Look at the picture! {user_name} is looking at this.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+30. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Fill in the missing number to make the statement correct: 6,000 - 2,347 = 5,999 - [ ].
+
+31. Look at the picture! {user_name} is looking at this.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+33. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Use the constant difference strategy to calculate 8,000 - 3,468 mentally.
+
+34. Look at the picture! {user_name} is looking at this.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+36. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Calculate 50,000 - 18,426 by subtracting 1 from both numbers first.
+
+37. Look at the picture! {user_name} is looking at this.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+39. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Use the constant difference method to calculate 10 - 3.64 mentally by subtracting 0.01 from both numbers.
+
+40. Look at the picture! {user_name} is looking at this.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A runner has a target of 20 km. So far, she has run 14.375 km. Use constant difference by subtracting 0.001 from both numbers to find the remaining distance.

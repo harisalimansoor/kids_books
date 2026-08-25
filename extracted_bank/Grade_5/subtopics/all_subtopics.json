@@ -1,0 +1,868 @@
+{
+  "grade": 5,
+  "status": "completed",
+  "topics": {
+    "Y5.NPV.1": {
+      "topic_code": "Y5.NPV.1",
+      "topic": "Reading, writing, ordering and comparing numbers up to 1 000 000",
+      "domain_code": "Y5.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Reading numbers up to 1 000 000",
+          "evidence": "Reading"
+        },
+        {
+          "name": "Writing numbers up to 1 000 000",
+          "evidence": "writing"
+        },
+        {
+          "name": "Ordering numbers up to 1 000 000",
+          "evidence": "ordering"
+        },
+        {
+          "name": "Comparing numbers up to 1 000 000",
+          "evidence": "comparing numbers up to 1 000 000"
+        }
+      ]
+    },
+    "Y5.NPV.2": {
+      "topic_code": "Y5.NPV.2",
+      "topic": "Counting in steps of powers of 10 and completing linear/spatial sequences",
+      "domain_code": "Y5.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Counting in steps of powers of 10",
+          "evidence": "Counting in steps of powers of 10"
+        },
+        {
+          "name": "Completing linear and spatial sequences",
+          "evidence": "completing linear/spatial sequences"
+        }
+      ]
+    },
+    "Y5.NPV.3": {
+      "topic_code": "Y5.NPV.3",
+      "topic": "Negative numbers in context, counting through zero, and finding differences across zero",
+      "domain_code": "Y5.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Negative numbers in context",
+          "evidence": "Negative numbers in context"
+        },
+        {
+          "name": "Counting through zero",
+          "evidence": "counting through zero"
+        },
+        {
+          "name": "Finding differences across zero",
+          "evidence": "finding differences across zero"
+        }
+      ]
+    },
+    "Y5.NPV.4": {
+      "topic_code": "Y5.NPV.4",
+      "topic": "Rounding numbers up to 1 000 000 to the nearest 10, 100, 1000, 10 000, and 100 000",
+      "domain_code": "Y5.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Rounding to the nearest 10",
+          "evidence": "nearest 10"
+        },
+        {
+          "name": "Rounding to the nearest 100",
+          "evidence": "100"
+        },
+        {
+          "name": "Rounding to the nearest 1000",
+          "evidence": "1000"
+        },
+        {
+          "name": "Rounding to the nearest 10 000",
+          "evidence": "10 000"
+        },
+        {
+          "name": "Rounding to the nearest 100 000",
+          "evidence": "100 000"
+        }
+      ]
+    },
+    "Y5.NPV.5": {
+      "topic_code": "Y5.NPV.5",
+      "topic": "Roman numerals up to 1000 (M), historical years, and numeral ordering",
+      "domain_code": "Y5.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Roman numerals up to 1000 (M)",
+          "evidence": "Roman numerals up to 1000 (M)"
+        },
+        {
+          "name": "Historical years",
+          "evidence": "historical years"
+        },
+        {
+          "name": "Numeral ordering",
+          "evidence": "numeral ordering"
+        }
+      ]
+    },
+    "Y5.NPV.6": {
+      "topic_code": "Y5.NPV.6",
+      "topic": "Standard and flexible partitioning of numbers up to 1 000 000 using place value charts",
+      "domain_code": "Y5.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Standard partitioning of numbers up to 1 000 000 using place value charts",
+          "evidence": "Standard and flexible partitioning of numbers up to 1 000 000 using place value charts"
+        },
+        {
+          "name": "Flexible partitioning of numbers up to 1 000 000 using place value charts",
+          "evidence": "Standard and flexible partitioning of numbers up to 1 000 000 using place value charts"
+        }
+      ]
+    },
+    "Y5.AS.1": {
+      "topic_code": "Y5.AS.1",
+      "topic": "Columnar addition of numbers with more than 4 digits and decimals with exchanges",
+      "domain_code": "Y5.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Columnar addition of numbers with more than 4 digits",
+          "evidence": "Columnar addition of numbers with more than 4 digits"
+        },
+        {
+          "name": "Columnar addition of decimals with exchanges",
+          "evidence": "decimals with exchanges"
+        }
+      ]
+    },
+    "Y5.AS.2": {
+      "topic_code": "Y5.AS.2",
+      "topic": "Columnar subtraction of numbers with more than 4 digits and decimals with exchanges",
+      "domain_code": "Y5.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Columnar subtraction of numbers with more than 4 digits",
+          "evidence": "Columnar subtraction of numbers with more than 4 digits"
+        },
+        {
+          "name": "Columnar subtraction of decimals with exchanges",
+          "evidence": "decimals with exchanges"
+        }
+      ]
+    },
+    "Y5.AS.3": {
+      "topic_code": "Y5.AS.3",
+      "topic": "Mental addition and subtraction strategies using near-number compensation and bridging",
+      "domain_code": "Y5.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Near-number compensation",
+          "evidence": "near-number compensation"
+        },
+        {
+          "name": "Bridging",
+          "evidence": "bridging"
+        }
+      ]
+    },
+    "Y5.AS.4": {
+      "topic_code": "Y5.AS.4",
+      "topic": "Rounding, estimation, and inverse operations to check accuracy",
+      "domain_code": "Y5.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Rounding",
+          "evidence": "Rounding"
+        },
+        {
+          "name": "Estimation",
+          "evidence": "estimation"
+        },
+        {
+          "name": "Inverse operations to check accuracy",
+          "evidence": "inverse operations to check accuracy"
+        }
+      ]
+    },
+    "Y5.AS.5": {
+      "topic_code": "Y5.AS.5",
+      "topic": "Multi-step addition and subtraction problems in real-world contexts",
+      "domain_code": "Y5.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Multi-step addition and subtraction problems in real-world contexts",
+          "evidence": "Multi-step addition and subtraction problems in real-world contexts"
+        }
+      ]
+    },
+    "Y5.MD.1": {
+      "topic_code": "Y5.MD.1",
+      "topic": "Finding factors, factor pairs, common factors, and divisibility rules",
+      "domain_code": "Y5.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Finding factors",
+          "evidence": "Finding factors"
+        },
+        {
+          "name": "Factor pairs",
+          "evidence": "factor pairs"
+        },
+        {
+          "name": "Common factors",
+          "evidence": "common factors"
+        },
+        {
+          "name": "Divisibility rules",
+          "evidence": "divisibility rules"
+        }
+      ]
+    },
+    "Y5.MD.2": {
+      "topic_code": "Y5.MD.2",
+      "topic": "Prime numbers up to 100, prime factors, and composite number classification",
+      "domain_code": "Y5.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Prime numbers up to 100",
+          "evidence": "Prime numbers up to 100"
+        },
+        {
+          "name": "Prime factors",
+          "evidence": "prime factors"
+        },
+        {
+          "name": "Composite number classification",
+          "evidence": "composite number classification"
+        }
+      ]
+    },
+    "Y5.MD.3": {
+      "topic_code": "Y5.MD.3",
+      "topic": "Formal multiplication of up to 4-digit by 1-digit and 2-digit numbers",
+      "domain_code": "Y5.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Multiplication of up to 4-digit by 1-digit numbers",
+          "evidence": "up to 4-digit by 1-digit"
+        },
+        {
+          "name": "Long multiplication of up to 4-digit by 2-digit numbers",
+          "evidence": "long multiplication for two-digit numbers"
+        }
+      ]
+    },
+    "Y5.MD.4": {
+      "topic_code": "Y5.MD.4",
+      "topic": "Formal short division of up to 4-digit by 1-digit numbers with remainders",
+      "domain_code": "Y5.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Formal short division of up to 4-digit by 1-digit numbers with remainders",
+          "evidence": "Formal short division of up to 4-digit by 1-digit numbers with remainders"
+        }
+      ]
+    },
+    "Y5.MD.5": {
+      "topic_code": "Y5.MD.5",
+      "topic": "Multiplying and dividing whole numbers and decimals by 10, 100, and 1000",
+      "domain_code": "Y5.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Multiplying whole numbers by 10, 100, and 1000",
+          "evidence": "Multiplying... whole numbers... by 10, 100, and 1000"
+        },
+        {
+          "name": "Dividing whole numbers by 10, 100, and 1000",
+          "evidence": "dividing whole numbers... by 10, 100, and 1000"
+        },
+        {
+          "name": "Multiplying decimals by 10, 100, and 1000",
+          "evidence": "Multiplying... decimals by 10, 100, and 1000"
+        },
+        {
+          "name": "Dividing decimals by 10, 100, and 1000",
+          "evidence": "dividing... decimals by 10, 100, and 1000"
+        }
+      ]
+    },
+    "Y5.MD.6": {
+      "topic_code": "Y5.MD.6",
+      "topic": "Square numbers (^2), cube numbers (^3), and notation",
+      "domain_code": "Y5.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Square numbers",
+          "evidence": "Square numbers ($^2$)"
+        },
+        {
+          "name": "Cube numbers",
+          "evidence": "cube numbers ($^3$)"
+        },
+        {
+          "name": "Notation",
+          "evidence": "and notation"
+        }
+      ]
+    },
+    "Y5.MD.7": {
+      "topic_code": "Y5.MD.7",
+      "topic": "Mental multiplication and division using associative, commutative, and distributive laws",
+      "domain_code": "Y5.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Associative law",
+          "evidence": "associative"
+        },
+        {
+          "name": "Commutative law",
+          "evidence": "commutative"
+        },
+        {
+          "name": "Distributive law",
+          "evidence": "distributive laws"
+        }
+      ]
+    },
+    "Y5.MD.8": {
+      "topic_code": "Y5.MD.8",
+      "topic": "Multi-step problems combining operations, simple rates, and fractional scaling",
+      "domain_code": "Y5.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Multi-step problems combining operations",
+          "evidence": "Multi-step problems combining operations"
+        },
+        {
+          "name": "Simple rates",
+          "evidence": "simple rates"
+        },
+        {
+          "name": "Fractional scaling",
+          "evidence": "fractional scaling"
+        }
+      ]
+    },
+    "Y5.FDP.1": {
+      "topic_code": "Y5.FDP.1",
+      "topic": "Comparing and ordering fractions whose denominators are multiples of the same number",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Comparing fractions whose denominators are multiples of the same number",
+          "evidence": "compare and order fractions whose denominators are all multiples of the same number"
+        },
+        {
+          "name": "Ordering fractions whose denominators are multiples of the same number",
+          "evidence": "compare and order fractions whose denominators are all multiples of the same number"
+        }
+      ]
+    },
+    "Y5.FDP.2": {
+      "topic_code": "Y5.FDP.2",
+      "topic": "Equivalent fractions and simplifying using highest common factors",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Equivalent fractions",
+          "evidence": "Equivalent fractions"
+        },
+        {
+          "name": "Simplifying using highest common factors",
+          "evidence": "simplifying using highest common factors"
+        }
+      ]
+    },
+    "Y5.FDP.3": {
+      "topic_code": "Y5.FDP.3",
+      "topic": "Converting between mixed numbers and improper fractions",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Converting mixed numbers to improper fractions",
+          "evidence": "convert from one form to the other"
+        },
+        {
+          "name": "Converting improper fractions to mixed numbers",
+          "evidence": "convert from one form to the other"
+        }
+      ]
+    },
+    "Y5.FDP.4": {
+      "topic_code": "Y5.FDP.4",
+      "topic": "Adding and subtracting fractions and mixed numbers with related denominators",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Adding and subtracting fractions with related denominators",
+          "evidence": "add and subtract fractions with the same denominator and denominators that are multiples of the same number"
+        },
+        {
+          "name": "Adding and subtracting mixed numbers with related denominators",
+          "evidence": "Mixed Number & Related Denominator Operations"
+        }
+      ]
+    },
+    "Y5.FDP.5": {
+      "topic_code": "Y5.FDP.5",
+      "topic": "Multiplying proper fractions and mixed numbers by whole numbers",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Multiplying proper fractions by whole numbers",
+          "evidence": "multiply proper fractions and mixed numbers by whole numbers"
+        },
+        {
+          "name": "Multiplying mixed numbers by whole numbers",
+          "evidence": "mixed numbers by whole numbers"
+        }
+      ]
+    },
+    "Y5.FDP.6": {
+      "topic_code": "Y5.FDP.6",
+      "topic": "Fractions of amounts and finding the whole from a fractional part",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Fractions of amounts",
+          "evidence": "Fractions of amounts"
+        },
+        {
+          "name": "Finding the whole from a fractional part",
+          "evidence": "finding the whole from a fractional part"
+        }
+      ]
+    },
+    "Y5.FDP.7": {
+      "topic_code": "Y5.FDP.7",
+      "topic": "Reading, writing, ordering, and comparing numbers with up to 3 decimal places",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Reading and writing numbers with up to 3 decimal places",
+          "evidence": "read, write, order and compare numbers with up to three decimal places"
+        },
+        {
+          "name": "Ordering and comparing numbers with up to 3 decimal places",
+          "evidence": "read, write, order and compare numbers with up to three decimal places"
+        }
+      ]
+    },
+    "Y5.FDP.8": {
+      "topic_code": "Y5.FDP.8",
+      "topic": "Decimal and fraction equivalences for tenths, hundredths, and thousandths",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Decimal and fraction equivalences for tenths",
+          "evidence": "Decimal and fraction equivalences for tenths"
+        },
+        {
+          "name": "Decimal and fraction equivalences for hundredths",
+          "evidence": "hundredths"
+        },
+        {
+          "name": "Decimal and fraction equivalences for thousandths",
+          "evidence": "thousandths"
+        }
+      ]
+    },
+    "Y5.FDP.9": {
+      "topic_code": "Y5.FDP.9",
+      "topic": "Rounding decimals to the nearest whole number and to 1 decimal place",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Rounding decimals to the nearest whole number",
+          "evidence": "round decimals with two decimal places to the nearest whole number"
+        },
+        {
+          "name": "Rounding decimals to 1 decimal place",
+          "evidence": "to 1 decimal place"
+        }
+      ]
+    },
+    "Y5.FDP.10": {
+      "topic_code": "Y5.FDP.10",
+      "topic": "Percentages as parts per hundred and fraction/decimal/percentage equivalences",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Percentages as parts per hundred",
+          "evidence": "Percentages as parts per hundred"
+        },
+        {
+          "name": "Fraction, decimal and percentage equivalences",
+          "evidence": "fraction/decimal/percentage equivalences"
+        }
+      ]
+    },
+    "Y5.FDP.11": {
+      "topic_code": "Y5.FDP.11",
+      "topic": "Columnar addition and subtraction of decimals with same and different decimal places",
+      "domain_code": "Y5.FDP",
+      "domain": "Fractions, Decimals and Percentages",
+      "subtopics": [
+        {
+          "name": "Columnar addition of decimals with same and different decimal places",
+          "evidence": "Columnar addition and subtraction of decimals with same and different decimal places"
+        },
+        {
+          "name": "Columnar subtraction of decimals with same and different decimal places",
+          "evidence": "Columnar addition and subtraction of decimals with same and different decimal places"
+        }
+      ]
+    },
+    "Y5.M.1": {
+      "topic_code": "Y5.M.1",
+      "topic": "Converting between metric units of length, mass, and volume using decimals up to 3 d.p",
+      "domain_code": "Y5.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Converting metric units of length",
+          "evidence": "metric units of length (mm, cm, m, km)"
+        },
+        {
+          "name": "Converting metric units of mass",
+          "evidence": "mass (g, kg)"
+        },
+        {
+          "name": "Converting metric units of volume",
+          "evidence": "volume/capacity (ml, l)"
+        }
+      ]
+    },
+    "Y5.M.2": {
+      "topic_code": "Y5.M.2",
+      "topic": "Metric and imperial approximate equivalences and comparative conversions",
+      "domain_code": "Y5.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Metric and imperial approximate equivalences",
+          "evidence": "understand and use approximate equivalences between metric units and common imperial units"
+        },
+        {
+          "name": "Comparative conversions",
+          "evidence": "comparative conversions"
+        }
+      ]
+    },
+    "Y5.M.3": {
+      "topic_code": "Y5.M.3",
+      "topic": "Calculating perimeter of composite rectilinear shapes and regular polygons",
+      "domain_code": "Y5.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Calculating perimeter of composite rectilinear shapes",
+          "evidence": "measure and calculate the perimeter of composite rectilinear shapes"
+        },
+        {
+          "name": "Calculating perimeter of regular polygons",
+          "evidence": "regular polygons"
+        }
+      ]
+    },
+    "Y5.M.4": {
+      "topic_code": "Y5.M.4",
+      "topic": "Calculating and comparing area of rectangles and estimating area of irregular shapes",
+      "domain_code": "Y5.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Calculating and comparing area of rectangles",
+          "evidence": "Calculating and comparing area of rectangles"
+        },
+        {
+          "name": "Estimating area of irregular shapes",
+          "evidence": "estimating area of irregular shapes"
+        }
+      ]
+    },
+    "Y5.M.5": {
+      "topic_code": "Y5.M.5",
+      "topic": "Volume of cuboids and composite 3D block arrangements in cm^3 and capacity links",
+      "domain_code": "Y5.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Volume of cuboids in cm^3",
+          "evidence": "volume of cuboids in $\\text{cm}^3$"
+        },
+        {
+          "name": "Composite 3D block arrangements in cm^3",
+          "evidence": "composite 3D block arrangements in $\\text{cm}^3$"
+        },
+        {
+          "name": "Capacity links",
+          "evidence": "capacity links ($1\\text{ cm}^3 = 1\\text{ ml}$)"
+        }
+      ]
+    },
+    "Y5.M.6": {
+      "topic_code": "Y5.M.6",
+      "topic": "Time conversions, leap years, calendar intervals, and 24-hour clock timetables",
+      "domain_code": "Y5.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Time conversions",
+          "evidence": "Time conversions"
+        },
+        {
+          "name": "Leap years",
+          "evidence": "leap years"
+        },
+        {
+          "name": "Calendar intervals",
+          "evidence": "calendar intervals"
+        },
+        {
+          "name": "24-hour clock timetables",
+          "evidence": "24-hour clock timetables"
+        }
+      ]
+    },
+    "Y5.M.7": {
+      "topic_code": "Y5.M.7",
+      "topic": "Multi-step measurement word problems combining all four operations",
+      "domain_code": "Y5.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Multi-step measurement word problems combining all four operations",
+          "evidence": "Multi-step measurement word problems combining all four operations"
+        }
+      ]
+    },
+    "Y5.GPS.1": {
+      "topic_code": "Y5.GPS.1",
+      "topic": "Identifying 3D shapes from 2D viewpoints (plan, front, side) and isometric representations",
+      "domain_code": "Y5.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Identifying 3D shapes from 2D viewpoints (plan, front, side)",
+          "evidence": "Identifying 3D shapes from 2D viewpoints (plan, front, side)"
+        },
+        {
+          "name": "Identifying 3D shapes from isometric representations",
+          "evidence": "isometric representations"
+        }
+      ]
+    },
+    "Y5.GPS.2": {
+      "topic_code": "Y5.GPS.2",
+      "topic": "Classifying, estimating, measuring, and drawing acute, obtuse, and reflex angles in degrees",
+      "domain_code": "Y5.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Classifying acute, obtuse, and reflex angles",
+          "evidence": "Classifying... acute, obtuse, and reflex angles"
+        },
+        {
+          "name": "Estimating acute, obtuse, and reflex angles",
+          "evidence": "estimating... acute, obtuse, and reflex angles"
+        },
+        {
+          "name": "Measuring angles in degrees",
+          "evidence": "measuring... angles in degrees"
+        },
+        {
+          "name": "Drawing angles in degrees",
+          "evidence": "drawing... angles in degrees"
+        }
+      ]
+    },
+    "Y5.GPS.3": {
+      "topic_code": "Y5.GPS.3",
+      "topic": "Calculating missing angles around a point (360^ degrees) and on a straight line (180^ degrees)",
+      "domain_code": "Y5.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Calculating missing angles around a point (360°)",
+          "evidence": "angles around a point ($360^\\circ$)"
+        },
+        {
+          "name": "Calculating missing angles on a straight line (180°)",
+          "evidence": "on a straight line ($180^\\circ$)"
+        }
+      ]
+    },
+    "Y5.GPS.4": {
+      "topic_code": "Y5.GPS.4",
+      "topic": "Interior angle sums of triangles (180^ degrees), quadrilaterals (360^ degrees), and polygons ((n-2) x 180^ degrees)",
+      "domain_code": "Y5.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Interior angle sums of triangles (180^ degrees)",
+          "evidence": "Interior angle sums of triangles ($180^\\circ$)"
+        },
+        {
+          "name": "Interior angle sums of quadrilaterals (360^ degrees)",
+          "evidence": "quadrilaterals ($360^\\circ$)"
+        },
+        {
+          "name": "Interior angle sums of polygons ((n-2) x 180^ degrees)",
+          "evidence": "polygons ($(n-2) \\times 180^\\circ$)"
+        }
+      ]
+    },
+    "Y5.GPS.5": {
+      "topic_code": "Y5.GPS.5",
+      "topic": "Deducing missing angles in regular polygons, composite figures, and intersecting lines",
+      "domain_code": "Y5.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Deducing missing angles in regular polygons",
+          "evidence": "regular polygons"
+        },
+        {
+          "name": "Deducing missing angles in composite figures",
+          "evidence": "composite figures"
+        },
+        {
+          "name": "Deducing missing angles in intersecting lines",
+          "evidence": "intersecting lines"
+        }
+      ]
+    },
+    "Y5.GPS.6": {
+      "topic_code": "Y5.GPS.6",
+      "topic": "Distinguishing regular and irregular polygons based on equal sides and equal angles",
+      "domain_code": "Y5.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Distinguishing regular and irregular polygons based on equal sides and equal angles",
+          "evidence": "distinguish between regular and irregular polygons based on reasoning about equal sides and angles"
+        }
+      ]
+    },
+    "Y5.GPD.1": {
+      "topic_code": "Y5.GPD.1",
+      "topic": "Reading, plotting, and deducing coordinates in the first quadrant",
+      "domain_code": "Y5.GPD",
+      "domain": "Geometry: Position and Direction",
+      "subtopics": [
+        {
+          "name": "Reading coordinates in the first quadrant",
+          "evidence": "Reading, plotting, and deducing coordinates in the first quadrant"
+        },
+        {
+          "name": "Plotting coordinates in the first quadrant",
+          "evidence": "Reading, plotting, and deducing coordinates in the first quadrant"
+        },
+        {
+          "name": "Deducing coordinates in the first quadrant",
+          "evidence": "deducing coordinates in the first quadrant"
+        }
+      ]
+    },
+    "Y5.GPD.2": {
+      "topic_code": "Y5.GPD.2",
+      "topic": "Translations of shapes and finding inverse movements",
+      "domain_code": "Y5.GPD",
+      "domain": "Geometry: Position and Direction",
+      "subtopics": [
+        {
+          "name": "Translations of shapes",
+          "evidence": "Translations of shapes"
+        },
+        {
+          "name": "Finding inverse movements",
+          "evidence": "finding inverse movements"
+        }
+      ]
+    },
+    "Y5.GPD.3": {
+      "topic_code": "Y5.GPD.3",
+      "topic": "Reflections of 2D shapes across horizontal and vertical mirror lines",
+      "domain_code": "Y5.GPD",
+      "domain": "Geometry: Position and Direction",
+      "subtopics": [
+        {
+          "name": "Reflections of 2D shapes across horizontal mirror lines",
+          "evidence": "horizontal and vertical mirror lines"
+        },
+        {
+          "name": "Reflections of 2D shapes across vertical mirror lines",
+          "evidence": "vertical mirror lines"
+        }
+      ]
+    },
+    "Y5.S.1": {
+      "topic_code": "Y5.S.1",
+      "topic": "Solving comparison, sum, and difference problems using single and dual line graphs",
+      "domain_code": "Y5.S",
+      "domain": "Statistics",
+      "subtopics": [
+        {
+          "name": "Single line graphs",
+          "evidence": "single and dual line graphs"
+        },
+        {
+          "name": "Dual line graphs",
+          "evidence": "single and dual line graphs"
+        }
+      ]
+    },
+    "Y5.S.2": {
+      "topic_code": "Y5.S.2",
+      "topic": "Completing, reading, and interpreting tables, two-way tables, and transport timetables",
+      "domain_code": "Y5.S",
+      "domain": "Statistics",
+      "subtopics": [
+        {
+          "name": "Tables",
+          "evidence": "tables"
+        },
+        {
+          "name": "Two-way tables",
+          "evidence": "two-way tables"
+        },
+        {
+          "name": "Transport timetables",
+          "evidence": "transport timetables"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-25T09:58:15.200616+00:00",
+  "completed_at": "2026-08-25T09:58:15.221771+00:00"
+}

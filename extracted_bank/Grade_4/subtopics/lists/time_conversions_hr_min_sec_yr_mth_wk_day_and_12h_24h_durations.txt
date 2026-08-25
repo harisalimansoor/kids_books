@@ -1,0 +1,16 @@
+###################################
+Time conversions (hr/min/sec, yr/mth, wk/day) and 12h/24h durations
+###################################
+Domain: Measurement, Money and Time
+
+1. Converting between hours, minutes and seconds
+   From: converting from hours to minutes; minutes to seconds
+
+2. Converting between years and months
+   From: years to months
+
+3. Converting between weeks and days
+   From: weeks to days
+
+4. 12-hour and 24-hour time and durations
+   From: Read, write, and convert time between analogue and digital 12- and 24-hour clocks; calculate durations.

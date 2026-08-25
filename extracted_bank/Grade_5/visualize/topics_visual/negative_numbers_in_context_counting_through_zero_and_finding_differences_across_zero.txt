@@ -1,0 +1,171 @@
+###################################
+Negative numbers in context, counting through zero, and finding differences across zero
+###################################
+
+--- Negative numbers in context ---
+
+1. Look at the picture! {user_name} is looking at this.
+The temperature in Ottawa is -6 °C. The temperature in London is 9 °C warmer than in Ottawa. What is the temperature in London?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The temperature in Ottawa is -6 °C. The temperature in London is 9 °C warmer than in Ottawa. What is the temperature in London?
+
+3. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+The temperature in Ottawa is -6 °C. The temperature in London is 9 °C warmer than in Ottawa. What is the temperature in London?
+
+4. Look at the picture! {user_name} is looking at this.
+A department store lift starts on floor -2 in the underground car park. It travels up 4 floors. On which floor does the lift stop?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A department store lift starts on floor -2 in the underground car park. It travels up 4 floors. On which floor does the lift stop?
+
+6. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A department store lift starts on floor -2 in the underground car park. It travels up 4 floors. On which floor does the lift stop?
+
+7. Look at the picture! {user_name} is looking at this.
+The temperature inside a commercial freezer is -21 °C. During maintenance, the temperature rises by 7 °C. What is the new temperature inside the freezer?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+The temperature inside a commercial freezer is -21 °C. During maintenance, the temperature rises by 7 °C. What is the new temperature inside the freezer?
+
+9. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+The temperature inside a commercial freezer is -21 °C. During maintenance, the temperature rises by 7 °C. What is the new temperature inside the freezer?
+
+10. Look at the picture! {user_name} is looking at this.
+At 8 pm, the temperature outside was 2 °C. Overnight, the temperature fell by 7 °C. What was the temperature by morning?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+At 8 pm, the temperature outside was 2 °C. Overnight, the temperature fell by 7 °C. What was the temperature by morning?
+
+12. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+At 8 pm, the temperature outside was 2 °C. Overnight, the temperature fell by 7 °C. What was the temperature by morning?
+
+13. Look at the picture! {user_name} is looking at this.
+The temperature at the summit of a mountain is 11 °C colder than at the base. The temperature at the base is 4 °C. What is the temperature at the summit?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+The temperature at the summit of a mountain is 11 °C colder than at the base. The temperature at the base is 4 °C. What is the temperature at the summit?
+
+15. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+The temperature at the summit of a mountain is 11 °C colder than at the base. The temperature at the base is 4 °C. What is the temperature at the summit?
+
+16. Look at the picture! {user_name} is looking at this.
+A research submarine is at a depth of -45 m relative to sea level. It descends a further 30 m, and then ascends 25 m. What is the final depth of the submarine relative to sea level?
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A research submarine is at a depth of -45 m relative to sea level. It descends a further 30 m, and then ascends 25 m. What is the final depth of the submarine relative to sea level?
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A research submarine is at a depth of -45 m relative to sea level. It descends a further 30 m, and then ascends 25 m. What is the final depth of the submarine relative to sea level?
+
+--- Counting through zero ---
+
+19. Look at the picture! {user_name} is looking at this.
+Write the missing number to complete the linear sequence: 6, 3, 0, __, -6.
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write the missing number to complete the linear sequence: 6, 3, 0, __, -6.
+
+21. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Write the missing number to complete the linear sequence: 6, 3, 0, __, -6.
+
+22. Look at the picture! {user_name} is looking at this.
+A number sequence begins at -10 and increases by 3 each time. What is the 5th number in the sequence: -10, -7, -4, __, __?
+
+23. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A number sequence begins at -10 and increases by 3 each time. What is the 5th number in the sequence: -10, -7, -4, __, __?
+
+24. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A number sequence begins at -10 and increases by 3 each time. What is the 5th number in the sequence: -10, -7, -4, __, __?
+
+25. Look at the picture! {user_name} is looking at this.
+Starting at 7, count backwards in steps of 4. What is the third number you reach?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Starting at 7, count backwards in steps of 4. What is the third number you reach?
+
+27. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Starting at 7, count backwards in steps of 4. What is the third number you reach?
+
+28. Look at the picture! {user_name} is looking at this.
+What is the missing number in this linear sequence: -16, -11, -6, -1, __, 9?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is the missing number in this linear sequence: -16, -11, -6, -1, __, 9?
+
+30. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+What is the missing number in this linear sequence: -16, -11, -6, -1, __, 9?
+
+31. Look at the picture! {user_name} is looking at this.
+Count backwards in steps of 25: 75, 50, 25, 0, __, -50. What is the missing value?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Count backwards in steps of 25: 75, 50, 25, 0, __, -50. What is the missing value?
+
+33. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Count backwards in steps of 25: 75, 50, 25, 0, __, -50. What is the missing value?
+
+34. Look at the picture! {user_name} is looking at this.
+A number sequence begins at -24 and increases by 7 each time. What is the first positive number in this sequence?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A number sequence begins at -24 and increases by 7 each time. What is the first positive number in this sequence?
+
+36. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A number sequence begins at -24 and increases by 7 each time. What is the first positive number in this sequence?
+
+--- Finding differences across zero ---
+
+37. Look at the picture! {user_name} is looking at this.
+At 5 am, the temperature was -4 °C. By 1 pm, the temperature had reached 8 °C. How many degrees Celsius did the temperature rise?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+At 5 am, the temperature was -4 °C. By 1 pm, the temperature had reached 8 °C. How many degrees Celsius did the temperature rise?
+
+39. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+At 5 am, the temperature was -4 °C. By 1 pm, the temperature had reached 8 °C. How many degrees Celsius did the temperature rise?
+
+40. Look at the picture! {user_name} is looking at this.
+In Helsinki, the overnight temperature was -9 °C. In Rome, the temperature was 13 °C. What is the difference in temperature between Helsinki and Rome?
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+In Helsinki, the overnight temperature was -9 °C. In Rome, the temperature was 13 °C. What is the difference in temperature between Helsinki and Rome?
+
+42. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+In Helsinki, the overnight temperature was -9 °C. In Rome, the temperature was 13 °C. What is the difference in temperature between Helsinki and Rome?
+
+43. Look at the picture! {user_name} is looking at this.
+A diver is swimming at a depth of 16 m below sea level (-16 m). A helicopter flies directly overhead at an altitude of 150 m above sea level (+150 m). What is the vertical distance between the diver and the helicopter?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+A diver is swimming at a depth of 16 m below sea level (-16 m). A helicopter flies directly overhead at an altitude of 150 m above sea level (+150 m). What is the vertical distance between the diver and the helicopter?
+
+45. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A diver is swimming at a depth of 16 m below sea level (-16 m). A helicopter flies directly overhead at an altitude of 150 m above sea level (+150 m). What is the vertical distance between the diver and the helicopter?
+
+46. Look at the picture! {user_name} is looking at this.
+A car park has spaces on basement level -3 and a restaurant is located on floor 5. How many floors apart are level -3 and floor 5?
+
+47. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A car park has spaces on basement level -3 and a restaurant is located on floor 5. How many floors apart are level -3 and floor 5?
+
+48. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A car park has spaces on basement level -3 and a restaurant is located on floor 5. How many floors apart are level -3 and floor 5?
+
+49. Look at the picture! {user_name} is looking at this.
+On Monday, the minimum temperature was -7 °C and the maximum was 6 °C. On Tuesday, the minimum was -3 °C and the maximum was 11 °C. Which day had the greater temperature range, and by how many degrees Celsius?
+
+50. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+On Monday, the minimum temperature was -7 °C and the maximum was 6 °C. On Tuesday, the minimum was -3 °C and the maximum was 11 °C. Which day had the greater temperature range, and by how many degrees Celsius?
+
+51. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+On Monday, the minimum temperature was -7 °C and the maximum was 6 °C. On Tuesday, the minimum was -3 °C and the maximum was 11 °C. Which day had the greater temperature range, and by how many degrees Celsius?
+
+52. Look at the picture! {user_name} is looking at this.
+A hillwalker is at an altitude of 340 m above sea level. Directly below, an explorer is inside a cave at a depth of 85 m below sea level (-85 m). What is the total vertical distance between the hillwalker and the explorer?
+
+53. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A hillwalker is at an altitude of 340 m above sea level. Directly below, an explorer is inside a cave at a depth of 85 m below sea level (-85 m). What is the total vertical distance between the hillwalker and the explorer?
+
+54. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A hillwalker is at an altitude of 340 m above sea level. Directly below, an explorer is inside a cave at a depth of 85 m below sea level (-85 m). What is the total vertical distance between the hillwalker and the explorer?

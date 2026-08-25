@@ -1,0 +1,124 @@
+###################################
+Counting in steps of powers of 10 and completing linear/spatial sequences
+###################################
+
+--- Counting in steps of powers of 10 ---
+
+1. Look at the picture! {user_name} is looking at this.
+What number is 1000 more than 48 352?
+
+2. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+What number is 1000 more than 48 352?
+
+3. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+What number is 1000 more than 48 352?
+
+4. Look at the picture! {user_name} is looking at this.
+What number is 10 000 less than 350 400?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What number is 10 000 less than 350 400?
+
+6. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+What number is 10 000 less than 350 400?
+
+7. Look at the picture! {user_name} is looking at this.
+A sequence counts backwards in steps of 100 000: 840 000, 740 000, 640 000, ... What is the next number in the sequence?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A sequence counts backwards in steps of 100 000: 840 000, 740 000, 640 000, ... What is the next number in the sequence?
+
+9. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A sequence counts backwards in steps of 100 000: 840 000, 740 000, 640 000, ... What is the next number in the sequence?
+
+10. Look at the picture! {user_name} is looking at this.
+Start at 97 450. Count forwards in steps of 1000. What is the number after 3 steps?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Start at 97 450. Count forwards in steps of 1000. What is the number after 3 steps?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Start at 97 450. Count forwards in steps of 1000. What is the number after 3 steps?
+
+13. Look at the picture! {user_name} is looking at this.
+A stadium has 495 620 spectators. If 10 000 more spectators arrive, what is the new total number of spectators?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A stadium has 495 620 spectators. If 10 000 more spectators arrive, what is the new total number of spectators?
+
+15. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A stadium has 495 620 spectators. If 10 000 more spectators arrive, what is the new total number of spectators?
+
+16. Look at the picture! {user_name} is looking at this.
+Starting at 1 000 000, a counter counts backwards in steps of 10 000. What number is reached after 6 steps?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Starting at 1 000 000, a counter counts backwards in steps of 10 000. What number is reached after 6 steps?
+
+18. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Starting at 1 000 000, a counter counts backwards in steps of 10 000. What number is reached after 6 steps?
+
+19. Look at the picture! {user_name} is looking at this.
+A number has 6 digits. When 100 is added to it, the number becomes 400 050. What was the starting number?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+A number has 6 digits. When 100 is added to it, the number becomes 400 050. What was the starting number?
+
+21. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A number has 6 digits. When 100 is added to it, the number becomes 400 050. What was the starting number?
+
+--- Completing linear and spatial sequences ---
+
+22. Look at the picture! {user_name} is looking at this.
+Find the missing number in this linear sequence: 12, 19, 26, ___, 40
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+Find the missing number in this linear sequence: 12, 19, 26, ___, 40
+
+24. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Find the missing number in this linear sequence: 12, 19, 26, ___, 40
+
+25. Look at the picture! {user_name} is looking at this.
+A linear sequence decreases by the same amount each time: 350, 315, 280, 245, ... What is the 6th term of this sequence?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A linear sequence decreases by the same amount each time: 350, 315, 280, 245, ... What is the 6th term of this sequence?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A linear sequence decreases by the same amount each time: 350, 315, 280, 245, ... What is the 6th term of this sequence?
+
+28. Look at the picture! {user_name} is looking at this.
+Pattern 1 is made with 4 matchsticks to form a square. Each new pattern adds 3 more matchsticks to attach another square in a row. How many matchsticks are needed for Pattern 5?
+
+29. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Pattern 1 is made with 4 matchsticks to form a square. Each new pattern adds 3 more matchsticks to attach another square in a row. How many matchsticks are needed for Pattern 5?
+
+30. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Pattern 1 is made with 4 matchsticks to form a square. Each new pattern adds 3 more matchsticks to attach another square in a row. How many matchsticks are needed for Pattern 5?
+
+31. Look at the picture! {user_name} is looking at this.
+In a linear sequence, the 1st term is 8 and the 4th term is 29. What is the 2nd term of this sequence?
+
+32. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+In a linear sequence, the 1st term is 8 and the 4th term is 29. What is the 2nd term of this sequence?
+
+33. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+In a linear sequence, the 1st term is 8 and the 4th term is 29. What is the 2nd term of this sequence?
+
+34. Look at the picture! {user_name} is looking at this.
+Tiles are arranged in a spatial pattern: Design 1 has 5 tiles, Design 2 has 9 tiles, Design 3 has 13 tiles, and Design 4 has 17 tiles. Which design number uses exactly 41 tiles?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Tiles are arranged in a spatial pattern: Design 1 has 5 tiles, Design 2 has 9 tiles, Design 3 has 13 tiles, and Design 4 has 17 tiles. Which design number uses exactly 41 tiles?
+
+36. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Tiles are arranged in a spatial pattern: Design 1 has 5 tiles, Design 2 has 9 tiles, Design 3 has 13 tiles, and Design 4 has 17 tiles. Which design number uses exactly 41 tiles?
+
+37. Look at the picture! {user_name} is looking at this.
+A sequence of numbers follows a constant rule: ___, 145, ___, 205, 235. What is the 1st term of the sequence?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A sequence of numbers follows a constant rule: ___, 145, ___, 205, 235. What is the 1st term of the sequence?
+
+39. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A sequence of numbers follows a constant rule: ___, 145, ___, 205, 235. What is the 1st term of the sequence?

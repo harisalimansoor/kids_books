@@ -1,0 +1,209 @@
+###################################
+Continuous data displays: line graphs / time graphs
+###################################
+
+--- Continuous data displays: line graphs / time graphs ---
+
+1. Look at the picture! {user_name} is looking at this.
+A line graph shows the temperature in a classroom recorded every hour from 9:00 am to 3:00 pm.
+
+At 9:00 am, the temperature was 16°C.
+At 10:00 am, the temperature was 18°C.
+At 11:00 am, the temperature was 20°C.
+At 12:00 noon, the temperature was 21°C.
+At 1:00 pm, the temperature was 23°C.
+At 2:00 pm, the temperature was 22°C.
+At 3:00 pm, the temperature was 19°C.
+
+What was the temperature in the classroom at 1:00 pm?
+
+2. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A line graph shows the temperature in a classroom recorded every hour from 9:00 am to 3:00 pm.
+
+At 9:00 am, the temperature was 16°C.
+At 10:00 am, the temperature was 18°C.
+At 11:00 am, the temperature was 20°C.
+At 12:00 noon, the temperature was 21°C.
+At 1:00 pm, the temperature was 23°C.
+At 2:00 pm, the temperature was 22°C.
+At 3:00 pm, the temperature was 19°C.
+
+What was the temperature in the classroom at 1:00 pm?
+
+3. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A line graph shows the temperature in a classroom recorded every hour from 9:00 am to 3:00 pm.
+
+At 9:00 am, the temperature was 16°C.
+At 10:00 am, the temperature was 18°C.
+At 11:00 am, the temperature was 20°C.
+At 12:00 noon, the temperature was 21°C.
+At 1:00 pm, the temperature was 23°C.
+At 2:00 pm, the temperature was 22°C.
+At 3:00 pm, the temperature was 19°C.
+
+What was the temperature in the classroom at 1:00 pm?
+
+4. Look at the picture! {user_name} is looking at this.
+A line graph tracks the depth of water in a paddling pool as it fills over 50 minutes.
+
+At 0 minutes, the depth was 0 cm.
+At 10 minutes, the depth was 8 cm.
+At 20 minutes, the depth was 16 cm.
+At 30 minutes, the depth was 24 cm.
+At 40 minutes, the depth was 32 cm.
+At 50 minutes, the depth was 40 cm.
+
+How many centimetres did the depth of water increase between 10 minutes and 40 minutes?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A line graph tracks the depth of water in a paddling pool as it fills over 50 minutes.
+
+At 0 minutes, the depth was 0 cm.
+At 10 minutes, the depth was 8 cm.
+At 20 minutes, the depth was 16 cm.
+At 30 minutes, the depth was 24 cm.
+At 40 minutes, the depth was 32 cm.
+At 50 minutes, the depth was 40 cm.
+
+How many centimetres did the depth of water increase between 10 minutes and 40 minutes?
+
+6. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A line graph tracks the depth of water in a paddling pool as it fills over 50 minutes.
+
+At 0 minutes, the depth was 0 cm.
+At 10 minutes, the depth was 8 cm.
+At 20 minutes, the depth was 16 cm.
+At 30 minutes, the depth was 24 cm.
+At 40 minutes, the depth was 32 cm.
+At 50 minutes, the depth was 40 cm.
+
+How many centimetres did the depth of water increase between 10 minutes and 40 minutes?
+
+7. Look at the picture! {user_name} is looking at this.
+A time graph shows the temperature inside a greenhouse during one morning:
+
+- 8:00 am: 14°C
+- 9:00 am: 17°C
+- 10:00 am: 21°C
+- 11:00 am: 25°C
+- 12:00 noon: 28°C
+
+Between which two consecutive hours did the temperature increase the most?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A time graph shows the temperature inside a greenhouse during one morning:
+
+- 8:00 am: 14°C
+- 9:00 am: 17°C
+- 10:00 am: 21°C
+- 11:00 am: 25°C
+- 12:00 noon: 28°C
+
+Between which two consecutive hours did the temperature increase the most?
+
+9. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A time graph shows the temperature inside a greenhouse during one morning:
+
+- 8:00 am: 14°C
+- 9:00 am: 17°C
+- 10:00 am: 21°C
+- 11:00 am: 25°C
+- 12:00 noon: 28°C
+
+Between which two consecutive hours did the temperature increase the most?
+
+10. Look at the picture! {user_name} is looking at this.
+A line graph shows the distance Sam cycled over a two-hour journey.
+
+- Start (0 minutes): 0 km
+- After 30 minutes: 6 km
+- After 60 minutes: 12 km
+- After 90 minutes: 12 km (Sam stopped for a rest)
+- After 120 minutes: 18 km
+
+For how many minutes was Sam stopped resting during the journey?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A line graph shows the distance Sam cycled over a two-hour journey.
+
+- Start (0 minutes): 0 km
+- After 30 minutes: 6 km
+- After 60 minutes: 12 km
+- After 90 minutes: 12 km (Sam stopped for a rest)
+- After 120 minutes: 18 km
+
+For how many minutes was Sam stopped resting during the journey?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A line graph shows the distance Sam cycled over a two-hour journey.
+
+- Start (0 minutes): 0 km
+- After 30 minutes: 6 km
+- After 60 minutes: 12 km
+- After 90 minutes: 12 km (Sam stopped for a rest)
+- After 120 minutes: 18 km
+
+For how many minutes was Sam stopped resting during the journey?
+
+13. Look at the picture! {user_name} is looking at this.
+A time graph shows the height of a sunflower measured every 2 days over a 10-day period:
+
+- Day 0: 10 cm
+- Day 2: 15 cm
+- Day 4: 22 cm
+- Day 6: 31 cm
+- Day 8: 38 cm
+- Day 10: 42 cm
+
+How much taller was the sunflower on Day 8 than it was on Day 2?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A time graph shows the height of a sunflower measured every 2 days over a 10-day period:
+
+- Day 0: 10 cm
+- Day 2: 15 cm
+- Day 4: 22 cm
+- Day 6: 31 cm
+- Day 8: 38 cm
+- Day 10: 42 cm
+
+How much taller was the sunflower on Day 8 than it was on Day 2?
+
+15. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A time graph shows the height of a sunflower measured every 2 days over a 10-day period:
+
+- Day 0: 10 cm
+- Day 2: 15 cm
+- Day 4: 22 cm
+- Day 6: 31 cm
+- Day 8: 38 cm
+- Day 10: 42 cm
+
+How much taller was the sunflower on Day 8 than it was on Day 2?
+
+16. Look at the picture! {user_name} is looking at this.
+A continuous line graph tracks the outdoor temperature from 6:00 am to 6:00 pm.
+
+- At 6:00 am, the temperature was 5°C.
+- The temperature rose steadily to reach a maximum of 19°C at 2:00 pm.
+- From 2:00 pm, the temperature fell steadily to 11°C at 6:00 pm.
+
+What was the total difference between the maximum temperature and the minimum temperature recorded?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A continuous line graph tracks the outdoor temperature from 6:00 am to 6:00 pm.
+
+- At 6:00 am, the temperature was 5°C.
+- The temperature rose steadily to reach a maximum of 19°C at 2:00 pm.
+- From 2:00 pm, the temperature fell steadily to 11°C at 6:00 pm.
+
+What was the total difference between the maximum temperature and the minimum temperature recorded?
+
+18. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A continuous line graph tracks the outdoor temperature from 6:00 am to 6:00 pm.
+
+- At 6:00 am, the temperature was 5°C.
+- The temperature rose steadily to reach a maximum of 19°C at 2:00 pm.
+- From 2:00 pm, the temperature fell steadily to 11°C at 6:00 pm.
+
+What was the total difference between the maximum temperature and the minimum temperature recorded?

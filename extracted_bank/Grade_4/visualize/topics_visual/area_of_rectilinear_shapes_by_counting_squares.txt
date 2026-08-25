@@ -1,0 +1,113 @@
+###################################
+Area of rectilinear shapes by counting squares
+###################################
+
+--- Area of rectilinear shapes by counting squares ---
+
+1. Look at the picture! {user_name} is looking at this.
+A rectilinear shape is drawn on a grid of centimetre squares. It is completely filled by 9 whole squares. What is the area of the shape?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectilinear shape is drawn on a grid of centimetre squares. It is completely filled by 9 whole squares. What is the area of the shape?
+
+3. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A rectilinear shape is drawn on a grid of centimetre squares. It is completely filled by 9 whole squares. What is the area of the shape?
+
+4. Look at the picture! {user_name} is looking at this.
+A rectangle is drawn on a grid of 1 cm² squares. It has 4 rows with 3 squares in each row. What is the total area of the rectangle?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectangle is drawn on a grid of 1 cm² squares. It has 4 rows with 3 squares in each row. What is the total area of the rectangle?
+
+6. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A rectangle is drawn on a grid of 1 cm² squares. It has 4 rows with 3 squares in each row. What is the total area of the rectangle?
+
+7. Look at the picture! {user_name} is looking at this.
+An L-shaped rectilinear figure on a centimetre grid is made of a vertical column of 6 squares and a horizontal row of 2 squares attached at the bottom right. What is the area of this L-shaped figure in square centimetres?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+An L-shaped rectilinear figure on a centimetre grid is made of a vertical column of 6 squares and a horizontal row of 2 squares attached at the bottom right. What is the area of this L-shaped figure in square centimetres?
+
+9. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+An L-shaped rectilinear figure on a centimetre grid is made of a vertical column of 6 squares and a horizontal row of 2 squares attached at the bottom right. What is the area of this L-shaped figure in square centimetres?
+
+10. Look at the picture! {user_name} is looking at this.
+A T-shaped rectilinear shape is drawn on a grid where each square is 1 cm². The horizontal top bar is made of 7 squares. The vertical section underneath the middle square is made of 4 squares. What is the total area of the shape?
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A T-shaped rectilinear shape is drawn on a grid where each square is 1 cm². The horizontal top bar is made of 7 squares. The vertical section underneath the middle square is made of 4 squares. What is the total area of the shape?
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A T-shaped rectilinear shape is drawn on a grid where each square is 1 cm². The horizontal top bar is made of 7 squares. The vertical section underneath the middle square is made of 4 squares. What is the total area of the shape?
+
+13. Look at the picture! {user_name} is looking at this.
+Shape A covers 14 squares on a 1 cm² grid. Shape B covers 19 squares on the same grid. How many square centimetres larger is the area of Shape B than Shape A?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Shape A covers 14 squares on a 1 cm² grid. Shape B covers 19 squares on the same grid. How many square centimetres larger is the area of Shape B than Shape A?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Shape A covers 14 squares on a 1 cm² grid. Shape B covers 19 squares on the same grid. How many square centimetres larger is the area of Shape B than Shape A?
+
+16. Look at the picture! {user_name} is looking at this.
+A shaded shape on a centimetre squared grid is made of 11 full squares and 4 half-squares. What is the total area of the shape in cm²?
+
+17. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A shaded shape on a centimetre squared grid is made of 11 full squares and 4 half-squares. What is the total area of the shape in cm²?
+
+18. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A shaded shape on a centimetre squared grid is made of 11 full squares and 4 half-squares. What is the total area of the shape in cm²?
+
+19. Look at the picture! {user_name} is looking at this.
+A rectilinear shape on a grid of 1 cm² squares is made from two non-overlapping rectangles joined together. The first rectangle contains 3 rows of 5 squares. The second rectangle contains 2 rows of 4 squares. What is the total area of the rectilinear shape?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectilinear shape on a grid of 1 cm² squares is made from two non-overlapping rectangles joined together. The first rectangle contains 3 rows of 5 squares. The second rectangle contains 2 rows of 4 squares. What is the total area of the rectilinear shape?
+
+21. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A rectilinear shape on a grid of 1 cm² squares is made from two non-overlapping rectangles joined together. The first rectangle contains 3 rows of 5 squares. The second rectangle contains 2 rows of 4 squares. What is the total area of the rectilinear shape?
+
+22. Look at the picture! {user_name} is looking at this.
+A large square on a grid of centimetre squares measures 5 squares by 5 squares. A smaller square measuring 2 squares by 2 squares is removed from one corner. What is the area of the remaining rectilinear shape?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A large square on a grid of centimetre squares measures 5 squares by 5 squares. A smaller square measuring 2 squares by 2 squares is removed from one corner. What is the area of the remaining rectilinear shape?
+
+24. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A large square on a grid of centimetre squares measures 5 squares by 5 squares. A smaller square measuring 2 squares by 2 squares is removed from one corner. What is the area of the remaining rectilinear shape?
+
+25. Look at the picture! {user_name} is looking at this.
+On a grid of 1 cm² squares, Shape X is a rectangle made of 4 rows of 6 squares. Shape Y is a square made of 5 rows of 5 squares. Which shape has the greater area and by how many cm²?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+On a grid of 1 cm² squares, Shape X is a rectangle made of 4 rows of 6 squares. Shape Y is a square made of 5 rows of 5 squares. Which shape has the greater area and by how many cm²?
+
+27. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+On a grid of 1 cm² squares, Shape X is a rectangle made of 4 rows of 6 squares. Shape Y is a square made of 5 rows of 5 squares. Which shape has the greater area and by how many cm²?
+
+28. Look at the picture! {user_name} is looking at this.
+Hannah is drawing a rectilinear shape with a total area of 28 cm² on a 1 cm² grid. She has already shaded 19 squares. How many more whole squares does she need to shade to complete the shape?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Hannah is drawing a rectilinear shape with a total area of 28 cm² on a 1 cm² grid. She has already shaded 19 squares. How many more whole squares does she need to shade to complete the shape?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Hannah is drawing a rectilinear shape with a total area of 28 cm² on a 1 cm² grid. She has already shaded 19 squares. How many more whole squares does she need to shade to complete the shape?
+
+31. Look at the picture! {user_name} is looking at this.
+A cross-shaped rectilinear tile pattern on a grid of 1 m² squares consists of a central square of 4 squares (2 by 2), with an extra block of 2 squares attached to each of its 4 outer sides. What is the total area of the pattern in square metres?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+A cross-shaped rectilinear tile pattern on a grid of 1 m² squares consists of a central square of 4 squares (2 by 2), with an extra block of 2 squares attached to each of its 4 outer sides. What is the total area of the pattern in square metres?
+
+33. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A cross-shaped rectilinear tile pattern on a grid of 1 m² squares consists of a central square of 4 squares (2 by 2), with an extra block of 2 squares attached to each of its 4 outer sides. What is the total area of the pattern in square metres?
+
+34. Look at the picture! {user_name} is looking at this.
+A rectilinear picture frame drawn on a centimetre grid has an outer boundary of 7 squares by 6 squares. The empty space in the middle is 4 squares by 3 squares. Counting the squares of the border, what is the area of the picture frame in cm²?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectilinear picture frame drawn on a centimetre grid has an outer boundary of 7 squares by 6 squares. The empty space in the middle is 4 squares by 3 squares. Counting the squares of the border, what is the area of the picture frame in cm²?
+
+36. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A rectilinear picture frame drawn on a centimetre grid has an outer boundary of 7 squares by 6 squares. The empty space in the middle is 4 squares by 3 squares. Counting the squares of the border, what is the area of the picture frame in cm²?

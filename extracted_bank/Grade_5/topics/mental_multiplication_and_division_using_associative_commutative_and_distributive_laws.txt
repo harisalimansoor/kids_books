@@ -1,0 +1,80 @@
+=== Topic: Mental multiplication and division using associative, commutative, and distributive laws ===
+Domain: Multiplication and Division
+
+--- Associative law ---
+
+Question 1: Fill in the missing number to make the statement correct: (15 × 4) × 8 = 15 × (____ × 8)
+Answer: 4
+Working: By the associative law of multiplication, (a × b) × c = a × (b × c). Therefore, (15 × 4) × 8 = 15 × (4 × 8), so the missing number is 4.
+
+Question 2: Calculate 4 × 19 × 25 mentally by grouping the factors efficiently.
+Answer: 1900
+Working: Group 4 and 25 first: (4 × 25) × 19 = 100 × 19 = 1900.
+
+Question 3: Use the associative law to calculate 35 × 16 mentally by writing 16 as 2 × 8.
+Answer: 560
+Working: 35 × 16 = (35 × 2) × 8 = 70 × 8 = 560.
+
+Question 4: Calculate 420 ÷ 14 mentally by dividing by factors of 14.
+Answer: 30
+Working: 14 = 7 × 2. Dividing in stages: 420 ÷ 7 = 60, then 60 ÷ 2 = 30.
+
+Question 5: Calculate 45 × 18 mentally by doubling 45 and halving 18.
+Answer: 810
+Working: 45 × 18 = 45 × (2 × 9) = (45 × 2) × 9 = 90 × 9 = 810.
+
+Question 6: A school buys 25 boxes of pencils. Each box contains 12 packs, and each pack contains 6 pencils. Calculate the total number of pencils mentally.
+Answer: 1800
+Working: Total pencils = 25 × 12 × 6. Group (25 × 12) × 6 = 300 × 6 = 1800.
+
+--- Commutative law ---
+
+Question 7: Fill in the missing number using the commutative law: 38 × 7 = 7 × ____
+Answer: 38
+Working: The commutative law of multiplication states that changing the order of the factors does not change the product. Therefore, 38 × 7 = 7 × 38.
+
+Question 8: A farmer plants 8 rows of 45 apple trees. A neighbouring farmer plants 45 rows of 8 apple trees. What is the total number of trees planted by either farmer?
+Answer: 360
+Working: 8 × 45 = 45 × 8 = 360.
+
+Question 9: Use the commutative law to reorder and calculate 5 × 37 × 2 mentally.
+Answer: 370
+Working: Reorder the factors: 5 × 2 × 37 = 10 × 37 = 370.
+
+Question 10: Calculate 2 × 79 × 50 mentally by changing the order of multiplication.
+Answer: 7900
+Working: Reorder to multiply 2 and 50 first: 2 × 50 × 79 = 100 × 79 = 7900.
+
+Question 11: A bookshop orders 4 packs of 63 bookmarks, and each pack comes in 25 identical bundles. Calculate the total number of bookmarks mentally.
+Answer: 6300
+Working: Total bookmarks = 4 × 63 × 25. Reorder the factors using commutativity: 4 × 25 × 63 = 100 × 63 = 6300.
+
+--- Distributive law ---
+
+Question 12: Fill in the missing number to complete the calculation: 6 × 47 = (6 × 40) + (6 × ____)
+Answer: 7
+Working: Partitioning 47 into 40 + 7 gives 6 × 47 = (6 × 40) + (6 × 7). The missing number is 7.
+
+Question 13: Calculate 7 × 53 mentally by using the distributive law to partition 53 into 50 and 3.
+Answer: 371
+Working: (7 × 50) + (7 × 3) = 350 + 21 = 371.
+
+Question 14: Calculate 8 × 99 mentally using the strategy (8 × 100) − (8 × 1).
+Answer: 792
+Working: (8 × 100) − (8 × 1) = 800 − 8 = 792.
+
+Question 15: Calculate 112 ÷ 7 mentally by partitioning 112 into 70 and 42.
+Answer: 16
+Working: 112 ÷ 7 = (70 ÷ 7) + (42 ÷ 7) = 10 + 6 = 16.
+
+Question 16: Calculate (34 × 7) + (16 × 7) mentally using the distributive law in reverse.
+Answer: 350
+Working: (34 × 7) + (16 × 7) = (34 + 16) × 7 = 50 × 7 = 350.
+
+Question 17: Work out (48 × 12) − (38 × 12) mentally using the distributive law.
+Answer: 120
+Working: (48 × 12) − (38 × 12) = (48 − 38) × 12 = 10 × 12 = 120.
+
+Question 18: A museum ticket costs £8. A group of 27 children and 23 adults buy tickets. Use the distributive law to calculate the total cost in pounds mentally.
+Answer: £400
+Working: Total cost = (27 × £8) + (23 × £8) = (27 + 23) × £8 = 50 × £8 = £400.

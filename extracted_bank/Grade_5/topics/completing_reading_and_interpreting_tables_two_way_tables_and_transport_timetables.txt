@@ -1,0 +1,112 @@
+=== Topic: Completing, reading, and interpreting tables, two-way tables, and transport timetables ===
+Domain: Statistics
+
+--- Tables ---
+
+Question 1: A school library records the number of books borrowed during one week:
+Monday: 48 books
+Tuesday: 65 books
+Wednesday: 52 books
+Thursday: 74 books
+Friday: 61 books
+How many books were borrowed in total on Monday, Wednesday, and Friday?
+Answer: 161
+Working: Add the books borrowed on the three specified days: 48 + 52 + 61 = 161.
+
+Question 2: A table shows the distances cycled by four pupils over a weekend:
+Amir: Saturday 14 km, Sunday 18 km
+Beth: Saturday 19 km, Sunday 15 km
+Charlie: Saturday 12 km, Sunday 23 km
+Daisy: Saturday 16 km, Sunday 21 km
+What is the difference between the total distance cycled by Daisy and the total distance cycled by Beth?
+Answer: 3 km
+Working: Calculate Beth's total: 19 + 15 = 34 km. Calculate Daisy's total: 16 + 21 = 37 km. Find the difference: 37 - 34 = 3 km.
+
+Question 3: A fruit stall records the mass of apples sold each day:
+Monday: 34.5 kg
+Tuesday: 42.8 kg
+Wednesday: 29.6 kg
+Thursday: 51.4 kg
+Friday: 48.7 kg
+What is the total mass of apples sold from Monday to Wednesday?
+Answer: 106.9 kg
+Working: Add the masses for Monday, Tuesday, and Wednesday: 34.5 + 42.8 + 29.6 = 106.9 kg.
+
+Question 4: A swimming pool records attendance across four public sessions on Saturday:
+Session 1: 124 swimmers
+Session 2: 186 swimmers
+Session 3: 215 swimmers
+Session 4: 95 swimmers
+The maximum capacity for each session is 250 swimmers. How many more swimmers in total could have attended across all 4 sessions?
+Answer: 380
+Working: Total maximum capacity for 4 sessions: 4 × 250 = 1000. Total actual swimmers: 124 + 186 + 215 + 95 = 620. Remaining capacity: 1000 - 620 = 380.
+
+--- Two-way tables ---
+
+Question 5: A survey asked 100 pupils to name their favourite sport:
+Football: 28 Boys, 19 Girls (Total: 47)
+Netball: 6 Boys, 24 Girls (Total: 30)
+Running: ? Boys, 11 Girls (Total: 23)
+How many boys chose running?
+Answer: 12
+Working: Total who chose running is 23. Girls who chose running is 11. Subtract to find boys: 23 - 11 = 12.
+
+Question 6: A two-way table shows how 60 children in Year 5 travel to school:
+Walk: 14 Boys, 18 Girls
+Bus: 8 Boys, 9 Girls
+Car: ? Boys, 5 Girls
+How many boys travel to school by car?
+Answer: 6
+Working: Total girls = 18 + 9 + 5 = 32. Total boys = 60 - 32 = 28. Boys who walk or take the bus = 14 + 8 = 22. Boys who travel by car = 28 - 22 = 6.
+
+Question 7: The table shows the choices of after-school clubs for 85 Year 5 pupils:
+Art Club: 15 Boys, ? Girls (Total: 32)
+Drama Club: ? Boys, 14 Girls (Total: 27)
+Chess Club: 16 Boys, 10 Girls (Total: 26)
+How many boys in total attend an after-school club?
+Answer: 44
+Working: Boys in Art Club = 15. Boys in Drama Club = 27 - 14 = 13. Boys in Chess Club = 16. Total boys = 15 + 13 + 16 = 44.
+
+Question 8: A two-way table shows pupils in Year 5 and Year 6 who play a musical instrument:
+Year 5: 34 play an instrument, 26 do not play an instrument.
+Year 6: 41 play an instrument, ? do not play an instrument.
+There are 125 pupils altogether across both year groups. How many pupils in Year 6 do not play an instrument?
+Answer: 24
+Working: Year 5 total = 34 + 26 = 60 pupils. Year 6 total = 125 - 60 = 65 pupils. Year 6 pupils who do not play an instrument = 65 - 41 = 24.
+
+--- Transport timetables ---
+
+Question 9: Here is part of a bus timetable:
+High Street: 09:15, 09:45, 10:15
+Library: 09:28, 09:58, 10:28
+Hospital: 09:42, 10:12, 10:42
+Train Station: 09:55, 10:25, 10:55
+A passenger catches the 09:45 bus from High Street. What time does this bus arrive at Hospital?
+Answer: 10:12
+Working: Follow the column for the bus departing High Street at 09:45 down to the Hospital row: 10:12.
+
+Question 10: Here is a train timetable:
+Oakfield: 14:18
+Bramley: 14:35
+Crowthorne: 14:52
+Drayton: 15:11
+How many minutes does the train take to travel from Bramley to Drayton?
+Answer: 36 minutes
+Working: Calculate time from 14:35 to 15:11: from 14:35 to 15:00 is 25 minutes, and from 15:00 to 15:11 is 11 minutes. Total = 25 + 11 = 36 minutes.
+
+Question 11: Here is a train timetable between two towns:
+Train A: Departs Millfield at 11:24, arrives Northgate at 12:08
+Train B: Departs Millfield at 11:50, arrives Northgate at 12:26
+Train C: Departs Millfield at 12:15, arrives Northgate at 12:57
+How many minutes shorter is the journey time of Train B compared to Train A?
+Answer: 8 minutes
+Working: Train A journey: 11:24 to 12:08 = 44 minutes. Train B journey: 11:50 to 12:26 = 36 minutes. Difference: 44 - 36 = 8 minutes.
+
+Question 12: Here is a bus timetable from Village Green to City Centre:
+Bus 1: Departs Village Green 07:40, arrives City Centre 08:25
+Bus 2: Departs Village Green 08:05, arrives City Centre 08:52
+Bus 3: Departs Village Green 08:30, arrives City Centre 09:14
+Bus 4: Departs Village Green 08:55, arrives City Centre 09:38
+Maya must arrive in City Centre by 09:00. What is the departure time of the latest bus she can catch from Village Green?
+Answer: 08:05
+Working: Bus 1 arrives at 08:25 (on time). Bus 2 arrives at 08:52 (on time). Bus 3 arrives at 09:14 (too late). The latest bus that arrives before 09:00 is Bus 2, which departs Village Green at 08:05.

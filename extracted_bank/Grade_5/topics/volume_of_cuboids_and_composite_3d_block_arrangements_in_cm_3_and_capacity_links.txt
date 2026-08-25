@@ -1,0 +1,84 @@
+=== Topic: Volume of cuboids and composite 3D block arrangements in cm^3 and capacity links ===
+Domain: Measurement
+
+--- Volume of cuboids in cm^3 ---
+
+Question 1: A cuboid has a length of 5 cm, a width of 3 cm and a height of 4 cm. What is the volume of the cuboid in cm³?
+Answer: 60 cm³
+Working: Volume = length × width × height = 5 × 3 × 4 = 60 cm³.
+
+Question 2: A solid wooden cube has sides of length 4 cm. What is the volume of the cube in cm³?
+Answer: 64 cm³
+Working: Volume of a cube = side × side × side = 4 × 4 × 4 = 64 cm³.
+
+Question 3: A cuboid has a base area of 28 cm² and a height of 6 cm. Calculate the volume of the cuboid in cm³.
+Answer: 168 cm³
+Working: Volume = base area × height = 28 × 6 = 168 cm³.
+
+Question 4: A gift box in the shape of a cuboid has a length of 12 cm, a width of 5 cm and a height of 8 cm. What is the volume of the box in cm³?
+Answer: 480 cm³
+Working: Volume = 12 × 5 × 8 = 60 × 8 = 480 cm³.
+
+Question 5: A cuboid has a volume of 180 cm³. Its length is 9 cm and its width is 4 cm. What is its height in centimetres?
+Answer: 5 cm
+Working: Base area = 9 × 4 = 36 cm². Height = volume ÷ base area = 180 ÷ 36 = 5 cm.
+
+Question 6: Cuboid A has dimensions 6 cm by 4 cm by 5 cm. Cuboid B has dimensions 8 cm by 3 cm by 6 cm. How much greater is the volume of Cuboid B than Cuboid A in cm³?
+Answer: 24 cm³
+Working: Volume of Cuboid A = 6 × 4 × 5 = 120 cm³. Volume of Cuboid B = 8 × 3 × 6 = 144 cm³. Difference = 144 - 120 = 24 cm³.
+
+Question 7: Shape P is a cube with edge length 5 cm. Shape Q is a cuboid with length 10 cm, width 5 cm and height 3 cm. Which shape has the greater volume, and by how many cm³?
+Answer: Shape Q by 25 cm³
+Working: Volume of Shape P = 5 × 5 × 5 = 125 cm³. Volume of Shape Q = 10 × 5 × 3 = 150 cm³. Shape Q is larger by 150 - 125 = 25 cm³.
+
+--- Composite 3D block arrangements in cm^3 ---
+
+Question 8: A model is built using identical 1 cm³ blocks. The bottom layer has 12 blocks and the top layer has 7 blocks. What is the total volume of the model in cm³?
+Answer: 19 cm³
+Working: Total volume = (12 × 1 cm³) + (7 × 1 cm³) = 12 + 7 = 19 cm³.
+
+Question 9: A solid block structure is made by joining two separate cuboids together. Cuboid X measures 4 cm by 3 cm by 2 cm. Cuboid Y measures 5 cm by 2 cm by 2 cm. What is the total volume of the combined structure in cm³?
+Answer: 44 cm³
+Working: Volume of Cuboid X = 4 × 3 × 2 = 24 cm³. Volume of Cuboid Y = 5 × 2 × 2 = 20 cm³. Total volume = 24 + 20 = 44 cm³.
+
+Question 10: A step-shaped solid is made of three layers of 1 cm³ cubes. The bottom layer is a cuboid measuring 5 cm by 2 cm by 1 cm. The middle layer is a cuboid measuring 3 cm by 2 cm by 1 cm. The top layer is a cuboid measuring 1 cm by 2 cm by 1 cm. What is the total volume of the step-shaped solid in cm³?
+Answer: 18 cm³
+Working: Bottom layer = 5 × 2 × 1 = 10 cm³. Middle layer = 3 × 2 × 1 = 6 cm³. Top layer = 1 × 2 × 1 = 2 cm³. Total volume = 10 + 6 + 2 = 18 cm³.
+
+Question 11: A sculpture is made by stacking three solid wooden cubes on top of each other. The bottom cube has an edge length of 4 cm, the middle cube has an edge length of 3 cm, and the top cube has an edge length of 2 cm. What is the total volume of the sculpture in cm³?
+Answer: 99 cm³
+Working: Bottom cube volume = 4 × 4 × 4 = 64 cm³. Middle cube volume = 3 × 3 × 3 = 27 cm³. Top cube volume = 2 × 2 × 2 = 8 cm³. Total volume = 64 + 27 + 8 = 99 cm³.
+
+Question 12: An L-shaped solid is formed by joining two cuboids. The horizontal base cuboid has a length of 8 cm, a width of 3 cm and a height of 2 cm. An upright cuboid attached to the top of the base at one end has a length of 2 cm, a width of 3 cm and a height of 4 cm. What is the total volume of the L-shaped solid in cm³?
+Answer: 72 cm³
+Working: Base cuboid volume = 8 × 3 × 2 = 48 cm³. Upright cuboid volume = 2 × 3 × 4 = 24 cm³. Total volume = 48 + 24 = 72 cm³.
+
+Question 13: A solid block is made by taking a large cuboid measuring 7 cm by 5 cm by 4 cm and cutting out a corner cuboid measuring 2 cm by 2 cm by 4 cm. What is the volume of the remaining solid block in cm³?
+Answer: 124 cm³
+Working: Volume of large cuboid = 7 × 5 × 4 = 140 cm³. Volume of removed corner = 2 × 2 × 4 = 16 cm³. Remaining volume = 140 - 16 = 124 cm³.
+
+--- Capacity links ---
+
+Question 14: A rectangular container has an internal volume of 450 cm³. Given that 1 cm³ = 1 ml, what is the capacity of the container in millilitres?
+Answer: 450 ml
+Working: Since 1 cm³ = 1 ml, 450 cm³ = 450 ml.
+
+Question 15: A small aquarium in the shape of a cuboid is 20 cm long, 10 cm wide and 15 cm high. How many millilitres of water does it hold when completely full?
+Answer: 3000 ml
+Working: Volume = 20 × 10 × 15 = 3000 cm³. Since 1 cm³ = 1 ml, the aquarium holds 3000 ml.
+
+Question 16: A carton shaped like a cuboid has a base measuring 8 cm by 5 cm and a height of 25 cm. What is the capacity of the carton in litres? (1000 cm³ = 1 litre)
+Answer: 1 litre
+Working: Volume = 8 × 5 × 25 = 40 × 25 = 1000 cm³. 1000 cm³ = 1000 ml = 1 litre.
+
+Question 17: A measuring cylinder contains 350 ml of water. A solid metal cuboid measuring 4 cm by 3 cm by 5 cm is fully submerged into the water. What is the new reading on the measuring cylinder in ml?
+Answer: 410 ml
+Working: Cuboid volume = 4 × 3 × 5 = 60 cm³ = 60 ml. New water level = 350 + 60 = 410 ml.
+
+Question 18: A rectangular container measuring 10 cm by 8 cm by 12 cm contains 480 ml of water. What fraction of the container's total capacity is filled with water? Give your answer in its simplest form.
+Answer: 1/2
+Working: Total volume = 10 × 8 × 12 = 960 cm³ = 960 ml. Fraction filled = 480/960 = 1/2.
+
+Question 19: A tank in the shape of a cuboid is 30 cm long, 20 cm wide and 15 cm deep. It currently contains 4.5 litres of water. How many more millilitres of water are needed to fill the tank completely?
+Answer: 4500 ml
+Working: Total capacity = 30 × 20 × 15 = 9000 cm³ = 9000 ml. Current water = 4.5 litres = 4500 ml. Water needed = 9000 - 4500 = 4500 ml.

@@ -1,0 +1,13 @@
+###################################
+Mental deduction from known products (48 x 6 = 288 \implies 148 x 6 = 888; 30^2 = 900 \implies 29 x 30 = 870); functional step equivalence ((x 6)÷ 3 \equiv x 2); units digit prediction
+###################################
+Domain: Addition, Subtraction, Multiplication, Division & Operations
+
+1. Mental deduction from known products
+   From: Mental deduction from known products ($48 \times 6 = 288 \implies 148 \times 6 = 888$; $30^2 = 900 \implies 29 \times 30 = 870$)
+
+2. Functional step equivalence
+   From: functional step equivalence ($(\times 6)\div 3 \equiv \times 2$)
+
+3. Units digit prediction
+   From: units digit prediction

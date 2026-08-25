@@ -1,0 +1,70 @@
+=== Topic: Converting between mixed numbers and improper fractions ===
+Domain: Fractions, Decimals and Percentages
+
+--- Converting mixed numbers to improper fractions ---
+
+Question 1: Convert 2 3/4 into an improper fraction.
+Answer: 11/4
+Working: Multiply the whole number by the denominator and add the numerator: 2 × 4 + 3 = 11. Keep the same denominator, giving 11/4.
+
+Question 2: Write 3 1/5 as an improper fraction.
+Answer: 16/5
+Working: 3 wholes is 3 × 5 = 15 fifths. Add 1 fifth to get 16/5.
+
+Question 3: Convert 4 5/6 into an improper fraction.
+Answer: 29/6
+Working: 4 × 6 = 24. 24 + 5 = 29. So 4 5/6 = 29/6.
+
+Question 4: A baker uses 3 7/10 kilograms of flour. Write this amount as an improper fraction.
+Answer: 37/10
+Working: 3 wholes is 30 tenths. 30 tenths + 7 tenths = 37/10.
+
+Question 5: Find the missing numerator: 5 2/3 = ?/3.
+Answer: 17
+Working: 5 × 3 = 15. 15 + 2 = 17, so 5 2/3 = 17/3. The missing numerator is 17.
+
+Question 6: A length of ribbon is 6 3/8 metres long. How many eighths of a metre is this altogether?
+Answer: 51/8
+Working: 6 × 8 = 48 eighths. 48 + 3 = 51 eighths, which is written as 51/8.
+
+Question 7: What is the missing whole number in the statement: ? 4/7 = 25/7?
+Answer: 3
+Working: 25 - 4 = 21 sevenths. 21 ÷ 7 = 3. So the missing whole number is 3.
+
+Question 8: Convert 7 5/12 into an improper fraction.
+Answer: 89/12
+Working: 7 × 12 = 84. 84 + 5 = 89, so 7 5/12 = 89/12.
+
+--- Converting improper fractions to mixed numbers ---
+
+Question 9: Convert 7/2 into a mixed number.
+Answer: 3 1/2
+Working: 7 ÷ 2 = 3 remainder 1. This gives 3 wholes and 1 half, or 3 1/2.
+
+Question 10: Write 11/4 as a mixed number.
+Answer: 2 3/4
+Working: 11 ÷ 4 = 2 remainder 3. 11/4 = 2 3/4.
+
+Question 11: Convert 19/5 into a mixed number.
+Answer: 3 4/5
+Working: 19 ÷ 5 = 3 with a remainder of 4. So 19/5 = 3 4/5.
+
+Question 12: There are 23 slices of melon, each equal to 1/6 of a whole melon. Write the total amount of melon as a mixed number.
+Answer: 3 5/6
+Working: 23/6 = 23 ÷ 6 = 3 remainder 5, which is 3 5/6 melons.
+
+Question 13: Find the missing numerator: 29/8 = 3 ?/8.
+Answer: 5
+Working: 29 ÷ 8 = 3 with a remainder of 5. So the missing numerator is 5.
+
+Question 14: A runner drinks 37/10 litres of water after a marathon. Write this quantity as a mixed number.
+Answer: 3 7/10
+Working: 37 ÷ 10 = 3 with a remainder of 7. 37/10 litres = 3 7/10 litres.
+
+Question 15: Find the missing whole number: 43/6 = ? 1/6.
+Answer: 7
+Working: 43 ÷ 6 = 7 remainder 1. So 43/6 = 7 1/6. The missing whole number is 7.
+
+Question 16: Convert 53/12 into a mixed number.
+Answer: 4 5/12
+Working: 53 ÷ 12 = 4 with a remainder of 5. 53/12 = 4 5/12.

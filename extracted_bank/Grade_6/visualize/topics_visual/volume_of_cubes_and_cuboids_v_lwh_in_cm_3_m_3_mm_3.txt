@@ -1,0 +1,169 @@
+###################################
+Volume of cubes and cuboids (V = lwh) in cm^3, m^3, mm^3
+###################################
+
+--- Volume of cubes ---
+
+1. Look at the picture! {user_name} is looking at this.
+A wooden cube has an edge length of 4 cm. What is the volume of the cube? Give your answer in cm³.
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+A wooden cube has an edge length of 4 cm. What is the volume of the cube? Give your answer in cm³.
+
+3. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A wooden cube has an edge length of 4 cm. What is the volume of the cube? Give your answer in cm³.
+
+4. Look at the picture! {user_name} is looking at this.
+A small metal cube has sides of length 10 mm. Calculate the volume of the cube in mm³.
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+A small metal cube has sides of length 10 mm. Calculate the volume of the cube in mm³.
+
+6. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A small metal cube has sides of length 10 mm. Calculate the volume of the cube in mm³.
+
+7. Look at the picture! {user_name} is looking at this.
+A large storage crate is in the shape of a cube with edge length 2 m. What is the volume of the crate in m³?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A large storage crate is in the shape of a cube with edge length 2 m. What is the volume of the crate in m³?
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A large storage crate is in the shape of a cube with edge length 2 m. What is the volume of the crate in m³?
+
+10. Look at the picture! {user_name} is looking at this.
+A cube has a volume of 125 cm³. What is the length of one edge of the cube?
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A cube has a volume of 125 cm³. What is the length of one edge of the cube?
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A cube has a volume of 125 cm³. What is the length of one edge of the cube?
+
+13. Look at the picture! {user_name} is looking at this.
+Cube A has sides of length 3 cm. Cube B has sides of length 6 cm. How many times greater is the volume of Cube B than the volume of Cube A?
+
+14. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Cube A has sides of length 3 cm. Cube B has sides of length 6 cm. How many times greater is the volume of Cube B than the volume of Cube A?
+
+15. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Cube A has sides of length 3 cm. Cube B has sides of length 6 cm. How many times greater is the volume of Cube B than the volume of Cube A?
+
+16. Look at the picture! {user_name} is looking at this.
+One face of a cube has an area of 36 cm². What is the volume of the cube in cm³?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+One face of a cube has an area of 36 cm². What is the volume of the cube in cm³?
+
+18. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+One face of a cube has an area of 36 cm². What is the volume of the cube in cm³?
+
+19. Look at the picture! {user_name} is looking at this.
+A model maker builds a solid cube using 1 cm³ unit cubes. She uses 27 cubes in total. What is the total surface area of this large cube in cm²?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A model maker builds a solid cube using 1 cm³ unit cubes. She uses 27 cubes in total. What is the total surface area of this large cube in cm²?
+
+21. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A model maker builds a solid cube using 1 cm³ unit cubes. She uses 27 cubes in total. What is the total surface area of this large cube in cm²?
+
+22. Look at the picture! {user_name} is looking at this.
+A cube has a volume of 1,000 mm³. What is the perimeter of one face of this cube in mm?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A cube has a volume of 1,000 mm³. What is the perimeter of one face of this cube in mm?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A cube has a volume of 1,000 mm³. What is the perimeter of one face of this cube in mm?
+
+--- Volume of cuboids ---
+
+25. Look at the picture! {user_name} is looking at this.
+A cuboid measures 8 cm long, 5 cm wide and 3 cm high. Calculate the volume of the cuboid in cm³.
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A cuboid measures 8 cm long, 5 cm wide and 3 cm high. Calculate the volume of the cuboid in cm³.
+
+27. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A cuboid measures 8 cm long, 5 cm wide and 3 cm high. Calculate the volume of the cuboid in cm³.
+
+28. Look at the picture! {user_name} is looking at this.
+A rectangular concrete block has a length of 6 m, a width of 2 m and a height of 3 m. What is its volume in m³?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectangular concrete block has a length of 6 m, a width of 2 m and a height of 3 m. What is its volume in m³?
+
+30. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A rectangular concrete block has a length of 6 m, a width of 2 m and a height of 3 m. What is its volume in m³?
+
+31. Look at the picture! {user_name} is looking at this.
+A microchip component is a cuboid measuring 5 mm by 4 mm by 2 mm. What is the volume of the component in mm³?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+A microchip component is a cuboid measuring 5 mm by 4 mm by 2 mm. What is the volume of the component in mm³?
+
+33. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A microchip component is a cuboid measuring 5 mm by 4 mm by 2 mm. What is the volume of the component in mm³?
+
+34. Look at the picture! {user_name} is looking at this.
+A cereal box has a base area of 140 cm² and a height of 25 cm. Calculate the volume of the cereal box in cm³.
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+A cereal box has a base area of 140 cm² and a height of 25 cm. Calculate the volume of the cereal box in cm³.
+
+36. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A cereal box has a base area of 140 cm² and a height of 25 cm. Calculate the volume of the cereal box in cm³.
+
+37. Look at the picture! {user_name} is looking at this.
+A fish tank is in the shape of a cuboid. It has a volume of 480 cm³. The length is 12 cm and the width is 8 cm. What is the height of the fish tank?
+
+38. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A fish tank is in the shape of a cuboid. It has a volume of 480 cm³. The length is 12 cm and the width is 8 cm. What is the height of the fish tank?
+
+39. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A fish tank is in the shape of a cuboid. It has a volume of 480 cm³. The length is 12 cm and the width is 8 cm. What is the height of the fish tank?
+
+40. Look at the picture! {user_name} is looking at this.
+A shipping container is 10 m long, 3 m wide and 2.5 m high. Calculate the volume of the container in m³.
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A shipping container is 10 m long, 3 m wide and 2.5 m high. Calculate the volume of the container in m³.
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A shipping container is 10 m long, 3 m wide and 2.5 m high. Calculate the volume of the container in m³.
+
+43. Look at the picture! {user_name} is looking at this.
+A cuboid has a volume of 720 cm³. Its height is 9 cm and its length is 16 cm. Find the width of the cuboid.
+
+44. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A cuboid has a volume of 720 cm³. Its height is 9 cm and its length is 16 cm. Find the width of the cuboid.
+
+45. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A cuboid has a volume of 720 cm³. Its height is 9 cm and its length is 16 cm. Find the width of the cuboid.
+
+46. Look at the picture! {user_name} is looking at this.
+A cardboard box is 20 cm long, 15 cm wide and 10 cm high. How many solid 1 cm³ cubes can fit inside the box without any gaps?
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A cardboard box is 20 cm long, 15 cm wide and 10 cm high. How many solid 1 cm³ cubes can fit inside the box without any gaps?
+
+48. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A cardboard box is 20 cm long, 15 cm wide and 10 cm high. How many solid 1 cm³ cubes can fit inside the box without any gaps?
+
+49. Look at the picture! {user_name} is looking at this.
+A cuboid has a square base of side length 7 cm. Its volume is 490 cm³. What is the height of the cuboid?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A cuboid has a square base of side length 7 cm. Its volume is 490 cm³. What is the height of the cuboid?
+
+51. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A cuboid has a square base of side length 7 cm. Its volume is 490 cm³. What is the height of the cuboid?
+
+52. Look at the picture! {user_name} is looking at this.
+A solid cube with side length 6 cm and a cuboid with length 9 cm and width 4 cm have the same volume. What is the height of the cuboid?
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A solid cube with side length 6 cm and a cuboid with length 9 cm and width 4 cm have the same volume. What is the height of the cuboid?
+
+54. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A solid cube with side length 6 cm and a cuboid with length 9 cm and width 4 cm have the same volume. What is the height of the cuboid?

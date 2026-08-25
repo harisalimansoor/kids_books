@@ -1,0 +1,182 @@
+###################################
+Reading, writing, ordering and comparing numbers up to 1 000 000
+###################################
+
+--- Reading numbers up to 1 000 000 ---
+
+1. Look at the picture! {user_name} is looking at this.
+Write the number 47 308 in words.
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 47 308 in words.
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Write the number 47 308 in words.
+
+4. Look at the picture! {user_name} is looking at this.
+Write the number 605 012 in words.
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 605 012 in words.
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number 605 012 in words.
+
+7. Look at the picture! {user_name} is looking at this.
+In the number 842 519, what is the value of the digit 4?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In the number 842 519, what is the value of the digit 4?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+In the number 842 519, what is the value of the digit 4?
+
+10. Look at the picture! {user_name} is looking at this.
+In the number 930 241, what is the value of the digit 9?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In the number 930 241, what is the value of the digit 9?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+In the number 930 241, what is the value of the digit 9?
+
+--- Writing numbers up to 1 000 000 ---
+
+13. Look at the picture! {user_name} is looking at this.
+Write the number 'sixty-two thousand, four hundred and fifteen' in digits.
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number 'sixty-two thousand, four hundred and fifteen' in digits.
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 'sixty-two thousand, four hundred and fifteen' in digits.
+
+16. Look at the picture! {user_name} is looking at this.
+Write the number 'eight hundred thousand, six hundred and four' in digits.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number 'eight hundred thousand, six hundred and four' in digits.
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Write the number 'eight hundred thousand, six hundred and four' in digits.
+
+19. Look at the picture! {user_name} is looking at this.
+Write the number 'four hundred and seventeen thousand and fifty' in digits.
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number 'four hundred and seventeen thousand and fifty' in digits.
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Write the number 'four hundred and seventeen thousand and fifty' in digits.
+
+22. Look at the picture! {user_name} is looking at this.
+Write one million in digits.
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write one million in digits.
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Write one million in digits.
+
+25. Look at the picture! {user_name} is looking at this.
+A number has 7 hundred thousands, 0 ten thousands, 4 thousands, 9 hundreds, 0 tens, and 3 ones. Write this number in digits.
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A number has 7 hundred thousands, 0 ten thousands, 4 thousands, 9 hundreds, 0 tens, and 3 ones. Write this number in digits.
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A number has 7 hundred thousands, 0 ten thousands, 4 thousands, 9 hundreds, 0 tens, and 3 ones. Write this number in digits.
+
+28. Look at the picture! {user_name} is looking at this.
+Using each of the digits 3, 5, 8, 0, 1 and 9 exactly once, write the largest possible 6-digit odd number.
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Using each of the digits 3, 5, 8, 0, 1 and 9 exactly once, write the largest possible 6-digit odd number.
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Using each of the digits 3, 5, 8, 0, 1 and 9 exactly once, write the largest possible 6-digit odd number.
+
+--- Ordering numbers up to 1 000 000 ---
+
+31. Look at the picture! {user_name} is looking at this.
+Order these numbers starting with the smallest: 45 200, 42 500, 54 200, 42 050.
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Order these numbers starting with the smallest: 45 200, 42 500, 54 200, 42 050.
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Order these numbers starting with the smallest: 45 200, 42 500, 54 200, 42 050.
+
+34. Look at the picture! {user_name} is looking at this.
+Order these numbers in descending order (largest first): 350 200, 305 200, 352 000, 305 020.
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Order these numbers in descending order (largest first): 350 200, 305 200, 352 000, 305 020.
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Order these numbers in descending order (largest first): 350 200, 305 200, 352 000, 305 020.
+
+37. Look at the picture! {user_name} is looking at this.
+A museum recorded its annual visitor numbers over four years: 618 450, 681 405, 618 540, 681 045. Write these visitor numbers in ascending order (smallest first).
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A museum recorded its annual visitor numbers over four years: 618 450, 681 405, 618 540, 681 045. Write these visitor numbers in ascending order (smallest first).
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A museum recorded its annual visitor numbers over four years: 618 450, 681 405, 618 540, 681 045. Write these visitor numbers in ascending order (smallest first).
+
+40. Look at the picture! {user_name} is looking at this.
+Four runners logged their total steps in a year: Runner A logged 745 820 steps, Runner B logged 754 280 steps, Runner C logged 745 280 steps, and Runner D logged 754 802 steps. List the runners in order from most steps to fewest steps.
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Four runners logged their total steps in a year: Runner A logged 745 820 steps, Runner B logged 754 280 steps, Runner C logged 745 280 steps, and Runner D logged 754 802 steps. List the runners in order from most steps to fewest steps.
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Four runners logged their total steps in a year: Runner A logged 745 820 steps, Runner B logged 754 280 steps, Runner C logged 745 280 steps, and Runner D logged 754 802 steps. List the runners in order from most steps to fewest steps.
+
+--- Comparing numbers up to 1 000 000 ---
+
+43. Look at the picture! {user_name} is looking at this.
+Write <, > or = to make the statement true: 345 670 [ ] 354 670
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write <, > or = to make the statement true: 345 670 [ ] 354 670
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Write <, > or = to make the statement true: 345 670 [ ] 354 670
+
+46. Look at the picture! {user_name} is looking at this.
+Write <, > or = to make the statement true: 700 000 + 40 000 + 800 [ ] 740 080
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write <, > or = to make the statement true: 700 000 + 40 000 + 800 [ ] 740 080
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Write <, > or = to make the statement true: 700 000 + 40 000 + 800 [ ] 740 080
+
+49. Look at the picture! {user_name} is looking at this.
+Stadium A holds 125 400 people. Stadium B holds 125 040 people. Which stadium has the greater capacity?
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+Stadium A holds 125 400 people. Stadium B holds 125 040 people. Which stadium has the greater capacity?
+
+51. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Stadium A holds 125 400 people. Stadium B holds 125 040 people. Which stadium has the greater capacity?
+
+52. Look at the picture! {user_name} is looking at this.
+Look at the inequality: 456 320 < 45_ 320 < 459 320. Which single digits could replace the blank space to make the statement correct?
+
+53. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Look at the inequality: 456 320 < 45_ 320 < 459 320. Which single digits could replace the blank space to make the statement correct?
+
+54. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Look at the inequality: 456 320 < 45_ 320 < 459 320. Which single digits could replace the blank space to make the statement correct?
+
+55. Look at the picture! {user_name} is looking at this.
+Which number is greater: 5 hundred thousands and 4 tens, or 504 000? Write the greater number in digits.
+
+56. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Which number is greater: 5 hundred thousands and 4 tens, or 504 000? Write the greater number in digits.
+
+57. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Which number is greater: 5 hundred thousands and 4 tens, or 504 000? Write the greater number in digits.
