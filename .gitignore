@@ -4,6 +4,10 @@ __pycache__/
 
 # Ignore virtual environments
 venv/
+.venv/
+
+# Ignore env files / secrets
+.env
 .env/
 *.env
 .env.*
@@ -15,3 +19,6 @@ Thumbs.db
 
 # Runtime personalised previews
 new_pipeline/_runtime/
+
+# Deterministic face-swap cache (regenerate via scripts/preprocess_templates.py)
+pipeline_cache/
