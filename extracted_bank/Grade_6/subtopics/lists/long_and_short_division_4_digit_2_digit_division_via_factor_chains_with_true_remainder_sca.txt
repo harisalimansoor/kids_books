@@ -1,0 +1,13 @@
+###################################
+Long and short division (4-digit ÷ 2-digit); division via factor chains with true remainder scaling; contextual remainder interpretation (rounding up/down)
+###################################
+Domain: Addition, Subtraction, Multiplication, Division & Operations
+
+1. Long and short division (4-digit ÷ 2-digit)
+   From: Long and short division ($4\text{-digit} \div 2\text{-digit}$)
+
+2. Division via factor chains with true remainder scaling
+   From: division via factor chains with true remainder scaling
+
+3. Contextual remainder interpretation (rounding up/down)
+   From: contextual remainder interpretation (rounding up/down)

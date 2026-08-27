@@ -1,0 +1,113 @@
+###################################
+Distinguishing regular and irregular polygons based on equal sides and equal angles
+###################################
+
+--- Distinguishing regular and irregular polygons based on equal sides and equal angles ---
+
+1. Look at the picture! {user_name} is looking at this.
+A 2D shape is a regular polygon if it has two specific geometric properties. One property is that all of its sides are equal in length. What is the other property?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A 2D shape is a regular polygon if it has two specific geometric properties. One property is that all of its sides are equal in length. What is the other property?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A 2D shape is a regular polygon if it has two specific geometric properties. One property is that all of its sides are equal in length. What is the other property?
+
+4. Look at the picture! {user_name} is looking at this.
+A triangle has side lengths of 7 cm, 7 cm, and 7 cm. Each of its three interior angles measures 60°. Is this triangle regular or irregular?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A triangle has side lengths of 7 cm, 7 cm, and 7 cm. Each of its three interior angles measures 60°. Is this triangle regular or irregular?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A triangle has side lengths of 7 cm, 7 cm, and 7 cm. Each of its three interior angles measures 60°. Is this triangle regular or irregular?
+
+7. Look at the picture! {user_name} is looking at this.
+A rectangle has side lengths of 8 cm, 3 cm, 8 cm, and 3 cm. All four of its interior angles are 90°. Is this rectangle regular or irregular?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectangle has side lengths of 8 cm, 3 cm, 8 cm, and 3 cm. All four of its interior angles are 90°. Is this rectangle regular or irregular?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A rectangle has side lengths of 8 cm, 3 cm, 8 cm, and 3 cm. All four of its interior angles are 90°. Is this rectangle regular or irregular?
+
+10. Look at the picture! {user_name} is looking at this.
+A rhombus has four sides that are each 6 cm long. Two of its angles measure 70° and two measure 110°. State whether the rhombus is regular or irregular.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rhombus has four sides that are each 6 cm long. Two of its angles measure 70° and two measure 110°. State whether the rhombus is regular or irregular.
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A rhombus has four sides that are each 6 cm long. Two of its angles measure 70° and two measure 110°. State whether the rhombus is regular or irregular.
+
+13. Look at the picture! {user_name} is looking at this.
+What is the special name for a regular quadrilateral that has four equal sides and four equal angles of 90°?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is the special name for a regular quadrilateral that has four equal sides and four equal angles of 90°?
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+What is the special name for a regular quadrilateral that has four equal sides and four equal angles of 90°?
+
+16. Look at the picture! {user_name} is looking at this.
+A regular hexagon has a perimeter of 48 cm. Calculate the length of one of its sides in centimetres.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A regular hexagon has a perimeter of 48 cm. Calculate the length of one of its sides in centimetres.
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A regular hexagon has a perimeter of 48 cm. Calculate the length of one of its sides in centimetres.
+
+19. Look at the picture! {user_name} is looking at this.
+A polygon has six sides. Five of the sides measure 9 cm and one side measures 11 cm. Is this shape a regular hexagon or an irregular hexagon?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+A polygon has six sides. Five of the sides measure 9 cm and one side measures 11 cm. Is this shape a regular hexagon or an irregular hexagon?
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A polygon has six sides. Five of the sides measure 9 cm and one side measures 11 cm. Is this shape a regular hexagon or an irregular hexagon?
+
+22. Look at the picture! {user_name} is looking at this.
+Liam says: 'If all the angles in a quadrilateral are 90°, the shape must be regular.' Name a quadrilateral that proves Liam is wrong.
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Liam says: 'If all the angles in a quadrilateral are 90°, the shape must be regular.' Name a quadrilateral that proves Liam is wrong.
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Liam says: 'If all the angles in a quadrilateral are 90°, the shape must be regular.' Name a quadrilateral that proves Liam is wrong.
+
+25. Look at the picture! {user_name} is looking at this.
+A regular pentagon has 5 equal sides and 5 equal angles. The sum of all its interior angles is 540°. Calculate the size of one interior angle in degrees.
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A regular pentagon has 5 equal sides and 5 equal angles. The sum of all its interior angles is 540°. Calculate the size of one interior angle in degrees.
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A regular pentagon has 5 equal sides and 5 equal angles. The sum of all its interior angles is 540°. Calculate the size of one interior angle in degrees.
+
+28. Look at the picture! {user_name} is looking at this.
+A regular octagon has sides of length 7 cm. An irregular octagon has side lengths of 7 cm, 7 cm, 7 cm, 7 cm, 7 cm, 7 cm, 7 cm, and 12 cm. What is the difference between their perimeters in centimetres?
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A regular octagon has sides of length 7 cm. An irregular octagon has side lengths of 7 cm, 7 cm, 7 cm, 7 cm, 7 cm, 7 cm, 7 cm, and 12 cm. What is the difference between their perimeters in centimetres?
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A regular octagon has sides of length 7 cm. An irregular octagon has side lengths of 7 cm, 7 cm, 7 cm, 7 cm, 7 cm, 7 cm, 7 cm, and 12 cm. What is the difference between their perimeters in centimetres?
+
+31. Look at the picture! {user_name} is looking at this.
+A 5-sided polygon has side lengths of 4 cm, 4 cm, 4 cm, 4 cm, and 4 cm. Four of its interior angles are 110° and one interior angle is 100°. State whether this polygon is regular or irregular, and give the mathematical reason why.
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A 5-sided polygon has side lengths of 4 cm, 4 cm, 4 cm, 4 cm, and 4 cm. Four of its interior angles are 110° and one interior angle is 100°. State whether this polygon is regular or irregular, and give the mathematical reason why.
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A 5-sided polygon has side lengths of 4 cm, 4 cm, 4 cm, 4 cm, and 4 cm. Four of its interior angles are 110° and one interior angle is 100°. State whether this polygon is regular or irregular, and give the mathematical reason why.
+
+34. Look at the picture! {user_name} is looking at this.
+The interior angles of a regular hexagon add up to 720°. Work out the size of one interior angle of a regular hexagon in degrees.
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The interior angles of a regular hexagon add up to 720°. Work out the size of one interior angle of a regular hexagon in degrees.
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+The interior angles of a regular hexagon add up to 720°. Work out the size of one interior angle of a regular hexagon in degrees.

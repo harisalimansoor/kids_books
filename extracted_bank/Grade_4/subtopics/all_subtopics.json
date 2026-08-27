@@ -1,0 +1,756 @@
+{
+  "grade": 4,
+  "status": "completed",
+  "topics": {
+    "Y4.NPV.1": {
+      "topic_code": "Y4.NPV.1",
+      "topic": "4-digit place value (1000s, 100s, 10s, 1s) and standard partitioning",
+      "domain_code": "Y4.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "4-digit place value (1000s, 100s, 10s, 1s)",
+          "evidence": "4-digit place value (1000s, 100s, 10s, 1s)"
+        },
+        {
+          "name": "Standard partitioning",
+          "evidence": "standard partitioning"
+        }
+      ]
+    },
+    "Y4.NPV.2": {
+      "topic_code": "Y4.NPV.2",
+      "topic": "Flexible non-standard partitioning and part-whole representations",
+      "domain_code": "Y4.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Flexible non-standard partitioning",
+          "evidence": "Flexible non-standard partitioning"
+        },
+        {
+          "name": "Part-whole representations",
+          "evidence": "part-whole representations"
+        }
+      ]
+    },
+    "Y4.NPV.3": {
+      "topic_code": "Y4.NPV.3",
+      "topic": "Counting in multiples of 6, 7, 9, 25, 1000",
+      "domain_code": "Y4.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Counting in multiples of 6",
+          "evidence": "multiples of 6"
+        },
+        {
+          "name": "Counting in multiples of 7",
+          "evidence": "multiples of 7"
+        },
+        {
+          "name": "Counting in multiples of 9",
+          "evidence": "multiples of 9"
+        },
+        {
+          "name": "Counting in multiples of 25",
+          "evidence": "multiples of 25"
+        },
+        {
+          "name": "Counting in multiples of 1000",
+          "evidence": "multiples of 1000"
+        }
+      ]
+    },
+    "Y4.NPV.4": {
+      "topic_code": "Y4.NPV.4",
+      "topic": "Finding 10, 100, 1000 more or less across boundaries",
+      "domain_code": "Y4.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Finding 10 more or less",
+          "evidence": "Finding 10 ... more or less across boundaries"
+        },
+        {
+          "name": "Finding 100 more or less",
+          "evidence": "Finding ... 100 ... more or less across boundaries"
+        },
+        {
+          "name": "Finding 1000 more or less",
+          "evidence": "find 1000 more or less than a given number"
+        }
+      ]
+    },
+    "Y4.NPV.5": {
+      "topic_code": "Y4.NPV.5",
+      "topic": "Negative numbers through zero (number lines, temperature contexts)",
+      "domain_code": "Y4.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Number lines",
+          "evidence": "number lines"
+        },
+        {
+          "name": "Temperature contexts",
+          "evidence": "temperature contexts"
+        }
+      ]
+    },
+    "Y4.NPV.6": {
+      "topic_code": "Y4.NPV.6",
+      "topic": "Ordering and comparing numbers beyond 1000 (<, >, =)",
+      "domain_code": "Y4.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Comparing numbers beyond 1000 (<, >, =)",
+          "evidence": "Order and compare numbers beyond 1000 using $<, >, =$"
+        },
+        {
+          "name": "Ordering numbers beyond 1000",
+          "evidence": "order and compare numbers beyond 1000"
+        }
+      ]
+    },
+    "Y4.NPV.7": {
+      "topic_code": "Y4.NPV.7",
+      "topic": "Rounding to the nearest 10, 100, 1000 (midpoint rules)",
+      "domain_code": "Y4.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Rounding to the nearest 10",
+          "evidence": "Rounding to the nearest 10"
+        },
+        {
+          "name": "Rounding to the nearest 100",
+          "evidence": "100"
+        },
+        {
+          "name": "Rounding to the nearest 1000",
+          "evidence": "1000"
+        },
+        {
+          "name": "Midpoint rules",
+          "evidence": "midpoint rules"
+        }
+      ]
+    },
+    "Y4.NPV.8": {
+      "topic_code": "Y4.NPV.8",
+      "topic": "Roman numerals to 100 (I to C) and place value history",
+      "domain_code": "Y4.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Roman numerals to 100 (I to C)",
+          "evidence": "Roman numerals to 100 (I to C)"
+        },
+        {
+          "name": "Place value history",
+          "evidence": "place value history"
+        }
+      ]
+    },
+    "Y4.AS.1": {
+      "topic_code": "Y4.AS.1",
+      "topic": "Mental addition and subtraction (compensation, near-multiples, constant difference)",
+      "domain_code": "Y4.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Compensation",
+          "evidence": "compensation"
+        },
+        {
+          "name": "Near-multiples",
+          "evidence": "near-multiples"
+        },
+        {
+          "name": "Constant difference",
+          "evidence": "constant difference"
+        }
+      ]
+    },
+    "Y4.AS.2": {
+      "topic_code": "Y4.AS.2",
+      "topic": "Formal columnar addition up to 4 digits (single and multiple exchanges)",
+      "domain_code": "Y4.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Single exchange",
+          "evidence": "single and multiple exchanges"
+        },
+        {
+          "name": "Multiple exchanges",
+          "evidence": "single and multiple exchanges"
+        }
+      ]
+    },
+    "Y4.AS.3": {
+      "topic_code": "Y4.AS.3",
+      "topic": "Formal columnar subtraction up to 4 digits (decomposition across zeros)",
+      "domain_code": "Y4.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Formal columnar subtraction up to 4 digits (decomposition across zeros)",
+          "evidence": "Y4.AS.3: Formal columnar subtraction up to 4 digits (decomposition across zeros)"
+        }
+      ]
+    },
+    "Y4.AS.4": {
+      "topic_code": "Y4.AS.4",
+      "topic": "Estimation and inverse operation checking (A - B = C if and only if C + B = A)",
+      "domain_code": "Y4.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Estimation",
+          "evidence": "estimate and use inverse operations to check answers to a calculation"
+        },
+        {
+          "name": "Inverse operation checking",
+          "evidence": "inverse operation checking ($A - B = C \\iff C + B = A$)"
+        }
+      ]
+    },
+    "Y4.AS.5": {
+      "topic_code": "Y4.AS.5",
+      "topic": "Multi-step contextual word problems using bar models",
+      "domain_code": "Y4.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Multi-step contextual word problems using bar models",
+          "evidence": "Y4.AS.5: Multi-step contextual word problems using bar models"
+        }
+      ]
+    },
+    "Y4.MD.1": {
+      "topic_code": "Y4.MD.1",
+      "topic": "Multiplication and division facts up to 12 x 12",
+      "domain_code": "Y4.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Multiplication facts up to 12 × 12",
+          "evidence": "recall multiplication and division facts for multiplication tables up to 12 × 12"
+        },
+        {
+          "name": "Division facts up to 12 × 12",
+          "evidence": "recall multiplication and division facts for multiplication tables up to 12 × 12"
+        }
+      ]
+    },
+    "Y4.MD.2": {
+      "topic_code": "Y4.MD.2",
+      "topic": "Properties of 0 and 1 (x 0, x 1, ÷ 1)",
+      "domain_code": "Y4.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Multiplying by 0",
+          "evidence": "multiplying by 0 and 1"
+        },
+        {
+          "name": "Multiplying by 1",
+          "evidence": "multiplying by 0 and 1"
+        },
+        {
+          "name": "Dividing by 1",
+          "evidence": "dividing by 1"
+        }
+      ]
+    },
+    "Y4.MD.3": {
+      "topic_code": "Y4.MD.3",
+      "topic": "Associative law with 3 factors (efficient pairing)",
+      "domain_code": "Y4.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Associative law with 3 factors (efficient pairing)",
+          "evidence": "Y4.MD.3: Associative law with 3 factors (efficient pairing)"
+        }
+      ]
+    },
+    "Y4.MD.4": {
+      "topic_code": "Y4.MD.4",
+      "topic": "Factor pairs and mental factor splitting",
+      "domain_code": "Y4.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Factor pairs",
+          "evidence": "recognise and use factor pairs and commutativity in mental calculations"
+        },
+        {
+          "name": "Mental factor splitting",
+          "evidence": "Multiplication splitting: 24 × 5 = 12 × 10 = 120"
+        }
+      ]
+    },
+    "Y4.MD.5": {
+      "topic_code": "Y4.MD.5",
+      "topic": "Distributive law multiplication (18 x 6 = 10 x 6 + 8 x 6)",
+      "domain_code": "Y4.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Distributive law multiplication (18 x 6 = 10 x 6 + 8 x 6)",
+          "evidence": "Y4.MD.5: Distributive law multiplication ($18 \\times 6 = 10 \\times 6 + 8 \\times 6$)"
+        }
+      ]
+    },
+    "Y4.MD.6": {
+      "topic_code": "Y4.MD.6",
+      "topic": "Formal short multiplication (2D x 1D and 3D x 1D)",
+      "domain_code": "Y4.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Formal short multiplication (2-digit by 1-digit)",
+          "evidence": "multiply two-digit and three-digit numbers by a one-digit number using formal written layout"
+        },
+        {
+          "name": "Formal short multiplication (3-digit by 1-digit)",
+          "evidence": "Short multiplication (3D × 1D)"
+        }
+      ]
+    },
+    "Y4.MD.7": {
+      "topic_code": "Y4.MD.7",
+      "topic": "Division of 2D/3D ÷ 1D via friendly multiples and bounding multiples",
+      "domain_code": "Y4.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Friendly multiples",
+          "evidence": "Division of $2\\text{D}/3\\text{D} \\div 1\\text{D}$ via friendly multiples"
+        },
+        {
+          "name": "Bounding multiples",
+          "evidence": "bounding multiples"
+        }
+      ]
+    },
+    "Y4.MD.8": {
+      "topic_code": "Y4.MD.8",
+      "topic": "Division with remainders: D = q x d + r with 0 <= r < d",
+      "domain_code": "Y4.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Division with remainders: D = q \\× d + r with 0 \\≤ r < d",
+          "evidence": "Division with remainders: $D = q \\× d + r$ with $0 \\≤ r < d$"
+        }
+      ]
+    },
+    "Y4.MD.9": {
+      "topic_code": "Y4.MD.9",
+      "topic": "3-way contextual remainder decision handling (q vs q+1 vs r)",
+      "domain_code": "Y4.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Ignore remainder / round down (q)",
+          "evidence": "Ignore Remainder / Round Down ($q$)"
+        },
+        {
+          "name": "Include remainder / round up (q + 1)",
+          "evidence": "Include Remainder / Round Up ($q + 1$)"
+        },
+        {
+          "name": "Record remainder as leftover (r)",
+          "evidence": "Record Remainder as Leftover"
+        }
+      ]
+    },
+    "Y4.MD.10": {
+      "topic_code": "Y4.MD.10",
+      "topic": "Integer scaling, rate problems, and n x m correspondence problems",
+      "domain_code": "Y4.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Integer scaling",
+          "evidence": "Integer scaling"
+        },
+        {
+          "name": "Rate problems",
+          "evidence": "rate problems"
+        },
+        {
+          "name": "n x m correspondence problems",
+          "evidence": "$n \\times m$ correspondence problems"
+        }
+      ]
+    },
+    "Y4.FD.1": {
+      "topic_code": "Y4.FD.1",
+      "topic": "Equivalent fraction families and fraction simplification",
+      "domain_code": "Y4.FD",
+      "domain": "Fractions and Decimals",
+      "subtopics": [
+        {
+          "name": "Equivalent fraction families",
+          "evidence": "Equivalent fraction families and fraction simplification"
+        },
+        {
+          "name": "Fraction simplification",
+          "evidence": "simplify fractions"
+        }
+      ]
+    },
+    "Y4.FD.2": {
+      "topic_code": "Y4.FD.2",
+      "topic": "Fractions greater than 1: improper fractions and mixed numbers",
+      "domain_code": "Y4.FD",
+      "domain": "Fractions and Decimals",
+      "subtopics": [
+        {
+          "name": "Improper fractions",
+          "evidence": "Fractions greater than 1: improper fractions and mixed numbers"
+        },
+        {
+          "name": "Mixed numbers",
+          "evidence": "Fractions greater than 1: improper fractions and mixed numbers"
+        }
+      ]
+    },
+    "Y4.FD.3": {
+      "topic_code": "Y4.FD.3",
+      "topic": "Adding and subtracting fractions with the same denominator",
+      "domain_code": "Y4.FD",
+      "domain": "Fractions and Decimals",
+      "subtopics": [
+        {
+          "name": "Adding fractions with the same denominator",
+          "evidence": "Adding and subtracting fractions with the same denominator"
+        },
+        {
+          "name": "Subtracting fractions with the same denominator",
+          "evidence": "Adding and subtracting fractions with the same denominator"
+        }
+      ]
+    },
+    "Y4.FD.4": {
+      "topic_code": "Y4.FD.4",
+      "topic": "Fractions of quantities (unit and non-unit fractions) and inverse scaling",
+      "domain_code": "Y4.FD",
+      "domain": "Fractions and Decimals",
+      "subtopics": [
+        {
+          "name": "Unit fractions of quantities",
+          "evidence": "unit and non-unit fractions"
+        },
+        {
+          "name": "Non-unit fractions of quantities",
+          "evidence": "non-unit fractions where the answer is a whole number"
+        },
+        {
+          "name": "Inverse scaling",
+          "evidence": "and inverse scaling"
+        }
+      ]
+    },
+    "Y4.FD.5": {
+      "topic_code": "Y4.FD.5",
+      "topic": "Tenths and hundredths as fractions and decimals (0.1 = \\frac{1{10, 0.01 = \\frac{1{100)",
+      "domain_code": "Y4.FD",
+      "domain": "Fractions and Decimals",
+      "subtopics": [
+        {
+          "name": "Tenths as fractions and decimals",
+          "evidence": "Tenths ... as fractions and decimals ($0.1 = \\frac{1}{10}$)"
+        },
+        {
+          "name": "Hundredths as fractions and decimals",
+          "evidence": "hundredths as fractions and decimals ($0.01 = \\frac{1}{100}$)"
+        }
+      ]
+    },
+    "Y4.FD.6": {
+      "topic_code": "Y4.FD.6",
+      "topic": "Decimal place value (tenths, hundredths, zero as placeholder)",
+      "domain_code": "Y4.FD",
+      "domain": "Fractions and Decimals",
+      "subtopics": [
+        {
+          "name": "Tenths",
+          "evidence": "tenths"
+        },
+        {
+          "name": "Hundredths",
+          "evidence": "hundredths"
+        },
+        {
+          "name": "Zero as placeholder",
+          "evidence": "zero as placeholder"
+        }
+      ]
+    },
+    "Y4.FD.7": {
+      "topic_code": "Y4.FD.7",
+      "topic": "Dividing 1- and 2-digit numbers by 10 and 100 (digit shifts)",
+      "domain_code": "Y4.FD",
+      "domain": "Fractions and Decimals",
+      "subtopics": [
+        {
+          "name": "Dividing 1- and 2-digit numbers by 10",
+          "evidence": "Dividing 1- and 2-digit numbers by 10 and 100"
+        },
+        {
+          "name": "Dividing 1- and 2-digit numbers by 100",
+          "evidence": "Dividing 1- and 2-digit numbers by 10 and 100"
+        }
+      ]
+    },
+    "Y4.FD.8": {
+      "topic_code": "Y4.FD.8",
+      "topic": "Comparing, ordering, and rounding decimals (1 d.p. to nearest integer)",
+      "domain_code": "Y4.FD",
+      "domain": "Fractions and Decimals",
+      "subtopics": [
+        {
+          "name": "Comparing decimals",
+          "evidence": "Comparing... decimals"
+        },
+        {
+          "name": "Ordering decimals",
+          "evidence": "ordering... decimals"
+        },
+        {
+          "name": "Rounding decimals (1 d.p. to nearest integer)",
+          "evidence": "rounding decimals (1 d.p. to nearest integer)"
+        }
+      ]
+    },
+    "Y4.MEA.1": {
+      "topic_code": "Y4.MEA.1",
+      "topic": "Metric conversions (km-m, m-cm-mm, kg-g, l-ml)",
+      "domain_code": "Y4.MEA",
+      "domain": "Measurement, Money and Time",
+      "subtopics": [
+        {
+          "name": "Converting between kilometres and metres (km and m)",
+          "evidence": "km-m in Metric conversions (km-m, m-cm-mm, kg-g, l-ml)"
+        },
+        {
+          "name": "Converting between metres, centimetres and millimetres (m, cm and mm)",
+          "evidence": "m-cm-mm in Metric conversions (km-m, m-cm-mm, kg-g, l-ml)"
+        },
+        {
+          "name": "Converting between kilograms and grams (kg and g)",
+          "evidence": "kg-g in Metric conversions (km-m, m-cm-mm, kg-g, l-ml)"
+        },
+        {
+          "name": "Converting between litres and millilitres (l and ml)",
+          "evidence": "l-ml in Metric conversions (km-m, m-cm-mm, kg-g, l-ml)"
+        }
+      ]
+    },
+    "Y4.MEA.2": {
+      "topic_code": "Y4.MEA.2",
+      "topic": "Perimeter of rectilinear shapes in cm and m",
+      "domain_code": "Y4.MEA",
+      "domain": "Measurement, Money and Time",
+      "subtopics": [
+        {
+          "name": "Perimeter of rectilinear shapes in cm and m",
+          "evidence": "Y4.MEA.2: Perimeter of rectilinear shapes in $\\text{cm}$ and $\\text{m}$."
+        }
+      ]
+    },
+    "Y4.MEA.3": {
+      "topic_code": "Y4.MEA.3",
+      "topic": "Area of rectilinear shapes by counting squares",
+      "domain_code": "Y4.MEA",
+      "domain": "Measurement, Money and Time",
+      "subtopics": [
+        {
+          "name": "Area of rectilinear shapes by counting squares",
+          "evidence": "find the area of rectilinear shapes by counting squares"
+        }
+      ]
+    },
+    "Y4.MEA.4": {
+      "topic_code": "Y4.MEA.4",
+      "topic": "Money calculations in pounds and pence (£.pp and p)",
+      "domain_code": "Y4.MEA",
+      "domain": "Measurement, Money and Time",
+      "subtopics": [
+        {
+          "name": "Money calculations in pounds and pence (£.pp and p)",
+          "evidence": "Y4.MEA.4: Money calculations in pounds and pence (£.pp and p)"
+        }
+      ]
+    },
+    "Y4.MEA.5": {
+      "topic_code": "Y4.MEA.5",
+      "topic": "Time conversions (hr/min/sec, yr/mth, wk/day) and 12h/24h durations",
+      "domain_code": "Y4.MEA",
+      "domain": "Measurement, Money and Time",
+      "subtopics": [
+        {
+          "name": "Converting between hours, minutes and seconds",
+          "evidence": "converting from hours to minutes; minutes to seconds"
+        },
+        {
+          "name": "Converting between years and months",
+          "evidence": "years to months"
+        },
+        {
+          "name": "Converting between weeks and days",
+          "evidence": "weeks to days"
+        },
+        {
+          "name": "12-hour and 24-hour time and durations",
+          "evidence": "Read, write, and convert time between analogue and digital 12- and 24-hour clocks; calculate durations."
+        }
+      ]
+    },
+    "Y4.GEO.1": {
+      "topic_code": "Y4.GEO.1",
+      "topic": "Classifying 2-D shapes: quadrilaterals and triangles",
+      "domain_code": "Y4.GEO",
+      "domain": "Geometry (Properties of Shapes, Position and Direction)",
+      "subtopics": [
+        {
+          "name": "Quadrilaterals",
+          "evidence": "quadrilaterals"
+        },
+        {
+          "name": "Triangles",
+          "evidence": "triangles"
+        }
+      ]
+    },
+    "Y4.GEO.2": {
+      "topic_code": "Y4.GEO.2",
+      "topic": "Angles: identifying and ordering acute, right, and obtuse angles (<180^ degrees)",
+      "domain_code": "Y4.GEO",
+      "domain": "Geometry (Properties of Shapes, Position and Direction)",
+      "subtopics": [
+        {
+          "name": "Identifying acute, right, and obtuse angles",
+          "evidence": "identify acute and obtuse angles"
+        },
+        {
+          "name": "Comparing and ordering angles up to two right angles",
+          "evidence": "compare and order angles up to 2 right angles ($180^\\circ$)"
+        }
+      ]
+    },
+    "Y4.GEO.3": {
+      "topic_code": "Y4.GEO.3",
+      "topic": "Line symmetry in 2-D shapes; completing symmetric figures",
+      "domain_code": "Y4.GEO",
+      "domain": "Geometry (Properties of Shapes, Position and Direction)",
+      "subtopics": [
+        {
+          "name": "Line symmetry in 2-D shapes",
+          "evidence": "Line symmetry in 2-D shapes"
+        },
+        {
+          "name": "Completing symmetric figures",
+          "evidence": "completing symmetric figures"
+        }
+      ]
+    },
+    "Y4.GEO.4": {
+      "topic_code": "Y4.GEO.4",
+      "topic": "Coordinates in the first quadrant: reading, plotting (x, y), missing polygon vertices",
+      "domain_code": "Y4.GEO",
+      "domain": "Geometry (Properties of Shapes, Position and Direction)",
+      "subtopics": [
+        {
+          "name": "Reading coordinates in the first quadrant",
+          "evidence": "reading, plotting $(x, y)$"
+        },
+        {
+          "name": "Plotting coordinates (x, y)",
+          "evidence": "plot specified points and draw sides to complete a given polygon"
+        },
+        {
+          "name": "Missing polygon vertices",
+          "evidence": "missing polygon vertices"
+        }
+      ]
+    },
+    "Y4.GEO.5": {
+      "topic_code": "Y4.GEO.5",
+      "topic": "Translations on a grid (units left/right and up/down)",
+      "domain_code": "Y4.GEO",
+      "domain": "Geometry (Properties of Shapes, Position and Direction)",
+      "subtopics": [
+        {
+          "name": "Translations left and right",
+          "evidence": "units left/right"
+        },
+        {
+          "name": "Translations up and down",
+          "evidence": "up/down"
+        }
+      ]
+    },
+    "Y4.STA.1": {
+      "topic_code": "Y4.STA.1",
+      "topic": "Discrete data displays: pictograms (scaled keys, fractional symbols), bar charts, two-way tables",
+      "domain_code": "Y4.STA",
+      "domain": "Statistics",
+      "subtopics": [
+        {
+          "name": "Pictograms (scaled keys, fractional symbols)",
+          "evidence": "pictograms (scaled keys, fractional symbols)"
+        },
+        {
+          "name": "Bar charts",
+          "evidence": "bar charts"
+        },
+        {
+          "name": "Two-way tables",
+          "evidence": "two-way tables"
+        }
+      ]
+    },
+    "Y4.STA.2": {
+      "topic_code": "Y4.STA.2",
+      "topic": "Continuous data displays: line graphs / time graphs",
+      "domain_code": "Y4.STA",
+      "domain": "Statistics",
+      "subtopics": [
+        {
+          "name": "Continuous data displays: line graphs / time graphs",
+          "evidence": "Y4.STA.2: Continuous data displays: line graphs / time graphs"
+        }
+      ]
+    },
+    "Y4.STA.3": {
+      "topic_code": "Y4.STA.3",
+      "topic": "Data problem solving: comparison, sum, and difference questions",
+      "domain_code": "Y4.STA",
+      "domain": "Statistics",
+      "subtopics": [
+        {
+          "name": "Comparison questions",
+          "evidence": "comparison, sum, and difference questions"
+        },
+        {
+          "name": "Sum questions",
+          "evidence": "comparison, sum, and difference questions"
+        },
+        {
+          "name": "Difference questions",
+          "evidence": "comparison, sum, and difference questions"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-22T07:48:45.922689+00:00",
+  "completed_at": "2026-08-22T07:48:45.951224+00:00"
+}

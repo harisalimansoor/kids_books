@@ -1,0 +1,13 @@
+###################################
+Translations and reflections in axes and arbitrary mirror lines (e.g. x = 14); coordinate region tests
+###################################
+Domain: Geometry: Position and Direction
+
+1. Translations
+   From: Translations
+
+2. Reflections in axes and arbitrary mirror lines
+   From: reflections in axes and arbitrary mirror lines (e.g. $x = 14$)
+
+3. Coordinate region tests
+   From: coordinate region tests

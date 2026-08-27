@@ -1,0 +1,19 @@
+###################################
+Mean average: equal redistribution, calculation including zero, dynamic updates with new data, reverse mean, divisibility checks (T = n x \bar{x)
+###################################
+Domain: Statistics
+
+1. Equal redistribution
+   From: equal redistribution
+
+2. Calculation including zero
+   From: calculation including zero
+
+3. Dynamic updates with new data
+   From: dynamic updates with new data
+
+4. Reverse mean
+   From: reverse mean
+
+5. Divisibility checks
+   From: divisibility checks ($T = n 	imes ar{x}$)

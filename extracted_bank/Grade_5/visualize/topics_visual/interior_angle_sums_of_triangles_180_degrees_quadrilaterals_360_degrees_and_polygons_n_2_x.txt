@@ -1,0 +1,180 @@
+###################################
+Interior angle sums of triangles (180^ degrees), quadrilaterals (360^ degrees), and polygons ((n-2) x 180^ degrees)
+###################################
+
+--- Interior angle sums of triangles (180^ degrees) ---
+
+1. Look at the picture! {user_name} is looking at this.
+Two angles in a triangle measure 70° and 50°. What is the size of the third angle?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Two angles in a triangle measure 70° and 50°. What is the size of the third angle?
+
+3. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Two angles in a triangle measure 70° and 50°. What is the size of the third angle?
+
+4. Look at the picture! {user_name} is looking at this.
+A right-angled triangle has one angle measuring 35°. What is the size of the other acute angle?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+A right-angled triangle has one angle measuring 35°. What is the size of the other acute angle?
+
+6. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A right-angled triangle has one angle measuring 35°. What is the size of the other acute angle?
+
+7. Look at the picture! {user_name} is looking at this.
+An isosceles triangle has an angle of 40° between its two equal sides. What is the size of each of the other two equal angles?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+An isosceles triangle has an angle of 40° between its two equal sides. What is the size of each of the other two equal angles?
+
+9. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+An isosceles triangle has an angle of 40° between its two equal sides. What is the size of each of the other two equal angles?
+
+10. Look at the picture! {user_name} is looking at this.
+An isosceles triangle has two equal angles that each measure 68°. What is the size of the third angle?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+An isosceles triangle has two equal angles that each measure 68°. What is the size of the third angle?
+
+12. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+An isosceles triangle has two equal angles that each measure 68°. What is the size of the third angle?
+
+13. Look at the picture! {user_name} is looking at this.
+An equilateral triangle has three equal angles. What is the size of each angle?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An equilateral triangle has three equal angles. What is the size of each angle?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+An equilateral triangle has three equal angles. What is the size of each angle?
+
+16. Look at the picture! {user_name} is looking at this.
+One angle in a triangle is 48°. A second angle is twice the size of the first angle. What is the size of the third angle?
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+One angle in a triangle is 48°. A second angle is twice the size of the first angle. What is the size of the third angle?
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+One angle in a triangle is 48°. A second angle is twice the size of the first angle. What is the size of the third angle?
+
+--- Interior angle sums of quadrilaterals (360^ degrees) ---
+
+19. Look at the picture! {user_name} is looking at this.
+What is the total sum of the interior angles in any four-sided quadrilateral?
+
+20. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+What is the total sum of the interior angles in any four-sided quadrilateral?
+
+21. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+What is the total sum of the interior angles in any four-sided quadrilateral?
+
+22. Look at the picture! {user_name} is looking at this.
+Three interior angles of a quadrilateral measure 110°, 85°, and 95°. What is the size of the fourth angle?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Three interior angles of a quadrilateral measure 110°, 85°, and 95°. What is the size of the fourth angle?
+
+24. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Three interior angles of a quadrilateral measure 110°, 85°, and 95°. What is the size of the fourth angle?
+
+25. Look at the picture! {user_name} is looking at this.
+A quadrilateral has two right angles and an angle measuring 115°. What is the size of the fourth angle?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A quadrilateral has two right angles and an angle measuring 115°. What is the size of the fourth angle?
+
+27. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A quadrilateral has two right angles and an angle measuring 115°. What is the size of the fourth angle?
+
+28. Look at the picture! {user_name} is looking at this.
+A parallelogram has two opposite acute angles that each measure 75°. What is the size of each of the other two equal angles?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A parallelogram has two opposite acute angles that each measure 75°. What is the size of each of the other two equal angles?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A parallelogram has two opposite acute angles that each measure 75°. What is the size of each of the other two equal angles?
+
+31. Look at the picture! {user_name} is looking at this.
+A trapezium has angles measuring 65°, 65°, and 115°. What is the size of the fourth angle?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A trapezium has angles measuring 65°, 65°, and 115°. What is the size of the fourth angle?
+
+33. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A trapezium has angles measuring 65°, 65°, and 115°. What is the size of the fourth angle?
+
+34. Look at the picture! {user_name} is looking at this.
+A kite has two angles that measure 120° and 50°. The other two opposite angles are equal to each other. What is the size of each of the equal angles?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+A kite has two angles that measure 120° and 50°. The other two opposite angles are equal to each other. What is the size of each of the equal angles?
+
+36. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A kite has two angles that measure 120° and 50°. The other two opposite angles are equal to each other. What is the size of each of the equal angles?
+
+--- Interior angle sums of polygons ((n-2) x 180^ degrees) ---
+
+37. Look at the picture! {user_name} is looking at this.
+A pentagon has 5 sides. How many non-overlapping triangles can be formed inside it by drawing straight lines from one vertex?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+A pentagon has 5 sides. How many non-overlapping triangles can be formed inside it by drawing straight lines from one vertex?
+
+39. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A pentagon has 5 sides. How many non-overlapping triangles can be formed inside it by drawing straight lines from one vertex?
+
+40. Look at the picture! {user_name} is looking at this.
+A pentagon can be split into 3 non-overlapping triangles from one vertex. What is the total sum of the interior angles of a pentagon?
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+A pentagon can be split into 3 non-overlapping triangles from one vertex. What is the total sum of the interior angles of a pentagon?
+
+42. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A pentagon can be split into 3 non-overlapping triangles from one vertex. What is the total sum of the interior angles of a pentagon?
+
+43. Look at the picture! {user_name} is looking at this.
+A hexagon has 6 sides. What is the sum of the interior angles of a hexagon?
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A hexagon has 6 sides. What is the sum of the interior angles of a hexagon?
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A hexagon has 6 sides. What is the sum of the interior angles of a hexagon?
+
+46. Look at the picture! {user_name} is looking at this.
+An octagon has 8 sides. Calculate the total sum of all the interior angles of an octagon.
+
+47. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An octagon has 8 sides. Calculate the total sum of all the interior angles of an octagon.
+
+48. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+An octagon has 8 sides. Calculate the total sum of all the interior angles of an octagon.
+
+49. Look at the picture! {user_name} is looking at this.
+A regular pentagon has 5 equal sides and 5 equal angles. The sum of its interior angles is 540°. What is the size of each interior angle?
+
+50. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A regular pentagon has 5 equal sides and 5 equal angles. The sum of its interior angles is 540°. What is the size of each interior angle?
+
+51. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A regular pentagon has 5 equal sides and 5 equal angles. The sum of its interior angles is 540°. What is the size of each interior angle?
+
+52. Look at the picture! {user_name} is looking at this.
+A regular hexagon has 6 equal angles and an interior angle sum of 720°. What is the size of each interior angle?
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A regular hexagon has 6 equal angles and an interior angle sum of 720°. What is the size of each interior angle?
+
+54. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A regular hexagon has 6 equal angles and an interior angle sum of 720°. What is the size of each interior angle?
+
+55. Look at the picture! {user_name} is looking at this.
+A heptagon is a 2-D shape with 7 sides. What is the total sum of the interior angles of a heptagon?
+
+56. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A heptagon is a 2-D shape with 7 sides. What is the total sum of the interior angles of a heptagon?
+
+57. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A heptagon is a 2-D shape with 7 sides. What is the total sum of the interior angles of a heptagon?

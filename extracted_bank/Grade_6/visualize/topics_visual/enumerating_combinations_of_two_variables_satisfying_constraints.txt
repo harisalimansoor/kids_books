@@ -1,0 +1,86 @@
+###################################
+Enumerating combinations of two variables satisfying constraints
+###################################
+
+--- Enumerating combinations of two variables satisfying constraints ---
+
+1. Look at the picture! {user_name} is looking at this.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+3. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+The letters a and b represent positive whole numbers. Given that a + b = 6, list all the possible pairs of values for (a, b).
+
+4. Look at the picture! {user_name} is looking at this.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+6. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+The letters x and y represent whole numbers. If x + 2y = 14 and x = 4, what is the value of y?
+
+7. Look at the picture! {user_name} is looking at this.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+9. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+The letters m and n represent positive whole numbers. Given that 3m + n = 15, list all possible pairs of values for (m, n).
+
+10. Look at the picture! {user_name} is looking at this.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+12. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A school hall has large tables that seat 6 pupils and small tables that seat 4 pupils. Exactly 32 pupils need to be seated, with no empty seats. The hall must use at least one large table and at least one small table. List all possible pairs of (large tables, small tables).
+
+13. Look at the picture! {user_name} is looking at this.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+15. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+The letters x and y represent positive whole numbers. Given the equation 2x + 3y = 24, how many different pairs of values for x and y satisfy this equation?
+
+16. Look at the picture! {user_name} is looking at this.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+In a playground shed, there are only bicycles (2 wheels each) and tricycles (3 wheels each). Altogether there are 23 wheels. There is at least 1 bicycle and at least 1 tricycle. Write down all the possible combinations as (bicycles, tricycles).
+
+19. Look at the picture! {user_name} is looking at this.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+21. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A baker sells boxes of 6 cupcakes and boxes of 10 cupcakes. A customer buys exactly 52 cupcakes in total, purchasing more boxes of 10 than boxes of 6. How many boxes of cupcakes does the customer buy altogether?
+
+22. Look at the picture! {user_name} is looking at this.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+23. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+24. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+The letters a and b are positive whole numbers such that a × b = 36 and a < b. List all the possible values of the sum a + b.
+
+25. Look at the picture! {user_name} is looking at this.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?
+
+27. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Amir has only 20p coins and 50p coins. The total value of his coins is £3.60. He has at least one of each coin. What is the greatest possible number of coins Amir could have in total?

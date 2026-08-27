@@ -1,0 +1,54 @@
+=== Topic: Translations of shapes and finding inverse movements ===
+Domain: Geometry: Position and Direction
+
+--- Translations of shapes ---
+
+Question 1: Point A has coordinates (3, 5). It is translated 4 units to the right and 2 units up. What are the coordinates of point A after the translation?
+Answer: (7, 7)
+Working: Translate 4 units right: add 4 to the x-coordinate: 3 + 4 = 7. Translate 2 units up: add 2 to the y-coordinate: 5 + 2 = 7. The new coordinates are (7, 7).
+
+Question 2: A rectangle has vertices at (2, 1), (2, 4), (7, 4) and (7, 1). The rectangle is translated 3 units to the right and 5 units up. What are the new coordinates of the vertex that started at (7, 4)?
+Answer: (10, 9)
+Working: Add 3 to the x-coordinate: 7 + 3 = 10. Add 5 to the y-coordinate: 4 + 5 = 9. The new coordinates are (10, 9).
+
+Question 3: A triangle is translated on a coordinate grid. One of its vertices moves from (4, 8) to (9, 3). Describe the translation.
+Answer: 5 units right and 5 units down
+Working: Change in x: 9 - 4 = 5 (5 units right). Change in y: 8 - 3 = 5 (5 units down). The translation is 5 units right and 5 units down.
+
+Question 4: A point at (8, 12) is translated to (2, 15). How many units to the left has the point moved?
+Answer: 6 units
+Working: The horizontal movement is from x = 8 to x = 2. 8 - 2 = 6 units to the left.
+
+Question 5: A right-angled triangle has vertices at P(3, 2), Q(3, 7) and R(6, 2). After a translation, vertex P moves to (8, 6). What are the new coordinates of vertex Q?
+Answer: (8, 11)
+Working: Find the translation from P(3, 2) to (8, 6): x increases by 8 - 3 = 5, y increases by 6 - 2 = 4 (5 units right, 4 units up). Apply this to Q(3, 7): new x = 3 + 5 = 8, new y = 7 + 4 = 11. The new coordinates of Q are (8, 11).
+
+Question 6: A square has vertices at (1, 3), (1, 7), (5, 7) and (5, 3). The square is translated 6 units to the right and 2 units down. What are the new coordinates of the vertex that was at (5, 7)?
+Answer: (11, 5)
+Working: Translate 6 units right: 5 + 6 = 11. Translate 2 units down: 7 - 2 = 5. The new coordinates are (11, 5).
+
+--- Finding inverse movements ---
+
+Question 7: A shape is translated 6 units to the left and 4 units down. What translation will move the shape directly back to its original position?
+Answer: 6 units right and 4 units up
+Working: The inverse of 6 units left is 6 units right. The inverse of 4 units down is 4 units up. The inverse movement is 6 units right and 4 units up.
+
+Question 8: After being translated 5 units to the right and 3 units up, a point is at (9, 8). What were the original coordinates of the point?
+Answer: (4, 5)
+Working: Apply the inverse translation: 5 units left and 3 units down. Original x = 9 - 5 = 4. Original y = 8 - 3 = 5. The original coordinates were (4, 5).
+
+Question 9: A counter moves 7 units down and 2 units right on a grid. State the inverse movement needed to return the counter to its starting square.
+Answer: 2 units left and 7 units up
+Working: The inverse of 2 units right is 2 units left. The inverse of 7 units down is 7 units up. The inverse movement is 2 units left and 7 units up (or 7 units up and 2 units left).
+
+Question 10: A parallelogram is translated 4 units to the left and 6 units up. The new position of one vertex is (3, 11). What were the coordinates of this vertex before the translation?
+Answer: (7, 5)
+Working: Use the inverse movement: 4 units right and 6 units down. x-coordinate = 3 + 4 = 7. y-coordinate = 11 - 6 = 5. The original coordinates were (7, 5).
+
+Question 11: A shape is translated 3 units right and 1 unit down, and then translated another 4 units right and 1 unit down. What single translation will return the shape to its starting position?
+Answer: 7 units left and 2 units up
+Working: Total movement: (3 + 4) = 7 units right, and (1 + 1) = 2 units down. The inverse of 7 units right and 2 units down is 7 units left and 2 units up.
+
+Question 12: A square with vertex A at (5, 9) is translated to a new position. To move the square back to its starting position, an inverse translation of 8 units left and 3 units down is required. What were the coordinates of vertex A after the first translation?
+Answer: (13, 12)
+Working: The inverse translation is 8 units left and 3 units down, so the forward translation was 8 units right and 3 units up. New x = 5 + 8 = 13. New y = 9 + 3 = 12. Vertex A was at (13, 12).

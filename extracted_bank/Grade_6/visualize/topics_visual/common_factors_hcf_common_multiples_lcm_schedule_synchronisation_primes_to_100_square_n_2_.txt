@@ -1,0 +1,155 @@
+###################################
+Common factors, HCF, common multiples, LCM (schedule synchronisation), primes to 100, square (n^2) and cube (n^3) powers
+###################################
+
+--- Common factors and HCF ---
+
+1. Look at the picture! {user_name} is looking at this.
+List all the common factors of 18 and 24 in ascending order, separated by commas.
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+List all the common factors of 18 and 24 in ascending order, separated by commas.
+
+3. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+List all the common factors of 18 and 24 in ascending order, separated by commas.
+
+4. Look at the picture! {user_name} is looking at this.
+Find the highest common factor (HCF) of 36 and 48.
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Find the highest common factor (HCF) of 36 and 48.
+
+6. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Find the highest common factor (HCF) of 36 and 48.
+
+7. Look at the picture! {user_name} is looking at this.
+A teacher has 42 red pencils and 70 blue pencils. She wants to divide all the pencils into identical packs containing the same number of red pencils and the same number of blue pencils, with none left over. What is the greatest number of packs she can make?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A teacher has 42 red pencils and 70 blue pencils. She wants to divide all the pencils into identical packs containing the same number of red pencils and the same number of blue pencils, with none left over. What is the greatest number of packs she can make?
+
+9. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A teacher has 42 red pencils and 70 blue pencils. She wants to divide all the pencils into identical packs containing the same number of red pencils and the same number of blue pencils, with none left over. What is the greatest number of packs she can make?
+
+10. Look at the picture! {user_name} is looking at this.
+Find the highest common factor (HCF) of 45, 60, and 75.
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Find the highest common factor (HCF) of 45, 60, and 75.
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Find the highest common factor (HCF) of 45, 60, and 75.
+
+--- Common multiples and LCM (schedule synchronisation) ---
+
+13. Look at the picture! {user_name} is looking at this.
+Find the lowest common multiple (LCM) of 6 and 8.
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Find the lowest common multiple (LCM) of 6 and 8.
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Find the lowest common multiple (LCM) of 6 and 8.
+
+16. Look at the picture! {user_name} is looking at this.
+Write all the common multiples of 4 and 6 that are less than 40, in ascending order and separated by commas.
+
+17. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Write all the common multiples of 4 and 6 that are less than 40, in ascending order and separated by commas.
+
+18. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Write all the common multiples of 4 and 6 that are less than 40, in ascending order and separated by commas.
+
+19. Look at the picture! {user_name} is looking at this.
+Bus A leaves the station every 12 minutes. Bus B leaves the station every 15 minutes. Both buses leave the station together at 08:30. At what time will both buses next leave the station together?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Bus A leaves the station every 12 minutes. Bus B leaves the station every 15 minutes. Both buses leave the station together at 08:30. At what time will both buses next leave the station together?
+
+21. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Bus A leaves the station every 12 minutes. Bus B leaves the station every 15 minutes. Both buses leave the station together at 08:30. At what time will both buses next leave the station together?
+
+22. Look at the picture! {user_name} is looking at this.
+Two lighthouses flash their lights. Lighthouse X flashes every 20 seconds. Lighthouse Y flashes every 35 seconds. If they flash together at 14:00, how many seconds later will they next flash at the same time?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Two lighthouses flash their lights. Lighthouse X flashes every 20 seconds. Lighthouse Y flashes every 35 seconds. If they flash together at 14:00, how many seconds later will they next flash at the same time?
+
+24. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Two lighthouses flash their lights. Lighthouse X flashes every 20 seconds. Lighthouse Y flashes every 35 seconds. If they flash together at 14:00, how many seconds later will they next flash at the same time?
+
+--- Primes to 100 ---
+
+25. Look at the picture! {user_name} is looking at this.
+List all the prime numbers between 20 and 35 in ascending order, separated by commas.
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+List all the prime numbers between 20 and 35 in ascending order, separated by commas.
+
+27. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+List all the prime numbers between 20 and 35 in ascending order, separated by commas.
+
+28. Look at the picture! {user_name} is looking at this.
+Jack says that 51, 87, and 91 are all prime numbers because they are odd. Give the smallest factor of 51 other than 1.
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Jack says that 51, 87, and 91 are all prime numbers because they are odd. Give the smallest factor of 51 other than 1.
+
+30. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Jack says that 51, 87, and 91 are all prime numbers because they are odd. Give the smallest factor of 51 other than 1.
+
+31. Look at the picture! {user_name} is looking at this.
+I am thinking of a 2-digit prime number between 40 and 50. The sum of its two digits is 11. What number am I thinking of?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+I am thinking of a 2-digit prime number between 40 and 50. The sum of its two digits is 11. What number am I thinking of?
+
+33. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+I am thinking of a 2-digit prime number between 40 and 50. The sum of its two digits is 11. What number am I thinking of?
+
+34. Look at the picture! {user_name} is looking at this.
+Two prime numbers add up to 40 and have a difference of 6. What are the two prime numbers? Give your answer with the smaller prime first, separated by a comma.
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+Two prime numbers add up to 40 and have a difference of 6. What are the two prime numbers? Give your answer with the smaller prime first, separated by a comma.
+
+36. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Two prime numbers add up to 40 and have a difference of 6. What are the two prime numbers? Give your answer with the smaller prime first, separated by a comma.
+
+--- Square and cube powers ---
+
+37. Look at the picture! {user_name} is looking at this.
+Calculate the value of 9² + 4³.
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate the value of 9² + 4³.
+
+39. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Calculate the value of 9² + 4³.
+
+40. Look at the picture! {user_name} is looking at this.
+Calculate the value of 12² - 5³.
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Calculate the value of 12² - 5³.
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Calculate the value of 12² - 5³.
+
+43. Look at the picture! {user_name} is looking at this.
+What is the only 2-digit whole number that is both a square number and a cube number?
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is the only 2-digit whole number that is both a square number and a cube number?
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+What is the only 2-digit whole number that is both a square number and a cube number?
+
+46. Look at the picture! {user_name} is looking at this.
+A large solid cube is built from 1 cm³ unit cubes. If the cube has a side length of 6 cm, how many unit cubes are used altogether?
+
+47. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A large solid cube is built from 1 cm³ unit cubes. If the cube has a side length of 6 cm, how many unit cubes are used altogether?
+
+48. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A large solid cube is built from 1 cm³ unit cubes. If the cube has a side length of 6 cm, how many unit cubes are used altogether?

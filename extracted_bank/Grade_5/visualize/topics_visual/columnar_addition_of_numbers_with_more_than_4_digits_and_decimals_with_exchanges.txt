@@ -1,0 +1,145 @@
+###################################
+Columnar addition of numbers with more than 4 digits and decimals with exchanges
+###################################
+
+--- Columnar addition of numbers with more than 4 digits ---
+
+1. Look at the picture! {user_name} is looking at this.
+Calculate 43,628 + 25,147.
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 43,628 + 25,147.
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Calculate 43,628 + 25,147.
+
+4. Look at the picture! {user_name} is looking at this.
+Calculate 58,746 + 26,585.
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 58,746 + 26,585.
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate 58,746 + 26,585.
+
+7. Look at the picture! {user_name} is looking at this.
+A factory produced 124,530 bottles of juice in May and 86,785 bottles of juice in June. How many bottles of juice were produced altogether?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A factory produced 124,530 bottles of juice in May and 86,785 bottles of juice in June. How many bottles of juice were produced altogether?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A factory produced 124,530 bottles of juice in May and 86,785 bottles of juice in June. How many bottles of juice were produced altogether?
+
+10. Look at the picture! {user_name} is looking at this.
+Calculate the sum of 45,618, 38,294, and 7,543.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate the sum of 45,618, 38,294, and 7,543.
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Calculate the sum of 45,618, 38,294, and 7,543.
+
+13. Look at the picture! {user_name} is looking at this.
+Find the missing digit represented by the square (□) in the column addition below:
+
+  5 4, □ 8 2
++ 2 7, 5 3 9
+  ---------
+  8 2, 2 2 1
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+Find the missing digit represented by the square (□) in the column addition below:
+
+  5 4, □ 8 2
++ 2 7, 5 3 9
+  ---------
+  8 2, 2 2 1
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing digit represented by the square (□) in the column addition below:
+
+  5 4, □ 8 2
++ 2 7, 5 3 9
+  ---------
+  8 2, 2 2 1
+
+16. Look at the picture! {user_name} is looking at this.
+On Saturday, 48,725 people visited a museum. On Sunday, there were 6,480 more visitors than on Saturday. What was the total number of visitors across both days?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+On Saturday, 48,725 people visited a museum. On Sunday, there were 6,480 more visitors than on Saturday. What was the total number of visitors across both days?
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+On Saturday, 48,725 people visited a museum. On Sunday, there were 6,480 more visitors than on Saturday. What was the total number of visitors across both days?
+
+--- Columnar addition of decimals with exchanges ---
+
+19. Look at the picture! {user_name} is looking at this.
+Calculate 5.76 + 3.85.
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 5.76 + 3.85.
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Calculate 5.76 + 3.85.
+
+22. Look at the picture! {user_name} is looking at this.
+Calculate 34.8 + 17.65.
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Calculate 34.8 + 17.65.
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Calculate 34.8 + 17.65.
+
+25. Look at the picture! {user_name} is looking at this.
+A runner completes three stages of a race. The first stage takes 14.85 seconds, the second stage takes 15.6 seconds, and the third stage takes 14.78 seconds. What is the total time taken in seconds?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A runner completes three stages of a race. The first stage takes 14.85 seconds, the second stage takes 15.6 seconds, and the third stage takes 14.78 seconds. What is the total time taken in seconds?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A runner completes three stages of a race. The first stage takes 14.85 seconds, the second stage takes 15.6 seconds, and the third stage takes 14.78 seconds. What is the total time taken in seconds?
+
+28. Look at the picture! {user_name} is looking at this.
+Calculate 6.427 + 18.85.
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Calculate 6.427 + 18.85.
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 6.427 + 18.85.
+
+31. Look at the picture! {user_name} is looking at this.
+Find the missing digit represented by the square (□) in the column addition below:
+
+  1 4 . □ 6
++   8 . 7 9
+  ---------
+  2 3 . 4 5
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Find the missing digit represented by the square (□) in the column addition below:
+
+  1 4 . □ 6
++   8 . 7 9
+  ---------
+  2 3 . 4 5
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Find the missing digit represented by the square (□) in the column addition below:
+
+  1 4 . □ 6
++   8 . 7 9
+  ---------
+  2 3 . 4 5
+
+34. Look at the picture! {user_name} is looking at this.
+A baker uses 3.75 kg of white flour, 1.875 kg of wholemeal flour, and 0.65 kg of rye flour. What is the total mass of flour used, in kilograms?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A baker uses 3.75 kg of white flour, 1.875 kg of wholemeal flour, and 0.65 kg of rye flour. What is the total mass of flour used, in kilograms?
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker uses 3.75 kg of white flour, 1.875 kg of wholemeal flour, and 0.65 kg of rye flour. What is the total mass of flour used, in kilograms?

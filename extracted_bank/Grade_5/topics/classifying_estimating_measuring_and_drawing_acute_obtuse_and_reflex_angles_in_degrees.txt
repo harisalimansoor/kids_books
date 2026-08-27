@@ -1,0 +1,90 @@
+=== Topic: Classifying, estimating, measuring, and drawing acute, obtuse, and reflex angles in degrees ===
+Domain: Geometry: Properties of Shapes
+
+--- Classifying acute, obtuse, and reflex angles ---
+
+Question 1: An angle measures 74°. Classify this angle as acute, obtuse, or reflex.
+Answer: acute
+Working: An angle less than 90° is an acute angle. Since 74° is less than 90°, it is acute.
+
+Question 2: An angle measures 138°. Classify this angle as acute, obtuse, or reflex.
+Answer: obtuse
+Working: An angle between 90° and 180° is an obtuse angle. Since 138° is greater than 90° and less than 180°, it is obtuse.
+
+Question 3: An angle measures 245°. Classify this angle as acute, obtuse, or reflex.
+Answer: reflex
+Working: An angle greater than 180° and less than 360° is a reflex angle. Since 245° is between 180° and 360°, it is reflex.
+
+Question 4: Angle A measures 95°, Angle B measures 89°, and Angle C measures 190°. Which of these three angles is an obtuse angle?
+Answer: Angle A
+Working: An obtuse angle is greater than 90° and less than 180°. Angle A = 95° (obtuse), Angle B = 89° (acute), Angle C = 190° (reflex).
+
+Question 5: Look at these angle sizes: 45°, 185°, 92°, 270°, 179°, 310°. How many of these angles are reflex angles?
+Answer: 3
+Working: A reflex angle is strictly greater than 180° and less than 360°. The reflex angles are 185°, 270°, and 310°, making 3 angles in total.
+
+Question 6: A new angle is created by adding 35° to a right angle (90°). Classify the new angle as acute, obtuse, or reflex.
+Answer: obtuse
+Working: 90° + 35° = 125°. An angle between 90° and 180° is obtuse.
+
+--- Estimating acute, obtuse, and reflex angles ---
+
+Question 7: An angle is estimated to be 5° less than a right angle. What is the size of this angle in degrees?
+Answer: 85°
+Working: A right angle is 90°. 90° - 5° = 85°.
+
+Question 8: An angle is exactly halfway between a right angle (90°) and a straight line (180°). What is the size of this angle in degrees?
+Answer: 135°
+Working: The difference between 180° and 90° is 90°. Half of 90° is 45°. 90° + 45° = 135°.
+
+Question 9: A spinner turns through two whole right angles plus another half of a right angle. How many degrees has the spinner turned in total?
+Answer: 225°
+Working: Two right angles = 2 × 90° = 180°. Half a right angle = 90° ÷ 2 = 45°. Total turn = 180° + 45° = 225°.
+
+Question 10: A reflex angle is estimated to be 30° less than a full turn of 360°. What is the estimated size of this reflex angle in degrees?
+Answer: 330°
+Working: A full turn is 360°. 360° - 30° = 330°.
+
+Question 11: Angle P is estimated to be 40° and angle Q is estimated to be 135°. What is the estimated difference in degrees between angle Q and angle P?
+Answer: 95°
+Working: Difference = 135° - 40° = 95°.
+
+--- Measuring angles in degrees ---
+
+Question 12: A protractor is placed on an acute angle. The baseline aligns with 0° on the inner scale and the other ray passes through 65° on the same scale. What is the size of the angle in degrees?
+Answer: 65°
+Working: The angle starts at 0° and reaches 65° on the same scale, so the angle is 65°.
+
+Question 13: Maya uses a protractor to measure an obtuse angle. The baseline is at 0° on the outer scale. The other ray points to the mark that reads 50° on the inner scale and 130° on the outer scale. What is the correct measurement of this obtuse angle in degrees?
+Answer: 130°
+Working: Since the baseline starts at 0° on the outer scale, the outer scale must be read. An obtuse angle is greater than 90°, so the reading is 130°.
+
+Question 14: Oliver measures an angle starting from 0° on the outer scale of a protractor. The other ray points exactly halfway between 70° and 80° on the outer scale. What is the size of the angle in degrees?
+Answer: 75°
+Working: Halfway between 70° and 80° is 75°. Starting from 0°, the angle measures 75°.
+
+Question 15: A protractor is placed over an angle. One ray aligns with 25° on the outer scale, and the other ray aligns with 115° on the same outer scale. What is the size of the angle between the two rays in degrees?
+Answer: 90°
+Working: The angle size is the difference between the two readings on the same scale: 115° - 25° = 90°.
+
+Question 16: To measure a reflex angle, Liam measures the smaller interior angle at the same vertex using a 180° protractor and finds it is 110°. What is the size of the reflex angle in degrees?
+Answer: 250°
+Working: Angles at a point total 360°. To find the reflex angle: 360° - 110° = 250°.
+
+--- Drawing angles in degrees ---
+
+Question 17: A pupil draws a horizontal line and places the centre of a protractor on the left endpoint. Starting from 0° on the baseline, how many degrees along the scale must they count to draw an angle of 52°?
+Answer: 52°
+Working: To draw an angle of 52°, count 52° from the 0° mark on the baseline.
+
+Question 18: Gemma draws a straight line of 180°. She wants to draw a reflex angle of 220° using the same baseline and vertex. How many degrees past the straight line must she measure and draw?
+Answer: 40°
+Working: A straight line is 180°. 220° - 180° = 40°. She must measure 40° past the straight line.
+
+Question 19: A pupil draws an angle of 35° and then draws an adjacent angle of 55° sharing the same vertex and middle line. What is the total combined size of the two drawn angles in degrees?
+Answer: 90°
+Working: Add the two adjacent angles together: 35° + 55° = 90°.
+
+Question 20: Leo wants to draw a reflex angle of 305°. If he draws it by subtracting an angle from a full turn of 360°, what size angle must he measure and subtract from 360°?
+Answer: 55°
+Working: Angles around a point total 360°. 360° - 305° = 55°.

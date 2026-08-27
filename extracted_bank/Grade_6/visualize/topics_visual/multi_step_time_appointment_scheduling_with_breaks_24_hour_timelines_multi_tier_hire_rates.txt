@@ -1,0 +1,155 @@
+###################################
+Multi-step time, appointment scheduling with breaks, 24-hour timelines, multi-tier hire rates (£2.95 per 20 min + fee)
+###################################
+
+--- Multi-step time ---
+
+1. Look at the picture! {user_name} is looking at this.
+A film starts at 14:15. It runs for 1 hour and 40 minutes, followed immediately by 15 minutes of trailers and credits. What time does everything finish?
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A film starts at 14:15. It runs for 1 hour and 40 minutes, followed immediately by 15 minutes of trailers and credits. What time does everything finish?
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A film starts at 14:15. It runs for 1 hour and 40 minutes, followed immediately by 15 minutes of trailers and credits. What time does everything finish?
+
+4. Look at the picture! {user_name} is looking at this.
+Oliver travels to school in three stages. He walks for 18 minutes, rides a bus for 35 minutes, and then walks for another 12 minutes. If he arrives at school at 08:30, what time did he start his journey?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Oliver travels to school in three stages. He walks for 18 minutes, rides a bus for 35 minutes, and then walks for another 12 minutes. If he arrives at school at 08:30, what time did he start his journey?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Oliver travels to school in three stages. He walks for 18 minutes, rides a bus for 35 minutes, and then walks for another 12 minutes. If he arrives at school at 08:30, what time did he start his journey?
+
+7. Look at the picture! {user_name} is looking at this.
+A runner completes a 10 km race in 52 minutes 45 seconds. Their time for the first 5 km was 25 minutes 50 seconds. How long did the runner take to complete the second 5 km? Give your answer in minutes and seconds.
+
+8. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A runner completes a 10 km race in 52 minutes 45 seconds. Their time for the first 5 km was 25 minutes 50 seconds. How long did the runner take to complete the second 5 km? Give your answer in minutes and seconds.
+
+9. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A runner completes a 10 km race in 52 minutes 45 seconds. Their time for the first 5 km was 25 minutes 50 seconds. How long did the runner take to complete the second 5 km? Give your answer in minutes and seconds.
+
+10. Look at the picture! {user_name} is looking at this.
+A train journey has three sections: London to Rugby takes 55 minutes, there is a 25-minute wait at Rugby, and Rugby to Birmingham takes 40 minutes. A second train leaves London 35 minutes after the first train and travels directly to Birmingham in 1 hour 25 minutes. How many minutes before or after the first train does the second train arrive in Birmingham?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A train journey has three sections: London to Rugby takes 55 minutes, there is a 25-minute wait at Rugby, and Rugby to Birmingham takes 40 minutes. A second train leaves London 35 minutes after the first train and travels directly to Birmingham in 1 hour 25 minutes. How many minutes before or after the first train does the second train arrive in Birmingham?
+
+12. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A train journey has three sections: London to Rugby takes 55 minutes, there is a 25-minute wait at Rugby, and Rugby to Birmingham takes 40 minutes. A second train leaves London 35 minutes after the first train and travels directly to Birmingham in 1 hour 25 minutes. How many minutes before or after the first train does the second train arrive in Birmingham?
+
+--- Appointment scheduling with breaks ---
+
+13. Look at the picture! {user_name} is looking at this.
+A music teacher gives 4 piano lessons in an afternoon. Each lesson lasts 30 minutes, and there is a 10-minute break between consecutive lessons. If the first lesson starts at 13:30, what time does the fourth lesson end?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A music teacher gives 4 piano lessons in an afternoon. Each lesson lasts 30 minutes, and there is a 10-minute break between consecutive lessons. If the first lesson starts at 13:30, what time does the fourth lesson end?
+
+15. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A music teacher gives 4 piano lessons in an afternoon. Each lesson lasts 30 minutes, and there is a 10-minute break between consecutive lessons. If the first lesson starts at 13:30, what time does the fourth lesson end?
+
+16. Look at the picture! {user_name} is looking at this.
+A dentist books appointments lasting 20 minutes each, with a 5-minute break between appointments. The dentist starts seeing patients at 09:00 and takes a 45-minute lunch break starting at 12:00. How many patient appointments can be completed before lunch begins?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A dentist books appointments lasting 20 minutes each, with a 5-minute break between appointments. The dentist starts seeing patients at 09:00 and takes a 45-minute lunch break starting at 12:00. How many patient appointments can be completed before lunch begins?
+
+18. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A dentist books appointments lasting 20 minutes each, with a 5-minute break between appointments. The dentist starts seeing patients at 09:00 and takes a 45-minute lunch break starting at 12:00. How many patient appointments can be completed before lunch begins?
+
+19. Look at the picture! {user_name} is looking at this.
+A school holds parent-teacher meetings from 15:30 to 18:00. Each meeting lasts 8 minutes and there is a 2-minute changeover gap between meetings. The teacher takes one 10-minute tea break during the session. What is the maximum number of parent meetings the teacher can schedule?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A school holds parent-teacher meetings from 15:30 to 18:00. Each meeting lasts 8 minutes and there is a 2-minute changeover gap between meetings. The teacher takes one 10-minute tea break during the session. What is the maximum number of parent meetings the teacher can schedule?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A school holds parent-teacher meetings from 15:30 to 18:00. Each meeting lasts 8 minutes and there is a 2-minute changeover gap between meetings. The teacher takes one 10-minute tea break during the session. What is the maximum number of parent meetings the teacher can schedule?
+
+22. Look at the picture! {user_name} is looking at this.
+A swimming gala has 6 races. Each race takes 4 minutes to run. Between consecutive races, there is a 3-minute gap, except after Race 3 when there is an extended 15-minute medal ceremony instead of the 3-minute gap. If the gala ends at 11:05, what time did the first race begin?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+A swimming gala has 6 races. Each race takes 4 minutes to run. Between consecutive races, there is a 3-minute gap, except after Race 3 when there is an extended 15-minute medal ceremony instead of the 3-minute gap. If the gala ends at 11:05, what time did the first race begin?
+
+24. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A swimming gala has 6 races. Each race takes 4 minutes to run. Between consecutive races, there is a 3-minute gap, except after Race 3 when there is an extended 15-minute medal ceremony instead of the 3-minute gap. If the gala ends at 11:05, what time did the first race begin?
+
+--- 24-hour timelines ---
+
+25. Look at the picture! {user_name} is looking at this.
+An overnight ferry departs at 21:40 on Tuesday and arrives at its destination at 06:15 on Wednesday. How long did the ferry journey take in hours and minutes?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+An overnight ferry departs at 21:40 on Tuesday and arrives at its destination at 06:15 on Wednesday. How long did the ferry journey take in hours and minutes?
+
+27. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+An overnight ferry departs at 21:40 on Tuesday and arrives at its destination at 06:15 on Wednesday. How long did the ferry journey take in hours and minutes?
+
+28. Look at the picture! {user_name} is looking at this.
+A night train leaves Edinburgh at 22:50. The journey to London King's Cross takes 7 hours and 35 minutes. At what 24-hour clock time does the train arrive in London on the following day?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+A night train leaves Edinburgh at 22:50. The journey to London King's Cross takes 7 hours and 35 minutes. At what 24-hour clock time does the train arrive in London on the following day?
+
+30. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A night train leaves Edinburgh at 22:50. The journey to London King's Cross takes 7 hours and 35 minutes. At what 24-hour clock time does the train arrive in London on the following day?
+
+31. Look at the picture! {user_name} is looking at this.
+A science experiment starts recording data every 45 minutes beginning at 20:30 on Friday. What is the 24-hour clock time when the 6th recording is taken?
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A science experiment starts recording data every 45 minutes beginning at 20:30 on Friday. What is the 24-hour clock time when the 6th recording is taken?
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A science experiment starts recording data every 45 minutes beginning at 20:30 on Friday. What is the 24-hour clock time when the 6th recording is taken?
+
+34. Look at the picture! {user_name} is looking at this.
+A security guard works a night shift from 19:45 to 07:15 the next morning. During the shift, the guard takes three equal 25-minute patrol breaks and one 40-minute meal break. For how many hours and minutes during the shift is the guard actively on duty (not on a break)?
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A security guard works a night shift from 19:45 to 07:15 the next morning. During the shift, the guard takes three equal 25-minute patrol breaks and one 40-minute meal break. For how many hours and minutes during the shift is the guard actively on duty (not on a break)?
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A security guard works a night shift from 19:45 to 07:15 the next morning. During the shift, the guard takes three equal 25-minute patrol breaks and one 40-minute meal break. For how many hours and minutes during the shift is the guard actively on duty (not on a break)?
+
+--- Multi-tier hire rates ---
+
+37. Look at the picture! {user_name} is looking at this.
+A bicycle hire company charges a fixed booking fee of £4.00 plus £1.50 for every 30 minutes of hire. How much does it cost to hire a bicycle for 2 hours?
+
+38. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A bicycle hire company charges a fixed booking fee of £4.00 plus £1.50 for every 30 minutes of hire. How much does it cost to hire a bicycle for 2 hours?
+
+39. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A bicycle hire company charges a fixed booking fee of £4.00 plus £1.50 for every 30 minutes of hire. How much does it cost to hire a bicycle for 2 hours?
+
+40. Look at the picture! {user_name} is looking at this.
+A boat hire company charges a £6.50 basic fee plus £2.95 for every 20 minutes on the water. Maya hires a boat from 13:40 to 15:00. What is the total cost of the hire?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A boat hire company charges a £6.50 basic fee plus £2.95 for every 20 minutes on the water. Maya hires a boat from 13:40 to 15:00. What is the total cost of the hire?
+
+42. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A boat hire company charges a £6.50 basic fee plus £2.95 for every 20 minutes on the water. Maya hires a boat from 13:40 to 15:00. What is the total cost of the hire?
+
+43. Look at the picture! {user_name} is looking at this.
+A tennis club charges a non-refundable booking fee of £5.20 plus £3.40 for every 15 minutes of court time. Sam pays a total of £25.60. For how many hours and minutes was the tennis court booked?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A tennis club charges a non-refundable booking fee of £5.20 plus £3.40 for every 15 minutes of court time. Sam pays a total of £25.60. For how many hours and minutes was the tennis court booked?
+
+45. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A tennis club charges a non-refundable booking fee of £5.20 plus £3.40 for every 15 minutes of court time. Sam pays a total of £25.60. For how many hours and minutes was the tennis court booked?
+
+46. Look at the picture! {user_name} is looking at this.
+Canoe hire costs a fixed fee of £8.00 plus £2.75 for every 20 minutes (or part of 20 minutes). Paddleboard hire costs a fixed fee of £5.00 plus £3.20 for every 20 minutes (or part of 20 minutes). Which option is cheaper for a hire lasting 1 hour and 10 minutes, and by how much?
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Canoe hire costs a fixed fee of £8.00 plus £2.75 for every 20 minutes (or part of 20 minutes). Paddleboard hire costs a fixed fee of £5.00 plus £3.20 for every 20 minutes (or part of 20 minutes). Which option is cheaper for a hire lasting 1 hour and 10 minutes, and by how much?
+
+48. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Canoe hire costs a fixed fee of £8.00 plus £2.75 for every 20 minutes (or part of 20 minutes). Paddleboard hire costs a fixed fee of £5.00 plus £3.20 for every 20 minutes (or part of 20 minutes). Which option is cheaper for a hire lasting 1 hour and 10 minutes, and by how much?

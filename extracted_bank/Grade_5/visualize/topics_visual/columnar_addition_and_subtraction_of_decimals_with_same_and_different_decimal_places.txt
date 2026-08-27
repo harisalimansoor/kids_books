@@ -1,0 +1,151 @@
+###################################
+Columnar addition and subtraction of decimals with same and different decimal places
+###################################
+
+--- Columnar addition of decimals with same and different decimal places ---
+
+1. Look at the picture! {user_name} is looking at this.
+Calculate 4.36 + 2.58.
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 4.36 + 2.58.
+
+3. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 4.36 + 2.58.
+
+4. Look at the picture! {user_name} is looking at this.
+Calculate 3.245 + 1.632.
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 3.245 + 1.632.
+
+6. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Calculate 3.245 + 1.632.
+
+7. Look at the picture! {user_name} is looking at this.
+Calculate 6.4 + 3.85.
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 6.4 + 3.85.
+
+9. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Calculate 6.4 + 3.85.
+
+10. Look at the picture! {user_name} is looking at this.
+Calculate 14.7 + 5.286.
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Calculate 14.7 + 5.286.
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Calculate 14.7 + 5.286.
+
+13. Look at the picture! {user_name} is looking at this.
+A baker mixes 2.45 kg of flour with 0.8 kg of sugar. What is the total mass of the mixture in kilograms?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A baker mixes 2.45 kg of flour with 0.8 kg of sugar. What is the total mass of the mixture in kilograms?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A baker mixes 2.45 kg of flour with 0.8 kg of sugar. What is the total mass of the mixture in kilograms?
+
+16. Look at the picture! {user_name} is looking at this.
+Calculate 4.6 + 12.38 + 0.745.
+
+17. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Calculate 4.6 + 12.38 + 0.745.
+
+18. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate 4.6 + 12.38 + 0.745.
+
+19. Look at the picture! {user_name} is looking at this.
+A parcel contains three packages weighing 1.05 kg, 0.478 kg, and 2.6 kg. What is the total mass of the three packages in kilograms?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A parcel contains three packages weighing 1.05 kg, 0.478 kg, and 2.6 kg. What is the total mass of the three packages in kilograms?
+
+21. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A parcel contains three packages weighing 1.05 kg, 0.478 kg, and 2.6 kg. What is the total mass of the three packages in kilograms?
+
+22. Look at the picture! {user_name} is looking at this.
+A triangular flowerbed has side lengths of 4.75 m, 3.8 m, and 5.065 m. Calculate the perimeter of the flowerbed in metres.
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A triangular flowerbed has side lengths of 4.75 m, 3.8 m, and 5.065 m. Calculate the perimeter of the flowerbed in metres.
+
+24. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A triangular flowerbed has side lengths of 4.75 m, 3.8 m, and 5.065 m. Calculate the perimeter of the flowerbed in metres.
+
+--- Columnar subtraction of decimals with same and different decimal places ---
+
+25. Look at the picture! {user_name} is looking at this.
+Calculate 7.42 - 3.18.
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 7.42 - 3.18.
+
+27. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Calculate 7.42 - 3.18.
+
+28. Look at the picture! {user_name} is looking at this.
+Calculate 8.654 - 2.381.
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate 8.654 - 2.381.
+
+30. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Calculate 8.654 - 2.381.
+
+31. Look at the picture! {user_name} is looking at this.
+Calculate 9.3 - 4.76.
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 9.3 - 4.76.
+
+33. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Calculate 9.3 - 4.76.
+
+34. Look at the picture! {user_name} is looking at this.
+Calculate 15 - 4.68.
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate 15 - 4.68.
+
+36. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Calculate 15 - 4.68.
+
+37. Look at the picture! {user_name} is looking at this.
+A plank of wood is 4.2 m long. A carpenter cuts off a piece measuring 1.65 m. What length of wood is left in metres?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+A plank of wood is 4.2 m long. A carpenter cuts off a piece measuring 1.65 m. What length of wood is left in metres?
+
+39. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A plank of wood is 4.2 m long. A carpenter cuts off a piece measuring 1.65 m. What length of wood is left in metres?
+
+40. Look at the picture! {user_name} is looking at this.
+Calculate 12.1 - 4.785.
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Calculate 12.1 - 4.785.
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Calculate 12.1 - 4.785.
+
+43. Look at the picture! {user_name} is looking at this.
+A jug contains 3 litres of water. Oliver pours out 1.375 litres. How many litres of water remain in the jug?
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A jug contains 3 litres of water. Oliver pours out 1.375 litres. How many litres of water remain in the jug?
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A jug contains 3 litres of water. Oliver pours out 1.375 litres. How many litres of water remain in the jug?
+
+46. Look at the picture! {user_name} is looking at this.
+A crate filled with apples has a total mass of 18.1 kg. After some apples are sold, the total mass is 7.465 kg. What is the mass of the apples that were sold?
+
+47. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A crate filled with apples has a total mass of 18.1 kg. After some apples are sold, the total mass is 7.465 kg. What is the mass of the apples that were sold?
+
+48. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A crate filled with apples has a total mass of 18.1 kg. After some apples are sold, the total mass is 7.465 kg. What is the mass of the apples that were sold?

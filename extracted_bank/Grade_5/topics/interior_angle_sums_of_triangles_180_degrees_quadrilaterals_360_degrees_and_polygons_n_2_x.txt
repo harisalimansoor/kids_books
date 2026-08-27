@@ -1,0 +1,84 @@
+=== Topic: Interior angle sums of triangles (180^ degrees), quadrilaterals (360^ degrees), and polygons ((n-2) x 180^ degrees) ===
+Domain: Geometry: Properties of Shapes
+
+--- Interior angle sums of triangles (180^ degrees) ---
+
+Question 1: Two angles in a triangle measure 70° and 50°. What is the size of the third angle?
+Answer: 60°
+Working: The angles in a triangle add up to 180°. 70° + 50° = 120°. 180° - 120° = 60°.
+
+Question 2: A right-angled triangle has one angle measuring 35°. What is the size of the other acute angle?
+Answer: 55°
+Working: A right angle is 90°. The angles in a triangle add up to 180°. 90° + 35° = 125°. 180° - 125° = 55°.
+
+Question 3: An isosceles triangle has an angle of 40° between its two equal sides. What is the size of each of the other two equal angles?
+Answer: 70°
+Working: The angles in a triangle sum to 180°. 180° - 40° = 140°. The two remaining angles are equal, so 140° ÷ 2 = 70°.
+
+Question 4: An isosceles triangle has two equal angles that each measure 68°. What is the size of the third angle?
+Answer: 44°
+Working: 68° + 68° = 136°. The angles in a triangle add up to 180°. 180° - 136° = 44°.
+
+Question 5: An equilateral triangle has three equal angles. What is the size of each angle?
+Answer: 60°
+Working: The angles in a triangle add up to 180°. Since all three angles are equal in an equilateral triangle, 180° ÷ 3 = 60°.
+
+Question 6: One angle in a triangle is 48°. A second angle is twice the size of the first angle. What is the size of the third angle?
+Answer: 36°
+Working: The first angle is 48°. The second angle is 48° × 2 = 96°. Together they equal 48° + 96° = 144°. The interior angles sum to 180°, so the third angle is 180° - 144° = 36°.
+
+--- Interior angle sums of quadrilaterals (360^ degrees) ---
+
+Question 7: What is the total sum of the interior angles in any four-sided quadrilateral?
+Answer: 360°
+Working: A quadrilateral can be split into two triangles from one vertex. 2 × 180° = 360°.
+
+Question 8: Three interior angles of a quadrilateral measure 110°, 85°, and 95°. What is the size of the fourth angle?
+Answer: 70°
+Working: 110° + 85° + 95° = 290°. The interior angles of a quadrilateral sum to 360°. 360° - 290° = 70°.
+
+Question 9: A quadrilateral has two right angles and an angle measuring 115°. What is the size of the fourth angle?
+Answer: 65°
+Working: Two right angles equal 90° + 90° = 180°. 180° + 115° = 295°. The interior angle sum of a quadrilateral is 360°. 360° - 295° = 65°.
+
+Question 10: A parallelogram has two opposite acute angles that each measure 75°. What is the size of each of the other two equal angles?
+Answer: 105°
+Working: The sum of the two given angles is 75° + 75° = 150°. The sum of all angles in a quadrilateral is 360°. 360° - 150° = 210°. The remaining two angles are equal, so 210° ÷ 2 = 105°.
+
+Question 11: A trapezium has angles measuring 65°, 65°, and 115°. What is the size of the fourth angle?
+Answer: 115°
+Working: 65° + 65° + 115° = 245°. The interior angles of a quadrilateral add up to 360°. 360° - 245° = 115°.
+
+Question 12: A kite has two angles that measure 120° and 50°. The other two opposite angles are equal to each other. What is the size of each of the equal angles?
+Answer: 95°
+Working: 120° + 50° = 170°. The angles in a quadrilateral total 360°. 360° - 170° = 190°. The remaining two angles are equal, so 190° ÷ 2 = 95°.
+
+--- Interior angle sums of polygons ((n-2) x 180^ degrees) ---
+
+Question 13: A pentagon has 5 sides. How many non-overlapping triangles can be formed inside it by drawing straight lines from one vertex?
+Answer: 3
+Working: The number of non-overlapping triangles formed from one vertex of an n-sided polygon is n - 2. For a pentagon with 5 sides: 5 - 2 = 3.
+
+Question 14: A pentagon can be split into 3 non-overlapping triangles from one vertex. What is the total sum of the interior angles of a pentagon?
+Answer: 540°
+Working: Each triangle has an angle sum of 180°. 3 × 180° = 540°.
+
+Question 15: A hexagon has 6 sides. What is the sum of the interior angles of a hexagon?
+Answer: 720°
+Working: A hexagon splits into 6 - 2 = 4 triangles from one vertex. 4 × 180° = 720°.
+
+Question 16: An octagon has 8 sides. Calculate the total sum of all the interior angles of an octagon.
+Answer: 1080°
+Working: The number of triangles from one vertex is 8 - 2 = 6. 6 × 180° = 1080°.
+
+Question 17: A regular pentagon has 5 equal sides and 5 equal angles. The sum of its interior angles is 540°. What is the size of each interior angle?
+Answer: 108°
+Working: The total angle sum is 540°. Since all 5 angles are equal: 540° ÷ 5 = 108°.
+
+Question 18: A regular hexagon has 6 equal angles and an interior angle sum of 720°. What is the size of each interior angle?
+Answer: 120°
+Working: The sum of the interior angles is 720°. Since a regular hexagon has 6 equal angles: 720° ÷ 6 = 120°.
+
+Question 19: A heptagon is a 2-D shape with 7 sides. What is the total sum of the interior angles of a heptagon?
+Answer: 900°
+Working: A 7-sided shape can be divided into 7 - 2 = 5 triangles from one vertex. 5 × 180° = 900°.

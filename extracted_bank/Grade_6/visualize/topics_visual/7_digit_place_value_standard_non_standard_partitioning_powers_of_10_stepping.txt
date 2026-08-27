@@ -1,0 +1,171 @@
+###################################
+7-digit place value, standard/non-standard partitioning, powers of 10 stepping
+###################################
+
+--- 7-digit place value ---
+
+1. Look at the picture! {user_name} is looking at this.
+What is the value of the digit 7 in the number 4,729,305?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is the value of the digit 7 in the number 4,729,305?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+What is the value of the digit 7 in the number 4,729,305?
+
+4. Look at the picture! {user_name} is looking at this.
+Write the number three million, forty thousand, five hundred and six in digits.
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number three million, forty thousand, five hundred and six in digits.
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number three million, forty thousand, five hundred and six in digits.
+
+7. Look at the picture! {user_name} is looking at this.
+In the number 8,634,291, how many times greater is the value of the digit 6 than the value of the digit 3?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In the number 8,634,291, how many times greater is the value of the digit 6 than the value of the digit 3?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+In the number 8,634,291, how many times greater is the value of the digit 6 than the value of the digit 3?
+
+10. Look at the picture! {user_name} is looking at this.
+A 7-digit number has a 5 in the millions place, a 2 in the thousands place, and all other digits are zero. Write this number in digits.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A 7-digit number has a 5 in the millions place, a 2 in the thousands place, and all other digits are zero. Write this number in digits.
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A 7-digit number has a 5 in the millions place, a 2 in the thousands place, and all other digits are zero. Write this number in digits.
+
+13. Look at the picture! {user_name} is looking at this.
+Write down the 7-digit number that is 200,000 more than 5,834,120.
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write down the 7-digit number that is 200,000 more than 5,834,120.
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Write down the 7-digit number that is 200,000 more than 5,834,120.
+
+16. Look at the picture! {user_name} is looking at this.
+In a census, the population of a region is recorded as 4,382,915. Which digit is in the ten thousands place?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a census, the population of a region is recorded as 4,382,915. Which digit is in the ten thousands place?
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+In a census, the population of a region is recorded as 4,382,915. Which digit is in the ten thousands place?
+
+--- Standard and non-standard partitioning ---
+
+19. Look at the picture! {user_name} is looking at this.
+Find the missing number to complete the partition: 4,506,230 = 4,000,000 + 500,000 + [___] + 200 + 30.
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Find the missing number to complete the partition: 4,506,230 = 4,000,000 + 500,000 + [___] + 200 + 30.
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Find the missing number to complete the partition: 4,506,230 = 4,000,000 + 500,000 + [___] + 200 + 30.
+
+22. Look at the picture! {user_name} is looking at this.
+A number is partitioned as 3,000,000 + 450,000 + 12,000 + 400 + 8. Write the total number in digits.
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A number is partitioned as 3,000,000 + 450,000 + 12,000 + 400 + 8. Write the total number in digits.
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A number is partitioned as 3,000,000 + 450,000 + 12,000 + 400 + 8. Write the total number in digits.
+
+25. Look at the picture! {user_name} is looking at this.
+Complete the non-standard partitioning: 6,250,000 = 5,000,000 + [___] thousands.
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Complete the non-standard partitioning: 6,250,000 = 5,000,000 + [___] thousands.
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Complete the non-standard partitioning: 6,250,000 = 5,000,000 + [___] thousands.
+
+28. Look at the picture! {user_name} is looking at this.
+The number 2,840,000 is partitioned into 2 millions, [___] ten thousands, and 40 thousands. Find the missing number of ten thousands.
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+The number 2,840,000 is partitioned into 2 millions, [___] ten thousands, and 40 thousands. Find the missing number of ten thousands.
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+The number 2,840,000 is partitioned into 2 millions, [___] ten thousands, and 40 thousands. Find the missing number of ten thousands.
+
+31. Look at the picture! {user_name} is looking at this.
+A number is partitioned into 25 hundred thousands, 14 thousands, and 7 hundreds. What is the number in digits?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A number is partitioned into 25 hundred thousands, 14 thousands, and 7 hundreds. What is the number in digits?
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A number is partitioned into 25 hundred thousands, 14 thousands, and 7 hundreds. What is the number in digits?
+
+34. Look at the picture! {user_name} is looking at this.
+Find the missing number: 7,800,450 = 7,000,000 + 700,000 + [___] + 450.
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Find the missing number: 7,800,450 = 7,000,000 + 700,000 + [___] + 450.
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Find the missing number: 7,800,450 = 7,000,000 + 700,000 + [___] + 450.
+
+--- Powers of 10 stepping ---
+
+37. Look at the picture! {user_name} is looking at this.
+What number is 10,000 less than 1,000,000?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What number is 10,000 less than 1,000,000?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+What number is 10,000 less than 1,000,000?
+
+40. Look at the picture! {user_name} is looking at this.
+A sequence increases by 100,000 each time: 3,750,000, 3,850,000, 3,950,000, [___]. What is the next number in the sequence?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A sequence increases by 100,000 each time: 3,750,000, 3,850,000, 3,950,000, [___]. What is the next number in the sequence?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A sequence increases by 100,000 each time: 3,750,000, 3,850,000, 3,950,000, [___]. What is the next number in the sequence?
+
+43. Look at the picture! {user_name} is looking at this.
+Starting at 6,003,420, count back 5 steps of 10,000. What is the final number?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+Starting at 6,003,420, count back 5 steps of 10,000. What is the final number?
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Starting at 6,003,420, count back 5 steps of 10,000. What is the final number?
+
+46. Look at the picture! {user_name} is looking at this.
+What number is 1,000,000 more than 4,289,103?
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+What number is 1,000,000 more than 4,289,103?
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+What number is 1,000,000 more than 4,289,103?
+
+49. Look at the picture! {user_name} is looking at this.
+A counter starts at 2,980,000 and steps forwards in ten thousands. How many steps of 10,000 are needed to reach 3,050,000?
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+A counter starts at 2,980,000 and steps forwards in ten thousands. How many steps of 10,000 are needed to reach 3,050,000?
+
+51. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A counter starts at 2,980,000 and steps forwards in ten thousands. How many steps of 10,000 are needed to reach 3,050,000?
+
+52. Look at the picture! {user_name} is looking at this.
+Fill in the missing number in this sequence of steps of 100,000: 5,140,000, 5,040,000, [___], 4,840,000.
+
+53. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Fill in the missing number in this sequence of steps of 100,000: 5,140,000, 5,040,000, [___], 4,840,000.
+
+54. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Fill in the missing number in this sequence of steps of 100,000: 5,140,000, 5,040,000, [___], 4,840,000.

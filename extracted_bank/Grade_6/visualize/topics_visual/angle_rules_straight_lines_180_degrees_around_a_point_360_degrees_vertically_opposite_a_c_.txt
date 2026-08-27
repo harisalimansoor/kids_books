@@ -1,0 +1,193 @@
+###################################
+Angle rules: straight lines (180^ degrees), around a point (360^ degrees), vertically opposite (a=c), triangle angles (180^ degrees); impossible triangle proofs
+###################################
+
+--- Angles on a straight line ---
+
+1. Look at the picture! {user_name} is looking at this.
+Two angles meet on a straight line. One of the angles is 64°. Calculate the size of the other angle.
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Two angles meet on a straight line. One of the angles is 64°. Calculate the size of the other angle.
+
+3. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Two angles meet on a straight line. One of the angles is 64°. Calculate the size of the other angle.
+
+4. Look at the picture! {user_name} is looking at this.
+Three angles lie on a straight line. Two of the angles measure 48° and 75°. Calculate the size of the third angle.
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Three angles lie on a straight line. Two of the angles measure 48° and 75°. Calculate the size of the third angle.
+
+6. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Three angles lie on a straight line. Two of the angles measure 48° and 75°. Calculate the size of the third angle.
+
+7. Look at the picture! {user_name} is looking at this.
+A straight line is divided into three angles. One is a right angle (90°) and another angle is 37°. What is the size of the third angle?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A straight line is divided into three angles. One is a right angle (90°) and another angle is 37°. What is the size of the third angle?
+
+9. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A straight line is divided into three angles. One is a right angle (90°) and another angle is 37°. What is the size of the third angle?
+
+10. Look at the picture! {user_name} is looking at this.
+Two angles lie on a straight line. Angle A is three times as large as Angle B. Calculate the size of Angle A.
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+Two angles lie on a straight line. Angle A is three times as large as Angle B. Calculate the size of Angle A.
+
+12. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Two angles lie on a straight line. Angle A is three times as large as Angle B. Calculate the size of Angle A.
+
+--- Angles around a point ---
+
+13. Look at the picture! {user_name} is looking at this.
+Three angles meet at a point. Two of the angles are 130° and 115°. Calculate the size of the third angle.
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Three angles meet at a point. Two of the angles are 130° and 115°. Calculate the size of the third angle.
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Three angles meet at a point. Two of the angles are 130° and 115°. Calculate the size of the third angle.
+
+16. Look at the picture! {user_name} is looking at this.
+Four angles meet at a point. Three of the angles are 85°, 120°, and 90°. Calculate the size of the fourth angle.
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Four angles meet at a point. Three of the angles are 85°, 120°, and 90°. Calculate the size of the fourth angle.
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Four angles meet at a point. Three of the angles are 85°, 120°, and 90°. Calculate the size of the fourth angle.
+
+19. Look at the picture! {user_name} is looking at this.
+A regular pentagon and an equilateral triangle share a vertex at a single point without overlapping. The interior angle of the pentagon is 108° and the interior angle of the triangle is 60°. Calculate the size of the remaining angle around the point.
+
+20. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A regular pentagon and an equilateral triangle share a vertex at a single point without overlapping. The interior angle of the pentagon is 108° and the interior angle of the triangle is 60°. Calculate the size of the remaining angle around the point.
+
+21. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A regular pentagon and an equilateral triangle share a vertex at a single point without overlapping. The interior angle of the pentagon is 108° and the interior angle of the triangle is 60°. Calculate the size of the remaining angle around the point.
+
+22. Look at the picture! {user_name} is looking at this.
+Five equal angles meet around a single point. What is the size of each angle?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Five equal angles meet around a single point. What is the size of each angle?
+
+24. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Five equal angles meet around a single point. What is the size of each angle?
+
+--- Vertically opposite angles ---
+
+25. Look at the picture! {user_name} is looking at this.
+Two straight lines intersect at a point. One of the angles formed is 73°. What is the size of the angle vertically opposite to it?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Two straight lines intersect at a point. One of the angles formed is 73°. What is the size of the angle vertically opposite to it?
+
+27. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Two straight lines intersect at a point. One of the angles formed is 73°. What is the size of the angle vertically opposite to it?
+
+28. Look at the picture! {user_name} is looking at this.
+Two straight lines cross to form four angles. One angle is 124°. What is the size of an adjacent angle on the straight line?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Two straight lines cross to form four angles. One angle is 124°. What is the size of an adjacent angle on the straight line?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Two straight lines cross to form four angles. One angle is 124°. What is the size of an adjacent angle on the straight line?
+
+31. Look at the picture! {user_name} is looking at this.
+Two straight lines cross at a point. One of the angles formed is 58°. Calculate the sum of the other three angles.
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Two straight lines cross at a point. One of the angles formed is 58°. Calculate the sum of the other three angles.
+
+33. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Two straight lines cross at a point. One of the angles formed is 58°. Calculate the sum of the other three angles.
+
+34. Look at the picture! {user_name} is looking at this.
+Two straight lines intersect to form four angles: a, b, c, and d in order around the intersection. Angles a and c are vertically opposite. If angle a = 42°, calculate the value of angle b + angle d.
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+Two straight lines intersect to form four angles: a, b, c, and d in order around the intersection. Angles a and c are vertically opposite. If angle a = 42°, calculate the value of angle b + angle d.
+
+36. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Two straight lines intersect to form four angles: a, b, c, and d in order around the intersection. Angles a and c are vertically opposite. If angle a = 42°, calculate the value of angle b + angle d.
+
+--- Angles in a triangle ---
+
+37. Look at the picture! {user_name} is looking at this.
+A triangle has angles measuring 55° and 65°. Calculate the size of the third angle.
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+A triangle has angles measuring 55° and 65°. Calculate the size of the third angle.
+
+39. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A triangle has angles measuring 55° and 65°. Calculate the size of the third angle.
+
+40. Look at the picture! {user_name} is looking at this.
+A right-angled triangle has one angle of 34°. Calculate the size of the other acute angle.
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+A right-angled triangle has one angle of 34°. Calculate the size of the other acute angle.
+
+42. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A right-angled triangle has one angle of 34°. Calculate the size of the other acute angle.
+
+43. Look at the picture! {user_name} is looking at this.
+An isosceles triangle has an obtuse angle of 110°. Calculate the size of each of the other two equal angles.
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An isosceles triangle has an obtuse angle of 110°. Calculate the size of each of the other two equal angles.
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+An isosceles triangle has an obtuse angle of 110°. Calculate the size of each of the other two equal angles.
+
+46. Look at the picture! {user_name} is looking at this.
+In a scalene triangle, one angle is 50°. The second angle is 20° larger than the third angle. Calculate the size of the smallest angle.
+
+47. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+In a scalene triangle, one angle is 50°. The second angle is 20° larger than the third angle. Calculate the size of the smallest angle.
+
+48. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+In a scalene triangle, one angle is 50°. The second angle is 20° larger than the third angle. Calculate the size of the smallest angle.
+
+--- Impossible triangle proofs ---
+
+49. Look at the picture! {user_name} is looking at this.
+Explain why it is impossible for a triangle to have two right angles.
+
+50. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Explain why it is impossible for a triangle to have two right angles.
+
+51. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Explain why it is impossible for a triangle to have two right angles.
+
+52. Look at the picture! {user_name} is looking at this.
+A pupil claims that a triangle has angles measuring 85°, 55°, and 45°. Explain why this triangle is impossible.
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A pupil claims that a triangle has angles measuring 85°, 55°, and 45°. Explain why this triangle is impossible.
+
+54. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A pupil claims that a triangle has angles measuring 85°, 55°, and 45°. Explain why this triangle is impossible.
+
+55. Look at the picture! {user_name} is looking at this.
+Explain why a triangle cannot have two obtuse angles.
+
+56. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Explain why a triangle cannot have two obtuse angles.
+
+57. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Explain why a triangle cannot have two obtuse angles.
+
+58. Look at the picture! {user_name} is looking at this.
+Can a triangle have angles measuring 62°, 71°, and 47°? Explain your answer using calculations.
+
+59. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Can a triangle have angles measuring 62°, 71°, and 47°? Explain your answer using calculations.
+
+60. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Can a triangle have angles measuring 62°, 71°, and 47°? Explain your answer using calculations.

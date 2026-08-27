@@ -1,0 +1,62 @@
+=== Topic: Calculating missing angles around a point (360^ degrees) and on a straight line (180^ degrees) ===
+Domain: Geometry: Properties of Shapes
+
+--- Calculating missing angles around a point (360°) ---
+
+Question 1: Two angles meet at a point to make a full turn. One angle is 275°. What is the size of the other angle?
+Answer: 85°
+Working: Angles around a point total 360°. 360° - 275° = 85°.
+
+Question 2: A reflex angle of 312° and an acute angle meet at a point to make a complete turn. What is the size of the acute angle?
+Answer: 48°
+Working: Angles around a point add up to 360°. 360° - 312° = 48°.
+
+Question 3: Three angles meet at a point. Two of the angles are 115° and 130°. What is the size of the third angle?
+Answer: 115°
+Working: 115° + 130° = 245°. Angles around a point total 360°. 360° - 245° = 115°.
+
+Question 4: Three angles meet at a point. One angle is a right angle (90°) and another angle is 145°. Calculate the size of the third angle.
+Answer: 125°
+Working: 90° + 145° = 235°. Angles around a point add up to 360°. 360° - 235° = 125°.
+
+Question 5: Four angles meet at a point. Three of the angles are 72°, 98°, and 110°. Calculate the size of the missing fourth angle.
+Answer: 80°
+Working: 72° + 98° + 110° = 280°. Angles around a point add up to 360°. 360° - 280° = 80°.
+
+Question 6: Four angles meet at a point. One angle is 120°. The remaining three angles are all equal in size. What is the size of each of the three equal angles?
+Answer: 80°
+Working: 360° - 120° = 240°. The three equal angles share 240° equally: 240° ÷ 3 = 80°.
+
+Question 7: Five angles meet at a point. Two of the angles are right angles (90° each). The other three angles are equal in size to each other. Calculate the size of one of these three equal angles.
+Answer: 60°
+Working: Two right angles total 90° + 90° = 180°. 360° - 180° = 180°. The remaining 180° is divided equally among 3 angles: 180° ÷ 3 = 60°.
+
+--- Calculating missing angles on a straight line (180°) ---
+
+Question 8: Two angles meet at a point on a straight line. One angle is 65°. What is the size of the other angle?
+Answer: 115°
+Working: Angles on a straight line add up to 180°. 180° - 65° = 115°.
+
+Question 9: An angle of 142° sits on a straight line next to a missing angle. Calculate the size of the missing angle.
+Answer: 38°
+Working: Angles on a straight line total 180°. 180° - 142° = 38°.
+
+Question 10: Three angles meet at a point on a straight line. Two of the angles are 48° and 76°. What is the size of the third angle?
+Answer: 56°
+Working: 48° + 76° = 124°. Angles on a straight line add up to 180°. 180° - 124° = 56°.
+
+Question 11: Three angles lie on a straight line. One is a right angle (90°) and another is 37°. Calculate the size of the third angle.
+Answer: 53°
+Working: 90° + 37° = 127°. Angles on a straight line add up to 180°. 180° - 127° = 53°.
+
+Question 12: Three angles meet at a point on a straight line. One angle is 50°. The other two angles are equal in size. What is the size of each of the two equal angles?
+Answer: 65°
+Working: 180° - 50° = 130°. Since the two remaining angles are equal: 130° ÷ 2 = 65°.
+
+Question 13: Four angles lie on a straight line. Three of the angles are 28°, 54°, and 63°. Calculate the size of the fourth angle.
+Answer: 35°
+Working: 28° + 54° + 63° = 145°. Angles on a straight line add up to 180°. 180° - 145° = 35°.
+
+Question 14: Two angles, angle A and angle B, meet at a point on a straight line. Angle A is three times the size of angle B. What is the size of angle A?
+Answer: 135°
+Working: Angle A and angle B make 4 equal parts totalling 180°. 180° ÷ 4 = 45° (angle B). Angle A is 3 × 45° = 135°.

@@ -1,0 +1,115 @@
+###################################
+Reflections of 2D shapes across horizontal and vertical mirror lines
+###################################
+
+--- Reflections of 2D shapes across horizontal mirror lines ---
+
+1. Look at the picture! {user_name} is looking at this.
+A point at (4, 6) is reflected across a horizontal mirror line at y = 4. What are the coordinates of the reflected point?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+A point at (4, 6) is reflected across a horizontal mirror line at y = 4. What are the coordinates of the reflected point?
+
+3. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A point at (4, 6) is reflected across a horizontal mirror line at y = 4. What are the coordinates of the reflected point?
+
+4. Look at the picture! {user_name} is looking at this.
+A triangle has vertices at A(2, 1), B(8, 1), and C(5, 4). The triangle is reflected across a horizontal mirror line at y = 5. What are the coordinates of the reflected vertex C'?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A triangle has vertices at A(2, 1), B(8, 1), and C(5, 4). The triangle is reflected across a horizontal mirror line at y = 5. What are the coordinates of the reflected vertex C'?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A triangle has vertices at A(2, 1), B(8, 1), and C(5, 4). The triangle is reflected across a horizontal mirror line at y = 5. What are the coordinates of the reflected vertex C'?
+
+7. Look at the picture! {user_name} is looking at this.
+A rectangle has vertices at (3, 2), (7, 2), (7, 5), and (3, 5). It is reflected across a horizontal mirror line at y = 6. What are the coordinates of the reflected vertex that corresponds to (7, 2)?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A rectangle has vertices at (3, 2), (7, 2), (7, 5), and (3, 5). It is reflected across a horizontal mirror line at y = 6. What are the coordinates of the reflected vertex that corresponds to (7, 2)?
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A rectangle has vertices at (3, 2), (7, 2), (7, 5), and (3, 5). It is reflected across a horizontal mirror line at y = 6. What are the coordinates of the reflected vertex that corresponds to (7, 2)?
+
+10. Look at the picture! {user_name} is looking at this.
+A shape is reflected across a horizontal mirror line. A vertex on the original shape is at (4, 8) and its reflected vertex is at (4, 2). What is the equation of the horizontal mirror line?
+
+11. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A shape is reflected across a horizontal mirror line. A vertex on the original shape is at (4, 8) and its reflected vertex is at (4, 2). What is the equation of the horizontal mirror line?
+
+12. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A shape is reflected across a horizontal mirror line. A vertex on the original shape is at (4, 8) and its reflected vertex is at (4, 2). What is the equation of the horizontal mirror line?
+
+13. Look at the picture! {user_name} is looking at this.
+Triangle PQR has vertices at P(1, 3), Q(5, 3), and R(3, 7). It is reflected across a horizontal mirror line at y = 8. What is the vertical distance between the highest vertex of the original triangle and the lowest vertex of the reflected triangle?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Triangle PQR has vertices at P(1, 3), Q(5, 3), and R(3, 7). It is reflected across a horizontal mirror line at y = 8. What is the vertical distance between the highest vertex of the original triangle and the lowest vertex of the reflected triangle?
+
+15. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Triangle PQR has vertices at P(1, 3), Q(5, 3), and R(3, 7). It is reflected across a horizontal mirror line at y = 8. What is the vertical distance between the highest vertex of the original triangle and the lowest vertex of the reflected triangle?
+
+16. Look at the picture! {user_name} is looking at this.
+A square has vertices at (2, 1), (6, 1), (6, 5), and (2, 5). The square is reflected across a horizontal mirror line at y = 6 to form a second square. What is the total combined area of both squares in square units?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A square has vertices at (2, 1), (6, 1), (6, 5), and (2, 5). The square is reflected across a horizontal mirror line at y = 6 to form a second square. What is the total combined area of both squares in square units?
+
+18. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A square has vertices at (2, 1), (6, 1), (6, 5), and (2, 5). The square is reflected across a horizontal mirror line at y = 6 to form a second square. What is the total combined area of both squares in square units?
+
+--- Reflections of 2D shapes across vertical mirror lines ---
+
+19. Look at the picture! {user_name} is looking at this.
+A point at (3, 5) is reflected across a vertical mirror line at x = 6. What are the coordinates of the reflected point?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A point at (3, 5) is reflected across a vertical mirror line at x = 6. What are the coordinates of the reflected point?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A point at (3, 5) is reflected across a vertical mirror line at x = 6. What are the coordinates of the reflected point?
+
+22. Look at the picture! {user_name} is looking at this.
+A triangle has vertices at A(1, 2), B(4, 2), and C(1, 6). It is reflected across a vertical mirror line at x = 5. What are the coordinates of the reflected vertex A'?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A triangle has vertices at A(1, 2), B(4, 2), and C(1, 6). It is reflected across a vertical mirror line at x = 5. What are the coordinates of the reflected vertex A'?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A triangle has vertices at A(1, 2), B(4, 2), and C(1, 6). It is reflected across a vertical mirror line at x = 5. What are the coordinates of the reflected vertex A'?
+
+25. Look at the picture! {user_name} is looking at this.
+A rectangle has vertices at (2, 3), (5, 3), (5, 7), and (2, 7). It is reflected across a vertical mirror line at x = 7. What are the coordinates of the reflected vertex that corresponds to (2, 7)?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectangle has vertices at (2, 3), (5, 3), (5, 7), and (2, 7). It is reflected across a vertical mirror line at x = 7. What are the coordinates of the reflected vertex that corresponds to (2, 7)?
+
+27. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A rectangle has vertices at (2, 3), (5, 3), (5, 7), and (2, 7). It is reflected across a vertical mirror line at x = 7. What are the coordinates of the reflected vertex that corresponds to (2, 7)?
+
+28. Look at the picture! {user_name} is looking at this.
+A polygon is reflected across a vertical mirror line. A vertex on the original polygon is at (3, 9) and its reflection is at (11, 9). What is the equation of the vertical mirror line?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+A polygon is reflected across a vertical mirror line. A vertex on the original polygon is at (3, 9) and its reflection is at (11, 9). What is the equation of the vertical mirror line?
+
+30. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A polygon is reflected across a vertical mirror line. A vertex on the original polygon is at (3, 9) and its reflection is at (11, 9). What is the equation of the vertical mirror line?
+
+31. Look at the picture! {user_name} is looking at this.
+A right-angled triangle has vertices at (4, 2), (8, 2), and (4, 5). The triangle is reflected across a vertical mirror line at x = 9. What is the horizontal distance between the vertex at (8, 2) and its reflected vertex?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+A right-angled triangle has vertices at (4, 2), (8, 2), and (4, 5). The triangle is reflected across a vertical mirror line at x = 9. What is the horizontal distance between the vertex at (8, 2) and its reflected vertex?
+
+33. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A right-angled triangle has vertices at (4, 2), (8, 2), and (4, 5). The triangle is reflected across a vertical mirror line at x = 9. What is the horizontal distance between the vertex at (8, 2) and its reflected vertex?
+
+34. Look at the picture! {user_name} is looking at this.
+A quadrilateral with vertices at (1, 2), (4, 1), (5, 4), and (2, 6) has a perimeter of 16 cm. It is reflected across a vertical mirror line at x = 7. What is the perimeter of the reflected quadrilateral in centimetres?
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A quadrilateral with vertices at (1, 2), (4, 1), (5, 4), and (2, 6) has a perimeter of 16 cm. It is reflected across a vertical mirror line at x = 7. What is the perimeter of the reflected quadrilateral in centimetres?
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A quadrilateral with vertices at (1, 2), (4, 1), (5, 4), and (2, 6) has a perimeter of 16 cm. It is reflected across a vertical mirror line at x = 7. What is the perimeter of the reflected quadrilateral in centimetres?

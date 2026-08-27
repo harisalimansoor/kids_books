@@ -1,0 +1,13 @@
+###################################
+Coordinates in the first quadrant: reading, plotting (x, y), missing polygon vertices
+###################################
+Domain: Geometry (Properties of Shapes, Position and Direction)
+
+1. Reading coordinates in the first quadrant
+   From: reading, plotting $(x, y)$
+
+2. Plotting coordinates (x, y)
+   From: plot specified points and draw sides to complete a given polygon
+
+3. Missing polygon vertices
+   From: missing polygon vertices

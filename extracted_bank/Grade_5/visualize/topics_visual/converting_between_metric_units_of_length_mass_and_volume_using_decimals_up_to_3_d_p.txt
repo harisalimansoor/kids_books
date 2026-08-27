@@ -1,0 +1,216 @@
+###################################
+Converting between metric units of length, mass, and volume using decimals up to 3 d.p
+###################################
+
+--- Converting metric units of length ---
+
+1. Look at the picture! {user_name} is looking at this.
+Convert 4.5 metres into centimetres.
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Convert 4.5 metres into centimetres.
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Convert 4.5 metres into centimetres.
+
+4. Look at the picture! {user_name} is looking at this.
+Convert 35 millimetres into centimetres. Give your answer as a decimal.
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Convert 35 millimetres into centimetres. Give your answer as a decimal.
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Convert 35 millimetres into centimetres. Give your answer as a decimal.
+
+7. Look at the picture! {user_name} is looking at this.
+A walking track is 2.375 kilometres long. What is the length of the track in metres?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A walking track is 2.375 kilometres long. What is the length of the track in metres?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A walking track is 2.375 kilometres long. What is the length of the track in metres?
+
+10. Look at the picture! {user_name} is looking at this.
+A piece of wood measures 85 centimetres in length. What is its length in metres? Give your answer as a decimal.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A piece of wood measures 85 centimetres in length. What is its length in metres? Give your answer as a decimal.
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A piece of wood measures 85 centimetres in length. What is its length in metres? Give your answer as a decimal.
+
+13. Look at the picture! {user_name} is looking at this.
+Convert 408 metres into kilometres. Give your answer as a decimal.
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+Convert 408 metres into kilometres. Give your answer as a decimal.
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Convert 408 metres into kilometres. Give your answer as a decimal.
+
+16. Look at the picture! {user_name} is looking at this.
+A ribbon is 3.2 metres long. Anaya cuts off 75 centimetres. What is the length of the remaining ribbon in metres? Give your answer as a decimal.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A ribbon is 3.2 metres long. Anaya cuts off 75 centimetres. What is the length of the remaining ribbon in metres? Give your answer as a decimal.
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A ribbon is 3.2 metres long. Anaya cuts off 75 centimetres. What is the length of the remaining ribbon in metres? Give your answer as a decimal.
+
+19. Look at the picture! {user_name} is looking at this.
+Liam jumps 1.48 metres in the long jump. Maya jumps 162 centimetres. How many centimetres further did Maya jump than Liam?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Liam jumps 1.48 metres in the long jump. Maya jumps 162 centimetres. How many centimetres further did Maya jump than Liam?
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Liam jumps 1.48 metres in the long jump. Maya jumps 162 centimetres. How many centimetres further did Maya jump than Liam?
+
+22. Look at the picture! {user_name} is looking at this.
+A builder needs 5 metres of wire. She has three pieces measuring 1.65 m, 85 cm, and 1200 mm. How many more metres of wire does she need? Give your answer as a decimal.
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A builder needs 5 metres of wire. She has three pieces measuring 1.65 m, 85 cm, and 1200 mm. How many more metres of wire does she need? Give your answer as a decimal.
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A builder needs 5 metres of wire. She has three pieces measuring 1.65 m, 85 cm, and 1200 mm. How many more metres of wire does she need? Give your answer as a decimal.
+
+--- Converting metric units of mass ---
+
+25. Look at the picture! {user_name} is looking at this.
+Convert 3.2 kilograms into grams.
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Convert 3.2 kilograms into grams.
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Convert 3.2 kilograms into grams.
+
+28. Look at the picture! {user_name} is looking at this.
+Convert 6500 grams into kilograms. Give your answer as a decimal.
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Convert 6500 grams into kilograms. Give your answer as a decimal.
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Convert 6500 grams into kilograms. Give your answer as a decimal.
+
+31. Look at the picture! {user_name} is looking at this.
+A parcel weighs 1425 grams. What is its mass in kilograms? Give your answer as a decimal.
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A parcel weighs 1425 grams. What is its mass in kilograms? Give your answer as a decimal.
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A parcel weighs 1425 grams. What is its mass in kilograms? Give your answer as a decimal.
+
+34. Look at the picture! {user_name} is looking at this.
+A bag of flour has a mass of 0.075 kilograms. How many grams of flour are in the bag?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A bag of flour has a mass of 0.075 kilograms. How many grams of flour are in the bag?
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A bag of flour has a mass of 0.075 kilograms. How many grams of flour are in the bag?
+
+37. Look at the picture! {user_name} is looking at this.
+A baker has 2.5 kg of sugar. He uses 650 g to make a batch of cookies and 475 g to make a cake. How many grams of sugar does he have left?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A baker has 2.5 kg of sugar. He uses 650 g to make a batch of cookies and 475 g to make a cake. How many grams of sugar does he have left?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A baker has 2.5 kg of sugar. He uses 650 g to make a batch of cookies and 475 g to make a cake. How many grams of sugar does he have left?
+
+40. Look at the picture! {user_name} is looking at this.
+A box contains 8 identical tins of beans. The total mass of the 8 tins is 3.2 kg. What is the mass of one tin in grams?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A box contains 8 identical tins of beans. The total mass of the 8 tins is 3.2 kg. What is the mass of one tin in grams?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A box contains 8 identical tins of beans. The total mass of the 8 tins is 3.2 kg. What is the mass of one tin in grams?
+
+43. Look at the picture! {user_name} is looking at this.
+An empty suitcase has a mass of 2.15 kg. Marcus packs items with a total mass of 14 350 g. The airline limit for luggage is 18 kg. By how many kilograms is the packed suitcase under the limit? Give your answer as a decimal.
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+An empty suitcase has a mass of 2.15 kg. Marcus packs items with a total mass of 14 350 g. The airline limit for luggage is 18 kg. By how many kilograms is the packed suitcase under the limit? Give your answer as a decimal.
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+An empty suitcase has a mass of 2.15 kg. Marcus packs items with a total mass of 14 350 g. The airline limit for luggage is 18 kg. By how many kilograms is the packed suitcase under the limit? Give your answer as a decimal.
+
+--- Converting metric units of volume ---
+
+46. Look at the picture! {user_name} is looking at this.
+Convert 1.75 litres into millilitres.
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+Convert 1.75 litres into millilitres.
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Convert 1.75 litres into millilitres.
+
+49. Look at the picture! {user_name} is looking at this.
+Convert 450 millilitres into litres. Give your answer as a decimal.
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+Convert 450 millilitres into litres. Give your answer as a decimal.
+
+51. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Convert 450 millilitres into litres. Give your answer as a decimal.
+
+52. Look at the picture! {user_name} is looking at this.
+A bottle contains 0.085 litres of medicine. How many millilitres of medicine are in the bottle?
+
+53. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A bottle contains 0.085 litres of medicine. How many millilitres of medicine are in the bottle?
+
+54. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A bottle contains 0.085 litres of medicine. How many millilitres of medicine are in the bottle?
+
+55. Look at the picture! {user_name} is looking at this.
+A beaker holds 8 millilitres of liquid. Express this volume in litres as a decimal.
+
+56. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A beaker holds 8 millilitres of liquid. Express this volume in litres as a decimal.
+
+57. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A beaker holds 8 millilitres of liquid. Express this volume in litres as a decimal.
+
+58. Look at the picture! {user_name} is looking at this.
+A jug contains 1.5 litres of orange juice. Sam pours out four glasses of juice, each containing 220 millilitres. How many millilitres of juice remain in the jug?
+
+59. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A jug contains 1.5 litres of orange juice. Sam pours out four glasses of juice, each containing 220 millilitres. How many millilitres of juice remain in the jug?
+
+60. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A jug contains 1.5 litres of orange juice. Sam pours out four glasses of juice, each containing 220 millilitres. How many millilitres of juice remain in the jug?
+
+61. Look at the picture! {user_name} is looking at this.
+A large bottle holds 2.25 litres of lemonade. Priya fills 9 small cups equally using all the lemonade. What is the capacity of each cup in millilitres?
+
+62. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A large bottle holds 2.25 litres of lemonade. Priya fills 9 small cups equally using all the lemonade. What is the capacity of each cup in millilitres?
+
+63. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A large bottle holds 2.25 litres of lemonade. Priya fills 9 small cups equally using all the lemonade. What is the capacity of each cup in millilitres?
+
+64. Look at the picture! {user_name} is looking at this.
+A watering can has a capacity of 4.5 litres. It currently contains 1850 ml of water. A tap adds water at a rate of 350 ml every 10 seconds. For how many seconds must the tap run to fill the watering can completely?
+
+65. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A watering can has a capacity of 4.5 litres. It currently contains 1850 ml of water. A tap adds water at a rate of 350 ml every 10 seconds. For how many seconds must the tap run to fill the watering can completely?
+
+66. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A watering can has a capacity of 4.5 litres. It currently contains 1850 ml of water. A tap adds water at a rate of 350 ml every 10 seconds. For how many seconds must the tap run to fill the watering can completely?
+
+67. Look at the picture! {user_name} is looking at this.
+A fish tank contains 6.2 litres of water. Oliver adds three jugs of water to the tank. Each jug contains 750 ml. What is the total volume of water in the tank in litres? Give your answer as a decimal.
+
+68. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A fish tank contains 6.2 litres of water. Oliver adds three jugs of water to the tank. Each jug contains 750 ml. What is the total volume of water in the tank in litres? Give your answer as a decimal.
+
+69. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A fish tank contains 6.2 litres of water. Oliver adds three jugs of water to the tank. Each jug contains 750 ml. What is the total volume of water in the tank in litres? Give your answer as a decimal.

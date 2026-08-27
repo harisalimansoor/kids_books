@@ -1,0 +1,124 @@
+###################################
+Calculating perimeter of composite rectilinear shapes and regular polygons
+###################################
+
+--- Calculating perimeter of composite rectilinear shapes ---
+
+1. Look at the picture! {user_name} is looking at this.
+An L-shaped room has six straight walls meeting at right angles. The lengths of the walls are 7 m, 9 m, 3 m, 4 m, 4 m, and 5 m. Calculate the perimeter of the room in metres.
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An L-shaped room has six straight walls meeting at right angles. The lengths of the walls are 7 m, 9 m, 3 m, 4 m, 4 m, and 5 m. Calculate the perimeter of the room in metres.
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+An L-shaped room has six straight walls meeting at right angles. The lengths of the walls are 7 m, 9 m, 3 m, 4 m, 4 m, and 5 m. Calculate the perimeter of the room in metres.
+
+4. Look at the picture! {user_name} is looking at this.
+An L-shaped lawn has edges meeting at right angles. The longest horizontal side along the bottom is 14 m and the longest vertical side along the left is 11 m. The top horizontal side is 6 m and the right vertical side is 4 m. What is the total perimeter of the lawn in metres?
+
+5. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+An L-shaped lawn has edges meeting at right angles. The longest horizontal side along the bottom is 14 m and the longest vertical side along the left is 11 m. The top horizontal side is 6 m and the right vertical side is 4 m. What is the total perimeter of the lawn in metres?
+
+6. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+An L-shaped lawn has edges meeting at right angles. The longest horizontal side along the bottom is 14 m and the longest vertical side along the left is 11 m. The top horizontal side is 6 m and the right vertical side is 4 m. What is the total perimeter of the lawn in metres?
+
+7. Look at the picture! {user_name} is looking at this.
+Four identical square tiles, each with sides of 8 cm, are placed in a straight row to make a single rectangle. What is the perimeter of the resulting rectangle in centimetres?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Four identical square tiles, each with sides of 8 cm, are placed in a straight row to make a single rectangle. What is the perimeter of the resulting rectangle in centimetres?
+
+9. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Four identical square tiles, each with sides of 8 cm, are placed in a straight row to make a single rectangle. What is the perimeter of the resulting rectangle in centimetres?
+
+10. Look at the picture! {user_name} is looking at this.
+A rectilinear patio has a horizontal base of 4 m and a total vertical height on the left of 350 cm. The top horizontal edge is 180 cm, and the right vertical edge is 150 cm. The shape is an L-shape with all right-angled turns. What is the perimeter of the patio in centimetres?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectilinear patio has a horizontal base of 4 m and a total vertical height on the left of 350 cm. The top horizontal edge is 180 cm, and the right vertical edge is 150 cm. The shape is an L-shape with all right-angled turns. What is the perimeter of the patio in centimetres?
+
+12. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectilinear patio has a horizontal base of 4 m and a total vertical height on the left of 350 cm. The top horizontal edge is 180 cm, and the right vertical edge is 150 cm. The shape is an L-shape with all right-angled turns. What is the perimeter of the patio in centimetres?
+
+13. Look at the picture! {user_name} is looking at this.
+A T-shaped flowerbed has right-angled edges. The top horizontal bar is 6 m wide and 2 m deep. A rectangular stem of width 2 m is attached centrally beneath the bar and extends downwards by 5 m. What is the perimeter of the flowerbed in metres?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A T-shaped flowerbed has right-angled edges. The top horizontal bar is 6 m wide and 2 m deep. A rectangular stem of width 2 m is attached centrally beneath the bar and extends downwards by 5 m. What is the perimeter of the flowerbed in metres?
+
+15. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A T-shaped flowerbed has right-angled edges. The top horizontal bar is 6 m wide and 2 m deep. A rectangular stem of width 2 m is attached centrally beneath the bar and extends downwards by 5 m. What is the perimeter of the flowerbed in metres?
+
+16. Look at the picture! {user_name} is looking at this.
+A plus-sign shape is made by joining five identical squares of side length 6 cm: one central square and four outer squares attached to each of its four sides. What is the total perimeter of this composite shape in centimetres?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A plus-sign shape is made by joining five identical squares of side length 6 cm: one central square and four outer squares attached to each of its four sides. What is the total perimeter of this composite shape in centimetres?
+
+18. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A plus-sign shape is made by joining five identical squares of side length 6 cm: one central square and four outer squares attached to each of its four sides. What is the total perimeter of this composite shape in centimetres?
+
+--- Calculating perimeter of regular polygons ---
+
+19. Look at the picture! {user_name} is looking at this.
+A regular pentagon has sides of length 9 cm. What is the perimeter of the pentagon in centimetres?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+A regular pentagon has sides of length 9 cm. What is the perimeter of the pentagon in centimetres?
+
+21. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A regular pentagon has sides of length 9 cm. What is the perimeter of the pentagon in centimetres?
+
+22. Look at the picture! {user_name} is looking at this.
+A regular hexagon has sides of length 14 m. Calculate its perimeter in metres.
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+A regular hexagon has sides of length 14 m. Calculate its perimeter in metres.
+
+24. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A regular hexagon has sides of length 14 m. Calculate its perimeter in metres.
+
+25. Look at the picture! {user_name} is looking at this.
+A regular octagon has a perimeter of 72 cm. What is the length of one of its sides in centimetres?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+A regular octagon has a perimeter of 72 cm. What is the length of one of its sides in centimetres?
+
+27. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A regular octagon has a perimeter of 72 cm. What is the length of one of its sides in centimetres?
+
+28. Look at the picture! {user_name} is looking at this.
+A regular decagon has a side length of 3.8 cm. Calculate the perimeter of the decagon in centimetres.
+
+29. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A regular decagon has a side length of 3.8 cm. Calculate the perimeter of the decagon in centimetres.
+
+30. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A regular decagon has a side length of 3.8 cm. Calculate the perimeter of the decagon in centimetres.
+
+31. Look at the picture! {user_name} is looking at this.
+An equilateral triangle has a perimeter of 36 cm. A regular nonagon has sides of the same length as the equilateral triangle. What is the perimeter of the regular nonagon in centimetres?
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An equilateral triangle has a perimeter of 36 cm. A regular nonagon has sides of the same length as the equilateral triangle. What is the perimeter of the regular nonagon in centimetres?
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+An equilateral triangle has a perimeter of 36 cm. A regular nonagon has sides of the same length as the equilateral triangle. What is the perimeter of the regular nonagon in centimetres?
+
+34. Look at the picture! {user_name} is looking at this.
+A regular heptagon has sides measuring 6.5 cm each. What is the perimeter of the heptagon in centimetres?
+
+35. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A regular heptagon has sides measuring 6.5 cm each. What is the perimeter of the heptagon in centimetres?
+
+36. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A regular heptagon has sides measuring 6.5 cm each. What is the perimeter of the heptagon in centimetres?
+
+37. Look at the picture! {user_name} is looking at this.
+A regular pentagon and a regular hexagon both have sides of length 7 cm. They are placed next to each other so that they share one complete edge without overlapping. What is the perimeter of the outer boundary of this combined shape in centimetres?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A regular pentagon and a regular hexagon both have sides of length 7 cm. They are placed next to each other so that they share one complete edge without overlapping. What is the perimeter of the outer boundary of this combined shape in centimetres?
+
+39. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A regular pentagon and a regular hexagon both have sides of length 7 cm. They are placed next to each other so that they share one complete edge without overlapping. What is the perimeter of the outer boundary of this combined shape in centimetres?

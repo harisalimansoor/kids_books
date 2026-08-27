@@ -1,0 +1,106 @@
+###################################
+Flexible non-standard partitioning and part-whole representations
+###################################
+
+--- Flexible non-standard partitioning ---
+
+1. Look at the picture! {user_name} is looking at this.
+A 4-digit number is partitioned into 24 hundreds, 5 tens, and 8 ones. What is the number?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A 4-digit number is partitioned into 24 hundreds, 5 tens, and 8 ones. What is the number?
+
+3. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A 4-digit number is partitioned into 24 hundreds, 5 tens, and 8 ones. What is the number?
+
+4. Look at the picture! {user_name} is looking at this.
+Fill in the missing number to make the statement correct: 5,280 = 4 thousands + ___ hundreds + 8 tens.
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Fill in the missing number to make the statement correct: 5,280 = 4 thousands + ___ hundreds + 8 tens.
+
+6. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Fill in the missing number to make the statement correct: 5,280 = 4 thousands + ___ hundreds + 8 tens.
+
+7. Look at the picture! {user_name} is looking at this.
+Complete the calculation: 3,745 = 3,000 + 600 + ___ + 5
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Complete the calculation: 3,745 = 3,000 + 600 + ___ + 5
+
+9. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Complete the calculation: 3,745 = 3,000 + 600 + ___ + 5
+
+10. Look at the picture! {user_name} is looking at this.
+Write the missing number to complete the partition: 6,420 = 5,000 + 1,300 + ___
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the missing number to complete the partition: 6,420 = 5,000 + 1,300 + ___
+
+12. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Write the missing number to complete the partition: 6,420 = 5,000 + 1,300 + ___
+
+13. Look at the picture! {user_name} is looking at this.
+A number is partitioned into 35 hundreds and 64 ones. What is the total number?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A number is partitioned into 35 hundreds and 64 ones. What is the total number?
+
+15. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A number is partitioned into 35 hundreds and 64 ones. What is the total number?
+
+16. Look at the picture! {user_name} is looking at this.
+A 4-digit number has 7 thousands, 13 tens, and 9 ones. What is the value of the number?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A 4-digit number has 7 thousands, 13 tens, and 9 ones. What is the value of the number?
+
+18. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A 4-digit number has 7 thousands, 13 tens, and 9 ones. What is the value of the number?
+
+--- Part-whole representations ---
+
+19. Look at the picture! {user_name} is looking at this.
+In a part-whole model, the whole is 4,320. Two of the parts are 3,000 and 1,200. What is the value of the third part?
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+In a part-whole model, the whole is 4,320. Two of the parts are 3,000 and 1,200. What is the value of the third part?
+
+21. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+In a part-whole model, the whole is 4,320. Two of the parts are 3,000 and 1,200. What is the value of the third part?
+
+22. Look at the picture! {user_name} is looking at this.
+In a part-whole model, the whole is 7,850. It is split into two parts. One part is 3,500. What is the other part?
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+In a part-whole model, the whole is 7,850. It is split into two parts. One part is 3,500. What is the other part?
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+In a part-whole model, the whole is 7,850. It is split into two parts. One part is 3,500. What is the other part?
+
+25. Look at the picture! {user_name} is looking at this.
+A part-whole model has three parts: 18 hundreds, 14 tens, and 7 ones. What is the value of the whole?
+
+26. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A part-whole model has three parts: 18 hundreds, 14 tens, and 7 ones. What is the value of the whole?
+
+27. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A part-whole model has three parts: 18 hundreds, 14 tens, and 7 ones. What is the value of the whole?
+
+28. Look at the picture! {user_name} is looking at this.
+A part-whole model has a whole of 6,500. It is split into four parts: 4,000, 2,000, 450, and one missing part. What is the value of the missing part?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A part-whole model has a whole of 6,500. It is split into four parts: 4,000, 2,000, 450, and one missing part. What is the value of the missing part?
+
+30. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A part-whole model has a whole of 6,500. It is split into four parts: 4,000, 2,000, 450, and one missing part. What is the value of the missing part?
+
+31. Look at the picture! {user_name} is looking at this.
+In a part-whole diagram, the whole is 5,016. Three of the parts are 4,000, 900, and 100. What is the value of the fourth part?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In a part-whole diagram, the whole is 5,016. Three of the parts are 4,000, 900, and 100. What is the value of the fourth part?
+
+33. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+In a part-whole diagram, the whole is 5,016. Three of the parts are 4,000, 900, and 100. What is the value of the fourth part?

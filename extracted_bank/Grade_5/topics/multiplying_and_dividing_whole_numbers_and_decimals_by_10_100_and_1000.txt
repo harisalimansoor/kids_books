@@ -1,0 +1,90 @@
+=== Topic: Multiplying and dividing whole numbers and decimals by 10, 100, and 1000 ===
+Domain: Multiplication and Division
+
+--- Multiplying whole numbers by 10, 100, and 1000 ---
+
+Question 1: Calculate 340 × 100.
+Answer: 34,000
+Working: Multiplying 340 by 100 shifts each digit two places to the left: 340 × 100 = 34,000.
+
+Question 2: Work out 78 × 1000.
+Answer: 78,000
+Working: Multiplying 78 by 1000 shifts the digits three places to the left: 78 × 1000 = 78,000.
+
+Question 3: A school buys 100 boxes of pencils. Each box contains 24 pencils. How many pencils does the school buy altogether?
+Answer: 2400
+Working: Multiply the number of boxes by pencils per box: 100 × 24 = 2400.
+
+Question 4: Find the missing number: 65 × _____ = 65,000.
+Answer: 1000
+Working: 65 has moved 3 places to the left to make 65,000, so the missing multiplier is 1000.
+
+Question 5: A warehouse stores 52 crates of bottles. Each crate holds 1000 bottles. How many bottles are stored in total?
+Answer: 52,000
+Working: 52 × 1000 = 52,000 bottles.
+
+--- Dividing whole numbers by 10, 100, and 1000 ---
+
+Question 6: Calculate 4900 ÷ 100.
+Answer: 49
+Working: Dividing by 100 moves all digits two places to the right: 4900 ÷ 100 = 49.
+
+Question 7: Calculate 63 ÷ 10.
+Answer: 6.3
+Working: Dividing 63 by 10 moves the digits one place to the right: 63 ÷ 10 = 6.3.
+
+Question 8: Find the result of 750 ÷ 1000 as a decimal.
+Answer: 0.75
+Working: Dividing 750 by 1000 shifts the digits three places to the right: 750 ÷ 1000 = 0.75.
+
+Question 9: A factory packs 8200 screws equally into 100 bags. How many screws are in each bag?
+Answer: 82
+Working: 8200 ÷ 100 = 82 screws per bag.
+
+Question 10: Work out the missing number: _____ ÷ 100 = 5.4.
+Answer: 540
+Working: Use the inverse operation: 5.4 × 100 = 540.
+
+--- Multiplying decimals by 10, 100, and 1000 ---
+
+Question 11: Calculate 4.7 × 10.
+Answer: 47
+Working: Multiplying 4.7 by 10 shifts each digit one place to the left: 4.7 × 10 = 47.
+
+Question 12: Calculate 0.38 × 100.
+Answer: 38
+Working: Multiplying 0.38 by 100 moves the digits two places to the left: 0.38 × 100 = 38.
+
+Question 13: Work out 0.065 × 1000.
+Answer: 65
+Working: Multiplying 0.065 by 1000 moves the digits three places to the left: 0.065 × 1000 = 65.
+
+Question 14: One bottle of juice contains 0.45 litres. How many litres are there in 100 of these bottles?
+Answer: 45
+Working: 0.45 × 100 = 45 litres.
+
+Question 15: Find the missing value: 2.08 × _____ = 2080.
+Answer: 1000
+Working: The digits in 2.08 have moved three places to the left to become 2080, so the multiplier is 1000.
+
+--- Dividing decimals by 10, 100, and 1000 ---
+
+Question 16: Calculate 5.6 ÷ 10.
+Answer: 0.56
+Working: Dividing 5.6 by 10 shifts the digits one place to the right: 5.6 ÷ 10 = 0.56.
+
+Question 17: Calculate 34.2 ÷ 100.
+Answer: 0.342
+Working: Dividing 34.2 by 100 shifts the digits two places to the right: 34.2 ÷ 100 = 0.342.
+
+Question 18: A ribbon measuring 18.5 metres is cut into 10 equal pieces. What is the length of one piece in metres?
+Answer: 1.85
+Working: 18.5 ÷ 10 = 1.85 metres.
+
+Question 19: Work out 8.9 ÷ 100.
+Answer: 0.089
+Working: Dividing 8.9 by 100 shifts the digits two places to the right: 8.9 ÷ 100 = 0.089.
+
+Question 20: Find the missing divisor: 71.4 ÷ _____ = 0.0714.
+Answer: 1000
+Working: The digits in 71.4 move three places to the right to make 0.0714, so the divisor is 1000.

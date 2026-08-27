@@ -1,0 +1,62 @@
+=== Topic: Percentages as parts per hundred and fraction/decimal/percentage equivalences ===
+Domain: Fractions, Decimals and Percentages
+
+--- Percentages as parts per hundred ---
+
+Question 1: A hundred square is divided into 100 equal smaller squares. If 47 of the squares are shaded, what percentage of the hundred square is shaded?
+Answer: 47%
+Working: Per cent means parts per hundred. 47 out of 100 equal squares is 47%.
+
+Question 2: A spelling test has 100 questions. Oliver answers 83 questions correctly. What percentage of the questions did Oliver answer correctly?
+Answer: 83%
+Working: 83 out of 100 questions correct is 83 parts per hundred, which is 83%.
+
+Question 3: A large square is made of 100 equal smaller squares. 38 squares are shaded blue and 29 squares are shaded red. What percentage of the large square is not shaded?
+Answer: 33%
+Working: Total shaded squares = 38 + 29 = 67. Unshaded squares = 100 - 67 = 33. 33 out of 100 is 33%.
+
+Question 4: In a box of 100 coloured beads, 45 are green, 30 are purple, and the rest are yellow. What percentage of the beads are yellow?
+Answer: 25%
+Working: Green and purple beads = 45 + 30 = 75 beads. Yellow beads = 100 - 75 = 25 beads. 25 out of 100 beads is 25%.
+
+Question 5: A gardener plants 100 seeds. 62% of the seeds grow into flowers, 15% grow into vegetables, and the remaining seeds do not grow. What percentage of the seeds do not grow?
+Answer: 23%
+Working: The whole represents 100%. Percentage grown = 62% + 15% = 77%. Percentage not grown = 100% - 77% = 23%.
+
+Question 6: On a grid of 100 squares, 54 squares are shaded grey. How many more squares need to be shaded so that 71% of the grid is shaded?
+Answer: 17
+Working: 71% of 100 squares is 71 squares. 71 - 54 = 17 squares.
+
+--- Fraction, decimal and percentage equivalences ---
+
+Question 7: Write 0.65 as a percentage.
+Answer: 65%
+Working: 0.65 is 65 hundredths, which is equal to 65%.
+
+Question 8: Write 3/10 as a percentage.
+Answer: 30%
+Working: 3/10 = (3 × 10)/(10 × 10) = 30/100, which is equal to 30%.
+
+Question 9: Convert 4/5 into a percentage.
+Answer: 80%
+Working: 4/5 = (4 × 20)/(5 × 20) = 80/100 = 80%.
+
+Question 10: Write 9% as a decimal.
+Answer: 0.09
+Working: 9% means 9 parts per hundred, which is 9/100 = 0.09.
+
+Question 11: Write 17/25 as a percentage.
+Answer: 68%
+Working: Convert denominator to 100: (17 × 4)/(25 × 4) = 68/100 = 68%.
+
+Question 12: Put these values in order from smallest to largest: 0.45, 1/2, 38%
+Answer: 38%, 0.45, 1/2
+Working: Convert all to percentages: 0.45 = 45%, 1/2 = 50%, 38% = 38%. In order from smallest to largest: 38%, 0.45, 1/2.
+
+Question 13: Write 60% as a fraction in its simplest form.
+Answer: 3/5
+Working: 60% = 60/100. Divide numerator and denominator by 20: (60 ÷ 20)/(100 ÷ 20) = 3/5.
+
+Question 14: In a running club, 1/4 of the members are juniors, 0.35 of the members are seniors, and the rest are veterans. What percentage of the club members are veterans?
+Answer: 40%
+Working: Convert to percentages: 1/4 = 25% and 0.35 = 35%. Total juniors and seniors = 25% + 35% = 60%. Veterans = 100% - 60% = 40%.

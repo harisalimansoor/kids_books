@@ -1,0 +1,62 @@
+=== Topic: Reading, writing, ordering, and comparing numbers with up to 3 decimal places ===
+Domain: Fractions, Decimals and Percentages
+
+--- Reading and writing numbers with up to 3 decimal places ---
+
+Question 1: What is the value of the digit 7 in the number 4.275? Write your answer as a fraction.
+Answer: 7/100
+Working: The digit 4 is in the ones column, 2 is in the tenths column, 7 is in the hundredths column, and 5 is in the thousandths column. Therefore, the digit 7 has a value of 7 hundredths, which is 7/100.
+
+Question 2: Write the decimal number that has 5 ones, 0 tenths, 8 hundredths, and 3 thousandths.
+Answer: 5.083
+Working: Place the digits into their respective place value columns: 5 in the ones column, 0 in the tenths column, 8 in the hundredths column, and 3 in the thousandths column gives 5.083.
+
+Question 3: Write the number 'six point zero four nine' in figures.
+Answer: 6.049
+Working: 'Six point zero four nine' has 6 ones, 0 tenths, 4 hundredths, and 9 thousandths, which is written as 6.049.
+
+Question 4: Fill in the missing number to complete the partition: 3.428 = 3 + 0.4 + ___ + 0.008
+Answer: 0.02
+Working: Partitioning 3.428 by place value gives 3 ones (3), 4 tenths (0.4), 2 hundredths (0.02), and 8 thousandths (0.008). The missing part is 0.02.
+
+Question 5: What is the value of the digit 9 in 12.309 as a decimal?
+Answer: 0.009
+Working: The digit 9 is the third digit after the decimal point, which is the thousandths column. 9 thousandths written as a decimal is 0.009.
+
+Question 6: A number is made of 14 tenths and 6 thousandths. Write this number as a decimal.
+Answer: 1.406
+Working: 14 tenths = 1.4. 6 thousandths = 0.006. Adding them together: 1.4 + 0.006 = 1.406.
+
+Question 7: Complete the statement with the missing value: 2.753 = 2 + 0.7 + 0.04 + ___
+Answer: 0.013
+Working: 2 + 0.7 + 0.04 = 2.74. To find the missing value, calculate 2.753 - 2.74 = 0.013.
+
+--- Ordering and comparing numbers with up to 3 decimal places ---
+
+Question 8: Write the correct symbol, < or >, to make the statement true: 0.35 ___ 0.305
+Answer: >
+Working: Compare the tenths: both have 3 tenths. Compare the hundredths: 0.35 has 5 hundredths while 0.305 has 0 hundredths. 5 hundredths is greater than 0 hundredths, so 0.35 > 0.305.
+
+Question 9: Which is the greater mass: 2.15 kg or 2.148 kg?
+Answer: 2.15 kg
+Working: Both have 2 ones and 1 tenth. Comparing the hundredths column: 2.15 has 5 hundredths (2.150 kg) while 2.148 has 4 hundredths. 5 hundredths is greater than 4 hundredths, so 2.15 kg is greater.
+
+Question 10: Write these lengths in order from shortest to longest: 1.04 m, 1.4 m, 1.004 m, 1.14 m
+Answer: 1.004 m, 1.04 m, 1.14 m, 1.4 m
+Working: Align using thousandths: 1.004 m, 1.040 m, 1.140 m, 1.400 m. Comparing from least to greatest: 1.004 m < 1.04 m < 1.14 m < 1.4 m.
+
+Question 11: Four runners record their race times in seconds: 12.35 s, 12.035 s, 12.305 s, 12.5 s. Which runner recorded the fastest time?
+Answer: 12.035 s
+Working: The fastest time is the smallest number. Comparing the times aligned to thousandths: 12.035 s, 12.305 s, 12.350 s, 12.500 s. The smallest value is 12.035 s.
+
+Question 12: Write these numbers in descending order (from largest to smallest): 0.7, 0.609, 0.69, 0.702
+Answer: 0.702, 0.7, 0.69, 0.609
+Working: Write each number to 3 decimal places: 0.700, 0.609, 0.690, 0.702. Ordering from largest to smallest gives 0.702, 0.7, 0.69, 0.609.
+
+Question 13: Write a decimal number with 3 decimal places that lies between 4.82 and 4.83.
+Answer: 4.825
+Working: 4.82 = 4.820 and 4.83 = 4.830. Any decimal from 4.821 to 4.829 lies between them. For example, 4.825.
+
+Question 14: A digit is missing from the inequality: 3.5_4 > 3.562. What is the smallest digit that can replace the blank to make the statement true?
+Answer: 6
+Working: Comparing tenths: both have 5. For hundredths, if the missing digit is 6, we compare 3.564 with 3.562. In the thousandths column, 4 > 2, so 3.564 > 3.562 is true. If the missing digit were 5, 3.554 < 3.562. Therefore, the smallest valid digit is 6.
