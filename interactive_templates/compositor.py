@@ -3,11 +3,11 @@ compositor.py
 ─────────────────────────────────────────────────────────────────────────────
 Compose a final worksheet image from:
   - a kitchen/hobby ROLE template (white placeholder boxes + face regions)
-  - user face photos pasted onto annotated regions
+  - user face photos via the shared kitchen face pipeline
+    (paste → AI adult blend → AI child blend → degreen) — same as new_pipeline
   - an OBJECT spec (food/hobby/pet) that defines hand interaction style
 
-Pipeline: paste faces → paste objects → ONE AI finish pass
-(face blend + object interaction + soft-cartoon storybook look).
+Pipeline: kitchen faces → paste objects → AI finish (objects + style)
 """
 
 from __future__ import annotations
@@ -26,7 +26,10 @@ from PIL import Image, ImageDraw, ImageFilter
 load_dotenv(dotenv_path=Path(__file__).parent.parent / ".env")
 API_KEY = os.getenv("OPENROUTER_API_KEY", "").strip()
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
-IMAGE_MODEL = os.getenv("PERSONALIZE_IMAGE_MODEL", "openai/gpt-5-image-mini").strip() or "openai/gpt-5-image-mini"
+IMAGE_MODEL = (
+    os.getenv("PERSONALIZE_IMAGE_MODEL", "openai/gpt-5.4-image-2").strip()
+    or "openai/gpt-5.4-image-2"
+)
 
 
 # Second image call per scene. Costs extra credits, so it can be turned off
@@ -175,6 +178,49 @@ def _detected_face_regions(meta: dict, template_png: Path | None) -> list[dict]:
         except Exception:
             pass
     return detected
+
+
+def _resolve_face_photos(photos: dict, adult_role: str) -> tuple[Path | None, Path | None]:
+    """Return (child_photo, adult_photo) paths from compositor photos dict."""
+    child = (
+        photos.get("child")
+        or photos.get("child_photo")
+        or photos.get("user")
+    )
+    adult = (
+        photos.get(adult_role)
+        or photos.get(f"{adult_role}_photo")
+        or photos.get("mother")
+        or photos.get("father")
+        or photos.get("grandmother")
+        or photos.get("grandfather")
+    )
+    child_p = Path(child) if child and Path(child).exists() else None
+    adult_p = Path(adult) if adult and Path(adult).exists() else None
+    return child_p, adult_p
+
+
+def _pick_face_regions(meta: dict, adult_role: str, template_png: Path | None) -> tuple[dict | None, dict | None]:
+    """Pick child + adult face region dicts from template meta."""
+    regions = _detected_face_regions(meta, template_png)
+    if not regions:
+        return None, None
+    by_role = {str(r.get("role") or "").lower(): r for r in regions}
+    child = by_role.get("child")
+    adult = (
+        by_role.get(adult_role)
+        or by_role.get(f"{adult_role}_name")
+        or by_role.get("adult")
+        or by_role.get("mother")
+        or by_role.get("father")
+    )
+    # fallback: any non-child region
+    if adult is None:
+        for r in regions:
+            if str(r.get("role") or "").lower() != "child":
+                adult = r
+                break
+    return child, adult
 
 
 def paste_faces(
@@ -788,17 +834,15 @@ def compose_interactive_scene(
     image_style: str = "soft_cartoon",
 ) -> dict:
     """
-    End-to-end compose:
-      1. paste faces onto annotated regions (local)
+    End-to-end compose for final worksheets:
+      1. kitchen-style face paste + two-pass AI blend (same as new_pipeline)
       2. paste objects into placeholders (local)
-      3. ONE AI pass: face blend + object interaction + soft cartoon
+      3. AI finish: object interaction + style (faces already blended)
     """
     photos = photos or {}
     object_spec = load_object_spec(object_id, category=category)
     png_path, meta = find_role_template(scene_family, adult_role)
 
-    # Count is locked to the template placeholder count so worksheet
-    # questions and the final image always agree.
     slot_count = placeholder_count_from_meta(meta)
     final_count = slot_count or int(
         count or object_spec.get("default_count") or meta.get("count") or 4
@@ -812,9 +856,48 @@ def compose_interactive_scene(
     print(f"  🧁 Object: {object_spec.get('plural')} × {final_count} (placeholder-locked)")
 
     canvas = Image.open(png_path).convert("RGBA")
-    canvas = paste_faces(canvas, meta, photos, template_png=png_path)
+    child_photo, adult_photo = _resolve_face_photos(photos, adult_role)
+    child_region, adult_region = _pick_face_regions(meta, adult_role, png_path)
+    kitchen_faces_done = False
 
-    has_pasted_faces = any(
+    if child_photo and adult_photo and child_region and adult_region:
+        try:
+            import sys
+            from pathlib import Path as _P
+
+            repo = _P(__file__).resolve().parents[1]
+            np_root = repo / "new_pipeline"
+            if str(np_root) not in sys.path:
+                sys.path.insert(0, str(np_root))
+            from question_templates.personalize import run_kitchen_face_pipeline
+
+            style_key_early = (image_style or "soft_cartoon").strip().lower()
+            soft = style_key_early in (
+                "soft_cartoon", "soft", "semi_realistic", "storybook_soft",
+                "cartoon", "cartoonish", "full_cartoon",
+            )
+            canvas = run_kitchen_face_pipeline(
+                canvas.convert("RGB"),
+                child_region=child_region,
+                adult_region=adult_region,
+                child_photo=child_photo,
+                adult_photo=adult_photo,
+                adult_role=adult_role,
+                soft_cartoon=soft,
+                run_ai_finish=FACE_BLEND_PASS and bool(API_KEY),
+                require_ai=False,  # finish_scene can still help if AI fails
+                expand_adult_hair=True,
+                label=f"{scene_family}/{adult_role}",
+            )
+            kitchen_faces_done = True
+            print("  ✓ Kitchen face pipeline applied (paste → adult AI → child AI)")
+        except Exception as exc:
+            print(f"  ⚠️  Kitchen face pipeline failed ({exc}) — falling back to simple paste")
+            canvas = paste_faces(canvas.convert("RGBA"), meta, photos, template_png=png_path)
+    else:
+        canvas = paste_faces(canvas, meta, photos, template_png=png_path)
+
+    has_pasted_faces = bool(child_photo and adult_photo) or any(
         photos.get(k)
         for k in (
             "child", "user", adult_role, f"{adult_role}_photo",
@@ -824,7 +907,12 @@ def compose_interactive_scene(
 
     asset = _resolve_object_asset(object_spec)
     if asset:
-        canvas = paste_objects(canvas, meta, asset, count=final_count)
+        canvas = paste_objects(
+            canvas.convert("RGBA") if canvas.mode != "RGBA" else canvas,
+            meta,
+            asset,
+            count=final_count,
+        )
         print(f"  ✓ Pasted object asset: {asset.name}")
     else:
         print(
@@ -843,12 +931,12 @@ def compose_interactive_scene(
             count=final_count,
             scene_family=scene_family,
             image_style=style_key,
-            has_pasted_faces=has_pasted_faces,
+            # If kitchen faces already blended, only ask finish for objects/style
+            has_pasted_faces=has_pasted_faces and not kitchen_faces_done,
         )
     else:
         final = canvas.convert("RGB")
 
-    # Metadata shaped for worksheet question sync (role + count + object wording)
     sync_meta = {
         "template_id": meta.get("template_id"),
         "scene_family": scene_family,
@@ -866,6 +954,7 @@ def compose_interactive_scene(
         "singular": object_spec.get("singular"),
         "plural": object_spec.get("plural"),
         "image_style": style_key,
+        "kitchen_face_pipeline": kitchen_faces_done,
     }
 
     return {

@@ -160,8 +160,8 @@
     "apple_layout": "two_clear_groups_with_gap"
   },
   "annotation": {
-    "method": "yunet",
-    "instructions": "Tweak face_regions manually in meta.json if boxes are off."
+    "method": "manual",
+    "instructions": "Manually dragged face boxes; previous YuNet/manual kept in face_regions_previous."
   },
   "interests": {
     "foods": [
@@ -169,5 +169,67 @@
     ],
     "hobbies": [],
     "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
-  }
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 265,
+      "y": 341,
+      "w": 138,
+      "h": 173,
+      "landmarks": {
+        "right_eye": [
+          302,
+          409
+        ],
+        "left_eye": [
+          367,
+          407
+        ],
+        "nose": [
+          336,
+          437
+        ],
+        "mouth_right": [
+          307,
+          466
+        ],
+        "mouth_left": [
+          363,
+          464
+        ]
+      },
+      "confidence": 0.945
+    },
+    {
+      "role": "mother",
+      "x": 627,
+      "y": 145,
+      "w": 161,
+      "h": 202,
+      "landmarks": {
+        "right_eye": [
+          656,
+          233
+        ],
+        "left_eye": [
+          731,
+          219
+        ],
+        "nose": [
+          695,
+          265
+        ],
+        "mouth_right": [
+          677,
+          296
+        ],
+        "mouth_left": [
+          744,
+          284
+        ]
+      },
+      "confidence": 0.935
+    }
+  ]
 }

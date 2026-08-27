@@ -60,7 +60,12 @@ st.write(
     "Create a personalised Year 1 maths workbook with fun illustrations! "
     "Tell us about your child — favourite colour, family, and "
     "favourite foods & hobbies — and we'll make a worksheet from "
-    "**pre-built question templates** (faces + names swapped in; answers from the template)."
+    "**pre-built question templates**."
+)
+st.caption(
+    "Illustrations use the kitchen-style pipeline: YuNet face paste → "
+    "AI seamless blend (adult then child) → object-count lock. "
+    "Requires `OPENROUTER_API_KEY` in `.env`."
 )
 
 if "pipeline" not in st.session_state:
@@ -158,9 +163,10 @@ if _siblings:
 st.divider()
 st.markdown("#### 🍳 Favourite Foods & 🎨 Hobbies")
 st.caption(
-    "Only foods and hobbies that appear in **ready question templates** are listed. "
-    "Picks prefer matching stems (e.g. Apples → apple stems, Football → ball stems); "
-    "other ready stems are used as fallback. Also saved on the workbook profile."
+    "Only foods/hobbies that appear on **ready templates** are listed. "
+    "When you pick any, the workbook uses **only** those stems "
+    "(e.g. Apples → apple questions — not cupcakes). "
+    "Leave empty to use any ready stem."
 )
 _available_foods = list_template_foods()
 _available_hobbies = list_template_hobbies()
@@ -257,13 +263,23 @@ style_choice = st.radio(
     horizontal=True,
     key="np_style_choice",
     help=(
-        "Both modes AI-blend your uploaded faces into the template (not stickers). "
-        "Each person's hairstyle stays as in their uploaded photo, and body "
-        "skin (neck, arms, hands) is matched to that face — not the template."
+        "Photoreal is the default (same as the apples test). "
+        "Both modes paste faces into YuNet boxes then AI-blend "
+        "(adult first, then child) so edges are not stickers."
     ),
 )
 soft_cartoon = style_choice.startswith("Soft cartoon")
-run_ai_finish = True  # always blend — paste-only looked like stickers
+run_ai_finish = True  # always AI-blend when illustrations are on
+
+# Warn early if API key missing (blend will fall back to paste-only)
+from question_templates import personalize as _pers_check
+
+importlib.reload(_pers_check)
+if include_images and not (_pers_check.API_KEY or "").strip():
+    st.warning(
+        "⚠️ `OPENROUTER_API_KEY` is not set — illustrations will paste faces "
+        "without AI blend (sticker look). Add the key to `.env` and restart Streamlit."
+    )
 
 anything_else = st.text_area(
     "Anything else for the pictures? (optional)",
@@ -276,7 +292,10 @@ anything_else = st.text_area(
 # Face upload section
 # ------------------------------------------------------------------------------
 saved_face_paths: dict[str, str] = {}
-with st.expander("Upload Family Photos (for face swapping)", expanded=False):
+with st.expander(
+    "Upload Family Photos (for face swapping)",
+    expanded=bool(include_images),
+):
     st.markdown(
         """
     <style>
@@ -305,10 +324,9 @@ with st.expander("Upload Family Photos (for face swapping)", expanded=False):
         unsafe_allow_html=True,
     )
     st.caption(
-        "Upload photos and we'll put your family's faces onto the characters. "
-        "Hairstyle stays as in each photo, and the body skin (neck, arms, hands) "
-        "is matched to that person's face. Child + matching adult photos are "
-        "required for each template role you want."
+        "Upload clear face photos. Child + the matching adult (Mum/Dad/…) "
+        "are required for each template role you want. "
+        "Pipeline: soft-paste into annotated boxes → AI blend adult → AI blend child."
     )
 
     faces_dir = REPO_ROOT / "personalised_faces"
@@ -397,6 +415,18 @@ st.info(
     f"({', '.join(ROLE_DISPLAY.get(r, r) for r in sorted(available_adult_roles)) or 'no adults yet'}) · "
     f"**{len(matched_interests)}** match your food/hobby picks"
 )
+if (favourite_foods or favourite_hobbies) and matched_interests:
+    if len(matched_interests) < int(num_questions):
+        st.warning(
+            f"Only **{len(matched_interests)}** ready stem(s) match your favourites "
+            f"with the current faces/topics — the workbook will have at most that many "
+            f"questions (won't fill with unrelated foods like cupcakes)."
+        )
+elif favourite_foods or favourite_hobbies:
+    st.warning(
+        "No ready stems match your food/hobby picks with the current faces/topics. "
+        "Pick different favourites, upload the matching adult photo, or clear favourites."
+    )
 
 # ------------------------------------------------------------------------------
 # Generate
@@ -419,6 +449,11 @@ if st.button("📝 Generate Personalised Workbook", type="primary"):
         st.warning(
             "⚠️ No ready templates match your uploaded adults, topics, and number range. "
             "Add more stems or upload the matching adult photo."
+        )
+    elif include_images and (favourite_foods or favourite_hobbies) and not matched_interests:
+        st.warning(
+            "⚠️ No ready templates match your favourite foods/hobbies with the "
+            "uploaded faces. Clear favourites or pick ones that have matching stems."
         )
     elif not include_images and not ready_counted:
         st.warning("⚠️ No ready templates for the selected topics / number range.")
@@ -457,70 +492,83 @@ if pipeline is None:
 phase = pipeline["phase"]
 
 if phase == "build":
-    with st.spinner("Selecting templates and personalising…"):
-        faces = pipeline["saved_face_paths"]
-        adult_roles = set(pipeline["available_adult_roles"])
-        pool = list_ready_stems(topics=pipeline["selected_topics"])
-        pool = [s for s in pool if _stem_within_counting(s, pipeline["counting_ability"])]
+    faces = pipeline["saved_face_paths"]
+    adult_roles = set(pipeline["available_adult_roles"])
+    pool = list_ready_stems(topics=pipeline["selected_topics"])
+    pool = [s for s in pool if _stem_within_counting(s, pipeline["counting_ability"])]
+    if pipeline["include_images"]:
+        pool = stems_for_available_roles(pool, adult_roles)
+    chosen = select_stems(
+        pool,
+        pipeline["num_questions"],
+        favourite_foods=pipeline.get("favourite_foods") or [],
+        favourite_hobbies=pipeline.get("favourite_hobbies") or [],
+    )
+    if not chosen:
+        st.error("No stems available to build the workbook.")
+        st.session_state.pipeline = None
+        st.stop()
+
+    try:
         if pipeline["include_images"]:
-            pool = stems_for_available_roles(pool, adult_roles)
-        chosen = select_stems(
-            pool,
-            pipeline["num_questions"],
-            favourite_foods=pipeline.get("favourite_foods") or [],
-            favourite_hobbies=pipeline.get("favourite_hobbies") or [],
-        )
-        if not chosen:
-            st.error("No stems available to build the workbook.")
-            st.session_state.pipeline = None
-            st.stop()
+            progress = st.progress(0, text="Personalising illustrations…")
+            status = st.empty()
 
-        try:
-            if pipeline["include_images"]:
-                items = build_workbook_items(
-                    chosen,
-                    user_name=pipeline["student_name"],
-                    family_names=pipeline["family_names"],
-                    face_paths=faces,
-                    run_ai_finish=pipeline["run_ai_finish"],
-                    soft_cartoon=pipeline.get("soft_cartoon", False),
-                    child_gender=pipeline.get("gender", ""),
-                    out_dir=PIPELINE_ROOT / "_runtime" / "personalized",
+            def _on_stem(i: int, total: int, stem_id: str) -> None:
+                status.info(f"Blending faces {i}/{total}: `{stem_id}` (adult → child AI)…")
+                progress.progress(min(i / max(total, 1), 1.0))
+
+            items = build_workbook_items(
+                chosen,
+                user_name=pipeline["student_name"],
+                family_names=pipeline["family_names"],
+                face_paths=faces,
+                run_ai_finish=pipeline["run_ai_finish"],
+                soft_cartoon=pipeline.get("soft_cartoon", False),
+                child_gender=pipeline.get("gender", ""),
+                out_dir=PIPELINE_ROOT / "_runtime" / "personalized",
+                on_progress=_on_stem,
+            )
+            progress.progress(1.0, text="Done")
+            status.empty()
+        else:
+            # Text-only: still fill names + MCQ from meta
+            items = []
+            for stem in chosen:
+                role = stem["template_adult_role"]
+                items.append(
+                    {
+                        "stem_id": stem["stem_id"],
+                        "topic": stem["topic"],
+                        "topic_label": topic_label(stem["topic"]),
+                        "adult_role": role,
+                        "adult_name": display_name_for_role(
+                            role, pipeline["family_names"]
+                        ),
+                        "question": fill_question_text(
+                            stem["question_template"],
+                            user_name=pipeline["student_name"],
+                            adult_role=role,
+                            family_names=pipeline["family_names"],
+                        ),
+                        "image_path": None,
+                        "options": mcq_from_meta(stem["meta"]),
+                        "correct": str(
+                            (stem["meta"].get("answer") or {}).get("correct") or ""
+                        ),
+                    }
                 )
-            else:
-                # Text-only: still fill names + MCQ from meta
-                items = []
-                for stem in chosen:
-                    role = stem["template_adult_role"]
-                    items.append(
-                        {
-                            "stem_id": stem["stem_id"],
-                            "topic": stem["topic"],
-                            "topic_label": topic_label(stem["topic"]),
-                            "adult_role": role,
-                            "adult_name": display_name_for_role(
-                                role, pipeline["family_names"]
-                            ),
-                            "question": fill_question_text(
-                                stem["question_template"],
-                                user_name=pipeline["student_name"],
-                                adult_role=role,
-                                family_names=pipeline["family_names"],
-                            ),
-                            "image_path": None,
-                            "options": mcq_from_meta(stem["meta"]),
-                            "correct": str(
-                                (stem["meta"].get("answer") or {}).get("correct") or ""
-                            ),
-                        }
-                    )
-        except Exception as exc:
-            st.error(f"Personalisation failed: {exc}")
-            st.session_state.pipeline = None
-            st.stop()
+    except Exception as exc:
+        st.error(f"Personalisation failed: {exc}")
+        st.info(
+            "If OpenRouter was overloaded, wait a minute and click **Generate** again. "
+            "The app will not put soft-paste sticker faces into the PDF."
+        )
+        st.session_state.pipeline = None
+        st.stop()
 
-        pipeline["items"] = items
-        pipeline["phase"] = "pdf"
+    pipeline["items"] = items
+    pipeline["phase"] = "pdf"
     st.rerun()
 
 elif phase == "pdf":

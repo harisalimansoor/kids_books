@@ -454,16 +454,23 @@ def select_stems(
     prefer_topic_spread: bool = True,
     favourite_foods: list[str] | None = None,
     favourite_hobbies: list[str] | None = None,
+    strict_interests: bool = True,
 ) -> list[dict]:
     """
     Pick up to n unique stem_ids.
 
-    Prefer stems tagged with the user's favourite foods/hobbies; if fewer than n
-    match, fill the rest from remaining ready stems (fallback). Topic spread
-    still applies within each tier.
+    When the user selected favourite foods/hobbies and strict_interests=True
+    (default), ONLY interest-matched stems are used — no cupcakes/baking
+    fallback if those weren't picked.
+
+    If no favourites are selected, pick from the full ready pool.
     """
     if n <= 0 or not stems:
         return []
+
+    want_foods = [f for f in (favourite_foods or []) if str(f).strip()]
+    want_hobbies = [h for h in (favourite_hobbies or []) if str(h).strip()]
+    has_interests = bool(want_foods or want_hobbies)
 
     matched, other = partition_by_interests(
         stems,
@@ -496,6 +503,14 @@ def select_stems(
                 if len(picked) >= need:
                     break
         return picked
+
+    if has_interests and strict_interests:
+        # Only stems tagged with the user's picks
+        return _pick(matched, n)
+
+    # No favourites → full pool; or non-strict → match first then fill
+    if not has_interests:
+        return _pick(stems, n)
 
     chosen = _pick(matched, n)
     if len(chosen) < n:
@@ -572,14 +587,16 @@ def build_workbook_items(
     family_names: dict[str, str],
     face_paths: dict[str, str | Path],
     run_ai_finish: bool = True,
-    soft_cartoon: bool = True,
+    soft_cartoon: bool = False,
     child_gender: str = "",
     out_dir: Path | None = None,
+    on_progress=None,
 ) -> list[dict]:
     """
     Personalize each stem and return PDF-ready items.
 
     face_paths keys: user/child, mother, father, grandmother, grandfather
+    on_progress: optional callable(i, total, stem_id) for Streamlit UI updates
     """
     from question_templates import personalize as _personalize
 
@@ -587,18 +604,29 @@ def build_workbook_items(
     personalize_stem = _personalize.personalize_stem
 
     out_dir = Path(out_dir) if out_dir else PIPELINE_ROOT / "_runtime" / "personalized"
+    # Fresh run — remove stale soft-paste lock-ins from earlier failed AI sessions
+    if out_dir.exists():
+        for old in out_dir.glob("*.png"):
+            try:
+                old.unlink()
+            except OSError:
+                pass
     out_dir.mkdir(parents=True, exist_ok=True)
 
     child_photo = face_paths.get("user") or face_paths.get("child")
     if not child_photo:
         raise ValueError("Child face photo is required.")
 
+    total = len(stems)
     items: list[dict] = []
     for i, stem in enumerate(stems, start=1):
         role = stem["template_adult_role"]
         adult_photo = face_paths.get(role)
         if not adult_photo:
             raise ValueError(f"Missing face photo for locked role '{role}' ({stem['stem_id']}).")
+
+        if on_progress is not None:
+            on_progress(i, total, stem["stem_id"])
 
         out_path = out_dir / f"{i:02d}_{stem['stem_id']}_{role}.png"
         personalize_stem(
@@ -610,6 +638,7 @@ def build_workbook_items(
             run_ai_finish=run_ai_finish,
             soft_cartoon=soft_cartoon,
             child_gender=child_gender,
+            require_ai=bool(run_ai_finish),
         )
 
         q_text = fill_question_text(

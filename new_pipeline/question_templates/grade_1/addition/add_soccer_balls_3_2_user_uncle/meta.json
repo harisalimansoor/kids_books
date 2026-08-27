@@ -1,0 +1,148 @@
+{
+  "stem_id": "add_soccer_balls_3_2_user_uncle",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "uncle_2_soccer_balls_child_3_soccer_balls_field.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "uncle"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "uncle",
+    "allowed_adult_roles": [
+      "uncle"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "uncle_name": "uncle"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is uncle-locked. Paste child + uncle faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "sports",
+      "soccer",
+      "football"
+    ],
+    "notes": "Playing soccer with uncle addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 264,
+      "y": 388,
+      "w": 131,
+      "h": 167,
+      "landmarks": {
+        "right_eye": [
+          298,
+          455
+        ],
+        "left_eye": [
+          362,
+          454
+        ],
+        "nose": [
+          329,
+          482
+        ],
+        "mouth_right": [
+          297,
+          505
+        ],
+        "mouth_left": [
+          359,
+          505
+        ]
+      },
+      "confidence": 0.954
+    },
+    {
+      "role": "uncle",
+      "x": 605,
+      "y": 69,
+      "w": 122,
+      "h": 175,
+      "landmarks": {
+        "right_eye": [
+          636,
+          139
+        ],
+        "left_eye": [
+          694,
+          134
+        ],
+        "nose": [
+          671,
+          176
+        ],
+        "mouth_right": [
+          645,
+          199
+        ],
+        "mouth_left": [
+          699,
+          195
+        ]
+      },
+      "confidence": 0.951
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "soccer_balls",
+      "count": 3
+    },
+    {
+      "id": "uncle",
+      "owner": "uncle",
+      "object_id": "soccer_balls",
+      "count": 2
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "formula": "3+2",
+    "explanation": "3 soccer balls + 2 soccer balls = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 3 child + 2 uncle."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": "batch v4"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "three_quarter"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}
