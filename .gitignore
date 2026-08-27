@@ -9,9 +9,9 @@ venv/
 # Ignore env files / secrets
 .env
 .env/
+.env.example
 *.env
 .env.*
-!.env.example
 
 # Ignore system files
 .DS_Store
