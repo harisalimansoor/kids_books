@@ -1,0 +1,154 @@
+{
+  "stem_id": "sub_toy_cars_7_3_shelf_user_uncle",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "take_away_remain",
+  "question_file": "question.txt",
+  "image_file": "uncle_7_cars_child_takes_3.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "uncle"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "uncle",
+    "allowed_adult_roles": [
+      "uncle"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "uncle_name": "uncle"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is uncle-locked. Paste child + uncle faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "toys",
+      "cars",
+      "playground"
+    ],
+    "notes": "Playing with toy cars at the playground with uncle subtraction stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 218,
+      "y": 298,
+      "w": 136,
+      "h": 171,
+      "landmarks": {
+        "right_eye": [
+          262,
+          366
+        ],
+        "left_eye": [
+          328,
+          366
+        ],
+        "nose": [
+          300,
+          400
+        ],
+        "mouth_right": [
+          262,
+          423
+        ],
+        "mouth_left": [
+          322,
+          423
+        ]
+      },
+      "confidence": 0.952
+    },
+    {
+      "role": "uncle",
+      "x": 562,
+      "y": 106,
+      "w": 161,
+      "h": 219,
+      "landmarks": {
+        "right_eye": [
+          596,
+          205
+        ],
+        "left_eye": [
+          670,
+          183
+        ],
+        "nose": [
+          640,
+          244
+        ],
+        "mouth_right": [
+          625,
+          275
+        ],
+        "mouth_left": [
+          694,
+          258
+        ]
+      },
+      "confidence": 0.944
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "uncle",
+      "object_id": "toy_cars",
+      "count": 7
+    },
+    {
+      "id": "taken",
+      "owner": "child",
+      "object_id": "toy_cars",
+      "count": 3
+    },
+    {
+      "id": "remaining",
+      "owner": "table",
+      "object_id": "toy_cars",
+      "count": 4
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "4",
+    "options": [
+      "4",
+      "7",
+      "3",
+      "5"
+    ],
+    "formula": "7-3",
+    "explanation": "7 toy cars \u2212 3 taken = 4 left"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 7 total, 3 taken, 4 remaining."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/subtraction.txt",
+    "notes": "batch subtraction v1"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "three_quarter_playground"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

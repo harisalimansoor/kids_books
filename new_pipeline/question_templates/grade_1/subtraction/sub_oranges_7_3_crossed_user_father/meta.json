@@ -1,0 +1,144 @@
+{
+  "stem_id": "sub_oranges_7_3_crossed_user_father",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "father_7_oranges_3_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked. Paste child + father faces only."
+  },
+  "interests": {
+    "foods": [
+      "oranges"
+    ],
+    "hobbies": [
+      "cooking",
+      "gardening"
+    ],
+    "notes": "Eating oranges in the garden with father subtraction stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 235,
+      "y": 269,
+      "w": 117,
+      "h": 139,
+      "landmarks": {
+        "right_eye": [
+          264,
+          325
+        ],
+        "left_eye": [
+          317,
+          325
+        ],
+        "nose": [
+          289,
+          355
+        ],
+        "mouth_right": [
+          267,
+          374
+        ],
+        "mouth_left": [
+          315,
+          374
+        ]
+      },
+      "confidence": 0.935
+    },
+    {
+      "role": "father",
+      "x": 529,
+      "y": 93,
+      "w": 140,
+      "h": 181,
+      "landmarks": {
+        "right_eye": [
+          556,
+          178
+        ],
+        "left_eye": [
+          619,
+          162
+        ],
+        "nose": [
+          594,
+          212
+        ],
+        "mouth_right": [
+          582,
+          236
+        ],
+        "mouth_left": [
+          640,
+          221
+        ]
+      },
+      "confidence": 0.932
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "father",
+      "object_id": "oranges",
+      "count": 7,
+      "crossed_count": 3
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "4",
+    "options": [
+      "4",
+      "7",
+      "3",
+      "5"
+    ],
+    "formula": "7-3",
+    "explanation": "7 oranges \u2212 3 crossed = 4 left"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to image: 7 oranges, 3 crossed."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/subtraction.txt",
+    "notes": "batch subtraction v1"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "three_quarter_eating_oranges"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}
