@@ -22,3 +22,6 @@ new_pipeline/_runtime/
 
 # Deterministic face-swap cache (regenerate via scripts/preprocess_templates.py)
 pipeline_cache/
+
+# Sample curriculum books (local only — do not commit copyrighted PDFs)
+data/
