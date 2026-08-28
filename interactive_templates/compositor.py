@@ -1019,6 +1019,20 @@ def food_label_to_object_id(food_label: str) -> str:
         "pasta": "pasta",
         "pancakes": "pancakes",
         "pancake": "pancakes",
+        "kiwis": "kiwis",
+        "kiwi": "kiwis",
+        "crackers": "crackers",
+        "cracker": "crackers",
+        "plums": "plums",
+        "plum": "plums",
+        "peppers": "peppers",
+        "pepper": "peppers",
+        "croissants": "croissants",
+        "croissant": "croissants",
+        "pretzels": "pretzels",
+        "pretzel": "pretzels",
+        "bagels": "bagels",
+        "bagel": "bagels",
     }
     if raw in aliases:
         return aliases[raw]
@@ -1051,6 +1065,21 @@ def hobby_label_to_object_id(hobby_label: str) -> str:
         "bubble": "bubbles",
         "bubble wand": "bubbles",
         "bubble wands": "bubbles",
+        "trains": "trains",
+        "train": "trains",
+        "toy trains": "trains",
+        "toy train": "trains",
+        "playground": "playground",
+        "playland": "playground",
+        "toy cars": "toy_cars",
+        "toy car": "toy_cars",
+        "cars": "toy_cars",
+        "car": "toy_cars",
+        "crafts": "crafts",
+        "stickers": "crafts",
+        "sticker": "crafts",
+        "notebooks": "crafts",
+        "notebook": "crafts",
     }
     if raw in aliases:
         return aliases[raw]
