@@ -17,6 +17,10 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Generated / runtime outputs
+assets_cache/
+kitchen_scenes/pipeline_output/
+
 # Runtime personalised previews
 new_pipeline/_runtime/
 
