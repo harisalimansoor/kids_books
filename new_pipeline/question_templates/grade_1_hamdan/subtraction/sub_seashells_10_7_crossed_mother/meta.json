@@ -23,7 +23,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "beach"
+    ],
     "notes": "Seashells subtraction stem."
   },
   "face_regions": [

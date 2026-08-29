@@ -23,7 +23,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "football"
+    ],
     "notes": "Balls general_math stem."
   },
   "face_regions": [

@@ -25,7 +25,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "crafts"
+    ],
     "notes": "Buttons general_math stem."
   },
   "face_regions": [

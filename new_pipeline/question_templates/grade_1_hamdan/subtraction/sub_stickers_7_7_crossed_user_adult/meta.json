@@ -21,7 +21,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "stickers"
+    ],
     "notes": "Stickers subtraction stem."
   },
   "face_regions": [

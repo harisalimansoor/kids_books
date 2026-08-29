@@ -22,9 +22,11 @@
     "notes": "Image body is mother-locked. Paste child + mother faces only."
   },
   "interests": {
-    "foods": [],
+    "foods": [
+      "biscuits"
+    ],
     "hobbies": [],
-    "notes": ""
+    "notes": "Auto-tagged from template objects: biscuits food."
   },
   "face_regions": [
     {

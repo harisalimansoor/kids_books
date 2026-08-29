@@ -25,7 +25,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "lego"
+    ],
     "notes": "Blocks multiplication_and_division stem."
   },
   "face_regions": [

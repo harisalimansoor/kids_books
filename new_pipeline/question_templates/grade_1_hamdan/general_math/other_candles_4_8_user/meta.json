@@ -23,7 +23,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "parties"
+    ],
     "notes": "Candles general_math stem."
   },
   "face_regions": [

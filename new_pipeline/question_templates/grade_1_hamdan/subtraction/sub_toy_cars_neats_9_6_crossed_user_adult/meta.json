@@ -21,7 +21,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "toy_cars"
+    ],
     "notes": "Toy cars neats subtraction stem."
   },
   "face_regions": [

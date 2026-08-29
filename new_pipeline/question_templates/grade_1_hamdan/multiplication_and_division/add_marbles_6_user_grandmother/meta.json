@@ -25,7 +25,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "marbles"
+    ],
     "notes": "Marbles multiplication_and_division stem."
   },
   "face_regions": [

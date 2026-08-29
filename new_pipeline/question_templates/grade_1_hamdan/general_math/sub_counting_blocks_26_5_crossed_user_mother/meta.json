@@ -25,7 +25,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "lego"
+    ],
     "notes": "Counting blocks general_math stem."
   },
   "face_regions": [

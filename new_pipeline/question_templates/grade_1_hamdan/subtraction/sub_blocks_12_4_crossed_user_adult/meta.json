@@ -21,7 +21,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "lego"
+    ],
     "notes": "Blocks subtraction stem."
   },
   "face_regions": [

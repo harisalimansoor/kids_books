@@ -25,7 +25,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "gardening"
+    ],
     "notes": "Flowers general_math stem."
   },
   "face_regions": [

@@ -21,7 +21,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "pencils"
+    ],
     "notes": "Pencils neat rows subtraction stem."
   },
   "face_regions": [

@@ -21,7 +21,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "balloons"
+    ],
     "notes": "Balloons mixed stem."
   },
   "face_regions": [

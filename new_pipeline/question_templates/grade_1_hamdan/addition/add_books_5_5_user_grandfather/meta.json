@@ -25,7 +25,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "reading"
+    ],
     "notes": "Books addition stem."
   },
   "face_regions": [

@@ -23,7 +23,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "marbles"
+    ],
     "notes": "Marbles subtraction stem."
   },
   "face_regions": [

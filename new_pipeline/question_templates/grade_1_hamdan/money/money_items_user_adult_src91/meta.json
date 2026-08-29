@@ -20,9 +20,11 @@
     "notes": "Paste faces for the listed face_slots only; keep identity lock."
   },
   "interests": {
-    "foods": [],
+    "foods": [
+      "ice_lollies"
+    ],
     "hobbies": [],
-    "notes": ""
+    "notes": "Auto-tagged from template objects: ice_lollies food."
   },
   "face_regions": [
     {

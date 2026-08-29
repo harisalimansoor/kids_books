@@ -286,16 +286,19 @@ def _soft_corner_image(src_path: str, dest_path: str, *, size_px: int = 900) -> 
         (size_px, size_px), Image.Resampling.LANCZOS
     )
 
-    # Stronger left fade for side-by-side landscape layout
+    # Left edge fade — narrow band, higher minimum opacity so less of the image is lost
     mask = Image.new("L", (size_px, size_px), 255)
-    fade_l = max(50, size_px // 3)
-    fade_t = max(28, size_px // 6)
+    fade_l = max(28, size_px // 7)
+    fade_t = max(18, size_px // 10)
+    min_alpha = 0.58  # left edge stays visible (was fully transparent)
     for i in range(fade_l):
-        a = int(255 * (i / fade_l) ** 1.1)
+        t = i / max(fade_l - 1, 1)
+        a = int(255 * (min_alpha + (1.0 - min_alpha) * (t ** 0.72)))
         col = Image.new("L", (1, size_px), a)
         mask.paste(col, (i, 0))
     for i in range(fade_t):
-        a = int(255 * (i / fade_t) ** 1.15)
+        t = i / max(fade_t - 1, 1)
+        a = int(255 * (0.72 + 0.28 * (t ** 0.8)))
         row = Image.new("L", (size_px, 1), a)
         existing = mask.crop((0, i, size_px, i + 1))
         mask.paste(ImageChops.darker(existing, row), (0, i))

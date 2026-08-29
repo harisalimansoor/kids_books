@@ -25,7 +25,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "reading"
+    ],
     "notes": "Books fractions stem."
   },
   "face_regions": [

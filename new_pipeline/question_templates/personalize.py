@@ -4,13 +4,13 @@ personalize.py
 Kitchen-scenes–style personalization for Grade 1 stems (used by Streamlit):
 
   STEP 1 — PASTE
-      Child: YuNet box + neck lighting match + soft ellipse.
-      Adult: hair-expanded box + jaw-soft mask.
+      Child: YuNet box + soft ellipse (upload skin tone preserved).
+      Adult: hair-expanded box + jaw-soft mask (upload skin tone preserved).
 
-  STEP 2a — AI blend adult (jaw/hairline)
+  STEP 2a — AI blend adult (jaw/hairline; upload skin → body)
   STEP 2b — AI blend child (sticker removal; adult locked)
-  STEP 3 — COUNT LOCK
-      Keep AI in face ovals; snap object drift back to the paste base.
+  STEP 3 — BODY SKIN RECOLOUR + COUNT LOCK
+      Recolour template neck/arms toward upload skin; lock object counts.
 """
 
 from __future__ import annotations
@@ -72,9 +72,10 @@ def _soft_mask(w: int, h: int, inset: int = 14, blur: int = 22) -> Image.Image:
 
 def _head_paste_mask(w: int, h: int, *, adult: bool = False) -> Image.Image:
     """
-    Soft elliptical paste mask with a gentler jaw fade for adults.
+    Soft elliptical paste mask with a gentler jaw fade into the collar/shoulders.
 
-    Core stays fully opaque (no ghosting of the template face).
+    Core stays fully opaque (no ghosting of the template face). Bottom rim fades
+    so template neck/shoulders stay registered under the chin.
     """
     import numpy as np
 
@@ -83,12 +84,11 @@ def _head_paste_mask(w: int, h: int, *, adult: bool = False) -> Image.Image:
     mask = Image.new("L", (w, h), 0)
     ImageDraw.Draw(mask).ellipse((inset, inset, w - inset, h - inset), fill=255)
     mask = mask.filter(ImageFilter.GaussianBlur(blur))
-    if not adult:
-        return mask
-    # Extra soft only on the bottom rim (jaw → neck)
+    # Soften bottom rim (jaw → collar) for everyone — stops floating heads
     arr = np.asarray(mask, dtype=np.float32)
     yy = np.linspace(0.0, 1.0, h, dtype=np.float32)[:, None]
-    bot_fade = np.clip((0.88 - yy) / 0.22, 0.55, 1.0)
+    # Start fading earlier; leave ~35% opacity at the very bottom so shoulders show
+    bot_fade = np.clip((0.78 - yy) / 0.30, 0.32, 1.0)
     arr = arr * bot_fade
     return Image.fromarray(np.clip(arr, 0, 255).astype(np.uint8), mode="L")
 
@@ -240,18 +240,20 @@ def _cover_fit_face_aligned(
     sfh = max(8, int(src_face["h"]))
     scx, scy = _face_anchor(src_face)
 
-    # Exact face-size match — oversized heads look displaced on the torso
-    scale = 0.5 * (tw / sfw + th / sfh)
-    scale = max(scale, max(box_w / sw, box_h / sh) * 0.55)
-    scale = min(scale, max(box_w / sw, box_h / sh) * 1.25)
+    # Exact face-size match — slightly under-size so chin sits on the body
+    # instead of floating above the collar/shoulders
+    scale = 0.5 * (tw / sfw + th / sfh) * 0.96
+    scale = max(scale, max(box_w / sw, box_h / sh) * 0.52)
+    scale = min(scale, max(box_w / sw, box_h / sh) * 1.18)
 
     nw = max(1, int(round(sw * scale)))
     nh = max(1, int(round(sh * scale)))
     resized = src.resize((nw, nh), Image.Resampling.LANCZOS)
 
-    # Seat onto upper body: slight right + down so chin sits on the collar/neck
-    ox = int(round(tcx - scx * scale)) + max(2, int(0.02 * tw))
-    oy = int(round(tcy - scy * scale)) + max(1, int(0.015 * th))
+    # Seat onto upper body: nudge DOWN so chin lands on the collar/neck
+    # (upward placement is what makes heads look detached from shoulders)
+    ox = int(round(tcx - scx * scale))
+    oy = int(round(tcy - scy * scale)) + max(2, int(0.05 * th))
 
     out = Image.new("RGBA", (box_w, box_h), (0, 0, 0, 0))
     out.paste(resized, (ox, oy), resized)
@@ -731,64 +733,132 @@ def _face_only_composite(
 
 def _harmonize_skin_to_neck(canvas: Image.Image, region: dict) -> Image.Image:
     """
-    Match face luminance/warmth to neck skin — without pulling green from
-    grass, leaves, or a green shirt in the neck crop.
+    DEPRECATED — kept as alias. Use _recolor_body_to_upload with an upload photo.
+    """
+    return canvas
+
+
+def _ycrcb_skin_mask_rgb(arr) -> "np.ndarray":
+    """Boolean skin mask on an RGB uint8 array."""
+    import cv2
+    import numpy as np
+
+    bgr = cv2.cvtColor(arr, cv2.COLOR_RGB2BGR)
+    ycrcb = cv2.cvtColor(bgr, cv2.COLOR_BGR2YCrCb)
+    y, cr, cb = cv2.split(ycrcb)
+    return (
+        (cr >= 133)
+        & (cr <= 173)
+        & (cb >= 77)
+        & (cb <= 127)
+        & (y >= 60)
+        & (y <= 230)
+    )
+
+
+def _sample_skin_lab_from_upload(photo: str | Path | Image.Image):
+    """Mean LAB skin stats from an upload photo (identity reference)."""
+    import cv2
+    import numpy as np
+
+    if isinstance(photo, Image.Image):
+        img = photo.convert("RGB")
+    else:
+        img = Image.open(photo).convert("RGB")
+    arr = np.array(img, dtype=np.uint8)
+    h, w = arr.shape[:2]
+    skin = _ycrcb_skin_mask_rgb(arr)
+    cy, cx = h // 2, w // 2
+    yy, xx = np.ogrid[:h, :w]
+    center = ((xx - cx) / max(w * 0.36, 1)) ** 2 + ((yy - cy) / max(h * 0.42, 1)) ** 2 < 1.0
+    sample = skin & center
+    if int(sample.sum()) < 40:
+        sample = skin
+    if int(sample.sum()) < 20:
+        return None
+    lab = cv2.cvtColor(arr, cv2.COLOR_RGB2LAB).astype(np.float32)
+    return lab[sample].mean(axis=0)
+
+
+def _recolor_body_to_upload(
+    canvas: Image.Image,
+    region: dict,
+    upload_photo: str | Path | Image.Image,
+    *,
+    strength: float = 0.82,
+) -> Image.Image:
+    """
+    Recolour template neck / upper-body skin toward the upload photo.
+
+    Upload skin tone is the source of truth — never pull the face toward the
+    fair template body (old harmonize direction).
     """
     import cv2
     import numpy as np
 
-    out = canvas.convert("RGB")
-    arr = np.array(out, dtype=np.uint8)
-    H, W = arr.shape[:2]
-    x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
-    ny0 = min(H - 4, y + int(0.90 * h))
-    ny1 = min(H, y + int(1.45 * h))
-    nx0 = max(0, x + int(0.20 * w))
-    nx1 = min(W, x + int(0.80 * w))
-    if ny1 - ny0 < 6 or nx1 - nx0 < 6:
-        return out
-    neck = arr[ny0:ny1, nx0:nx1]
-    fy0 = max(0, y + int(0.15 * h))
-    fy1 = min(H, y + int(0.85 * h))
-    fx0 = max(0, x + int(0.15 * w))
-    fx1 = min(W, x + int(0.85 * w))
-    face = arr[fy0:fy1, fx0:fx1]
-    if face.size < 100 or neck.size < 50:
-        return out
+    ref_lab = _sample_skin_lab_from_upload(upload_photo)
+    if ref_lab is None:
+        return canvas
 
-    nr, ng, nb = neck[:, :, 0], neck[:, :, 1], neck[:, :, 2]
-    skin = (nr > 70) & (ng > 40) & (nb > 30) & (nr >= ng) & ((nr.astype(np.int16) - ng) >= 4)
-    lab_n = cv2.cvtColor(neck, cv2.COLOR_RGB2LAB).astype(np.float32)
-    lab_f = cv2.cvtColor(face, cv2.COLOR_RGB2LAB).astype(np.float32)
-    if int(skin.sum()) >= 20:
-        tgt = lab_n[skin].mean(axis=0)
-    else:
-        # No reliable skin — luminance only
-        tgt = lab_f.reshape(-1, 3).mean(axis=0).copy()
-        tgt[0] = float(np.percentile(lab_n[:, :, 0], 55))
+    arr = np.array(canvas.convert("RGB"), dtype=np.uint8)
+    h, w_img = arr.shape[:2]
+    x, y, rw, rh = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
+    if rw < 8 or rh < 8:
+        return canvas
 
-    src = lab_f.reshape(-1, 3).mean(axis=0)
-    delta = tgt - src
-    # Match L freely; never shift toward green (LAB a↓ = greener)
-    delta[1] = max(0.0, float(delta[1]))
-    # Mild warm floor if face is greener than typical skin
-    if src[1] < 128:  # OpenCV a centered ~128
-        delta[1] = max(delta[1], min(6.0, 132.0 - src[1]))
-    delta[2] = float(np.clip(delta[2], -8.0, 10.0))
-    delta[0] = float(np.clip(delta[0], -18.0, 18.0))
+    lab_full = cv2.cvtColor(arr, cv2.COLOR_RGB2LAB).astype(np.float32)
 
-    yy, xx = np.ogrid[:h, :w]
-    ell = ((xx - w / 2) / (0.48 * w)) ** 2 + ((yy - h / 2) / (0.52 * h)) ** 2
-    m = np.clip(1.2 - ell, 0, 1).astype(np.float32)
-    patch = arr[y : y + h, x : x + w].copy()
-    lab_p = cv2.cvtColor(patch, cv2.COLOR_RGB2LAB).astype(np.float32)
-    lab_p += delta.reshape(1, 1, 3) * m[..., None] * 0.75
-    lab_p[:, :, 0] = np.clip(lab_p[:, :, 0], 0, 255)
-    lab_p[:, :, 1] = np.clip(lab_p[:, :, 1], 0, 255)
-    lab_p[:, :, 2] = np.clip(lab_p[:, :, 2], 0, 255)
-    patch = cv2.cvtColor(lab_p.astype(np.uint8), cv2.COLOR_LAB2RGB)
-    arr[y : y + h, x : x + w] = patch
-    return Image.fromarray(arr)
+    # (y0, y1, x0, x1, zone_weight)
+    zones: list[tuple[int, int, int, int, float]] = []
+    ny0 = min(h - 4, y + int(0.82 * rh))
+    ny1 = min(h, y + int(1.55 * rh))
+    nx0 = max(0, x + int(0.12 * rw))
+    nx1 = min(w_img, x + int(0.88 * rw))
+    if ny1 - ny0 >= 6 and nx1 - nx0 >= 6:
+        zones.append((ny0, ny1, nx0, nx1, 1.0))
+
+    for sx0, sx1, wt in (
+        (max(0, x - int(0.06 * rw)), x + int(0.24 * rw), 0.6),
+        (x + int(0.76 * rw), min(w_img, x + rw + int(0.06 * rw)), 0.6),
+    ):
+        ey0 = max(0, y + int(0.30 * rh))
+        ey1 = min(h, y + int(1.05 * rh))
+        if ey1 - ey0 >= 6 and sx1 - sx0 >= 6:
+            zones.append((ey0, ey1, sx0, sx1, wt))
+
+    for zy0, zy1, zx0, zx1, zone_wt in zones:
+        patch_rgb = arr[zy0:zy1, zx0:zx1]
+        skin = _ycrcb_skin_mask_rgb(patch_rgb)
+        if int(skin.sum()) < 12:
+            continue
+
+        lab_patch = lab_full[zy0:zy1, zx0:zx1].copy()
+        cur = lab_patch[skin].mean(axis=0)
+        delta = ref_lab - cur
+        delta[0] = float(np.clip(delta[0], -38.0, 38.0))
+        delta[1] = float(np.clip(delta[1], -20.0, 20.0))
+        delta[2] = float(np.clip(delta[2], -20.0, 20.0))
+
+        zh, zw = zy1 - zy0, zx1 - zx0
+        zyy, zxx = np.ogrid[:zh, :zw]
+        feather = np.clip(
+            1.0
+            - 0.32
+            * (
+                ((zxx - zw / 2) / max(zw / 2, 1)) ** 2
+                + ((zyy - zh / 2) / max(zh / 2, 1)) ** 2
+            ),
+            0.12,
+            1.0,
+        ).astype(np.float32)
+        mask = skin.astype(np.float32) * feather * float(strength) * float(zone_wt)
+        mask = np.clip(mask, 0.0, 1.0)
+        for c in range(3):
+            lab_patch[:, :, c] = lab_patch[:, :, c] + delta[c] * mask
+        lab_full[zy0:zy1, zx0:zx1] = np.clip(lab_patch, 0, 255)
+
+    out = cv2.cvtColor(lab_full.astype(np.uint8), cv2.COLOR_LAB2RGB)
+    return Image.fromarray(out)
 
 
 def _degreen_face(canvas: Image.Image, region: dict) -> Image.Image:
@@ -1279,8 +1349,8 @@ def _paste_into_annotated_region(
     """
     Kitchen-style paste into YuNet box.
 
-    Child: square crop → soft ellipse + neck lighting match (warmer skin).
-    Adult: matte head into hair-expanded box + jaw-soft mask.
+    Child: upload head → soft ellipse (skin tone preserved).
+    Adult: upload head into hair-expanded box + jaw-soft mask.
     align_to: original YuNet face (canvas coords) — adults align face→body.
     """
     x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
@@ -1311,11 +1381,9 @@ def _paste_into_annotated_region(
         mask = _head_paste_mask(w, h, adult=True)
         src_a = face.split()[3]
         mask = Image.composite(mask, Image.new("L", (w, h), 0), src_a)
-        lit_ref = _lighting_ref_for_region(
-            base, face_target if align_to else region, prefer_neck=False
-        )
     else:
-        # Matte head (strips flag/studio bg) + soft oval + neck lighting
+        # Same landmark alignment as adults — centre-fit was floating heads
+        # above the collar/shoulders.
         try:
             from interactive_templates.face_swap import crop_upload_head
 
@@ -1325,22 +1393,15 @@ def _paste_into_annotated_region(
         if head is None:
             head = _kitchen_crop_face(photo_path)
         head = _matte_face_rgba(head)
-        face = _cover_fit_rgba(head, w, h)
-        mask = _soft_mask(
-            w,
-            h,
-            inset=max(4, min(w, h) // 14),
-            blur=max(18, min(w, h) // 7),
-        )
+        face_target = align_to or region
+        rel = _rel_face_in_paste(face_target, x, y)
+        face = _cover_fit_face_aligned(head, w, h, rel)
+        mask = _head_paste_mask(w, h, adult=False)
         src_a = face.split()[3]
         mask = Image.composite(mask, Image.new("L", (w, h), 0), src_a)
-        lit_ref = _lighting_ref_for_region(base, region, prefer_neck=True)
 
-    if adult:
-        face = _kitchen_match_brightness(face, lit_ref, skin_only=False)
-    else:
-        # Luma-only — RGB/neck match was causing green/olive cast in orchard scenes
-        face = _kitchen_match_brightness(face, lit_ref, luma_only=True)
+    # Do not match paste colour to template neck — that pulls upload faces toward
+    # the template body's skin tone. Scene lighting is handled in the AI blend pass.
     base.paste(face, (x, y), mask)
 
     if was_rgb:
@@ -1348,7 +1409,7 @@ def _paste_into_annotated_region(
     else:
         canvas.paste(base)
 
-    tag = "mother blend" if adult else "child+neck lit"
+    tag = "upload skin preserved" if adult else "child paste"
     print(f"  ✓ Kitchen-style paste '{role or 'face'}' → {w}x{h} @ ({x},{y}) [{tag}]")
     return True, face
 
@@ -1652,6 +1713,20 @@ def _post_image_chat(content: list, *, retries: int = 3) -> Image.Image | None:
     return None
 
 
+_SKIN_TONE_RULES = """
+SKIN TONE (CRITICAL):
+- Keep the exact skin tone, undertone, and depth from the upload identity photo (IMAGE 2 / IMAGE 3).
+- Recolour visible template neck, ears, arms, and hands to match the upload — never lighten a dark
+  upload face to match a fair template body, and never darken a fair upload to match a tan body.
+- The upload photo is the skin reference for the whole visible body.
+
+NECK / SHOULDERS (CRITICAL):
+- The head must sit ON the body — chin attached to the collar, neck centred between the shoulders.
+- Do NOT float the head above the shoulders or shift it left/right off the torso axis.
+- Preserve the template shirt collar and shoulder line; only soften the jaw→neck seam.
+""".strip()
+
+
 def _ai_blend_kitchen_style(
     intermediate: Image.Image,
     *,
@@ -1683,43 +1758,50 @@ def _ai_blend_kitchen_style(
 
     if focus == "child":
         prompt = f"""IMAGE 1 = worksheet scene. The {adult} on the RIGHT is already perfectly blended — do NOT change them at all.
-IMAGE 2 = CHILD upload identity.
+IMAGE 2 = CHILD upload identity (face + skin tone reference).
 IMAGE 3 = {adult.upper()} reference only.
 
-The CHILD on the LEFT still looks like a pasted sticker (hard oval edge, cool skin vs warm neck).
+The CHILD on the LEFT still looks like a pasted sticker (hard oval edge).
 
 Fix ONLY the LEFT child to the SAME blend quality as the {adult} on the RIGHT:
 1. Completely erase the hard oval / cutout edge — jaw and hairline must melt into the head.
-2. Match face skin warmth to the child's neck and ears (same sunlit colour).
-   No green, olive, or yellow-sickly cast from grass/leaves — natural warm skin only.
-3. Keep IMAGE 2 facial identity; keep exact head size and position from IMAGE 1.
+2. Attach the head to the body: chin sits on the collar; neck centred on the shoulders.
+   Recolour visible neck/ears to match IMAGE 2 skin. Do NOT float or slide the head.
+3. Keep IMAGE 2 facial identity and skin tone; keep exact head size and position from IMAGE 1.
 4. Do NOT touch the {adult} on the RIGHT.
-5. Do not change clothes, hands, background, or countable objects.
-6. {style_line} Output ONLY the finished image."""
+5. Do not change clothes, countable objects, or background.
+6. {style_line}
+{_SKIN_TONE_RULES}
+Output ONLY the finished image."""
     elif focus == "adult":
         prompt = f"""IMAGE 1 = worksheet scene with child (LEFT) and {adult} (RIGHT) faces pasted.
 IMAGE 2 = CHILD reference — keep the LEFT child size/position; light edge soften only if needed.
-IMAGE 3 = {adult.upper()} upload (face + hairstyle for the RIGHT person).
+IMAGE 3 = {adult.upper()} upload (face + hairstyle + skin tone for the RIGHT person).
 
 Fix ONLY the {adult} on the RIGHT:
-1. Seamless jaw→neck and hairline (no mask/sticker edge).
+1. Seamless jaw→neck and hairline (no mask/sticker edge); chin attached to the collar.
 2. Prefer IMAGE 3 hairstyle over leftover template hair.
-3. Match face skin to the neck — natural brightness (do not over-expose).
-4. Keep head size/pose from IMAGE 1. Do not enlarge faces.
-5. Do not change clothes, hands, background, or countable objects.
-6. {style_line} Output ONLY the finished image."""
+3. Keep IMAGE 3 skin tone on face, neck, ears, and visible arms/hands — recolour template body
+   skin toward IMAGE 3; do not lighten or darken the face toward the old template body.
+4. Keep head size/pose from IMAGE 1. Do not enlarge faces or float the head off the shoulders.
+5. Do not change clothes, countable objects, or background.
+6. {style_line}
+{_SKIN_TONE_RULES}
+Output ONLY the finished image."""
     else:
         prompt = f"""IMAGE 1 = worksheet scene with child (LEFT) and {adult} (RIGHT) faces pasted.
-IMAGE 2 = CHILD upload (identity + hairstyle).
-IMAGE 3 = {adult.upper()} upload (identity + hairstyle).
+IMAGE 2 = CHILD upload (identity + hairstyle + skin tone).
+IMAGE 3 = {adult.upper()} upload (identity + hairstyle + skin tone).
 
 Blend BOTH faces seamlessly (no sticker/oval edges):
 1. LEFT = IMAGE 2 identity; RIGHT = IMAGE 3 identity.
-2. Match each face skin warmth to that person's neck.
+2. Recolour each person's visible neck/arms/hands to match their upload skin tone.
 3. Prefer upload hairstyles over template hair.
 4. Keep exact head sizes/positions from IMAGE 1 — do not enlarge.
-5. Do not change clothes, hands, background, or countable objects.
-6. {style_line} Output ONLY the finished image."""
+5. Do not change clothes, countable objects, or background.
+6. {style_line}
+{_SKIN_TONE_RULES}
+Output ONLY the finished image."""
 
     if has_refs:
         content = [
@@ -1804,11 +1886,13 @@ B) SIZE (CRITICAL): Keep EXACT head size from IMAGE 1. Do NOT zoom, enlarge,
    only soften the oval edges. No bobbleheads.
 C) ONE FACE ONLY per person — erase any leftover template face under the paste
    (no double mouth, double eyes, ghosting, or semi-transparent overlay).
-D) NECK/HAIR: blend jaw smoothly into the existing neck (match neck lighting/colour).
-   Prefer keeping template hair silhouette if paste hair edges look cut off; remove sticker edges.
-E) SCENE LOCK: do NOT change clothes, hands, arms, body, background, or countable
-   objects (fruit, toys, sandwiches, plates). Same object counts as IMAGE 1.
+D) NECK/HAIR: blend jaw smoothly; recolour visible template neck/ears/arms/hands to match
+   the upload skin tone (IMAGE 2 / IMAGE 3). Never pull upload faces toward template body colour.
+   Prefer upload hairstyle; remove sticker edges.
+E) SCENE LOCK: do NOT change clothes, countable objects, or background composition.
+   Same object counts as IMAGE 1.
 
+{_SKIN_TONE_RULES}
 {gender_line}{style_block}
 Output ONLY the finished photograph. No text.
 """.strip()
@@ -1825,8 +1909,8 @@ Output ONLY the finished photograph. No text.
         simple = (
             "Blend only the pasted face ovals into this photo. "
             "Remove cut edges and any double/ghost faces. "
-            "Match jaw to neck. Keep head size. "
-            "Do NOT change body, clothes, background, or objects. "
+            "Keep upload skin tone; recolour template neck/arms to match uploads. "
+            "Keep head size. Do NOT change body clothes, background, or objects. "
             "Output ONLY the image."
         )
         content1 = [
@@ -1991,12 +2075,17 @@ def run_kitchen_face_pipeline(
     role = (adult_role or "mother").strip().lower()
     size = canvas.convert("RGB").size
 
-    child_region = _use_annotated_region(child_region, size)
+    # Keep raw YuNet boxes for landmark seating; expand only for hair room
+    child_face_box = _use_annotated_region(child_region, size)
     adult_face_box = _use_annotated_region(adult_region, size)
+    # Child: small hair lift, almost no bottom expand (protects shoulders/collar)
+    child_region = _expand_region_for_hair(
+        child_face_box, size, top_frac=0.30, side_frac=0.14, bottom_frac=0.02
+    )
     if expand_adult_hair:
         # Prefer top/side hair pad; keep bottom tight so shoulders stay put
         adult_region = _expand_region_for_hair(
-            adult_face_box, size, top_frac=0.55, side_frac=0.26, bottom_frac=0.08
+            adult_face_box, size, top_frac=0.55, side_frac=0.26, bottom_frac=0.04
         )
     else:
         adult_region = adult_face_box
@@ -2008,7 +2097,9 @@ def run_kitchen_face_pipeline(
     print(f"  ▶ Kitchen face pipeline ({label})")
     print(
         f"     child {child_region['w']}x{child_region['h']} @ "
-        f"({child_region['x']},{child_region['y']}); "
+        f"({child_region['x']},{child_region['y']}) "
+        f"(face {child_face_box['w']}x{child_face_box['h']} @ "
+        f"{child_face_box['x']},{child_face_box['y']}); "
         f"{role} {adult_region['w']}x{adult_region['h']} @ "
         f"({adult_region['x']},{adult_region['y']}) "
         f"(face {adult_face_box['w']}x{adult_face_box['h']} @ "
@@ -2016,7 +2107,9 @@ def run_kitchen_face_pipeline(
     )
 
     work = canvas.convert("RGB")
-    ok_c, _ = _paste_into_annotated_region(work, child_region, child_photo)
+    ok_c, _ = _paste_into_annotated_region(
+        work, child_region, child_photo, align_to=child_face_box
+    )
     ok_a, _ = _paste_into_annotated_region(
         work, adult_region, adult_photo, align_to=adult_face_box
     )
@@ -2097,15 +2190,14 @@ def run_kitchen_face_pipeline(
                     [child_region],
                     pad_x_frac=0.55,
                     pad_top_frac=0.70,
-                    pad_bot_frac=0.55,
+                    pad_bot_frac=0.22,
                     core_boost=1.85,
                 )
                 merged = _face_only_composite(merged, work_img, [adult_region])
                 try:
-                    merged = _harmonize_skin_to_neck(merged, child_region)
                     merged = _degreen_face(merged, child_region)
                 except Exception as exc:
-                    print(f"     ⚠️  neck harmonize skipped: {exc}")
+                    print(f"     ⚠️  degreen skipped: {exc}")
                 result, lock_stats = _lock_objects_by_image_diff(
                     soft_paste,
                     merged,
@@ -2137,6 +2229,116 @@ def run_kitchen_face_pipeline(
     else:
         result = soft_paste
 
+    # Pull template neck/upper-body skin toward each upload (upload = source of truth)
+    try:
+        result = _recolor_body_to_upload(result, child_region, child_photo)
+        result = _recolor_body_to_upload(result, adult_region, adult_photo)
+        print("     ✓ body skin recoloured toward uploads")
+    except Exception as exc:
+        print(f"     ⚠️  body skin recolor skipped: {exc}")
+
+    return result.convert("RGB")
+
+
+def run_child_only_face_pipeline(
+    canvas: Image.Image,
+    *,
+    child_region: dict,
+    child_photo: str | Path,
+    soft_cartoon: bool = False,
+    run_ai_finish: bool = True,
+    require_ai: bool = True,
+    label: str = "scene",
+) -> Image.Image:
+    """Personalise only the child face (Hamdan child-only / no-adult templates)."""
+    child_photo = Path(child_photo)
+    size = canvas.convert("RGB").size
+    child_face_box = _use_annotated_region(child_region, size)
+    child_region = _expand_region_for_hair(
+        child_face_box, size, top_frac=0.30, side_frac=0.14, bottom_frac=0.02
+    )
+    if not child_region.get("role"):
+        child_region = {**child_region, "role": "child"}
+
+    print(f"  ▶ Child-only face pipeline ({label})")
+    print(
+        f"     child {child_region['w']}x{child_region['h']} @ "
+        f"({child_region['x']},{child_region['y']}) "
+        f"(face {child_face_box['w']}x{child_face_box['h']} @ "
+        f"{child_face_box['x']},{child_face_box['y']})"
+    )
+
+    work = canvas.convert("RGB")
+    ok_c, _ = _paste_into_annotated_region(
+        work, child_region, child_photo, align_to=child_face_box
+    )
+    if not ok_c:
+        raise ValueError("face paste failed (child)")
+    soft_paste = work.copy()
+    print("     ✓ child paste ready")
+
+    result = soft_paste
+    if run_ai_finish and API_KEY:
+        from interactive_templates.face_swap import crop_upload_head
+
+        child_head = _matte_face_rgba(
+            crop_upload_head(child_photo) or _kitchen_crop_face(child_photo)
+        )
+        print("  ▶ AI blend (child sticker fix)")
+        ai_child = _ai_blend_kitchen_style(
+            soft_paste,
+            adult_role="child",
+            soft_cartoon=soft_cartoon,
+            child_head=child_head,
+            adult_head=child_head,
+            focus="child",
+        )
+        if ai_child is None:
+            print("     ⚠️  AI child pass empty — keeping paste")
+            if require_ai:
+                raise RuntimeError(f"{label}: AI child blend failed (child-only stem)")
+            result = soft_paste
+        else:
+            chosen_c, msg_c = _choose_ai_or_soft(soft_paste, ai_child, [child_region])
+            print(f"     {msg_c}")
+            if chosen_c is soft_paste:
+                soft_s = _sticker_edge_score(soft_paste, [child_region])
+                ai_s = _sticker_edge_score(ai_child, [child_region])
+                if ai_s <= soft_s * 1.15:
+                    chosen_c = ai_child
+                    print(f"     → using AI child (sticker {soft_s:.1f}->{ai_s:.1f})")
+            if chosen_c is not soft_paste:
+                merged = _face_only_composite(
+                    soft_paste,
+                    chosen_c,
+                    [child_region],
+                    pad_x_frac=0.55,
+                    pad_top_frac=0.70,
+                    pad_bot_frac=0.22,
+                    core_boost=1.85,
+                )
+                try:
+                    merged = _degreen_face(merged, child_region)
+                except Exception as exc:
+                    print(f"     ⚠️  degreen skipped: {exc}")
+                result, _ = _lock_objects_by_image_diff(
+                    soft_paste,
+                    merged,
+                    [child_region],
+                    threshold=_OBJECT_LOCK_THRESHOLD,
+                    face_pad=max(_OBJECT_LOCK_FACE_PAD, 0.85),
+                )
+            else:
+                result = soft_paste
+                if require_ai:
+                    raise RuntimeError(f"{label}: AI child blend not accepted (child-only)")
+    elif run_ai_finish and require_ai and not API_KEY:
+        raise RuntimeError(f"{label}: OPENROUTER_API_KEY missing for AI finish")
+
+    try:
+        result = _recolor_body_to_upload(result, child_region, child_photo)
+    except Exception as exc:
+        print(f"     ⚠️  child recolor skipped: {exc}")
     return result.convert("RGB")
 
 
@@ -2144,19 +2346,22 @@ def personalize_stem(
     stem_dir: str | Path,
     *,
     child_photo: str | Path,
-    adult_photo: str | Path,
+    adult_photo: str | Path | None = None,
     adult_role: str = "mother",
     out_path: str | Path | None = None,
     run_ai_finish: bool = True,
     soft_cartoon: bool = False,
     child_gender: str = "",
     require_ai: bool = True,
+    sibling_photo: str | Path | None = None,
 ) -> Path:
     """
     Personalize a stem via kitchen face pipeline, then save.
 
     require_ai: if True (default) and run_ai_finish, raise when AI blend fails
     so Streamlit does not ship sticker-quality soft-paste into the PDF.
+
+    adult_photo may be omitted for child-only (or child+sibling) Hamdan stems.
     """
     del child_gender  # reserved for future prompt hints
     stem_dir = Path(stem_dir)
@@ -2164,45 +2369,75 @@ def personalize_stem(
     pers = meta.get("personalisation") or {}
     locked = (pers.get("template_adult_role") or "").strip().lower()
     allowed = [r.lower() for r in (pers.get("allowed_adult_roles") or [])]
-    role = adult_role.strip().lower()
-    if locked and role != locked:
+    role = (adult_role or "").strip().lower()
+    if locked and role and role != locked and role != "child":
         raise ValueError(
             f"{stem_dir}: template body is '{locked}' — refuse adult_role='{adult_role}'. "
             "Generate a separate stem PNG for each role."
         )
-    if allowed and role not in allowed:
+    if locked and allowed and role and role not in allowed and role != "child":
         raise ValueError(f"{stem_dir}: adult_role '{adult_role}' not in {allowed}")
 
     image_file = meta.get("image_file") or "template.png"
     original_template = Image.open(stem_dir / image_file).convert("RGB")
 
     regions = {r["role"]: r for r in (meta.get("face_regions") or [])}
-    adult_region_meta = regions.get(role) or regions.get(locked) or regions.get("adult")
-    if "child" not in regions or adult_region_meta is None:
-        raise ValueError(
-            f"{stem_dir}: meta.json needs face_regions for 'child' and "
-            f"'{role or locked or 'adult'}' (template_adult_role)"
-        )
+    child_region = regions.get("child") or regions.get("user")
+    if child_region is None:
+        raise ValueError(f"{stem_dir}: meta.json needs a face_region for 'child'")
+
+    adult_region_meta = None
+    if locked or (role and role not in ("child", "user", "sibling")):
+        adult_region_meta = regions.get(role) or regions.get(locked) or regions.get("adult")
+        if adult_region_meta is None and adult_photo:
+            raise ValueError(
+                f"{stem_dir}: meta.json needs face_regions for "
+                f"'{role or locked or 'adult'}' (template_adult_role)"
+            )
+        if adult_region_meta is not None and not adult_photo:
+            raise ValueError(
+                f"{stem_dir}: adult photo required for role '{locked or role}'"
+            )
 
     if out_path is None:
-        out_resolved = stem_dir / f"preview_{adult_role}.png"
+        out_resolved = stem_dir / f"preview_{role or locked or 'child'}.png"
     else:
         out_resolved = Path(out_path)
     out_resolved.parent.mkdir(parents=True, exist_ok=True)
 
-    result = run_kitchen_face_pipeline(
-        original_template,
-        child_region=regions["child"],
-        adult_region=adult_region_meta,
-        child_photo=child_photo,
-        adult_photo=adult_photo,
-        adult_role=role,
-        soft_cartoon=soft_cartoon,
-        run_ai_finish=run_ai_finish,
-        require_ai=require_ai,
-        expand_adult_hair=True,
-        label=stem_dir.name,
-    )
+    if adult_region_meta is not None and adult_photo is not None:
+        result = run_kitchen_face_pipeline(
+            original_template,
+            child_region=child_region,
+            adult_region=adult_region_meta,
+            child_photo=child_photo,
+            adult_photo=adult_photo,
+            adult_role=role or locked or "mother",
+            soft_cartoon=soft_cartoon,
+            run_ai_finish=run_ai_finish,
+            require_ai=require_ai,
+            expand_adult_hair=True,
+            label=stem_dir.name,
+        )
+    else:
+        result = run_child_only_face_pipeline(
+            original_template,
+            child_region=child_region,
+            child_photo=child_photo,
+            soft_cartoon=soft_cartoon,
+            run_ai_finish=run_ai_finish,
+            require_ai=require_ai,
+            label=stem_dir.name,
+        )
+
+    # Optional sibling face (Hamdan child+sibling scenes)
+    sib_region = regions.get("sibling")
+    if sib_region is not None and sibling_photo is not None:
+        work = result.convert("RGB")
+        ok_s, _ = _paste_into_annotated_region(work, sib_region, sibling_photo)
+        if ok_s:
+            result = work
+
     result.save(out_resolved, format="PNG")
     print(f"  ✓ Saved {out_resolved}")
     return out_resolved

@@ -33,33 +33,33 @@
   "face_regions": [
     {
       "role": "child",
-      "x": 10,
-      "y": 661,
-      "w": 460,
-      "h": 385,
+      "x": 215,
+      "y": 365,
+      "w": 103,
+      "h": 122,
       "landmarks": {
         "right_eye": [
-          150,
-          876
+          245,
+          413
         ],
         "left_eye": [
-          341,
-          862
+          294,
+          411
         ],
         "nose": [
-          258,
-          976
+          272,
+          438
         ],
         "mouth_right": [
-          171,
-          1027
+          247,
+          457
         ],
         "mouth_left": [
-          335,
-          1018
+          293,
+          456
         ]
       },
-      "confidence": 0.634
+      "confidence": 0.946
     },
     {
       "role": "mother",
@@ -137,7 +137,7 @@
   },
   "annotation": {
     "method": "yunet",
-    "instructions": "Tweak face_regions if needed."
+    "instructions": "Child box corrected: rejected YuNet false positive on cookie plates (old 460x385 @ y=661); kept real child face 103x122 @ (215,365)."
   },
   "face_detection": "yunet"
 }

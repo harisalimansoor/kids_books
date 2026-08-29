@@ -23,8 +23,10 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
-    "notes": ""
+    "hobbies": [
+      "balloons"
+    ],
+    "notes": "Auto-tagged from template objects: balloons hobby."
   },
   "face_regions": [
     {

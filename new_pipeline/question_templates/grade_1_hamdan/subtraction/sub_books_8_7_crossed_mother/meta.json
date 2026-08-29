@@ -23,7 +23,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "reading"
+    ],
     "notes": "Books subtraction stem."
   },
   "face_regions": [

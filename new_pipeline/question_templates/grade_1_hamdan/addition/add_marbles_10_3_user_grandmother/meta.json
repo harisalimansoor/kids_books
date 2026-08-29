@@ -25,7 +25,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "marbles"
+    ],
     "notes": "Marbles addition stem."
   },
   "face_regions": [

@@ -16,7 +16,12 @@ from pathlib import Path
 
 PIPELINE_ROOT = Path(__file__).resolve().parent
 TEMPLATES_ROOT = PIPELINE_ROOT / "question_templates"
-GRADE_ROOT = TEMPLATES_ROOT / "grade_1"
+# Prefer Hamdan bank (richer Grade 1 set); keep original grade_1 as fallback/extra stems
+GRADE_ROOT = TEMPLATES_ROOT / "grade_1_hamdan"
+GRADE_ROOTS: tuple[Path, ...] = (
+    TEMPLATES_ROOT / "grade_1_hamdan",
+    TEMPLATES_ROOT / "grade_1",
+)
 
 if str(PIPELINE_ROOT) not in sys.path:
     sys.path.insert(0, str(PIPELINE_ROOT))
@@ -34,6 +39,100 @@ ROLE_DISPLAY = {
 }
 
 ADULT_ROLES = tuple(ROLE_DISPLAY.keys())
+
+# Grammatical gender for family roles (used when object/possessive pronouns are needed)
+_ROLE_GRAMMATICAL_GENDER: dict[str, str] = {
+    "mother": "f",
+    "father": "m",
+    "grandmother": "f",
+    "grandfather": "m",
+    "aunt": "f",
+    "uncle": "m",
+    "brother": "m",
+    "sister": "f",
+    "sibling": "n",
+}
+
+
+def pronouns_for_gender(gender: str) -> dict[str, str]:
+    """Object / possessive / reflexive pronouns from a UI gender label."""
+    g = (gender or "").strip().lower()
+    if g in ("boy", "male", "m"):
+        return {"object": "him", "poss": "his", "reflexive": "himself"}
+    if g in ("girl", "female", "f"):
+        return {"object": "her", "poss": "her", "reflexive": "herself"}
+    return {"object": "them", "poss": "their", "reflexive": "themselves"}
+
+
+def pronouns_for_role(role: str) -> dict[str, str]:
+    """Object / possessive pronouns from a family role (Mum → her, Dad → him, …)."""
+    rg = _ROLE_GRAMMATICAL_GENDER.get((role or "").strip().lower(), "n")
+    if rg == "f":
+        return {"object": "her", "poss": "her", "reflexive": "herself"}
+    if rg == "m":
+        return {"object": "him", "poss": "his", "reflexive": "himself"}
+    return {"object": "them", "poss": "their", "reflexive": "themselves"}
+
+
+def _pronoun_placeholder_map(*, child_gender: str = "") -> dict[str, str]:
+    """Extra template keys: {user_object}, {mother_poss}, …"""
+    out: dict[str, str] = {}
+    child_p = pronouns_for_gender(child_gender)
+    out["user_object"] = child_p["object"]
+    out["user_poss"] = child_p["poss"]
+    out["user_reflexive"] = child_p["reflexive"]
+    for role in ADULT_ROLES:
+        rp = pronouns_for_role(role)
+        out[f"{role}_object"] = rp["object"]
+        out[f"{role}_poss"] = rp["poss"]
+        out[f"{role}_reflexive"] = rp["reflexive"]
+    out["adult_object"] = "them"
+    out["adult_poss"] = "their"
+    return out
+
+
+def _fix_repeated_name_pronouns(
+    text: str,
+    *,
+    child_name: str,
+    child_gender: str,
+    family_names: dict[str, str] | None,
+) -> str:
+    """
+    After name substitution, turn awkward repeats into pronouns, e.g.
+    'John has 3 apples in front of John' → '… in front of him' (Boy).
+    """
+    family_names = family_names or {}
+    child_name = (child_name or "").strip()
+    if not child_name:
+        return text
+
+    # (display name, object pronoun, possessive determiner)
+    pairs: list[tuple[str, str, str]] = []
+    cp = pronouns_for_gender(child_gender)
+    pairs.append((child_name, cp["object"], cp["poss"]))
+
+    placeholders = {
+        "mother", "father", "grandmother", "grandfather",
+        "mum", "dad", "grandma", "grandad", "uncle", "aunt",
+        "brother", "sister", "sibling", "adult", "child",
+    }
+    for role in ADULT_ROLES:
+        name = display_name_for_role(role, family_names)
+        if not name or name.lower() in placeholders:
+            continue
+        rp = pronouns_for_role(role)
+        pairs.append((name, rp["object"], rp["poss"]))
+
+    out = text
+    for name, obj, poss in pairs:
+        esc = re.escape(name)
+        out = re.sub(rf"\bin front of {esc}\b", f"in front of {obj}", out, flags=re.I)
+        out = re.sub(rf"\bnext to {esc}\b", f"next to {obj}", out, flags=re.I)
+        out = re.sub(rf"\bnear {esc}\b", f"near {obj}", out, flags=re.I)
+        out = re.sub(rf"\b{esc}'s\b", poss, out, flags=re.I)
+    return out
+
 
 # Map visual object_ids / labels → UI food & hobby ids (expand as templates grow)
 _OBJECT_TO_FOOD: dict[str, str] = {
@@ -118,6 +217,15 @@ _OBJECT_TO_FOOD: dict[str, str] = {
     "pretzel": "pretzels",
     "bagels": "bagels",
     "bagel": "bagels",
+    # grade_1_hamdan
+    "breadsticks": "breadsticks",
+    "breadstick": "breadsticks",
+    "biscuits": "biscuits",
+    "biscuit": "biscuits",
+    "ice_lollies": "ice_lollies",
+    "ice_lolly": "ice_lollies",
+    "ice lollies": "ice_lollies",
+    "ice lolly": "ice_lollies",
 }
 
 _OBJECT_TO_HOBBY: dict[str, str] = {
@@ -174,11 +282,11 @@ _OBJECT_TO_HOBBY: dict[str, str] = {
     "shells": "shells",
     "shell": "shells",
     "shopping": "shopping",
-    "stickers": "crafts",
-    "sticker": "crafts",
-    "notebooks": "crafts",
-    "notebook": "crafts",
-    "toy_cars": "toy_cars",
+        "stickers": "stickers",
+        "sticker": "stickers",
+        "notebooks": "crafts",
+        "notebook": "crafts",
+        "toy_cars": "toy_cars",
     "toy_car": "toy_cars",
     "cars": "toy_cars",
     "car": "toy_cars",
@@ -194,6 +302,28 @@ _OBJECT_TO_HOBBY: dict[str, str] = {
     "teddies": "toys",
     "robots": "toys",
     "robot": "toys",
+    # grade_1_hamdan
+    "pencils": "pencils",
+    "pencil": "pencils",
+    "stickers": "stickers",
+    "sticker": "stickers",
+    "candles": "parties",
+    "candle": "parties",
+    "flowers": "gardening",
+    "flower": "gardening",
+    "paint_pots": "painting",
+    "paint_pot": "painting",
+    "gemstones": "collecting",
+    "gemstone": "collecting",
+    "gems": "collecting",
+    "buttons": "crafts",
+    "button": "crafts",
+    "counting_blocks": "lego",
+    "numbered_blocks": "lego",
+    "building": "lego",
+    "bird_counters": "toys",
+    "cat_counters": "toys",
+    "bird_figures": "toys",
 }
 
 # Display labels for template interest ids (UI multiselect)
@@ -240,6 +370,9 @@ _INTEREST_LABELS: dict[str, str] = {
     "croissants": "Croissants",
     "pretzels": "Pretzels",
     "bagels": "Bagels",
+    "breadsticks": "Breadsticks",
+    "biscuits": "Biscuits",
+    "ice_lollies": "Ice lollies",
     # Hobbies
     "art": "Art",
     "arts_and_crafts": "Arts & crafts",
@@ -261,16 +394,19 @@ _INTEREST_LABELS: dict[str, str] = {
     "gardening": "Gardening",
     "kite": "Kite",
     "kite_flying": "Kite flying",
-    "lego": "Lego",
+    "lego": "Lego / blocks",
+    "building": "Building blocks",
     "marbles": "Marbles",
     "nature": "Nature",
     "painting": "Painting",
-    "parties": "Parties",
+    "parties": "Parties / candles",
+    "pencils": "Pencils",
     "planes": "Planes",
     "playground": "Playground",
     "reading": "Reading",
     "shells": "Shells",
     "shopping": "Shopping",
+    "stickers": "Stickers",
     "toy_cars": "Toy cars",
     "trains": "Trains",
     "toys": "Toys",
@@ -316,10 +452,31 @@ def interest_id_to_label(interest_id: str) -> str:
     return iid.replace("_", " ").title()
 
 
+def _iter_bank_stems_for_interests(*, require_verified: bool = True):
+    """Yield loaded stems usable for interest pickers (adult role optional)."""
+    for root in GRADE_ROOTS:
+        if not root.is_dir():
+            continue
+        for topic_dir in sorted(root.iterdir()):
+            if not topic_dir.is_dir():
+                continue
+            for stem_dir in sorted(topic_dir.iterdir()):
+                if not stem_dir.is_dir() or not (stem_dir / "meta.json").is_file():
+                    continue
+                stem = load_stem(stem_dir)
+                if stem["status"] != "ready":
+                    continue
+                if require_verified and not stem["verified"]:
+                    continue
+                if not stem["question_template"]:
+                    continue
+                yield stem
+
+
 def list_template_foods(*, require_verified: bool = True) -> list[str]:
     """Favourite-food labels that appear on at least one ready question template."""
     foods: set[str] = set()
-    for stem in list_ready_stems(require_verified=require_verified):
+    for stem in _iter_bank_stems_for_interests(require_verified=require_verified):
         foods |= set(stem.get("interest_foods") or [])
     return sorted((interest_id_to_label(f) for f in foods), key=str.lower)
 
@@ -327,17 +484,71 @@ def list_template_foods(*, require_verified: bool = True) -> list[str]:
 def list_template_hobbies(*, require_verified: bool = True) -> list[str]:
     """Favourite-hobby labels that appear on at least one ready question template."""
     hobbies: set[str] = set()
-    for stem in list_ready_stems(require_verified=require_verified):
+    for stem in _iter_bank_stems_for_interests(require_verified=require_verified):
         hobbies |= set(stem.get("interest_hobbies") or [])
     return sorted((interest_id_to_label(h) for h in hobbies), key=str.lower)
 
 
-def stem_interest_tags(meta: dict) -> dict[str, set[str]]:
+def _map_object_token_to_interests(token: str) -> tuple[set[str], set[str]]:
+    """Map one object token to food/hobby id sets."""
+    foods: set[str] = set()
+    hobbies: set[str] = set()
+    oid = _norm_token(token)
+    if not oid:
+        return foods, hobbies
+    # strip layout suffixes from hamdan object ids
+    for suffix in (
+        "_rows", "_neats", "_formations", "_positioneds", "_two_groups",
+        "_one_groups", "_form_ones", "_crossed",
+    ):
+        if oid.endswith(suffix):
+            oid = oid[: -len(suffix)]
+    if oid in _OBJECT_TO_FOOD:
+        foods.add(_OBJECT_TO_FOOD[oid])
+    if oid in _OBJECT_TO_HOBBY:
+        hobbies.add(_OBJECT_TO_HOBBY[oid])
+    if oid in set(_OBJECT_TO_FOOD.values()):
+        foods.add(oid)
+    if oid in set(_OBJECT_TO_HOBBY.values()):
+        hobbies.add(oid)
+    return foods, hobbies
+
+
+def _tokens_from_stem_id(stem_id: str) -> list[str]:
+    """Pull candidate object nouns from a stem folder / stem_id."""
+    sid = _norm_token(stem_id)
+    parts = [p for p in sid.split("_") if p]
+    skip = {
+        "add", "sub", "mul", "mult", "frac", "geo", "measure", "money", "time",
+        "other", "gen", "count", "user", "adult", "mother", "father",
+        "grandmother", "grandfather", "sibling", "brother", "sister", "uncle",
+        "aunt", "src", "crossed", "rows", "neats", "formations", "positioneds",
+        "two", "groups", "one", "form", "ones", "neat", "altogether", "table",
+        "group", "a", "items",
+    }
+    out: list[str] = []
+    # Prefer multi-word object spans known to our maps
+    known = set(_OBJECT_TO_FOOD) | set(_OBJECT_TO_HOBBY) | set(_OBJECT_TO_FOOD.values()) | set(_OBJECT_TO_HOBBY.values())
+    for n in (3, 2, 1):
+        for i in range(len(parts) - n + 1):
+            chunk = "_".join(parts[i : i + n])
+            if chunk in skip or chunk.isdigit() or chunk.startswith("src"):
+                continue
+            if any(ch.isdigit() for ch in chunk) and not chunk[0].isdigit():
+                # e.g. 4p — skip money amounts
+                continue
+            if chunk in known or n == 1:
+                out.append(chunk)
+    # also whole middle segment: add_apples_2_7 → apples
+    return out
+
+
+def stem_interest_tags(meta: dict, *, stem_id: str = "", question: str = "") -> dict[str, set[str]]:
     """
     Foods / hobbies this stem aligns with.
 
-    Reads meta['interests'] when present; also infers from visual_groups object_id
-    so older stems still match (e.g. apples → food apples).
+    Reads meta['interests'] when present; also infers from visual_groups,
+    stem_id, and a few question keywords so Hamdan stems still match.
     """
     foods: set[str] = set()
     hobbies: set[str] = set()
@@ -349,18 +560,38 @@ def stem_interest_tags(meta: dict) -> dict[str, set[str]]:
         hobbies.add(hobby_label_to_id(str(h)))
 
     for g in meta.get("visual_groups") or []:
-        oid = _norm_token(str(g.get("object_id") or g.get("plural") or g.get("singular") or ""))
-        if not oid:
-            continue
-        if oid in _OBJECT_TO_FOOD:
-            foods.add(_OBJECT_TO_FOOD[oid])
-        if oid in _OBJECT_TO_HOBBY:
-            hobbies.add(_OBJECT_TO_HOBBY[oid])
-        # explicit object id that is already a food/hobby id
-        if oid in set(_OBJECT_TO_FOOD.values()):
-            foods.add(oid)
-        if oid in set(_OBJECT_TO_HOBBY.values()):
-            hobbies.add(oid)
+        oid = str(g.get("object_id") or g.get("plural") or g.get("singular") or "")
+        f, h = _map_object_token_to_interests(oid)
+        foods |= f
+        hobbies |= h
+
+    sid = stem_id or str(meta.get("stem_id") or "")
+    for tok in _tokens_from_stem_id(sid):
+        f, h = _map_object_token_to_interests(tok)
+        foods |= f
+        hobbies |= h
+
+    q = (question or "").lower()
+    if "breadstick" in q:
+        foods.add("breadsticks")
+    if "biscuit" in q:
+        foods.add("biscuits")
+    if "ice loll" in q or "ice-loll" in q:
+        foods.add("ice_lollies")
+    if "sticker" in q:
+        hobbies.add("stickers")
+    if "pencil" in q:
+        hobbies.add("pencils")
+    if "balloon" in q:
+        hobbies.add("balloons")
+    if "marble" in q:
+        hobbies.add("marbles")
+    if "toy car" in q:
+        hobbies.add("toy_cars")
+    if "seashell" in q or " shell" in q:
+        hobbies.add("beach")
+    if "candle" in q:
+        hobbies.add("parties")
 
     foods.discard("")
     hobbies.discard("")
@@ -368,15 +599,16 @@ def stem_interest_tags(meta: dict) -> dict[str, set[str]]:
 
 
 def list_topics() -> list[str]:
-    if not GRADE_ROOT.is_dir():
-        return []
-    topics = []
-    for p in sorted(GRADE_ROOT.iterdir()):
-        if not p.is_dir():
+    topics: set[str] = set()
+    for root in GRADE_ROOTS:
+        if not root.is_dir():
             continue
-        if any((p / d / "meta.json").is_file() for d in p.iterdir() if d.is_dir()):
-            topics.append(p.name)
-    return topics
+        for p in sorted(root.iterdir()):
+            if not p.is_dir():
+                continue
+            if any((p / d / "meta.json").is_file() for d in p.iterdir() if d.is_dir()):
+                topics.add(p.name)
+    return sorted(topics)
 
 
 def topic_label(topic_id: str) -> str:
@@ -391,11 +623,25 @@ def load_stem(stem_dir: Path) -> dict:
     img_path = stem_dir / img_name if img_name else None
     pers = meta.get("personalisation") or {}
     locked = (pers.get("template_adult_role") or "").strip().lower()
-    interests = stem_interest_tags(meta)
+    interests = stem_interest_tags(meta, stem_id=meta.get("stem_id") or stem_dir.name, question=question)
+    face_slots = [str(s).strip().lower() for s in (pers.get("face_slots") or []) if str(s).strip()]
+    region_roles = {
+        str(r.get("role") or "").strip().lower()
+        for r in (meta.get("face_regions") or [])
+        if r.get("role")
+    }
+    # Bank folder name: grade_1_hamdan / grade_1
+    bank = "grade_1"
+    try:
+        # …/question_templates/<bank>/<topic>/<stem>
+        bank = stem_dir.parent.parent.name
+    except Exception:
+        pass
     return {
         "stem_dir": stem_dir,
         "stem_id": meta.get("stem_id") or stem_dir.name,
         "topic": meta.get("topic") or stem_dir.parent.name,
+        "bank": bank,
         "meta": meta,
         "question_template": question,
         "image_path": img_path,
@@ -405,9 +651,17 @@ def load_stem(stem_dir: Path) -> dict:
         "allowed_adult_roles": [
             r.lower() for r in (pers.get("allowed_adult_roles") or ([locked] if locked else []))
         ],
+        "face_slots": face_slots,
+        "region_roles": region_roles,
         "interest_foods": interests["foods"],
         "interest_hobbies": interests["hobbies"],
     }
+
+
+def _stem_has_child_face(stem: dict) -> bool:
+    roles = stem.get("region_roles") or set()
+    slots = stem.get("face_slots") or []
+    return "child" in roles or "user" in roles or "child" in slots or "user" in slots
 
 
 def list_ready_stems(
@@ -415,44 +669,64 @@ def list_ready_stems(
     topics: list[str] | None = None,
     require_verified: bool = True,
 ) -> list[dict]:
-    """All ready stems, optionally filtered by topic folder names."""
-    if not GRADE_ROOT.is_dir():
-        return []
+    """All ready stems across Grade 1 banks, optionally filtered by topic folder names."""
     topic_set = {t.lower() for t in topics} if topics else None
     stems: list[dict] = []
-    for topic_dir in sorted(GRADE_ROOT.iterdir()):
-        if not topic_dir.is_dir():
+    seen: set[str] = set()
+    for root in GRADE_ROOTS:
+        if not root.is_dir():
             continue
-        if topic_set is not None and topic_dir.name.lower() not in topic_set:
-            continue
-        for stem_dir in sorted(topic_dir.iterdir()):
-            if not stem_dir.is_dir() or not (stem_dir / "meta.json").is_file():
+        for topic_dir in sorted(root.iterdir()):
+            if not topic_dir.is_dir():
                 continue
-            stem = load_stem(stem_dir)
-            if stem["status"] != "ready":
+            if topic_set is not None and topic_dir.name.lower() not in topic_set:
                 continue
-            if require_verified and not stem["verified"]:
-                continue
-            if not stem["template_adult_role"]:
-                continue
-            if not stem["image_path"] or not stem["image_path"].is_file():
-                continue
-            if not stem["question_template"]:
-                continue
-            stems.append(stem)
+            for stem_dir in sorted(topic_dir.iterdir()):
+                if not stem_dir.is_dir() or not (stem_dir / "meta.json").is_file():
+                    continue
+                stem = load_stem(stem_dir)
+                # Prefer first bank (hamdan) when stem_ids collide
+                key = f"{stem['topic']}::{stem['stem_id']}"
+                if key in seen:
+                    continue
+                if stem["status"] != "ready":
+                    continue
+                if require_verified and not stem["verified"]:
+                    continue
+                # Adult-locked OR child-only (Hamdan often has child/sibling-only scenes)
+                if stem["template_adult_role"]:
+                    pass
+                elif not _stem_has_child_face(stem):
+                    continue
+                if not stem["image_path"] or not stem["image_path"].is_file():
+                    continue
+                if not stem["question_template"]:
+                    continue
+                seen.add(key)
+                stems.append(stem)
     return stems
 
 
 def stems_for_available_roles(
     stems: list[dict],
     available_roles: set[str],
+    *,
+    has_child_photo: bool = True,
+    has_sibling_photo: bool = False,
 ) -> list[dict]:
-    """Keep stems whose locked adult role has an uploaded photo."""
+    """Keep stems whose locked adult role has an uploaded photo (or child-only stems)."""
     avail = {r.lower() for r in available_roles}
     out = []
     for stem in stems:
-        role = stem["template_adult_role"]
-        allowed = stem["allowed_adult_roles"] or [role]
+        role = (stem.get("template_adult_role") or "").strip().lower()
+        if not role:
+            if not has_child_photo or not _stem_has_child_face(stem):
+                continue
+            # Child-only / child+sibling Hamdan scenes: personalise child; sibling
+            # face stays template unless a sibling/brother/sister photo was uploaded.
+            out.append(stem)
+            continue
+        allowed = stem.get("allowed_adult_roles") or [role]
         if role in avail and role in allowed:
             out.append(stem)
     return out
@@ -505,6 +779,8 @@ def select_stems(
     favourite_foods: list[str] | None = None,
     favourite_hobbies: list[str] | None = None,
     strict_interests: bool = True,
+    prefer_hamdan: bool = False,
+    bank_balance: bool = True,
 ) -> list[dict]:
     """
     Pick up to n unique stem_ids.
@@ -514,6 +790,8 @@ def select_stems(
     fallback if those weren't picked.
 
     If no favourites are selected, pick from the full ready pool.
+    When bank_balance=True (default), aim for ~50/50 grade_1_hamdan vs grade_1.
+    prefer_hamdan is kept for callers but ignored when bank_balance is on.
     """
     if n <= 0 or not stems:
         return []
@@ -528,7 +806,7 @@ def select_stems(
         favourite_hobbies=favourite_hobbies,
     )
 
-    def _pick(pool: list[dict], need: int) -> list[dict]:
+    def _pick_from(pool: list[dict], need: int) -> list[dict]:
         if need <= 0 or not pool:
             return []
         by_id: dict[str, dict] = {}
@@ -554,11 +832,48 @@ def select_stems(
                     break
         return picked
 
+    def _pick(pool: list[dict], need: int) -> list[dict]:
+        if need <= 0 or not pool:
+            return []
+        if not bank_balance and not prefer_hamdan:
+            return _pick_from(pool, need)
+
+        hamdan = [s for s in pool if (s.get("bank") or "") == "grade_1_hamdan"]
+        classic = [s for s in pool if (s.get("bank") or "") != "grade_1_hamdan"]
+
+        if bank_balance and hamdan and classic:
+            # ~50/50: ceil/floor split, then fill shortfalls from the other bank
+            n_hamdan = (need + 1) // 2
+            n_classic = need // 2
+            # Randomly flip which bank gets the extra slot when need is odd
+            if need % 2 == 1 and random.random() < 0.5:
+                n_hamdan, n_classic = n_classic, n_hamdan
+            chosen_h = _pick_from(hamdan, n_hamdan)
+            chosen_c = _pick_from(classic, n_classic)
+            chosen = chosen_h + chosen_c
+            if len(chosen) < need:
+                chosen_ids = {s["stem_id"] for s in chosen}
+                leftover = [
+                    s for s in (hamdan + classic)
+                    if s["stem_id"] not in chosen_ids
+                ]
+                chosen.extend(_pick_from(leftover, need - len(chosen)))
+            random.shuffle(chosen)
+            return chosen[:need]
+
+        if prefer_hamdan and hamdan:
+            chosen = _pick_from(hamdan, need)
+            if len(chosen) < need:
+                chosen_ids = {s["stem_id"] for s in chosen}
+                fill = [s for s in classic if s["stem_id"] not in chosen_ids]
+                chosen.extend(_pick_from(fill, need - len(chosen)))
+            return chosen
+
+        return _pick_from(pool, need)
+
     if has_interests and strict_interests:
-        # Only stems tagged with the user's picks
         return _pick(matched, n)
 
-    # No favourites → full pool; or non-strict → match first then fill
     if not has_interests:
         return _pick(stems, n)
 
@@ -586,8 +901,9 @@ def fill_question_text(
     user_name: str,
     adult_role: str,
     family_names: dict[str, str] | None = None,
+    child_gender: str = "",
 ) -> str:
-    """Replace {user_name}, {mother_name}, … with profile names."""
+    """Replace {user_name}, {mother_name}, … and pronoun placeholders with profile values."""
     family_names = family_names or {}
     adult_name = display_name_for_role(adult_role, family_names)
     child = (user_name or "").strip() or "you"
@@ -605,6 +921,7 @@ def fill_question_text(
         "brother_name": display_name_for_role("brother", family_names),
         "sister_name": display_name_for_role("sister", family_names),
     }
+    mapping.update(_pronoun_placeholder_map(child_gender=child_gender))
     # Locked stem should always use the chosen adult display name for its role token
     mapping[f"{adult_role}_name"] = adult_name
 
@@ -615,7 +932,13 @@ def fill_question_text(
     # Drop any leftover unknown placeholders conservatively
     text = re.sub(r"\{[a-z_]+\}", "", text)
     text = re.sub(r"\s{2,}", " ", text).strip()
-    return text
+
+    return _fix_repeated_name_pronouns(
+        text,
+        child_name=child,
+        child_gender=child_gender,
+        family_names=family_names,
+    )
 
 
 def mcq_from_meta(meta: dict) -> dict:
@@ -670,32 +993,39 @@ def build_workbook_items(
     total = len(stems)
     items: list[dict] = []
     for i, stem in enumerate(stems, start=1):
-        role = stem["template_adult_role"]
-        adult_photo = face_paths.get(role)
-        if not adult_photo:
+        role = (stem.get("template_adult_role") or "").strip().lower()
+        adult_photo = face_paths.get(role) if role else None
+        if role and not adult_photo:
             raise ValueError(f"Missing face photo for locked role '{role}' ({stem['stem_id']}).")
 
         if on_progress is not None:
             on_progress(i, total, stem["stem_id"])
 
-        out_path = out_dir / f"{i:02d}_{stem['stem_id']}_{role}.png"
+        out_path = out_dir / f"{i:02d}_{stem['stem_id']}_{role or 'child'}.png"
+        sibling_photo = (
+            face_paths.get("sibling")
+            or face_paths.get("brother")
+            or face_paths.get("sister")
+        )
         personalize_stem(
             stem["stem_dir"],
             child_photo=child_photo,
             adult_photo=adult_photo,
-            adult_role=role,
+            adult_role=role or "child",
             out_path=out_path,
             run_ai_finish=run_ai_finish,
             soft_cartoon=soft_cartoon,
             child_gender=child_gender,
             require_ai=bool(run_ai_finish),
+            sibling_photo=sibling_photo,
         )
 
         q_text = fill_question_text(
             stem["question_template"],
             user_name=user_name,
-            adult_role=role,
+            adult_role=role or "mother",
             family_names=family_names,
+            child_gender=child_gender,
         )
         mcq = mcq_from_meta(stem["meta"])
         items.append(
@@ -703,8 +1033,9 @@ def build_workbook_items(
                 "stem_id": stem["stem_id"],
                 "topic": stem["topic"],
                 "topic_label": topic_label(stem["topic"]),
+                "bank": stem.get("bank") or "",
                 "adult_role": role,
-                "adult_name": display_name_for_role(role, family_names),
+                "adult_name": display_name_for_role(role, family_names) if role else "",
                 "question": q_text,
                 "image_path": str(out_path),
                 "options": mcq,

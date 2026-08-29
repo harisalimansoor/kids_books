@@ -23,7 +23,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "toys"
+    ],
     "notes": "Bird counters general_math stem."
   },
   "face_regions": [

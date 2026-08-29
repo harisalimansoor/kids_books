@@ -23,7 +23,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "lego"
+    ],
     "notes": "Blocks one groups mixed stem."
   },
   "face_regions": [

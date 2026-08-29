@@ -25,7 +25,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "collecting"
+    ],
     "notes": "Gemstones general_math stem."
   },
   "face_regions": [

@@ -25,7 +25,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "toys"
+    ],
     "notes": "Cat counters number_and_place_value stem."
   },
   "face_regions": [

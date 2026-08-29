@@ -23,7 +23,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "balloons"
+    ],
     "notes": "Balloons general_math stem."
   },
   "face_regions": [

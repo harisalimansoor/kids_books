@@ -21,7 +21,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "football"
+    ],
     "notes": "Balls formations subtraction stem."
   },
   "face_regions": [

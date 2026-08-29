@@ -21,7 +21,9 @@
   },
   "interests": {
     "foods": [],
-    "hobbies": [],
+    "hobbies": [
+      "painting"
+    ],
     "notes": "Paint pots money stem."
   },
   "face_regions": [
