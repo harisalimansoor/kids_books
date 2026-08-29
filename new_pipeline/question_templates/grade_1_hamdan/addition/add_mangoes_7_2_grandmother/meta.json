@@ -1,0 +1,152 @@
+{
+  "stem_id": "add_mangoes_7_2_grandmother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "grandmother_has_7_mangoes_grandfather_has_2_mangoes_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "grandmother",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "grandmother_name": "grandmother",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste child + grandmother faces only."
+  },
+  "interests": {
+    "foods": [
+      "mangoes"
+    ],
+    "hobbies": [],
+    "notes": "Mangoe addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "grandmother",
+      "x": 341,
+      "y": 166,
+      "w": 215,
+      "h": 287,
+      "landmarks": {
+        "right_eye": [
+          420,
+          281
+        ],
+        "left_eye": [
+          516,
+          296
+        ],
+        "nose": [
+          470,
+          350
+        ],
+        "mouth_right": [
+          406,
+          374
+        ],
+        "mouth_left": [
+          496,
+          387
+        ]
+      },
+      "confidence": 0.945
+    },
+    {
+      "role": "grandfather",
+      "x": 930,
+      "y": 103,
+      "w": 219,
+      "h": 299,
+      "landmarks": {
+        "right_eye": [
+          991,
+          234
+        ],
+        "left_eye": [
+          1091,
+          226
+        ],
+        "nose": [
+          1047,
+          286
+        ],
+        "mouth_right": [
+          1006,
+          331
+        ],
+        "mouth_left": [
+          1095,
+          323
+        ]
+      },
+      "confidence": 0.946
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "grandmother",
+      "owner": "grandmother",
+      "object_id": "mangoes",
+      "singular": "mango",
+      "plural": "mangoes",
+      "count": 7,
+      "container": "table"
+    },
+    {
+      "id": "grandfather",
+      "owner": "grandfather",
+      "object_id": "mangoes",
+      "singular": "mango",
+      "plural": "mangoes",
+      "count": 2,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "9",
+    "options": [
+      "9",
+      "7",
+      "2",
+      "8"
+    ],
+    "formula": "7+2",
+    "explanation": "grandmother (7) + grandfather (2) = 9"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "ADDITION/3.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

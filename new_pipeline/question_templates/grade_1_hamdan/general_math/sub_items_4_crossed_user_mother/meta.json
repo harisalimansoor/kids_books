@@ -1,0 +1,131 @@
+{
+  "stem_id": "sub_items_4_crossed_user_mother",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "mother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 363,
+      "y": 80,
+      "w": 210,
+      "h": 265,
+      "landmarks": {
+        "right_eye": [
+          437,
+          177
+        ],
+        "left_eye": [
+          536,
+          203
+        ],
+        "nose": [
+          476,
+          253
+        ],
+        "mouth_right": [
+          409,
+          260
+        ],
+        "mouth_left": [
+          507,
+          284
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "child",
+      "x": 1029,
+      "y": 259,
+      "w": 191,
+      "h": 243,
+      "landmarks": {
+        "right_eye": [
+          1065,
+          354
+        ],
+        "left_eye": [
+          1160,
+          343
+        ],
+        "nose": [
+          1113,
+          400
+        ],
+        "mouth_right": [
+          1083,
+          440
+        ],
+        "mouth_left": [
+          1167,
+          430
+        ]
+      },
+      "confidence": 0.951
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "6",
+    "options": [
+      "6",
+      "10",
+      "4",
+      "5"
+    ],
+    "formula": "10-4",
+    "explanation": "10 objects minus 4 crossed out = 6"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "General Math/20.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

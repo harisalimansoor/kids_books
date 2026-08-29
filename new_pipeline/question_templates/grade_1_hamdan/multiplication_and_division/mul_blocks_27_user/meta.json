@@ -1,0 +1,139 @@
+{
+  "stem_id": "mul_blocks_27_user",
+  "grade": "grade_1",
+  "topic": "multiplication_and_division",
+  "layout_pattern": "mul",
+  "question_file": "question.txt",
+  "image_file": "table_has_27_blocks.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Blocks multiplication_and_division stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 361,
+      "y": 199,
+      "w": 185,
+      "h": 240,
+      "landmarks": {
+        "right_eye": [
+          421,
+          286
+        ],
+        "left_eye": [
+          507,
+          297
+        ],
+        "nose": [
+          463,
+          345
+        ],
+        "mouth_right": [
+          411,
+          367
+        ],
+        "mouth_left": [
+          492,
+          377
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "sibling",
+      "x": 1020,
+      "y": 114,
+      "w": 200,
+      "h": 258,
+      "landmarks": {
+        "right_eye": [
+          1062,
+          217
+        ],
+        "left_eye": [
+          1160,
+          208
+        ],
+        "nose": [
+          1113,
+          263
+        ],
+        "mouth_right": [
+          1076,
+          300
+        ],
+        "mouth_left": [
+          1169,
+          292
+        ]
+      },
+      "confidence": 0.953
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 27,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count",
+    "correct": "27",
+    "options": [
+      "27",
+      "26",
+      "28",
+      "29"
+    ],
+    "formula": "27",
+    "explanation": "There are 27 blocks."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Multiplication and Division/2.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

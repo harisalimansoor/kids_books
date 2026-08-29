@@ -1,0 +1,108 @@
+{
+  "stem_id": "money_one_pence_coins_28p_user_adult",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "table_28p_one_pence_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "One-pence coins money stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 464,
+      "y": 637,
+      "w": 183,
+      "h": 194,
+      "landmarks": {
+        "right_eye": [
+          521,
+          696
+        ],
+        "left_eye": [
+          603,
+          699
+        ],
+        "nose": [
+          561,
+          738
+        ],
+        "mouth_right": [
+          522,
+          766
+        ],
+        "mouth_left": [
+          597,
+          769
+        ]
+      },
+      "confidence": 0.789
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "child",
+      "object_id": "one-pence_coins",
+      "singular": "one-pence coin",
+      "plural": "one-pence coins",
+      "count": 28,
+      "value_pence": 28,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "28",
+    "options": [
+      "28",
+      "27p",
+      "29p",
+      "30p"
+    ],
+    "formula": "28",
+    "explanation": "There are 28 one-pence coins."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Money/47.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

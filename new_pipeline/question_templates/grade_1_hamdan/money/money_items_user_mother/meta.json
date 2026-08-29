@@ -1,0 +1,126 @@
+{
+  "stem_id": "money_items_user_mother",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "mother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 347,
+      "y": 274,
+      "w": 201,
+      "h": 246,
+      "landmarks": {
+        "right_eye": [
+          407,
+          365
+        ],
+        "left_eye": [
+          506,
+          369
+        ],
+        "nose": [
+          463,
+          420
+        ],
+        "mouth_right": [
+          405,
+          447
+        ],
+        "mouth_left": [
+          501,
+          449
+        ]
+      },
+      "confidence": 0.956
+    },
+    {
+      "role": "mother",
+      "x": 788,
+      "y": 95,
+      "w": 232,
+      "h": 301,
+      "landmarks": {
+        "right_eye": [
+          834,
+          224
+        ],
+        "left_eye": [
+          941,
+          200
+        ],
+        "nose": [
+          893,
+          271
+        ],
+        "mouth_right": [
+          865,
+          322
+        ],
+        "mouth_left": [
+          964,
+          301
+        ]
+      },
+      "confidence": 0.95
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Money/17.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

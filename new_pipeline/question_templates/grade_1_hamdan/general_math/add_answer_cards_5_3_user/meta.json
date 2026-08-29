@@ -1,0 +1,148 @@
+{
+  "stem_id": "add_answer_cards_5_3_user",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "table_has_5_answer_cards_table_has_3_answer_cards_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Answer cards general_math stem."
+  },
+  "face_regions": [
+    {
+      "role": "sibling",
+      "x": 392,
+      "y": 99,
+      "w": 184,
+      "h": 234,
+      "landmarks": {
+        "right_eye": [
+          455,
+          184
+        ],
+        "left_eye": [
+          539,
+          201
+        ],
+        "nose": [
+          493,
+          244
+        ],
+        "mouth_right": [
+          438,
+          261
+        ],
+        "mouth_left": [
+          517,
+          276
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "child",
+      "x": 1034,
+      "y": 96,
+      "w": 179,
+      "h": 232,
+      "landmarks": {
+        "right_eye": [
+          1069,
+          192
+        ],
+        "left_eye": [
+          1158,
+          182
+        ],
+        "nose": [
+          1114,
+          233
+        ],
+        "mouth_right": [
+          1084,
+          266
+        ],
+        "mouth_left": [
+          1167,
+          257
+        ]
+      },
+      "confidence": 0.952
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "answer_cards",
+      "singular": "answer card",
+      "plural": "answer cards",
+      "count": 5,
+      "container": "table"
+    },
+    {
+      "id": "table_2",
+      "owner": "table",
+      "object_id": "answer_cards",
+      "singular": "answer card",
+      "plural": "answer cards",
+      "count": 3,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "8",
+    "options": [
+      "8",
+      "5",
+      "3",
+      "7"
+    ],
+    "formula": "5+3",
+    "explanation": "scene (5) + scene (3) = 8"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "General Math/28.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

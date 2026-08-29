@@ -1,0 +1,152 @@
+{
+  "stem_id": "add_cookies_36_9_user_mother",
+  "grade": "grade_1",
+  "topic": "fractions",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "mother_has_36_cookies_mother_has_9_cookies_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [
+      "cookies"
+    ],
+    "hobbies": [],
+    "notes": "Cookie fractions stem."
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 418,
+      "y": 80,
+      "w": 158,
+      "h": 211,
+      "landmarks": {
+        "right_eye": [
+          473,
+          158
+        ],
+        "left_eye": [
+          544,
+          175
+        ],
+        "nose": [
+          504,
+          212
+        ],
+        "mouth_right": [
+          456,
+          225
+        ],
+        "mouth_left": [
+          524,
+          240
+        ]
+      },
+      "confidence": 0.94
+    },
+    {
+      "role": "child",
+      "x": 962,
+      "y": 310,
+      "w": 152,
+      "h": 191,
+      "landmarks": {
+        "right_eye": [
+          990,
+          387
+        ],
+        "left_eye": [
+          1060,
+          378
+        ],
+        "nose": [
+          1024,
+          421
+        ],
+        "mouth_right": [
+          1006,
+          452
+        ],
+        "mouth_left": [
+          1068,
+          443
+        ]
+      },
+      "confidence": 0.948
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "mother",
+      "object_id": "cookies",
+      "singular": "cookie",
+      "plural": "cookies",
+      "count": 36,
+      "container": "table"
+    },
+    {
+      "id": "table_2",
+      "owner": "mother",
+      "object_id": "cookies",
+      "singular": "cookie",
+      "plural": "cookies",
+      "count": 9,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "45",
+    "options": [
+      "45",
+      "36",
+      "9",
+      "44"
+    ],
+    "formula": "36+9",
+    "explanation": "scene (36) + scene (9) = 45"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Fractions/5.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

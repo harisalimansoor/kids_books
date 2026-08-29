@@ -1,0 +1,1 @@
+Look at the picture! {sibling_name} has 3 coins in front of {sibling_name}, and {table_name} has 3 coins in front of {table_name}. How much money does {sibling_name} have altogether?

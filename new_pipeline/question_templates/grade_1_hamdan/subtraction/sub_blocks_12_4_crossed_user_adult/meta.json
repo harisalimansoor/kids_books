@@ -1,0 +1,108 @@
+{
+  "stem_id": "sub_blocks_12_4_crossed_user_adult",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "adult_table_12_blocks_4_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Blocks subtraction stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 544,
+      "y": 135,
+      "w": 242,
+      "h": 317,
+      "landmarks": {
+        "right_eye": [
+          623,
+          253
+        ],
+        "left_eye": [
+          737,
+          265
+        ],
+        "nose": [
+          682,
+          329
+        ],
+        "mouth_right": [
+          613,
+          360
+        ],
+        "mouth_left": [
+          722,
+          370
+        ]
+      },
+      "confidence": 0.95
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "child",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 12,
+      "crossed_count": 4,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "8",
+    "options": [
+      "8",
+      "12",
+      "4",
+      "7"
+    ],
+    "formula": "12-4",
+    "explanation": "12 objects minus 4 crossed out = 8"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 12 with 4 crossed."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Subtraction/29.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

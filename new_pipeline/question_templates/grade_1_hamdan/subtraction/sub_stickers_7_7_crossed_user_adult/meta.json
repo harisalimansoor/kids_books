@@ -1,0 +1,108 @@
+{
+  "stem_id": "sub_stickers_7_7_crossed_user_adult",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "adult_table_7_stickers_7_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Stickers subtraction stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 645,
+      "y": 136,
+      "w": 216,
+      "h": 273,
+      "landmarks": {
+        "right_eye": [
+          705,
+          231
+        ],
+        "left_eye": [
+          807,
+          233
+        ],
+        "nose": [
+          756,
+          290
+        ],
+        "mouth_right": [
+          706,
+          326
+        ],
+        "mouth_left": [
+          802,
+          327
+        ]
+      },
+      "confidence": 0.957
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "child",
+      "object_id": "stickers",
+      "singular": "sticker",
+      "plural": "stickers",
+      "count": 7,
+      "crossed_count": 7,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "0",
+    "options": [
+      "0",
+      "7",
+      "1",
+      "2"
+    ],
+    "formula": "7-7",
+    "explanation": "7 objects minus 7 crossed out = 0"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 7 with 7 crossed."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Subtraction/18.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

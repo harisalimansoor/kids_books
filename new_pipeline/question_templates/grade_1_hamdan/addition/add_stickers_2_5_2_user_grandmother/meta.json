@@ -1,0 +1,191 @@
+{
+  "stem_id": "add_stickers_2_5_2_user_grandmother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "three_group_add",
+  "question_file": "question.txt",
+  "image_file": "grandmother_has_2_stickers_mother_has_5_stickers_user_has_2_stickers_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste child + grandmother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Stickers addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "grandmother",
+      "x": 135,
+      "y": 146,
+      "w": 240,
+      "h": 303,
+      "landmarks": {
+        "right_eye": [
+          227,
+          258
+        ],
+        "left_eye": [
+          330,
+          279
+        ],
+        "nose": [
+          281,
+          335
+        ],
+        "mouth_right": [
+          207,
+          359
+        ],
+        "mouth_left": [
+          302,
+          378
+        ]
+      },
+      "confidence": 0.942
+    },
+    {
+      "role": "mother",
+      "x": 677,
+      "y": 119,
+      "w": 201,
+      "h": 262,
+      "landmarks": {
+        "right_eye": [
+          741,
+          212
+        ],
+        "left_eye": [
+          836,
+          235
+        ],
+        "nose": [
+          778,
+          284
+        ],
+        "mouth_right": [
+          716,
+          297
+        ],
+        "mouth_left": [
+          812,
+          317
+        ]
+      },
+      "confidence": 0.952
+    },
+    {
+      "role": "child",
+      "x": 1081,
+      "y": 298,
+      "w": 196,
+      "h": 240,
+      "landmarks": {
+        "right_eye": [
+          1127,
+          391
+        ],
+        "left_eye": [
+          1224,
+          382
+        ],
+        "nose": [
+          1177,
+          440
+        ],
+        "mouth_right": [
+          1141,
+          473
+        ],
+        "mouth_left": [
+          1231,
+          465
+        ]
+      },
+      "confidence": 0.949
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "grandmother",
+      "owner": "grandmother",
+      "object_id": "stickers",
+      "singular": "sticker",
+      "plural": "stickers",
+      "count": 2,
+      "container": "table"
+    },
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "stickers",
+      "singular": "sticker",
+      "plural": "stickers",
+      "count": 5,
+      "container": "table"
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "stickers",
+      "singular": "sticker",
+      "plural": "stickers",
+      "count": 2,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "9",
+    "options": [
+      "9",
+      "2",
+      "5",
+      "8"
+    ],
+    "formula": "2+5+2",
+    "explanation": "grandmother (2) + mother (5) + child (2) = 9"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "ADDITION/1.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}
