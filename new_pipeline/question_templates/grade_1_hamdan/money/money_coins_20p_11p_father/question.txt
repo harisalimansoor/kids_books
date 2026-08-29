@@ -1,0 +1,1 @@
+Look at the picture! {father_name} has 4 coins in front of him, and {table_name} has 2 coins in front of {table_name}. How much money does {father_name} have altogether?

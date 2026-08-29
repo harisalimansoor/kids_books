@@ -1,0 +1,140 @@
+{
+  "stem_id": "sub_balls_17_6_crossed_user_adult",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "adult_table_17_balls_6_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Balls general_math stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 389,
+      "y": 99,
+      "w": 200,
+      "h": 273,
+      "landmarks": {
+        "right_eye": [
+          460,
+          196
+        ],
+        "left_eye": [
+          555,
+          216
+        ],
+        "nose": [
+          505,
+          266
+        ],
+        "mouth_right": [
+          438,
+          287
+        ],
+        "mouth_left": [
+          528,
+          306
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "sibling",
+      "x": 1037,
+      "y": 172,
+      "w": 179,
+      "h": 236,
+      "landmarks": {
+        "right_eye": [
+          1075,
+          264
+        ],
+        "left_eye": [
+          1167,
+          258
+        ],
+        "nose": [
+          1123,
+          310
+        ],
+        "mouth_right": [
+          1087,
+          343
+        ],
+        "mouth_left": [
+          1174,
+          335
+        ]
+      },
+      "confidence": 0.956
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "child",
+      "object_id": "balls",
+      "singular": "ball",
+      "plural": "balls",
+      "count": 17,
+      "crossed_count": 6,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "11",
+    "options": [
+      "11",
+      "17",
+      "6",
+      "10"
+    ],
+    "formula": "17-6",
+    "explanation": "17 objects minus 6 crossed out = 11"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 17 with 6 crossed."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "General Math/1.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

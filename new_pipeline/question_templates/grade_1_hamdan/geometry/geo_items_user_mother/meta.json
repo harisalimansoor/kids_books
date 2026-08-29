@@ -1,0 +1,126 @@
+{
+  "stem_id": "geo_items_user_mother",
+  "grade": "grade_1",
+  "topic": "geometry",
+  "layout_pattern": "geo",
+  "question_file": "question.txt",
+  "image_file": "mother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 377,
+      "y": 101,
+      "w": 233,
+      "h": 308,
+      "landmarks": {
+        "right_eye": [
+          458,
+          207
+        ],
+        "left_eye": [
+          568,
+          236
+        ],
+        "nose": [
+          501,
+          296
+        ],
+        "mouth_right": [
+          426,
+          308
+        ],
+        "mouth_left": [
+          535,
+          334
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "child",
+      "x": 976,
+      "y": 251,
+      "w": 207,
+      "h": 265,
+      "landmarks": {
+        "right_eye": [
+          1020,
+          358
+        ],
+        "left_eye": [
+          1125,
+          345
+        ],
+        "nose": [
+          1074,
+          407
+        ],
+        "mouth_right": [
+          1041,
+          447
+        ],
+        "mouth_left": [
+          1138,
+          434
+        ]
+      },
+      "confidence": 0.953
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "shape",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": "Shape answer should be read from the image."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "GEOMETRY/4.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

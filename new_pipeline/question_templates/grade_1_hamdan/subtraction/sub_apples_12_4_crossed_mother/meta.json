@@ -1,0 +1,112 @@
+{
+  "stem_id": "sub_apples_12_4_crossed_mother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "mother_table_12_apples_4_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [
+      "apples"
+    ],
+    "hobbies": [],
+    "notes": "Apple subtraction stem."
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 625,
+      "y": 35,
+      "w": 240,
+      "h": 310,
+      "landmarks": {
+        "right_eye": [
+          677,
+          169
+        ],
+        "left_eye": [
+          791,
+          150
+        ],
+        "nose": [
+          739,
+          220
+        ],
+        "mouth_right": [
+          703,
+          269
+        ],
+        "mouth_left": [
+          810,
+          251
+        ]
+      },
+      "confidence": 0.953
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "apples",
+      "singular": "apple",
+      "plural": "apples",
+      "count": 12,
+      "crossed_count": 4,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "8",
+    "options": [
+      "8",
+      "12",
+      "4",
+      "7"
+    ],
+    "formula": "12-4",
+    "explanation": "12 objects minus 4 crossed out = 8"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 12 with 4 crossed."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Subtraction/11.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

@@ -1,0 +1,103 @@
+{
+  "stem_id": "money_paint_pots_4p_user_adult",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "table_4p_paint_pots.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Paint pots money stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 424,
+      "y": 110,
+      "w": 196,
+      "h": 259,
+      "landmarks": {
+        "right_eye": [
+          485,
+          208
+        ],
+        "left_eye": [
+          579,
+          222
+        ],
+        "nose": [
+          531,
+          271
+        ],
+        "mouth_right": [
+          472,
+          292
+        ],
+        "mouth_left": [
+          562,
+          304
+        ]
+      },
+      "confidence": 0.949
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "child",
+      "object_id": "paint_pots",
+      "singular": "paint pot",
+      "plural": "paint pots",
+      "count": 4,
+      "value_pence": 4,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Money/13.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

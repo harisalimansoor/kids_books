@@ -1,0 +1,126 @@
+{
+  "stem_id": "measure_items_user_mother",
+  "grade": "grade_1",
+  "topic": "measurement",
+  "layout_pattern": "measure",
+  "question_file": "question.txt",
+  "image_file": "mother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 388,
+      "y": 163,
+      "w": 222,
+      "h": 299,
+      "landmarks": {
+        "right_eye": [
+          467,
+          271
+        ],
+        "left_eye": [
+          574,
+          282
+        ],
+        "nose": [
+          526,
+          341
+        ],
+        "mouth_right": [
+          455,
+          370
+        ],
+        "mouth_left": [
+          560,
+          379
+        ]
+      },
+      "confidence": 0.957
+    },
+    {
+      "role": "mother",
+      "x": 920,
+      "y": 97,
+      "w": 231,
+      "h": 300,
+      "landmarks": {
+        "right_eye": [
+          959,
+          206
+        ],
+        "left_eye": [
+          1058,
+          223
+        ],
+        "nose": [
+          978,
+          276
+        ],
+        "mouth_right": [
+          951,
+          318
+        ],
+        "mouth_left": [
+          1032,
+          331
+        ]
+      },
+      "confidence": 0.946
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "other",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "MEASURMENT/5.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

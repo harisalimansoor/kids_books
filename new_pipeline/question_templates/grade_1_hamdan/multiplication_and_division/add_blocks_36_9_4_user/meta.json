@@ -1,0 +1,157 @@
+{
+  "stem_id": "add_blocks_36_9_4_user",
+  "grade": "grade_1",
+  "topic": "multiplication_and_division",
+  "layout_pattern": "three_group_add",
+  "question_file": "question.txt",
+  "image_file": "table_has_36_blocks_table_has_9_blocks_table_has_4_blocks_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Blocks multiplication_and_division stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 390,
+      "y": 99,
+      "w": 190,
+      "h": 249,
+      "landmarks": {
+        "right_eye": [
+          456,
+          194
+        ],
+        "left_eye": [
+          546,
+          208
+        ],
+        "nose": [
+          502,
+          258
+        ],
+        "mouth_right": [
+          441,
+          276
+        ],
+        "mouth_left": [
+          527,
+          289
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "sibling",
+      "x": 972,
+      "y": 129,
+      "w": 176,
+      "h": 238,
+      "landmarks": {
+        "right_eye": [
+          1005,
+          225
+        ],
+        "left_eye": [
+          1091,
+          219
+        ],
+        "nose": [
+          1045,
+          270
+        ],
+        "mouth_right": [
+          1018,
+          306
+        ],
+        "mouth_left": [
+          1093,
+          300
+        ]
+      },
+      "confidence": 0.953
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 36,
+      "container": "table"
+    },
+    {
+      "id": "table_2",
+      "owner": "table",
+      "object_id": "horizontal_rows",
+      "singular": "horizontal row",
+      "plural": "horizontal rows",
+      "count": 9,
+      "container": "table"
+    },
+    {
+      "id": "table_3",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 4,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "49",
+    "options": [
+      "49",
+      "36",
+      "9",
+      "4"
+    ],
+    "formula": "36+9+4",
+    "explanation": "scene (36) + scene (9) + scene (4) = 49"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Multiplication and Division/4.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

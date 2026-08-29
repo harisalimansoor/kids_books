@@ -1,0 +1,150 @@
+{
+  "stem_id": "add_books_5_5_user_grandfather",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "user_has_5_books_grandfather_has_5_books_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandfather-locked. Paste child + grandfather faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Books addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "grandfather",
+      "x": 0,
+      "y": 0,
+      "w": 242,
+      "h": 360,
+      "landmarks": {
+        "right_eye": [
+          17,
+          49
+        ],
+        "left_eye": [
+          109,
+          59
+        ],
+        "nose": [
+          16,
+          135
+        ],
+        "mouth_right": [
+          14,
+          216
+        ],
+        "mouth_left": [
+          85,
+          228
+        ]
+      },
+      "confidence": 0.674
+    },
+    {
+      "role": "child",
+      "x": 878,
+      "y": 83,
+      "w": 240,
+      "h": 334,
+      "landmarks": {
+        "right_eye": [
+          937,
+          234
+        ],
+        "left_eye": [
+          1046,
+          222
+        ],
+        "nose": [
+          995,
+          290
+        ],
+        "mouth_right": [
+          956,
+          335
+        ],
+        "mouth_left": [
+          1055,
+          325
+        ]
+      },
+      "confidence": 0.935
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "books",
+      "singular": "book",
+      "plural": "books",
+      "count": 5,
+      "container": "table"
+    },
+    {
+      "id": "grandfather",
+      "owner": "grandfather",
+      "object_id": "books",
+      "singular": "book",
+      "plural": "books",
+      "count": 5,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "10",
+    "options": [
+      "10",
+      "5",
+      "9",
+      "11"
+    ],
+    "formula": "5+5",
+    "explanation": "child (5) + grandfather (5) = 10"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "ADDITION/6.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

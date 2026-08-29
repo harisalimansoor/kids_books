@@ -1,0 +1,139 @@
+{
+  "stem_id": "count_chairs_20_user",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "count",
+  "question_file": "question.txt",
+  "image_file": "table_has_20_chairs.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Chairs general_math stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 176,
+      "y": 237,
+      "w": 152,
+      "h": 191,
+      "landmarks": {
+        "right_eye": [
+          233,
+          301
+        ],
+        "left_eye": [
+          299,
+          318
+        ],
+        "nose": [
+          264,
+          349
+        ],
+        "mouth_right": [
+          219,
+          367
+        ],
+        "mouth_left": [
+          279,
+          382
+        ]
+      },
+      "confidence": 0.941
+    },
+    {
+      "role": "sibling",
+      "x": 1163,
+      "y": 269,
+      "w": 140,
+      "h": 179,
+      "landmarks": {
+        "right_eye": [
+          1190,
+          343
+        ],
+        "left_eye": [
+          1258,
+          340
+        ],
+        "nose": [
+          1221,
+          380
+        ],
+        "mouth_right": [
+          1201,
+          407
+        ],
+        "mouth_left": [
+          1256,
+          404
+        ]
+      },
+      "confidence": 0.94
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "chairs",
+      "singular": "chair",
+      "plural": "chairs",
+      "count": 20,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count",
+    "correct": "20",
+    "options": [
+      "20",
+      "19",
+      "21",
+      "22"
+    ],
+    "formula": "20",
+    "explanation": "There are 20 chairs."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "General Math/12.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

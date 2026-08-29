@@ -1,0 +1,126 @@
+{
+  "stem_id": "time_items_user_grandmother",
+  "grade": "grade_1",
+  "topic": "time",
+  "layout_pattern": "time",
+  "question_file": "question.txt",
+  "image_file": "grandmother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste child + grandmother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 241,
+      "y": 280,
+      "w": 178,
+      "h": 243,
+      "landmarks": {
+        "right_eye": [
+          294,
+          375
+        ],
+        "left_eye": [
+          381,
+          377
+        ],
+        "nose": [
+          341,
+          427
+        ],
+        "mouth_right": [
+          296,
+          454
+        ],
+        "mouth_left": [
+          380,
+          455
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "grandmother",
+      "x": 928,
+      "y": 130,
+      "w": 199,
+      "h": 261,
+      "landmarks": {
+        "right_eye": [
+          973,
+          231
+        ],
+        "left_eye": [
+          1066,
+          219
+        ],
+        "nose": [
+          1023,
+          276
+        ],
+        "mouth_right": [
+          994,
+          323
+        ],
+        "mouth_left": [
+          1073,
+          313
+        ]
+      },
+      "confidence": 0.938
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "other",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Time/13.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

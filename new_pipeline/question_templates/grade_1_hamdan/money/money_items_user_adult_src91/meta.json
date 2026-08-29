@@ -1,0 +1,92 @@
+{
+  "stem_id": "money_items_user_adult",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "items.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 884,
+      "y": 95,
+      "w": 197,
+      "h": 266,
+      "landmarks": {
+        "right_eye": [
+          916,
+          205
+        ],
+        "left_eye": [
+          1015,
+          193
+        ],
+        "nose": [
+          963,
+          250
+        ],
+        "mouth_right": [
+          937,
+          290
+        ],
+        "mouth_left": [
+          1027,
+          278
+        ]
+      },
+      "confidence": 0.951
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Money/91.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}
