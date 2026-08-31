@@ -664,6 +664,19 @@ def _stem_has_child_face(stem: dict) -> bool:
     return "child" in roles or "user" in roles or "child" in slots or "user" in slots
 
 
+def _stem_personalizable(stem: dict) -> bool:
+    """True when face-swap can run (child box + locked adult box if required)."""
+    regions = (stem.get("meta") or {}).get("face_regions") or []
+    if not regions:
+        return False
+    if not _stem_has_child_face(stem):
+        return False
+    role = (stem.get("template_adult_role") or "").strip().lower()
+    if role and role not in (stem.get("region_roles") or set()):
+        return False
+    return True
+
+
 def list_ready_stems(
     *,
     topics: list[str] | None = None,
@@ -713,11 +726,14 @@ def stems_for_available_roles(
     *,
     has_child_photo: bool = True,
     has_sibling_photo: bool = False,
+    require_personalizable: bool = False,
 ) -> list[dict]:
     """Keep stems whose locked adult role has an uploaded photo (or child-only stems)."""
     avail = {r.lower() for r in available_roles}
     out = []
     for stem in stems:
+        if require_personalizable and not _stem_personalizable(stem):
+            continue
         role = (stem.get("template_adult_role") or "").strip().lower()
         if not role:
             if not has_child_photo or not _stem_has_child_face(stem):
@@ -964,14 +980,17 @@ def build_workbook_items(
     child_gender: str = "",
     out_dir: Path | None = None,
     on_progress=None,
-) -> list[dict]:
+    skip_on_error: bool = True,
+) -> tuple[list[dict], list[dict]]:
     """
     Personalize each stem and return PDF-ready items.
 
     face_paths keys: user/child, mother, father, grandmother, grandfather
     on_progress: optional callable(i, total, stem_id) for Streamlit UI updates
+    skip_on_error: if True, skip failed stems and continue; if False, raise on first error
+    Returns (items, skipped) where skipped is [{stem_id, error}, ...].
     """
-    from question_templates import personalize as _personalize
+    from swapping_engine import personalize as _personalize
 
     importlib.reload(_personalize)
     personalize_stem = _personalize.personalize_stem
@@ -992,55 +1011,72 @@ def build_workbook_items(
 
     total = len(stems)
     items: list[dict] = []
+    skipped: list[dict] = []
     for i, stem in enumerate(stems, start=1):
         role = (stem.get("template_adult_role") or "").strip().lower()
         adult_photo = face_paths.get(role) if role else None
-        if role and not adult_photo:
-            raise ValueError(f"Missing face photo for locked role '{role}' ({stem['stem_id']}).")
+        err_prefix = f"{stem['stem_id']}"
+        try:
+            if role and not adult_photo:
+                raise ValueError(
+                    f"Missing face photo for locked role '{role}' ({err_prefix})."
+                )
+            if not _stem_personalizable(stem):
+                raise ValueError(f"{err_prefix}: missing child/adult face annotation")
 
-        if on_progress is not None:
-            on_progress(i, total, stem["stem_id"])
+            if on_progress is not None:
+                on_progress(i, total, stem["stem_id"])
 
-        out_path = out_dir / f"{i:02d}_{stem['stem_id']}_{role or 'child'}.png"
-        sibling_photo = (
-            face_paths.get("sibling")
-            or face_paths.get("brother")
-            or face_paths.get("sister")
-        )
-        personalize_stem(
-            stem["stem_dir"],
-            child_photo=child_photo,
-            adult_photo=adult_photo,
-            adult_role=role or "child",
-            out_path=out_path,
-            run_ai_finish=run_ai_finish,
-            soft_cartoon=soft_cartoon,
-            child_gender=child_gender,
-            require_ai=bool(run_ai_finish),
-            sibling_photo=sibling_photo,
-        )
+            out_path = out_dir / f"{len(items) + 1:02d}_{stem['stem_id']}_{role or 'child'}.png"
+            sibling_photo = (
+                face_paths.get("sibling")
+                or face_paths.get("brother")
+                or face_paths.get("sister")
+            )
+            personalize_stem(
+                stem["stem_dir"],
+                child_photo=child_photo,
+                adult_photo=adult_photo,
+                adult_role=role or "child",
+                out_path=out_path,
+                run_ai_finish=run_ai_finish,
+                soft_cartoon=soft_cartoon,
+                child_gender=child_gender,
+                require_ai=bool(run_ai_finish),
+                sibling_photo=sibling_photo,
+            )
 
-        q_text = fill_question_text(
-            stem["question_template"],
-            user_name=user_name,
-            adult_role=role or "mother",
-            family_names=family_names,
-            child_gender=child_gender,
-        )
-        mcq = mcq_from_meta(stem["meta"])
-        items.append(
-            {
-                "stem_id": stem["stem_id"],
-                "topic": stem["topic"],
-                "topic_label": topic_label(stem["topic"]),
-                "bank": stem.get("bank") or "",
-                "adult_role": role,
-                "adult_name": display_name_for_role(role, family_names) if role else "",
-                "question": q_text,
-                "image_path": str(out_path),
-                "options": mcq,
-                "correct": mcq["correct_answer"],
-                "formula": (stem["meta"].get("answer") or {}).get("formula"),
-            }
-        )
-    return items
+            q_text = fill_question_text(
+                stem["question_template"],
+                user_name=user_name,
+                adult_role=role or "mother",
+                family_names=family_names,
+                child_gender=child_gender,
+            )
+            mcq = mcq_from_meta(stem["meta"])
+            items.append(
+                {
+                    "stem_id": stem["stem_id"],
+                    "topic": stem["topic"],
+                    "topic_label": topic_label(stem["topic"]),
+                    "bank": stem.get("bank") or "",
+                    "adult_role": role,
+                    "adult_name": display_name_for_role(role, family_names) if role else "",
+                    "question": q_text,
+                    "image_path": str(out_path),
+                    "options": mcq,
+                    "correct": mcq["correct_answer"],
+                    "formula": (stem["meta"].get("answer") or {}).get("formula"),
+                }
+            )
+        except Exception as exc:
+            if not skip_on_error:
+                raise
+            skipped.append({"stem_id": stem["stem_id"], "error": str(exc)})
+            print(f"  ⚠️  Skipped {stem['stem_id']}: {exc}")
+
+    if not items:
+        detail = skipped[0]["error"] if skipped else "no stems processed"
+        raise ValueError(f"Personalisation failed for all stems: {detail}")
+
+    return items, skipped

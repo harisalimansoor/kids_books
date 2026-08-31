@@ -247,7 +247,7 @@ soft_cartoon = style_choice.startswith("Soft cartoon")
 run_ai_finish = True  # always AI-blend when illustrations are on
 
 # Warn early if API key missing (blend will fall back to paste-only)
-from question_templates import personalize as _pers_check
+from swapping_engine import personalize as _pers_check
 
 importlib.reload(_pers_check)
 if include_images and not (_pers_check.API_KEY or "").strip():
@@ -490,6 +490,7 @@ if phase == "build":
             has_sibling_photo=any(
                 r in faces for r in ("sibling", "brother", "sister")
             ),
+            require_personalizable=True,
         )
     chosen = select_stems(
         pool,
@@ -508,6 +509,8 @@ if phase == "build":
         f"Selected **{len(chosen)}** stems · Hamdan **{n_h}** · "
         f"classic grade_1 **{len(chosen) - n_h}** (~50/50 when both banks match)."
     )
+    items: list = []
+    skipped: list = []
     try:
         if pipeline["include_images"]:
             progress = st.progress(0, text="Personalising illustrations…")
@@ -517,7 +520,7 @@ if phase == "build":
                 status.info(f"Blending faces {i}/{total}: `{stem_id}` (adult → child AI)…")
                 progress.progress(min(i / max(total, 1), 1.0))
 
-            items = build_workbook_items(
+            items, skipped = build_workbook_items(
                 chosen,
                 user_name=pipeline["student_name"],
                 family_names=pipeline["family_names"],
@@ -530,9 +533,18 @@ if phase == "build":
             )
             progress.progress(1.0, text="Done")
             status.empty()
+            if skipped:
+                st.warning(
+                    f"**{len(skipped)}** stem(s) skipped due to errors — "
+                    f"PDF will include **{len(items)}** question(s) that personalised successfully."
+                )
+                with st.expander("Skipped stems", expanded=False):
+                    for s in skipped:
+                        st.markdown(f"- `{s['stem_id']}`: {s['error']}")
+            pipeline["skipped_stems"] = skipped
         else:
             # Text-only: still fill names + MCQ from meta
-            items = []
+            pipeline["skipped_stems"] = []
             for stem in chosen:
                 role = stem["template_adult_role"]
                 items.append(
@@ -567,6 +579,11 @@ if phase == "build":
             "If OpenRouter was overloaded, wait a minute and click **Generate** again. "
             "The app will not put soft-paste sticker faces into the PDF."
         )
+        st.session_state.pipeline = None
+        st.stop()
+
+    if not items:
+        st.error("No questions were personalised successfully.")
         st.session_state.pipeline = None
         st.stop()
 
@@ -619,9 +636,20 @@ elif phase == "pdf":
 
 elif phase == "complete":
     filename = create_safe_filename(pipeline["student_name"])
-    st.success("🎉 Personalised Maths Workbook ready!")
+    skipped = pipeline.get("skipped_stems") or []
+    if skipped:
+        st.success(
+            f"🎉 Workbook ready with **{len(pipeline.get('items') or [])}** questions "
+            f"({len(skipped)} stem(s) skipped)."
+        )
+    else:
+        st.success("🎉 Personalised Maths Workbook ready!")
 
     items = pipeline.get("items") or []
+    if skipped:
+        with st.expander("Skipped stems", expanded=False):
+            for s in skipped:
+                st.markdown(f"- `{s['stem_id']}`: {s['error']}")
     if items:
         with st.expander("Questions in this workbook", expanded=False):
             for it in items:

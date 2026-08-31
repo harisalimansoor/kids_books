@@ -191,7 +191,7 @@ def _run_paste_compare(
 
     from PIL import Image
 
-    from new_pipeline.question_templates.personalize import (
+    from new_pipeline.swapping_engine.personalize import (
         _paste_into_annotated_region,
         _use_annotated_region,
         personalize_stem,

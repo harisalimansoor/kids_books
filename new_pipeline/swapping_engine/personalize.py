@@ -27,10 +27,13 @@ import requests
 from dotenv import load_dotenv
 from PIL import Image, ImageDraw, ImageFilter
 
-TEMPLATES_ROOT = Path(__file__).resolve().parent
-PIPELINE_ROOT = TEMPLATES_ROOT.parent  # new_pipeline/
+ENGINE_ROOT = Path(__file__).resolve().parent  # new_pipeline/swapping_engine/
+PIPELINE_ROOT = ENGINE_ROOT.parent  # new_pipeline/
 REPO_ROOT = PIPELINE_ROOT.parent  # kids_books/
+TEMPLATES_ROOT = PIPELINE_ROOT / "question_templates"
 
+if str(PIPELINE_ROOT) not in sys.path:
+    sys.path.insert(0, str(PIPELINE_ROOT))
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
@@ -50,8 +53,11 @@ _ANNOTATED_PAD = float(os.getenv("FACE_ANNOTATED_PAD", "1.0"))
 _OBJECT_LOCK_THRESHOLD = float(os.getenv("OBJECT_LOCK_THRESHOLD", "12"))
 _OBJECT_LOCK_FACE_PAD = float(os.getenv("OBJECT_LOCK_FACE_PAD", "0.55"))
 _AI_MAX_FACE_GROW = float(os.getenv("AI_MAX_FACE_GROW", "1.55"))
+_AI_MAX_FACE_SHIFT = float(os.getenv("AI_MAX_FACE_SHIFT", "0.12"))
 _AI_GHOST_LOW = float(os.getenv("AI_GHOST_LOW_FRAC", "0.32"))
 _AI_GHOST_HIGH = float(os.getenv("AI_GHOST_HIGH_FRAC", "0.22"))
+_AI_GHOST_MID = float(os.getenv("AI_GHOST_MID_FRAC", "0.40"))  # soft double-face band
+_AI_MAX_TILT_DEG = float(os.getenv("AI_MAX_TILT_DEG", "8.0"))
 # Stubs for unused legacy landmark paste helpers still in this file
 _FACE_FILL = 1.0
 _FACE_BODY_SCALE = 1.0
@@ -122,7 +128,7 @@ def _cover_fit_rgba(src: Image.Image, box_w: int, box_h: int) -> Image.Image:
 
 def _face_box_in_rgba(src: Image.Image) -> dict | None:
     """YuNet face box (+ landmarks) inside an RGBA head crop, or None."""
-    from interactive_templates.face_detect import detect_faces, pick_primary_face
+    from swapping_engine.face_detect import detect_faces, pick_primary_face
 
     faces = detect_faces(src.convert("RGB")) or []
     if not faces:
@@ -196,14 +202,49 @@ def _cover_fit_face_aligned(
     box_w: int,
     box_h: int,
     target_face: dict,
+    *,
+    body_anchor: dict | None = None,
+    canvas: Image.Image | None = None,
+    canvas_face_abs: dict | None = None,
 ) -> Image.Image:
     """
-    Place a head crop so its face lands on the template YuNet face.
+    Place a head crop so its face lands on the template YuNet face + body anchor.
 
-    `target_face` is relative to the paste box (x/y/w/h inside box_w×box_h).
-    Hair can extend into the rest of the (usually hair-expanded) paste box;
-    this keeps shoulders/neck registration with the template body.
+    Uses pose/segmentation (body_align) when canvas + face box are provided.
     """
+    if canvas is not None and canvas_face_abs is not None:
+        try:
+            from swapping_engine.body_align import (
+                estimate_body_anchor,
+                rel_anchor_in_paste,
+            )
+
+            abs_anchor = estimate_body_anchor(canvas, canvas_face_abs)
+            paste_x = int(target_face.get("_paste_x", 0))
+            paste_y = int(target_face.get("_paste_y", 0))
+            if paste_x or paste_y:
+                body_anchor = rel_anchor_in_paste(abs_anchor, paste_x, paste_y)
+            elif body_anchor is None:
+                body_anchor = abs_anchor
+            if abs_anchor.get("method") and abs_anchor["method"] != "face_heuristic":
+                print(f"     body anchor: {abs_anchor['method']}")
+        except Exception as exc:
+            print(f"     ⚠️  body anchor skipped: {exc}")
+
+    try:
+        from swapping_engine.body_align import align_head_in_box
+
+        return align_head_in_box(
+            src,
+            box_w,
+            box_h,
+            target_face,
+            body_anchor=body_anchor,
+        )
+    except Exception:
+        pass
+
+    # Fallback (legacy path)
     src = src.convert("RGBA")
     sw, sh = src.size
     if sw < 1 or sh < 1 or box_w < 8 or box_h < 8:
@@ -435,7 +476,7 @@ def _matte_face_rgba(face: Image.Image) -> Image.Image:
     """
     import cv2
     import numpy as np
-    from interactive_templates.face_detect import detect_faces, pick_primary_face
+    from swapping_engine.face_detect import detect_faces, pick_primary_face
 
     rgba = face.convert("RGBA")
     rgb = np.asarray(rgba.convert("RGB"), dtype=np.uint8)
@@ -510,8 +551,8 @@ def _crop_upload_face_complete(photo_path: Path) -> Image.Image | None:
     """
     Face crop for STEP 1: forehead→chin with modest pad (bg stripped later).
     """
-    from interactive_templates.face_detect import detect_faces, pick_primary_face
-    from interactive_templates.face_swap import crop_upload_face, crop_upload_head
+    from swapping_engine.face_detect import detect_faces, pick_primary_face
+    from swapping_engine.face_swap import crop_upload_face, crop_upload_head
 
     photo_path = Path(photo_path)
     if not photo_path.exists():
@@ -999,7 +1040,7 @@ def _ai_blend_acceptable(
     Returns (ok, reason). On failure the caller should keep soft-paste.
     """
     import numpy as np
-    from interactive_templates.face_detect import detect_faces
+    from swapping_engine.face_detect import detect_faces
 
     if ai.size != soft_paste.size:
         ai = ai.resize(soft_paste.size, Image.Resampling.LANCZOS)
@@ -1041,6 +1082,27 @@ def _ai_blend_acceptable(
                         f"{role}: AI grew face "
                         f"{area/soft_area:.2f}× vs soft-paste"
                     )
+                # Reject if AI shifted the face off the neck/shoulder axis
+                try:
+                    from swapping_engine.body_align import face_centroid, face_eye_tilt_deg
+                    import math
+
+                    sfc = face_centroid(sf)
+                    afc = face_centroid(f)
+                    shift = math.hypot(afc[0] - sfc[0], afc[1] - sfc[1])
+                    if shift > _AI_MAX_FACE_SHIFT * max(w, h):
+                        return False, (
+                            f"{role}: AI shifted face {shift:.0f}px off body "
+                            f"(max {_AI_MAX_FACE_SHIFT:.0%} of box)"
+                        )
+                    tilt_drift = abs(face_eye_tilt_deg(f) - face_eye_tilt_deg(sf))
+                    if tilt_drift > _AI_MAX_TILT_DEG:
+                        return False, (
+                            f"{role}: AI tilt drift {tilt_drift:.1f}° "
+                            f"(max {_AI_MAX_TILT_DEG:.0f}°)"
+                        )
+                except Exception:
+                    pass
 
         # Ghosting: mix of barely-changed template pixels + heavy overlay pixels
         cx0 = x + int(0.20 * w)
@@ -1052,16 +1114,43 @@ def _ai_blend_acceptable(
         core = np.abs(ai_arr[cy0:cy1, cx0:cx1] - soft_arr[cy0:cy1, cx0:cx1]).mean(axis=2)
         low = float((core < 12.0).mean())
         high = float((core > 45.0).mean())
+        mid = float(((core >= 12.0) & (core <= 45.0)).mean())
         if low >= _AI_GHOST_LOW and high >= _AI_GHOST_HIGH:
             return False, (
                 f"{role}: ghosting "
                 f"(unchanged={low:.2f}, rewritten={high:.2f})"
+            )
+        # Soft double-face / temple ghost: large moderate-diff band, little clean rewrite
+        if mid >= _AI_GHOST_MID and high < 0.18 and low < 0.45:
+            return False, (
+                f"{role}: soft ghosting "
+                f"(mid_diff={mid:.2f}, unchanged={low:.2f}, rewritten={high:.2f})"
             )
 
         # Footprint check removed — edge softening legitimately touches a wide ring;
         # annotated-box face area (above) is the size gate that matters.
 
     return True, "ok"
+
+
+def _body_lock_faces(
+    reference: Image.Image,
+    ai: Image.Image,
+    face_boxes: list[dict],
+) -> Image.Image:
+    """Snap AI faces back onto template body if detection shows drift."""
+    try:
+        from swapping_engine.body_align import snap_ai_faces_to_reference
+
+        return snap_ai_faces_to_reference(
+            reference,
+            ai,
+            face_boxes,
+            max_shift_frac=_AI_MAX_FACE_SHIFT,
+        )
+    except Exception as exc:
+        print(f"     ⚠️  body-lock skipped: {exc}")
+        return ai
 
 
 def _sticker_edge_score(img: Image.Image, regions: list[dict]) -> float:
@@ -1110,7 +1199,7 @@ def _rescale_overgrown_ai_faces(
     soft-paste size (keeps identity blend but restores body proportions).
     """
     import numpy as np
-    from interactive_templates.face_detect import detect_faces
+    from swapping_engine.face_detect import detect_faces
 
     if ai.size != soft_paste.size:
         ai = ai.resize(soft_paste.size, Image.Resampling.LANCZOS)
@@ -1181,7 +1270,7 @@ def _choose_ai_or_soft(
     """
     Prefer AI for seamless blend. Head growth is clipped later by
     `_face_only_composite` (annotated ovals), so grow alone is not a hard reject.
-    Hard reject only clear double-face / multi-face in a slot.
+    Hard reject: double-face, shift, tilt, soft/hard ghosting (sticker override forbidden).
     """
     ok, reason = _ai_blend_acceptable(soft_paste, ai, regions)
     soft_sticker = _sticker_edge_score(soft_paste, regions)
@@ -1190,8 +1279,14 @@ def _choose_ai_or_soft(
     if ok:
         return ai, f"accepted ({reason}; sticker {soft_sticker:.1f}->{ai_sticker:.1f})"
 
-    # Only double-face is unsafe even after oval lock
-    if "double-face" in reason:
+    # Structural / ghost failures — never sticker-override (causes temple ghosting)
+    hard = (
+        "double-face" in reason
+        or "shifted face" in reason
+        or "tilt drift" in reason
+        or "ghosting" in reason
+    )
+    if hard:
         return soft_paste, f"rejected hard ({reason})"
 
     # Grow beyond annotated box: keep soft (cover-fill is sized correctly)
@@ -1201,7 +1296,7 @@ def _choose_ai_or_soft(
     if "footprint" in reason:
         return soft_paste, f"rejected footprint ({reason})"
 
-    # Ghosting: accept AI if sticker edges improve, else soft-paste
+    # Mild non-structural reasons only: accept AI if sticker edges improve a lot
     if ai_sticker < soft_sticker * 0.72:
         return ai, (
             f"accepted despite {reason} "
@@ -1209,6 +1304,14 @@ def _choose_ai_or_soft(
         )
     return soft_paste, f"rejected ({reason}; sticker {soft_sticker:.1f}->{ai_sticker:.1f})"
 
+
+def _sticker_may_override(reason: str) -> bool:
+    """False when forcing AI would risk double-face / temple ghosting."""
+    r = (reason or "").lower()
+    return not any(
+        k in r
+        for k in ("double-face", "shifted face", "tilt drift", "ghosting")
+    )
 
 def _median_skin_rgb(im: Image.Image) -> tuple[int, int, int] | None:
     """Sample face-skin colour from the inner crop (skip hair/highlights)."""
@@ -1365,7 +1468,7 @@ def _paste_into_annotated_region(
 
     if adult:
         try:
-            from interactive_templates.face_swap import crop_upload_head
+            from swapping_engine.face_swap import crop_upload_head
 
             head = crop_upload_head(photo_path)
         except Exception:
@@ -1377,15 +1480,23 @@ def _paste_into_annotated_region(
         # shoulders/neck stay registered when the paste box is hair-expanded.
         face_target = align_to or region
         rel = _rel_face_in_paste(face_target, x, y)
-        face = _cover_fit_face_aligned(head, w, h, rel)
+        rel["_paste_x"] = x
+        rel["_paste_y"] = y
+        face = _cover_fit_face_aligned(
+            head,
+            w,
+            h,
+            rel,
+            canvas=base,
+            canvas_face_abs=face_target,
+        )
         mask = _head_paste_mask(w, h, adult=True)
         src_a = face.split()[3]
         mask = Image.composite(mask, Image.new("L", (w, h), 0), src_a)
     else:
-        # Same landmark alignment as adults — centre-fit was floating heads
-        # above the collar/shoulders.
+        # Landmark + body-anchor alignment (segmentation / pose when available)
         try:
-            from interactive_templates.face_swap import crop_upload_head
+            from swapping_engine.face_swap import crop_upload_head
 
             head = crop_upload_head(photo_path)
         except Exception:
@@ -1395,7 +1506,16 @@ def _paste_into_annotated_region(
         head = _matte_face_rgba(head)
         face_target = align_to or region
         rel = _rel_face_in_paste(face_target, x, y)
-        face = _cover_fit_face_aligned(head, w, h, rel)
+        rel["_paste_x"] = x
+        rel["_paste_y"] = y
+        face = _cover_fit_face_aligned(
+            head,
+            w,
+            h,
+            rel,
+            canvas=base,
+            canvas_face_abs=face_target,
+        )
         mask = _head_paste_mask(w, h, adult=False)
         src_a = face.split()[3]
         mask = Image.composite(mask, Image.new("L", (w, h), 0), src_a)
@@ -1436,8 +1556,8 @@ def _paste_face_landmark_aligned(
     Main pipeline uses `_paste_into_annotated_region` (exact meta boxes) instead.
     Kept for experiments / A-B tests only.
     """
-    from interactive_templates.face_detect import detect_faces, pick_primary_face
-    from interactive_templates.face_swap import crop_upload_face
+    from swapping_engine.face_detect import detect_faces, pick_primary_face
+    from swapping_engine.face_swap import crop_upload_face
     import math
 
     x, y, w, h = int(region["x"]), int(region["y"]), int(region["w"]), int(region["h"])
@@ -2047,7 +2167,7 @@ def soft_cartoon_keep_identity(image: Image.Image) -> Image.Image | None:
 
 
 
-def run_kitchen_face_pipeline(
+def run_child_adult_face_pipeline(
     canvas: Image.Image,
     *,
     child_region: dict,
@@ -2062,7 +2182,7 @@ def run_kitchen_face_pipeline(
     label: str = "scene",
 ) -> Image.Image:
     """
-    Shared kitchen-style face pipeline for stems AND final worksheets:
+    Child + adult face pipeline (lives entirely in swapping_engine):
 
       1) paste child (YuNet) + adult (optional hair box)
       2a) AI blend adult  2b) AI blend child
@@ -2094,7 +2214,7 @@ def run_kitchen_face_pipeline(
     if not child_region.get("role"):
         child_region = {**child_region, "role": "child"}
 
-    print(f"  ▶ Kitchen face pipeline ({label})")
+    print(f"  ▶ Child+adult face pipeline ({label})")
     print(
         f"     child {child_region['w']}x{child_region['h']} @ "
         f"({child_region['x']},{child_region['y']}) "
@@ -2116,7 +2236,7 @@ def run_kitchen_face_pipeline(
     if not ok_c or not ok_a:
         raise ValueError(f"face paste failed (child={ok_c}, {role}={ok_a})")
     soft_paste = work.copy()
-    print("     ✓ kitchen paste ready")
+    print("     ✓ soft paste ready")
 
     result = soft_paste
     lock_regions = [child_region, adult_region]
@@ -2124,7 +2244,7 @@ def run_kitchen_face_pipeline(
     child_ai_ok = False
 
     if run_ai_finish and API_KEY:
-        from interactive_templates.face_swap import crop_upload_head
+        from swapping_engine.face_swap import crop_upload_head
 
         child_head = _matte_face_rgba(
             crop_upload_head(child_photo) or _kitchen_crop_face(child_photo)
@@ -2149,14 +2269,15 @@ def run_kitchen_face_pipeline(
             if chosen_a is work_img:
                 soft_s = _sticker_edge_score(work_img, [adult_region])
                 ai_s = _sticker_edge_score(ai_adult, [adult_region])
-                if ai_s < soft_s:
+                if ai_s < soft_s and _sticker_may_override(msg_a):
                     chosen_a = ai_adult
                     print(f"     → using AI adult (sticker {soft_s:.1f}->{ai_s:.1f})")
                 else:
-                    print(f"     → keep paste adult (AI sticker worse {soft_s:.1f}->{ai_s:.1f})")
+                    print(f"     → keep paste adult (AI sticker worse or hard reject)")
                     adult_ai_ok = True
             if chosen_a is not work_img:
                 work_img = _face_only_composite(work_img, chosen_a, [adult_region])
+                work_img = _body_lock_faces(soft_paste, work_img, [adult_face_box])
                 adult_ai_ok = True
         else:
             print(f"     ⚠️  AI {role} pass empty — keeping paste adult")
@@ -2179,7 +2300,7 @@ def run_kitchen_face_pipeline(
             if chosen_c is work_img:
                 soft_s = _sticker_edge_score(work_img, [child_region])
                 ai_s = _sticker_edge_score(ai_child, [child_region])
-                if ai_s <= soft_s * 1.15:
+                if ai_s <= soft_s * 1.15 and _sticker_may_override(msg_c):
                     chosen_c = ai_child
                     print(f"     → using AI child (sticker {soft_s:.1f}->{ai_s:.1f})")
             if chosen_c is not work_img:
@@ -2204,6 +2325,9 @@ def run_kitchen_face_pipeline(
                     lock_regions,
                     threshold=_OBJECT_LOCK_THRESHOLD,
                     face_pad=max(_OBJECT_LOCK_FACE_PAD, 0.85),
+                )
+                result = _body_lock_faces(
+                    soft_paste, result, [child_face_box, adult_face_box]
                 )
                 child_ai_ok = True
                 print(
@@ -2238,6 +2362,10 @@ def run_kitchen_face_pipeline(
         print(f"     ⚠️  body skin recolor skipped: {exc}")
 
     return result.convert("RGB")
+
+
+# Back-compat alias (older callers / compositor). Prefer run_child_adult_face_pipeline.
+run_kitchen_face_pipeline = run_child_adult_face_pipeline
 
 
 def run_child_only_face_pipeline(
@@ -2279,7 +2407,7 @@ def run_child_only_face_pipeline(
 
     result = soft_paste
     if run_ai_finish and API_KEY:
-        from interactive_templates.face_swap import crop_upload_head
+        from swapping_engine.face_swap import crop_upload_head
 
         child_head = _matte_face_rgba(
             crop_upload_head(child_photo) or _kitchen_crop_face(child_photo)
@@ -2304,7 +2432,7 @@ def run_child_only_face_pipeline(
             if chosen_c is soft_paste:
                 soft_s = _sticker_edge_score(soft_paste, [child_region])
                 ai_s = _sticker_edge_score(ai_child, [child_region])
-                if ai_s <= soft_s * 1.15:
+                if ai_s <= soft_s * 1.15 and _sticker_may_override(msg_c):
                     chosen_c = ai_child
                     print(f"     → using AI child (sticker {soft_s:.1f}->{ai_s:.1f})")
             if chosen_c is not soft_paste:
@@ -2328,6 +2456,7 @@ def run_child_only_face_pipeline(
                     threshold=_OBJECT_LOCK_THRESHOLD,
                     face_pad=max(_OBJECT_LOCK_FACE_PAD, 0.85),
                 )
+                result = _body_lock_faces(soft_paste, result, [child_face_box])
             else:
                 result = soft_paste
                 if require_ai:
@@ -2356,7 +2485,7 @@ def personalize_stem(
     sibling_photo: str | Path | None = None,
 ) -> Path:
     """
-    Personalize a stem via kitchen face pipeline, then save.
+    Personalize a stem via swapping_engine (child+adult or child-only), then save.
 
     require_ai: if True (default) and run_ai_finish, raise when AI blend fails
     so Streamlit does not ship sticker-quality soft-paste into the PDF.
@@ -2406,7 +2535,7 @@ def personalize_stem(
     out_resolved.parent.mkdir(parents=True, exist_ok=True)
 
     if adult_region_meta is not None and adult_photo is not None:
-        result = run_kitchen_face_pipeline(
+        result = run_child_adult_face_pipeline(
             original_template,
             child_region=child_region,
             adult_region=adult_region_meta,

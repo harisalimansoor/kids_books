@@ -41,6 +41,13 @@ SCENES_DIR = PACKAGE_DIR / "scenes"
 OBJECTS_DIR = PACKAGE_DIR / "objects"
 ASSETS_DIR = PACKAGE_DIR / "assets"
 
+# swapping_engine lives under new_pipeline/
+import sys
+
+_NP_ROOT = PACKAGE_DIR.parent / "new_pipeline"
+if str(_NP_ROOT) not in sys.path:
+    sys.path.insert(0, str(_NP_ROOT))
+
 
 def load_object_spec(object_id: str, category: str | None = None) -> dict:
     """Load object interaction JSON by id, optionally scoped to a category."""
@@ -150,7 +157,7 @@ def _detected_face_regions(meta: dict, template_png: Path | None) -> list[dict]:
         return regions
 
     try:
-        from interactive_templates.face_detect import face_regions_for_template
+        from swapping_engine.face_detect import face_regions_for_template
     except Exception:
         return regions
 
@@ -246,7 +253,7 @@ def paste_faces(
         return canvas
 
     try:
-        from interactive_templates.face_swap import (
+        from swapping_engine.face_swap import (
             crop_upload_face,
             resize_face_keep_aspect,
             scale_region_for_role,
@@ -869,14 +876,14 @@ def compose_interactive_scene(
             np_root = repo / "new_pipeline"
             if str(np_root) not in sys.path:
                 sys.path.insert(0, str(np_root))
-            from question_templates.personalize import run_kitchen_face_pipeline
+            from swapping_engine.personalize import run_child_adult_face_pipeline
 
             style_key_early = (image_style or "soft_cartoon").strip().lower()
             soft = style_key_early in (
                 "soft_cartoon", "soft", "semi_realistic", "storybook_soft",
                 "cartoon", "cartoonish", "full_cartoon",
             )
-            canvas = run_kitchen_face_pipeline(
+            canvas = run_child_adult_face_pipeline(
                 canvas.convert("RGB"),
                 child_region=child_region,
                 adult_region=adult_region,

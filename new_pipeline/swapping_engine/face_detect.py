@@ -13,8 +13,8 @@ plus 5-point landmarks in the template JSON, so pasting is always aligned to
 the actual face.
 
 USAGE:
-    python -m interactive_templates.face_detect            # annotate all scenes
-    python -m interactive_templates.face_detect --force    # re-annotate
+    python -m swapping_engine.face_detect            # annotate interactive scenes
+    python -m swapping_engine.face_detect --force    # re-annotate
 """
 
 from __future__ import annotations
@@ -27,9 +27,12 @@ from pathlib import Path
 import numpy as np
 from PIL import Image
 
-PACKAGE_DIR = Path(__file__).parent
-SCENES_DIR = PACKAGE_DIR / "scenes"
-MODELS_DIR = PACKAGE_DIR.parent / "models"
+ENGINE_DIR = Path(__file__).resolve().parent
+PIPELINE_ROOT = ENGINE_DIR.parent
+REPO_ROOT = PIPELINE_ROOT.parent
+# Optional CLI annotate target: Grade 1 template banks inside new_pipeline only
+SCENES_DIR = PIPELINE_ROOT / "question_templates"
+MODELS_DIR = REPO_ROOT / "models"
 YUNET_PATH = MODELS_DIR / "face_detection_yunet_2023mar.onnx"
 YUNET_URL = (
     "https://media.githubusercontent.com/media/opencv/opencv_zoo/main/"
@@ -268,8 +271,9 @@ def annotate_template(png_path: Path, *, force: bool = False) -> bool:
 
 
 def annotate_all(force: bool = False) -> None:
-    pngs = sorted(SCENES_DIR.glob("*/*/*.png"))
-    print(f"🔍 Detecting faces in {len(pngs)} interactive templates")
+    # question_templates/<bank>/<topic>/<stem>/*.png
+    pngs = sorted(SCENES_DIR.glob("*/*/*/*.png"))
+    print(f"🔍 Detecting faces in {len(pngs)} new_pipeline templates")
     ok = sum(1 for png in pngs if annotate_template(png, force=force))
     print(f"\n✅ Done: {ok}/{len(pngs)} templates annotated with real face boxes.")
 

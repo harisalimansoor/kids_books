@@ -15,7 +15,7 @@ from pathlib import Path
 
 from PIL import Image
 
-from interactive_templates.face_detect import detect_faces, pick_primary_face
+from swapping_engine.face_detect import detect_faces, pick_primary_face
 
 # Keep paste boxes at full annotated size (1.0). Previously mother was
 # shrunk to 0.86 which made her face look tiny/weird.

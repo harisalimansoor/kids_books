@@ -196,7 +196,13 @@ def generate_hobby_role_template(adult_role: str, *, force: bool = False, count:
     # Every render frames the characters differently, so replace the approximate
     # boxes with detected ones — otherwise face swaps land off-face.
     try:
-        from interactive_templates.face_detect import annotate_template
+        import sys
+        from pathlib import Path as _P
+
+        _np = _P(__file__).resolve().parents[1] / "new_pipeline"
+        if str(_np) not in sys.path:
+            sys.path.insert(0, str(_np))
+        from swapping_engine.face_detect import annotate_template
         annotate_template(png_path, force=True)
     except Exception as exc:
         print(f"  ⚠️  Face auto-annotation skipped: {exc}")
