@@ -1,0 +1,66 @@
+=== Topic: Tell and draw the time to the hour (*o'clock*) and half past on analogue and digital clocks ===
+Domain: Measurement
+
+--- Time to the hour (o'clock) ---
+
+Question 1: On a clock, the long minute hand points to 12 and the short hour hand points to 3. What time is it?
+Answer: 3 o'clock
+Working: When the long minute hand points to 12, it shows an o'clock time. The short hour hand points to 3, so the time is 3 o'clock.
+
+Question 2: Which number does the long minute hand point to when it is 7 o'clock?
+Answer: 12
+Working: For any o'clock time, the long minute hand always points to 12.
+
+Question 3: A digital clock shows 09:00. Write this time in words using o'clock.
+Answer: 9 o'clock
+Working: 09:00 shows 9 hours and 00 minutes, which is 9 o'clock.
+
+Question 4: On a clock showing 5 o'clock, which number does the short hour hand point to?
+Answer: 5
+Working: The short hand is the hour hand, so at 5 o'clock it points directly to 5.
+
+Question 5: It is 4 o'clock now. What time will it be in 1 hour?
+Answer: 5 o'clock
+Working: 4 + 1 = 5, so 1 hour after 4 o'clock is 5 o'clock.
+
+Question 6: It is 10 o'clock now. What time was it 1 hour ago?
+Answer: 9 o'clock
+Working: 10 − 1 = 9, so 1 hour before 10 o'clock was 9 o'clock.
+
+Question 7: The long minute hand points to 12 and the short hour hand points to 8. Ben says the time is 12 o'clock. What is the correct time?
+Answer: 8 o'clock
+Working: The short hour hand tells the hour (8) and the long minute hand at 12 shows o'clock. The correct time is 8 o'clock.
+
+Question 8: It is 12 o'clock. What time will it be in 1 hour?
+Answer: 1 o'clock
+Working: On a 12-hour clock face, 1 hour after 12 o'clock is 1 o'clock.
+
+--- Half past ---
+
+Question 9: On a clock, which number does the long minute hand point to when it is half past the hour?
+Answer: 6
+Working: For half past any hour, the long minute hand always points directly to 6.
+
+Question 10: On a clock, the long minute hand points to 6 and the short hour hand is halfway between 1 and 2. What time is it?
+Answer: half past 1
+Working: The minute hand on 6 shows half past. The hour hand is halfway between 1 and 2, which means it has moved past 1, so the time is half past 1.
+
+Question 11: A digital clock shows 04:30. Write this time in words using half past.
+Answer: half past 4
+Working: 30 minutes past 4 is called half past 4.
+
+Question 12: To show half past 7, the short hour hand must point halfway between 7 and which other number?
+Answer: 8
+Working: At half past 7, the hour hand moves halfway between 7 and the next number, which is 8.
+
+Question 13: The minute hand starts at 12 and makes a half turn clockwise. Which number does it point to now?
+Answer: 6
+Working: A half turn from the top of the clock (12) goes to the bottom of the clock, pointing directly to 6.
+
+Question 14: The long minute hand points to 6 and the short hour hand is halfway between 10 and 11. Lily says the time is half past 11. What is the correct time?
+Answer: half past 10
+Working: The hour hand is past 10 on its way to 11. Because it has just passed 10, the time is half past 10.
+
+Question 15: It is half past 2 now. What time will it be in 1 hour?
+Answer: half past 3
+Working: 1 whole hour after half past 2 is half past 3.

@@ -1,0 +1,151 @@
+###################################
+Add and subtract two-digit numbers and tens, including near multiples with compensation
+###################################
+
+--- Add and subtract two-digit numbers and tens ---
+
+1. Look at the picture! {user_name} is looking at this.
+What is 43 + 20?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is 43 + 20?
+
+3. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+What is 43 + 20?
+
+4. Look at the picture! {user_name} is looking at this.
+What is 68 - 30?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is 68 - 30?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+What is 68 - 30?
+
+7. Look at the picture! {user_name} is looking at this.
+Mia has 35 stickers. She buys 40 more stickers. How many stickers does Mia have now?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Mia has 35 stickers. She buys 40 more stickers. How many stickers does Mia have now?
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Mia has 35 stickers. She buys 40 more stickers. How many stickers does Mia have now?
+
+10. Look at the picture! {user_name} is looking at this.
+Find the missing number: 27 + [ ? ] = 67
+
+11. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Find the missing number: 27 + [ ? ] = 67
+
+12. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Find the missing number: 27 + [ ? ] = 67
+
+13. Look at the picture! {user_name} is looking at this.
+Find the missing number: 84 - [ ? ] = 34
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Find the missing number: 84 - [ ? ] = 34
+
+15. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Find the missing number: 84 - [ ? ] = 34
+
+16. Look at the picture! {user_name} is looking at this.
+A baker bakes 72 bread rolls. He sells 50 rolls. How many bread rolls are left?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A baker bakes 72 bread rolls. He sells 50 rolls. How many bread rolls are left?
+
+18. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A baker bakes 72 bread rolls. He sells 50 rolls. How many bread rolls are left?
+
+19. Look at the picture! {user_name} is looking at this.
+Start at 24. Count on 10, then count on another 10. What number do you reach?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Start at 24. Count on 10, then count on another 10. What number do you reach?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Start at 24. Count on 10, then count on another 10. What number do you reach?
+
+22. Look at the picture! {user_name} is looking at this.
+Liam scores 38 points in a game. Sam scores 30 points more than Liam. Tara scores 20 points less than Sam. How many points does Tara score?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Liam scores 38 points in a game. Sam scores 30 points more than Liam. Tara scores 20 points less than Sam. How many points does Tara score?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Liam scores 38 points in a game. Sam scores 30 points more than Liam. Tara scores 20 points less than Sam. How many points does Tara score?
+
+--- Add and subtract near multiples with compensation ---
+
+25. Look at the picture! {user_name} is looking at this.
+Work out 54 + 9 by adding 10 and subtracting 1.
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Work out 54 + 9 by adding 10 and subtracting 1.
+
+27. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Work out 54 + 9 by adding 10 and subtracting 1.
+
+28. Look at the picture! {user_name} is looking at this.
+Find the missing number to complete the method: 36 + 19 = 36 + 20 - [ ? ]
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+Find the missing number to complete the method: 36 + 19 = 36 + 20 - [ ? ]
+
+30. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Find the missing number to complete the method: 36 + 19 = 36 + 20 - [ ? ]
+
+31. Look at the picture! {user_name} is looking at this.
+What is 25 + 29?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is 25 + 29?
+
+33. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+What is 25 + 29?
+
+34. Look at the picture! {user_name} is looking at this.
+Find the missing number to complete the method: 54 - 19 = 54 - 20 + [ ? ]
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Find the missing number to complete the method: 54 - 19 = 54 - 20 + [ ? ]
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Find the missing number to complete the method: 54 - 19 = 54 - 20 + [ ? ]
+
+37. Look at the picture! {user_name} is looking at this.
+What is 73 - 29?
+
+38. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is 73 - 29?
+
+39. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+What is 73 - 29?
+
+40. Look at the picture! {user_name} is looking at this.
+Jack has 47 marbles. He collects 19 more marbles. How many marbles does Jack have in total?
+
+41. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Jack has 47 marbles. He collects 19 more marbles. How many marbles does Jack have in total?
+
+42. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Jack has 47 marbles. He collects 19 more marbles. How many marbles does Jack have in total?
+
+43. Look at the picture! {user_name} is looking at this.
+To calculate 62 - 19, Amy works out 62 - 20 = 42. What number must Amy add to 42 to get the correct answer?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+To calculate 62 - 19, Amy works out 62 - 20 = 42. What number must Amy add to 42 to get the correct answer?
+
+45. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+To calculate 62 - 19, Amy works out 62 - 20 = 42. What number must Amy add to 42 to get the correct answer?
+
+46. Look at the picture! {user_name} is looking at this.
+A toy shop has 65 toy cars. It sells 19 cars in the morning and 29 cars in the afternoon. How many toy cars are left?
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A toy shop has 65 toy cars. It sells 19 cars in the morning and 29 cars in the afternoon. How many toy cars are left?
+
+48. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A toy shop has 65 toy cars. It sells 19 cars in the morning and 29 cars in the afternoon. How many toy cars are left?

@@ -1,0 +1,146 @@
+=== Topic: Seconds in a minute, reading the second hand, estimating short durations, and comparing timings ===
+Domain: Measurement
+
+--- Seconds in a minute ---
+
+Question 1: How many seconds are in 1 minute?
+Answer: 60 seconds
+Working: There are 60 seconds in 1 minute.
+
+Question 2: How many seconds are in half a minute?
+Answer: 30 seconds
+Working: Half of 60 seconds is 60 ÷ 2 = 30 seconds.
+
+Question 3: How many seconds are there in 2 minutes?
+Answer: 120 seconds
+Working: 1 minute = 60 seconds, so 2 minutes = 2 × 60 = 120 seconds.
+
+Question 4: How many seconds are there in 3 minutes?
+Answer: 180 seconds
+Working: 1 minute = 60 seconds, so 3 minutes = 3 × 60 = 180 seconds.
+
+Question 5: A song plays for 1 minute and 20 seconds. How many seconds is this in total?
+Answer: 80 seconds
+Working: 1 minute = 60 seconds. 60 + 20 = 80 seconds.
+
+Question 6: Convert 1 minute and 45 seconds into seconds.
+Answer: 105 seconds
+Working: 1 minute = 60 seconds. 60 + 45 = 105 seconds.
+
+Question 7: A sand timer runs for 90 seconds. Write this time in minutes and seconds.
+Answer: 1 minute and 30 seconds
+Working: 90 seconds = 60 seconds + 30 seconds = 1 minute and 30 seconds.
+
+Question 8: A runner completed an obstacle course in 100 seconds. Write this duration in minutes and seconds.
+Answer: 1 minute and 40 seconds
+Working: 100 seconds = 60 seconds + 40 seconds = 1 minute and 40 seconds.
+
+Question 9: How many seconds are there in quarter of a minute?
+Answer: 15 seconds
+Working: Quarter of 60 seconds is 60 ÷ 4 = 15 seconds.
+
+--- Reading the second hand ---
+
+Question 10: The second hand on a clock points directly to the number 4. How many seconds past the minute is this?
+Answer: 20 seconds
+Working: Each number represents 5 seconds. 4 × 5 = 20 seconds.
+
+Question 11: The second hand on a clock face points directly to the number 7. How many seconds have passed since the start of the minute?
+Answer: 35 seconds
+Working: Each number represents 5 seconds. 7 × 5 = 35 seconds.
+
+Question 12: The second hand points directly to the number 10. How many seconds have passed in the current minute?
+Answer: 50 seconds
+Working: 10 × 5 = 50 seconds.
+
+Question 13: The second hand starts at the 12 and moves clockwise to the number 9. How many seconds have passed?
+Answer: 45 seconds
+Working: From 12 to 9 is 9 intervals of 5 seconds: 9 × 5 = 45 seconds.
+
+Question 14: The second hand starts at the number 3 and moves clockwise to the number 8. How many seconds did it take to move between these numbers?
+Answer: 25 seconds
+Working: The hand moves 5 numbers forward (8 - 3 = 5). 5 × 5 = 25 seconds.
+
+Question 15: The second hand on a clock is pointing 2 tick marks past the number 5. How many seconds past the minute is this?
+Answer: 27 seconds
+Working: The number 5 represents 25 seconds (5 × 5 = 25). 2 tick marks past 25 is 25 + 2 = 27 seconds.
+
+Question 16: The second hand on a clock is pointing 4 tick marks past the number 8. How many seconds past the minute is this?
+Answer: 44 seconds
+Working: The number 8 represents 40 seconds (8 × 5 = 40). 4 tick marks past 40 is 40 + 4 = 44 seconds.
+
+Question 17: The second hand on a clock is pointing 1 tick mark before the number 6. How many seconds past the minute is this?
+Answer: 29 seconds
+Working: The number 6 represents 30 seconds (6 × 5 = 30). 1 tick mark before 30 is 30 - 1 = 29 seconds.
+
+Question 18: How many seconds does it take for the second hand to make one complete turn around the clock face?
+Answer: 60 seconds
+Working: One complete turn around the 60 tick marks takes 60 seconds (1 minute).
+
+--- Estimating short durations ---
+
+Question 19: Which unit of time is most sensible to measure the time it takes to blink your eyes: seconds, minutes, or hours?
+Answer: seconds
+Working: A blink is extremely fast and takes less than a second, so seconds is the most sensible unit.
+
+Question 20: Which unit of time is most sensible to measure the time it takes to walk from one end of a classroom to the other: seconds, minutes, or hours?
+Answer: seconds
+Working: Walking across a classroom takes a very short duration, usually around 5 to 10 seconds.
+
+Question 21: Which is the most sensible estimate for tying your shoelaces: 25 seconds, 25 minutes, or 25 hours?
+Answer: 25 seconds
+Working: Tying shoelaces is a quick task that takes less than a minute, so 25 seconds is the most sensible estimate.
+
+Question 22: Which is the most sensible estimate for brushing your teeth properly: 2 seconds, 2 minutes, or 2 hours?
+Answer: 2 minutes
+Working: Dentists recommend brushing teeth for 2 minutes. 2 seconds is too short and 2 hours is too long.
+
+Question 23: Which is the most sensible estimate for drinking a small cup of water: 10 seconds, 10 minutes, or 10 hours?
+Answer: 10 seconds
+Working: Drinking a small cup of water takes a brief moment, so 10 seconds is sensible.
+
+Question 24: Which unit of time is most sensible to measure the time it takes to sneeze: seconds, minutes, or hours?
+Answer: seconds
+Working: A sneeze happens in an instant, which is measured in seconds.
+
+Question 25: Which is the most sensible estimate to write your full name neatly: 15 seconds, 15 minutes, or 15 hours?
+Answer: 15 seconds
+Working: Writing a name takes a fraction of a minute, so 15 seconds is sensible.
+
+Question 26: Which unit of time is most sensible to measure how long a school lunch break lasts: seconds, minutes, or hours?
+Answer: minutes
+Working: A lunch break usually lasts around 45 to 60 minutes, so minutes is the most sensible unit.
+
+--- Comparing timings ---
+
+Question 27: In a 60-metre sprint, Aaron finished in 31 seconds and Ben finished in 27 seconds. Who was faster?
+Answer: Ben
+Working: A smaller time means faster. 27 seconds is less than 31 seconds, so Ben was faster.
+
+Question 28: Clara finished a spelling task in 48 seconds. Isla finished the same task in 55 seconds. How many seconds faster was Clara than Isla?
+Answer: 7 seconds
+Working: 55 - 48 = 7 seconds.
+
+Question 29: Ruby hopped for 1 minute and 10 seconds. Freya hopped for 65 seconds. Who hopped for longer?
+Answer: Ruby
+Working: 1 minute and 10 seconds = 60 + 10 = 70 seconds. 70 seconds is longer than 65 seconds, so Ruby hopped for longer.
+
+Question 30: Four children ran a 100-metre race. Their times were: Kai (24 seconds), Lucas (19 seconds), Mason (22 seconds), and Noah (20 seconds). List the children in order from fastest to slowest.
+Answer: Lucas, Noah, Mason, Kai
+Working: Fastest has the lowest time: 19 s (Lucas), 20 s (Noah), 22 s (Mason), 24 s (Kai).
+
+Question 31: David took 1 minute and 15 seconds to solve a riddle. George took 80 seconds. How many seconds quicker was David than George?
+Answer: 5 seconds
+Working: David took 1 min 15 s = 60 + 15 = 75 seconds. Difference: 80 - 75 = 5 seconds.
+
+Question 32: A swimming race was completed by Harry in 52 seconds and by James in 1 minute and 3 seconds. What is the difference between their times in seconds?
+Answer: 11 seconds
+Working: James took 1 min 3 s = 60 + 3 = 63 seconds. 63 - 52 = 11 seconds.
+
+Question 33: Hannah washed her hands for 25 seconds. Jack washed his hands for half a minute. Who washed their hands for longer?
+Answer: Jack
+Working: Half a minute = 30 seconds. 30 seconds is greater than 25 seconds, so Jack washed for longer.
+
+Question 34: In a running race, Poppy finished in 58 seconds and Grace finished in 1 minute and 6 seconds. How many seconds faster was Poppy than Grace?
+Answer: 8 seconds
+Working: Grace took 1 min 6 s = 60 + 6 = 66 seconds. Difference: 66 - 58 = 8 seconds.

@@ -1,0 +1,62 @@
+=== Topic: Solve one-step addition and subtraction problems, including missing number equations ===
+Domain: Addition and Subtraction
+
+--- One-step addition and subtraction problems ---
+
+Question 1: Sam has 6 red apples and 3 green apples. How many apples does Sam have altogether?
+Answer: 9
+Working: Add the two amounts: 6 + 3 = 9.
+
+Question 2: First, there were 8 birds sitting on a fence. Then, 3 birds flew away. How many birds are on the fence now?
+Answer: 5
+Working: Subtract the birds that flew away: 8 - 3 = 5.
+
+Question 3: Amira has 8 pencils. Leo gives her 7 more pencils. How many pencils does Amira have in total?
+Answer: 15
+Working: Add the pencils together: 8 + 7 = 15.
+
+Question 4: There are 17 biscuits in a tin. Jack eats 5 of them. How many biscuits are left in the tin?
+Answer: 12
+Working: Subtract the eaten biscuits: 17 - 5 = 12.
+
+Question 5: Ella has 14 stickers. Ben has 9 stickers. How many more stickers does Ella have than Ben?
+Answer: 5
+Working: Find the difference between 14 and 9: 14 - 9 = 5.
+
+Question 6: A jar contains 40 blue beads and 30 yellow beads. How many beads are in the jar altogether?
+Answer: 70
+Working: Add the multiples of ten: 40 + 30 = 70.
+
+Question 7: A toy shop has 80 toy cars. It sells 30 toy cars. How many toy cars are left?
+Answer: 50
+Working: Subtract the multiples of ten: 80 - 30 = 50.
+
+--- Missing number equations ---
+
+Question 8: What is the missing number? 6 + [ ] = 10
+Answer: 4
+Working: Use the number bond to 10: 10 - 6 = 4.
+
+Question 9: What is the missing number? 9 - [ ] = 4
+Answer: 5
+Working: Find the missing part: 9 - 4 = 5.
+
+Question 10: What is the missing number? [ ] + 5 = 13
+Answer: 8
+Working: Subtract the known part from the whole: 13 - 5 = 8.
+
+Question 11: What is the missing number? 16 - [ ] = 10
+Answer: 6
+Working: Subtract 10 from 16 to find the missing part: 16 - 10 = 6.
+
+Question 12: What is the missing number? 7 = [ ] - 9
+Answer: 16
+Working: Add the two parts together to find the whole: 7 + 9 = 16.
+
+Question 13: What is the missing number? 18 = 11 + [ ]
+Answer: 7
+Working: Subtract the known part from 18: 18 - 11 = 7.
+
+Question 14: What is the missing number? 100 - [ ] = 30
+Answer: 70
+Working: Subtract 30 from 100: 100 - 30 = 70.

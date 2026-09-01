@@ -1,0 +1,80 @@
+=== Topic: Adding and subtracting money in £ and p, calculating change, and practical money problem solving ===
+Domain: Measurement
+
+--- Adding and subtracting money in £ and p ---
+
+Question 1: Calculate £2 and 35p + £3 and 40p.
+Answer: £5 and 75p
+Working: Add the pounds: £2 + £3 = £5. Add the pence: 35p + 40p = 75p. Total = £5 and 75p (or £5.75).
+
+Question 2: Calculate £3 and 65p + £2 and 50p.
+Answer: £6 and 15p
+Working: Add the pounds: £3 + £2 = £5. Add the pence: 65p + 50p = 115p. Convert 115p to £1 and 15p. Total = £5 + £1 and 15p = £6 and 15p (or £6.15).
+
+Question 3: Calculate £5 and 80p - £2 and 35p.
+Answer: £3 and 45p
+Working: Subtract the pounds: £5 - £2 = £3. Subtract the pence: 80p - 35p = 45p. Total = £3 and 45p (or £3.45).
+
+Question 4: Calculate £7 and 20p - £3 and 45p.
+Answer: £3 and 75p
+Working: Regroup £1 from £7 to make £6 and 120p. Subtract the pounds: £6 - £3 = £3. Subtract the pence: 120p - 45p = 75p. Total = £3 and 75p (or £3.75).
+
+Question 5: Calculate £1 and 50p + £2 and 25p + 65p.
+Answer: £4 and 40p
+Working: Add pounds: £1 + £2 = £3. Add pence: 50p + 25p + 65p = 140p. Convert 140p to £1 and 40p. £3 + £1 and 40p = £4 and 40p (or £4.40).
+
+Question 6: Calculate £6 - £2 and 45p.
+Answer: £3 and 55p
+Working: Partition £6 into £5 and 100p. £5 - £2 = £3. 100p - 45p = 55p. Total = £3 and 55p (or £3.55).
+
+--- Calculating change ---
+
+Question 7: Liam buys an apple for 63p. He pays with a £1 coin. How much change does Liam receive?
+Answer: 37p
+Working: £1 = 100p. 100p - 63p = 37p.
+
+Question 8: A packet of crayons costs £3 and 40p. Ella pays with a £5 note. How much change should Ella get?
+Answer: £1 and 60p
+Working: Count up from £3 and 40p to £5: 60p brings it to £4, and £1 more brings it to £5. Change = £1 and 60p (or £1.60).
+
+Question 9: Noah buys a board game that costs £7 and 35p. He pays with a £10 note. How much change does Noah receive?
+Answer: £2 and 65p
+Working: Count up from £7 and 35p to £10: 65p brings it to £8, then £2 more brings it to £10. Change = £2 and 65p (or £2.65).
+
+Question 10: Hannah buys a notebook for £2 and 40p and a pencil for 85p. She pays with a £5 note. How much change does she receive?
+Answer: £1 and 75p
+Working: Total cost = £2 and 40p + 85p = £3 and 25p. Change from £5 = £5 - £3 and 25p = £1 and 75p (or £1.75).
+
+Question 11: Ben buys a storybook for £4 and 60p and a bookmark for £1 and 50p. He pays with a £10 note. How much change does he get?
+Answer: £3 and 90p
+Working: Total cost = £4 and 60p + £1 and 50p = £6 and 10p. Change from £10 = £10 - £6 and 10p = £3 and 90p (or £3.90).
+
+Question 12: A snack costs £1 and 35p. Priya pays with a £2 coin. How much change does Priya get?
+Answer: 65p
+Working: Count up from £1 and 35p to £2: 65p takes £1 and 35p to £2. Change = 65p.
+
+--- Practical money problem solving ---
+
+Question 13: Maya has £5 and 80p in her money box. Leo has £3 and 25p in his money box. How much more money does Maya have than Leo?
+Answer: £2 and 55p
+Working: Subtract: £5 and 80p - £3 and 25p. £5 - £3 = £2. 80p - 25p = 55p. Total = £2 and 55p (or £2.55).
+
+Question 14: Oliver wants to buy a toy that costs £9 and 50p. He has saved £6 and 20p so far. How much more money does Oliver need to save?
+Answer: £3 and 30p
+Working: Subtract saved money from the total cost: £9 and 50p - £6 and 20p. £9 - £6 = £3. 50p - 20p = 30p. Total = £3 and 30p (or £3.30).
+
+Question 15: A comic costs £2 and 30p. How much do 3 of these comics cost altogether?
+Answer: £6 and 90p
+Working: Multiply the pounds: 3 × £2 = £6. Multiply the pence: 3 × 30p = 90p. Total = £6 and 90p (or £6.90).
+
+Question 16: Four friends share a prize of £8 and 40p equally. How much money does each friend receive?
+Answer: £2 and 10p
+Working: Divide the pounds: £8 ÷ 4 = £2. Divide the pence: 40p ÷ 4 = 10p. Total = £2 and 10p (or £2.10) each.
+
+Question 17: Sophie has £7 and 50p. She buys a toy for £3 and 20p and a drink for £1 and 10p. How much money does Sophie have left?
+Answer: £3 and 20p
+Working: Total spent = £3 and 20p + £1 and 10p = £4 and 30p. Money left = £7 and 50p - £4 and 30p = £3 and 20p (or £3.20).
+
+Question 18: Sam earns £3 and 50p on Saturday and £2 and 75p on Sunday for helping in the garden. How much money does Sam earn in total over the weekend?
+Answer: £6 and 25p
+Working: Add the pounds: £3 + £2 = £5. Add the pence: 50p + 75p = 125p = £1 and 25p. Total = £5 + £1 and 25p = £6 and 25p (or £6.25).

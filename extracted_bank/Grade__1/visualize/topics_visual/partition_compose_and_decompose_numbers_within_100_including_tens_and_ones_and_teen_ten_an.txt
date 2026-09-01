@@ -1,0 +1,160 @@
+###################################
+Partition, compose, and decompose numbers within 100 (including tens and ones and teen "ten and a bit")
+###################################
+
+--- Partition and compose numbers into tens and ones ---
+
+1. Look at the picture! {user_name} is looking at this.
+What number is made of 3 tens and 4 ones?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What number is made of 3 tens and 4 ones?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+What number is made of 3 tens and 4 ones?
+
+4. Look at the picture! {user_name} is looking at this.
+How many tens are in the number 52?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many tens are in the number 52?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+How many tens are in the number 52?
+
+7. Look at the picture! {user_name} is looking at this.
+The number 67 has 6 tens and how many ones?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The number 67 has 6 tens and how many ones?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+The number 67 has 6 tens and how many ones?
+
+10. Look at the picture! {user_name} is looking at this.
+What is the total: 40 + 8 = __
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is the total: 40 + 8 = __
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+What is the total: 40 + 8 = __
+
+13. Look at the picture! {user_name} is looking at this.
+Mia has 5 packs of 10 stickers and 3 single stickers. How many stickers does Mia have in total?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+Mia has 5 packs of 10 stickers and 3 single stickers. How many stickers does Mia have in total?
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Mia has 5 packs of 10 stickers and 3 single stickers. How many stickers does Mia have in total?
+
+16. Look at the picture! {user_name} is looking at this.
+A number has 8 tens and 0 ones. What is the number?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A number has 8 tens and 0 ones. What is the number?
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A number has 8 tens and 0 ones. What is the number?
+
+19. Look at the picture! {user_name} is looking at this.
+What number is made of 6 ones and 2 tens?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+What number is made of 6 ones and 2 tens?
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+What number is made of 6 ones and 2 tens?
+
+22. Look at the picture! {user_name} is looking at this.
+Complete the number sentence: 75 = __ + 5
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Complete the number sentence: 75 = __ + 5
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Complete the number sentence: 75 = __ + 5
+
+25. Look at the picture! {user_name} is looking at this.
+Ben says the number 49 is made of 9 tens and 4 ones. Is Ben correct? Write Yes or No.
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Ben says the number 49 is made of 9 tens and 4 ones. Is Ben correct? Write Yes or No.
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Ben says the number 49 is made of 9 tens and 4 ones. Is Ben correct? Write Yes or No.
+
+--- Teen numbers as ten and a bit ---
+
+28. Look at the picture! {user_name} is looking at this.
+14 is made of 1 ten and how many ones?
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+14 is made of 1 ten and how many ones?
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+14 is made of 1 ten and how many ones?
+
+31. Look at the picture! {user_name} is looking at this.
+What number is 10 and 6 more?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What number is 10 and 6 more?
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+What number is 10 and 6 more?
+
+34. Look at the picture! {user_name} is looking at this.
+What number is made of 1 ten and 3 ones?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What number is made of 1 ten and 3 ones?
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+What number is made of 1 ten and 3 ones?
+
+37. Look at the picture! {user_name} is looking at this.
+Complete the number sentence: 18 = 10 + __
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Complete the number sentence: 18 = 10 + __
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Complete the number sentence: 18 = 10 + __
+
+40. Look at the picture! {user_name} is looking at this.
+One ten frame has 10 counters and a second ten frame has 7 counters. How many counters are there altogether?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+One ten frame has 10 counters and a second ten frame has 7 counters. How many counters are there altogether?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+One ten frame has 10 counters and a second ten frame has 7 counters. How many counters are there altogether?
+
+43. Look at the picture! {user_name} is looking at this.
+A baker has 1 box of 10 eggs and 5 single eggs. How many eggs does the baker have in total?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+A baker has 1 box of 10 eggs and 5 single eggs. How many eggs does the baker have in total?
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A baker has 1 box of 10 eggs and 5 single eggs. How many eggs does the baker have in total?
+
+46. Look at the picture! {user_name} is looking at this.
+Complete the number sentence: 10 + __ = 11
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+Complete the number sentence: 10 + __ = 11
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Complete the number sentence: 10 + __ = 11
+
+49. Look at the picture! {user_name} is looking at this.
+19 is partitioned into 10 and a bit. What number is the bit?
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+19 is partitioned into 10 and a bit. What number is the bit?
+
+51. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+19 is partitioned into 10 and a bit. What number is the bit?

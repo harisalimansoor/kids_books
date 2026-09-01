@@ -1,0 +1,86 @@
+=== Topic: Derive and use related facts up to 100 (multiples of 10 and related single-digit extensions) ===
+Domain: Addition and Subtraction
+
+--- Multiples of 10 ---
+
+Question 1: Use the fact 4 + 3 = 7 to work out: 40 + 30 = ?
+Answer: 70
+Working: 4 tens + 3 tens = 7 tens, so 40 + 30 = 70.
+
+Question 2: Use the fact 8 - 2 = 6 to work out: 80 - 20 = ?
+Answer: 60
+Working: 8 tens - 2 tens = 6 tens, so 80 - 20 = 60.
+
+Question 3: Complete the number sentence: 70 + ? = 100
+Answer: 30
+Working: 7 tens + 3 tens = 10 tens (100), so the missing number is 30.
+
+Question 4: Use the fact 10 - 4 = 6 to find the answer to 100 - 40.
+Answer: 60
+Working: 10 tens - 4 tens = 6 tens, so 100 - 40 = 60.
+
+Question 5: A baker bakes 20 plain scones and 50 cheese scones. Use 2 + 5 = 7 to find how many scones the baker bakes in total.
+Answer: 70
+Working: 2 tens + 5 tens = 7 tens, so 20 + 50 = 70 scones.
+
+Question 6: A shop has 90 apples. It sells 30 apples. Use 9 - 3 = 6 to find how many apples are left.
+Answer: 60
+Working: 9 tens - 3 tens = 6 tens, so 90 - 30 = 60 apples left.
+
+Question 7: Find the missing number: 30 + ? = 90
+Answer: 60
+Working: 3 tens + 6 tens = 9 tens, so 30 + 60 = 90.
+
+Question 8: Find the missing number: ? - 40 = 20
+Answer: 60
+Working: 20 + 40 = 60, so 60 - 40 = 20.
+
+Question 9: Fill in the missing number to make the number sentence balanced: 50 + 40 = 60 + ?
+Answer: 30
+Working: 50 + 40 = 90. 60 + 30 = 90, so the missing number is 30.
+
+Question 10: If 6 + 2 = 8, what is 80 - 60?
+Answer: 20
+Working: 60 + 20 = 80, so 80 - 60 = 20.
+
+--- Related single-digit extensions ---
+
+Question 11: Use the fact 3 + 5 = 8 to work out: 43 + 5 = ?
+Answer: 48
+Working: 3 ones + 5 ones = 8 ones. 40 + 8 = 48, so 43 + 5 = 48.
+
+Question 12: Use the fact 9 - 6 = 3 to work out: 59 - 6 = ?
+Answer: 53
+Working: 9 ones - 6 ones = 3 ones. 50 + 3 = 53, so 59 - 6 = 53.
+
+Question 13: Use the fact 5 + 8 = 13 to work out: 35 + 8 = ?
+Answer: 43
+Working: 35 + 8 = 30 + 5 + 8 = 30 + 13 = 43.
+
+Question 14: Use the fact 13 - 5 = 8 to work out: 63 - 5 = ?
+Answer: 58
+Working: 63 - 5 = 50 + 13 - 5 = 50 + 8 = 58.
+
+Question 15: Sam has 32 stickers. He buys 7 more stickers. Use the fact 2 + 7 = 9 to work out how many stickers Sam has now.
+Answer: 39
+Working: 2 + 7 = 9, so 32 + 7 = 39 stickers.
+
+Question 16: A ribbon is 48 cm long. Maya cuts off 5 cm. Use 8 - 5 = 3 to find how long the ribbon is now in centimetres.
+Answer: 43 cm
+Working: 8 - 5 = 3, so 48 - 5 = 43 cm.
+
+Question 17: Complete the number sentence: 52 + ? = 58
+Answer: 6
+Working: 2 + 6 = 8, so 52 + 6 = 58.
+
+Question 18: Use the bond 6 + 7 = 13 to find the missing number: 26 + ? = 33
+Answer: 7
+Working: 26 + 7 = 20 + 6 + 7 = 20 + 13 = 33, so the missing number is 7.
+
+Question 19: Complete the number sentence: 76 - ? = 71
+Answer: 5
+Working: 6 - 5 = 1, so 76 - 5 = 71.
+
+Question 20: If 7 + 6 = 13, what is 87 + 6?
+Answer: 93
+Working: 87 + 6 = 80 + 7 + 6 = 80 + 13 = 93.

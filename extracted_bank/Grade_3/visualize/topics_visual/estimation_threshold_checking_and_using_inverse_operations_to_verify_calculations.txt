@@ -1,0 +1,144 @@
+###################################
+Estimation, threshold checking, and using inverse operations to verify calculations
+###################################
+
+--- Estimation ---
+
+1. Look at the picture! {user_name} is looking at this.
+Estimate the answer to 487 + 312 by rounding each number to the nearest hundred.
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Estimate the answer to 487 + 312 by rounding each number to the nearest hundred.
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Estimate the answer to 487 + 312 by rounding each number to the nearest hundred.
+
+4. Look at the picture! {user_name} is looking at this.
+Estimate the answer to 674 - 231 by rounding each number to the nearest ten.
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Estimate the answer to 674 - 231 by rounding each number to the nearest ten.
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Estimate the answer to 674 - 231 by rounding each number to the nearest ten.
+
+7. Look at the picture! {user_name} is looking at this.
+A baker bakes 295 bread rolls in the morning and 188 bread rolls in the afternoon. Round each number to the nearest hundred to estimate the total number of rolls baked.
+
+8. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A baker bakes 295 bread rolls in the morning and 188 bread rolls in the afternoon. Round each number to the nearest hundred to estimate the total number of rolls baked.
+
+9. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A baker bakes 295 bread rolls in the morning and 188 bread rolls in the afternoon. Round each number to the nearest hundred to estimate the total number of rolls baked.
+
+10. Look at the picture! {user_name} is looking at this.
+Round 819 and 492 to the nearest hundred to estimate the difference between them.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Round 819 and 492 to the nearest hundred to estimate the difference between them.
+
+12. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Round 819 and 492 to the nearest hundred to estimate the difference between them.
+
+13. Look at the picture! {user_name} is looking at this.
+A jumper costs £49 and a jacket costs £38. Round each price to the nearest £10 to estimate the total cost.
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A jumper costs £49 and a jacket costs £38. Round each price to the nearest £10 to estimate the total cost.
+
+15. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A jumper costs £49 and a jacket costs £38. Round each price to the nearest £10 to estimate the total cost.
+
+--- Threshold checking ---
+
+16. Look at the picture! {user_name} is looking at this.
+A cinema has 500 seats. 268 children and 245 adults want to watch a film. Are there enough seats for everyone? Write yes or no.
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A cinema has 500 seats. 268 children and 245 adults want to watch a film. Are there enough seats for everyone? Write yes or no.
+
+18. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A cinema has 500 seats. 268 children and 245 adults want to watch a film. Are there enough seats for everyone? Write yes or no.
+
+19. Look at the picture! {user_name} is looking at this.
+Without calculating the exact total, decide if 384 + 229 is greater than 600 or less than 600.
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Without calculating the exact total, decide if 384 + 229 is greater than 600 or less than 600.
+
+21. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Without calculating the exact total, decide if 384 + 229 is greater than 600 or less than 600.
+
+22. Look at the picture! {user_name} is looking at this.
+Ella has a £50 gift card. She wants to buy a board game for £28 and a puzzle for £24. Does Ella have enough money on her gift card to buy both items? Write yes or no.
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+Ella has a £50 gift card. She wants to buy a board game for £28 and a puzzle for £24. Does Ella have enough money on her gift card to buy both items? Write yes or no.
+
+24. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Ella has a £50 gift card. She wants to buy a board game for £28 and a puzzle for £24. Does Ella have enough money on her gift card to buy both items? Write yes or no.
+
+25. Look at the picture! {user_name} is looking at this.
+A school library needs to collect 700 books. Key Stage 1 collects 342 books and Key Stage 2 collects 385 books. Have they reached their target of 700 books? Write yes or no.
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+A school library needs to collect 700 books. Key Stage 1 collects 342 books and Key Stage 2 collects 385 books. Have they reached their target of 700 books? Write yes or no.
+
+27. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A school library needs to collect 700 books. Key Stage 1 collects 342 books and Key Stage 2 collects 385 books. Have they reached their target of 700 books? Write yes or no.
+
+28. Look at the picture! {user_name} is looking at this.
+A small bridge has a safe load limit of 900 kg. A trailer weighing 420 kg carries a load of 465 kg. Is the total mass under the 900 kg safety limit? Write yes or no.
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+A small bridge has a safe load limit of 900 kg. A trailer weighing 420 kg carries a load of 465 kg. Is the total mass under the 900 kg safety limit? Write yes or no.
+
+30. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A small bridge has a safe load limit of 900 kg. A trailer weighing 420 kg carries a load of 465 kg. Is the total mass under the 900 kg safety limit? Write yes or no.
+
+--- Using inverse operations to verify calculations ---
+
+31. Look at the picture! {user_name} is looking at this.
+Ravi calculates 648 - 235 = 413. Write the addition calculation Ravi can use to check his answer.
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Ravi calculates 648 - 235 = 413. Write the addition calculation Ravi can use to check his answer.
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Ravi calculates 648 - 235 = 413. Write the addition calculation Ravi can use to check his answer.
+
+34. Look at the picture! {user_name} is looking at this.
+Beth calculates 357 + 219 = 576. Write a subtraction calculation Beth can use to check her answer.
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Beth calculates 357 + 219 = 576. Write a subtraction calculation Beth can use to check her answer.
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Beth calculates 357 + 219 = 576. Write a subtraction calculation Beth can use to check her answer.
+
+37. Look at the picture! {user_name} is looking at this.
+Marcus works out 754 - 281 = 473. He checks his answer by calculating 473 + 281 and gets 754. Is his original subtraction calculation correct? Write yes or no.
+
+38. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Marcus works out 754 - 281 = 473. He checks his answer by calculating 473 + 281 and gets 754. Is his original subtraction calculation correct? Write yes or no.
+
+39. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Marcus works out 754 - 281 = 473. He checks his answer by calculating 473 + 281 and gets 754. Is his original subtraction calculation correct? Write yes or no.
+
+40. Look at the picture! {user_name} is looking at this.
+Fill in the missing number to check the addition using an inverse operation: 428 + 316 = 744. Check: 744 - 316 = ___
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Fill in the missing number to check the addition using an inverse operation: 428 + 316 = 744. Check: 744 - 316 = ___
+
+42. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Fill in the missing number to check the addition using an inverse operation: 428 + 316 = 744. Check: 744 - 316 = ___
+
+43. Look at the picture! {user_name} is looking at this.
+Use the inverse operation to find the missing number: ___ - 245 = 380.
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use the inverse operation to find the missing number: ___ - 245 = 380.
+
+45. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the inverse operation to find the missing number: ___ - 245 = 380.

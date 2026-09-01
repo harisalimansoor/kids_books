@@ -1,0 +1,98 @@
+=== Topic: Identifying horizontal, vertical, perpendicular, and parallel lines in shapes, letters, and grids ===
+Domain: Geometry (Properties of Shapes
+
+--- Horizontal lines ---
+
+Question 1: A straight line goes directly from left to right across a page. Is this line horizontal or vertical?
+Answer: horizontal
+Working: A line running straight from left to right across a page is horizontal.
+
+Question 2: How many horizontal straight lines are used to draw a standard capital letter E?
+Answer: 3
+Working: A standard capital letter E has 1 vertical line on the left and 3 horizontal lines across the top, middle, and bottom.
+
+Question 3: How many horizontal straight lines are used to draw a standard capital letter H?
+Answer: 1
+Working: A standard capital letter H has 2 vertical lines joined by 1 horizontal crossbar in the middle.
+
+Question 4: A rectangle is drawn sitting flat on a table. It has 2 vertical sides and some horizontal sides. How many horizontal sides does the rectangle have?
+Answer: 2
+Working: An upright rectangle has 4 sides in total: 2 vertical sides on the left and right, and 2 horizontal sides at the top and bottom.
+
+Question 5: Look at a standard capital letter F. How many horizontal straight lines does it have?
+Answer: 2
+Working: A standard capital letter F has 1 vertical line and 2 horizontal lines (one at the top and one in the middle).
+
+--- Vertical lines ---
+
+Question 6: A straight line goes directly up and down from the top of a page to the bottom. Is this line horizontal or vertical?
+Answer: vertical
+Working: A line running straight up and down is vertical.
+
+Question 7: How many vertical straight lines are used to draw a standard capital letter H?
+Answer: 2
+Working: A standard capital letter H has 2 vertical side lines and 1 horizontal line connecting them.
+
+Question 8: How many vertical straight lines are used to draw a standard capital letter T?
+Answer: 1
+Working: A standard capital letter T has 1 horizontal line across the top and 1 vertical line going down the middle.
+
+Question 9: A square is drawn with its bottom edge sitting flat on a horizontal line. How many vertical sides does the square have?
+Answer: 2
+Working: When a square sits flat on a horizontal line, its 2 upright sides (left and right) are vertical.
+
+Question 10: How many vertical straight lines are used to draw a standard capital letter E?
+Answer: 1
+Working: A standard capital letter E has 1 vertical spine on the left and 3 horizontal lines branching from it.
+
+--- Perpendicular lines ---
+
+Question 11: Perpendicular lines meet or cross to make what type of angle: an acute angle, an obtuse angle, or a right angle?
+Answer: a right angle
+Working: Perpendicular lines meet or cross at a right angle (90 degrees).
+
+Question 12: A standard capital letter L is made from one horizontal line and one vertical line. How many pairs of perpendicular lines meet in the letter L?
+Answer: 1
+Working: The vertical line and horizontal line meet at a single corner to form 1 right angle, so there is 1 pair of perpendicular lines.
+
+Question 13: The straight horizontal top bar and the vertical stem of a standard capital letter T meet. Are these two lines parallel or perpendicular?
+Answer: perpendicular
+Working: A horizontal line and a vertical line meet at a right angle, which means they are perpendicular.
+
+Question 14: A rectangle has 4 corners, and each corner is a right angle where two straight sides meet. How many pairs of perpendicular sides meet at the corners of a rectangle?
+Answer: 4
+Working: Each of the 4 corners of a rectangle is formed by 2 sides meeting at a right angle, giving 4 pairs of perpendicular sides.
+
+Question 15: In a standard capital letter E, 1 vertical line meets 3 horizontal lines. How many pairs of perpendicular lines are formed in the letter E?
+Answer: 3
+Working: The vertical line meets each of the 3 horizontal lines at a right angle, making 3 pairs of perpendicular lines.
+
+Question 16: In a standard capital letter H, 2 vertical lines are joined by 1 horizontal line across the middle. How many pairs of perpendicular lines are formed where the lines meet?
+Answer: 2
+Working: The horizontal line meets the left vertical line at a right angle (1 pair) and meets the right vertical line at a right angle (1 pair), giving 2 pairs in total.
+
+--- Parallel lines ---
+
+Question 17: What word describes two straight lines that stay the exact same distance apart and will never meet?
+Answer: parallel
+Working: Lines that never meet and are always the same distance apart are parallel lines.
+
+Question 18: A square has 4 straight sides. How many pairs of parallel sides does a square have?
+Answer: 2
+Working: A square has opposite sides that are parallel: the top and bottom sides are 1 pair, and the left and right sides are 1 pair, making 2 pairs in total.
+
+Question 19: A standard capital letter H has two vertical lines going straight up and down. Are these two vertical lines parallel or perpendicular to each other?
+Answer: parallel
+Working: The two vertical lines run in the same direction and stay the same distance apart, so they are parallel.
+
+Question 20: A standard capital letter Z has a straight horizontal line at the top and a straight horizontal line at the bottom. Are these two horizontal lines parallel or perpendicular to each other?
+Answer: parallel
+Working: Both the top and bottom lines of the letter Z are horizontal and stay the same distance apart, so they are parallel.
+
+Question 21: A regular hexagon has 6 straight sides with opposite sides facing each other. How many pairs of parallel sides does a regular hexagon have?
+Answer: 3
+Working: In a 6-sided regular hexagon, each side has an opposite side that is parallel to it: 6 sides divided into pairs gives 3 pairs of parallel sides.
+
+Question 22: A trapezium has 4 straight sides. Exactly 1 pair of opposite sides is parallel. How many sides of the trapezium are not parallel to any other side?
+Answer: 2
+Working: A trapezium has 4 sides in total. 2 of the sides form 1 parallel pair, leaving 4 - 2 = 2 sides that are not parallel.

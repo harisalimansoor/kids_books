@@ -1,0 +1,263 @@
+###################################
+Identify one more, one less, two more, and two less than a given number
+###################################
+
+--- One more ---
+
+1. Look at the picture! {user_name} is looking at this.
+What is 1 more than 6?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is 1 more than 6?
+
+3. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+What is 1 more than 6?
+
+4. Look at the picture! {user_name} is looking at this.
+Maya has 8 apples. She gets 1 more apple. How many apples does Maya have now?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Maya has 8 apples. She gets 1 more apple. How many apples does Maya have now?
+
+6. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Maya has 8 apples. She gets 1 more apple. How many apples does Maya have now?
+
+7. Look at the picture! {user_name} is looking at this.
+What is 1 more than 19?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is 1 more than 19?
+
+9. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+What is 1 more than 19?
+
+10. Look at the picture! {user_name} is looking at this.
+What is 1 more than 45?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is 1 more than 45?
+
+12. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+What is 1 more than 45?
+
+13. Look at the picture! {user_name} is looking at this.
+What is 1 more than 79?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is 1 more than 79?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+What is 1 more than 79?
+
+16. Look at the picture! {user_name} is looking at this.
+A counter is on number 63 on a number track. Move it forward 1 space. Which number is the counter on now?
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A counter is on number 63 on a number track. Move it forward 1 space. Which number is the counter on now?
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A counter is on number 63 on a number track. Move it forward 1 space. Which number is the counter on now?
+
+19. Look at the picture! {user_name} is looking at this.
+Jack thinks of a number. 1 more than his number is 30. What is Jack's number?
+
+20. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Jack thinks of a number. 1 more than his number is 30. What is Jack's number?
+
+21. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Jack thinks of a number. 1 more than his number is 30. What is Jack's number?
+
+--- One less ---
+
+22. Look at the picture! {user_name} is looking at this.
+What is 1 less than 7?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is 1 less than 7?
+
+24. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+What is 1 less than 7?
+
+25. Look at the picture! {user_name} is looking at this.
+Tom has 5 stickers. He gives 1 sticker away. How many stickers does Tom have left?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Tom has 5 stickers. He gives 1 sticker away. How many stickers does Tom have left?
+
+27. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Tom has 5 stickers. He gives 1 sticker away. How many stickers does Tom have left?
+
+28. Look at the picture! {user_name} is looking at this.
+What is 1 less than 20?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is 1 less than 20?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+What is 1 less than 20?
+
+31. Look at the picture! {user_name} is looking at this.
+What is 1 less than 54?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is 1 less than 54?
+
+33. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+What is 1 less than 54?
+
+34. Look at the picture! {user_name} is looking at this.
+What is 1 less than 90?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is 1 less than 90?
+
+36. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+What is 1 less than 90?
+
+37. Look at the picture! {user_name} is looking at this.
+A frog is on number 38 on a number track. It jumps back 1 space. Which number does it land on?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+A frog is on number 38 on a number track. It jumps back 1 space. Which number does it land on?
+
+39. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A frog is on number 38 on a number track. It jumps back 1 space. Which number does it land on?
+
+40. Look at the picture! {user_name} is looking at this.
+1 less than a secret number is 49. What is the secret number?
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+1 less than a secret number is 49. What is the secret number?
+
+42. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+1 less than a secret number is 49. What is the secret number?
+
+--- Two more ---
+
+43. Look at the picture! {user_name} is looking at this.
+What is 2 more than 4?
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is 2 more than 4?
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+What is 2 more than 4?
+
+46. Look at the picture! {user_name} is looking at this.
+Lily has 7 crayons. Her friend gives her 2 more crayons. How many crayons does Lily have now?
+
+47. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Lily has 7 crayons. Her friend gives her 2 more crayons. How many crayons does Lily have now?
+
+48. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Lily has 7 crayons. Her friend gives her 2 more crayons. How many crayons does Lily have now?
+
+49. Look at the picture! {user_name} is looking at this.
+What is 2 more than 18?
+
+50. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+What is 2 more than 18?
+
+51. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+What is 2 more than 18?
+
+52. Look at the picture! {user_name} is looking at this.
+What is 2 more than 35?
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is 2 more than 35?
+
+54. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+What is 2 more than 35?
+
+55. Look at the picture! {user_name} is looking at this.
+What is 2 more than 89?
+
+56. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is 2 more than 89?
+
+57. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+What is 2 more than 89?
+
+58. Look at the picture! {user_name} is looking at this.
+Start at 62 on a number line and count on 2. What number do you reach?
+
+59. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Start at 62 on a number line and count on 2. What number do you reach?
+
+60. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Start at 62 on a number line and count on 2. What number do you reach?
+
+61. Look at the picture! {user_name} is looking at this.
+Sam thinks of a number. 2 more than his number is 50. What is Sam's number?
+
+62. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Sam thinks of a number. 2 more than his number is 50. What is Sam's number?
+
+63. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Sam thinks of a number. 2 more than his number is 50. What is Sam's number?
+
+--- Two less ---
+
+64. Look at the picture! {user_name} is looking at this.
+What is 2 less than 9?
+
+65. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is 2 less than 9?
+
+66. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+What is 2 less than 9?
+
+67. Look at the picture! {user_name} is looking at this.
+There are 8 birds on a fence. 2 birds fly away. How many birds are left on the fence?
+
+68. Look at the picture! {user_name} and {father_name} are looking at this together.
+There are 8 birds on a fence. 2 birds fly away. How many birds are left on the fence?
+
+69. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+There are 8 birds on a fence. 2 birds fly away. How many birds are left on the fence?
+
+70. Look at the picture! {user_name} is looking at this.
+What is 2 less than 20?
+
+71. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is 2 less than 20?
+
+72. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+What is 2 less than 20?
+
+73. Look at the picture! {user_name} is looking at this.
+What is 2 less than 47?
+
+74. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is 2 less than 47?
+
+75. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+What is 2 less than 47?
+
+76. Look at the picture! {user_name} is looking at this.
+What is 2 less than 71?
+
+77. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is 2 less than 71?
+
+78. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+What is 2 less than 71?
+
+79. Look at the picture! {user_name} is looking at this.
+A counter is on number 83 on a number track. Move it back 2 spaces. Which number does it land on?
+
+80. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A counter is on number 83 on a number track. Move it back 2 spaces. Which number does it land on?
+
+81. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A counter is on number 83 on a number track. Move it back 2 spaces. Which number does it land on?
+
+82. Look at the picture! {user_name} is looking at this.
+2 less than a mystery number is 38. What is the mystery number?
+
+83. Look at the picture! {user_name} and {mother_name} are looking at this together.
+2 less than a mystery number is 38. What is the mystery number?
+
+84. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+2 less than a mystery number is 38. What is the mystery number?

@@ -1,0 +1,117 @@
+###################################
+Sort objects, shapes, and numbers using Venn, Carroll, and tree diagrams
+###################################
+
+--- Venn diagrams ---
+
+1. Look at the picture! {user_name} is looking at this.
+A Venn diagram has two circles. One circle is for 'Red shapes' and the other circle is for 'Squares'. Where do you put a red square: in the red circle only, in the square circle only, or in the middle?
+
+2. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A Venn diagram has two circles. One circle is for 'Red shapes' and the other circle is for 'Squares'. Where do you put a red square: in the red circle only, in the square circle only, or in the middle?
+
+3. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A Venn diagram has two circles. One circle is for 'Red shapes' and the other circle is for 'Squares'. Where do you put a red square: in the red circle only, in the square circle only, or in the middle?
+
+4. Look at the picture! {user_name} is looking at this.
+In a Venn diagram, Circle A is for 'Shapes with curved sides' and Circle B is for 'Shapes with straight sides'. Does a circle belong in Circle A or Circle B?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In a Venn diagram, Circle A is for 'Shapes with curved sides' and Circle B is for 'Shapes with straight sides'. Does a circle belong in Circle A or Circle B?
+
+6. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+In a Venn diagram, Circle A is for 'Shapes with curved sides' and Circle B is for 'Shapes with straight sides'. Does a circle belong in Circle A or Circle B?
+
+7. Look at the picture! {user_name} is looking at this.
+In a Venn diagram, the left circle is for 'Even numbers' and the right circle is for 'Numbers more than 10'. Is the number 16 placed in the left circle only, the right circle only, or in the middle?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In a Venn diagram, the left circle is for 'Even numbers' and the right circle is for 'Numbers more than 10'. Is the number 16 placed in the left circle only, the right circle only, or in the middle?
+
+9. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+In a Venn diagram, the left circle is for 'Even numbers' and the right circle is for 'Numbers more than 10'. Is the number 16 placed in the left circle only, the right circle only, or in the middle?
+
+10. Look at the picture! {user_name} is looking at this.
+A Venn diagram sorts shapes. The left circle has 3 triangles. The right circle has 4 circles. The middle section has 2 blue triangles. How many shapes are in the middle section?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A Venn diagram sorts shapes. The left circle has 3 triangles. The right circle has 4 circles. The middle section has 2 blue triangles. How many shapes are in the middle section?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A Venn diagram sorts shapes. The left circle has 3 triangles. The right circle has 4 circles. The middle section has 2 blue triangles. How many shapes are in the middle section?
+
+--- Carroll diagrams ---
+
+13. Look at the picture! {user_name} is looking at this.
+A Carroll diagram has two rows: 'Even numbers' and 'Odd numbers'. Which row does the number 6 belong in?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A Carroll diagram has two rows: 'Even numbers' and 'Odd numbers'. Which row does the number 6 belong in?
+
+15. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A Carroll diagram has two rows: 'Even numbers' and 'Odd numbers'. Which row does the number 6 belong in?
+
+16. Look at the picture! {user_name} is looking at this.
+A Carroll diagram sorts 2-D shapes using the labels '4 sides' and 'Not 4 sides', and 'Red' and 'Not red'. In which section does a green triangle go: '4 sides and Not red' or 'Not 4 sides and Not red'?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A Carroll diagram sorts 2-D shapes using the labels '4 sides' and 'Not 4 sides', and 'Red' and 'Not red'. In which section does a green triangle go: '4 sides and Not red' or 'Not 4 sides and Not red'?
+
+18. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A Carroll diagram sorts 2-D shapes using the labels '4 sides' and 'Not 4 sides', and 'Red' and 'Not red'. In which section does a green triangle go: '4 sides and Not red' or 'Not 4 sides and Not red'?
+
+19. Look at the picture! {user_name} is looking at this.
+A Carroll diagram sorts numbers into boxes. The box for 'Odd numbers less than 10' contains the numbers 3, 5, and 7. How many numbers are in this box?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+A Carroll diagram sorts numbers into boxes. The box for 'Odd numbers less than 10' contains the numbers 3, 5, and 7. How many numbers are in this box?
+
+21. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A Carroll diagram sorts numbers into boxes. The box for 'Odd numbers less than 10' contains the numbers 3, 5, and 7. How many numbers are in this box?
+
+22. Look at the picture! {user_name} is looking at this.
+A Carroll diagram has columns for 'More than 10' and '10 or less'. Which column does the number 15 belong in?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+A Carroll diagram has columns for 'More than 10' and '10 or less'. Which column does the number 15 belong in?
+
+24. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A Carroll diagram has columns for 'More than 10' and '10 or less'. Which column does the number 15 belong in?
+
+--- Tree diagrams ---
+
+25. Look at the picture! {user_name} is looking at this.
+A sorting tree asks: 'Is the number even?' If Yes, follow the path to Box A. If No, follow the path to Box B. Which box does the number 4 go into?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A sorting tree asks: 'Is the number even?' If Yes, follow the path to Box A. If No, follow the path to Box B. Which box does the number 4 go into?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A sorting tree asks: 'Is the number even?' If Yes, follow the path to Box A. If No, follow the path to Box B. Which box does the number 4 go into?
+
+28. Look at the picture! {user_name} is looking at this.
+A sorting tree asks: 'Is the number greater than 10?' If Yes, go to Branch 1. If No, go to Branch 2. Which branch does the number 8 go to?
+
+29. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A sorting tree asks: 'Is the number greater than 10?' If Yes, go to Branch 1. If No, go to Branch 2. Which branch does the number 8 go to?
+
+30. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A sorting tree asks: 'Is the number greater than 10?' If Yes, go to Branch 1. If No, go to Branch 2. Which branch does the number 8 go to?
+
+31. Look at the picture! {user_name} is looking at this.
+A sorting tree starts with the question: 'Does the shape have straight sides?' If Yes, it asks: 'Does it have 3 sides?' If Yes, you reach Triangle. If No, you reach Rectangle. A square has straight sides and 4 sides. Which shape group does a square go to: Triangle or Rectangle?
+
+32. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A sorting tree starts with the question: 'Does the shape have straight sides?' If Yes, it asks: 'Does it have 3 sides?' If Yes, you reach Triangle. If No, you reach Rectangle. A square has straight sides and 4 sides. Which shape group does a square go to: Triangle or Rectangle?
+
+33. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A sorting tree starts with the question: 'Does the shape have straight sides?' If Yes, it asks: 'Does it have 3 sides?' If Yes, you reach Triangle. If No, you reach Rectangle. A square has straight sides and 4 sides. Which shape group does a square go to: Triangle or Rectangle?
+
+34. Look at the picture! {user_name} is looking at this.
+A sorting tree sorts 3-D shapes. The question is: 'Can it roll?' If Yes, it leads to Sphere. If No, it leads to Cube. Which shape is reached if the answer is No?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A sorting tree sorts 3-D shapes. The question is: 'Can it roll?' If Yes, it leads to Sphere. If No, it leads to Cube. Which shape is reached if the answer is No?
+
+36. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A sorting tree sorts 3-D shapes. The question is: 'Can it roll?' If Yes, it leads to Sphere. If No, it leads to Cube. Which shape is reached if the answer is No?

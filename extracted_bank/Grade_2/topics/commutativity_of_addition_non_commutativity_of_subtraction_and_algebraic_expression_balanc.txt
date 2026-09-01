@@ -1,0 +1,68 @@
+=== Topic: Commutativity of addition, non-commutativity of subtraction, and algebraic expression balance ===
+Domain: Addition and Subtraction
+
+--- Commutativity of addition ---
+
+Question 1: Complete the number sentence to make it correct: 19 + 34 = 34 + ___
+Answer: 19
+Working: Addition is commutative, so the numbers can be added in any order: 19 + 34 = 34 + 19. The missing number is 19.
+
+Question 2: Sam calculates that 28 + 15 = 43. What is 15 + 28?
+Answer: 43
+Working: Because addition can be done in any order (commutative), 15 + 28 gives the same total as 28 + 15, which is 43.
+
+Question 3: Write the missing number to make the addition sentence true: ___ + 47 = 47 + 26
+Answer: 26
+Working: Addition is commutative, so changing the order of the numbers keeps the sum equal. Therefore, 26 + 47 = 47 + 26. The missing number is 26.
+
+Question 4: Hana has 38 blue counters and 14 red counters. Oliver has 14 blue counters and 38 red counters. Hana counts 52 counters in total. How many counters does Oliver have in total?
+Answer: 52
+Working: Hana has 38 + 14 = 52 counters. Oliver has 14 + 38 counters. Since addition is commutative, 14 + 38 = 38 + 14 = 52.
+
+Question 5: Fill in the missing number: 53 + 20 = 20 + ___
+Answer: 53
+Working: Addition can be done in any order, so 53 + 20 is equal to 20 + 53.
+
+--- Non-commutativity of subtraction ---
+
+Question 6: Jack says that 15 - 4 gives the same answer as 4 - 15. Is Jack correct? Write yes or no.
+Answer: no
+Working: Subtraction cannot be done in any order (it is not commutative). 15 - 4 = 11, but 4 - 15 does not equal 11. Therefore, Jack is not correct.
+
+Question 7: Mia has 12 apples and eats 5 of them. Can she work out how many are left by doing 5 - 12? Write yes or no.
+Answer: no
+Working: To find how many are left, she must subtract the amount eaten from the starting amount: 12 - 5. Subtraction is not commutative, so 5 - 12 does not give the correct answer.
+
+Question 8: True or False: You can swap the order of the numbers in a subtraction calculation and get the same answer.
+Answer: False
+Working: Subtraction is not commutative. Swapping the order of the numbers changes the calculation and does not give the same answer.
+
+Question 9: Ella works out 20 - 8 = 12. Tom says that 8 - 20 must also equal 12. Is Tom correct? Write yes or no.
+Answer: no
+Working: Subtraction is not commutative. You cannot subtract 20 from 8 to get 12.
+
+--- Algebraic expression balance ---
+
+Question 10: Find the missing number to make both sides equal: 12 + 8 = 10 + ___
+Answer: 10
+Working: The left side equals 12 + 8 = 20. The right side must also equal 20. 10 + 10 = 20, so the missing number is 10.
+
+Question 11: Find the missing number to make the calculation balance: 14 + 6 = ___ + 11
+Answer: 9
+Working: First calculate 14 + 6 = 20. The right side must also equal 20. 20 - 11 = 9, so the missing number is 9.
+
+Question 12: What number makes both sides equal? 25 + 15 = 30 + ___
+Answer: 10
+Working: Left side: 25 + 15 = 40. Right side must equal 40. 30 + 10 = 40, so the missing number is 10.
+
+Question 13: Find the missing number to make this number sentence true: 7 + 9 = 20 - ___
+Answer: 4
+Working: Left side: 7 + 9 = 16. Right side must also equal 16. 20 - 4 = 16, so the missing number is 4.
+
+Question 14: A balance scale has weights of 8 g and 7 g in the left pan. The right pan has a 5 g weight and one missing weight. Both pans balance. How many grams is the missing weight?
+Answer: 10
+Working: The left pan has a total mass of 8 + 7 = 15 g. The right pan must also equal 15 g. 15 - 5 = 10, so the missing weight is 10 g.
+
+Question 15: Work out the missing number to balance the sides: 16 + 4 = 8 + ___
+Answer: 12
+Working: 16 + 4 = 20. To make the other side equal 20, subtract 8 from 20: 20 - 8 = 12. The missing number is 12.

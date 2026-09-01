@@ -1,0 +1,76 @@
+=== Topic: Describe position, direction, and movement (left, right, up, down, between) ===
+Domain: Geometry: Position and Direction
+
+--- Left ---
+
+Question 1: A red counter is placed on the left side of a table and a blue counter is placed on the right side. Which colour counter is on the left?
+Answer: red
+Working: The red counter is on the left side of the table.
+
+Question 2: Three toys are placed in a row: a car, a doll, and a ball. The car is on the left, the doll is in the middle, and the ball is on the right. Which toy is on the left?
+Answer: car
+Working: The car is on the left of the row.
+
+Question 3: Sam is facing forwards. He takes two steps towards his left hand side. Which direction did Sam move: left or right?
+Answer: left
+Working: Moving towards his left hand side means Sam moved left.
+
+--- Right ---
+
+Question 4: On a desk, an apple is on the left and an orange is on the right. Which fruit is on the right?
+Answer: orange
+Working: The orange is on the right.
+
+Question 5: Ava holds a pencil in her right hand and a rubber in her left hand. Which hand is holding the pencil?
+Answer: right hand
+Working: Ava holds the pencil in her right hand.
+
+Question 6: Three animals stand in a line: a cat on the left, a dog in the middle, and a rabbit on the right. Which animal is on the right?
+Answer: rabbit
+Working: The rabbit is positioned on the right of the line.
+
+--- Up ---
+
+Question 7: A balloon lets go and floats towards the sky. Is the balloon moving up or down?
+Answer: up
+Working: Floating towards the sky means moving up.
+
+Question 8: An ant climbs from the bottom of a plant stem towards a flower at the top. Is the ant climbing up or down?
+Answer: up
+Working: Moving from the bottom to the top is climbing up.
+
+Question 9: On a ladder, rung 1 is on the ground and rung 5 is at the top. Moving from rung 2 to rung 4 is moving in which direction: up or down?
+Answer: up
+Working: Rung 4 is higher than rung 2, so the movement is up.
+
+--- Down ---
+
+Question 10: An acorn falls from a high branch to the grass below. Is the acorn moving up or down?
+Answer: down
+Working: Falling to the grass below means the acorn is moving down.
+
+Question 11: Mia sits at the top of a slide and slides to the bottom. Is Mia moving up or down?
+Answer: down
+Working: Moving from the top to the bottom means moving down.
+
+Question 12: A lift travels from the 3rd floor to the ground floor. Is the lift travelling up or down?
+Answer: down
+Working: Travelling from the 3rd floor to the ground floor is moving down.
+
+--- Between ---
+
+Question 13: In a row of shapes, there is a circle, a square, and a triangle. The square is in the middle of the circle and the triangle. Which shape is between the circle and the triangle?
+Answer: square
+Working: The square is in the middle, so it is between the circle and the triangle.
+
+Question 14: Ella is on the left, Liam is in the middle, and Noah is on the right. Who is sitting between Ella and Noah?
+Answer: Liam
+Working: Liam is in the middle, so Liam is between Ella and Noah.
+
+Question 15: On a number track, which whole number is between 6 and 8?
+Answer: 7
+Working: Counting forwards: 6, 7, 8. The number between 6 and 8 is 7.
+
+Question 16: On a shelf, a blue book is on the left, a green book is in the middle, and a yellow book is on the right. Which book is between the blue book and the yellow book?
+Answer: green book
+Working: The green book is in the middle, so it is between the blue and yellow books.

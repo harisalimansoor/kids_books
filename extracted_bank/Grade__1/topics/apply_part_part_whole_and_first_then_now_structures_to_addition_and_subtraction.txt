@@ -1,0 +1,62 @@
+=== Topic: Apply part-part-whole and "First, Then, Now" structures to addition and subtraction ===
+Domain: Addition and Subtraction
+
+--- Part-part-whole structure ---
+
+Question 1: In a part-whole model, the two parts are 4 and 3. What is the whole?
+Answer: 7
+Working: 4 + 3 = 7
+
+Question 2: In a part-whole model, the whole is 8. One part is 5. What is the missing part?
+Answer: 3
+Working: 8 − 5 = 3
+
+Question 3: There are 10 apples in a bowl altogether. 6 apples are green and the rest are red. How many red apples are in the bowl?
+Answer: 4
+Working: 10 − 6 = 4
+
+Question 4: In a part-whole model, the whole is 16. One part is 10. What is the other part?
+Answer: 6
+Working: 16 − 10 = 6
+
+Question 5: In a part-whole model, the whole is 15. One part is 9. What is the missing part?
+Answer: 6
+Working: 15 − 9 = 6
+
+Question 6: In a part-whole model, there are three parts: 3, 4, and 5. What is the whole?
+Answer: 12
+Working: 3 + 4 + 5 = 12
+
+Question 7: A box has 20 counters in total. 12 counters are blue and the rest are yellow. How many counters are yellow?
+Answer: 8
+Working: 20 − 12 = 8
+
+--- "First, Then, Now" structure ---
+
+Question 8: First, there were 5 birds on a fence. Then, 3 more birds landed on the fence. How many birds are on the fence now?
+Answer: 8
+Working: 5 + 3 = 8
+
+Question 9: First, there were 9 frogs on a log. Then, 4 frogs jumped into the water. How many frogs are on the log now?
+Answer: 5
+Working: 9 − 4 = 5
+
+Question 10: First, there were 8 children on a bus. Then, 6 more children got on the bus. How many children are on the bus now?
+Answer: 14
+Working: 8 + 6 = 14
+
+Question 11: First, there were 15 biscuits on a plate. Then, Jack ate 7 biscuits. How many biscuits are on the plate now?
+Answer: 8
+Working: 15 − 7 = 8
+
+Question 12: First, there were 7 ducks in a pond. Then, some more ducks joined them. Now, there are 11 ducks in the pond. How many ducks joined them?
+Answer: 4
+Working: 11 − 7 = 4
+
+Question 13: First, there were some bees on a flower. Then, 5 bees flew away. Now, there are 8 bees left on the flower. How many bees were on the flower at first?
+Answer: 13
+Working: 8 + 5 = 13
+
+Question 14: First, there were 18 pencils in a pot. Then, the teacher took some pencils out. Now, there are 9 pencils in the pot. How many pencils did the teacher take out?
+Answer: 9
+Working: 18 − 9 = 9

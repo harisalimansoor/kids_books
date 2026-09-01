@@ -1,0 +1,317 @@
+###################################
+Seconds in a minute, reading the second hand, estimating short durations, and comparing timings
+###################################
+
+--- Seconds in a minute ---
+
+1. Look at the picture! {user_name} is looking at this.
+How many seconds are in 1 minute?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many seconds are in 1 minute?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+How many seconds are in 1 minute?
+
+4. Look at the picture! {user_name} is looking at this.
+How many seconds are in half a minute?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many seconds are in half a minute?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+How many seconds are in half a minute?
+
+7. Look at the picture! {user_name} is looking at this.
+How many seconds are there in 2 minutes?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many seconds are there in 2 minutes?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+How many seconds are there in 2 minutes?
+
+10. Look at the picture! {user_name} is looking at this.
+How many seconds are there in 3 minutes?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many seconds are there in 3 minutes?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+How many seconds are there in 3 minutes?
+
+13. Look at the picture! {user_name} is looking at this.
+A song plays for 1 minute and 20 seconds. How many seconds is this in total?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A song plays for 1 minute and 20 seconds. How many seconds is this in total?
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A song plays for 1 minute and 20 seconds. How many seconds is this in total?
+
+16. Look at the picture! {user_name} is looking at this.
+Convert 1 minute and 45 seconds into seconds.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Convert 1 minute and 45 seconds into seconds.
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Convert 1 minute and 45 seconds into seconds.
+
+19. Look at the picture! {user_name} is looking at this.
+A sand timer runs for 90 seconds. Write this time in minutes and seconds.
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+A sand timer runs for 90 seconds. Write this time in minutes and seconds.
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A sand timer runs for 90 seconds. Write this time in minutes and seconds.
+
+22. Look at the picture! {user_name} is looking at this.
+A runner completed an obstacle course in 100 seconds. Write this duration in minutes and seconds.
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A runner completed an obstacle course in 100 seconds. Write this duration in minutes and seconds.
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A runner completed an obstacle course in 100 seconds. Write this duration in minutes and seconds.
+
+25. Look at the picture! {user_name} is looking at this.
+How many seconds are there in quarter of a minute?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many seconds are there in quarter of a minute?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+How many seconds are there in quarter of a minute?
+
+--- Reading the second hand ---
+
+28. Look at the picture! {user_name} is looking at this.
+The second hand on a clock points directly to the number 4. How many seconds past the minute is this?
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+The second hand on a clock points directly to the number 4. How many seconds past the minute is this?
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+The second hand on a clock points directly to the number 4. How many seconds past the minute is this?
+
+31. Look at the picture! {user_name} is looking at this.
+The second hand on a clock face points directly to the number 7. How many seconds have passed since the start of the minute?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The second hand on a clock face points directly to the number 7. How many seconds have passed since the start of the minute?
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+The second hand on a clock face points directly to the number 7. How many seconds have passed since the start of the minute?
+
+34. Look at the picture! {user_name} is looking at this.
+The second hand points directly to the number 10. How many seconds have passed in the current minute?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The second hand points directly to the number 10. How many seconds have passed in the current minute?
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+The second hand points directly to the number 10. How many seconds have passed in the current minute?
+
+37. Look at the picture! {user_name} is looking at this.
+The second hand starts at the 12 and moves clockwise to the number 9. How many seconds have passed?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The second hand starts at the 12 and moves clockwise to the number 9. How many seconds have passed?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+The second hand starts at the 12 and moves clockwise to the number 9. How many seconds have passed?
+
+40. Look at the picture! {user_name} is looking at this.
+The second hand starts at the number 3 and moves clockwise to the number 8. How many seconds did it take to move between these numbers?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The second hand starts at the number 3 and moves clockwise to the number 8. How many seconds did it take to move between these numbers?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+The second hand starts at the number 3 and moves clockwise to the number 8. How many seconds did it take to move between these numbers?
+
+43. Look at the picture! {user_name} is looking at this.
+The second hand on a clock is pointing 2 tick marks past the number 5. How many seconds past the minute is this?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+The second hand on a clock is pointing 2 tick marks past the number 5. How many seconds past the minute is this?
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+The second hand on a clock is pointing 2 tick marks past the number 5. How many seconds past the minute is this?
+
+46. Look at the picture! {user_name} is looking at this.
+The second hand on a clock is pointing 4 tick marks past the number 8. How many seconds past the minute is this?
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+The second hand on a clock is pointing 4 tick marks past the number 8. How many seconds past the minute is this?
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+The second hand on a clock is pointing 4 tick marks past the number 8. How many seconds past the minute is this?
+
+49. Look at the picture! {user_name} is looking at this.
+The second hand on a clock is pointing 1 tick mark before the number 6. How many seconds past the minute is this?
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+The second hand on a clock is pointing 1 tick mark before the number 6. How many seconds past the minute is this?
+
+51. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+The second hand on a clock is pointing 1 tick mark before the number 6. How many seconds past the minute is this?
+
+52. Look at the picture! {user_name} is looking at this.
+How many seconds does it take for the second hand to make one complete turn around the clock face?
+
+53. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many seconds does it take for the second hand to make one complete turn around the clock face?
+
+54. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+How many seconds does it take for the second hand to make one complete turn around the clock face?
+
+--- Estimating short durations ---
+
+55. Look at the picture! {user_name} is looking at this.
+Which unit of time is most sensible to measure the time it takes to blink your eyes: seconds, minutes, or hours?
+
+56. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Which unit of time is most sensible to measure the time it takes to blink your eyes: seconds, minutes, or hours?
+
+57. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Which unit of time is most sensible to measure the time it takes to blink your eyes: seconds, minutes, or hours?
+
+58. Look at the picture! {user_name} is looking at this.
+Which unit of time is most sensible to measure the time it takes to walk from one end of a classroom to the other: seconds, minutes, or hours?
+
+59. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Which unit of time is most sensible to measure the time it takes to walk from one end of a classroom to the other: seconds, minutes, or hours?
+
+60. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Which unit of time is most sensible to measure the time it takes to walk from one end of a classroom to the other: seconds, minutes, or hours?
+
+61. Look at the picture! {user_name} is looking at this.
+Which is the most sensible estimate for tying your shoelaces: 25 seconds, 25 minutes, or 25 hours?
+
+62. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which is the most sensible estimate for tying your shoelaces: 25 seconds, 25 minutes, or 25 hours?
+
+63. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Which is the most sensible estimate for tying your shoelaces: 25 seconds, 25 minutes, or 25 hours?
+
+64. Look at the picture! {user_name} is looking at this.
+Which is the most sensible estimate for brushing your teeth properly: 2 seconds, 2 minutes, or 2 hours?
+
+65. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which is the most sensible estimate for brushing your teeth properly: 2 seconds, 2 minutes, or 2 hours?
+
+66. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Which is the most sensible estimate for brushing your teeth properly: 2 seconds, 2 minutes, or 2 hours?
+
+67. Look at the picture! {user_name} is looking at this.
+Which is the most sensible estimate for drinking a small cup of water: 10 seconds, 10 minutes, or 10 hours?
+
+68. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which is the most sensible estimate for drinking a small cup of water: 10 seconds, 10 minutes, or 10 hours?
+
+69. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Which is the most sensible estimate for drinking a small cup of water: 10 seconds, 10 minutes, or 10 hours?
+
+70. Look at the picture! {user_name} is looking at this.
+Which unit of time is most sensible to measure the time it takes to sneeze: seconds, minutes, or hours?
+
+71. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which unit of time is most sensible to measure the time it takes to sneeze: seconds, minutes, or hours?
+
+72. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Which unit of time is most sensible to measure the time it takes to sneeze: seconds, minutes, or hours?
+
+73. Look at the picture! {user_name} is looking at this.
+Which is the most sensible estimate to write your full name neatly: 15 seconds, 15 minutes, or 15 hours?
+
+74. Look at the picture! {user_name} and {father_name} are looking at this together.
+Which is the most sensible estimate to write your full name neatly: 15 seconds, 15 minutes, or 15 hours?
+
+75. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Which is the most sensible estimate to write your full name neatly: 15 seconds, 15 minutes, or 15 hours?
+
+76. Look at the picture! {user_name} is looking at this.
+Which unit of time is most sensible to measure how long a school lunch break lasts: seconds, minutes, or hours?
+
+77. Look at the picture! {user_name} and {father_name} are looking at this together.
+Which unit of time is most sensible to measure how long a school lunch break lasts: seconds, minutes, or hours?
+
+78. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Which unit of time is most sensible to measure how long a school lunch break lasts: seconds, minutes, or hours?
+
+--- Comparing timings ---
+
+79. Look at the picture! {user_name} is looking at this.
+In a 60-metre sprint, Aaron finished in 31 seconds and Ben finished in 27 seconds. Who was faster?
+
+80. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a 60-metre sprint, Aaron finished in 31 seconds and Ben finished in 27 seconds. Who was faster?
+
+81. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+In a 60-metre sprint, Aaron finished in 31 seconds and Ben finished in 27 seconds. Who was faster?
+
+82. Look at the picture! {user_name} is looking at this.
+Clara finished a spelling task in 48 seconds. Isla finished the same task in 55 seconds. How many seconds faster was Clara than Isla?
+
+83. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Clara finished a spelling task in 48 seconds. Isla finished the same task in 55 seconds. How many seconds faster was Clara than Isla?
+
+84. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Clara finished a spelling task in 48 seconds. Isla finished the same task in 55 seconds. How many seconds faster was Clara than Isla?
+
+85. Look at the picture! {user_name} is looking at this.
+Ruby hopped for 1 minute and 10 seconds. Freya hopped for 65 seconds. Who hopped for longer?
+
+86. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Ruby hopped for 1 minute and 10 seconds. Freya hopped for 65 seconds. Who hopped for longer?
+
+87. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Ruby hopped for 1 minute and 10 seconds. Freya hopped for 65 seconds. Who hopped for longer?
+
+88. Look at the picture! {user_name} is looking at this.
+Four children ran a 100-metre race. Their times were: Kai (24 seconds), Lucas (19 seconds), Mason (22 seconds), and Noah (20 seconds). List the children in order from fastest to slowest.
+
+89. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Four children ran a 100-metre race. Their times were: Kai (24 seconds), Lucas (19 seconds), Mason (22 seconds), and Noah (20 seconds). List the children in order from fastest to slowest.
+
+90. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Four children ran a 100-metre race. Their times were: Kai (24 seconds), Lucas (19 seconds), Mason (22 seconds), and Noah (20 seconds). List the children in order from fastest to slowest.
+
+91. Look at the picture! {user_name} is looking at this.
+David took 1 minute and 15 seconds to solve a riddle. George took 80 seconds. How many seconds quicker was David than George?
+
+92. Look at the picture! {user_name} and {mother_name} are looking at this together.
+David took 1 minute and 15 seconds to solve a riddle. George took 80 seconds. How many seconds quicker was David than George?
+
+93. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+David took 1 minute and 15 seconds to solve a riddle. George took 80 seconds. How many seconds quicker was David than George?
+
+94. Look at the picture! {user_name} is looking at this.
+A swimming race was completed by Harry in 52 seconds and by James in 1 minute and 3 seconds. What is the difference between their times in seconds?
+
+95. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A swimming race was completed by Harry in 52 seconds and by James in 1 minute and 3 seconds. What is the difference between their times in seconds?
+
+96. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A swimming race was completed by Harry in 52 seconds and by James in 1 minute and 3 seconds. What is the difference between their times in seconds?
+
+97. Look at the picture! {user_name} is looking at this.
+Hannah washed her hands for 25 seconds. Jack washed his hands for half a minute. Who washed their hands for longer?
+
+98. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Hannah washed her hands for 25 seconds. Jack washed his hands for half a minute. Who washed their hands for longer?
+
+99. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Hannah washed her hands for 25 seconds. Jack washed his hands for half a minute. Who washed their hands for longer?
+
+100. Look at the picture! {user_name} is looking at this.
+In a running race, Poppy finished in 58 seconds and Grace finished in 1 minute and 6 seconds. How many seconds faster was Poppy than Grace?
+
+101. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In a running race, Poppy finished in 58 seconds and Grace finished in 1 minute and 6 seconds. How many seconds faster was Poppy than Grace?
+
+102. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+In a running race, Poppy finished in 58 seconds and Grace finished in 1 minute and 6 seconds. How many seconds faster was Poppy than Grace?

@@ -1,0 +1,171 @@
+###################################
+Solving money problems involving addition, subtraction, and giving change
+###################################
+
+--- Solving money problems involving addition ---
+
+1. Look at the picture! {user_name} is looking at this.
+A rubber costs 20p and a pencil costs 30p. How much do they cost altogether?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rubber costs 20p and a pencil costs 30p. How much do they cost altogether?
+
+3. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A rubber costs 20p and a pencil costs 30p. How much do they cost altogether?
+
+4. Look at the picture! {user_name} is looking at this.
+Maya buys a notebook for 45p and a ruler for 28p. How much does she spend in total?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Maya buys a notebook for 45p and a ruler for 28p. How much does she spend in total?
+
+6. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Maya buys a notebook for 45p and a ruler for 28p. How much does she spend in total?
+
+7. Look at the picture! {user_name} is looking at this.
+Sam has £14. His granny gives him £25 for his birthday. How much money does Sam have now?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+Sam has £14. His granny gives him £25 for his birthday. How much money does Sam have now?
+
+9. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Sam has £14. His granny gives him £25 for his birthday. How much money does Sam have now?
+
+10. Look at the picture! {user_name} is looking at this.
+A toy car costs £18 and a book costs £12. How much do both items cost altogether?
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A toy car costs £18 and a book costs £12. How much do both items cost altogether?
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A toy car costs £18 and a book costs £12. How much do both items cost altogether?
+
+13. Look at the picture! {user_name} is looking at this.
+Leo buys an apple for 34p, a banana for 26p, and a sticker for 15p. What is the total cost?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Leo buys an apple for 34p, a banana for 26p, and a sticker for 15p. What is the total cost?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Leo buys an apple for 34p, a banana for 26p, and a sticker for 15p. What is the total cost?
+
+16. Look at the picture! {user_name} is looking at this.
+Ben buys two packs of stickers. Each pack costs 35p. How much does he pay altogether?
+
+17. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Ben buys two packs of stickers. Each pack costs 35p. How much does he pay altogether?
+
+18. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Ben buys two packs of stickers. Each pack costs 35p. How much does he pay altogether?
+
+--- Solving money problems involving subtraction ---
+
+19. Look at the picture! {user_name} is looking at this.
+Nina has 60p. She spends 20p on a sticker. How much money does she have left?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Nina has 60p. She spends 20p on a sticker. How much money does she have left?
+
+21. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Nina has 60p. She spends 20p on a sticker. How much money does she have left?
+
+22. Look at the picture! {user_name} is looking at this.
+Jack has 85p. He spends 37p on a postcard. How much money does Jack have left?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Jack has 85p. He spends 37p on a postcard. How much money does Jack have left?
+
+24. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Jack has 85p. He spends 37p on a postcard. How much money does Jack have left?
+
+25. Look at the picture! {user_name} is looking at this.
+A comic costs £15. A colouring book costs £8. How much more does the comic cost than the colouring book?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A comic costs £15. A colouring book costs £8. How much more does the comic cost than the colouring book?
+
+27. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A comic costs £15. A colouring book costs £8. How much more does the comic cost than the colouring book?
+
+28. Look at the picture! {user_name} is looking at this.
+Oliver has £50. He buys a jacket for £38. How much money does he have left?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Oliver has £50. He buys a jacket for £38. How much money does he have left?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Oliver has £50. He buys a jacket for £38. How much money does he have left?
+
+31. Look at the picture! {user_name} is looking at this.
+Amy has 92p. She buys a pen for 46p. How much money does she have left?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+Amy has 92p. She buys a pen for 46p. How much money does she have left?
+
+33. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Amy has 92p. She buys a pen for 46p. How much money does she have left?
+
+34. Look at the picture! {user_name} is looking at this.
+Freya has 75p. A badge costs 48p. How much more money does Freya have than the cost of the badge?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+Freya has 75p. A badge costs 48p. How much more money does Freya have than the cost of the badge?
+
+36. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Freya has 75p. A badge costs 48p. How much more money does Freya have than the cost of the badge?
+
+--- Giving change ---
+
+37. Look at the picture! {user_name} is looking at this.
+An apple costs 30p. Priya pays with a 50p coin. How much change does she get?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+An apple costs 30p. Priya pays with a 50p coin. How much change does she get?
+
+39. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+An apple costs 30p. Priya pays with a 50p coin. How much change does she get?
+
+40. Look at the picture! {user_name} is looking at this.
+A felt-tip pen costs 65p. Tom pays with a £1 coin. How much change does he get?
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A felt-tip pen costs 65p. Tom pays with a £1 coin. How much change does he get?
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A felt-tip pen costs 65p. Tom pays with a £1 coin. How much change does he get?
+
+43. Look at the picture! {user_name} is looking at this.
+Ella buys a ribbon for 82p. She pays with a £1 coin. How much change should she receive?
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Ella buys a ribbon for 82p. She pays with a £1 coin. How much change should she receive?
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Ella buys a ribbon for 82p. She pays with a £1 coin. How much change should she receive?
+
+46. Look at the picture! {user_name} is looking at this.
+Harry buys a toy dinosaur for £7. He pays with a £10 note. How much change does he get?
+
+47. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Harry buys a toy dinosaur for £7. He pays with a £10 note. How much change does he get?
+
+48. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Harry buys a toy dinosaur for £7. He pays with a £10 note. How much change does he get?
+
+49. Look at the picture! {user_name} is looking at this.
+Mia buys a sticker for 45p and a pencil for 25p. She pays with a £1 coin. How much change does she get?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Mia buys a sticker for 45p and a pencil for 25p. She pays with a £1 coin. How much change does she get?
+
+51. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Mia buys a sticker for 45p and a pencil for 25p. She pays with a £1 coin. How much change does she get?
+
+52. Look at the picture! {user_name} is looking at this.
+Jacob buys a board game for £14. He pays with a £20 note. How much change does he receive?
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Jacob buys a board game for £14. He pays with a £20 note. How much change does he receive?
+
+54. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Jacob buys a board game for £14. He pays with a £20 note. How much change does he receive?

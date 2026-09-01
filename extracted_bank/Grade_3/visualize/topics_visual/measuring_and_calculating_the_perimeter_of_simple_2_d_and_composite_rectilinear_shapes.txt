@@ -1,0 +1,151 @@
+###################################
+Measuring and calculating the perimeter of simple 2-D and composite rectilinear shapes
+###################################
+
+--- Perimeter of simple 2-D shapes ---
+
+1. Look at the picture! {user_name} is looking at this.
+A triangle has sides of length 7 cm, 8 cm, and 9 cm. What is the perimeter of the triangle?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A triangle has sides of length 7 cm, 8 cm, and 9 cm. What is the perimeter of the triangle?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A triangle has sides of length 7 cm, 8 cm, and 9 cm. What is the perimeter of the triangle?
+
+4. Look at the picture! {user_name} is looking at this.
+A rectangle has a length of 14 cm and a width of 6 cm. What is the perimeter of the rectangle?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectangle has a length of 14 cm and a width of 6 cm. What is the perimeter of the rectangle?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A rectangle has a length of 14 cm and a width of 6 cm. What is the perimeter of the rectangle?
+
+7. Look at the picture! {user_name} is looking at this.
+A square has sides of length 8 cm. What is the perimeter of the square?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A square has sides of length 8 cm. What is the perimeter of the square?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A square has sides of length 8 cm. What is the perimeter of the square?
+
+10. Look at the picture! {user_name} is looking at this.
+An equilateral triangle has 3 equal sides. Each side is 12 cm long. What is the perimeter of the triangle?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+An equilateral triangle has 3 equal sides. Each side is 12 cm long. What is the perimeter of the triangle?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+An equilateral triangle has 3 equal sides. Each side is 12 cm long. What is the perimeter of the triangle?
+
+13. Look at the picture! {user_name} is looking at this.
+A rectangular playground is 25 m long and 15 m wide. What is the perimeter of the playground?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectangular playground is 25 m long and 15 m wide. What is the perimeter of the playground?
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A rectangular playground is 25 m long and 15 m wide. What is the perimeter of the playground?
+
+16. Look at the picture! {user_name} is looking at this.
+A regular octagon has 8 equal sides. Each side is 4 cm long. What is the perimeter of the octagon?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A regular octagon has 8 equal sides. Each side is 4 cm long. What is the perimeter of the octagon?
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A regular octagon has 8 equal sides. Each side is 4 cm long. What is the perimeter of the octagon?
+
+19. Look at the picture! {user_name} is looking at this.
+A square picture frame has a total perimeter of 36 cm. What is the length of one side of the frame?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+A square picture frame has a total perimeter of 36 cm. What is the length of one side of the frame?
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A square picture frame has a total perimeter of 36 cm. What is the length of one side of the frame?
+
+22. Look at the picture! {user_name} is looking at this.
+An isosceles triangle has two sides of length 15 cm and one side of length 10 cm. What is the perimeter of the triangle?
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An isosceles triangle has two sides of length 15 cm and one side of length 10 cm. What is the perimeter of the triangle?
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+An isosceles triangle has two sides of length 15 cm and one side of length 10 cm. What is the perimeter of the triangle?
+
+25. Look at the picture! {user_name} is looking at this.
+A rectangular sports pitch is 18 m long and 12 m wide. A pupil runs 3 complete laps around the perimeter of the pitch. What is the total distance the pupil runs?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A rectangular sports pitch is 18 m long and 12 m wide. A pupil runs 3 complete laps around the perimeter of the pitch. What is the total distance the pupil runs?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A rectangular sports pitch is 18 m long and 12 m wide. A pupil runs 3 complete laps around the perimeter of the pitch. What is the total distance the pupil runs?
+
+--- Perimeter of composite rectilinear shapes ---
+
+28. Look at the picture! {user_name} is looking at this.
+An L-shaped room has 6 straight sides. The lengths of the sides are 8 m, 3 m, 5 m, 4 m, 3 m, and 7 m. What is the perimeter of the room?
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+An L-shaped room has 6 straight sides. The lengths of the sides are 8 m, 3 m, 5 m, 4 m, 3 m, and 7 m. What is the perimeter of the room?
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+An L-shaped room has 6 straight sides. The lengths of the sides are 8 m, 3 m, 5 m, 4 m, 3 m, and 7 m. What is the perimeter of the room?
+
+31. Look at the picture! {user_name} is looking at this.
+A composite rectilinear shape has 6 sides measuring 12 cm, 4 cm, 6 cm, 5 cm, 6 cm, and 9 cm. What is the perimeter of the shape?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A composite rectilinear shape has 6 sides measuring 12 cm, 4 cm, 6 cm, 5 cm, 6 cm, and 9 cm. What is the perimeter of the shape?
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A composite rectilinear shape has 6 sides measuring 12 cm, 4 cm, 6 cm, 5 cm, 6 cm, and 9 cm. What is the perimeter of the shape?
+
+34. Look at the picture! {user_name} is looking at this.
+A flowerbed is made in a rectilinear shape with 6 straight edges. The edge lengths are 10 m, 4 m, 6 m, 3 m, 4 m, and 7 m. What is the perimeter of the flowerbed?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A flowerbed is made in a rectilinear shape with 6 straight edges. The edge lengths are 10 m, 4 m, 6 m, 3 m, 4 m, and 7 m. What is the perimeter of the flowerbed?
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A flowerbed is made in a rectilinear shape with 6 straight edges. The edge lengths are 10 m, 4 m, 6 m, 3 m, 4 m, and 7 m. What is the perimeter of the flowerbed?
+
+37. Look at the picture! {user_name} is looking at this.
+A rectilinear playground has 6 boundary sides measuring 20 m, 8 m, 12 m, 6 m, 8 m, and 14 m. What is the perimeter of the playground?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectilinear playground has 6 boundary sides measuring 20 m, 8 m, 12 m, 6 m, 8 m, and 14 m. What is the perimeter of the playground?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A rectilinear playground has 6 boundary sides measuring 20 m, 8 m, 12 m, 6 m, 8 m, and 14 m. What is the perimeter of the playground?
+
+40. Look at the picture! {user_name} is looking at this.
+A wooden block has a composite rectilinear face with 6 outer edges of lengths 11 cm, 6 cm, 4 cm, 3 cm, 7 cm, and 9 cm. What is the perimeter of the face?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A wooden block has a composite rectilinear face with 6 outer edges of lengths 11 cm, 6 cm, 4 cm, 3 cm, 7 cm, and 9 cm. What is the perimeter of the face?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A wooden block has a composite rectilinear face with 6 outer edges of lengths 11 cm, 6 cm, 4 cm, 3 cm, 7 cm, and 9 cm. What is the perimeter of the face?
+
+43. Look at the picture! {user_name} is looking at this.
+An L-shaped swimming pool has outer sides measuring 16 m, 6 m, 10 m, 4 m, 6 m, and 10 m. A swimmer walks 2 full laps around the edge of the pool. What is the total distance walked?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+An L-shaped swimming pool has outer sides measuring 16 m, 6 m, 10 m, 4 m, 6 m, and 10 m. A swimmer walks 2 full laps around the edge of the pool. What is the total distance walked?
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+An L-shaped swimming pool has outer sides measuring 16 m, 6 m, 10 m, 4 m, 6 m, and 10 m. A swimmer walks 2 full laps around the edge of the pool. What is the total distance walked?
+
+46. Look at the picture! {user_name} is looking at this.
+A rectilinear classroom display board has 6 straight edges measuring 14 cm, 5 cm, 8 cm, 3 cm, 6 cm, and 8 cm. A teacher puts a ribbon border 4 times around the perimeter of the board. What is the total length of ribbon used?
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+A rectilinear classroom display board has 6 straight edges measuring 14 cm, 5 cm, 8 cm, 3 cm, 6 cm, and 8 cm. A teacher puts a ribbon border 4 times around the perimeter of the board. What is the total length of ribbon used?
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A rectilinear classroom display board has 6 straight edges measuring 14 cm, 5 cm, 8 cm, 3 cm, 6 cm, and 8 cm. A teacher puts a ribbon border 4 times around the perimeter of the board. What is the total length of ribbon used?

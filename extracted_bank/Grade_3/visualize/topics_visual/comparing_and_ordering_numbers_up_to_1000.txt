@@ -1,0 +1,151 @@
+###################################
+Comparing and ordering numbers up to 1000
+###################################
+
+--- Comparing numbers up to 1000 ---
+
+1. Look at the picture! {user_name} is looking at this.
+Write the correct symbol, < or >, to make this statement true: 348 [?] 384
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the correct symbol, < or >, to make this statement true: 348 [?] 384
+
+3. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Write the correct symbol, < or >, to make this statement true: 348 [?] 384
+
+4. Look at the picture! {user_name} is looking at this.
+Which number is greater: 507 or 570?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Which number is greater: 507 or 570?
+
+6. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Which number is greater: 507 or 570?
+
+7. Look at the picture! {user_name} is looking at this.
+Write <, > or = to make the statement true: 4 hundreds + 6 tens + 2 ones [?] 400 + 70 + 1
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write <, > or = to make the statement true: 4 hundreds + 6 tens + 2 ones [?] 400 + 70 + 1
+
+9. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Write <, > or = to make the statement true: 4 hundreds + 6 tens + 2 ones [?] 400 + 70 + 1
+
+10. Look at the picture! {user_name} is looking at this.
+Oak Class collected 615 cans for recycling. Elm Class collected 598 cans. Which class collected more cans?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+Oak Class collected 615 cans for recycling. Elm Class collected 598 cans. Which class collected more cans?
+
+12. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Oak Class collected 615 cans for recycling. Elm Class collected 598 cans. Which class collected more cans?
+
+13. Look at the picture! {user_name} is looking at this.
+Write the missing whole number to make the statement true: 529 < ___ < 531
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write the missing whole number to make the statement true: 529 < ___ < 531
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Write the missing whole number to make the statement true: 529 < ___ < 531
+
+16. Look at the picture! {user_name} is looking at this.
+Sam uses the digit cards 3, 7, and 5 once each to make a 3-digit number. What is the greatest 3-digit number Sam can make?
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Sam uses the digit cards 3, 7, and 5 once each to make a 3-digit number. What is the greatest 3-digit number Sam can make?
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Sam uses the digit cards 3, 7, and 5 once each to make a 3-digit number. What is the greatest 3-digit number Sam can make?
+
+19. Look at the picture! {user_name} is looking at this.
+Write the correct symbol, <, > or =, to make this statement true: 8 hundreds + 14 ones [?] 800 + 10 + 4
+
+20. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Write the correct symbol, <, > or =, to make this statement true: 8 hundreds + 14 ones [?] 800 + 10 + 4
+
+21. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Write the correct symbol, <, > or =, to make this statement true: 8 hundreds + 14 ones [?] 800 + 10 + 4
+
+22. Look at the picture! {user_name} is looking at this.
+A runner ran 845 metres on Saturday and 854 metres on Sunday. On which day did the runner run the greater distance?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A runner ran 845 metres on Saturday and 854 metres on Sunday. On which day did the runner run the greater distance?
+
+24. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A runner ran 845 metres on Saturday and 854 metres on Sunday. On which day did the runner run the greater distance?
+
+--- Ordering numbers up to 1000 ---
+
+25. Look at the picture! {user_name} is looking at this.
+Write these numbers in order, starting with the smallest: 245, 189, 312
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write these numbers in order, starting with the smallest: 245, 189, 312
+
+27. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Write these numbers in order, starting with the smallest: 245, 189, 312
+
+28. Look at the picture! {user_name} is looking at this.
+Write these numbers in order, starting with the greatest: 670, 760, 607
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write these numbers in order, starting with the greatest: 670, 760, 607
+
+30. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Write these numbers in order, starting with the greatest: 670, 760, 607
+
+31. Look at the picture! {user_name} is looking at this.
+Order these numbers from smallest to greatest: 509, 590, 499, 519
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Order these numbers from smallest to greatest: 509, 590, 499, 519
+
+33. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Order these numbers from smallest to greatest: 509, 590, 499, 519
+
+34. Look at the picture! {user_name} is looking at this.
+Four children scored points in a game: Maya scored 340, Leo scored 430, Amir scored 304, and Sara scored 403. Who scored the fewest points?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+Four children scored points in a game: Maya scored 340, Leo scored 430, Amir scored 304, and Sara scored 403. Who scored the fewest points?
+
+36. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Four children scored points in a game: Maya scored 340, Leo scored 430, Amir scored 304, and Sara scored 403. Who scored the fewest points?
+
+37. Look at the picture! {user_name} is looking at this.
+Order these numbers from greatest to smallest: 825, 852, 285, 582
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+Order these numbers from greatest to smallest: 825, 852, 285, 582
+
+39. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Order these numbers from greatest to smallest: 825, 852, 285, 582
+
+40. Look at the picture! {user_name} is looking at this.
+Here are four values: 600 + 30 + 5, six hundred and fifty-three, 630, and 600 + 5. Write them as digits in order from smallest to greatest.
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+Here are four values: 600 + 30 + 5, six hundred and fifty-three, 630, and 600 + 5. Write them as digits in order from smallest to greatest.
+
+42. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Here are four values: 600 + 30 + 5, six hundred and fifty-three, 630, and 600 + 5. Write them as digits in order from smallest to greatest.
+
+43. Look at the picture! {user_name} is looking at this.
+Using the digits 2, 6, and 9 once each, make the smallest possible 3-digit number.
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Using the digits 2, 6, and 9 once each, make the smallest possible 3-digit number.
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Using the digits 2, 6, and 9 once each, make the smallest possible 3-digit number.
+
+46. Look at the picture! {user_name} is looking at this.
+Three schools have pupils: Green School has 472 pupils, Blue School has 427 pupils, and Red School has 470 pupils. Write the names of the schools in order from the greatest number of pupils to the smallest number of pupils.
+
+47. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Three schools have pupils: Green School has 472 pupils, Blue School has 427 pupils, and Red School has 470 pupils. Write the names of the schools in order from the greatest number of pupils to the smallest number of pupils.
+
+48. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Three schools have pupils: Green School has 472 pupils, Blue School has 427 pupils, and Red School has 470 pupils. Write the names of the schools in order from the greatest number of pupils to the smallest number of pupils.

@@ -1,0 +1,227 @@
+###################################
+Standard units and measuring length/height (m/cm), mass (kg/g), capacity/volume (l/ml), and temperature (^ degreesC)
+###################################
+
+--- Measuring length and height (m and cm) ---
+
+1. Look at the picture! {user_name} is looking at this.
+A pencil is lined up along a centimetre ruler. One end is at 0 cm and the other end is at 14 cm. How long is the pencil?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+A pencil is lined up along a centimetre ruler. One end is at 0 cm and the other end is at 14 cm. How long is the pencil?
+
+3. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A pencil is lined up along a centimetre ruler. One end is at 0 cm and the other end is at 14 cm. How long is the pencil?
+
+4. Look at the picture! {user_name} is looking at this.
+Which standard unit, metres or centimetres, is best to measure the length of a school playground?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Which standard unit, metres or centimetres, is best to measure the length of a school playground?
+
+6. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Which standard unit, metres or centimetres, is best to measure the length of a school playground?
+
+7. Look at the picture! {user_name} is looking at this.
+A ribbon is 45 cm long. Ben cuts 18 cm off the ribbon. What is the length of the ribbon left?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A ribbon is 45 cm long. Ben cuts 18 cm off the ribbon. What is the length of the ribbon left?
+
+9. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A ribbon is 45 cm long. Ben cuts 18 cm off the ribbon. What is the length of the ribbon left?
+
+10. Look at the picture! {user_name} is looking at this.
+A sunflower was 24 cm tall last week. This week it is 31 cm tall. How many centimetres has the sunflower grown?
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A sunflower was 24 cm tall last week. This week it is 31 cm tall. How many centimetres has the sunflower grown?
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A sunflower was 24 cm tall last week. This week it is 31 cm tall. How many centimetres has the sunflower grown?
+
+13. Look at the picture! {user_name} is looking at this.
+A toy train starts at the 5 cm mark on a ruler and ends at the 19 cm mark. How long is the toy train in centimetres?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A toy train starts at the 5 cm mark on a ruler and ends at the 19 cm mark. How long is the toy train in centimetres?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A toy train starts at the 5 cm mark on a ruler and ends at the 19 cm mark. How long is the toy train in centimetres?
+
+16. Look at the picture! {user_name} is looking at this.
+A red strip of paper is 36 cm long. A blue strip of paper is 52 cm long. How many centimetres longer is the blue strip than the red strip?
+
+17. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A red strip of paper is 36 cm long. A blue strip of paper is 52 cm long. How many centimetres longer is the blue strip than the red strip?
+
+18. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A red strip of paper is 36 cm long. A blue strip of paper is 52 cm long. How many centimetres longer is the blue strip than the red strip?
+
+--- Measuring mass (kg and g) ---
+
+19. Look at the picture! {user_name} is looking at this.
+A toy car is placed on a balance scale. It balances equally with five 10 g weights. What is the mass of the toy car?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A toy car is placed on a balance scale. It balances equally with five 10 g weights. What is the mass of the toy car?
+
+21. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A toy car is placed on a balance scale. It balances equally with five 10 g weights. What is the mass of the toy car?
+
+22. Look at the picture! {user_name} is looking at this.
+Which standard unit, grams or kilograms, is best to measure the mass of a heavy sack of potatoes?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which standard unit, grams or kilograms, is best to measure the mass of a heavy sack of potatoes?
+
+24. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Which standard unit, grams or kilograms, is best to measure the mass of a heavy sack of potatoes?
+
+25. Look at the picture! {user_name} is looking at this.
+A balance scale is level. On one side is a wooden block. On the other side are two 20 g weights and one 5 g weight. What is the mass of the wooden block?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A balance scale is level. On one side is a wooden block. On the other side are two 20 g weights and one 5 g weight. What is the mass of the wooden block?
+
+27. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A balance scale is level. On one side is a wooden block. On the other side are two 20 g weights and one 5 g weight. What is the mass of the wooden block?
+
+28. Look at the picture! {user_name} is looking at this.
+A baker has a bowl with 65 g of sugar. She uses 28 g for a cake. How many grams of sugar are left in the bowl?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A baker has a bowl with 65 g of sugar. She uses 28 g for a cake. How many grams of sugar are left in the bowl?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A baker has a bowl with 65 g of sugar. She uses 28 g for a cake. How many grams of sugar are left in the bowl?
+
+31. Look at the picture! {user_name} is looking at this.
+An apple has a mass of 75 g. A strawberry has a mass of 20 g. How much heavier is the apple than the strawberry?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+An apple has a mass of 75 g. A strawberry has a mass of 20 g. How much heavier is the apple than the strawberry?
+
+33. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+An apple has a mass of 75 g. A strawberry has a mass of 20 g. How much heavier is the apple than the strawberry?
+
+34. Look at the picture! {user_name} is looking at this.
+Box A has a mass of 43 kg. Box B is 16 kg lighter than Box A. What is the mass of Box B?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+Box A has a mass of 43 kg. Box B is 16 kg lighter than Box A. What is the mass of Box B?
+
+36. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Box A has a mass of 43 kg. Box B is 16 kg lighter than Box A. What is the mass of Box B?
+
+--- Measuring capacity and volume (l and ml) ---
+
+37. Look at the picture! {user_name} is looking at this.
+A measuring jug has marks counting up in tens: 10 ml, 20 ml, 30 ml, 40 ml, 50 ml. The water level reaches the line halfway between 30 ml and 40 ml. What is the volume of water in the jug?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+A measuring jug has marks counting up in tens: 10 ml, 20 ml, 30 ml, 40 ml, 50 ml. The water level reaches the line halfway between 30 ml and 40 ml. What is the volume of water in the jug?
+
+39. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A measuring jug has marks counting up in tens: 10 ml, 20 ml, 30 ml, 40 ml, 50 ml. The water level reaches the line halfway between 30 ml and 40 ml. What is the volume of water in the jug?
+
+40. Look at the picture! {user_name} is looking at this.
+Which standard unit, litres or millilitres, is best to measure the capacity of a garden paddling pool?
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Which standard unit, litres or millilitres, is best to measure the capacity of a garden paddling pool?
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Which standard unit, litres or millilitres, is best to measure the capacity of a garden paddling pool?
+
+43. Look at the picture! {user_name} is looking at this.
+A bucket contains 15 litres of water. Jack pours in another 9 litres of water. How many litres of water are in the bucket now?
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A bucket contains 15 litres of water. Jack pours in another 9 litres of water. How many litres of water are in the bucket now?
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A bucket contains 15 litres of water. Jack pours in another 9 litres of water. How many litres of water are in the bucket now?
+
+46. Look at the picture! {user_name} is looking at this.
+A bottle contains 45 ml of medicine. Each dose is 5 ml. How many full 5 ml doses are in the bottle?
+
+47. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A bottle contains 45 ml of medicine. Each dose is 5 ml. How many full 5 ml doses are in the bottle?
+
+48. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A bottle contains 45 ml of medicine. Each dose is 5 ml. How many full 5 ml doses are in the bottle?
+
+49. Look at the picture! {user_name} is looking at this.
+A large watering can holds 10 litres of water. A small can holds 2 litres of water. How many small cans of water are needed to fill the large watering can?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A large watering can holds 10 litres of water. A small can holds 2 litres of water. How many small cans of water are needed to fill the large watering can?
+
+51. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A large watering can holds 10 litres of water. A small can holds 2 litres of water. How many small cans of water are needed to fill the large watering can?
+
+52. Look at the picture! {user_name} is looking at this.
+A jug contains 80 ml of juice. Amy drinks 25 ml of juice and then pours out another 18 ml. How many millilitres of juice remain in the jug?
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A jug contains 80 ml of juice. Amy drinks 25 ml of juice and then pours out another 18 ml. How many millilitres of juice remain in the jug?
+
+54. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A jug contains 80 ml of juice. Amy drinks 25 ml of juice and then pours out another 18 ml. How many millilitres of juice remain in the jug?
+
+--- Measuring temperature (°C) ---
+
+55. Look at the picture! {user_name} is looking at this.
+A thermometer scale counts up in steps of 2 °C: 0, 2, 4, 6, 8, 10, 12. The red liquid reaches the mark for 10 °C. What is the temperature shown on the thermometer?
+
+56. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A thermometer scale counts up in steps of 2 °C: 0, 2, 4, 6, 8, 10, 12. The red liquid reaches the mark for 10 °C. What is the temperature shown on the thermometer?
+
+57. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A thermometer scale counts up in steps of 2 °C: 0, 2, 4, 6, 8, 10, 12. The red liquid reaches the mark for 10 °C. What is the temperature shown on the thermometer?
+
+58. Look at the picture! {user_name} is looking at this.
+A cup of hot soup has a temperature of 55 °C. A glass of cold water has a temperature of 8 °C. Which item has the higher temperature?
+
+59. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A cup of hot soup has a temperature of 55 °C. A glass of cold water has a temperature of 8 °C. Which item has the higher temperature?
+
+60. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A cup of hot soup has a temperature of 55 °C. A glass of cold water has a temperature of 8 °C. Which item has the higher temperature?
+
+61. Look at the picture! {user_name} is looking at this.
+A thermometer scale has marks counting up in 2s: 20 °C, 22 °C, 24 °C, 26 °C, 28 °C. The red liquid stops halfway between 24 °C and 26 °C. What temperature does the thermometer show?
+
+62. Look at the picture! {user_name} and {father_name} are looking at this together.
+A thermometer scale has marks counting up in 2s: 20 °C, 22 °C, 24 °C, 26 °C, 28 °C. The red liquid stops halfway between 24 °C and 26 °C. What temperature does the thermometer show?
+
+63. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A thermometer scale has marks counting up in 2s: 20 °C, 22 °C, 24 °C, 26 °C, 28 °C. The red liquid stops halfway between 24 °C and 26 °C. What temperature does the thermometer show?
+
+64. Look at the picture! {user_name} is looking at this.
+In the morning, the classroom temperature was 15 °C. By the afternoon, the temperature rose by 7 °C. What was the temperature in the afternoon?
+
+65. Look at the picture! {user_name} and {father_name} are looking at this together.
+In the morning, the classroom temperature was 15 °C. By the afternoon, the temperature rose by 7 °C. What was the temperature in the afternoon?
+
+66. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+In the morning, the classroom temperature was 15 °C. By the afternoon, the temperature rose by 7 °C. What was the temperature in the afternoon?
+
+67. Look at the picture! {user_name} is looking at this.
+On Monday, the temperature in a greenhouse was 29 °C. On Tuesday, it was 8 °C cooler. What was the temperature on Tuesday?
+
+68. Look at the picture! {user_name} and {father_name} are looking at this together.
+On Monday, the temperature in a greenhouse was 29 °C. On Tuesday, it was 8 °C cooler. What was the temperature on Tuesday?
+
+69. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+On Monday, the temperature in a greenhouse was 29 °C. On Tuesday, it was 8 °C cooler. What was the temperature on Tuesday?
+
+70. Look at the picture! {user_name} is looking at this.
+In London, the temperature is 23 °C. In Edinburgh, the temperature is 15 °C. How many degrees Celsius warmer is London than Edinburgh?
+
+71. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+In London, the temperature is 23 °C. In Edinburgh, the temperature is 15 °C. How many degrees Celsius warmer is London than Edinburgh?
+
+72. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+In London, the temperature is 23 °C. In Edinburgh, the temperature is 15 °C. How many degrees Celsius warmer is London than Edinburgh?

@@ -1,0 +1,115 @@
+###################################
+Solve simple elapsed time and duration problems in whole hours and seconds
+###################################
+
+--- Elapsed time and duration in whole hours ---
+
+1. Look at the picture! {user_name} is looking at this.
+A film starts at 2 o'clock and lasts for 2 hours. What time does the film finish?
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A film starts at 2 o'clock and lasts for 2 hours. What time does the film finish?
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A film starts at 2 o'clock and lasts for 2 hours. What time does the film finish?
+
+4. Look at the picture! {user_name} is looking at this.
+Sam starts playing at 3 o'clock and stops at 5 o'clock. How many hours does Sam play for?
+
+5. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Sam starts playing at 3 o'clock and stops at 5 o'clock. How many hours does Sam play for?
+
+6. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Sam starts playing at 3 o'clock and stops at 5 o'clock. How many hours does Sam play for?
+
+7. Look at the picture! {user_name} is looking at this.
+A train leaves the station at 8 o'clock. The journey takes 3 hours. What time does the train arrive?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A train leaves the station at 8 o'clock. The journey takes 3 hours. What time does the train arrive?
+
+9. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A train leaves the station at 8 o'clock. The journey takes 3 hours. What time does the train arrive?
+
+10. Look at the picture! {user_name} is looking at this.
+A party finishes at 6 o'clock. It lasted for 2 hours. What time did the party start?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A party finishes at 6 o'clock. It lasted for 2 hours. What time did the party start?
+
+12. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A party finishes at 6 o'clock. It lasted for 2 hours. What time did the party start?
+
+13. Look at the picture! {user_name} is looking at this.
+Mia visits the farm from 10 o'clock until 1 o'clock. How many hours did she spend at the farm?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Mia visits the farm from 10 o'clock until 1 o'clock. How many hours did she spend at the farm?
+
+15. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Mia visits the farm from 10 o'clock until 1 o'clock. How many hours did she spend at the farm?
+
+16. Look at the picture! {user_name} is looking at this.
+Jack bakes bread from 1 o'clock to 4 o'clock. Lily bakes cakes from 2 o'clock to 6 o'clock. Who spent more hours baking?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Jack bakes bread from 1 o'clock to 4 o'clock. Lily bakes cakes from 2 o'clock to 6 o'clock. Who spent more hours baking?
+
+18. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Jack bakes bread from 1 o'clock to 4 o'clock. Lily bakes cakes from 2 o'clock to 6 o'clock. Who spent more hours baking?
+
+--- Elapsed time and duration in seconds ---
+
+19. Look at the picture! {user_name} is looking at this.
+Ben runs a race in 12 seconds. Tom runs the race in 15 seconds. Who is quicker?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Ben runs a race in 12 seconds. Tom runs the race in 15 seconds. Who is quicker?
+
+21. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Ben runs a race in 12 seconds. Tom runs the race in 15 seconds. Who is quicker?
+
+22. Look at the picture! {user_name} is looking at this.
+A timer beeps after 7 seconds. Another timer beeps 5 seconds later. How many seconds does the second timer take altogether?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+A timer beeps after 7 seconds. Another timer beeps 5 seconds later. How many seconds does the second timer take altogether?
+
+24. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A timer beeps after 7 seconds. Another timer beeps 5 seconds later. How many seconds does the second timer take altogether?
+
+25. Look at the picture! {user_name} is looking at this.
+Ava washes her hands for 20 seconds. Leo washes his hands for 14 seconds. How many more seconds did Ava wash her hands for?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Ava washes her hands for 20 seconds. Leo washes his hands for 14 seconds. How many more seconds did Ava wash her hands for?
+
+27. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Ava washes her hands for 20 seconds. Leo washes his hands for 14 seconds. How many more seconds did Ava wash her hands for?
+
+28. Look at the picture! {user_name} is looking at this.
+Noah skips for 8 seconds and then hops for 9 seconds. How many seconds did he exercise for in total?
+
+29. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Noah skips for 8 seconds and then hops for 9 seconds. How many seconds did he exercise for in total?
+
+30. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Noah skips for 8 seconds and then hops for 9 seconds. How many seconds did he exercise for in total?
+
+31. Look at the picture! {user_name} is looking at this.
+Ella builds a block tower in 16 seconds. Maya takes 4 seconds less. How many seconds does Maya take?
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Ella builds a block tower in 16 seconds. Maya takes 4 seconds less. How many seconds does Maya take?
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Ella builds a block tower in 16 seconds. Maya takes 4 seconds less. How many seconds does Maya take?
+
+34. Look at the picture! {user_name} is looking at this.
+In a running race, Ruby took 18 seconds, Max took 13 seconds, and Oliver took 15 seconds. Who won the race?
+
+35. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+In a running race, Ruby took 18 seconds, Max took 13 seconds, and Oliver took 15 seconds. Who won the race?
+
+36. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+In a running race, Ruby took 18 seconds, Max took 13 seconds, and Oliver took 15 seconds. Who won the race?

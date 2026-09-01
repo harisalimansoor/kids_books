@@ -1,0 +1,187 @@
+###################################
+Derive and use related facts up to 100 (multiples of 10 and related single-digit extensions)
+###################################
+
+--- Multiples of 10 ---
+
+1. Look at the picture! {user_name} is looking at this.
+Use the fact 4 + 3 = 7 to work out: 40 + 30 = ?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use the fact 4 + 3 = 7 to work out: 40 + 30 = ?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Use the fact 4 + 3 = 7 to work out: 40 + 30 = ?
+
+4. Look at the picture! {user_name} is looking at this.
+Use the fact 8 - 2 = 6 to work out: 80 - 20 = ?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use the fact 8 - 2 = 6 to work out: 80 - 20 = ?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the fact 8 - 2 = 6 to work out: 80 - 20 = ?
+
+7. Look at the picture! {user_name} is looking at this.
+Complete the number sentence: 70 + ? = 100
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Complete the number sentence: 70 + ? = 100
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Complete the number sentence: 70 + ? = 100
+
+10. Look at the picture! {user_name} is looking at this.
+Use the fact 10 - 4 = 6 to find the answer to 100 - 40.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use the fact 10 - 4 = 6 to find the answer to 100 - 40.
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Use the fact 10 - 4 = 6 to find the answer to 100 - 40.
+
+13. Look at the picture! {user_name} is looking at this.
+A baker bakes 20 plain scones and 50 cheese scones. Use 2 + 5 = 7 to find how many scones the baker bakes in total.
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A baker bakes 20 plain scones and 50 cheese scones. Use 2 + 5 = 7 to find how many scones the baker bakes in total.
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A baker bakes 20 plain scones and 50 cheese scones. Use 2 + 5 = 7 to find how many scones the baker bakes in total.
+
+16. Look at the picture! {user_name} is looking at this.
+A shop has 90 apples. It sells 30 apples. Use 9 - 3 = 6 to find how many apples are left.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A shop has 90 apples. It sells 30 apples. Use 9 - 3 = 6 to find how many apples are left.
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A shop has 90 apples. It sells 30 apples. Use 9 - 3 = 6 to find how many apples are left.
+
+19. Look at the picture! {user_name} is looking at this.
+Find the missing number: 30 + ? = 90
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Find the missing number: 30 + ? = 90
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Find the missing number: 30 + ? = 90
+
+22. Look at the picture! {user_name} is looking at this.
+Find the missing number: ? - 40 = 20
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Find the missing number: ? - 40 = 20
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Find the missing number: ? - 40 = 20
+
+25. Look at the picture! {user_name} is looking at this.
+Fill in the missing number to make the number sentence balanced: 50 + 40 = 60 + ?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Fill in the missing number to make the number sentence balanced: 50 + 40 = 60 + ?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Fill in the missing number to make the number sentence balanced: 50 + 40 = 60 + ?
+
+28. Look at the picture! {user_name} is looking at this.
+If 6 + 2 = 8, what is 80 - 60?
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+If 6 + 2 = 8, what is 80 - 60?
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+If 6 + 2 = 8, what is 80 - 60?
+
+--- Related single-digit extensions ---
+
+31. Look at the picture! {user_name} is looking at this.
+Use the fact 3 + 5 = 8 to work out: 43 + 5 = ?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use the fact 3 + 5 = 8 to work out: 43 + 5 = ?
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Use the fact 3 + 5 = 8 to work out: 43 + 5 = ?
+
+34. Look at the picture! {user_name} is looking at this.
+Use the fact 9 - 6 = 3 to work out: 59 - 6 = ?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use the fact 9 - 6 = 3 to work out: 59 - 6 = ?
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Use the fact 9 - 6 = 3 to work out: 59 - 6 = ?
+
+37. Look at the picture! {user_name} is looking at this.
+Use the fact 5 + 8 = 13 to work out: 35 + 8 = ?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use the fact 5 + 8 = 13 to work out: 35 + 8 = ?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Use the fact 5 + 8 = 13 to work out: 35 + 8 = ?
+
+40. Look at the picture! {user_name} is looking at this.
+Use the fact 13 - 5 = 8 to work out: 63 - 5 = ?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use the fact 13 - 5 = 8 to work out: 63 - 5 = ?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Use the fact 13 - 5 = 8 to work out: 63 - 5 = ?
+
+43. Look at the picture! {user_name} is looking at this.
+Sam has 32 stickers. He buys 7 more stickers. Use the fact 2 + 7 = 9 to work out how many stickers Sam has now.
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+Sam has 32 stickers. He buys 7 more stickers. Use the fact 2 + 7 = 9 to work out how many stickers Sam has now.
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Sam has 32 stickers. He buys 7 more stickers. Use the fact 2 + 7 = 9 to work out how many stickers Sam has now.
+
+46. Look at the picture! {user_name} is looking at this.
+A ribbon is 48 cm long. Maya cuts off 5 cm. Use 8 - 5 = 3 to find how long the ribbon is now in centimetres.
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+A ribbon is 48 cm long. Maya cuts off 5 cm. Use 8 - 5 = 3 to find how long the ribbon is now in centimetres.
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A ribbon is 48 cm long. Maya cuts off 5 cm. Use 8 - 5 = 3 to find how long the ribbon is now in centimetres.
+
+49. Look at the picture! {user_name} is looking at this.
+Complete the number sentence: 52 + ? = 58
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+Complete the number sentence: 52 + ? = 58
+
+51. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Complete the number sentence: 52 + ? = 58
+
+52. Look at the picture! {user_name} is looking at this.
+Use the bond 6 + 7 = 13 to find the missing number: 26 + ? = 33
+
+53. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Use the bond 6 + 7 = 13 to find the missing number: 26 + ? = 33
+
+54. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Use the bond 6 + 7 = 13 to find the missing number: 26 + ? = 33
+
+55. Look at the picture! {user_name} is looking at this.
+Complete the number sentence: 76 - ? = 71
+
+56. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Complete the number sentence: 76 - ? = 71
+
+57. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Complete the number sentence: 76 - ? = 71
+
+58. Look at the picture! {user_name} is looking at this.
+If 7 + 6 = 13, what is 87 + 6?
+
+59. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+If 7 + 6 = 13, what is 87 + 6?
+
+60. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+If 7 + 6 = 13, what is 87 + 6?

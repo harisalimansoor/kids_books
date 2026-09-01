@@ -1,0 +1,92 @@
+=== Topic: Add and subtract one-digit and two-digit numbers to 20, including zero and bridging ten ===
+Domain: Addition and Subtraction
+
+--- Add and subtract one-digit and two-digit numbers to 20 ---
+
+Question 1: Work out: 12 + 5
+Answer: 17
+Working: 12 + 5 = 17
+
+Question 2: Work out: 18 - 4
+Answer: 14
+Working: 18 - 4 = 14
+
+Question 3: There are 14 pencils in a pot. Maya puts 3 more pencils in the pot. How many pencils are in the pot now?
+Answer: 17
+Working: 14 + 3 = 17
+
+Question 4: There are 19 apples in a crate. 6 apples are taken out. How many apples are left in the crate?
+Answer: 13
+Working: 19 - 6 = 13
+
+Question 5: Work out the missing number: 11 + ? = 16
+Answer: 5
+Working: 16 - 11 = 5
+
+Question 6: Work out the missing number: 17 - ? = 12
+Answer: 5
+Working: 17 - 12 = 5
+
+Question 7: Tom has 13 counters. He adds some more counters. Now he has 18 counters. How many counters did Tom add?
+Answer: 5
+Working: 18 - 13 = 5
+
+--- Add and subtract zero ---
+
+Question 8: Work out: 15 + 0
+Answer: 15
+Working: Adding 0 leaves the number unchanged, so 15 + 0 = 15.
+
+Question 9: Work out: 19 - 0
+Answer: 19
+Working: Subtracting 0 leaves the number unchanged, so 19 - 0 = 19.
+
+Question 10: Work out: 0 + 13
+Answer: 13
+Working: 0 + 13 = 13
+
+Question 11: A plate has 16 biscuits on it. No biscuits are eaten. How many biscuits are left on the plate?
+Answer: 16
+Working: 16 - 0 = 16
+
+Question 12: Liam has 8 marbles. He gets 0 more marbles from his friend. How many marbles does Liam have altogether?
+Answer: 8
+Working: 8 + 0 = 8
+
+Question 13: Work out the missing number: 20 - ? = 20
+Answer: 0
+Working: 20 - 20 = 0
+
+--- Bridging ten ---
+
+Question 14: Work out: 8 + 5
+Answer: 13
+Working: 8 + 2 = 10, then 10 + 3 = 13.
+
+Question 15: Work out: 9 + 6
+Answer: 15
+Working: 9 + 1 = 10, then 10 + 5 = 15.
+
+Question 16: Work out: 13 - 5
+Answer: 8
+Working: 13 - 3 = 10, then 10 - 2 = 8.
+
+Question 17: Work out: 14 - 6
+Answer: 8
+Working: 14 - 4 = 10, then 10 - 2 = 8.
+
+Question 18: There are 7 frogs on a log. 6 more frogs jump on. How many frogs are on the log in total?
+Answer: 13
+Working: 7 + 3 = 10, then 10 + 3 = 13 frogs.
+
+Question 19: There are 15 birds in a tree. 8 birds fly away. How many birds are left in the tree?
+Answer: 7
+Working: 15 - 5 = 10, then 10 - 3 = 7 birds.
+
+Question 20: Work out the missing number: 8 + ? = 14
+Answer: 6
+Working: 8 + 2 = 10, 10 + 4 = 14, so 2 + 4 = 6.
+
+Question 21: Work out the missing number: 12 - ? = 5
+Answer: 7
+Working: 12 - 2 = 10, 10 - 5 = 5, so 2 + 5 = 7.

@@ -1,0 +1,13 @@
+###################################
+Formal written columnar subtraction with up to three digits (with single/double regrouping and across zeros)
+###################################
+Domain: Addition and Subtraction
+
+1. Column subtraction with single regrouping
+   From: single regrouping
+
+2. Column subtraction with double regrouping
+   From: double regrouping
+
+3. Column subtraction across zeros
+   From: across zeros

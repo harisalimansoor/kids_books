@@ -1,0 +1,94 @@
+=== Topic: Solve simple fraction quantity and sharing problems ===
+Domain: Fractions
+
+--- Fraction quantity problems ---
+
+Question 1: What is 1/2 of 18?
+Answer: 9
+Working: 18 ÷ 2 = 9.
+
+Question 2: What is 1/4 of 16?
+Answer: 4
+Working: 16 ÷ 4 = 4.
+
+Question 3: What is 1/3 of 12?
+Answer: 4
+Working: 12 ÷ 3 = 4.
+
+Question 4: What is 3/4 of 12?
+Answer: 9
+Working: 1/4 of 12 = 12 ÷ 4 = 3. 3/4 of 12 = 3 × 3 = 9.
+
+Question 5: What is 2/4 of 20?
+Answer: 10
+Working: 2/4 is equivalent to 1/2. 1/2 of 20 = 20 ÷ 2 = 10.
+
+Question 6: Sam has 24 stickers. He gives 1/4 of them to Leo. How many stickers does Leo get?
+Answer: 6 stickers
+Working: 1/4 of 24 = 24 ÷ 4 = 6 stickers.
+
+Question 7: A ribbon is 15 cm long. Sarah cuts off 1/3 of the ribbon. How many centimetres does Sarah cut off?
+Answer: 5 cm
+Working: 1/3 of 15 cm = 15 ÷ 3 = 5 cm.
+
+Question 8: There are 20 pencils in a pot. 3/4 of the pencils are blue. How many pencils are blue?
+Answer: 15 pencils
+Working: 1/4 of 20 = 20 ÷ 4 = 5. 3/4 of 20 = 3 × 5 = 15 pencils.
+
+Question 9: What is 3/4 of 24?
+Answer: 18
+Working: 1/4 of 24 = 24 ÷ 4 = 6. 3/4 of 24 = 3 × 6 = 18.
+
+Question 10: Priya has 16 beads. 1/4 of them are red and the rest are green. How many beads are green?
+Answer: 12 beads
+Working: 1/4 of 16 = 16 ÷ 4 = 4 red beads. 16 - 4 = 12 green beads.
+
+Question 11: A box holds 18 apples. Farmer Jack sells 1/3 of the box in the morning and 1/3 of the box in the afternoon. How many apples does he sell altogether?
+Answer: 12 apples
+Working: 1/3 of 18 = 18 ÷ 3 = 6 apples. Morning and afternoon total = 6 + 6 = 12 apples.
+
+Question 12: Ethan has 12 toy cars. Maya has 1/2 of Ethan's amount. How many toy cars do they have altogether?
+Answer: 18 toy cars
+Working: Maya has 1/2 of 12 = 6 cars. Ethan and Maya together = 12 + 6 = 18 toy cars.
+
+--- Fraction sharing problems ---
+
+Question 13: Four children share 8 biscuits equally. What fraction of the biscuits does each child get?
+Answer: 1/4
+Working: Sharing equally among 4 children means each child gets 1 out of 4 equal parts, which is 1/4.
+
+Question 14: 15 strawberries are shared equally among 3 bowls. How many strawberries are in each bowl?
+Answer: 5 strawberries
+Working: 15 shared equally into 3 bowls = 15 ÷ 3 = 5 strawberries in each bowl.
+
+Question 15: Ben shares 20 marbles equally among 4 bags. How many marbles are in 3 of the bags altogether?
+Answer: 15 marbles
+Working: 1 bag has 20 ÷ 4 = 5 marbles. 3 bags have 3 × 5 = 15 marbles.
+
+Question 16: 12 children are shared equally into 3 teams. How many children are in 1 team?
+Answer: 4 children
+Working: 12 ÷ 3 = 4 children.
+
+Question 17: Lucy shares 16 sweets equally between 2 jars. How many sweets are in 1 jar?
+Answer: 8 sweets
+Working: 16 ÷ 2 = 8 sweets.
+
+Question 18: A piece of wool 24 cm long is cut into 4 equal pieces. How long is each piece?
+Answer: 6 cm
+Working: 24 cm ÷ 4 = 6 cm.
+
+Question 19: Three friends share 21 pence equally. How many pence does each friend receive?
+Answer: 7p
+Working: 21p ÷ 3 = 7p.
+
+Question 20: Jack has 16 counters. He shares them into 4 equal groups. He gives 3 of the groups to Oliver. How many counters does Oliver receive?
+Answer: 12 counters
+Working: 1 group = 16 ÷ 4 = 4 counters. Oliver gets 3 groups = 3 × 4 = 12 counters.
+
+Question 21: Mia shares 18 crayons equally between 3 pots. She takes 2 of the pots to her desk. How many crayons does Mia take altogether?
+Answer: 12 crayons
+Working: 1 pot = 18 ÷ 3 = 6 crayons. 2 pots = 6 + 6 = 12 crayons.
+
+Question 22: A baker has 16 cakes and packs them equally into 4 boxes. A customer buys 3 of the boxes. How many cakes did the customer buy?
+Answer: 12 cakes
+Working: 1 box holds 16 ÷ 4 = 4 cakes. 3 boxes hold 3 × 4 = 12 cakes.

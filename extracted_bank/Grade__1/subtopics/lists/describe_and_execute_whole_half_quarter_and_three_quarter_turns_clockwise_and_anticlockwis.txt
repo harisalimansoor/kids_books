@@ -1,0 +1,19 @@
+###################################
+Describe and execute whole, half, quarter, and three-quarter turns (clockwise and anticlockwise)
+###################################
+Domain: Geometry: Position and Direction
+
+1. Whole turns
+   From: whole
+
+2. Half turns
+   From: half
+
+3. Quarter turns
+   From: quarter
+
+4. Three-quarter turns
+   From: three-quarter turns
+
+5. Clockwise and anticlockwise turns
+   From: clockwise and anticlockwise

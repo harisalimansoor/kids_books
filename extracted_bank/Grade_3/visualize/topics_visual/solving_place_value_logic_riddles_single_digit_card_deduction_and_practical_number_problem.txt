@@ -1,0 +1,144 @@
+###################################
+Solving place value logic riddles, single-digit card deduction, and practical number problems
+###################################
+
+--- Place value logic riddles ---
+
+1. Look at the picture! {user_name} is looking at this.
+I am a 3-digit number. My hundreds digit is 4. My tens digit is 3 more than my hundreds digit. My ones digit is 2 less than my hundreds digit. What number am I?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+I am a 3-digit number. My hundreds digit is 4. My tens digit is 3 more than my hundreds digit. My ones digit is 2 less than my hundreds digit. What number am I?
+
+3. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+I am a 3-digit number. My hundreds digit is 4. My tens digit is 3 more than my hundreds digit. My ones digit is 2 less than my hundreds digit. What number am I?
+
+4. Look at the picture! {user_name} is looking at this.
+I am a 3-digit number between 300 and 400. My tens digit is double my hundreds digit. The sum of all three digits is 11. What number am I?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+I am a 3-digit number between 300 and 400. My tens digit is double my hundreds digit. The sum of all three digits is 11. What number am I?
+
+6. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+I am a 3-digit number between 300 and 400. My tens digit is double my hundreds digit. The sum of all three digits is 11. What number am I?
+
+7. Look at the picture! {user_name} is looking at this.
+I am a 3-digit multiple of 50. I am greater than 400 and less than 600. The sum of my three digits is 9. What number am I?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+I am a 3-digit multiple of 50. I am greater than 400 and less than 600. The sum of my three digits is 9. What number am I?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+I am a 3-digit multiple of 50. I am greater than 400 and less than 600. The sum of my three digits is 9. What number am I?
+
+10. Look at the picture! {user_name} is looking at this.
+I am a 3-digit number. My tens digit is 8. My hundreds digit is half of my tens digit. My ones digit is 0. What number do you get if you add 100 to me?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+I am a 3-digit number. My tens digit is 8. My hundreds digit is half of my tens digit. My ones digit is 0. What number do you get if you add 100 to me?
+
+12. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+I am a 3-digit number. My tens digit is 8. My hundreds digit is half of my tens digit. My ones digit is 0. What number do you get if you add 100 to me?
+
+13. Look at the picture! {user_name} is looking at this.
+A number has 6 hundreds, 0 tens, and some ones. It is an odd number greater than 605 but less than 609. What is the number?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A number has 6 hundreds, 0 tens, and some ones. It is an odd number greater than 605 but less than 609. What is the number?
+
+15. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A number has 6 hundreds, 0 tens, and some ones. It is an odd number greater than 605 but less than 609. What is the number?
+
+--- Single-digit card deduction ---
+
+16. Look at the picture! {user_name} is looking at this.
+Sam has three digit cards: 4, 7, and 2. He uses each card once to make the largest possible 3-digit number. What number does he make?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Sam has three digit cards: 4, 7, and 2. He uses each card once to make the largest possible 3-digit number. What number does he make?
+
+18. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Sam has three digit cards: 4, 7, and 2. He uses each card once to make the largest possible 3-digit number. What number does he make?
+
+19. Look at the picture! {user_name} is looking at this.
+Liam has the digit cards 2, 6, and 9. He makes a 3-digit number using each card once. The tens digit is 2, and the hundreds digit is greater than the ones digit. What 3-digit number does Liam make?
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Liam has the digit cards 2, 6, and 9. He makes a 3-digit number using each card once. The tens digit is 2, and the hundreds digit is greater than the ones digit. What 3-digit number does Liam make?
+
+21. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Liam has the digit cards 2, 6, and 9. He makes a 3-digit number using each card once. The tens digit is 2, and the hundreds digit is greater than the ones digit. What 3-digit number does Liam make?
+
+22. Look at the picture! {user_name} is looking at this.
+Holly uses the digit cards 3, 4, and 7 once each to make a 3-digit number. Her number has 4 tens and is less than 500. What number did Holly make?
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Holly uses the digit cards 3, 4, and 7 once each to make a 3-digit number. Her number has 4 tens and is less than 500. What number did Holly make?
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Holly uses the digit cards 3, 4, and 7 once each to make a 3-digit number. Her number has 4 tens and is less than 500. What number did Holly make?
+
+25. Look at the picture! {user_name} is looking at this.
+Maya has four digit cards: 1, 5, 8, and 3. She chooses three cards to make the smallest possible 3-digit even number, using each chosen card once. What number does she make?
+
+26. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Maya has four digit cards: 1, 5, 8, and 3. She chooses three cards to make the smallest possible 3-digit even number, using each chosen card once. What number does she make?
+
+27. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Maya has four digit cards: 1, 5, 8, and 3. She chooses three cards to make the smallest possible 3-digit even number, using each chosen card once. What number does she make?
+
+28. Look at the picture! {user_name} is looking at this.
+A lock code is a 3-digit odd number made by using the digit cards 3, 5, and 8 once each. The code is between 500 and 600. What is the lock code?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A lock code is a 3-digit odd number made by using the digit cards 3, 5, and 8 once each. The code is between 500 and 600. What is the lock code?
+
+30. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A lock code is a 3-digit odd number made by using the digit cards 3, 5, and 8 once each. The code is between 500 and 600. What is the lock code?
+
+--- Practical number problems ---
+
+31. Look at the picture! {user_name} is looking at this.
+A school hall has chairs arranged in groups. There are 4 stacks of 100 chairs, 3 rows of 10 chairs, and 8 individual chairs. How many chairs are in the hall altogether?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A school hall has chairs arranged in groups. There are 4 stacks of 100 chairs, 3 rows of 10 chairs, and 8 individual chairs. How many chairs are in the hall altogether?
+
+33. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A school hall has chairs arranged in groups. There are 4 stacks of 100 chairs, 3 rows of 10 chairs, and 8 individual chairs. How many chairs are in the hall altogether?
+
+34. Look at the picture! {user_name} is looking at this.
+Farmer Joe packs eggs into crates of 100 and cartons of 10. He fills 3 full crates and 7 full cartons, and has 5 loose eggs left over. How many eggs did he pack in total?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Farmer Joe packs eggs into crates of 100 and cartons of 10. He fills 3 full crates and 7 full cartons, and has 5 loose eggs left over. How many eggs did he pack in total?
+
+36. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Farmer Joe packs eggs into crates of 100 and cartons of 10. He fills 3 full crates and 7 full cartons, and has 5 loose eggs left over. How many eggs did he pack in total?
+
+37. Look at the picture! {user_name} is looking at this.
+A post office sells stamps in sheets of 100, strips of 10, and single stamps. Priya buys 5 sheets, 0 strips, and 9 single stamps. How many stamps did Priya buy in total?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A post office sells stamps in sheets of 100, strips of 10, and single stamps. Priya buys 5 sheets, 0 strips, and 9 single stamps. How many stamps did Priya buy in total?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A post office sells stamps in sheets of 100, strips of 10, and single stamps. Priya buys 5 sheets, 0 strips, and 9 single stamps. How many stamps did Priya buy in total?
+
+40. Look at the picture! {user_name} is looking at this.
+A factory has 7 bags of 100 marbles and 4 small boxes of 10 marbles. How many more marbles are needed to have 800 marbles altogether?
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+A factory has 7 bags of 100 marbles and 4 small boxes of 10 marbles. How many more marbles are needed to have 800 marbles altogether?
+
+42. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A factory has 7 bags of 100 marbles and 4 small boxes of 10 marbles. How many more marbles are needed to have 800 marbles altogether?
+
+43. Look at the picture! {user_name} is looking at this.
+A library has 624 books. On Monday, the librarian adds 100 more books to the shelves. On Tuesday, she adds another 10 books. How many books are on the shelves now?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+A library has 624 books. On Monday, the librarian adds 100 more books to the shelves. On Tuesday, she adds another 10 books. How many books are on the shelves now?
+
+45. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A library has 624 books. On Monday, the librarian adds 100 more books to the shelves. On Tuesday, she adds another 10 books. How many books are on the shelves now?

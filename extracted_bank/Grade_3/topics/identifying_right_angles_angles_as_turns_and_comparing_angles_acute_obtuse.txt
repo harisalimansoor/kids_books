@@ -1,0 +1,92 @@
+=== Topic: Identifying right angles, angles as turns, and comparing angles (acute/obtuse) ===
+Domain: Geometry (Properties of Shapes
+
+--- Identifying right angles ---
+
+Question 1: How many right angles are there inside a rectangle?
+Answer: 4
+Working: A rectangle has 4 interior corners, and each corner is a right angle. 1 + 1 + 1 + 1 = 4 right angles.
+
+Question 2: A square has right angles at every corner. How many right angles does a square have in total?
+Answer: 4
+Working: A square has 4 corners, each forming a right angle. Total right angles = 4.
+
+Question 3: A right-angled triangle has one square corner. How many right angles does it contain?
+Answer: 1
+Working: By definition, a right-angled triangle contains exactly 1 right angle.
+
+Question 4: A straight vertical line meets a straight horizontal line to make a capital letter L. How many right angles are formed where the lines meet?
+Answer: 1
+Working: A vertical line and a horizontal line meet to form 1 perpendicular corner, which is 1 right angle.
+
+Question 5: A capital letter T is made of one horizontal top bar and one vertical stem meeting in the middle. How many right angles are formed where the lines meet?
+Answer: 2
+Working: The vertical line meets the horizontal line forming one right angle on the left and one right angle on the right: 1 + 1 = 2 right angles.
+
+Question 6: A regular hexagon has 6 straight sides and 6 equal interior angles. Does a regular hexagon have any right angles inside it? Write yes or no.
+Answer: no
+Working: All interior angles of a regular hexagon are greater than a right angle (obtuse). None of them are right angles, so the answer is no.
+
+--- Angles as turns ---
+
+Question 7: How many right angles make a half-turn?
+Answer: 2
+Working: One right angle is a quarter-turn. Two quarter-turns make a half-turn, so 2 right angles make a half-turn.
+
+Question 8: How many right angles make a complete turn?
+Answer: 4
+Working: Each right angle is a quarter-turn. 4 quarter-turns make one complete turn, so 4 right angles make a complete turn.
+
+Question 9: How many right angles make three quarters of a turn?
+Answer: 3
+Working: Each right angle represents 1 quarter-turn. Therefore, 3 right angles make three quarters of a turn.
+
+Question 10: Mia is facing North. She turns clockwise through 2 right angles. Which compass direction is she facing now?
+Answer: South
+Working: Turning 2 right angles is a half-turn. Opposite North is South.
+
+Question 11: Liam is facing East. He makes 1 right angle turn clockwise. Which direction is he facing now?
+Answer: South
+Working: Starting at East, a quarter-turn (1 right angle) clockwise moves him to South.
+
+Question 12: Noah is facing North. He turns clockwise through 3 right angles. Which direction is he facing now?
+Answer: West
+Working: Starting at North: 1 right angle clockwise is East, 2 right angles is South, 3 right angles is West.
+
+Question 13: The minute hand of a clock points to 12. It moves clockwise to 3. How many right angles has the minute hand turned through?
+Answer: 1
+Working: From 12 to 3 is a quarter of the clock face, which is 1 right angle turn.
+
+Question 14: The minute hand on a clock turns clockwise from the 12 to the 6. How many right angles has it turned through?
+Answer: 2
+Working: From 12 to 6 is a half-turn of the clock face. A half-turn equals 2 right angles.
+
+--- Comparing angles (acute and obtuse) ---
+
+Question 15: What name is given to an angle that is smaller than a right angle?
+Answer: acute
+Working: An angle smaller than a right angle is called an acute angle.
+
+Question 16: What name is given to an angle that is greater than a right angle but less than a half-turn?
+Answer: obtuse
+Working: An angle greater than a right angle and less than a half-turn (straight line) is called an obtuse angle.
+
+Question 17: Is an acute angle greater than or less than a right angle?
+Answer: less than
+Working: An acute angle is smaller (less than) a right angle.
+
+Question 18: At 3 o'clock, the hands of a clock make a right angle. At 2 o'clock, is the smaller angle between the hands acute, right, or obtuse?
+Answer: acute
+Working: At 2 o'clock, the hands are closer together than at 3 o'clock, so the opening is smaller than a right angle. A smaller angle is acute.
+
+Question 19: At 4 o'clock, is the smaller angle between the hour hand and the minute hand acute, right, or obtuse?
+Answer: obtuse
+Working: At 3 o'clock, the angle is a right angle. At 4 o'clock, the hands are opened wider than a right angle, which means the angle is obtuse.
+
+Question 20: An equilateral triangle has 3 angles that are all equal in size. Each angle is smaller than a right angle. Are the angles acute or obtuse?
+Answer: acute
+Working: Angles smaller than a right angle are called acute angles.
+
+Question 21: Sam uses a corner of a piece of paper as a right-angle tester. An angle is wider than the paper corner. Is this angle acute, right, or obtuse?
+Answer: obtuse
+Working: An angle that is wider (greater) than the right-angle tester corner is an obtuse angle.

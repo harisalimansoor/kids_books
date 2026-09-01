@@ -1,0 +1,82 @@
+=== Topic: Sequence events chronologically and use time vocabulary (days, weeks, months, years) ===
+Domain: Measurement
+
+--- Sequence events chronologically ---
+
+Question 1: Mia eats breakfast in the morning and goes to bed at night. Which event happens first?
+Answer: Mia eats breakfast
+Working: Morning comes before night, so eating breakfast happens first.
+
+Question 2: Today is Monday. What day will it be tomorrow?
+Answer: Tuesday
+Working: The day straight after Monday is Tuesday.
+
+Question 3: Today is Friday. What day was it yesterday?
+Answer: Thursday
+Working: The day straight before Friday is Thursday.
+
+Question 4: Look at these three times of day: afternoon, morning, evening. Write the time of day that comes first in a normal day.
+Answer: morning
+Working: The chronological order is morning, then afternoon, then evening. Morning comes first.
+
+Question 5: Oliver puts on his socks before he puts on his shoes. Which does he put on after his socks?
+Answer: shoes
+Working: Oliver puts on socks before shoes, so his shoes come after his socks.
+
+Question 6: Yesterday was Saturday. What day is today?
+Answer: Sunday
+Working: The day straight after Saturday is Sunday, so today is Sunday.
+
+Question 7: Maya has three events in her day: waking up, eating dinner, and eating lunch. Which event happens 2nd?
+Answer: eating lunch
+Working: The order of events is 1st: waking up, 2nd: eating lunch, 3rd: eating dinner.
+
+Question 8: Tomorrow will be Thursday. What day was yesterday?
+Answer: Tuesday
+Working: If tomorrow is Thursday, today is Wednesday. The day before Wednesday is Tuesday.
+
+Question 9: Noah washed his hands, ate his lunch, and then read a book. What did Noah do before he ate his lunch?
+Answer: washed his hands
+Working: Noah washed his hands before eating lunch.
+
+--- Use time vocabulary (days, weeks, months, years) ---
+
+Question 10: How many days are there in 1 week?
+Answer: 7
+Working: There are 7 days in 1 week.
+
+Question 11: How many months are there in 1 year?
+Answer: 12
+Working: There are 12 months in 1 year.
+
+Question 12: Which is longer: 1 week or 1 day?
+Answer: 1 week
+Working: 1 week is 7 days, so 1 week is longer than 1 day.
+
+Question 13: Which day comes straight after Wednesday?
+Answer: Thursday
+Working: Counting the days of the week: Monday, Tuesday, Wednesday, Thursday.
+
+Question 14: Which month comes straight after January?
+Answer: February
+Working: January is the 1st month and February is the 2nd month.
+
+Question 15: Which day comes straight before Sunday?
+Answer: Saturday
+Working: Saturday is the day straight before Sunday.
+
+Question 16: Which month comes straight before December?
+Answer: November
+Working: November is the 11th month and December is the 12th month.
+
+Question 17: Which is shorter: 1 month or 1 year?
+Answer: 1 month
+Working: 1 year has 12 months, so 1 month is shorter than 1 year.
+
+Question 18: What is the first month of the year?
+Answer: January
+Working: The months of the year begin with January.
+
+Question 19: Today is Saturday. What day was it 2 days ago?
+Answer: Thursday
+Working: 1 day before Saturday is Friday. 2 days before Saturday is Thursday.

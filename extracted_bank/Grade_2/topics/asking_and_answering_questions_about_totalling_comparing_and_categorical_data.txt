@@ -1,0 +1,72 @@
+=== Topic: Asking and answering questions about totalling, comparing, and categorical data ===
+Domain: Statistics
+
+--- Totalling ---
+
+Question 1: A table shows the favourite pets in Class 2. 6 children chose cats, 8 children chose dogs, and 4 children chose rabbits. How many children is this altogether?
+Answer: 18
+Working: 6 + 8 + 4 = 18
+
+Question 2: A pictogram shows the favourite fruits of children in Year 2. Each star symbol represents 2 children. Apples has 4 star symbols and Bananas has 5 star symbols. How many children chose apples or bananas in total?
+Answer: 18
+Working: 4 × 2 = 8 children chose apples. 5 × 2 = 10 children chose bananas. 8 + 10 = 18
+
+Question 3: In a pictogram, each book symbol represents 5 books read. Class 2A read 3 book symbols. Class 2B read 4 book symbols. How many books did both classes read in total?
+Answer: 35
+Working: 3 × 5 = 15 books for Class 2A. 4 × 5 = 20 books for Class 2B. 15 + 20 = 35
+
+Question 4: A block diagram shows the number of vehicles passing a school: 14 cars, 8 buses, and 7 bicycles. What is the total number of vehicles?
+Answer: 29
+Working: 14 + 8 + 7 = 29
+
+Question 5: In a pictogram, 1 circle represents 10 reward stickers. Maya has 3 circles. Leo has 2 full circles and 1 half circle. How many reward stickers do Maya and Leo have in total?
+Answer: 55
+Working: Maya has 3 × 10 = 30 stickers. Leo has (2 × 10) + 5 = 25 stickers. 30 + 25 = 55
+
+--- Comparing ---
+
+Question 6: A table shows the number of goals scored by two football teams: Red Team scored 15 goals and Blue Team scored 9 goals. How many more goals did Red Team score than Blue Team?
+Answer: 6
+Working: 15 - 9 = 6
+
+Question 7: A pictogram shows favourite drinks. Each cup symbol represents 2 children. Milk has 6 cup symbols. Water has 3 cup symbols. How many more children chose milk than water?
+Answer: 6
+Working: Milk: 6 × 2 = 12. Water: 3 × 2 = 6. 12 - 6 = 6
+
+Question 8: A tally chart shows votes for favourite seasons. Summer received 18 votes and Winter received 7 votes. How many fewer votes did Winter receive than Summer?
+Answer: 11
+Working: 18 - 7 = 11
+
+Question 9: A pictogram shows cupcakes sold at a bake sale. Each square symbol represents 10 cupcakes. On Monday, 4 square symbols are shown. On Tuesday, 2 full square symbols and 1 half square symbol are shown. How many more cupcakes were sold on Monday than on Tuesday?
+Answer: 15
+Working: Monday: 4 × 10 = 40. Tuesday: (2 × 10) + 5 = 25. 40 - 25 = 15
+
+Question 10: A garden survey shows 19 sparrows, 6 robins, and 5 blackbirds. How many more sparrows were seen than robins and blackbirds combined?
+Answer: 8
+Working: Robins and blackbirds combined: 6 + 5 = 11. Difference from sparrows: 19 - 11 = 8
+
+--- Categorical data ---
+
+Question 11: A table shows votes for favourite school lunches: Pizza has 14 votes, Pasta has 19 votes, Jacket potato has 8 votes, and Sandwich has 11 votes. Which lunch is the most popular?
+Answer: Pasta
+Working: Pasta has the highest number of votes (19)
+
+Question 12: A tally chart records favourite sports: Tennis has 5 votes, Football has 16 votes, Netball has 12 votes, and Cricket has 4 votes. Which sport is the least popular?
+Answer: Cricket
+Working: Cricket has the lowest number of votes (4)
+
+Question 13: A pictogram shows favourite zoo animals where each paw print symbol represents 2 children. Lion has 5 paw prints, Elephant has 7 paw prints, Monkey has 8 paw prints, and Giraffe has 3 paw prints. Which animal was chosen by exactly 10 children?
+Answer: Lion
+Working: 10 ÷ 2 = 5 symbols. Lion has 5 paw prints, so 5 × 2 = 10
+
+Question 14: In a survey of favourite fruit, the tally marks for pears show 3 full groups of 5 and 2 extra single marks. How many children chose pears?
+Answer: 17
+Working: (3 × 5) + 2 = 15 + 2 = 17
+
+Question 15: A table shows the colours of 30 cars in a car park: 12 silver, 9 red, 6 blue, and 3 black. How many cars are NOT silver?
+Answer: 18
+Working: 30 - 12 = 18 (or 9 + 6 + 3 = 18)
+
+Question 16: A class of 25 children chose their favourite flavour of ice cream: vanilla, chocolate, or strawberry. 11 children chose vanilla and 8 children chose chocolate. The rest chose strawberry. How many children chose strawberry?
+Answer: 6
+Working: 11 + 8 = 19. 25 - 19 = 6

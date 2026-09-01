@@ -1,0 +1,74 @@
+=== Topic: Partition, compose, and decompose numbers within 100 (including tens and ones and teen "ten and a bit") ===
+Domain: Number and Place Value
+
+--- Partition and compose numbers into tens and ones ---
+
+Question 1: What number is made of 3 tens and 4 ones?
+Answer: 34
+Working: 3 tens is 30, and 4 ones is 4. 30 + 4 = 34.
+
+Question 2: How many tens are in the number 52?
+Answer: 5
+Working: In 52, the tens digit is 5, so there are 5 tens.
+
+Question 3: The number 67 has 6 tens and how many ones?
+Answer: 7
+Working: 67 is made of 6 tens and 7 ones.
+
+Question 4: What is the total: 40 + 8 = __
+Answer: 48
+Working: 40 + 8 = 48.
+
+Question 5: Mia has 5 packs of 10 stickers and 3 single stickers. How many stickers does Mia have in total?
+Answer: 53
+Working: 5 packs of 10 is 50 stickers. 50 + 3 = 53 stickers.
+
+Question 6: A number has 8 tens and 0 ones. What is the number?
+Answer: 80
+Working: 8 tens is 80, and 0 ones is 0. 80 + 0 = 80.
+
+Question 7: What number is made of 6 ones and 2 tens?
+Answer: 26
+Working: 2 tens is 20, and 6 ones is 6. 20 + 6 = 26.
+
+Question 8: Complete the number sentence: 75 = __ + 5
+Answer: 70
+Working: 75 is partitioned into 7 tens (70) and 5 ones, so 75 = 70 + 5.
+
+Question 9: Ben says the number 49 is made of 9 tens and 4 ones. Is Ben correct? Write Yes or No.
+Answer: No
+Working: 49 has 4 tens and 9 ones, not 9 tens and 4 ones, so Ben is not correct.
+
+--- Teen numbers as ten and a bit ---
+
+Question 10: 14 is made of 1 ten and how many ones?
+Answer: 4
+Working: 14 is partitioned into 1 ten (10) and 4 ones, so there are 4 ones.
+
+Question 11: What number is 10 and 6 more?
+Answer: 16
+Working: 10 + 6 = 16.
+
+Question 12: What number is made of 1 ten and 3 ones?
+Answer: 13
+Working: 1 ten is 10, and 3 ones is 3. 10 + 3 = 13.
+
+Question 13: Complete the number sentence: 18 = 10 + __
+Answer: 8
+Working: 18 is 1 ten and 8 ones, so 18 = 10 + 8.
+
+Question 14: One ten frame has 10 counters and a second ten frame has 7 counters. How many counters are there altogether?
+Answer: 17
+Working: 10 + 7 = 17 counters.
+
+Question 15: A baker has 1 box of 10 eggs and 5 single eggs. How many eggs does the baker have in total?
+Answer: 15
+Working: 1 box of 10 is 10. 10 + 5 = 15 eggs.
+
+Question 16: Complete the number sentence: 10 + __ = 11
+Answer: 1
+Working: 11 is made of 10 and 1, so the missing number is 1.
+
+Question 17: 19 is partitioned into 10 and a bit. What number is the bit?
+Answer: 9
+Working: 19 = 10 + 9, so the bit is 9.

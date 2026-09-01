@@ -1,0 +1,144 @@
+###################################
+Solving fraction word problems (multi-category partitions, complementary remaining amounts, and combined measures)
+###################################
+
+--- Multi-category partitions ---
+
+1. Look at the picture! {user_name} is looking at this.
+A florist has a vase of 30 flowers. 1/10 of the flowers are lilies and 4/10 are roses. The rest of the flowers are tulips. What fraction of the flowers are tulips?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+A florist has a vase of 30 flowers. 1/10 of the flowers are lilies and 4/10 are roses. The rest of the flowers are tulips. What fraction of the flowers are tulips?
+
+3. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A florist has a vase of 30 flowers. 1/10 of the flowers are lilies and 4/10 are roses. The rest of the flowers are tulips. What fraction of the flowers are tulips?
+
+4. Look at the picture! {user_name} is looking at this.
+In a pack of 24 coloured pencils, 1/4 are red, 2/4 are blue, and the rest are green. How many pencils are green?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a pack of 24 coloured pencils, 1/4 are red, 2/4 are blue, and the rest are green. How many pencils are green?
+
+6. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+In a pack of 24 coloured pencils, 1/4 are red, 2/4 are blue, and the rest are green. How many pencils are green?
+
+7. Look at the picture! {user_name} is looking at this.
+There are 40 animals on a farm. 3/8 of the animals are sheep, 2/8 are cows, and the rest are goats. How many goats are on the farm?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+There are 40 animals on a farm. 3/8 of the animals are sheep, 2/8 are cows, and the rest are goats. How many goats are on the farm?
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+There are 40 animals on a farm. 3/8 of the animals are sheep, 2/8 are cows, and the rest are goats. How many goats are on the farm?
+
+10. Look at the picture! {user_name} is looking at this.
+A box contains 32 counters. 3/8 of the counters are yellow, 1/8 are red, and the rest are blue. How many counters are blue?
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A box contains 32 counters. 3/8 of the counters are yellow, 1/8 are red, and the rest are blue. How many counters are blue?
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A box contains 32 counters. 3/8 of the counters are yellow, 1/8 are red, and the rest are blue. How many counters are blue?
+
+13. Look at the picture! {user_name} is looking at this.
+A school has 48 children in Year 3. 2/6 of the children choose apples for snack, 3/6 choose bananas, and the rest choose oranges. How many children choose oranges?
+
+14. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A school has 48 children in Year 3. 2/6 of the children choose apples for snack, 3/6 choose bananas, and the rest choose oranges. How many children choose oranges?
+
+15. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A school has 48 children in Year 3. 2/6 of the children choose apples for snack, 3/6 choose bananas, and the rest choose oranges. How many children choose oranges?
+
+--- Complementary remaining amounts ---
+
+16. Look at the picture! {user_name} is looking at this.
+A bag contains 24 apples. Jack eats 1/4 of the apples. How many apples are left in the bag?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A bag contains 24 apples. Jack eats 1/4 of the apples. How many apples are left in the bag?
+
+18. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A bag contains 24 apples. Jack eats 1/4 of the apples. How many apples are left in the bag?
+
+19. Look at the picture! {user_name} is looking at this.
+A piece of ribbon is 40 cm long. Freya cuts off 3/5 of the ribbon. How many centimetres of ribbon are left?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A piece of ribbon is 40 cm long. Freya cuts off 3/5 of the ribbon. How many centimetres of ribbon are left?
+
+21. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A piece of ribbon is 40 cm long. Freya cuts off 3/5 of the ribbon. How many centimetres of ribbon are left?
+
+22. Look at the picture! {user_name} is looking at this.
+A book has 72 pages. Sam has read 5/8 of the book. How many pages does Sam have left to read?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A book has 72 pages. Sam has read 5/8 of the book. How many pages does Sam have left to read?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A book has 72 pages. Sam has read 5/8 of the book. How many pages does Sam have left to read?
+
+25. Look at the picture! {user_name} is looking at this.
+A runner has completed 4/5 of a 50 m sprint course. How many metres does the runner have left to reach the finish line?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A runner has completed 4/5 of a 50 m sprint course. How many metres does the runner have left to reach the finish line?
+
+27. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A runner has completed 4/5 of a 50 m sprint course. How many metres does the runner have left to reach the finish line?
+
+28. Look at the picture! {user_name} is looking at this.
+Maya spent 3/4 of her pocket money on a book. She has £5 left. How much pocket money did Maya have at first?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+Maya spent 3/4 of her pocket money on a book. She has £5 left. How much pocket money did Maya have at first?
+
+30. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Maya spent 3/4 of her pocket money on a book. She has £5 left. How much pocket money did Maya have at first?
+
+--- Combined measures ---
+
+31. Look at the picture! {user_name} is looking at this.
+A film lasts 60 minutes. Mia watches 1/3 of the film before lunch and 1/3 of the film after lunch. How many minutes of the film has Mia watched in total?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+A film lasts 60 minutes. Mia watches 1/3 of the film before lunch and 1/3 of the film after lunch. How many minutes of the film has Mia watched in total?
+
+33. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A film lasts 60 minutes. Mia watches 1/3 of the film before lunch and 1/3 of the film after lunch. How many minutes of the film has Mia watched in total?
+
+34. Look at the picture! {user_name} is looking at this.
+A bottle holds 400 ml of juice. Liam drinks 1/5 of the juice and Noah drinks 2/5 of the juice. How many millilitres of juice did they drink altogether?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+A bottle holds 400 ml of juice. Liam drinks 1/5 of the juice and Noah drinks 2/5 of the juice. How many millilitres of juice did they drink altogether?
+
+36. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A bottle holds 400 ml of juice. Liam drinks 1/5 of the juice and Noah drinks 2/5 of the juice. How many millilitres of juice did they drink altogether?
+
+37. Look at the picture! {user_name} is looking at this.
+A baker has 800 g of flour. She uses 3/8 of the flour for bread and 2/8 of the flour for muffins. How many grams of flour has she used altogether?
+
+38. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A baker has 800 g of flour. She uses 3/8 of the flour for bread and 2/8 of the flour for muffins. How many grams of flour has she used altogether?
+
+39. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A baker has 800 g of flour. She uses 3/8 of the flour for bread and 2/8 of the flour for muffins. How many grams of flour has she used altogether?
+
+40. Look at the picture! {user_name} is looking at this.
+A strip of card is 90 cm long. Anish cuts a piece that is 2/10 of the strip, and Ben cuts a piece that is 3/10 of the strip. What is the total length of the two pieces cut?
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A strip of card is 90 cm long. Anish cuts a piece that is 2/10 of the strip, and Ben cuts a piece that is 3/10 of the strip. What is the total length of the two pieces cut?
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A strip of card is 90 cm long. Anish cuts a piece that is 2/10 of the strip, and Ben cuts a piece that is 3/10 of the strip. What is the total length of the two pieces cut?
+
+43. Look at the picture! {user_name} is looking at this.
+A water tank contains 50 litres of water. In the morning, 1/10 of the water is used. In the afternoon, 3/10 of the water is used. How many litres of water are left in the tank?
+
+44. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A water tank contains 50 litres of water. In the morning, 1/10 of the water is used. In the afternoon, 3/10 of the water is used. How many litres of water are left in the tank?
+
+45. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A water tank contains 50 litres of water. In the morning, 1/10 of the water is used. In the afternoon, 3/10 of the water is used. How many litres of water are left in the tank?

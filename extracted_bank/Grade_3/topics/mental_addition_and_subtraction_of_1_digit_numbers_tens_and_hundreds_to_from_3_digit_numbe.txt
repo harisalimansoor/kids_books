@@ -1,0 +1,128 @@
+=== Topic: Mental addition and subtraction of 1-digit numbers, tens, and hundreds to/from 3-digit numbers ===
+Domain: Addition and Subtraction
+
+--- Mental addition and subtraction of 1-digit numbers to and from 3-digit numbers ---
+
+Question 1: Calculate: 452 + 6
+Answer: 458
+Working: Add 6 to the ones digit: 2 + 6 = 8. So, 452 + 6 = 458.
+
+Question 2: Calculate: 789 - 5
+Answer: 784
+Working: Subtract 5 from the ones digit: 9 - 5 = 4. So, 789 - 5 = 784.
+
+Question 3: Calculate: 348 + 7
+Answer: 355
+Working: Add 2 to bridge to 350, then add the remaining 5: 350 + 5 = 355.
+
+Question 4: Calculate: 523 - 8
+Answer: 515
+Working: Subtract 3 to reach 520, then subtract the remaining 5: 520 - 5 = 515.
+
+Question 5: A baker has 235 bread rolls. He bakes 8 more bread rolls. How many bread rolls does he have in total?
+Answer: 243
+Working: 235 + 8 = 235 + 5 + 3 = 240 + 3 = 243.
+
+Question 6: A sticker book has 462 stickers. Maya sticks 9 stickers into her notebook. How many stickers are left in the book?
+Answer: 453
+Working: 462 - 9 = 462 - 2 - 7 = 460 - 7 = 453.
+
+Question 7: Calculate: 396 + 7
+Answer: 403
+Working: Add 4 to bridge to the next hundred (400), then add the remaining 3: 400 + 3 = 403.
+
+Question 8: Calculate: 604 - 8
+Answer: 596
+Working: Subtract 4 to reach 600, then subtract the remaining 4: 600 - 4 = 596.
+
+Question 9: Find the missing number: 738 + ___ = 745
+Answer: 7
+Working: Subtract 738 from 745: 745 - 738 = 7.
+
+Question 10: Find the missing number: ___ - 7 = 519
+Answer: 526
+Working: Use the inverse operation: 519 + 7 = 526.
+
+--- Mental addition and subtraction of tens to and from 3-digit numbers ---
+
+Question 11: Calculate: 324 + 50
+Answer: 374
+Working: Add 5 tens to 2 tens: 20 + 50 = 70. Keep the hundreds and ones the same: 374.
+
+Question 12: Calculate: 678 - 30
+Answer: 648
+Working: Subtract 3 tens from 7 tens: 70 - 30 = 40. Keep the hundreds and ones the same: 648.
+
+Question 13: Calculate: 472 + 60
+Answer: 532
+Working: Add 30 to reach 502, then add the remaining 30: 502 + 30 = 532.
+
+Question 14: Calculate: 536 - 70
+Answer: 466
+Working: Subtract 30 to reach 506, then subtract the remaining 40: 506 - 40 = 466.
+
+Question 15: A library has 345 books on a shelf. The librarian puts 40 more books on the shelf. How many books are on the shelf now?
+Answer: 385
+Working: 345 + 40 = 385.
+
+Question 16: There are 682 sheep in a field. A farmer moves 50 sheep to another field. How many sheep are left in the field?
+Answer: 632
+Working: 682 - 50 = 632.
+
+Question 17: Calculate: 795 + 40
+Answer: 835
+Working: Add 10 to reach 805, then add the remaining 30: 805 + 30 = 835.
+
+Question 18: Calculate: 814 - 60
+Answer: 754
+Working: Subtract 14 to reach 800, then subtract 46: 800 - 46 = 754 (or 814 - 10 = 804, 804 - 50 = 754).
+
+Question 19: Find the missing number: 283 + ___ = 353
+Answer: 70
+Working: Count up from 283: 283 + 17 = 300, 300 + 53 = 353. 17 + 53 = 70 (or 353 - 283 = 70).
+
+Question 20: Find the missing number: ___ - 40 = 478
+Answer: 518
+Working: Use the inverse operation: 478 + 40 = 518.
+
+--- Mental addition and subtraction of hundreds to and from 3-digit numbers ---
+
+Question 21: Calculate: 247 + 300
+Answer: 547
+Working: Add 3 hundreds to 2 hundreds: 200 + 300 = 500. Keep the tens and ones the same: 547.
+
+Question 22: Calculate: 865 - 400
+Answer: 465
+Working: Subtract 4 hundreds from 8 hundreds: 800 - 400 = 400. Keep the tens and ones the same: 465.
+
+Question 23: Calculate: 519 + 400
+Answer: 919
+Working: 500 + 400 = 900. Add 19 to get 919.
+
+Question 24: Calculate: 734 - 500
+Answer: 234
+Working: 700 - 500 = 200. Add 34 to get 234.
+
+Question 25: A charity raised £320 in the morning and £500 in the afternoon. How much money did the charity raise altogether?
+Answer: £820
+Working: £320 + £500 = £820.
+
+Question 26: A train journey is 785 km long. The train has already travelled 300 km. How many kilometres does the train have left to travel?
+Answer: 485 km
+Working: 785 - 300 = 485 km.
+
+Question 27: Calculate: 368 + 600
+Answer: 968
+Working: 300 + 600 = 900. Add 68 to get 968.
+
+Question 28: Find the missing number: 194 + ___ = 794
+Answer: 600
+Working: Subtract 194 from 794: 794 - 194 = 600.
+
+Question 29: Find the missing number: ___ - 400 = 382
+Answer: 782
+Working: Use the inverse operation: 382 + 400 = 782.
+
+Question 30: A warehouse stores 256 boxes. A lorry delivers 600 more boxes. How many boxes are in the warehouse altogether?
+Answer: 856
+Working: 256 + 600 = 856.
