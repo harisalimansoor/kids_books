@@ -1,0 +1,82 @@
+=== Topic: Add three single-digit numbers using bonds to 10 and doubles ===
+Domain: Addition and Subtraction
+
+--- Adding three single-digit numbers using bonds to 10 ---
+
+Question 1: Work out 7 + 3 + 4.
+Answer: 14
+Working: Use the number bond to 10: 7 + 3 = 10. Then add the remaining number: 10 + 4 = 14.
+
+Question 2: Work out 8 + 2 + 5.
+Answer: 15
+Working: Use the number bond to 10: 8 + 2 = 10. Then add 5: 10 + 5 = 15.
+
+Question 3: Work out 1 + 9 + 6.
+Answer: 16
+Working: Use the number bond to 10: 1 + 9 = 10. Then add 6: 10 + 6 = 16.
+
+Question 4: Work out 6 + 7 + 4.
+Answer: 17
+Working: Look for the bond to 10: 6 + 4 = 10. Then add 7: 10 + 7 = 17.
+
+Question 5: Work out 8 + 9 + 2.
+Answer: 19
+Working: Spot the pair that makes 10: 8 + 2 = 10. Then add 9: 10 + 9 = 19.
+
+Question 6: Ben has 5 red apples, 3 green apples, and 5 yellow apples. How many apples does Ben have altogether?
+Answer: 13
+Working: Find the bond to 10: 5 + 5 = 10. Then add the 3 green apples: 10 + 3 = 13.
+
+Question 7: Clara picks 4 strawberries, 8 raspberries, and 6 blackberries. How many berries does Clara pick in total?
+Answer: 18
+Working: Find the bond to 10: 4 + 6 = 10. Then add 8: 10 + 8 = 18.
+
+Question 8: Find the missing number: 3 + [ ] + 7 = 18.
+Answer: 8
+Working: Add 3 and 7 to make 10: 3 + 7 = 10. Since 10 + 8 = 18, the missing number is 8.
+
+Question 9: Amy rolls a 9, Bilal rolls a 4, and Charlie rolls a 1 on their dice. What is the total score of all three dice?
+Answer: 14
+Working: Add the bond to 10 first: 9 + 1 = 10. Then add 4: 10 + 4 = 14.
+
+--- Adding three single-digit numbers using doubles ---
+
+Question 10: Work out 4 + 4 + 3.
+Answer: 11
+Working: Double 4 is 8: 4 + 4 = 8. Then add 3: 8 + 3 = 11.
+
+Question 11: Work out 3 + 3 + 5.
+Answer: 11
+Working: Double 3 is 6: 3 + 3 = 6. Then add 5: 6 + 5 = 11.
+
+Question 12: Work out 6 + 6 + 2.
+Answer: 14
+Working: Double 6 is 12: 6 + 6 = 12. Then add 2: 12 + 2 = 14.
+
+Question 13: Work out 7 + 5 + 7.
+Answer: 19
+Working: Spot the double first: 7 + 7 = 14. Then add 5: 14 + 5 = 19.
+
+Question 14: Work out 8 + 3 + 8.
+Answer: 19
+Working: Spot the double: 8 + 8 = 16. Then add 3: 16 + 3 = 19.
+
+Question 15: Lily has 5 stickers in her book, 5 stickers on her pencil case, and 7 stickers on her folder. How many stickers does Lily have in total?
+Answer: 17
+Working: Double 5 is 10: 5 + 5 = 10. Then add 7: 10 + 7 = 17 stickers.
+
+Question 16: A farmer counts 6 sheep in the barn, 6 sheep in the field, and 5 sheep on the hill. How many sheep are there altogether?
+Answer: 17
+Working: Double 6 is 12: 6 + 6 = 12. Then add 5: 12 + 5 = 17 sheep.
+
+Question 17: Double 9 is 18. Use this fact to work out 9 + 4 + 9.
+Answer: 22
+Working: Double 9 is 18: 9 + 9 = 18. Then add 4: 18 + 4 = 22.
+
+Question 18: Find the missing number: [ ] + 4 + 4 = 15.
+Answer: 7
+Working: Double 4 is 8: 4 + 4 = 8. Subtract 8 from 15: 15 - 8 = 7, so the missing number is 7.
+
+Question 19: A toy box contains 8 green cars, 3 blue cars, and 8 red cars. How many cars are in the toy box altogether?
+Answer: 19
+Working: Use the double: 8 + 8 = 16. Then add the 3 blue cars: 16 + 3 = 19 cars.

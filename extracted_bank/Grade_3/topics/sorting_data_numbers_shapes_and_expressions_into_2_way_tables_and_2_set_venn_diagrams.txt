@@ -1,0 +1,90 @@
+=== Topic: Sorting data, numbers, shapes, and expressions into 2-way tables and 2-set Venn diagrams ===
+Domain: Statistics
+
+--- 2-way tables ---
+
+Question 1: A teacher sorts 30 pupils into a two-way table showing who plays football and who plays netball.
+
+• Boys: 8 play football, 6 play netball.
+• Girls: 7 play football, 9 play netball.
+
+How many pupils play football in total?
+Answer: 15
+Working: Number of boys playing football = 8. Number of girls playing football = 7. Total playing football = 8 + 7 = 15.
+
+Question 2: The table shows the pets owned by children in Year 3.
+
+Cats: 14 Boys, 18 Girls
+Dogs: 16 Boys, 12 Girls
+
+How many more children own cats than dogs?
+Answer: 4
+Working: Total owning cats = 14 + 18 = 32. Total owning dogs = 16 + 12 = 28. Difference = 32 - 28 = 4.
+
+Question 3: A two-way table sorts numbers into two rows ('Multiples of 4' and 'Not multiples of 4') and two columns ('Odd' and 'Even'). Into which cell should the number 28 be placed: 'Multiple of 4 and Even', 'Multiple of 4 and Odd', 'Not a multiple of 4 and Even', or 'Not a multiple of 4 and Odd'?
+Answer: Multiple of 4 and Even
+Working: 28 ÷ 4 = 7, so 28 is a multiple of 4. 28 ends in 8, so it is an even number. Therefore, 28 belongs in 'Multiple of 4 and Even'.
+
+Question 4: A class records how they travel to school in a two-way table:
+
+• Walk: 11 Boys, 13 Girls
+• Bus: 9 Boys, ? Girls
+• Total: 20 Boys, 21 Girls
+
+How many girls travel by bus?
+Answer: 8
+Working: Total number of girls = 21. Girls walking = 13. Girls travelling by bus = 21 - 13 = 8.
+
+Question 5: A two-way table sorts 2-D shapes using two categories: 'Has 4 sides' and 'Has at least one right angle'. Which cell does an equilateral triangle belong to: 'Has 4 sides and at least one right angle', 'Has 4 sides and no right angles', 'Fewer than 4 sides and at least one right angle', or 'Fewer than 4 sides and no right angles'?
+Answer: Fewer than 4 sides and no right angles
+Working: An equilateral triangle has 3 sides (fewer than 4 sides) and all three angles are acute (no right angles). So it belongs in 'Fewer than 4 sides and no right angles'.
+
+Question 6: A two-way table sorts the following calculations: 12 × 4, 15 × 3, 8 × 4, and 9 × 3.
+The rows are 'Answer is even' and 'Answer is odd'.
+The columns are 'Answer is greater than 40' and 'Answer is 40 or less'.
+Which calculation belongs in the cell for 'Answer is odd and greater than 40'?
+Answer: 15 × 3
+Working: Calculate each: 12 × 4 = 48 (even, >40); 15 × 3 = 45 (odd, >40); 8 × 4 = 32 (even, ≤40); 9 × 3 = 27 (odd, ≤40). The calculation with an odd answer greater than 40 is 15 × 3.
+
+--- 2-set Venn diagrams ---
+
+Question 7: A Venn diagram has two overlapping circles: Set A = 'Multiples of 3' and Set B = 'Even numbers'. Where does the number 12 go: 'Set A only', 'Set B only', 'Both sets', or 'Outside both sets'?
+Answer: Both sets
+Working: 12 is a multiple of 3 (3 × 4 = 12) and 12 is an even number. Because it satisfies both rules, it is placed in the intersection ('Both sets').
+
+Question 8: A Venn diagram has two circles labelled 'Multiples of 4' and 'Multiples of 8'. Where does the number 20 go: 'Multiples of 4 only', 'Multiples of 8 only', 'Both circles', or 'Outside both circles'?
+Answer: Multiples of 4 only
+Working: 20 is a multiple of 4 (4 × 5 = 20), but 20 is not a multiple of 8 (8, 16, 24...). So 20 belongs in 'Multiples of 4 only'.
+
+Question 9: A 2-set Venn diagram sorts the numbers 6, 9, 12, 15, 16, 24.
+Circle 1: Multiples of 3
+Circle 2: Multiples of 4
+
+How many of these numbers belong in the middle section (both circles)?
+Answer: 2
+Working: Check which numbers are multiples of both 3 and 4: 6 (3 only), 9 (3 only), 12 (3 and 4), 15 (3 only), 16 (4 only), 24 (3 and 4). There are 2 numbers (12 and 24) in the middle section.
+
+Question 10: A Venn diagram has two circles:
+Circle A: 'Has 4 straight sides'
+Circle B: 'Has at least one pair of parallel lines'
+
+Where should a regular pentagon be placed: 'Circle A only', 'Circle B only', 'Both circles', or 'Outside both circles'?
+Answer: Outside both circles
+Working: A regular pentagon has 5 sides (not 4 sides) and has no pairs of parallel lines. Therefore, it sits outside both circles.
+
+Question 11: In a class of 28 children, a Venn diagram shows who attends Art club and Music club.
+• 12 children attend Art club only.
+• 8 children attend Music club only.
+• 5 children attend both clubs.
+
+How many children attend neither club (outside both circles)?
+Answer: 3
+Working: Total children in at least one club = 12 + 8 + 5 = 25. Total children = 28. Children outside both circles = 28 - 25 = 3.
+
+Question 12: Sam sorts these numbers into a 2-set Venn diagram: 16, 21, 24, 30, 32, 35, 40.
+Set X: Multiples of 8
+Set Y: Multiples of 5
+
+Which of these numbers belongs outside both sets?
+Answer: 21
+Working: Test the numbers: 16 (multiple of 8), 21 (not a multiple of 8 or 5), 24 (multiple of 8), 30 (multiple of 5), 32 (multiple of 8), 35 (multiple of 5), 40 (multiple of 8 and 5). 21 is the only number outside both sets.

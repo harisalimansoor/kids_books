@@ -1,0 +1,243 @@
+###################################
+Recognise, find, and name a half (1/2) of an object, shape, or quantity
+###################################
+
+--- Half of an object ---
+
+1. Look at the picture! {user_name} is looking at this.
+A piece of ribbon is cut into 2 equal parts. What fraction is 1 of the parts?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A piece of ribbon is cut into 2 equal parts. What fraction is 1 of the parts?
+
+3. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A piece of ribbon is cut into 2 equal parts. What fraction is 1 of the parts?
+
+4. Look at the picture! {user_name} is looking at this.
+Sam cuts an apple into 2 equal pieces. What is 1 of the pieces called?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Sam cuts an apple into 2 equal pieces. What is 1 of the pieces called?
+
+6. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Sam cuts an apple into 2 equal pieces. What is 1 of the pieces called?
+
+7. Look at the picture! {user_name} is looking at this.
+A strip of paper is folded down the middle into 2 equal parts. One part is coloured in. What fraction of the paper strip is coloured in?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A strip of paper is folded down the middle into 2 equal parts. One part is coloured in. What fraction of the paper strip is coloured in?
+
+9. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A strip of paper is folded down the middle into 2 equal parts. One part is coloured in. What fraction of the paper strip is coloured in?
+
+10. Look at the picture! {user_name} is looking at this.
+A piece of string is 10 cm long. It is cut into 2 equal halves. How long is each half?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+A piece of string is 10 cm long. It is cut into 2 equal halves. How long is each half?
+
+12. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A piece of string is 10 cm long. It is cut into 2 equal halves. How long is each half?
+
+13. Look at the picture! {user_name} is looking at this.
+A stick of modelling clay is 12 cm long. Ben cuts it in half. How long is one half of the stick?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A stick of modelling clay is 12 cm long. Ben cuts it in half. How long is one half of the stick?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A stick of modelling clay is 12 cm long. Ben cuts it in half. How long is one half of the stick?
+
+16. Look at the picture! {user_name} is looking at this.
+Mia cuts a whole cucumber into two pieces. One piece is much longer than the other piece. Has Mia cut the cucumber in half? Write yes or no.
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Mia cuts a whole cucumber into two pieces. One piece is much longer than the other piece. Has Mia cut the cucumber in half? Write yes or no.
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Mia cuts a whole cucumber into two pieces. One piece is much longer than the other piece. Has Mia cut the cucumber in half? Write yes or no.
+
+19. Look at the picture! {user_name} is looking at this.
+Jack says, "To find half of a piece of ribbon, I can cut it into 2 parts of any size." Is Jack correct? Write yes or no.
+
+20. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Jack says, "To find half of a piece of ribbon, I can cut it into 2 parts of any size." Is Jack correct? Write yes or no.
+
+21. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Jack says, "To find half of a piece of ribbon, I can cut it into 2 parts of any size." Is Jack correct? Write yes or no.
+
+--- Half of a shape ---
+
+22. Look at the picture! {user_name} is looking at this.
+A square is divided into 2 equal parts. One part is shaded. What fraction of the square is shaded?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A square is divided into 2 equal parts. One part is shaded. What fraction of the square is shaded?
+
+24. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A square is divided into 2 equal parts. One part is shaded. What fraction of the square is shaded?
+
+25. Look at the picture! {user_name} is looking at this.
+A circle is split into 2 equal parts. What is each part called?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A circle is split into 2 equal parts. What is each part called?
+
+27. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A circle is split into 2 equal parts. What is each part called?
+
+28. Look at the picture! {user_name} is looking at this.
+A rectangle is split by a straight line into 2 equal triangles. What fraction of the rectangle is 1 of the triangles?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectangle is split by a straight line into 2 equal triangles. What fraction of the rectangle is 1 of the triangles?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A rectangle is split by a straight line into 2 equal triangles. What fraction of the rectangle is 1 of the triangles?
+
+31. Look at the picture! {user_name} is looking at this.
+A circle is divided into 2 parts. One part is smaller than the other part. Is each part a half of the circle? Write yes or no.
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A circle is divided into 2 parts. One part is smaller than the other part. Is each part a half of the circle? Write yes or no.
+
+33. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A circle is divided into 2 parts. One part is smaller than the other part. Is each part a half of the circle? Write yes or no.
+
+34. Look at the picture! {user_name} is looking at this.
+A large square is made of 4 equal smaller squares. How many of the smaller squares need to be shaded to shade half of the large square?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+A large square is made of 4 equal smaller squares. How many of the smaller squares need to be shaded to shade half of the large square?
+
+36. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A large square is made of 4 equal smaller squares. How many of the smaller squares need to be shaded to shade half of the large square?
+
+37. Look at the picture! {user_name} is looking at this.
+A shape is divided into 2 equal parts. Ella shades 1 of the parts. What fraction of the shape is left unshaded?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+A shape is divided into 2 equal parts. Ella shades 1 of the parts. What fraction of the shape is left unshaded?
+
+39. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A shape is divided into 2 equal parts. Ella shades 1 of the parts. What fraction of the shape is left unshaded?
+
+40. Look at the picture! {user_name} is looking at this.
+How many equal halves make 1 whole shape?
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many equal halves make 1 whole shape?
+
+42. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+How many equal halves make 1 whole shape?
+
+--- Half of a quantity ---
+
+43. Look at the picture! {user_name} is looking at this.
+What is half of 6?
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is half of 6?
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+What is half of 6?
+
+46. Look at the picture! {user_name} is looking at this.
+What is half of 10?
+
+47. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is half of 10?
+
+48. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+What is half of 10?
+
+49. Look at the picture! {user_name} is looking at this.
+What is half of 4?
+
+50. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+What is half of 4?
+
+51. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+What is half of 4?
+
+52. Look at the picture! {user_name} is looking at this.
+There are 8 apples in a bowl. Tom eats half of the apples. How many apples does Tom eat?
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+There are 8 apples in a bowl. Tom eats half of the apples. How many apples does Tom eat?
+
+54. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+There are 8 apples in a bowl. Tom eats half of the apples. How many apples does Tom eat?
+
+55. Look at the picture! {user_name} is looking at this.
+There are 14 counters on a table. Half of them are blue. How many counters are blue?
+
+56. Look at the picture! {user_name} and {mother_name} are looking at this together.
+There are 14 counters on a table. Half of them are blue. How many counters are blue?
+
+57. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+There are 14 counters on a table. Half of them are blue. How many counters are blue?
+
+58. Look at the picture! {user_name} is looking at this.
+Share 12 strawberries equally between 2 plates. How many strawberries are on each plate?
+
+59. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Share 12 strawberries equally between 2 plates. How many strawberries are on each plate?
+
+60. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Share 12 strawberries equally between 2 plates. How many strawberries are on each plate?
+
+61. Look at the picture! {user_name} is looking at this.
+What is half of 16?
+
+62. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is half of 16?
+
+63. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+What is half of 16?
+
+64. Look at the picture! {user_name} is looking at this.
+There are 18 pencils in a tin. Half of the pencils are red. How many red pencils are there?
+
+65. Look at the picture! {user_name} and {father_name} are looking at this together.
+There are 18 pencils in a tin. Half of the pencils are red. How many red pencils are there?
+
+66. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+There are 18 pencils in a tin. Half of the pencils are red. How many red pencils are there?
+
+67. Look at the picture! {user_name} is looking at this.
+What is half of 20?
+
+68. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is half of 20?
+
+69. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+What is half of 20?
+
+70. Look at the picture! {user_name} is looking at this.
+Half of a group of buttons is 5. How many buttons are in the whole group?
+
+71. Look at the picture! {user_name} and {father_name} are looking at this together.
+Half of a group of buttons is 5. How many buttons are in the whole group?
+
+72. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Half of a group of buttons is 5. How many buttons are in the whole group?
+
+73. Look at the picture! {user_name} is looking at this.
+Half of a number is 4. What is the number?
+
+74. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Half of a number is 4. What is the number?
+
+75. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Half of a number is 4. What is the number?
+
+76. Look at the picture! {user_name} is looking at this.
+Lily has 12 stickers. She gives half of her stickers to Noah. How many stickers does Lily have left?
+
+77. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Lily has 12 stickers. She gives half of her stickers to Noah. How many stickers does Lily have left?
+
+78. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Lily has 12 stickers. She gives half of her stickers to Noah. How many stickers does Lily have left?

@@ -1,0 +1,90 @@
+=== Topic: Recognise and name common 2D shapes (rectangles, squares, circles, triangles) ===
+Domain: Geometry: Properties of Shapes
+
+--- Rectangles ---
+
+Question 1: How many straight sides does a rectangle have?
+Answer: 4
+Working: A rectangle is a 4-sided 2D shape, so it has 4 straight sides.
+
+Question 2: How many corners does a rectangle have?
+Answer: 4
+Working: A rectangle has 4 corners (vertices) where its straight sides meet.
+
+Question 3: A flat 2D shape has 4 straight sides and 4 corners. It has 2 long sides and 2 shorter sides. What is the name of this shape?
+Answer: Rectangle
+Working: A 2D shape with 4 straight sides and 4 corners with 2 long sides and 2 short sides is a rectangle.
+
+Question 4: True or false: A rectangle has curved sides.
+Answer: False
+Working: A rectangle has 4 straight sides, not curved sides, so the statement is false.
+
+Question 5: A rectangle has 4 sides and a triangle has 3 sides. How many more sides does a rectangle have than a triangle?
+Answer: 1
+Working: 4 − 3 = 1, so a rectangle has 1 more side than a triangle.
+
+--- Squares ---
+
+Question 6: How many straight sides does a square have?
+Answer: 4
+Working: A square is a 2D shape with 4 straight sides.
+
+Question 7: How many corners does a square have?
+Answer: 4
+Working: A square has 4 corners where its 4 straight sides meet.
+
+Question 8: A flat 2D shape has 4 straight sides that are all equal in length. What is the name of this shape?
+Answer: Square
+Working: A 2D shape with 4 equal straight sides and 4 corners is a square.
+
+Question 9: True or false: All 4 sides of a square are the same length.
+Answer: True
+Working: By definition, a square has 4 equal sides, so the statement is true.
+
+Question 10: Sam counts the straight sides on 2 squares. Each square has 4 sides. How many sides do 2 squares have altogether?
+Answer: 8
+Working: 4 + 4 = 8, so 2 squares have 8 sides altogether.
+
+--- Circles ---
+
+Question 11: How many straight sides does a circle have?
+Answer: 0
+Working: A circle is completely round with no straight sides, so it has 0 straight sides.
+
+Question 12: How many corners does a circle have?
+Answer: 0
+Working: A circle has 1 continuous curved side and 0 corners.
+
+Question 13: A flat 2D shape is round and has 1 curved side with no corners. What is the name of this shape?
+Answer: Circle
+Working: A round 2D shape with 1 curved side and no corners is a circle.
+
+Question 14: True or false: A circle has 3 straight sides.
+Answer: False
+Working: A circle has no straight sides, so the statement is false.
+
+Question 15: Ella draws 3 circles on paper. How many corners do 3 circles have in total?
+Answer: 0
+Working: Each circle has 0 corners, so 0 + 0 + 0 = 0 corners in total.
+
+--- Triangles ---
+
+Question 16: How many straight sides does a triangle have?
+Answer: 3
+Working: A triangle is a 2D shape with 3 straight sides.
+
+Question 17: How many corners does a triangle have?
+Answer: 3
+Working: A triangle has 3 corners (vertices) where its 3 straight sides meet.
+
+Question 18: A flat 2D shape has 3 straight sides and 3 corners. What is the name of this shape?
+Answer: Triangle
+Working: A 2D shape with 3 straight sides and 3 corners is a triangle.
+
+Question 19: Ava uses sticks to make 1 triangle. Each stick makes 1 side. How many sticks does Ava need?
+Answer: 3
+Working: A triangle has 3 straight sides, so Ava needs 3 sticks.
+
+Question 20: Ben makes 2 separate triangles using sticks. How many straight sides do 2 triangles have altogether?
+Answer: 6
+Working: Each triangle has 3 sides: 3 + 3 = 6 sides altogether.

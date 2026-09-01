@@ -1,0 +1,700 @@
+{
+  "grade": 2,
+  "status": "completed",
+  "topics": {
+    "Y2.NPV.1": {
+      "topic_code": "Y2.NPV.1",
+      "topic": "Counting in steps of 2, 3, 5 from 0, and in 10s from any number forwards and backwards",
+      "domain_code": "Y2.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Counting in steps of 2 from 0",
+          "evidence": "Counting in steps of 2, 3, 5 from 0"
+        },
+        {
+          "name": "Counting in steps of 3 from 0",
+          "evidence": "Counting in steps of 2, 3, 5 from 0"
+        },
+        {
+          "name": "Counting in steps of 5 from 0",
+          "evidence": "Counting in steps of 2, 3, 5 from 0"
+        },
+        {
+          "name": "Counting in 10s from any number forwards and backwards",
+          "evidence": "in 10s from any number forwards and backwards"
+        }
+      ]
+    },
+    "Y2.NPV.2": {
+      "topic_code": "Y2.NPV.2",
+      "topic": "Place value of two-digit numbers and flexible standard and non-standard partitioning",
+      "domain_code": "Y2.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Place value of two-digit numbers",
+          "evidence": "Place value of two-digit numbers"
+        },
+        {
+          "name": "Standard partitioning",
+          "evidence": "Standard: 56 = 50 + [ 6 ]"
+        },
+        {
+          "name": "Flexible non-standard partitioning",
+          "evidence": "flexible standard and non-standard partitioning"
+        }
+      ]
+    },
+    "Y2.NPV.3": {
+      "topic_code": "Y2.NPV.3",
+      "topic": "Identifying, representing, and estimating numbers on number lines (0–50, 0–100)",
+      "domain_code": "Y2.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Identifying numbers on number lines",
+          "evidence": "Identifying, representing, and estimating numbers on number lines"
+        },
+        {
+          "name": "Representing numbers on number lines",
+          "evidence": "Identifying, representing, and estimating numbers on number lines"
+        },
+        {
+          "name": "Estimating numbers on number lines",
+          "evidence": "Identifying, representing, and estimating numbers on number lines"
+        }
+      ]
+    },
+    "Y2.NPV.4": {
+      "topic_code": "Y2.NPV.4",
+      "topic": "Comparing and ordering numbers up to 100 using `<`, `>`, and `=`",
+      "domain_code": "Y2.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Comparing numbers up to 100 using `<`, `>`, and `=`",
+          "evidence": "compare and order numbers from 0 up to 100; use <, > and = signs"
+        },
+        {
+          "name": "Ordering numbers up to 100",
+          "evidence": "compare and order numbers from 0 up to 100"
+        }
+      ]
+    },
+    "Y2.NPV.5": {
+      "topic_code": "Y2.NPV.5",
+      "topic": "Reading and writing numbers to at least 100 in numerals and in words",
+      "domain_code": "Y2.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Reading and writing numbers to at least 100 in numerals",
+          "evidence": "in numerals"
+        },
+        {
+          "name": "Reading and writing numbers to at least 100 in words",
+          "evidence": "in words"
+        }
+      ]
+    },
+    "Y2.NPV.6": {
+      "topic_code": "Y2.NPV.6",
+      "topic": "Finding 10 more and 10 less and using place value facts to solve problems",
+      "domain_code": "Y2.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Finding 10 more and 10 less",
+          "evidence": "Finding 10 more and 10 less"
+        },
+        {
+          "name": "Using place value facts to solve problems",
+          "evidence": "using place value facts to solve problems"
+        }
+      ]
+    },
+    "Y2.AS.1": {
+      "topic_code": "Y2.AS.1",
+      "topic": "Recall and use addition and subtraction facts to 20 and complete 4-fact families",
+      "domain_code": "Y2.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Recall and use addition and subtraction facts to 20",
+          "evidence": "Recall and use addition and subtraction facts to 20"
+        },
+        {
+          "name": "Complete 4-fact families",
+          "evidence": "complete 4-fact families"
+        }
+      ]
+    },
+    "Y2.AS.2": {
+      "topic_code": "Y2.AS.2",
+      "topic": "Derive and use related facts up to 100 (multiples of 10 and related single-digit extensions)",
+      "domain_code": "Y2.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Multiples of 10",
+          "evidence": "multiples of 10"
+        },
+        {
+          "name": "Related single-digit extensions",
+          "evidence": "related single-digit extensions"
+        }
+      ]
+    },
+    "Y2.AS.3": {
+      "topic_code": "Y2.AS.3",
+      "topic": "Add and subtract two-digit numbers and ones mentally bridging multiples of 10",
+      "domain_code": "Y2.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Add two-digit numbers and ones mentally bridging multiples of 10",
+          "evidence": "Add and subtract two-digit numbers and ones mentally bridging multiples of 10"
+        },
+        {
+          "name": "Subtract two-digit numbers and ones mentally bridging multiples of 10",
+          "evidence": "Add and subtract two-digit numbers and ones mentally bridging multiples of 10"
+        }
+      ]
+    },
+    "Y2.AS.4": {
+      "topic_code": "Y2.AS.4",
+      "topic": "Add and subtract two-digit numbers and tens, including near multiples with compensation",
+      "domain_code": "Y2.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Add and subtract two-digit numbers and tens",
+          "evidence": "Add and subtract two-digit numbers and tens"
+        },
+        {
+          "name": "Add and subtract near multiples with compensation",
+          "evidence": "near multiples with compensation"
+        }
+      ]
+    },
+    "Y2.AS.5": {
+      "topic_code": "Y2.AS.5",
+      "topic": "Add and subtract two two-digit numbers with and without exchange",
+      "domain_code": "Y2.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Add two two-digit numbers without exchange",
+          "evidence": "Add and subtract two two-digit numbers with and without exchange"
+        },
+        {
+          "name": "Add two two-digit numbers with exchange",
+          "evidence": "Add and subtract two two-digit numbers with and without exchange"
+        },
+        {
+          "name": "Subtract two two-digit numbers without exchange",
+          "evidence": "Add and subtract two two-digit numbers with and without exchange"
+        },
+        {
+          "name": "Subtract two two-digit numbers with exchange",
+          "evidence": "2-digit addition and subtraction with exchange"
+        }
+      ]
+    },
+    "Y2.AS.6": {
+      "topic_code": "Y2.AS.6",
+      "topic": "Add three single-digit numbers using bonds to 10 and doubles",
+      "domain_code": "Y2.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Adding three single-digit numbers using bonds to 10",
+          "evidence": "bonds to 10"
+        },
+        {
+          "name": "Adding three single-digit numbers using doubles",
+          "evidence": "doubles"
+        }
+      ]
+    },
+    "Y2.AS.7": {
+      "topic_code": "Y2.AS.7",
+      "topic": "Commutativity of addition, non-commutativity of subtraction, and algebraic expression balance",
+      "domain_code": "Y2.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Commutativity of addition",
+          "evidence": "Commutativity of addition"
+        },
+        {
+          "name": "Non-commutativity of subtraction",
+          "evidence": "non-commutativity of subtraction"
+        },
+        {
+          "name": "Algebraic expression balance",
+          "evidence": "algebraic expression balance"
+        }
+      ]
+    },
+    "Y2.AS.8": {
+      "topic_code": "Y2.AS.8",
+      "topic": "Inverse relationship between addition and subtraction to check calculations and solve missing number problems",
+      "domain_code": "Y2.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Checking calculations using inverse operations",
+          "evidence": "check calculations"
+        },
+        {
+          "name": "Solving missing number problems using inverse operations",
+          "evidence": "solve missing number problems"
+        }
+      ]
+    },
+    "Y2.MD.1": {
+      "topic_code": "Y2.MD.1",
+      "topic": "Multiplication and division facts for the 2, 5, and 10 multiplication tables",
+      "domain_code": "Y2.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Multiplication and division facts for the 2 multiplication table",
+          "evidence": "2, 5, and 10 multiplication tables"
+        },
+        {
+          "name": "Multiplication and division facts for the 5 multiplication table",
+          "evidence": "2, 5, and 10 multiplication tables"
+        },
+        {
+          "name": "Multiplication and division facts for the 10 multiplication table",
+          "evidence": "2, 5, and 10 multiplication tables"
+        }
+      ]
+    },
+    "Y2.MD.2": {
+      "topic_code": "Y2.MD.2",
+      "topic": "Odd and even numbers, parity of multiples, and divisibility rules",
+      "domain_code": "Y2.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Odd and even numbers",
+          "evidence": "Odd and even numbers"
+        },
+        {
+          "name": "Parity of multiples",
+          "evidence": "parity of multiples"
+        },
+        {
+          "name": "Divisibility rules",
+          "evidence": "divisibility rules"
+        }
+      ]
+    },
+    "Y2.MD.3": {
+      "topic_code": "Y2.MD.3",
+      "topic": "Mathematical statements using x, ÷, and = in stories and calculations",
+      "domain_code": "Y2.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Mathematical statements in stories",
+          "evidence": "in stories and calculations"
+        },
+        {
+          "name": "Mathematical statements in calculations",
+          "evidence": "in stories and calculations"
+        }
+      ]
+    },
+    "Y2.MD.4": {
+      "topic_code": "Y2.MD.4",
+      "topic": "Commutativity of multiplication and non-commutativity of division using arrays and grouping",
+      "domain_code": "Y2.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Commutativity of multiplication",
+          "evidence": "Commutativity of multiplication"
+        },
+        {
+          "name": "Non-commutativity of division",
+          "evidence": "non-commutativity of division"
+        }
+      ]
+    },
+    "Y2.MD.5": {
+      "topic_code": "Y2.MD.5",
+      "topic": "Solving multiplication and division problems using repeated addition, grouping, sharing, scaling, and bar models",
+      "domain_code": "Y2.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Repeated addition",
+          "evidence": "repeated addition"
+        },
+        {
+          "name": "Grouping",
+          "evidence": "grouping"
+        },
+        {
+          "name": "Sharing",
+          "evidence": "sharing"
+        },
+        {
+          "name": "Scaling",
+          "evidence": "scaling"
+        },
+        {
+          "name": "Bar models",
+          "evidence": "bar models"
+        }
+      ]
+    },
+    "Y2.F.1": {
+      "topic_code": "Y2.F.1",
+      "topic": "Recognise, find, name, and write fractions \\frac{1{3, \\frac{1{4, \\frac{2{4, \\frac{3{4 of shapes, lengths, and sets",
+      "domain_code": "Y2.F",
+      "domain": "Fractions",
+      "subtopics": [
+        {
+          "name": "Fractions of shapes",
+          "evidence": "shapes"
+        },
+        {
+          "name": "Fractions of lengths",
+          "evidence": "lengths"
+        },
+        {
+          "name": "Fractions of sets",
+          "evidence": "sets"
+        }
+      ]
+    },
+    "Y2.F.2": {
+      "topic_code": "Y2.F.2",
+      "topic": "Recognise and write simple fraction equivalence (\\frac{2{4 = \\frac{1{2, \\frac{n{n = 1 whole) and count in halves and quarters",
+      "domain_code": "Y2.F",
+      "domain": "Fractions",
+      "subtopics": [
+        {
+          "name": "Recognise and write simple fraction equivalence",
+          "evidence": "Recognise and write simple fraction equivalence"
+        },
+        {
+          "name": "Count in halves and quarters",
+          "evidence": "count in halves and quarters"
+        }
+      ]
+    },
+    "Y2.F.3": {
+      "topic_code": "Y2.F.3",
+      "topic": "Solve simple fraction quantity and sharing problems",
+      "domain_code": "Y2.F",
+      "domain": "Fractions",
+      "subtopics": [
+        {
+          "name": "Fraction quantity problems",
+          "evidence": "fraction quantity"
+        },
+        {
+          "name": "Fraction sharing problems",
+          "evidence": "sharing problems"
+        }
+      ]
+    },
+    "Y2.M.1": {
+      "topic_code": "Y2.M.1",
+      "topic": "Standard units and measuring length/height (m/cm), mass (kg/g), capacity/volume (l/ml), and temperature (^ degreesC)",
+      "domain_code": "Y2.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Measuring length and height (m and cm)",
+          "evidence": "measuring length/height ($\\text{m}/\\text{cm}$)"
+        },
+        {
+          "name": "Measuring mass (kg and g)",
+          "evidence": "mass ($\\text{kg}/\\text{g}$)"
+        },
+        {
+          "name": "Measuring capacity and volume (l and ml)",
+          "evidence": "capacity/volume ($\\text{l}/\\text{ml}$)"
+        },
+        {
+          "name": "Measuring temperature (°C)",
+          "evidence": "temperature ($^\\circ\\text{C}$)"
+        }
+      ]
+    },
+    "Y2.M.2": {
+      "topic_code": "Y2.M.2",
+      "topic": "Comparing and ordering lengths, mass, volume/capacity, and temperature using `<`, `>`, and `=`",
+      "domain_code": "Y2.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Comparing and ordering lengths",
+          "evidence": "Comparing and ordering lengths"
+        },
+        {
+          "name": "Comparing and ordering mass",
+          "evidence": "mass"
+        },
+        {
+          "name": "Comparing and ordering volume and capacity",
+          "evidence": "volume/capacity"
+        },
+        {
+          "name": "Comparing and ordering temperature",
+          "evidence": "temperature"
+        }
+      ]
+    },
+    "Y2.M.3": {
+      "topic_code": "Y2.M.3",
+      "topic": "Money values, combining coins and notes to make amounts (written as £ and p)",
+      "domain_code": "Y2.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Money values in pounds (£) and pence (p)",
+          "evidence": "money values in pounds (£) and pence (p)"
+        },
+        {
+          "name": "Combining coins and notes to make amounts",
+          "evidence": "combining coins and notes to make amounts"
+        }
+      ]
+    },
+    "Y2.M.4": {
+      "topic_code": "Y2.M.4",
+      "topic": "Finding different coin combinations that equal the same amount of money",
+      "domain_code": "Y2.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Finding different coin combinations that equal the same amount of money",
+          "evidence": "find different combinations of coins that equal the same amounts of money"
+        }
+      ]
+    },
+    "Y2.M.5": {
+      "topic_code": "Y2.M.5",
+      "topic": "Solving money problems involving addition, subtraction, and giving change",
+      "domain_code": "Y2.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Solving money problems involving addition",
+          "evidence": "involving addition"
+        },
+        {
+          "name": "Solving money problems involving subtraction",
+          "evidence": "subtraction"
+        },
+        {
+          "name": "Giving change",
+          "evidence": "giving change"
+        }
+      ]
+    },
+    "Y2.M.6": {
+      "topic_code": "Y2.M.6",
+      "topic": "Telling and writing time to 5 minutes (including quarter past/to, minutes past/to) on analogue clocks",
+      "domain_code": "Y2.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Quarter past and quarter to",
+          "evidence": "quarter past/to"
+        },
+        {
+          "name": "Minutes past and minutes to",
+          "evidence": "minutes past/to"
+        }
+      ]
+    },
+    "Y2.M.7": {
+      "topic_code": "Y2.M.7",
+      "topic": "Time intervals and relationships (60 min in 1 hr, 24 hr in 1 day, start/end/duration calculations)",
+      "domain_code": "Y2.M",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "60 minutes in an hour",
+          "evidence": "60 min in 1 hr"
+        },
+        {
+          "name": "24 hours in a day",
+          "evidence": "24 hr in 1 day"
+        },
+        {
+          "name": "Start, end, and duration calculations",
+          "evidence": "start/end/duration calculations"
+        }
+      ]
+    },
+    "Y2.GPS.1": {
+      "topic_code": "Y2.GPS.1",
+      "topic": "Properties of 2-D shapes (sides, vertices, vertical line symmetry, shape dissection)",
+      "domain_code": "Y2.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Sides of 2-D shapes",
+          "evidence": "sides"
+        },
+        {
+          "name": "Vertices of 2-D shapes",
+          "evidence": "vertices"
+        },
+        {
+          "name": "Vertical line symmetry",
+          "evidence": "vertical line symmetry"
+        },
+        {
+          "name": "Shape dissection",
+          "evidence": "shape dissection"
+        }
+      ]
+    },
+    "Y2.GPS.2": {
+      "topic_code": "Y2.GPS.2",
+      "topic": "Properties of 3-D shapes (edges, vertices, faces, flat vs curved surfaces)",
+      "domain_code": "Y2.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Edges",
+          "evidence": "edges"
+        },
+        {
+          "name": "Vertices",
+          "evidence": "vertices"
+        },
+        {
+          "name": "Faces",
+          "evidence": "faces"
+        },
+        {
+          "name": "Flat vs curved surfaces",
+          "evidence": "flat vs curved surfaces"
+        }
+      ]
+    },
+    "Y2.GPS.3": {
+      "topic_code": "Y2.GPS.3",
+      "topic": "Identifying 2-D shapes on the surface of 3-D shapes",
+      "domain_code": "Y2.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Identifying 2-D shapes on the surface of 3-D shapes",
+          "evidence": "identify 2-D shapes on the surface of 3-D shapes"
+        }
+      ]
+    },
+    "Y2.GPS.4": {
+      "topic_code": "Y2.GPS.4",
+      "topic": "Comparing, sorting, and classifying 2-D and 3-D shapes using Carroll and Venn diagrams",
+      "domain_code": "Y2.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Sorting and classifying shapes using Carroll diagrams",
+          "evidence": "Carroll and Venn diagrams"
+        },
+        {
+          "name": "Sorting and classifying shapes using Venn diagrams",
+          "evidence": "Carroll and Venn diagrams"
+        }
+      ]
+    },
+    "Y2.GPD.1": {
+      "topic_code": "Y2.GPD.1",
+      "topic": "Patterns and sequences of mathematical objects (repeating units, rotations)",
+      "domain_code": "Y2.GPD",
+      "domain": "Geometry: Position and Direction",
+      "subtopics": [
+        {
+          "name": "Repeating units",
+          "evidence": "repeating units"
+        },
+        {
+          "name": "Rotations",
+          "evidence": "rotations"
+        }
+      ]
+    },
+    "Y2.GPD.2": {
+      "topic_code": "Y2.GPD.2",
+      "topic": "Describing position, direction, straight-line movement, and right-angle turns (quarter, half, three-quarter, whole; clockwise and anticlockwise)",
+      "domain_code": "Y2.GPD",
+      "domain": "Geometry: Position and Direction",
+      "subtopics": [
+        {
+          "name": "Describing position and direction",
+          "evidence": "Describing position, direction"
+        },
+        {
+          "name": "Straight-line movement",
+          "evidence": "straight-line movement"
+        },
+        {
+          "name": "Right-angle turns (quarter, half, three-quarter, whole; clockwise and anticlockwise)",
+          "evidence": "right-angle turns (quarter, half, three-quarter, whole; clockwise and anticlockwise)"
+        }
+      ]
+    },
+    "Y2.S.1": {
+      "topic_code": "Y2.S.1",
+      "topic": "Construct and interpret tally charts, pictograms (keys of 1, 2, 5, 10), block diagrams, and simple tables",
+      "domain_code": "Y2.S",
+      "domain": "Statistics",
+      "subtopics": [
+        {
+          "name": "Tally charts",
+          "evidence": "tally charts"
+        },
+        {
+          "name": "Pictograms (keys of 1, 2, 5, 10)",
+          "evidence": "pictograms (keys of 1, 2, 5, 10)"
+        },
+        {
+          "name": "Block diagrams",
+          "evidence": "block diagrams"
+        },
+        {
+          "name": "Simple tables",
+          "evidence": "simple tables"
+        }
+      ]
+    },
+    "Y2.S.2": {
+      "topic_code": "Y2.S.2",
+      "topic": "Asking and answering questions about totalling, comparing, and categorical data",
+      "domain_code": "Y2.S",
+      "domain": "Statistics",
+      "subtopics": [
+        {
+          "name": "Totalling",
+          "evidence": "totalling"
+        },
+        {
+          "name": "Comparing",
+          "evidence": "comparing"
+        },
+        {
+          "name": "Categorical data",
+          "evidence": "categorical data"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-29T09:02:08.138455+00:00",
+  "completed_at": "2026-08-29T09:02:08.163524+00:00"
+}

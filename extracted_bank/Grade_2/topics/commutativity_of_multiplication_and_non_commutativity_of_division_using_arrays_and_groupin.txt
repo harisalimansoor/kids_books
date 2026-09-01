@@ -1,0 +1,66 @@
+=== Topic: Commutativity of multiplication and non-commutativity of division using arrays and grouping ===
+Domain: Multiplication and Division
+
+--- Commutativity of multiplication ---
+
+Question 1: If 5 × 2 = 10, what is 2 × 5?
+Answer: 10
+Working: Multiplication can be done in any order: 5 × 2 = 2 × 5 = 10.
+
+Question 2: Fill in the missing number: 2 × 7 = [ ] × 2
+Answer: 7
+Working: Multiplication is commutative: 2 × 7 = 7 × 2, so the missing number is 7.
+
+Question 3: An array has 4 rows of 5 dots. If the array is turned, it has 5 rows of how many dots?
+Answer: 4
+Working: An array of 4 rows of 5 dots has the same total as 5 rows of 4 dots.
+
+Question 4: Fill in the missing symbol (<, > or =) to make the statement true: 10 × 3 [ ] 3 × 10
+Answer: =
+Working: 10 × 3 = 30 and 3 × 10 = 30, so 10 × 3 = 3 × 10.
+
+Question 5: Jack has 5 bags with 2 apples in each bag. Ruby has 2 bags with 5 apples in each bag. How many apples does Ruby have?
+Answer: 10
+Working: Jack has 5 × 2 = 10 apples. Ruby has 2 × 5 = 10 apples.
+
+Question 6: Fill in the missing number: 5 × 8 = 8 × [ ]
+Answer: 5
+Working: Multiplication can be done in any order: 5 × 8 = 8 × 5, so the missing number is 5.
+
+Question 7: A baker arranges muffins in 3 rows of 10. She rearranges them into rows of 3. How many rows of 3 does she make?
+Answer: 10
+Working: 3 rows of 10 muffins = 30 muffins in total. 30 muffins arranged into rows of 3 makes 10 rows because 3 × 10 = 10 × 3.
+
+Question 8: Kai knows that 10 × 6 = 60. Write the related multiplication fact that starts with 6.
+Answer: 6 × 10 = 60
+Working: Because multiplication can be done in any order, 10 × 6 = 60 gives 6 × 10 = 60.
+
+--- Non-commutativity of division ---
+
+Question 9: True or False: Division of one number by another can be done in any order.
+Answer: False
+Working: Division is not commutative, which means division cannot be done in any order.
+
+Question 10: Which operation can be done in any order: multiplication or division?
+Answer: multiplication
+Working: Multiplication can be done in any order (it is commutative), but division cannot.
+
+Question 11: Look at the calculation: 20 ÷ 2 = 10. Does 2 ÷ 20 give the same answer? Write Yes or No.
+Answer: No
+Working: 20 ÷ 2 = 10, but 2 ÷ 20 does not equal 10 because division cannot be done in any order.
+
+Question 12: Sam says, "Because 5 × 10 = 10 × 5, then 50 ÷ 10 must equal 10 ÷ 50." Is Sam correct? Write Yes or No.
+Answer: No
+Working: Multiplication can be done in any order, but division cannot be done in any order. Therefore, Sam is not correct.
+
+Question 13: True or False: 15 ÷ 5 has the same answer as 5 ÷ 15.
+Answer: False
+Working: 15 ÷ 5 = 3, but 5 ÷ 15 does not equal 3 because division cannot be done in any order.
+
+Question 14: Amy shares 10 pencils equally between 2 pots. Each pot gets 5 pencils. If she shares 2 pencils between 10 pots, can each pot get 5 pencils? Write Yes or No.
+Answer: No
+Working: 10 ÷ 2 = 5 pencils, but 2 pencils shared among 10 pots cannot give 5 whole pencils to each pot because division cannot be reversed.
+
+Question 15: Look at these four number sentences: 2 × 5 = 10, 5 × 2 = 10, 10 ÷ 2 = 5, 2 ÷ 10 = 5. Which number sentence is incorrect?
+Answer: 2 ÷ 10 = 5
+Working: Division cannot be done in any order. 10 ÷ 2 = 5 is correct, but 2 ÷ 10 = 5 is incorrect.

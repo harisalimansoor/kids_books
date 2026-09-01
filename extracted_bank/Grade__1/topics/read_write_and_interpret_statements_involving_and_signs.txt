@@ -1,0 +1,64 @@
+=== Topic: Read, write, and interpret statements involving +, -, and = signs ===
+Domain: Addition and Subtraction
+
+--- Read, write, and interpret statements involving +, -, and = signs ---
+
+Question 1: What is 5 + 3?
+Answer: 8
+Working: Start at 5 and count on 3: 6, 7, 8. So, 5 + 3 = 8.
+
+Question 2: What is 9 - 4?
+Answer: 5
+Working: Start at 9 and count back 4: 8, 7, 6, 5. So, 9 - 4 = 5.
+
+Question 3: Which sign is missing? Write + or - to make the statement true: 6 [ ] 2 = 8
+Answer: +
+Working: 6 add 2 makes 8, so the missing sign is +.
+
+Question 4: Which sign is missing? Write + or - to make the statement true: 10 [ ] 3 = 7
+Answer: -
+Working: 10 take away 3 leaves 7, so the missing sign is -.
+
+Question 5: Write the number sentence for: 'six plus four equals ten' using numerals and signs.
+Answer: 6 + 4 = 10
+Working: 'Six' is 6, 'plus' is +, 'four' is 4, 'equals' is =, and 'ten' is 10. The number sentence is 6 + 4 = 10.
+
+Question 6: Write the number sentence for: 'thirteen minus three equals ten' using numerals and signs.
+Answer: 13 - 3 = 10
+Working: 'Thirteen' is 13, 'minus' is -, 'three' is 3, 'equals' is =, and 'ten' is 10. The number sentence is 13 - 3 = 10.
+
+Question 7: Sam has 7 stickers. Maya gives him 4 more stickers. Write the addition number sentence to show how many stickers Sam has altogether.
+Answer: 7 + 4 = 11
+Working: 7 stickers plus 4 stickers gives 11 stickers altogether: 7 + 4 = 11.
+
+Question 8: There are 12 birds on a branch. 5 birds fly away. Write the subtraction number sentence to show how many birds are left.
+Answer: 12 - 5 = 7
+Working: Start with 12 and subtract 5 to leave 7: 12 - 5 = 7.
+
+Question 9: Is the mathematical statement 8 + 6 = 15 true or false?
+Answer: False
+Working: 8 + 6 = 14, not 15. Therefore, the statement is false.
+
+Question 10: Is the mathematical statement 16 - 9 = 7 true or false?
+Answer: True
+Working: 16 take away 9 equals 7. Therefore, the statement is true.
+
+Question 11: Find the missing number to make the statement true: 14 = 8 + [ ]
+Answer: 6
+Working: 14 is the whole. 8 is one part. 14 - 8 = 6, so the missing number is 6.
+
+Question 12: Find the missing number to make the statement true: 5 = 11 - [ ]
+Answer: 6
+Working: 11 take away 6 equals 5. So, 5 = 11 - 6.
+
+Question 13: Find the missing number to make the statement true: 7 = [ ] - 9
+Answer: 16
+Working: To find the starting number, add the parts: 7 + 9 = 16. So, 7 = 16 - 9.
+
+Question 14: Which number makes this statement true? 5 + 5 = 7 + [ ]
+Answer: 3
+Working: The left side equals 5 + 5 = 10. For the right side to equal 10, 7 + 3 = 10. So the missing number is 3.
+
+Question 15: Which number makes this statement true? 10 - 2 = 4 + [ ]
+Answer: 4
+Working: 10 - 2 = 8. To make the other side equal 8, 4 + 4 = 8. So the missing number is 4.

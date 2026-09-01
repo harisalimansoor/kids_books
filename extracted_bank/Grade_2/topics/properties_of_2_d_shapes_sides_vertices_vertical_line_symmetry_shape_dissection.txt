@@ -1,0 +1,74 @@
+=== Topic: Properties of 2-D shapes (sides, vertices, vertical line symmetry, shape dissection) ===
+Domain: Geometry: Properties of Shapes
+
+--- Sides of 2-D shapes ---
+
+Question 1: How many straight sides does a pentagon have?
+Answer: 5
+Working: A pentagon is a 2-D shape with 5 straight sides.
+
+Question 2: How many straight sides does an octagon have?
+Answer: 8
+Working: An octagon is a 2-D shape with 8 straight sides.
+
+Question 3: A triangle has 3 sides and a hexagon has 6 sides. How many sides do 2 triangles and 1 hexagon have in total?
+Answer: 12
+Working: 2 triangles have 3 + 3 = 6 sides. 1 hexagon has 6 sides. Total = 6 + 6 = 12 sides.
+
+Question 4: A square has 4 straight sides. A circle has 0 straight sides. How many straight sides are there on 3 squares and 2 circles altogether?
+Answer: 12
+Working: 3 squares have 4 + 4 + 4 = 12 straight sides. 2 circles have 0 straight sides. 12 + 0 = 12 straight sides.
+
+--- Vertices of 2-D shapes ---
+
+Question 5: How many vertices does a triangle have?
+Answer: 3
+Working: A triangle has 3 straight sides and 3 vertices.
+
+Question 6: How many vertices does a circle have?
+Answer: 0
+Working: A circle has 1 curved side and 0 vertices.
+
+Question 7: Leo has 2 squares and 1 pentagon. How many vertices do his shapes have in total?
+Answer: 13
+Working: Each square has 4 vertices, so 2 squares have 4 + 4 = 8 vertices. A pentagon has 5 vertices. Total = 8 + 5 = 13 vertices.
+
+Question 8: I am a 2-D shape. I have more vertices than a square, but fewer vertices than a hexagon. What shape am I?
+Answer: pentagon
+Working: A square has 4 vertices and a hexagon has 6 vertices. The shape between 4 and 6 vertices is a pentagon, which has 5 vertices.
+
+--- Vertical line symmetry ---
+
+Question 9: Does a vertical line of symmetry go straight up and down, or straight across from side to side?
+Answer: straight up and down
+Working: A vertical line goes straight up and down.
+
+Question 10: Which of these capital letters has a vertical line of symmetry: E, T, or F?
+Answer: T
+Working: A vertical line down the middle of T creates two matching halves. E and F do not have a vertical line of symmetry.
+
+Question 11: Look at these capital letters: A, M, L. Which letter does not have a vertical line of symmetry?
+Answer: L
+Working: A and M have a vertical line of symmetry. L does not have two matching halves when split by a vertical line.
+
+Question 12: A shape is folded in half along a vertical line of symmetry. The folded half is a semicircle. What was the original full 2-D shape?
+Answer: circle
+Working: Two matching semicircles joined along the line of symmetry make a complete circle.
+
+--- Shape dissection ---
+
+Question 13: A square is cut with one straight line from one corner to the opposite corner. What two 2-D shapes are made?
+Answer: triangles
+Working: Cutting a square diagonally from corner to corner makes 2 triangles.
+
+Question 14: Ava puts 2 identical triangles together along their longest sides to make a 4-sided shape with equal sides. What shape has she made?
+Answer: square
+Working: Joining 2 identical right-angled triangles along their long sides creates a square.
+
+Question 15: A piece of paper is in the shape of a triangle with 3 sides. A straight cut snips off one corner. How many sides does the larger shape have now?
+Answer: 4
+Working: The corner cut removes 1 vertex and adds 1 new straight edge, turning the 3-sided shape into a 4-sided shape.
+
+Question 16: A regular hexagon with 6 sides is cut in half by one straight line from top to bottom through opposite vertices. How many sides does each new half shape have?
+Answer: 4
+Working: Each half keeps 3 outer sides of the hexagon plus 1 new straight cut line through the middle, making 3 + 1 = 4 sides.

@@ -1,0 +1,78 @@
+=== Topic: Recognise and write simple fraction equivalence (\frac{2{4 = \frac{1{2, \frac{n{n = 1 whole) and count in halves and quarters ===
+Domain: Fractions
+
+--- Recognise and write simple fraction equivalence ---
+
+Question 1: How many quarters are equal to 1 half?
+Answer: 2
+Working: Two quarters cover the same amount as one half, so 2 quarters = 1 half.
+
+Question 2: Fill in the missing number: 2/4 = 1/[ ]
+Answer: 2
+Working: 2/4 is equivalent to 1/2, so the missing denominator is 2.
+
+Question 3: How many halves make 1 whole?
+Answer: 2
+Working: 2 equal halves make 1 whole (2/2 = 1).
+
+Question 4: Ben shades 2 quarters of a shape. Chloe shades 1 half of an identical shape. Did Ben and Chloe shade the same fraction of their shapes? Write Yes or No.
+Answer: Yes
+Working: 2/4 is equal to 1/2, so both Ben and Chloe shaded the same fraction.
+
+Question 5: Fill in the missing number: [ ]/4 = 1/2
+Answer: 2
+Working: 1/2 is equal to 2/4, so the missing numerator is 2.
+
+Question 6: A cake is cut into 4 equal slices. Leo eats all 4 slices. How many whole cakes has Leo eaten?
+Answer: 1
+Working: 4 quarters make 1 whole cake (4/4 = 1).
+
+Question 7: Complete the statement: 3 thirds is equal to [ ] whole.
+Answer: 1
+Working: 3 equal third parts make 1 whole (3/3 = 1).
+
+Question 8: Ella has 12 stickers. 1/2 of 12 is 6. What is 2/4 of 12?
+Answer: 6
+Working: Because 2/4 is equivalent to 1/2, 2/4 of 12 is also 6.
+
+Question 9: An apple is cut into 4 equal quarters. Jack eats 2 quarters. Ruby eats 1 half of an identical apple. Who ate more: Jack, Ruby, or did they eat the same amount?
+Answer: Same amount
+Working: 2 quarters is equal to 1 half, so Jack and Ruby ate the same amount.
+
+--- Count in halves and quarters ---
+
+Question 10: Write the next number in this counting pattern: 0, 1/2, 1, 1 and 1/2, [ ]
+Answer: 2
+Working: Counting up in halves: after 1 and 1/2 comes 2.
+
+Question 11: Write the missing fraction when counting in quarters: 1/4, 2/4, [ ], 1
+Answer: 3/4
+Working: Counting in quarters: 1/4, 2/4, 3/4, 4/4 (or 1). The missing fraction is 3/4.
+
+Question 12: Fill in the missing number in this sequence: 1/2, 1, [ ], 2, 2 and 1/2
+Answer: 1 and 1/2
+Working: The sequence goes up by 1/2 each time: 1 + 1/2 = 1 and 1/2.
+
+Question 13: A frog starts at 0 and takes 3 jumps of 1/2 along a number line. What number does the frog land on?
+Answer: 1 and 1/2
+Working: Jump 1: 1/2. Jump 2: 1. Jump 3: 1 and 1/2.
+
+Question 14: Count backward in halves: 3, 2 and 1/2, 2, [ ]
+Answer: 1 and 1/2
+Working: Counting back in steps of 1/2: 2 - 1/2 = 1 and 1/2.
+
+Question 15: Write the next number when counting forward in quarters: 0, 1/4, 2/4, 3/4, 1, [ ]
+Answer: 1 and 1/4
+Working: Counting up by 1/4 after 1 gives 1 and 1/4.
+
+Question 16: Start at 1 and 1/4. Count forward 2 quarters. What number do you reach?
+Answer: 1 and 3/4
+Working: 1 and 1/4 + 1/4 = 1 and 2/4 (or 1 and 1/2). Adding another 1/4 gives 1 and 3/4.
+
+Question 17: A number track counts in quarters: 2/4, 3/4, 1, [ ], 1 and 2/4. What is the missing number?
+Answer: 1 and 1/4
+Working: The step size is 1/4. One quarter more than 1 is 1 and 1/4.
+
+Question 18: Maya counts backward in halves starting from 2: 2, 1 and 1/2, 1, [ ]. What is the next number Maya says?
+Answer: 1/2
+Working: Counting back in steps of 1/2 from 1 gives 1/2.

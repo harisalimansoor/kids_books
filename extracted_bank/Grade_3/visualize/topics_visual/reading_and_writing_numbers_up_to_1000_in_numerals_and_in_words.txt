@@ -1,0 +1,151 @@
+###################################
+Reading and writing numbers up to 1000 in numerals and in words
+###################################
+
+--- Reading and writing numbers up to 1000 in numerals ---
+
+1. Look at the picture! {user_name} is looking at this.
+Write the number three hundred and forty-two in numerals.
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number three hundred and forty-two in numerals.
+
+3. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Write the number three hundred and forty-two in numerals.
+
+4. Look at the picture! {user_name} is looking at this.
+Write the number five hundred and eighty in numerals.
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number five hundred and eighty in numerals.
+
+6. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Write the number five hundred and eighty in numerals.
+
+7. Look at the picture! {user_name} is looking at this.
+Write the number seven hundred and six in numerals.
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write the number seven hundred and six in numerals.
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Write the number seven hundred and six in numerals.
+
+10. Look at the picture! {user_name} is looking at this.
+A village hall has nine hundred and fifteen chairs. Write the number of chairs in numerals.
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A village hall has nine hundred and fifteen chairs. Write the number of chairs in numerals.
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A village hall has nine hundred and fifteen chairs. Write the number of chairs in numerals.
+
+13. Look at the picture! {user_name} is looking at this.
+Write the number one thousand in numerals.
+
+14. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Write the number one thousand in numerals.
+
+15. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Write the number one thousand in numerals.
+
+16. Look at the picture! {user_name} is looking at this.
+A number has 4 hundreds, 0 tens, and 8 ones. Write this number in numerals.
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A number has 4 hundreds, 0 tens, and 8 ones. Write this number in numerals.
+
+18. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A number has 4 hundreds, 0 tens, and 8 ones. Write this number in numerals.
+
+19. Look at the picture! {user_name} is looking at this.
+Write the number six hundred and seventy-four in numerals.
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number six hundred and seventy-four in numerals.
+
+21. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number six hundred and seventy-four in numerals.
+
+22. Look at the picture! {user_name} is looking at this.
+Sam writes: 'eight hundred and three = 830'. What is the correct numeral for eight hundred and three?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Sam writes: 'eight hundred and three = 830'. What is the correct numeral for eight hundred and three?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Sam writes: 'eight hundred and three = 830'. What is the correct numeral for eight hundred and three?
+
+--- Reading and writing numbers up to 1000 in words ---
+
+25. Look at the picture! {user_name} is looking at this.
+Write 235 in words.
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write 235 in words.
+
+27. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Write 235 in words.
+
+28. Look at the picture! {user_name} is looking at this.
+Write 600 in words.
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write 600 in words.
+
+30. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Write 600 in words.
+
+31. Look at the picture! {user_name} is looking at this.
+A school has 509 pupils. Write 509 in words.
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+A school has 509 pupils. Write 509 in words.
+
+33. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A school has 509 pupils. Write 509 in words.
+
+34. Look at the picture! {user_name} is looking at this.
+Write 780 in words.
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write 780 in words.
+
+36. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Write 780 in words.
+
+37. Look at the picture! {user_name} is looking at this.
+Write 417 in words.
+
+38. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write 417 in words.
+
+39. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Write 417 in words.
+
+40. Look at the picture! {user_name} is looking at this.
+Write 1000 in words.
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write 1000 in words.
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Write 1000 in words.
+
+43. Look at the picture! {user_name} is looking at this.
+A runner has a race number made of 8 hundreds, 9 tens, and 1 one. Write this race number in words.
+
+44. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A runner has a race number made of 8 hundreds, 9 tens, and 1 one. Write this race number in words.
+
+45. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A runner has a race number made of 8 hundreds, 9 tens, and 1 one. Write this race number in words.
+
+46. Look at the picture! {user_name} is looking at this.
+Ella has 304 stickers. Write the number of stickers she has in words.
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Ella has 304 stickers. Write the number of stickers she has in words.
+
+48. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Ella has 304 stickers. Write the number of stickers she has in words.

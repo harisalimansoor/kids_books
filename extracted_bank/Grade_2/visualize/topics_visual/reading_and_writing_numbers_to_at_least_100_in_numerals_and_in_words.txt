@@ -1,0 +1,169 @@
+###################################
+Reading and writing numbers to at least 100 in numerals and in words
+###################################
+
+--- Reading and writing numbers to at least 100 in numerals ---
+
+1. Look at the picture! {user_name} is looking at this.
+Write the number forty-six in numerals.
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number forty-six in numerals.
+
+3. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Write the number forty-six in numerals.
+
+4. Look at the picture! {user_name} is looking at this.
+Write the number nineteen in numerals.
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write the number nineteen in numerals.
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Write the number nineteen in numerals.
+
+7. Look at the picture! {user_name} is looking at this.
+Write the number seventy in numerals.
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write the number seventy in numerals.
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Write the number seventy in numerals.
+
+10. Look at the picture! {user_name} is looking at this.
+Write the number one hundred in numerals.
+
+11. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Write the number one hundred in numerals.
+
+12. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Write the number one hundred in numerals.
+
+13. Look at the picture! {user_name} is looking at this.
+A reading book has ninety-two pages. Write ninety-two in numerals.
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A reading book has ninety-two pages. Write ninety-two in numerals.
+
+15. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A reading book has ninety-two pages. Write ninety-two in numerals.
+
+16. Look at the picture! {user_name} is looking at this.
+A number has 6 tens and 5 ones. Write this number in numerals.
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A number has 6 tens and 5 ones. Write this number in numerals.
+
+18. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A number has 6 tens and 5 ones. Write this number in numerals.
+
+19. Look at the picture! {user_name} is looking at this.
+Write the number eighty-four in digits.
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number eighty-four in digits.
+
+21. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Write the number eighty-four in digits.
+
+22. Look at the picture! {user_name} is looking at this.
+A sticker costs thirty-seven pence. Write thirty-seven in numerals.
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A sticker costs thirty-seven pence. Write thirty-seven in numerals.
+
+24. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A sticker costs thirty-seven pence. Write thirty-seven in numerals.
+
+--- Reading and writing numbers to at least 100 in words ---
+
+25. Look at the picture! {user_name} is looking at this.
+Write the number 35 in words.
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number 35 in words.
+
+27. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 35 in words.
+
+28. Look at the picture! {user_name} is looking at this.
+Write the number 16 in words.
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number 16 in words.
+
+30. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Write the number 16 in words.
+
+31. Look at the picture! {user_name} is looking at this.
+Write the number 60 in words.
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number 60 in words.
+
+33. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Write the number 60 in words.
+
+34. Look at the picture! {user_name} is looking at this.
+Write the number 100 in words.
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write the number 100 in words.
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Write the number 100 in words.
+
+37. Look at the picture! {user_name} is looking at this.
+A birthday badge has the number 42 on it. Write 42 in words.
+
+38. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A birthday badge has the number 42 on it. Write 42 in words.
+
+39. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A birthday badge has the number 42 on it. Write 42 in words.
+
+40. Look at the picture! {user_name} is looking at this.
+There are 27 pencils in a pot. Write 27 in words.
+
+41. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+There are 27 pencils in a pot. Write 27 in words.
+
+42. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+There are 27 pencils in a pot. Write 27 in words.
+
+43. Look at the picture! {user_name} is looking at this.
+A number is made of 8 tens and 3 ones. Write this number in words.
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A number is made of 8 tens and 3 ones. Write this number in words.
+
+45. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A number is made of 8 tens and 3 ones. Write this number in words.
+
+46. Look at the picture! {user_name} is looking at this.
+Write the number 94 in words.
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 94 in words.
+
+48. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number 94 in words.
+
+49. Look at the picture! {user_name} is looking at this.
+Ben has 51 stickers in his album. Write 51 in words.
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Ben has 51 stickers in his album. Write 51 in words.
+
+51. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Ben has 51 stickers in his album. Write 51 in words.
+
+52. Look at the picture! {user_name} is looking at this.
+A number is 10 more than 65. Write this new number in words.
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A number is 10 more than 65. Write this new number in words.
+
+54. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A number is 10 more than 65. Write this new number in words.

@@ -1,0 +1,171 @@
+###################################
+Adding and subtracting money in £ and p, calculating change, and practical money problem solving
+###################################
+
+--- Adding and subtracting money in £ and p ---
+
+1. Look at the picture! {user_name} is looking at this.
+Calculate £2 and 35p + £3 and 40p.
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate £2 and 35p + £3 and 40p.
+
+3. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Calculate £2 and 35p + £3 and 40p.
+
+4. Look at the picture! {user_name} is looking at this.
+Calculate £3 and 65p + £2 and 50p.
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Calculate £3 and 65p + £2 and 50p.
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Calculate £3 and 65p + £2 and 50p.
+
+7. Look at the picture! {user_name} is looking at this.
+Calculate £5 and 80p - £2 and 35p.
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Calculate £5 and 80p - £2 and 35p.
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Calculate £5 and 80p - £2 and 35p.
+
+10. Look at the picture! {user_name} is looking at this.
+Calculate £7 and 20p - £3 and 45p.
+
+11. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Calculate £7 and 20p - £3 and 45p.
+
+12. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Calculate £7 and 20p - £3 and 45p.
+
+13. Look at the picture! {user_name} is looking at this.
+Calculate £1 and 50p + £2 and 25p + 65p.
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate £1 and 50p + £2 and 25p + 65p.
+
+15. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Calculate £1 and 50p + £2 and 25p + 65p.
+
+16. Look at the picture! {user_name} is looking at this.
+Calculate £6 - £2 and 45p.
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate £6 - £2 and 45p.
+
+18. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Calculate £6 - £2 and 45p.
+
+--- Calculating change ---
+
+19. Look at the picture! {user_name} is looking at this.
+Liam buys an apple for 63p. He pays with a £1 coin. How much change does Liam receive?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Liam buys an apple for 63p. He pays with a £1 coin. How much change does Liam receive?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Liam buys an apple for 63p. He pays with a £1 coin. How much change does Liam receive?
+
+22. Look at the picture! {user_name} is looking at this.
+A packet of crayons costs £3 and 40p. Ella pays with a £5 note. How much change should Ella get?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A packet of crayons costs £3 and 40p. Ella pays with a £5 note. How much change should Ella get?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A packet of crayons costs £3 and 40p. Ella pays with a £5 note. How much change should Ella get?
+
+25. Look at the picture! {user_name} is looking at this.
+Noah buys a board game that costs £7 and 35p. He pays with a £10 note. How much change does Noah receive?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Noah buys a board game that costs £7 and 35p. He pays with a £10 note. How much change does Noah receive?
+
+27. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Noah buys a board game that costs £7 and 35p. He pays with a £10 note. How much change does Noah receive?
+
+28. Look at the picture! {user_name} is looking at this.
+Hannah buys a notebook for £2 and 40p and a pencil for 85p. She pays with a £5 note. How much change does she receive?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+Hannah buys a notebook for £2 and 40p and a pencil for 85p. She pays with a £5 note. How much change does she receive?
+
+30. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Hannah buys a notebook for £2 and 40p and a pencil for 85p. She pays with a £5 note. How much change does she receive?
+
+31. Look at the picture! {user_name} is looking at this.
+Ben buys a storybook for £4 and 60p and a bookmark for £1 and 50p. He pays with a £10 note. How much change does he get?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+Ben buys a storybook for £4 and 60p and a bookmark for £1 and 50p. He pays with a £10 note. How much change does he get?
+
+33. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Ben buys a storybook for £4 and 60p and a bookmark for £1 and 50p. He pays with a £10 note. How much change does he get?
+
+34. Look at the picture! {user_name} is looking at this.
+A snack costs £1 and 35p. Priya pays with a £2 coin. How much change does Priya get?
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A snack costs £1 and 35p. Priya pays with a £2 coin. How much change does Priya get?
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A snack costs £1 and 35p. Priya pays with a £2 coin. How much change does Priya get?
+
+--- Practical money problem solving ---
+
+37. Look at the picture! {user_name} is looking at this.
+Maya has £5 and 80p in her money box. Leo has £3 and 25p in his money box. How much more money does Maya have than Leo?
+
+38. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Maya has £5 and 80p in her money box. Leo has £3 and 25p in his money box. How much more money does Maya have than Leo?
+
+39. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Maya has £5 and 80p in her money box. Leo has £3 and 25p in his money box. How much more money does Maya have than Leo?
+
+40. Look at the picture! {user_name} is looking at this.
+Oliver wants to buy a toy that costs £9 and 50p. He has saved £6 and 20p so far. How much more money does Oliver need to save?
+
+41. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Oliver wants to buy a toy that costs £9 and 50p. He has saved £6 and 20p so far. How much more money does Oliver need to save?
+
+42. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Oliver wants to buy a toy that costs £9 and 50p. He has saved £6 and 20p so far. How much more money does Oliver need to save?
+
+43. Look at the picture! {user_name} is looking at this.
+A comic costs £2 and 30p. How much do 3 of these comics cost altogether?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A comic costs £2 and 30p. How much do 3 of these comics cost altogether?
+
+45. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A comic costs £2 and 30p. How much do 3 of these comics cost altogether?
+
+46. Look at the picture! {user_name} is looking at this.
+Four friends share a prize of £8 and 40p equally. How much money does each friend receive?
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Four friends share a prize of £8 and 40p equally. How much money does each friend receive?
+
+48. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Four friends share a prize of £8 and 40p equally. How much money does each friend receive?
+
+49. Look at the picture! {user_name} is looking at this.
+Sophie has £7 and 50p. She buys a toy for £3 and 20p and a drink for £1 and 10p. How much money does Sophie have left?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Sophie has £7 and 50p. She buys a toy for £3 and 20p and a drink for £1 and 10p. How much money does Sophie have left?
+
+51. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Sophie has £7 and 50p. She buys a toy for £3 and 20p and a drink for £1 and 10p. How much money does Sophie have left?
+
+52. Look at the picture! {user_name} is looking at this.
+Sam earns £3 and 50p on Saturday and £2 and 75p on Sunday for helping in the garden. How much money does Sam earn in total over the weekend?
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Sam earns £3 and 50p on Saturday and £2 and 75p on Sunday for helping in the garden. How much money does Sam earn in total over the weekend?
+
+54. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Sam earns £3 and 50p on Saturday and £2 and 75p on Sunday for helping in the garden. How much money does Sam earn in total over the weekend?

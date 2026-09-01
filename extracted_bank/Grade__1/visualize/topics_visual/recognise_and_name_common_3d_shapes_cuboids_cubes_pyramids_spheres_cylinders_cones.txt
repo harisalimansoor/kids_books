@@ -1,0 +1,231 @@
+###################################
+Recognise and name common 3D shapes (cuboids, cubes, pyramids, spheres, cylinders, cones)
+###################################
+
+--- Cuboids ---
+
+1. Look at the picture! {user_name} is looking at this.
+A cereal box has 6 flat rectangular faces. What 3D shape is the cereal box?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A cereal box has 6 flat rectangular faces. What 3D shape is the cereal box?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A cereal box has 6 flat rectangular faces. What 3D shape is the cereal box?
+
+4. Look at the picture! {user_name} is looking at this.
+A shoe box is an example of which 3D shape: a cuboid or a sphere?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A shoe box is an example of which 3D shape: a cuboid or a sphere?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A shoe box is an example of which 3D shape: a cuboid or a sphere?
+
+7. Look at the picture! {user_name} is looking at this.
+Oliver draws around one flat face of a brick on paper. He draws a rectangle. What 3D shape is the brick?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Oliver draws around one flat face of a brick on paper. He draws a rectangle. What 3D shape is the brick?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Oliver draws around one flat face of a brick on paper. He draws a rectangle. What 3D shape is the brick?
+
+10. Look at the picture! {user_name} is looking at this.
+Can a cuboid be stacked to make a tall tower? Write yes or no.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Can a cuboid be stacked to make a tall tower? Write yes or no.
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Can a cuboid be stacked to make a tall tower? Write yes or no.
+
+--- Cubes ---
+
+13. Look at the picture! {user_name} is looking at this.
+A playing die has 6 flat faces that are all the same square shape. What 3D shape is the die?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A playing die has 6 flat faces that are all the same square shape. What 3D shape is the die?
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A playing die has 6 flat faces that are all the same square shape. What 3D shape is the die?
+
+16. Look at the picture! {user_name} is looking at this.
+Maya has a building block where every face is a square. Is the block a cube or a cylinder?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Maya has a building block where every face is a square. Is the block a cube or a cylinder?
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Maya has a building block where every face is a square. Is the block a cube or a cylinder?
+
+19. Look at the picture! {user_name} is looking at this.
+Which 2D shape are the flat faces of a cube: squares or circles?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Which 2D shape are the flat faces of a cube: squares or circles?
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Which 2D shape are the flat faces of a cube: squares or circles?
+
+22. Look at the picture! {user_name} is looking at this.
+Leo says that a cube has 6 flat faces. Is Leo correct? Write yes or no.
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Leo says that a cube has 6 flat faces. Is Leo correct? Write yes or no.
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Leo says that a cube has 6 flat faces. Is Leo correct? Write yes or no.
+
+--- Pyramids ---
+
+25. Look at the picture! {user_name} is looking at this.
+A 3D shape has a flat square bottom and 4 triangular faces that meet at a point at the top. What 3D shape is it?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A 3D shape has a flat square bottom and 4 triangular faces that meet at a point at the top. What 3D shape is it?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A 3D shape has a flat square bottom and 4 triangular faces that meet at a point at the top. What 3D shape is it?
+
+28. Look at the picture! {user_name} is looking at this.
+A model of an ancient Egyptian tomb has triangular faces meeting at a point at the top. Name this 3D shape.
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A model of an ancient Egyptian tomb has triangular faces meeting at a point at the top. Name this 3D shape.
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A model of an ancient Egyptian tomb has triangular faces meeting at a point at the top. Name this 3D shape.
+
+31. Look at the picture! {user_name} is looking at this.
+Nina draws around the triangular side of a pyramid. What 2D shape does she draw?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Nina draws around the triangular side of a pyramid. What 2D shape does she draw?
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Nina draws around the triangular side of a pyramid. What 2D shape does she draw?
+
+34. Look at the picture! {user_name} is looking at this.
+Does a pyramid have any curved surfaces? Write yes or no.
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Does a pyramid have any curved surfaces? Write yes or no.
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Does a pyramid have any curved surfaces? Write yes or no.
+
+--- Spheres ---
+
+37. Look at the picture! {user_name} is looking at this.
+A football is completely round with no flat faces. What 3D shape is a football?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A football is completely round with no flat faces. What 3D shape is a football?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A football is completely round with no flat faces. What 3D shape is a football?
+
+40. Look at the picture! {user_name} is looking at this.
+Jack has a glass marble. Is the marble a sphere or a cube?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Jack has a glass marble. Is the marble a sphere or a cube?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Jack has a glass marble. Is the marble a sphere or a cube?
+
+43. Look at the picture! {user_name} is looking at this.
+How many flat faces does a sphere have?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many flat faces does a sphere have?
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+How many flat faces does a sphere have?
+
+46. Look at the picture! {user_name} is looking at this.
+Can a sphere roll along the floor in every direction? Write yes or no.
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+Can a sphere roll along the floor in every direction? Write yes or no.
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Can a sphere roll along the floor in every direction? Write yes or no.
+
+--- Cylinders ---
+
+49. Look at the picture! {user_name} is looking at this.
+A tin of baked beans has 2 flat circular faces and 1 curved surface. What 3D shape is the tin?
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+A tin of baked beans has 2 flat circular faces and 1 curved surface. What 3D shape is the tin?
+
+51. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A tin of baked beans has 2 flat circular faces and 1 curved surface. What 3D shape is the tin?
+
+52. Look at the picture! {user_name} is looking at this.
+A stick of glue has flat circle faces at the top and bottom. Is the glue stick a cylinder or a cone?
+
+53. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A stick of glue has flat circle faces at the top and bottom. Is the glue stick a cylinder or a cone?
+
+54. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A stick of glue has flat circle faces at the top and bottom. Is the glue stick a cylinder or a cone?
+
+55. Look at the picture! {user_name} is looking at this.
+Lucas traces around the flat top of a cylinder. Which 2D shape does he draw: a square or a circle?
+
+56. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Lucas traces around the flat top of a cylinder. Which 2D shape does he draw: a square or a circle?
+
+57. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Lucas traces around the flat top of a cylinder. Which 2D shape does he draw: a square or a circle?
+
+58. Look at the picture! {user_name} is looking at this.
+How many flat circular faces does a cylinder have?
+
+59. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+How many flat circular faces does a cylinder have?
+
+60. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+How many flat circular faces does a cylinder have?
+
+--- Cones ---
+
+61. Look at the picture! {user_name} is looking at this.
+A party hat has 1 flat circular face at the bottom and goes to a point at the top. What 3D shape is the party hat?
+
+62. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A party hat has 1 flat circular face at the bottom and goes to a point at the top. What 3D shape is the party hat?
+
+63. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A party hat has 1 flat circular face at the bottom and goes to a point at the top. What 3D shape is the party hat?
+
+64. Look at the picture! {user_name} is looking at this.
+An orange traffic cone has a flat circular base and tapers to a point. Name this 3D shape.
+
+65. Look at the picture! {user_name} and {mother_name} are looking at this together.
+An orange traffic cone has a flat circular base and tapers to a point. Name this 3D shape.
+
+66. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+An orange traffic cone has a flat circular base and tapers to a point. Name this 3D shape.
+
+67. Look at the picture! {user_name} is looking at this.
+Which 2D shape is the flat face at the bottom of a cone: a circle or a triangle?
+
+68. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which 2D shape is the flat face at the bottom of a cone: a circle or a triangle?
+
+69. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Which 2D shape is the flat face at the bottom of a cone: a circle or a triangle?
+
+70. Look at the picture! {user_name} is looking at this.
+How many flat faces does a cone have?
+
+71. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many flat faces does a cone have?
+
+72. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+How many flat faces does a cone have?

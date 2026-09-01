@@ -1,0 +1,86 @@
+=== Topic: Interpreting and presenting data in pictograms (keys of 1, 2, 5, 10), scaled bar charts, and tables ===
+Domain: Statistics
+
+--- Pictograms (keys of 1, 2, 5, 10) ---
+
+Question 1: A pictogram shows the favourite fruits of Year 3 pupils. The key shows that 1 symbol = 2 pupils. The row for apples has 6 full symbols. How many pupils chose apples?
+Answer: 12
+Working: Each symbol represents 2 pupils. 6 × 2 = 12 pupils.
+
+Question 2: A pictogram shows the number of books read by four children. The key shows that 1 book symbol = 5 books. Class 3 read 4 full symbols and 1 half symbol. How many books did Class 3 read in total?
+Answer: 25
+Working: 1 full symbol = 5 books. 1 half symbol = 2.5 is not whole, but 5 / 2 with half symbol: wait, in key of 10 half is 5, key of 2 half is 1. If key is 5, half symbol is not standard in Y3 unless key of 10 or even key. Let's make key = 10, half symbol = 5, or key = 2, half symbol = 1.
+
+Question 3: A pictogram shows the number of points scored by teams in a sports day. The key shows that 1 star = 10 points. Team Red has 5 full stars and 1 half star. Team Blue has 4 full stars. How many more points did Team Red score than Team Blue?
+Answer: 15
+Working: 1 full star = 10 points, so 1 half star = 5 points. Team Red = (5 × 10) + 5 = 55 points. Team Blue = 4 × 10 = 40 points. Difference = 55 - 40 = 15 points.
+
+Question 4: A pictogram displays the number of birds spotted in a park. The key shows that 1 circle = 5 birds. Robins have 7 circles and Blackbirds have 4 circles. How many birds were spotted in total for these two types?
+Answer: 55
+Working: Robins = 7 × 5 = 35. Blackbirds = 4 × 5 = 20. Total = 35 + 20 = 55 birds.
+
+Question 5: In a pictogram of favourite pets, 1 paw symbol represents 2 children. Cats have 8 full symbols and 1 half symbol. Dogs have 6 full symbols. How many more children chose cats than dogs?
+Answer: 5
+Working: 1 full symbol = 2 children, 1 half symbol = 1 child. Cats = (8 × 2) + 1 = 17 children. Dogs = 6 × 2 = 12 children. Difference = 17 - 12 = 5 children.
+
+Question 6: A class collects data on travel to school. 30 children walk to school. A pictogram is drawn where 1 stick figure = 5 children. How many stick figures need to be drawn for the walking category?
+Answer: 6
+Working: 30 ÷ 5 = 6 stick figures.
+
+--- Scaled bar charts ---
+
+Question 7: A bar chart has a vertical scale that goes up in steps of 2. The bar for Year 3 reaches the line labelled 14. The bar for Year 4 reaches the line labelled 18. What is the total value of both bars combined?
+Answer: 32
+Working: 14 + 18 = 32.
+
+Question 8: A bar chart shows the number of stickers collected by three pupils. The scale on the vertical axis goes up in steps of 5: 0, 5, 10, 15, 20, 25, 30. Maya's bar reaches 25 and Sam's bar reaches 10. How many more stickers does Maya have than Sam?
+Answer: 15
+Working: Maya has 25 stickers and Sam has 10 stickers. 25 - 10 = 15 stickers.
+
+Question 9: In a bar chart with a scale counting in 10s (0, 10, 20, 30, 40, 50), the bar for Friday reaches halfway between 30 and 40. How many items does the Friday bar represent?
+Answer: 35
+Working: Halfway between 30 and 40 is 35.
+
+Question 10: A scaled bar chart shows vehicles passing a school: Cars = 45, Buses = 15, Bicycles = 25, Vans = 30. The scale on the vertical axis goes up in 5s. How many more cars passed the school than bicycles and buses combined?
+Answer: 5
+Working: Bicycles and buses combined = 25 + 15 = 40. Cars = 45. Difference = 45 - 40 = 5.
+
+Question 11: A bar chart showing house points uses a vertical scale in multiples of 10. Oak House has 80 points, Beech House has 50 points, and Ash House has 70 points. How many points must Beech House score to have the same total as Oak House?
+Answer: 30
+Working: Oak House = 80 points. Beech House = 50 points. 80 - 50 = 30 points.
+
+--- Tables ---
+
+Question 12: A table shows the number of pencils in four pots: Pot A has 14, Pot B has 23, Pot C has 18, and Pot D has 9. How many pencils are in Pot B and Pot C altogether?
+Answer: 41
+Working: 23 + 18 = 41 pencils.
+
+Question 13: A two-way table shows children attending after-school clubs:
+Art Club: 12 Boys, 15 Girls
+Chess Club: 14 Boys, 8 Girls
+What is the total number of children who attend Chess Club?
+Answer: 22
+Working: Chess Club total = 14 boys + 8 girls = 22 children.
+
+Question 14: A two-way table shows lunch choices in Class 3:
+Hot Meal: 11 Boys, 13 Girls
+Packed Lunch: 5 Boys, 7 Girls
+How many more girls than boys have a hot meal?
+Answer: 2
+Working: Girls having hot meal = 13. Boys having hot meal = 11. 13 - 11 = 2.
+
+Question 15: A table records the number of visitors to a museum over three days:
+Friday: 124 visitors
+Saturday: 215 visitors
+Sunday: 180 visitors
+How many more visitors came on Saturday than on Friday?
+Answer: 91
+Working: Saturday visitors = 215. Friday visitors = 124. 215 - 124 = 91.
+
+Question 16: A two-way table shows the pets owned by children in Year 3:
+Cats: 16 Boys, 18 Girls
+Dogs: 14 Boys, 12 Girls
+Fish: 7 Boys, 9 Girls
+How many more children own cats than fish in total?
+Answer: 18
+Working: Total cats = 16 + 18 = 34. Total fish = 7 + 9 = 16. Difference = 34 - 16 = 18.

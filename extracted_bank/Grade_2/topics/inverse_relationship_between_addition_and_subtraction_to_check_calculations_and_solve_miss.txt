@@ -1,0 +1,54 @@
+=== Topic: Inverse relationship between addition and subtraction to check calculations and solve missing number problems ===
+Domain: Addition and Subtraction
+
+--- Checking calculations using inverse operations ---
+
+Question 1: Harry works out 34 + 23 = 57. Write a subtraction calculation Harry can use to check his answer.
+Answer: 57 - 23 = 34
+Working: The inverse of addition is subtraction. Start with the total 57 and subtract one of the parts: 57 - 23 = 34 (or 57 - 34 = 23).
+
+Question 2: Maya works out 68 - 25 = 43. Write an addition calculation Maya can use to check her answer.
+Answer: 43 + 25 = 68
+Working: The inverse of subtraction is addition. Add the difference and the subtracted number to check the starting total: 43 + 25 = 68.
+
+Question 3: Liam thinks that 42 + 15 = 58. Use the inverse subtraction 58 - 15 to find out what 58 - 15 equals.
+Answer: 43
+Working: Subtract 15 from 58: 58 - 10 = 48, 48 - 5 = 43. This shows Liam's answer of 58 was incorrect because 42 + 15 = 57.
+
+Question 4: Sam calculates 19 + 8 = 27. Complete the inverse calculation to check his answer: 27 - 8 = [ ? ]
+Answer: 19
+Working: Subtract 8 from 27: 27 - 7 = 20, 20 - 1 = 19.
+
+Question 5: A shopkeeper calculates 80 - 35 = 45. Write the inverse addition sentence starting with 45 that checks this calculation.
+Answer: 45 + 35 = 80
+Working: The inverse of subtracting 35 from 80 is adding 35 to 45: 45 + 35 = 80.
+
+Question 6: Ella works out 75 - 30 = 45. What number does Ella get when she adds 45 and 30 to check her answer?
+Answer: 75
+Working: 45 + 30 = 75, which matches the original starting number.
+
+--- Solving missing number problems using inverse operations ---
+
+Question 7: Find the missing number: [ ? ] + 24 = 60
+Answer: 36
+Working: Use the inverse operation: 60 - 24 = 36.
+
+Question 8: Find the missing number: 37 + [ ? ] = 82
+Answer: 45
+Working: Use the inverse operation: 82 - 37 = 45.
+
+Question 9: Find the missing number: [ ? ] - 15 = 43
+Answer: 58
+Working: Use the inverse operation: 43 + 15 = 58.
+
+Question 10: Find the missing number: 90 - [ ? ] = 54
+Answer: 36
+Working: Find the missing part by subtracting 54 from 90: 90 - 54 = 36.
+
+Question 11: A baker baked some buns. She sold 18 buns and had 27 buns left. How many buns did she bake at the start?
+Answer: 45
+Working: [ ? ] - 18 = 27. Use the inverse operation to find the total: 27 + 18 = 45.
+
+Question 12: Leo had 35 marbles. He was given some more marbles in a bag. Now he has 62 marbles in total. How many marbles was he given?
+Answer: 27
+Working: 35 + [ ? ] = 62. Use the inverse operation: 62 - 35 = 27.

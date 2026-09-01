@@ -1,0 +1,16 @@
+###################################
+Standard units and measuring length/height (m/cm), mass (kg/g), capacity/volume (l/ml), and temperature (^ degreesC)
+###################################
+Domain: Measurement
+
+1. Measuring length and height (m and cm)
+   From: measuring length/height ($\text{m}/\text{cm}$)
+
+2. Measuring mass (kg and g)
+   From: mass ($\text{kg}/\text{g}$)
+
+3. Measuring capacity and volume (l and ml)
+   From: capacity/volume ($\text{l}/\text{ml}$)
+
+4. Measuring temperature (°C)
+   From: temperature ($^\circ\text{C}$)

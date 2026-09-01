@@ -1,0 +1,664 @@
+{
+  "grade": 1,
+  "status": "completed",
+  "topics": {
+    "Y1.NPV.1": {
+      "topic_code": "Y1.NPV.1",
+      "topic": "Count forwards and backwards to and across 100 from any number",
+      "domain_code": "Y1.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Count forwards to and across 100 from any number",
+          "evidence": "Count forwards and backwards to and across 100 from any number"
+        },
+        {
+          "name": "Count backwards to and across 100 from any number",
+          "evidence": "Count forwards and backwards to and across 100 from any number"
+        }
+      ]
+    },
+    "Y1.NPV.2": {
+      "topic_code": "Y1.NPV.2",
+      "topic": "Count in multiples of twos, fives, and tens",
+      "domain_code": "Y1.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Count in multiples of twos",
+          "evidence": "Count in multiples of twos"
+        },
+        {
+          "name": "Count in multiples of fives",
+          "evidence": "fives"
+        },
+        {
+          "name": "Count in multiples of tens",
+          "evidence": "tens"
+        }
+      ]
+    },
+    "Y1.NPV.3": {
+      "topic_code": "Y1.NPV.3",
+      "topic": "Read and write numbers from 1 to 20 in numerals and words",
+      "domain_code": "Y1.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Read and write numbers from 1 to 20 in numerals",
+          "evidence": "read and write numbers from 1 to 20 in numerals"
+        },
+        {
+          "name": "Read and write numbers from 1 to 20 in words",
+          "evidence": "read and write numbers from 1 to 20 in numerals and words"
+        }
+      ]
+    },
+    "Y1.NPV.4": {
+      "topic_code": "Y1.NPV.4",
+      "topic": "Read and write numbers to 100 in numerals",
+      "domain_code": "Y1.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Read numbers to 100 in numerals",
+          "evidence": "read and write numbers to 100 in numerals"
+        },
+        {
+          "name": "Write numbers to 100 in numerals",
+          "evidence": "read and write numbers to 100 in numerals"
+        }
+      ]
+    },
+    "Y1.NPV.5": {
+      "topic_code": "Y1.NPV.5",
+      "topic": "Identify one more, one less, two more, and two less than a given number",
+      "domain_code": "Y1.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "One more",
+          "evidence": "one more"
+        },
+        {
+          "name": "One less",
+          "evidence": "one less"
+        },
+        {
+          "name": "Two more",
+          "evidence": "two more"
+        },
+        {
+          "name": "Two less",
+          "evidence": "two less"
+        }
+      ]
+    },
+    "Y1.NPV.6": {
+      "topic_code": "Y1.NPV.6",
+      "topic": "Compare and order numbers within 100 using language and symbols (=, <, >)",
+      "domain_code": "Y1.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Compare numbers within 100 using language",
+          "evidence": "use the language of: equal to, more than, less than (fewer)"
+        },
+        {
+          "name": "Compare numbers within 100 using symbols (=, <, >)",
+          "evidence": "symbols ($=, <, >$)"
+        },
+        {
+          "name": "Order numbers within 100",
+          "evidence": "order numbers within 100"
+        }
+      ]
+    },
+    "Y1.NPV.7": {
+      "topic_code": "Y1.NPV.7",
+      "topic": "Partition, compose, and decompose numbers within 100 (including tens and ones and teen \"ten and a bit\")",
+      "domain_code": "Y1.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Partition and compose numbers into tens and ones",
+          "evidence": "tens and ones"
+        },
+        {
+          "name": "Teen numbers as ten and a bit",
+          "evidence": "teen \"ten and a bit\""
+        }
+      ]
+    },
+    "Y1.NPV.8": {
+      "topic_code": "Y1.NPV.8",
+      "topic": "Classify and reason about odd and even numbers and parity",
+      "domain_code": "Y1.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Classify odd and even numbers",
+          "evidence": "classify odd and even numbers, pairing objects"
+        },
+        {
+          "name": "Reason about parity",
+          "evidence": "reason about odd and even numbers and parity"
+        }
+      ]
+    },
+    "Y1.NPV.9": {
+      "topic_code": "Y1.NPV.9",
+      "topic": "Use ordinal numbers to describe position and sequence",
+      "domain_code": "Y1.NPV",
+      "domain": "Number and Place Value",
+      "subtopics": [
+        {
+          "name": "Use ordinal numbers to describe position",
+          "evidence": "describe position"
+        },
+        {
+          "name": "Use ordinal numbers to describe sequence",
+          "evidence": "sequence"
+        }
+      ]
+    },
+    "Y1.AS.1": {
+      "topic_code": "Y1.AS.1",
+      "topic": "Read, write, and interpret statements involving +, -, and = signs",
+      "domain_code": "Y1.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Read, write, and interpret statements involving +, -, and = signs",
+          "evidence": "Read, write, and interpret statements involving +, -, and = signs"
+        }
+      ]
+    },
+    "Y1.AS.2": {
+      "topic_code": "Y1.AS.2",
+      "topic": "Recall and use number bonds and related subtraction facts within 20",
+      "domain_code": "Y1.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Number bonds within 20",
+          "evidence": "number bonds and related subtraction facts within 20"
+        },
+        {
+          "name": "Related subtraction facts within 20",
+          "evidence": "related subtraction facts within 20"
+        }
+      ]
+    },
+    "Y1.AS.3": {
+      "topic_code": "Y1.AS.3",
+      "topic": "Add and subtract one-digit and two-digit numbers to 20, including zero and bridging ten",
+      "domain_code": "Y1.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Add and subtract one-digit and two-digit numbers to 20",
+          "evidence": "Add and subtract one-digit and two-digit numbers to 20"
+        },
+        {
+          "name": "Add and subtract zero",
+          "evidence": "including zero"
+        },
+        {
+          "name": "Bridging ten",
+          "evidence": "bridging ten"
+        }
+      ]
+    },
+    "Y1.AS.4": {
+      "topic_code": "Y1.AS.4",
+      "topic": "Add and subtract multiples of ten and two-digit numbers without regrouping",
+      "domain_code": "Y1.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Add and subtract multiples of ten",
+          "evidence": "multiples of 10 ($40 + 60 = 100$, $56 + 20 = 76$)"
+        },
+        {
+          "name": "Add and subtract two-digit numbers without regrouping",
+          "evidence": "Add and subtract 1-digit or 2-digit numbers without regrouping up to 100"
+        }
+      ]
+    },
+    "Y1.AS.5": {
+      "topic_code": "Y1.AS.5",
+      "topic": "Apply part-part-whole and \"First, Then, Now\" structures to addition and subtraction",
+      "domain_code": "Y1.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Part-part-whole structure",
+          "evidence": "partitioning (part-part-whole)"
+        },
+        {
+          "name": "\"First, Then, Now\" structure",
+          "evidence": "increase/decrease (\"First, Then, Now\")"
+        }
+      ]
+    },
+    "Y1.AS.6": {
+      "topic_code": "Y1.AS.6",
+      "topic": "Apply the inverse relationship between addition and subtraction",
+      "domain_code": "Y1.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "Apply the inverse relationship between addition and subtraction",
+          "evidence": "Apply the inverse relationship between addition and subtraction"
+        }
+      ]
+    },
+    "Y1.AS.7": {
+      "topic_code": "Y1.AS.7",
+      "topic": "Solve one-step addition and subtraction problems, including missing number equations",
+      "domain_code": "Y1.AS",
+      "domain": "Addition and Subtraction",
+      "subtopics": [
+        {
+          "name": "One-step addition and subtraction problems",
+          "evidence": "Solve one-step addition and subtraction problems"
+        },
+        {
+          "name": "Missing number equations",
+          "evidence": "missing number equations"
+        }
+      ]
+    },
+    "Y1.MD.1": {
+      "topic_code": "Y1.MD.1",
+      "topic": "Solve multiplication problems using repeated addition, equal groups, and arrays",
+      "domain_code": "Y1.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Repeated addition",
+          "evidence": "repeated addition"
+        },
+        {
+          "name": "Equal groups",
+          "evidence": "equal groups"
+        },
+        {
+          "name": "Arrays",
+          "evidence": "arrays"
+        }
+      ]
+    },
+    "Y1.MD.2": {
+      "topic_code": "Y1.MD.2",
+      "topic": "Solve division problems using equal sharing and grouping on a number line",
+      "domain_code": "Y1.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Equal sharing",
+          "evidence": "equal sharing"
+        },
+        {
+          "name": "Grouping on a number line",
+          "evidence": "grouping on a number line"
+        }
+      ]
+    },
+    "Y1.MD.3": {
+      "topic_code": "Y1.MD.3",
+      "topic": "Double numbers and halve even numbers within 20",
+      "domain_code": "Y1.MD",
+      "domain": "Multiplication and Division",
+      "subtopics": [
+        {
+          "name": "Double numbers within 20",
+          "evidence": "Doubling numbers within 10 and 20"
+        },
+        {
+          "name": "Halve even numbers within 20",
+          "evidence": "halving even numbers within 20"
+        }
+      ]
+    },
+    "Y1.FR.1": {
+      "topic_code": "Y1.FR.1",
+      "topic": "Recognise, find, and name a half (1/2) of an object, shape, or quantity",
+      "domain_code": "Y1.FR",
+      "domain": "Fractions",
+      "subtopics": [
+        {
+          "name": "Half of an object",
+          "evidence": "half ($1/2$) of an object"
+        },
+        {
+          "name": "Half of a shape",
+          "evidence": "shape"
+        },
+        {
+          "name": "Half of a quantity",
+          "evidence": "quantity"
+        }
+      ]
+    },
+    "Y1.FR.2": {
+      "topic_code": "Y1.FR.2",
+      "topic": "Recognise, find, and name a quarter (1/4) of an object, shape, or quantity",
+      "domain_code": "Y1.FR",
+      "domain": "Fractions",
+      "subtopics": [
+        {
+          "name": "Quarter of an object",
+          "evidence": "quarter (1/4) of an object"
+        },
+        {
+          "name": "Quarter of a shape",
+          "evidence": "1/4 of shapes"
+        },
+        {
+          "name": "Quarter of a quantity",
+          "evidence": "quantity"
+        }
+      ]
+    },
+    "Y1.FR.3": {
+      "topic_code": "Y1.FR.3",
+      "topic": "Recognise equivalence of 2/4 = 1/2 and find three-quarters (3/4)",
+      "domain_code": "Y1.FR",
+      "domain": "Fractions",
+      "subtopics": [
+        {
+          "name": "Recognise equivalence of 2/4 and 1/2",
+          "evidence": "Recognise equivalence of $2/4 = 1/2$"
+        },
+        {
+          "name": "Find three-quarters (3/4)",
+          "evidence": "find three-quarters ($3/4$)"
+        }
+      ]
+    },
+    "Y1.MEA.1": {
+      "topic_code": "Y1.MEA.1",
+      "topic": "Compare, describe, and solve practical problems for lengths, heights, mass, capacity, and time",
+      "domain_code": "Y1.MEA",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Lengths and heights",
+          "evidence": "lengths and heights"
+        },
+        {
+          "name": "Mass",
+          "evidence": "mass"
+        },
+        {
+          "name": "Capacity",
+          "evidence": "capacity"
+        },
+        {
+          "name": "Time",
+          "evidence": "time"
+        }
+      ]
+    },
+    "Y1.MEA.2": {
+      "topic_code": "Y1.MEA.2",
+      "topic": "Measure and record length, height, mass, and capacity using non-standard and standard units",
+      "domain_code": "Y1.MEA",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Measure and record length and height",
+          "evidence": "Measure and record lengths/heights (non-standard units, cm, m)"
+        },
+        {
+          "name": "Measure and record mass",
+          "evidence": "mass (non-standard units, g, kg)"
+        },
+        {
+          "name": "Measure and record capacity",
+          "evidence": "capacity (non-standard units, ml, l)"
+        }
+      ]
+    },
+    "Y1.MEA.3": {
+      "topic_code": "Y1.MEA.3",
+      "topic": "Recognise and know the value of UK coins and notes and calculate simple change",
+      "domain_code": "Y1.MEA",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Recognise and know the value of UK coins and notes",
+          "evidence": "Recognise and know the value of UK coins and notes"
+        },
+        {
+          "name": "Calculate simple change",
+          "evidence": "calculate simple change"
+        }
+      ]
+    },
+    "Y1.MEA.4": {
+      "topic_code": "Y1.MEA.4",
+      "topic": "Sequence events chronologically and use time vocabulary (days, weeks, months, years)",
+      "domain_code": "Y1.MEA",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Sequence events chronologically",
+          "evidence": "Sequence events chronologically"
+        },
+        {
+          "name": "Use time vocabulary (days, weeks, months, years)",
+          "evidence": "use time vocabulary (days, weeks, months, years)"
+        }
+      ]
+    },
+    "Y1.MEA.5": {
+      "topic_code": "Y1.MEA.5",
+      "topic": "Tell and draw the time to the hour (*o'clock*) and half past on analogue and digital clocks",
+      "domain_code": "Y1.MEA",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Time to the hour (o'clock)",
+          "evidence": "time to the hour (*o'clock*)"
+        },
+        {
+          "name": "Half past",
+          "evidence": "half past"
+        }
+      ]
+    },
+    "Y1.MEA.6": {
+      "topic_code": "Y1.MEA.6",
+      "topic": "Solve simple elapsed time and duration problems in whole hours and seconds",
+      "domain_code": "Y1.MEA",
+      "domain": "Measurement",
+      "subtopics": [
+        {
+          "name": "Elapsed time and duration in whole hours",
+          "evidence": "whole hours"
+        },
+        {
+          "name": "Elapsed time and duration in seconds",
+          "evidence": "seconds"
+        }
+      ]
+    },
+    "Y1.GPS.1": {
+      "topic_code": "Y1.GPS.1",
+      "topic": "Recognise and name common 2D shapes (rectangles, squares, circles, triangles)",
+      "domain_code": "Y1.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Rectangles",
+          "evidence": "rectangles"
+        },
+        {
+          "name": "Squares",
+          "evidence": "squares"
+        },
+        {
+          "name": "Circles",
+          "evidence": "circles"
+        },
+        {
+          "name": "Triangles",
+          "evidence": "triangles"
+        }
+      ]
+    },
+    "Y1.GPS.2": {
+      "topic_code": "Y1.GPS.2",
+      "topic": "Recognise and name common 3D shapes (cuboids, cubes, pyramids, spheres, cylinders, cones)",
+      "domain_code": "Y1.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Cuboids",
+          "evidence": "cuboids"
+        },
+        {
+          "name": "Cubes",
+          "evidence": "cubes"
+        },
+        {
+          "name": "Pyramids",
+          "evidence": "pyramids"
+        },
+        {
+          "name": "Spheres",
+          "evidence": "spheres"
+        },
+        {
+          "name": "Cylinders",
+          "evidence": "cylinders"
+        },
+        {
+          "name": "Cones",
+          "evidence": "cones"
+        }
+      ]
+    },
+    "Y1.GPS.3": {
+      "topic_code": "Y1.GPS.3",
+      "topic": "Identify 2D faces on 3D shapes and explore shape composition and symmetry",
+      "domain_code": "Y1.GPS",
+      "domain": "Geometry: Properties of Shapes",
+      "subtopics": [
+        {
+          "name": "Identify 2D faces on 3D shapes",
+          "evidence": "Identify 2D faces on 3D shapes"
+        },
+        {
+          "name": "Explore shape composition",
+          "evidence": "explore shape composition"
+        },
+        {
+          "name": "Explore symmetry",
+          "evidence": "explore lines of symmetry"
+        }
+      ]
+    },
+    "Y1.GPD.1": {
+      "topic_code": "Y1.GPD.1",
+      "topic": "Describe position, direction, and movement (left, right, up, down, between)",
+      "domain_code": "Y1.GPD",
+      "domain": "Geometry: Position and Direction",
+      "subtopics": [
+        {
+          "name": "Left",
+          "evidence": "left"
+        },
+        {
+          "name": "Right",
+          "evidence": "right"
+        },
+        {
+          "name": "Up",
+          "evidence": "up"
+        },
+        {
+          "name": "Down",
+          "evidence": "down"
+        },
+        {
+          "name": "Between",
+          "evidence": "between"
+        }
+      ]
+    },
+    "Y1.GPD.2": {
+      "topic_code": "Y1.GPD.2",
+      "topic": "Describe and execute whole, half, quarter, and three-quarter turns (clockwise and anticlockwise)",
+      "domain_code": "Y1.GPD",
+      "domain": "Geometry: Position and Direction",
+      "subtopics": [
+        {
+          "name": "Whole turns",
+          "evidence": "whole"
+        },
+        {
+          "name": "Half turns",
+          "evidence": "half"
+        },
+        {
+          "name": "Quarter turns",
+          "evidence": "quarter"
+        },
+        {
+          "name": "Three-quarter turns",
+          "evidence": "three-quarter turns"
+        },
+        {
+          "name": "Clockwise and anticlockwise turns",
+          "evidence": "clockwise and anticlockwise"
+        }
+      ]
+    },
+    "Y1.STA.1": {
+      "topic_code": "Y1.STA.1",
+      "topic": "Record and interpret data using tally charts, pictograms, and block graphs",
+      "domain_code": "Y1.STA",
+      "domain": "Statistics and Data Handling",
+      "subtopics": [
+        {
+          "name": "Tally charts",
+          "evidence": "tally charts"
+        },
+        {
+          "name": "Pictograms",
+          "evidence": "pictograms"
+        },
+        {
+          "name": "Block graphs",
+          "evidence": "block graphs"
+        }
+      ]
+    },
+    "Y1.STA.2": {
+      "topic_code": "Y1.STA.2",
+      "topic": "Sort objects, shapes, and numbers using Venn, Carroll, and tree diagrams",
+      "domain_code": "Y1.STA",
+      "domain": "Statistics and Data Handling",
+      "subtopics": [
+        {
+          "name": "Venn diagrams",
+          "evidence": "Venn"
+        },
+        {
+          "name": "Carroll diagrams",
+          "evidence": "Carroll"
+        },
+        {
+          "name": "Tree diagrams",
+          "evidence": "tree diagrams"
+        }
+      ]
+    }
+  },
+  "updated_at": "2026-08-29T14:25:43.322828+00:00",
+  "completed_at": "2026-08-29T14:25:43.347148+00:00"
+}

@@ -1,0 +1,189 @@
+###################################
+Odd and even numbers, parity of multiples, and divisibility rules
+###################################
+
+--- Odd and even numbers ---
+
+1. Look at the picture! {user_name} is looking at this.
+Is the number 16 odd or even?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+Is the number 16 odd or even?
+
+3. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Is the number 16 odd or even?
+
+4. Look at the picture! {user_name} is looking at this.
+Sam has 11 counters. Can he share them equally between 2 plates with none left over? Write yes or no.
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+Sam has 11 counters. Can he share them equally between 2 plates with none left over? Write yes or no.
+
+6. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Sam has 11 counters. Can he share them equally between 2 plates with none left over? Write yes or no.
+
+7. Look at the picture! {user_name} is looking at this.
+Which of these numbers is odd: 14, 28, 35, 42?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+Which of these numbers is odd: 14, 28, 35, 42?
+
+9. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Which of these numbers is odd: 14, 28, 35, 42?
+
+10. Look at the picture! {user_name} is looking at this.
+What is the next even number after 18?
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is the next even number after 18?
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+What is the next even number after 18?
+
+13. Look at the picture! {user_name} is looking at this.
+Look at these numbers: 21, 34, 47, 59, 62. How many of these numbers are even?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Look at these numbers: 21, 34, 47, 59, 62. How many of these numbers are even?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Look at these numbers: 21, 34, 47, 59, 62. How many of these numbers are even?
+
+16. Look at the picture! {user_name} is looking at this.
+A number is greater than 25 and less than 30. It is an even number that ends in 8. What is the number?
+
+17. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A number is greater than 25 and less than 30. It is an even number that ends in 8. What is the number?
+
+18. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A number is greater than 25 and less than 30. It is an even number that ends in 8. What is the number?
+
+19. Look at the picture! {user_name} is looking at this.
+Maya has 15 socks. She puts them into pairs of 2. How many complete pairs does she make?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Maya has 15 socks. She puts them into pairs of 2. How many complete pairs does she make?
+
+21. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Maya has 15 socks. She puts them into pairs of 2. How many complete pairs does she make?
+
+--- Parity of multiples ---
+
+22. Look at the picture! {user_name} is looking at this.
+Is the total of 4 × 2 an odd number or an even number?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Is the total of 4 × 2 an odd number or an even number?
+
+24. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Is the total of 4 × 2 an odd number or an even number?
+
+25. Look at the picture! {user_name} is looking at this.
+Choose the correct word to complete the sentence: Every multiple of 2 is an [odd / even] number.
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Choose the correct word to complete the sentence: Every multiple of 2 is an [odd / even] number.
+
+27. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Choose the correct word to complete the sentence: Every multiple of 2 is an [odd / even] number.
+
+28. Look at the picture! {user_name} is looking at this.
+Look at these multiples of 5: 5, 10, 15, 20, 25, 30. Which digit do all the odd multiples of 5 end in?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Look at these multiples of 5: 5, 10, 15, 20, 25, 30. Which digit do all the odd multiples of 5 end in?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Look at these multiples of 5: 5, 10, 15, 20, 25, 30. Which digit do all the odd multiples of 5 end in?
+
+31. Look at the picture! {user_name} is looking at this.
+Ben says, "All multiples of 10 are even numbers." Is Ben correct? Write yes or no.
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+Ben says, "All multiples of 10 are even numbers." Is Ben correct? Write yes or no.
+
+33. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Ben says, "All multiples of 10 are even numbers." Is Ben correct? Write yes or no.
+
+34. Look at the picture! {user_name} is looking at this.
+7 children have 2 pencils each. Is the total number of pencils odd or even?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+7 children have 2 pencils each. Is the total number of pencils odd or even?
+
+36. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+7 children have 2 pencils each. Is the total number of pencils odd or even?
+
+37. Look at the picture! {user_name} is looking at this.
+Look at these multiples of 5: 15, 35, 40, 55. Which one is an even number?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+Look at these multiples of 5: 15, 35, 40, 55. Which one is an even number?
+
+39. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Look at these multiples of 5: 15, 35, 40, 55. Which one is an even number?
+
+--- Divisibility rules ---
+
+40. Look at the picture! {user_name} is looking at this.
+Can 26 be divided by 2 with no remainder? Write yes or no.
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Can 26 be divided by 2 with no remainder? Write yes or no.
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Can 26 be divided by 2 with no remainder? Write yes or no.
+
+43. Look at the picture! {user_name} is looking at this.
+Which of these numbers can be divided by 10 with no remainder: 25, 40, 55, 65?
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Which of these numbers can be divided by 10 with no remainder: 25, 40, 55, 65?
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Which of these numbers can be divided by 10 with no remainder: 25, 40, 55, 65?
+
+46. Look at the picture! {user_name} is looking at this.
+A number ends in 5. Can this number be divided by 5 with no remainder? Write yes or no.
+
+47. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A number ends in 5. Can this number be divided by 5 with no remainder? Write yes or no.
+
+48. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A number ends in 5. Can this number be divided by 5 with no remainder? Write yes or no.
+
+49. Look at the picture! {user_name} is looking at this.
+Which of these numbers can be shared equally into 5 equal groups with none left over: 18, 23, 35, 41?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which of these numbers can be shared equally into 5 equal groups with none left over: 18, 23, 35, 41?
+
+51. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Which of these numbers can be shared equally into 5 equal groups with none left over: 18, 23, 35, 41?
+
+52. Look at the picture! {user_name} is looking at this.
+A two-digit number can be divided by both 2 and 5 with no remainder. What digit must be in its ones place?
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A two-digit number can be divided by both 2 and 5 with no remainder. What digit must be in its ones place?
+
+54. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A two-digit number can be divided by both 2 and 5 with no remainder. What digit must be in its ones place?
+
+55. Look at the picture! {user_name} is looking at this.
+Which number between 41 and 49 can be divided by 5 with no remainder?
+
+56. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which number between 41 and 49 can be divided by 5 with no remainder?
+
+57. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Which number between 41 and 49 can be divided by 5 with no remainder?
+
+58. Look at the picture! {user_name} is looking at this.
+A box contains 50 stickers. Can the stickers be shared equally among 10 children with none left over? Write yes or no.
+
+59. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A box contains 50 stickers. Can the stickers be shared equally among 10 children with none left over? Write yes or no.
+
+60. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A box contains 50 stickers. Can the stickers be shared equally among 10 children with none left over? Write yes or no.

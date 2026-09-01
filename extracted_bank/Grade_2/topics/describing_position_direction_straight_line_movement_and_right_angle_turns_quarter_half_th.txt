@@ -1,0 +1,76 @@
+=== Topic: Describing position, direction, straight-line movement, and right-angle turns (quarter, half, three-quarter, whole; clockwise and anticlockwise) ===
+Domain: Geometry: Position and Direction
+
+--- Describing position and direction ---
+
+Question 1: On a shelf, a toy car is to the left of a teddy bear, and a puzzle is to the right of the teddy bear. Which toy is in the middle?
+Answer: the teddy bear
+Working: The car is on the left and the puzzle is on the right, so the teddy bear is in the middle.
+
+Question 2: Five children stand in a straight line: Amy, Ben, Clara, David, and Emma. If Amy is at the very front and Emma is at the very back, who is standing directly behind Ben?
+Answer: Clara
+Working: The line from front to back is Amy, Ben, Clara, David, Emma. Clara is directly behind Ben.
+
+Question 3: A red block is placed above a blue block. A green block is placed below the blue block. Which colour block is at the top?
+Answer: red
+Working: The order from top to bottom is red, blue, green. The red block is at the top.
+
+Question 4: Leo stands in a line facing forwards. Priya is directly in front of Leo. Sam is directly behind Leo. Who is standing between Priya and Sam?
+Answer: Leo
+Working: Priya is in front and Sam is behind, which means Leo is in the middle between them.
+
+--- Straight-line movement ---
+
+Question 5: A robot starts on square 1 of a straight track. It moves 6 squares forwards in a straight line. What square does the robot land on?
+Answer: 7
+Working: 1 + 6 = 7. The robot lands on square 7.
+
+Question 6: Amir walks 7 steps forwards in a straight line, and then walks another 5 steps forwards in the same direction. How many steps has Amir walked in total?
+Answer: 12
+Working: 7 + 5 = 12 steps.
+
+Question 7: A toy car rolls 18 cm forwards in a straight line, stops, and then rolls 9 cm further in the same direction. What is the total distance the toy car has travelled?
+Answer: 27 cm
+Working: 18 cm + 9 cm = 27 cm.
+
+Question 8: A counter starts at 10 on a straight number track. It moves 4 spaces forwards and then 3 spaces backwards. Which number does the counter end on?
+Answer: 11
+Working: 10 + 4 = 14, then 14 - 3 = 11.
+
+Question 9: Ella walks 15 metres forwards along a straight path. She turns around and walks 6 metres back along the same path. How many metres is Ella from where she started?
+Answer: 9 metres
+Working: 15 m - 6 m = 9 metres.
+
+--- Right-angle turns (quarter, half, three-quarter, whole; clockwise and anticlockwise) ---
+
+Question 10: How many quarter turns make 1 whole turn?
+Answer: 4
+Working: 4 quarter turns equal 1 whole turn.
+
+Question 11: How many right-angle turns are there in a half turn?
+Answer: 2
+Working: 1 quarter turn is 1 right angle, so a half turn is 2 right-angle turns.
+
+Question 12: An arrow points straight up. It makes 1 quarter turn clockwise. Which direction is the arrow pointing now?
+Answer: right
+Working: Turning a quarter turn clockwise from pointing up turns the arrow to point to the right.
+
+Question 13: An arrow points straight up. It makes 1 quarter turn anticlockwise. Which direction is the arrow pointing now?
+Answer: left
+Working: Turning a quarter turn anticlockwise from pointing up turns the arrow to point to the left.
+
+Question 14: How many right-angle turns make a three-quarter turn?
+Answer: 3
+Working: Each quarter turn is 1 right angle, so a three-quarter turn is 3 right-angle turns.
+
+Question 15: A toy car is facing the window. It makes 1 full turn clockwise. What is the toy car facing now?
+Answer: the window
+Working: A whole turn brings an object back to its starting position, so it is facing the window.
+
+Question 16: An arrow points to the right. It makes a half turn anticlockwise. Which direction is the arrow pointing now?
+Answer: left
+Working: A half turn turns an object to the opposite direction. Opposite right is left.
+
+Question 17: A spinner points to the top. It turns 3 right angles clockwise. Which direction is the spinner pointing now: top, right, bottom, or left?
+Answer: left
+Working: From top: 1 right angle clockwise points right, 2 right angles points bottom, 3 right angles points left.

@@ -1,0 +1,209 @@
+###################################
+Identifying horizontal, vertical, perpendicular, and parallel lines in shapes, letters, and grids
+###################################
+
+--- Horizontal lines ---
+
+1. Look at the picture! {user_name} is looking at this.
+A straight line goes directly from left to right across a page. Is this line horizontal or vertical?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A straight line goes directly from left to right across a page. Is this line horizontal or vertical?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A straight line goes directly from left to right across a page. Is this line horizontal or vertical?
+
+4. Look at the picture! {user_name} is looking at this.
+How many horizontal straight lines are used to draw a standard capital letter E?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many horizontal straight lines are used to draw a standard capital letter E?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+How many horizontal straight lines are used to draw a standard capital letter E?
+
+7. Look at the picture! {user_name} is looking at this.
+How many horizontal straight lines are used to draw a standard capital letter H?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many horizontal straight lines are used to draw a standard capital letter H?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+How many horizontal straight lines are used to draw a standard capital letter H?
+
+10. Look at the picture! {user_name} is looking at this.
+A rectangle is drawn sitting flat on a table. It has 2 vertical sides and some horizontal sides. How many horizontal sides does the rectangle have?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectangle is drawn sitting flat on a table. It has 2 vertical sides and some horizontal sides. How many horizontal sides does the rectangle have?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A rectangle is drawn sitting flat on a table. It has 2 vertical sides and some horizontal sides. How many horizontal sides does the rectangle have?
+
+13. Look at the picture! {user_name} is looking at this.
+Look at a standard capital letter F. How many horizontal straight lines does it have?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+Look at a standard capital letter F. How many horizontal straight lines does it have?
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Look at a standard capital letter F. How many horizontal straight lines does it have?
+
+--- Vertical lines ---
+
+16. Look at the picture! {user_name} is looking at this.
+A straight line goes directly up and down from the top of a page to the bottom. Is this line horizontal or vertical?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A straight line goes directly up and down from the top of a page to the bottom. Is this line horizontal or vertical?
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A straight line goes directly up and down from the top of a page to the bottom. Is this line horizontal or vertical?
+
+19. Look at the picture! {user_name} is looking at this.
+How many vertical straight lines are used to draw a standard capital letter H?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many vertical straight lines are used to draw a standard capital letter H?
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+How many vertical straight lines are used to draw a standard capital letter H?
+
+22. Look at the picture! {user_name} is looking at this.
+How many vertical straight lines are used to draw a standard capital letter T?
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many vertical straight lines are used to draw a standard capital letter T?
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+How many vertical straight lines are used to draw a standard capital letter T?
+
+25. Look at the picture! {user_name} is looking at this.
+A square is drawn with its bottom edge sitting flat on a horizontal line. How many vertical sides does the square have?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A square is drawn with its bottom edge sitting flat on a horizontal line. How many vertical sides does the square have?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A square is drawn with its bottom edge sitting flat on a horizontal line. How many vertical sides does the square have?
+
+28. Look at the picture! {user_name} is looking at this.
+How many vertical straight lines are used to draw a standard capital letter E?
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+How many vertical straight lines are used to draw a standard capital letter E?
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+How many vertical straight lines are used to draw a standard capital letter E?
+
+--- Perpendicular lines ---
+
+31. Look at the picture! {user_name} is looking at this.
+Perpendicular lines meet or cross to make what type of angle: an acute angle, an obtuse angle, or a right angle?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Perpendicular lines meet or cross to make what type of angle: an acute angle, an obtuse angle, or a right angle?
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Perpendicular lines meet or cross to make what type of angle: an acute angle, an obtuse angle, or a right angle?
+
+34. Look at the picture! {user_name} is looking at this.
+A standard capital letter L is made from one horizontal line and one vertical line. How many pairs of perpendicular lines meet in the letter L?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A standard capital letter L is made from one horizontal line and one vertical line. How many pairs of perpendicular lines meet in the letter L?
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A standard capital letter L is made from one horizontal line and one vertical line. How many pairs of perpendicular lines meet in the letter L?
+
+37. Look at the picture! {user_name} is looking at this.
+The straight horizontal top bar and the vertical stem of a standard capital letter T meet. Are these two lines parallel or perpendicular?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The straight horizontal top bar and the vertical stem of a standard capital letter T meet. Are these two lines parallel or perpendicular?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+The straight horizontal top bar and the vertical stem of a standard capital letter T meet. Are these two lines parallel or perpendicular?
+
+40. Look at the picture! {user_name} is looking at this.
+A rectangle has 4 corners, and each corner is a right angle where two straight sides meet. How many pairs of perpendicular sides meet at the corners of a rectangle?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectangle has 4 corners, and each corner is a right angle where two straight sides meet. How many pairs of perpendicular sides meet at the corners of a rectangle?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A rectangle has 4 corners, and each corner is a right angle where two straight sides meet. How many pairs of perpendicular sides meet at the corners of a rectangle?
+
+43. Look at the picture! {user_name} is looking at this.
+In a standard capital letter E, 1 vertical line meets 3 horizontal lines. How many pairs of perpendicular lines are formed in the letter E?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a standard capital letter E, 1 vertical line meets 3 horizontal lines. How many pairs of perpendicular lines are formed in the letter E?
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+In a standard capital letter E, 1 vertical line meets 3 horizontal lines. How many pairs of perpendicular lines are formed in the letter E?
+
+46. Look at the picture! {user_name} is looking at this.
+In a standard capital letter H, 2 vertical lines are joined by 1 horizontal line across the middle. How many pairs of perpendicular lines are formed where the lines meet?
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a standard capital letter H, 2 vertical lines are joined by 1 horizontal line across the middle. How many pairs of perpendicular lines are formed where the lines meet?
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+In a standard capital letter H, 2 vertical lines are joined by 1 horizontal line across the middle. How many pairs of perpendicular lines are formed where the lines meet?
+
+--- Parallel lines ---
+
+49. Look at the picture! {user_name} is looking at this.
+What word describes two straight lines that stay the exact same distance apart and will never meet?
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+What word describes two straight lines that stay the exact same distance apart and will never meet?
+
+51. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+What word describes two straight lines that stay the exact same distance apart and will never meet?
+
+52. Look at the picture! {user_name} is looking at this.
+A square has 4 straight sides. How many pairs of parallel sides does a square have?
+
+53. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A square has 4 straight sides. How many pairs of parallel sides does a square have?
+
+54. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A square has 4 straight sides. How many pairs of parallel sides does a square have?
+
+55. Look at the picture! {user_name} is looking at this.
+A standard capital letter H has two vertical lines going straight up and down. Are these two vertical lines parallel or perpendicular to each other?
+
+56. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A standard capital letter H has two vertical lines going straight up and down. Are these two vertical lines parallel or perpendicular to each other?
+
+57. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A standard capital letter H has two vertical lines going straight up and down. Are these two vertical lines parallel or perpendicular to each other?
+
+58. Look at the picture! {user_name} is looking at this.
+A standard capital letter Z has a straight horizontal line at the top and a straight horizontal line at the bottom. Are these two horizontal lines parallel or perpendicular to each other?
+
+59. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A standard capital letter Z has a straight horizontal line at the top and a straight horizontal line at the bottom. Are these two horizontal lines parallel or perpendicular to each other?
+
+60. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A standard capital letter Z has a straight horizontal line at the top and a straight horizontal line at the bottom. Are these two horizontal lines parallel or perpendicular to each other?
+
+61. Look at the picture! {user_name} is looking at this.
+A regular hexagon has 6 straight sides with opposite sides facing each other. How many pairs of parallel sides does a regular hexagon have?
+
+62. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A regular hexagon has 6 straight sides with opposite sides facing each other. How many pairs of parallel sides does a regular hexagon have?
+
+63. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A regular hexagon has 6 straight sides with opposite sides facing each other. How many pairs of parallel sides does a regular hexagon have?
+
+64. Look at the picture! {user_name} is looking at this.
+A trapezium has 4 straight sides. Exactly 1 pair of opposite sides is parallel. How many sides of the trapezium are not parallel to any other side?
+
+65. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A trapezium has 4 straight sides. Exactly 1 pair of opposite sides is parallel. How many sides of the trapezium are not parallel to any other side?
+
+66. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A trapezium has 4 straight sides. Exactly 1 pair of opposite sides is parallel. How many sides of the trapezium are not parallel to any other side?

@@ -1,0 +1,187 @@
+###################################
+Classify and reason about odd and even numbers and parity
+###################################
+
+--- Classify odd and even numbers ---
+
+1. Look at the picture! {user_name} is looking at this.
+Is 6 an odd number or an even number?
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Is 6 an odd number or an even number?
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Is 6 an odd number or an even number?
+
+4. Look at the picture! {user_name} is looking at this.
+Is 5 an odd number or an even number?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Is 5 an odd number or an even number?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Is 5 an odd number or an even number?
+
+7. Look at the picture! {user_name} is looking at this.
+Tom has 8 socks. He puts them into pairs of 2. There are no socks left over. Is 8 odd or even?
+
+8. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Tom has 8 socks. He puts them into pairs of 2. There are no socks left over. Is 8 odd or even?
+
+9. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Tom has 8 socks. He puts them into pairs of 2. There are no socks left over. Is 8 odd or even?
+
+10. Look at the picture! {user_name} is looking at this.
+Write the next even number after 4.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the next even number after 4.
+
+12. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Write the next even number after 4.
+
+13. Look at the picture! {user_name} is looking at this.
+Write the next odd number after 7.
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the next odd number after 7.
+
+15. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the next odd number after 7.
+
+16. Look at the picture! {user_name} is looking at this.
+Is 13 an odd number or an even number?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Is 13 an odd number or an even number?
+
+18. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Is 13 an odd number or an even number?
+
+19. Look at the picture! {user_name} is looking at this.
+Is 18 an odd number or an even number?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Is 18 an odd number or an even number?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Is 18 an odd number or an even number?
+
+22. Look at the picture! {user_name} is looking at this.
+Look at these numbers: 7, 10, 11. Which number is even?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+Look at these numbers: 7, 10, 11. Which number is even?
+
+24. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Look at these numbers: 7, 10, 11. Which number is even?
+
+25. Look at the picture! {user_name} is looking at this.
+Look at these numbers: 14, 15, 16. Which number is odd?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Look at these numbers: 14, 15, 16. Which number is odd?
+
+27. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Look at these numbers: 14, 15, 16. Which number is odd?
+
+28. Look at the picture! {user_name} is looking at this.
+Write the odd number that is between 10 and 12.
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the odd number that is between 10 and 12.
+
+30. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Write the odd number that is between 10 and 12.
+
+--- Reason about parity ---
+
+31. Look at the picture! {user_name} is looking at this.
+Can 6 children be put into pairs of 2 with no child left out? Write yes or no.
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Can 6 children be put into pairs of 2 with no child left out? Write yes or no.
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Can 6 children be put into pairs of 2 with no child left out? Write yes or no.
+
+34. Look at the picture! {user_name} is looking at this.
+Can 7 apples be shared equally between 2 children with none left over? Write yes or no.
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Can 7 apples be shared equally between 2 children with none left over? Write yes or no.
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Can 7 apples be shared equally between 2 children with none left over? Write yes or no.
+
+37. Look at the picture! {user_name} is looking at this.
+Amy has 8 pencils. She gives 1 pencil away. Does she now have an odd or an even number of pencils?
+
+38. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Amy has 8 pencils. She gives 1 pencil away. Does she now have an odd or an even number of pencils?
+
+39. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Amy has 8 pencils. She gives 1 pencil away. Does she now have an odd or an even number of pencils?
+
+40. Look at the picture! {user_name} is looking at this.
+What kind of number comes straight after an even number: odd or even?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What kind of number comes straight after an even number: odd or even?
+
+42. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+What kind of number comes straight after an even number: odd or even?
+
+43. Look at the picture! {user_name} is looking at this.
+Sam adds 3 and 5. Both numbers are odd. Is the total odd or even?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Sam adds 3 and 5. Both numbers are odd. Is the total odd or even?
+
+45. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Sam adds 3 and 5. Both numbers are odd. Is the total odd or even?
+
+46. Look at the picture! {user_name} is looking at this.
+Leo adds 4 and 2. Both numbers are even. Is the total odd or even?
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Leo adds 4 and 2. Both numbers are even. Is the total odd or even?
+
+48. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Leo adds 4 and 2. Both numbers are even. Is the total odd or even?
+
+49. Look at the picture! {user_name} is looking at this.
+Ben adds 4 and 3. 4 is an even number and 3 is an odd number. Is 4 + 3 odd or even?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Ben adds 4 and 3. 4 is an even number and 3 is an odd number. Is 4 + 3 odd or even?
+
+51. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Ben adds 4 and 3. 4 is an even number and 3 is an odd number. Is 4 + 3 odd or even?
+
+52. Look at the picture! {user_name} is looking at this.
+Double 5 is 10. Is double 5 an odd number or an even number?
+
+53. Look at the picture! {user_name} and {father_name} are looking at this together.
+Double 5 is 10. Is double 5 an odd number or an even number?
+
+54. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Double 5 is 10. Is double 5 an odd number or an even number?
+
+55. Look at the picture! {user_name} is looking at this.
+Noah says, '19 is an even number because it has a 1 ten.' Is Noah correct? Write yes or no.
+
+56. Look at the picture! {user_name} and {father_name} are looking at this together.
+Noah says, '19 is an even number because it has a 1 ten.' Is Noah correct? Write yes or no.
+
+57. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Noah says, '19 is an even number because it has a 1 ten.' Is Noah correct? Write yes or no.
+
+58. Look at the picture! {user_name} is looking at this.
+Jack puts 9 counters into pairs. He has 1 counter left over. Does an odd number always have 1 left over when put into pairs? Write yes or no.
+
+59. Look at the picture! {user_name} and {father_name} are looking at this together.
+Jack puts 9 counters into pairs. He has 1 counter left over. Does an odd number always have 1 left over when put into pairs? Write yes or no.
+
+60. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Jack puts 9 counters into pairs. He has 1 counter left over. Does an odd number always have 1 left over when put into pairs? Write yes or no.

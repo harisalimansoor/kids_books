@@ -1,0 +1,187 @@
+###################################
+Read and write numbers from 1 to 20 in numerals and words
+###################################
+
+--- Read and write numbers from 1 to 20 in numerals ---
+
+1. Look at the picture! {user_name} is looking at this.
+Write the number 'six' as a numeral.
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write the number 'six' as a numeral.
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Write the number 'six' as a numeral.
+
+4. Look at the picture! {user_name} is looking at this.
+Write the number 'nine' as a numeral.
+
+5. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Write the number 'nine' as a numeral.
+
+6. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Write the number 'nine' as a numeral.
+
+7. Look at the picture! {user_name} is looking at this.
+Write the number 'eleven' as a numeral.
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 'eleven' as a numeral.
+
+9. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Write the number 'eleven' as a numeral.
+
+10. Look at the picture! {user_name} is looking at this.
+Write the number 'twelve' as a numeral.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 'twelve' as a numeral.
+
+12. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number 'twelve' as a numeral.
+
+13. Look at the picture! {user_name} is looking at this.
+Write the number 'thirteen' as a numeral.
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 'thirteen' as a numeral.
+
+15. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Write the number 'thirteen' as a numeral.
+
+16. Look at the picture! {user_name} is looking at this.
+Write the number 'fifteen' as a numeral.
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 'fifteen' as a numeral.
+
+18. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Write the number 'fifteen' as a numeral.
+
+19. Look at the picture! {user_name} is looking at this.
+Write the number 'eighteen' as a numeral.
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number 'eighteen' as a numeral.
+
+21. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 'eighteen' as a numeral.
+
+22. Look at the picture! {user_name} is looking at this.
+Write the number 'twenty' as a numeral.
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number 'twenty' as a numeral.
+
+24. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Write the number 'twenty' as a numeral.
+
+25. Look at the picture! {user_name} is looking at this.
+Sam has fourteen crayons. Write the number of crayons as a numeral.
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Sam has fourteen crayons. Write the number of crayons as a numeral.
+
+27. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Sam has fourteen crayons. Write the number of crayons as a numeral.
+
+28. Look at the picture! {user_name} is looking at this.
+A number is made of 1 ten and 7 ones. Its name is seventeen. Write this number as a numeral.
+
+29. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A number is made of 1 ten and 7 ones. Its name is seventeen. Write this number as a numeral.
+
+30. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A number is made of 1 ten and 7 ones. Its name is seventeen. Write this number as a numeral.
+
+--- Read and write numbers from 1 to 20 in words ---
+
+31. Look at the picture! {user_name} is looking at this.
+Write the number 4 in words.
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write the number 4 in words.
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Write the number 4 in words.
+
+34. Look at the picture! {user_name} is looking at this.
+Write the number 8 in words.
+
+35. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Write the number 8 in words.
+
+36. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Write the number 8 in words.
+
+37. Look at the picture! {user_name} is looking at this.
+Write the number 11 in words.
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 11 in words.
+
+39. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Write the number 11 in words.
+
+40. Look at the picture! {user_name} is looking at this.
+Write the number 12 in words.
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 12 in words.
+
+42. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the number 12 in words.
+
+43. Look at the picture! {user_name} is looking at this.
+Write the number 13 in words.
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 13 in words.
+
+45. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Write the number 13 in words.
+
+46. Look at the picture! {user_name} is looking at this.
+Write the number 15 in words.
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the number 15 in words.
+
+48. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Write the number 15 in words.
+
+49. Look at the picture! {user_name} is looking at this.
+Write the number 19 in words.
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number 19 in words.
+
+51. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Write the number 19 in words.
+
+52. Look at the picture! {user_name} is looking at this.
+Write the number 20 in words.
+
+53. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write the number 20 in words.
+
+54. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Write the number 20 in words.
+
+55. Look at the picture! {user_name} is looking at this.
+Ella counts 16 buttons. Write 16 in words.
+
+56. Look at the picture! {user_name} and {father_name} are looking at this together.
+Ella counts 16 buttons. Write 16 in words.
+
+57. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Ella counts 16 buttons. Write 16 in words.
+
+58. Look at the picture! {user_name} is looking at this.
+A box has 10 counters and 4 more counters. There are 14 counters in total. Write 14 in words.
+
+59. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A box has 10 counters and 4 more counters. There are 14 counters in total. Write 14 in words.
+
+60. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A box has 10 counters and 4 more counters. There are 14 counters in total. Write 14 in words.

@@ -1,0 +1,52 @@
+=== Topic: Apply the inverse relationship between addition and subtraction ===
+Domain: Addition and Subtraction
+
+--- Apply the inverse relationship between addition and subtraction ---
+
+Question 1: Use the fact 4 + 3 = 7 to work out: 7 − 3 = ?
+Answer: 4
+Working: Addition and subtraction are inverse operations. Since 4 + 3 = 7, subtracting 3 from 7 leaves 4.
+
+Question 2: Use the fact 8 + 2 = 10 to work out: 10 − 8 = ?
+Answer: 2
+Working: 8 and 2 make 10. Subtracting 8 from 10 leaves the other part, which is 2.
+
+Question 3: Use the fact 9 − 5 = 4 to work out: 4 + 5 = ?
+Answer: 9
+Working: Addition is the inverse of subtraction. If 9 − 5 = 4, then adding 4 and 5 gives 9.
+
+Question 4: Use the addition fact 12 + 6 = 18 to complete the subtraction fact: 18 − 6 = ?
+Answer: 12
+Working: 18 is made of 12 and 6. If you subtract 6 from 18, you get 12.
+
+Question 5: If 15 − 7 = 8, what is 8 + 7?
+Answer: 15
+Working: Since 15 minus 7 is 8, the inverse addition 8 plus 7 equals 15.
+
+Question 6: Fill in the missing number to complete the related fact: 11 + 4 = 15, so 15 − ? = 11.
+Answer: 4
+Working: The parts are 11 and 4, and the whole is 15. So 15 − 4 = 11.
+
+Question 7: Use the fact 13 + 5 = 18 to find the answer to 18 − 13.
+Answer: 5
+Working: The whole is 18 and the parts are 13 and 5. Subtracting the part 13 gives the other part, 5.
+
+Question 8: Tom had some apples. He ate 3 of them. Now he has 9 apples left. Use addition to work out how many apples Tom had at first.
+Answer: 12
+Working: To undo eating 3 apples, add the remaining 9 and the 3 that were eaten: 9 + 3 = 12.
+
+Question 9: There were some birds in a tree. 4 birds flew away. Now there are 8 birds left. How many birds were in the tree at first?
+Answer: 12
+Working: Use the inverse of subtracting 4 by adding 4 to 8: 8 + 4 = 12 birds.
+
+Question 10: Find the missing number: ? − 8 = 7.
+Answer: 15
+Working: Use the inverse operation of subtraction: add the parts 7 and 8 to find the whole. 7 + 8 = 15.
+
+Question 11: Find the missing number: 6 = ? − 9.
+Answer: 15
+Working: Use inverse addition to find the starting number: 6 + 9 = 15.
+
+Question 12: To check that 17 − 5 = 12, what number must be added to 12 in the check: 12 + ? = 17?
+Answer: 5
+Working: The inverse check adds the subtracted amount back to the answer: 12 + 5 = 17.

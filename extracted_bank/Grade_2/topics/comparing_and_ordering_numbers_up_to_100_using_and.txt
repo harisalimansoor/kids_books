@@ -1,0 +1,66 @@
+=== Topic: Comparing and ordering numbers up to 100 using `<`, `>`, and `=` ===
+Domain: Number and Place Value
+
+--- Comparing numbers up to 100 using `<`, `>`, and `=` ---
+
+Question 1: Write <, > or = to make the statement correct: 37 [ ] 73
+Answer: <
+Working: 37 has 3 tens and 73 has 7 tens. 3 tens is less than 7 tens, so 37 < 73.
+
+Question 2: Write <, > or = to make the statement correct: 85 [ ] 58
+Answer: >
+Working: 85 has 8 tens and 58 has 5 tens. 8 tens is greater than 5 tens, so 85 > 58.
+
+Question 3: Write <, > or = to make the statement correct: 60 + 4 [ ] 64
+Answer: =
+Working: 60 + 4 = 64. Both sides are equal, so 60 + 4 = 64.
+
+Question 4: Write <, > or = to make the statement correct: 4 tens and 2 ones [ ] 4 tens and 9 ones
+Answer: <
+Working: 4 tens and 2 ones is 42. 4 tens and 9 ones is 49. Both have 4 tens, but 2 ones is less than 9 ones, so 42 < 49.
+
+Question 5: Class 2A has 28 pupils and Class 2B has 31 pupils. Write <, > or = to compare the numbers: 28 [ ] 31
+Answer: <
+Working: 28 has 2 tens and 31 has 3 tens. 2 tens is less than 3 tens, so 28 < 31.
+
+Question 6: Write <, > or = to make the statement correct: 7 tens and 5 ones [ ] 80
+Answer: <
+Working: 7 tens and 5 ones is 75. 75 has 7 tens and 80 has 8 tens. 7 tens is less than 8 tens, so 75 < 80.
+
+Question 7: Write <, > or = to make the statement correct: 50 + 13 [ ] 60 + 3
+Answer: =
+Working: 50 + 13 = 63. 60 + 3 = 63. Both sides are equal to 63, so 50 + 13 = 60 + 3.
+
+Question 8: A number has 6 tens and some ones. It is less than 64. What is the greatest whole number it could be?
+Answer: 63
+Working: The number has 6 tens, so it is in the sixties (60, 61, 62, 63, ...). The numbers less than 64 are 63, 62, 61, 60. The greatest of these is 63.
+
+--- Ordering numbers up to 100 ---
+
+Question 9: Write these numbers in order from smallest to greatest: 19, 82, 45, 27
+Answer: 19, 27, 45, 82
+Working: Comparing the tens: 19 has 1 ten, 27 has 2 tens, 45 has 4 tens, and 82 has 8 tens. Ordered from smallest to greatest: 19, 27, 45, 82.
+
+Question 10: Write these numbers in order from greatest to smallest: 63, 14, 91, 50
+Answer: 91, 63, 50, 14
+Working: Comparing the tens: 91 has 9 tens, 63 has 6 tens, 50 has 5 tens, and 14 has 1 ten. Ordered from greatest to smallest: 91, 63, 50, 14.
+
+Question 11: Write these numbers in order from smallest to greatest: forty-two, twenty-four, fifty, fourteen
+Answer: fourteen, twenty-four, forty-two, fifty
+Working: In numerals, the numbers are 42, 24, 50, 14. Comparing place value gives: 14, 24, 42, 50. In words: fourteen, twenty-four, forty-two, fifty.
+
+Question 12: Here are four scores in a game: 76, 59, 81, 67. Write the scores in order, starting with the greatest score.
+Answer: 81, 76, 67, 59
+Working: Comparing the tens: 81 (8 tens), 76 (7 tens), 67 (6 tens), 59 (5 tens). In order from greatest to smallest: 81, 76, 67, 59.
+
+Question 13: Here are three numbers in order from smallest to greatest: 38, [  ], 52. The missing number is a multiple of 10. What is the missing number?
+Answer: 40
+Working: The number must be between 38 and 52. The multiples of 10 in this range are 40 and 50. Between 38 and 52, the tens multiple directly after 38 is 40 (or 50). The only multiples of 10 between 38 and 52 are 40 and 50. The next decade after 30 is 40. 40 is greater than 38 and less than 52.
+
+Question 14: Sam wrote four numbers in order from smallest to greatest: 29, 35, 48, 61. He wants to add the number 42 to the list. Between which two numbers does 42 belong?
+Answer: 35 and 48
+Working: 42 is greater than 35 and less than 48. Therefore, 42 belongs between 35 and 48.
+
+Question 15: Four children measure their ribbon lengths: Maya has 45 cm, Jack has 84 cm, Lily has 39 cm, and Leo has 70 cm. Write the names of the children in order from shortest ribbon to longest ribbon.
+Answer: Lily, Maya, Leo, Jack
+Working: Ordering the lengths from shortest to longest: 39 cm, 45 cm, 70 cm, 84 cm. Matching to names gives: Lily (39 cm), Maya (45 cm), Leo (70 cm), Jack (84 cm).

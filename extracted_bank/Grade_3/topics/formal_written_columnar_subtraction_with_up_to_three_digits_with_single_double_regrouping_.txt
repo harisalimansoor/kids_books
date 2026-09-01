@@ -1,0 +1,56 @@
+=== Topic: Formal written columnar subtraction with up to three digits (with single/double regrouping and across zeros) ===
+Domain: Addition and Subtraction
+
+--- Column subtraction with single regrouping ---
+
+Question 1: Use column subtraction to calculate: 453 - 127
+Answer: 326
+Working: Subtract ones: 3 is less than 7, so exchange 1 ten for 10 ones (5 tens becomes 4 tens, 3 ones becomes 13 ones). 13 - 7 = 6 ones. Subtract tens: 4 - 2 = 2 tens. Subtract hundreds: 4 - 1 = 3 hundreds. 453 - 127 = 326.
+
+Question 2: Use column subtraction to calculate: 628 - 274
+Answer: 354
+Working: Subtract ones: 8 - 4 = 4 ones. Subtract tens: 2 is less than 7, so exchange 1 hundred for 10 tens (6 hundreds becomes 5 hundreds, 2 tens becomes 12 tens). 12 - 7 = 5 tens. Subtract hundreds: 5 - 2 = 3 hundreds. 628 - 274 = 354.
+
+Question 3: A primary school library has 572 books. Pupils borrow 238 books during the week. How many books are left in the library?
+Answer: 334
+Working: Calculate 572 - 238. In the ones column, exchange 1 ten for 10 ones: 12 - 8 = 4. In the tens column: 6 - 3 = 3. In the hundreds column: 5 - 2 = 3. There are 334 books left.
+
+Question 4: A runner has a goal to run 835 metres. So far, she has run 391 metres. How many metres does she have left to run?
+Answer: 444
+Working: Calculate 835 - 391. Ones: 5 - 1 = 4. Tens: exchange 1 hundred for 10 tens (8 hundreds becomes 7 hundreds, 3 tens becomes 13 tens), so 13 - 9 = 4. Hundreds: 7 - 3 = 4. 835 - 391 = 444.
+
+--- Column subtraction with double regrouping ---
+
+Question 5: Use column subtraction to calculate: 534 - 278
+Answer: 256
+Working: Subtract ones: 4 is less than 8, exchange 1 ten for 10 ones (3 tens becomes 2 tens, 4 ones becomes 14 ones). 14 - 8 = 6. Subtract tens: 2 is less than 7, exchange 1 hundred for 10 tens (5 hundreds becomes 4 hundreds, 2 tens becomes 12 tens). 12 - 7 = 5. Subtract hundreds: 4 - 2 = 2. 534 - 278 = 256.
+
+Question 6: Use column subtraction to calculate: 742 - 385
+Answer: 357
+Working: Subtract ones: exchange 1 ten for 10 ones (4 tens becomes 3 tens, 2 ones becomes 12 ones). 12 - 5 = 7. Subtract tens: exchange 1 hundred for 10 tens (7 hundreds becomes 6 hundreds, 3 tens becomes 13 tens). 13 - 8 = 5. Subtract hundreds: 6 - 3 = 3. 742 - 385 = 357.
+
+Question 7: A bakery bakes 623 bread rolls in the morning. By the end of the day, 287 rolls have been sold. How many bread rolls are left?
+Answer: 336
+Working: Calculate 623 - 287 using column subtraction. Exchange 1 ten for 10 ones: 13 - 7 = 6 ones. Exchange 1 hundred for 10 tens: 11 - 8 = 3 tens. Subtract hundreds: 5 - 2 = 3 hundreds. 623 - 287 = 336 rolls left.
+
+Question 8: Parcel A has a mass of 815 grams. Parcel B has a mass of 479 grams. How many grams heavier is Parcel A than Parcel B?
+Answer: 336
+Working: Calculate 815 - 479. Ones: exchange 1 ten for 10 ones (1 ten becomes 0 tens, 5 ones becomes 15 ones). 15 - 9 = 6. Tens: exchange 1 hundred for 10 tens (8 hundreds becomes 7 hundreds, 0 tens becomes 10 tens). 10 - 7 = 3. Hundreds: 7 - 4 = 3. Parcel A is 336 grams heavier.
+
+--- Column subtraction across zeros ---
+
+Question 9: Use column subtraction to calculate: 604 - 238
+Answer: 366
+Working: There are 0 tens to exchange from. Exchange 1 hundred for 10 tens (6 hundreds becomes 5 hundreds, 0 tens becomes 10 tens). Next, exchange 1 ten for 10 ones (10 tens becomes 9 tens, 4 ones becomes 14 ones). Subtract ones: 14 - 8 = 6. Subtract tens: 9 - 3 = 6. Subtract hundreds: 5 - 2 = 3. 604 - 238 = 366.
+
+Question 10: Use column subtraction to calculate: 700 - 348
+Answer: 352
+Working: Exchange 1 hundred for 10 tens (7 hundreds becomes 6 hundreds, 0 tens becomes 10 tens). Then exchange 1 ten for 10 ones (10 tens becomes 9 tens, 0 ones becomes 10 ones). Subtract ones: 10 - 8 = 2. Subtract tens: 9 - 4 = 5. Subtract hundreds: 6 - 3 = 3. 700 - 348 = 352.
+
+Question 11: A theatre has 506 seats. For an evening performance, 248 tickets are booked. How many seats are not booked?
+Answer: 258
+Working: Calculate 506 - 248. Exchange 1 hundred into 10 tens (5 hundreds becomes 4 hundreds, 0 tens becomes 10 tens). Exchange 1 ten into 10 ones (10 tens becomes 9 tens, 6 ones becomes 16 ones). Ones: 16 - 8 = 8. Tens: 9 - 4 = 5. Hundreds: 4 - 2 = 2. 258 seats are not booked.
+
+Question 12: An event organiser sets a target to sell 800 tickets for a school concert. So far, 463 tickets have been sold. How many more tickets need to be sold to reach the target?
+Answer: 337
+Working: Calculate 800 - 463. Exchange 1 hundred into 10 tens (8 hundreds becomes 7 hundreds, 0 tens becomes 10 tens). Exchange 1 ten into 10 ones (10 tens becomes 9 tens, 0 ones becomes 10 ones). Ones: 10 - 3 = 7. Tens: 9 - 6 = 3. Hundreds: 7 - 4 = 3. 337 more tickets need to be sold.

@@ -1,0 +1,80 @@
+=== Topic: Counting in tenths, tenths as division by 10, and fraction anatomy (numerator, denominator) ===
+Domain: Fractions
+
+--- Counting in tenths ---
+
+Question 1: Write the next fraction in this counting sequence: 1/10, 2/10, 3/10, 4/10, ____
+Answer: 5/10
+Working: The sequence counts up in tenths: 1/10, 2/10, 3/10, 4/10, 5/10.
+
+Question 2: Count backwards in tenths: 8/10, 7/10, 6/10, ____. What is the missing fraction?
+Answer: 5/10
+Working: Counting down by one tenth: 8/10, 7/10, 6/10, 5/10.
+
+Question 3: A number line is marked in tenths from 0 to 1. Which fraction is 2 tenths more than 5/10?
+Answer: 7/10
+Working: 5/10 + 2/10 = 7/10.
+
+Question 4: Maya starts at 3/10 and counts up 4 tenths. What fraction does she land on?
+Answer: 7/10
+Working: Start at 3/10 and count on 4 tenths: 4/10, 5/10, 6/10, 7/10.
+
+Question 5: Fill in the missing fraction: 6/10, 7/10, 8/10, ____, 10/10.
+Answer: 9/10
+Working: The sequence goes up by 1/10 each step. The number between 8/10 and 10/10 is 9/10.
+
+Question 6: Sam counts backwards in tenths from 1 whole: 1, 9/10, 8/10, 7/10. What are the next two fractions in his count?
+Answer: 6/10, 5/10
+Working: Counting down in tenths from 7/10 gives 6/10, then 5/10.
+
+--- Tenths as division by 10 ---
+
+Question 7: One whole ribbon is cut into 10 equal pieces. What fraction of the whole ribbon is 1 piece?
+Answer: 1/10
+Working: 1 whole divided into 10 equal pieces is 1/10.
+
+Question 8: Write the calculation 1 ÷ 10 as a fraction.
+Answer: 1/10
+Working: Dividing 1 by 10 gives the unit fraction 1/10.
+
+Question 9: 3 pizzas are shared equally among 10 children. What fraction of a pizza does each child receive?
+Answer: 3/10
+Working: Sharing 3 whole pizzas equally among 10 means 3 ÷ 10 = 3/10 of a pizza each.
+
+Question 10: Write the calculation 7 ÷ 10 as a fraction.
+Answer: 7/10
+Working: Dividing 7 by 10 gives the fraction 7/10.
+
+Question 11: A 4-metre piece of wood is cut into 10 equal lengths. What fraction of a metre is each length?
+Answer: 4/10 m
+Working: 4 metres divided into 10 equal parts is 4 ÷ 10 = 4/10 m.
+
+Question 12: 9 litres of water are poured equally into 10 jugs. How many litres of water are in each jug? Write your answer as a fraction.
+Answer: 9/10 litres
+Working: 9 litres divided equally into 10 jugs is 9 ÷ 10 = 9/10 litres.
+
+--- Fraction anatomy (numerator, denominator) ---
+
+Question 13: In the fraction 3/8, which number is the numerator?
+Answer: 3
+Working: The numerator is the top number in a fraction, so it is 3.
+
+Question 14: In the fraction 5/6, which number is the denominator?
+Answer: 6
+Working: The denominator is the bottom number in a fraction, so it is 6.
+
+Question 15: A fraction has a numerator of 2 and a denominator of 5. Write the fraction.
+Answer: 2/5
+Working: With numerator 2 on top and denominator 5 on the bottom, the fraction is 2/5.
+
+Question 16: A cake is cut into 8 equal slices. Leo eats 3 slices. In the fraction 3/8, what does the denominator 8 tell you about the cake?
+Answer: The total number of equal slices the cake was cut into
+Working: The denominator shows the total number of equal parts that make up the whole.
+
+Question 17: What is the name of a fraction that has a numerator of 1, such as 1/4 or 1/10?
+Answer: unit fraction
+Working: A fraction with a numerator of 1 is called a unit fraction.
+
+Question 18: A fraction has a denominator of 10. The numerator is 4 less than the denominator. Write the fraction.
+Answer: 6/10
+Working: Denominator = 10. Numerator = 10 - 4 = 6. The fraction is 6/10.

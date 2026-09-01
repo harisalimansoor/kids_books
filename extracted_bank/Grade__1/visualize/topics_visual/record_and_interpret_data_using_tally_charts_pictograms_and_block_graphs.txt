@@ -1,0 +1,126 @@
+###################################
+Record and interpret data using tally charts, pictograms, and block graphs
+###################################
+
+--- Tally charts ---
+
+1. Look at the picture! {user_name} is looking at this.
+A tally chart shows 1 bundle of 5 tally marks and 2 single tally marks for red cars. How many red cars are there in total?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+A tally chart shows 1 bundle of 5 tally marks and 2 single tally marks for red cars. How many red cars are there in total?
+
+3. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A tally chart shows 1 bundle of 5 tally marks and 2 single tally marks for red cars. How many red cars are there in total?
+
+4. Look at the picture! {user_name} is looking at this.
+In a class tally chart, 4 children chose cats and 1 bundle of 5 children chose dogs. How many children chose dogs?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+In a class tally chart, 4 children chose cats and 1 bundle of 5 children chose dogs. How many children chose dogs?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+In a class tally chart, 4 children chose cats and 1 bundle of 5 children chose dogs. How many children chose dogs?
+
+7. Look at the picture! {user_name} is looking at this.
+In a tally chart of favourite fruits, apples have 1 bundle of 5 and 3 single tallies. Bananas have 1 bundle of 5 and 1 single tally. How many more children chose apples than bananas?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+In a tally chart of favourite fruits, apples have 1 bundle of 5 and 3 single tallies. Bananas have 1 bundle of 5 and 1 single tally. How many more children chose apples than bananas?
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+In a tally chart of favourite fruits, apples have 1 bundle of 5 and 3 single tallies. Bananas have 1 bundle of 5 and 1 single tally. How many more children chose apples than bananas?
+
+10. Look at the picture! {user_name} is looking at this.
+Sara recorded birds in her garden with a tally chart. Robins have 1 bundle of 5. Sparrows have 1 bundle of 5 and 4 single tallies. What is the total number of robins and sparrows?
+
+11. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Sara recorded birds in her garden with a tally chart. Robins have 1 bundle of 5. Sparrows have 1 bundle of 5 and 4 single tallies. What is the total number of robins and sparrows?
+
+12. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Sara recorded birds in her garden with a tally chart. Robins have 1 bundle of 5. Sparrows have 1 bundle of 5 and 4 single tallies. What is the total number of robins and sparrows?
+
+13. Look at the picture! {user_name} is looking at this.
+A tally chart has 7 tally marks for blue counters and 12 tally marks for yellow counters. How many fewer blue counters are there than yellow counters?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A tally chart has 7 tally marks for blue counters and 12 tally marks for yellow counters. How many fewer blue counters are there than yellow counters?
+
+15. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A tally chart has 7 tally marks for blue counters and 12 tally marks for yellow counters. How many fewer blue counters are there than yellow counters?
+
+--- Pictograms ---
+
+16. Look at the picture! {user_name} is looking at this.
+In a pictogram, 1 star picture stands for 1 sticker. Leo has 6 star pictures next to his name. How many stickers does Leo have?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In a pictogram, 1 star picture stands for 1 sticker. Leo has 6 star pictures next to his name. How many stickers does Leo have?
+
+18. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+In a pictogram, 1 star picture stands for 1 sticker. Leo has 6 star pictures next to his name. How many stickers does Leo have?
+
+19. Look at the picture! {user_name} is looking at this.
+In a pictogram, 1 circle represents 1 book. Class 1 has 8 circles and Class 2 has 5 circles. How many books did the two classes read altogether?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In a pictogram, 1 circle represents 1 book. Class 1 has 8 circles and Class 2 has 5 circles. How many books did the two classes read altogether?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+In a pictogram, 1 circle represents 1 book. Class 1 has 8 circles and Class 2 has 5 circles. How many books did the two classes read altogether?
+
+22. Look at the picture! {user_name} is looking at this.
+A pictogram shows favourite pets. The key shows that 1 paw picture stands for 2 pets. The dog row has 3 paw pictures. How many pets are dogs?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A pictogram shows favourite pets. The key shows that 1 paw picture stands for 2 pets. The dog row has 3 paw pictures. How many pets are dogs?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A pictogram shows favourite pets. The key shows that 1 paw picture stands for 2 pets. The dog row has 3 paw pictures. How many pets are dogs?
+
+25. Look at the picture! {user_name} is looking at this.
+In a pictogram, 1 smiley face stands for 2 children. The row for pizza has 4 smiley faces. The row for pasta has 2 smiley faces. How many more children chose pizza than pasta?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a pictogram, 1 smiley face stands for 2 children. The row for pizza has 4 smiley faces. The row for pasta has 2 smiley faces. How many more children chose pizza than pasta?
+
+27. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+In a pictogram, 1 smiley face stands for 2 children. The row for pizza has 4 smiley faces. The row for pasta has 2 smiley faces. How many more children chose pizza than pasta?
+
+--- Block graphs ---
+
+28. Look at the picture! {user_name} is looking at this.
+In a block graph, each block stands for 1 child. The tower for green has 7 blocks. The tower for red has 4 blocks. Which colour has the most blocks?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a block graph, each block stands for 1 child. The tower for green has 7 blocks. The tower for red has 4 blocks. Which colour has the most blocks?
+
+30. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+In a block graph, each block stands for 1 child. The tower for green has 7 blocks. The tower for red has 4 blocks. Which colour has the most blocks?
+
+31. Look at the picture! {user_name} is looking at this.
+In a block graph, each block represents 1 animal. There are 9 blocks for sheep and 6 blocks for cows. How many more sheep are there than cows?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+In a block graph, each block represents 1 animal. There are 9 blocks for sheep and 6 blocks for cows. How many more sheep are there than cows?
+
+33. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+In a block graph, each block represents 1 animal. There are 9 blocks for sheep and 6 blocks for cows. How many more sheep are there than cows?
+
+34. Look at the picture! {user_name} is looking at this.
+A block graph shows favourite sports. The running column has 5 blocks and the swimming column has 8 blocks. Each block is 1 vote. How many votes did running and swimming get altogether?
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A block graph shows favourite sports. The running column has 5 blocks and the swimming column has 8 blocks. Each block is 1 vote. How many votes did running and swimming get altogether?
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A block graph shows favourite sports. The running column has 5 blocks and the swimming column has 8 blocks. Each block is 1 vote. How many votes did running and swimming get altogether?
+
+37. Look at the picture! {user_name} is looking at this.
+In a block graph, each block is 1 vote. Football has 10 blocks, tennis has 4 blocks, and swimming has 6 blocks. How many more votes does football have than tennis?
+
+38. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+In a block graph, each block is 1 vote. Football has 10 blocks, tennis has 4 blocks, and swimming has 6 blocks. How many more votes does football have than tennis?
+
+39. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+In a block graph, each block is 1 vote. Football has 10 blocks, tennis has 4 blocks, and swimming has 6 blocks. How many more votes does football have than tennis?

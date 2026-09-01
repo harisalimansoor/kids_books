@@ -1,0 +1,191 @@
+###################################
+Properties of 3-D shapes (edges, vertices, faces, flat vs curved surfaces)
+###################################
+
+--- Edges ---
+
+1. Look at the picture! {user_name} is looking at this.
+How many straight edges does a cube have?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many straight edges does a cube have?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+How many straight edges does a cube have?
+
+4. Look at the picture! {user_name} is looking at this.
+How many edges does a sphere have?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many edges does a sphere have?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+How many edges does a sphere have?
+
+7. Look at the picture! {user_name} is looking at this.
+How many curved edges does a cylinder have?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many curved edges does a cylinder have?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+How many curved edges does a cylinder have?
+
+10. Look at the picture! {user_name} is looking at this.
+How many straight edges does a square-based pyramid have altogether?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many straight edges does a square-based pyramid have altogether?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+How many straight edges does a square-based pyramid have altogether?
+
+13. Look at the picture! {user_name} is looking at this.
+A triangular prism has 9 edges. A cuboid has 12 edges. How many more edges does a cuboid have than a triangular prism?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A triangular prism has 9 edges. A cuboid has 12 edges. How many more edges does a cuboid have than a triangular prism?
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A triangular prism has 9 edges. A cuboid has 12 edges. How many more edges does a cuboid have than a triangular prism?
+
+--- Vertices ---
+
+16. Look at the picture! {user_name} is looking at this.
+How many vertices does a cube have?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many vertices does a cube have?
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+How many vertices does a cube have?
+
+19. Look at the picture! {user_name} is looking at this.
+How many vertices does a sphere have?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many vertices does a sphere have?
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+How many vertices does a sphere have?
+
+22. Look at the picture! {user_name} is looking at this.
+How many vertices does a square-based pyramid have?
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many vertices does a square-based pyramid have?
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+How many vertices does a square-based pyramid have?
+
+25. Look at the picture! {user_name} is looking at this.
+How many vertices does a triangular prism have?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many vertices does a triangular prism have?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+How many vertices does a triangular prism have?
+
+28. Look at the picture! {user_name} is looking at this.
+A cuboid has 8 vertices. A cone has 1 vertex. How many vertices do a cuboid and a cone have in total?
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A cuboid has 8 vertices. A cone has 1 vertex. How many vertices do a cuboid and a cone have in total?
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A cuboid has 8 vertices. A cone has 1 vertex. How many vertices do a cuboid and a cone have in total?
+
+--- Faces ---
+
+31. Look at the picture! {user_name} is looking at this.
+How many flat faces does a cube have?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many flat faces does a cube have?
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+How many flat faces does a cube have?
+
+34. Look at the picture! {user_name} is looking at this.
+Which 3-D shape has 6 identical square faces: a cube or a cuboid?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which 3-D shape has 6 identical square faces: a cube or a cuboid?
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Which 3-D shape has 6 identical square faces: a cube or a cuboid?
+
+37. Look at the picture! {user_name} is looking at this.
+How many triangular faces does a square-based pyramid have?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many triangular faces does a square-based pyramid have?
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+How many triangular faces does a square-based pyramid have?
+
+40. Look at the picture! {user_name} is looking at this.
+How many faces does a triangular prism have in total?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many faces does a triangular prism have in total?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+How many faces does a triangular prism have in total?
+
+43. Look at the picture! {user_name} is looking at this.
+A cuboid has 6 faces. A triangular prism has 5 faces. How many faces do they have altogether?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+A cuboid has 6 faces. A triangular prism has 5 faces. How many faces do they have altogether?
+
+45. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A cuboid has 6 faces. A triangular prism has 5 faces. How many faces do they have altogether?
+
+--- Flat vs curved surfaces ---
+
+46. Look at the picture! {user_name} is looking at this.
+How many curved surfaces does a sphere have?
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many curved surfaces does a sphere have?
+
+48. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+How many curved surfaces does a sphere have?
+
+49. Look at the picture! {user_name} is looking at this.
+A cylinder has 2 flat circular faces and 1 curved surface. How many surfaces does a cylinder have in total?
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+A cylinder has 2 flat circular faces and 1 curved surface. How many surfaces does a cylinder have in total?
+
+51. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A cylinder has 2 flat circular faces and 1 curved surface. How many surfaces does a cylinder have in total?
+
+52. Look at the picture! {user_name} is looking at this.
+How many curved surfaces does a cube have?
+
+53. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many curved surfaces does a cube have?
+
+54. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+How many curved surfaces does a cube have?
+
+55. Look at the picture! {user_name} is looking at this.
+Which 3-D shape has only 1 curved surface and 0 flat faces: a cylinder or a sphere?
+
+56. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Which 3-D shape has only 1 curved surface and 0 flat faces: a cylinder or a sphere?
+
+57. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Which 3-D shape has only 1 curved surface and 0 flat faces: a cylinder or a sphere?
+
+58. Look at the picture! {user_name} is looking at this.
+A 3-D shape has 1 flat circular face and 1 curved surface that comes to a point. Name this 3-D shape.
+
+59. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A 3-D shape has 1 flat circular face and 1 curved surface that comes to a point. Name this 3-D shape.
+
+60. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A 3-D shape has 1 flat circular face and 1 curved surface that comes to a point. Name this 3-D shape.
