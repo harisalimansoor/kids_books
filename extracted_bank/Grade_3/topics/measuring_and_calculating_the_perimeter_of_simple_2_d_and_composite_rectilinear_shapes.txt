@@ -1,0 +1,70 @@
+=== Topic: Measuring and calculating the perimeter of simple 2-D and composite rectilinear shapes ===
+Domain: Measurement
+
+--- Perimeter of simple 2-D shapes ---
+
+Question 1: A triangle has sides of length 7 cm, 8 cm, and 9 cm. What is the perimeter of the triangle?
+Answer: 24 cm
+Working: Add the lengths of the three sides: 7 + 8 + 9 = 24 cm.
+
+Question 2: A rectangle has a length of 14 cm and a width of 6 cm. What is the perimeter of the rectangle?
+Answer: 40 cm
+Working: A rectangle has two pairs of equal sides. Perimeter = 14 + 6 + 14 + 6 = 40 cm.
+
+Question 3: A square has sides of length 8 cm. What is the perimeter of the square?
+Answer: 32 cm
+Working: A square has 4 equal sides. Perimeter = 4 × 8 = 32 cm.
+
+Question 4: An equilateral triangle has 3 equal sides. Each side is 12 cm long. What is the perimeter of the triangle?
+Answer: 36 cm
+Working: An equilateral triangle has 3 equal sides. Perimeter = 3 × 12 = 36 cm.
+
+Question 5: A rectangular playground is 25 m long and 15 m wide. What is the perimeter of the playground?
+Answer: 80 m
+Working: Perimeter = 25 + 15 + 25 + 15 = 80 m.
+
+Question 6: A regular octagon has 8 equal sides. Each side is 4 cm long. What is the perimeter of the octagon?
+Answer: 32 cm
+Working: A regular octagon has 8 equal sides. Perimeter = 8 × 4 = 32 cm.
+
+Question 7: A square picture frame has a total perimeter of 36 cm. What is the length of one side of the frame?
+Answer: 9 cm
+Working: A square has 4 equal sides. Side length = 36 ÷ 4 = 9 cm.
+
+Question 8: An isosceles triangle has two sides of length 15 cm and one side of length 10 cm. What is the perimeter of the triangle?
+Answer: 40 cm
+Working: Perimeter = 15 + 15 + 10 = 40 cm.
+
+Question 9: A rectangular sports pitch is 18 m long and 12 m wide. A pupil runs 3 complete laps around the perimeter of the pitch. What is the total distance the pupil runs?
+Answer: 180 m
+Working: Perimeter of 1 lap = 18 + 12 + 18 + 12 = 60 m. For 3 laps: 3 × 60 = 180 m.
+
+--- Perimeter of composite rectilinear shapes ---
+
+Question 10: An L-shaped room has 6 straight sides. The lengths of the sides are 8 m, 3 m, 5 m, 4 m, 3 m, and 7 m. What is the perimeter of the room?
+Answer: 30 m
+Working: Add all 6 side lengths: 8 + 3 + 5 + 4 + 3 + 7 = 30 m.
+
+Question 11: A composite rectilinear shape has 6 sides measuring 12 cm, 4 cm, 6 cm, 5 cm, 6 cm, and 9 cm. What is the perimeter of the shape?
+Answer: 42 cm
+Working: Add all 6 side lengths: 12 + 4 + 6 + 5 + 6 + 9 = 42 cm.
+
+Question 12: A flowerbed is made in a rectilinear shape with 6 straight edges. The edge lengths are 10 m, 4 m, 6 m, 3 m, 4 m, and 7 m. What is the perimeter of the flowerbed?
+Answer: 34 m
+Working: Add all 6 edge lengths: 10 + 4 + 6 + 3 + 4 + 7 = 34 m.
+
+Question 13: A rectilinear playground has 6 boundary sides measuring 20 m, 8 m, 12 m, 6 m, 8 m, and 14 m. What is the perimeter of the playground?
+Answer: 68 m
+Working: Add the lengths of all 6 sides: 20 + 8 + 12 + 6 + 8 + 14 = 68 m.
+
+Question 14: A wooden block has a composite rectilinear face with 6 outer edges of lengths 11 cm, 6 cm, 4 cm, 3 cm, 7 cm, and 9 cm. What is the perimeter of the face?
+Answer: 40 cm
+Working: Add all 6 edge lengths: 11 + 6 + 4 + 3 + 7 + 9 = 40 cm.
+
+Question 15: An L-shaped swimming pool has outer sides measuring 16 m, 6 m, 10 m, 4 m, 6 m, and 10 m. A swimmer walks 2 full laps around the edge of the pool. What is the total distance walked?
+Answer: 104 m
+Working: Perimeter of 1 lap = 16 + 6 + 10 + 4 + 6 + 10 = 52 m. For 2 laps: 2 × 52 = 104 m.
+
+Question 16: A rectilinear classroom display board has 6 straight edges measuring 14 cm, 5 cm, 8 cm, 3 cm, 6 cm, and 8 cm. A teacher puts a ribbon border 4 times around the perimeter of the board. What is the total length of ribbon used?
+Answer: 176 cm
+Working: Perimeter = 14 + 5 + 8 + 3 + 6 + 8 = 44 cm. For 4 times around: 4 × 44 = 176 cm.

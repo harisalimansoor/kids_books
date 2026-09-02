@@ -1,0 +1,1 @@
+Look at the picture! {user_name} and {sibling_name} are organising chairs into equal rows in a realistic British primary-school classroom. There are exactly 20 chairs, arranged in equal rows with exactly 5 chairs in each row. {user_name} points towards one complete row while {sibling_name} counts the rows.. How many rows are there?

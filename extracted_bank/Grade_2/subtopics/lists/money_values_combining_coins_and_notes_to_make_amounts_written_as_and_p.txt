@@ -1,0 +1,10 @@
+###################################
+Money values, combining coins and notes to make amounts (written as £ and p)
+###################################
+Domain: Measurement
+
+1. Money values in pounds (£) and pence (p)
+   From: money values in pounds (£) and pence (p)
+
+2. Combining coins and notes to make amounts
+   From: combining coins and notes to make amounts

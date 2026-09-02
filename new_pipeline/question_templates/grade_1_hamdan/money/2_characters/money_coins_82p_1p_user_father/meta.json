@@ -1,0 +1,236 @@
+{
+  "stem_id": "money_coins_82p_1p_user_father",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "two_group_add_money",
+  "question_file": "question.txt",
+  "image_file": "father_group_a_82p_table_1p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked. Paste child + father faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 923,
+      "y": 280,
+      "w": 194,
+      "h": 248,
+      "landmarks": {
+        "right_eye": [
+          965,
+          380
+        ],
+        "left_eye": [
+          1058,
+          365
+        ],
+        "nose": [
+          1014,
+          428
+        ],
+        "mouth_right": [
+          984,
+          463
+        ],
+        "mouth_left": [
+          1069,
+          452
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "father",
+      "x": 482,
+      "y": 103,
+      "w": 231,
+      "h": 330,
+      "landmarks": {
+        "right_eye": [
+          564,
+          218
+        ],
+        "left_eye": [
+          672,
+          244
+        ],
+        "nose": [
+          611,
+          302
+        ],
+        "mouth_right": [
+          538,
+          331
+        ],
+        "mouth_left": [
+          638,
+          354
+        ]
+      },
+      "confidence": 0.947
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_a",
+      "owner": "child",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 4,
+      "value_pence": 82,
+      "container": "group_a",
+      "positions": [
+        {
+          "x": 891,
+          "y": 565
+        },
+        {
+          "x": 977,
+          "y": 565
+        },
+        {
+          "x": 1063,
+          "y": 565
+        },
+        {
+          "x": 1149,
+          "y": 565
+        }
+      ]
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 1,
+      "value_pence": 1,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "83p",
+    "options": [
+      "83p",
+      "82p",
+      "1p",
+      "84p"
+    ],
+    "formula": "82p+1p",
+    "explanation": "82p + 1p = 83p"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Money/questions.txt",
+    "notes": "Money/72.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Classroom money activity with clearly separated coin groups."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Coins money stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 923,
+      "y": 280,
+      "w": 194,
+      "h": 248,
+      "landmarks": {
+        "right_eye": [
+          965,
+          380
+        ],
+        "left_eye": [
+          1058,
+          365
+        ],
+        "nose": [
+          1014,
+          428
+        ],
+        "mouth_right": [
+          984,
+          463
+        ],
+        "mouth_left": [
+          1069,
+          452
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "father",
+      "x": 482,
+      "y": 103,
+      "w": 231,
+      "h": 330,
+      "landmarks": {
+        "right_eye": [
+          564,
+          218
+        ],
+        "left_eye": [
+          672,
+          244
+        ],
+        "nose": [
+          611,
+          302
+        ],
+        "mouth_right": [
+          538,
+          331
+        ],
+        "mouth_left": [
+          638,
+          354
+        ]
+      },
+      "confidence": 0.947
+    }
+  ]
+}

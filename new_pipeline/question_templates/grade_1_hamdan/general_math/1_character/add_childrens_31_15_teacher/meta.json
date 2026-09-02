@@ -1,0 +1,338 @@
+{
+  "stem_id": "add_childrens_31_15_teacher",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "teacher_has_31_childrens_teacher_has_15_childrens_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "teacher"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "teacher",
+    "allowed_adult_roles": [
+      "teacher"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "teacher_name": "teacher"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is teacher-locked. Paste the teacher face only; identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "teacher",
+      "x": 1229,
+      "y": 359,
+      "w": 92,
+      "h": 119,
+      "landmarks": {
+        "right_eye": [
+          1243,
+          404
+        ],
+        "left_eye": [
+          1291,
+          403
+        ],
+        "nose": [
+          1262,
+          427
+        ],
+        "mouth_right": [
+          1251,
+          448
+        ],
+        "mouth_left": [
+          1291,
+          445
+        ]
+      },
+      "confidence": 0.93
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "teacher",
+      "object_id": "childrens",
+      "singular": "children",
+      "plural": "childrens",
+      "count": 31,
+      "container": "table",
+      "positions": [
+        {
+          "x": 1060,
+          "y": 502
+        },
+        {
+          "x": 1146,
+          "y": 502
+        },
+        {
+          "x": 1232,
+          "y": 502
+        },
+        {
+          "x": 1318,
+          "y": 502
+        },
+        {
+          "x": 1404,
+          "y": 502
+        },
+        {
+          "x": 1440,
+          "y": 502
+        },
+        {
+          "x": 1060,
+          "y": 556
+        },
+        {
+          "x": 1146,
+          "y": 556
+        },
+        {
+          "x": 1232,
+          "y": 556
+        },
+        {
+          "x": 1318,
+          "y": 556
+        },
+        {
+          "x": 1404,
+          "y": 556
+        },
+        {
+          "x": 1440,
+          "y": 556
+        },
+        {
+          "x": 1060,
+          "y": 610
+        },
+        {
+          "x": 1146,
+          "y": 610
+        },
+        {
+          "x": 1232,
+          "y": 610
+        },
+        {
+          "x": 1318,
+          "y": 610
+        },
+        {
+          "x": 1404,
+          "y": 610
+        },
+        {
+          "x": 1440,
+          "y": 610
+        },
+        {
+          "x": 1060,
+          "y": 664
+        },
+        {
+          "x": 1146,
+          "y": 664
+        },
+        {
+          "x": 1232,
+          "y": 664
+        },
+        {
+          "x": 1318,
+          "y": 664
+        },
+        {
+          "x": 1404,
+          "y": 664
+        },
+        {
+          "x": 1440,
+          "y": 664
+        },
+        {
+          "x": 1060,
+          "y": 718
+        },
+        {
+          "x": 1146,
+          "y": 718
+        },
+        {
+          "x": 1232,
+          "y": 718
+        },
+        {
+          "x": 1318,
+          "y": 718
+        },
+        {
+          "x": 1404,
+          "y": 718
+        },
+        {
+          "x": 1440,
+          "y": 718
+        },
+        {
+          "x": 1060,
+          "y": 772
+        }
+      ]
+    },
+    {
+      "id": "table_2",
+      "owner": "teacher",
+      "object_id": "of_childrens",
+      "singular": "of children",
+      "plural": "of childrens",
+      "count": 15,
+      "container": "table",
+      "positions": [
+        {
+          "x": 1060,
+          "y": 502
+        },
+        {
+          "x": 1146,
+          "y": 502
+        },
+        {
+          "x": 1232,
+          "y": 502
+        },
+        {
+          "x": 1318,
+          "y": 502
+        },
+        {
+          "x": 1404,
+          "y": 502
+        },
+        {
+          "x": 1440,
+          "y": 502
+        },
+        {
+          "x": 1060,
+          "y": 556
+        },
+        {
+          "x": 1146,
+          "y": 556
+        },
+        {
+          "x": 1232,
+          "y": 556
+        },
+        {
+          "x": 1318,
+          "y": 556
+        },
+        {
+          "x": 1404,
+          "y": 556
+        },
+        {
+          "x": 1440,
+          "y": 556
+        },
+        {
+          "x": 1060,
+          "y": 610
+        },
+        {
+          "x": 1146,
+          "y": 610
+        },
+        {
+          "x": 1232,
+          "y": 610
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "46",
+    "options": [
+      "46",
+      "31",
+      "15",
+      "45"
+    ],
+    "formula": "31+15",
+    "explanation": "scene (31) + scene (15) = 46"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/General Math/questions.txt",
+    "notes": "General Math/7.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Two clear groups of childrens for addition.",
+    "children_layout": "two_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Childrens general_math stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "teacher",
+      "x": 1229,
+      "y": 359,
+      "w": 92,
+      "h": 119,
+      "landmarks": {
+        "right_eye": [
+          1243,
+          404
+        ],
+        "left_eye": [
+          1291,
+          403
+        ],
+        "nose": [
+          1262,
+          427
+        ],
+        "mouth_right": [
+          1251,
+          448
+        ],
+        "mouth_left": [
+          1291,
+          445
+        ]
+      },
+      "confidence": 0.93
+    }
+  ]
+}

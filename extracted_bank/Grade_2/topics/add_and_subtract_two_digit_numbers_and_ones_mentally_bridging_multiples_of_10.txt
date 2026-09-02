@@ -1,0 +1,70 @@
+=== Topic: Add and subtract two-digit numbers and ones mentally bridging multiples of 10 ===
+Domain: Addition and Subtraction
+
+--- Add two-digit numbers and ones mentally bridging multiples of 10 ---
+
+Question 1: Work out 27 + 5.
+Answer: 32
+Working: 27 + 3 = 30, and 30 + 2 = 32.
+
+Question 2: Work out 48 + 6.
+Answer: 54
+Working: 48 + 2 = 50, and 50 + 4 = 54.
+
+Question 3: Sophie has 36 crayons. She gets 7 more crayons. How many crayons does Sophie have in total?
+Answer: 43
+Working: 36 + 4 = 40, and 40 + 3 = 43.
+
+Question 4: To work out 58 + 5 mentally, you can add 2 first to reach 60. How many more do you need to add to reach the final answer?
+Answer: 3
+Working: 5 is partitioned into 2 and 3. After adding 2 to reach 60, add 3 more.
+
+Question 5: What number makes this calculation correct? 64 + [ ] = 71
+Answer: 7
+Working: 64 + 6 = 70, and 70 + 1 = 71. 6 + 1 = 7.
+
+Question 6: A piece of ribbon is 75 cm long. Jack adds 8 cm more ribbon to it. What is the total length of the ribbon in centimetres?
+Answer: 83 cm
+Working: 75 + 5 = 80 cm, and 80 + 3 = 83 cm.
+
+Question 7: Use the fact 7 + 6 = 13 to work out 87 + 6.
+Answer: 93
+Working: 80 + 7 + 6 = 80 + 13 = 93.
+
+Question 8: Mia has 49p in her purse. Her brother gives her 6p. How much money does Mia have now?
+Answer: 55p
+Working: 49p + 1p = 50p, and 50p + 5p = 55p.
+
+--- Subtract two-digit numbers and ones mentally bridging multiples of 10 ---
+
+Question 9: Work out 32 - 5.
+Answer: 27
+Working: 32 - 2 = 30, and 30 - 3 = 27.
+
+Question 10: Work out 54 - 7.
+Answer: 47
+Working: 54 - 4 = 50, and 50 - 3 = 47.
+
+Question 11: There are 43 marbles in a jar. Ben takes out 6 marbles. How many marbles are left in the jar?
+Answer: 37
+Working: 43 - 3 = 40, and 40 - 3 = 37.
+
+Question 12: To calculate 61 - 4 mentally, you can subtract 1 first to reach 60. What number do you subtract from 60 next?
+Answer: 3
+Working: 4 is partitioned into 1 and 3. After subtracting 1 to reach 60, subtract 3 to get 57.
+
+Question 13: What number makes this calculation correct? 82 - [ ] = 75
+Answer: 7
+Working: 82 - 2 = 80, and 80 - 5 = 75. 2 + 5 = 7.
+
+Question 14: A sunflower is 91 cm tall. A caterpillar is 8 cm below the top of the sunflower. What height is the caterpillar at in centimetres?
+Answer: 83 cm
+Working: 91 - 1 = 90 cm, and 90 - 7 = 83 cm.
+
+Question 15: Use the fact 12 - 5 = 7 to work out 72 - 5.
+Answer: 67
+Working: 72 is 60 + 12. 60 + (12 - 5) = 60 + 7 = 67.
+
+Question 16: Liam has 53p. He spends 8p on a sticker. How much money does Liam have left?
+Answer: 45p
+Working: 53p - 3p = 50p, and 50p - 5p = 45p.

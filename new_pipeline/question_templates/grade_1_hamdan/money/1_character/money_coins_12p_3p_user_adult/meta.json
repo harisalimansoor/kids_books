@@ -1,0 +1,172 @@
+{
+  "stem_id": "money_coins_12p_3p_user_adult",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "two_group_add_money",
+  "question_file": "question.txt",
+  "image_file": "group_a_12p_table_3p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 566,
+      "y": 131,
+      "w": 235,
+      "h": 311,
+      "landmarks": {
+        "right_eye": [
+          642,
+          254
+        ],
+        "left_eye": [
+          751,
+          264
+        ],
+        "nose": [
+          696,
+          326
+        ],
+        "mouth_right": [
+          633,
+          355
+        ],
+        "mouth_left": [
+          735,
+          365
+        ]
+      },
+      "confidence": 0.951
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_a",
+      "owner": "child",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 3,
+      "value_pence": 12,
+      "container": "group_a",
+      "positions": [
+        {
+          "x": 597,
+          "y": 488
+        },
+        {
+          "x": 683,
+          "y": 488
+        },
+        {
+          "x": 769,
+          "y": 488
+        }
+      ]
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 2,
+      "value_pence": 3,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "15p",
+    "options": [
+      "15p",
+      "12p",
+      "3p",
+      "14p"
+    ],
+    "formula": "12p+3p",
+    "explanation": "12p + 3p = 15p"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Money/questions.txt",
+    "notes": "Money/20.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Classroom money activity with clearly separated coin groups."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Coins money stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 566,
+      "y": 131,
+      "w": 235,
+      "h": 311,
+      "landmarks": {
+        "right_eye": [
+          642,
+          254
+        ],
+        "left_eye": [
+          751,
+          264
+        ],
+        "nose": [
+          696,
+          326
+        ],
+        "mouth_right": [
+          633,
+          355
+        ],
+        "mouth_left": [
+          735,
+          365
+        ]
+      },
+      "confidence": 0.951
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+=== Topic: Classify and reason about odd and even numbers and parity ===
+Domain: Number and Place Value
+
+--- Classify odd and even numbers ---
+
+Question 1: Is 6 an odd number or an even number?
+Answer: even
+Working: 6 can be split into 2 equal groups of 3 with none left over, so 6 is an even number.
+
+Question 2: Is 5 an odd number or an even number?
+Answer: odd
+Working: 5 can be put into 2 pairs of 2 with 1 left over, so 5 is an odd number.
+
+Question 3: Tom has 8 socks. He puts them into pairs of 2. There are no socks left over. Is 8 odd or even?
+Answer: even
+Working: 8 socks make 4 complete pairs with 0 left over, so 8 is even.
+
+Question 4: Write the next even number after 4.
+Answer: 6
+Working: Counting in even numbers: 2, 4, 6. The next even number after 4 is 6.
+
+Question 5: Write the next odd number after 7.
+Answer: 9
+Working: Counting in odd numbers: 1, 3, 5, 7, 9. The next odd number after 7 is 9.
+
+Question 6: Is 13 an odd number or an even number?
+Answer: odd
+Working: 13 ends in the digit 3, which is odd, so 13 is an odd number.
+
+Question 7: Is 18 an odd number or an even number?
+Answer: even
+Working: 18 ends in the digit 8, which is even, so 18 is an even number.
+
+Question 8: Look at these numbers: 7, 10, 11. Which number is even?
+Answer: 10
+Working: 7 and 11 are odd numbers. 10 ends in 0 and can be split into two equal groups of 5, so 10 is even.
+
+Question 9: Look at these numbers: 14, 15, 16. Which number is odd?
+Answer: 15
+Working: 14 and 16 end in even digits (4 and 6). 15 ends in 5, so 15 is the odd number.
+
+Question 10: Write the odd number that is between 10 and 12.
+Answer: 11
+Working: The number between 10 and 12 is 11. 11 is an odd number.
+
+--- Reason about parity ---
+
+Question 11: Can 6 children be put into pairs of 2 with no child left out? Write yes or no.
+Answer: yes
+Working: 6 is an even number. 6 children make exactly 3 pairs of 2 with 0 left out.
+
+Question 12: Can 7 apples be shared equally between 2 children with none left over? Write yes or no.
+Answer: no
+Working: 7 is an odd number. Sharing 7 between 2 gives 3 each and 1 left over.
+
+Question 13: Amy has 8 pencils. She gives 1 pencil away. Does she now have an odd or an even number of pencils?
+Answer: odd
+Working: 8 - 1 = 7. 7 is an odd number.
+
+Question 14: What kind of number comes straight after an even number: odd or even?
+Answer: odd
+Working: Numbers alternate between even and odd when counting in ones (e.g. 2 is even, 3 is odd), so the number after an even number is always odd.
+
+Question 15: Sam adds 3 and 5. Both numbers are odd. Is the total odd or even?
+Answer: even
+Working: 3 + 5 = 8. 8 is an even number.
+
+Question 16: Leo adds 4 and 2. Both numbers are even. Is the total odd or even?
+Answer: even
+Working: 4 + 2 = 6. 6 is an even number.
+
+Question 17: Ben adds 4 and 3. 4 is an even number and 3 is an odd number. Is 4 + 3 odd or even?
+Answer: odd
+Working: 4 + 3 = 7. 7 is an odd number.
+
+Question 18: Double 5 is 10. Is double 5 an odd number or an even number?
+Answer: even
+Working: Double 5 is 5 + 5 = 10. 10 is an even number.
+
+Question 19: Noah says, '19 is an even number because it has a 1 ten.' Is Noah correct? Write yes or no.
+Answer: no
+Working: 19 ends in the ones digit 9, which cannot be paired equally without 1 left over. 19 is an odd number, so Noah is not correct.
+
+Question 20: Jack puts 9 counters into pairs. He has 1 counter left over. Does an odd number always have 1 left over when put into pairs? Write yes or no.
+Answer: yes
+Working: An odd number cannot be split into pairs equally; there is always 1 counter left over.

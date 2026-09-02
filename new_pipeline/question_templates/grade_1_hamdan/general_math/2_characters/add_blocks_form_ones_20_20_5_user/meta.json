@@ -1,0 +1,404 @@
+{
+  "stem_id": "add_blocks_form_ones_20_20_5_user",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "three_group_add",
+  "question_file": "question.txt",
+  "image_file": "user_has_20_blocks_form_ones_table_has_20_blocks_form_ones_table_has_5_blocks_form_ones_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 917,
+      "y": 169,
+      "w": 201,
+      "h": 267,
+      "landmarks": {
+        "right_eye": [
+          963,
+          275
+        ],
+        "left_eye": [
+          1063,
+          270
+        ],
+        "nose": [
+          1014,
+          325
+        ],
+        "mouth_right": [
+          972,
+          359
+        ],
+        "mouth_left": [
+          1066,
+          355
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "sibling",
+      "x": 392,
+      "y": 166,
+      "w": 204,
+      "h": 274,
+      "landmarks": {
+        "right_eye": [
+          461,
+          271
+        ],
+        "left_eye": [
+          557,
+          293
+        ],
+        "nose": [
+          501,
+          343
+        ],
+        "mouth_right": [
+          438,
+          356
+        ],
+        "mouth_left": [
+          532,
+          376
+        ]
+      },
+      "confidence": 0.954
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "blocks_form_ones",
+      "singular": "blocks form one",
+      "plural": "blocks form ones",
+      "count": 20,
+      "container": "table",
+      "positions": [
+        {
+          "x": 802,
+          "y": 476
+        },
+        {
+          "x": 888,
+          "y": 476
+        },
+        {
+          "x": 974,
+          "y": 476
+        },
+        {
+          "x": 1060,
+          "y": 476
+        },
+        {
+          "x": 1146,
+          "y": 476
+        },
+        {
+          "x": 1232,
+          "y": 476
+        },
+        {
+          "x": 802,
+          "y": 530
+        },
+        {
+          "x": 888,
+          "y": 530
+        },
+        {
+          "x": 974,
+          "y": 530
+        },
+        {
+          "x": 1060,
+          "y": 530
+        },
+        {
+          "x": 1146,
+          "y": 530
+        },
+        {
+          "x": 1232,
+          "y": 530
+        },
+        {
+          "x": 802,
+          "y": 584
+        },
+        {
+          "x": 888,
+          "y": 584
+        },
+        {
+          "x": 974,
+          "y": 584
+        },
+        {
+          "x": 1060,
+          "y": 584
+        },
+        {
+          "x": 1146,
+          "y": 584
+        },
+        {
+          "x": 1232,
+          "y": 584
+        },
+        {
+          "x": 802,
+          "y": 638
+        },
+        {
+          "x": 888,
+          "y": 638
+        }
+      ]
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 20,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        },
+        {
+          "x": 490,
+          "y": 738
+        },
+        {
+          "x": 576,
+          "y": 738
+        },
+        {
+          "x": 662,
+          "y": 738
+        },
+        {
+          "x": 748,
+          "y": 738
+        },
+        {
+          "x": 318,
+          "y": 792
+        },
+        {
+          "x": 404,
+          "y": 792
+        },
+        {
+          "x": 490,
+          "y": 792
+        },
+        {
+          "x": 576,
+          "y": 792
+        },
+        {
+          "x": 662,
+          "y": 792
+        },
+        {
+          "x": 748,
+          "y": 792
+        },
+        {
+          "x": 318,
+          "y": 846
+        },
+        {
+          "x": 404,
+          "y": 846
+        },
+        {
+          "x": 490,
+          "y": 846
+        },
+        {
+          "x": 576,
+          "y": 846
+        },
+        {
+          "x": 662,
+          "y": 846
+        },
+        {
+          "x": 748,
+          "y": 846
+        },
+        {
+          "x": 318,
+          "y": 900
+        },
+        {
+          "x": 404,
+          "y": 900
+        }
+      ]
+    },
+    {
+      "id": "table_2",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 5,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        },
+        {
+          "x": 490,
+          "y": 738
+        },
+        {
+          "x": 576,
+          "y": 738
+        },
+        {
+          "x": 662,
+          "y": 738
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "45",
+    "options": [
+      "45",
+      "20",
+      "5",
+      "44"
+    ],
+    "formula": "20+20+5",
+    "explanation": "child (20) + scene (20) + scene (5) = 45"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/General Math/questions.txt",
+    "notes": "General Math/3.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Three clear groups of blocks form ones for addition.",
+    "blocks_form_one_layout": "three_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Blocks form ones general_math stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 917,
+      "y": 169,
+      "w": 201,
+      "h": 267,
+      "landmarks": {
+        "right_eye": [
+          963,
+          275
+        ],
+        "left_eye": [
+          1063,
+          270
+        ],
+        "nose": [
+          1014,
+          325
+        ],
+        "mouth_right": [
+          972,
+          359
+        ],
+        "mouth_left": [
+          1066,
+          355
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "sibling",
+      "x": 392,
+      "y": 166,
+      "w": 204,
+      "h": 274,
+      "landmarks": {
+        "right_eye": [
+          461,
+          271
+        ],
+        "left_eye": [
+          557,
+          293
+        ],
+        "nose": [
+          501,
+          343
+        ],
+        "mouth_right": [
+          438,
+          356
+        ],
+        "mouth_left": [
+          532,
+          376
+        ]
+      },
+      "confidence": 0.954
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Look at the picture! {user_name} and {sibling_name} are using a calendar to count forward from 29 December. {user_name} points to 29 December, and together they move forward one day at a time: 30 December, 31 December, 1 January, then 2 January. {sibling_name} points to each date as they count. Is 2 January four days after 29 December?

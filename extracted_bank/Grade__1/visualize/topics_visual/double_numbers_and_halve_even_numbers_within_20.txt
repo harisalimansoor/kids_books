@@ -1,0 +1,205 @@
+###################################
+Double numbers and halve even numbers within 20
+###################################
+
+--- Double numbers within 20 ---
+
+1. Look at the picture! {user_name} is looking at this.
+What is double 3?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is double 3?
+
+3. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+What is double 3?
+
+4. Look at the picture! {user_name} is looking at this.
+Double 4 is _____.
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Double 4 is _____.
+
+6. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Double 4 is _____.
+
+7. Look at the picture! {user_name} is looking at this.
+A ladybird has 5 spots on one wing and 5 spots on the other wing. How many spots does it have altogether?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A ladybird has 5 spots on one wing and 5 spots on the other wing. How many spots does it have altogether?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A ladybird has 5 spots on one wing and 5 spots on the other wing. How many spots does it have altogether?
+
+10. Look at the picture! {user_name} is looking at this.
+What is double 2?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is double 2?
+
+12. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+What is double 2?
+
+13. Look at the picture! {user_name} is looking at this.
+What is double 6?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is double 6?
+
+15. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+What is double 6?
+
+16. Look at the picture! {user_name} is looking at this.
+Double 7 is _____.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Double 7 is _____.
+
+18. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Double 7 is _____.
+
+19. Look at the picture! {user_name} is looking at this.
+Sam has 8 toy cars. Ella has double that amount. How many toy cars does Ella have?
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Sam has 8 toy cars. Ella has double that amount. How many toy cars does Ella have?
+
+21. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Sam has 8 toy cars. Ella has double that amount. How many toy cars does Ella have?
+
+22. Look at the picture! {user_name} is looking at this.
+What is double 9?
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is double 9?
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+What is double 9?
+
+25. Look at the picture! {user_name} is looking at this.
+What is double 10?
+
+26. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+What is double 10?
+
+27. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+What is double 10?
+
+28. Look at the picture! {user_name} is looking at this.
+Noah builds a tower of 7 cubes. Ava builds a tower that is double the height of Noah's tower. How many cubes are in Ava's tower?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Noah builds a tower of 7 cubes. Ava builds a tower that is double the height of Noah's tower. How many cubes are in Ava's tower?
+
+30. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Noah builds a tower of 7 cubes. Ava builds a tower that is double the height of Noah's tower. How many cubes are in Ava's tower?
+
+31. Look at the picture! {user_name} is looking at this.
+I think of a number. When I double it, the answer is 16. What number am I thinking of?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+I think of a number. When I double it, the answer is 16. What number am I thinking of?
+
+33. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+I think of a number. When I double it, the answer is 16. What number am I thinking of?
+
+--- Halve even numbers within 20 ---
+
+34. Look at the picture! {user_name} is looking at this.
+What is half of 6?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is half of 6?
+
+36. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+What is half of 6?
+
+37. Look at the picture! {user_name} is looking at this.
+Half of 8 is _____.
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Half of 8 is _____.
+
+39. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Half of 8 is _____.
+
+40. Look at the picture! {user_name} is looking at this.
+There are 10 apples. Maya eats half of them. How many apples does Maya eat?
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+There are 10 apples. Maya eats half of them. How many apples does Maya eat?
+
+42. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+There are 10 apples. Maya eats half of them. How many apples does Maya eat?
+
+43. Look at the picture! {user_name} is looking at this.
+What is half of 4?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is half of 4?
+
+45. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+What is half of 4?
+
+46. Look at the picture! {user_name} is looking at this.
+What is half of 12?
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is half of 12?
+
+48. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+What is half of 12?
+
+49. Look at the picture! {user_name} is looking at this.
+Half of 14 is _____.
+
+50. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Half of 14 is _____.
+
+51. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Half of 14 is _____.
+
+52. Look at the picture! {user_name} is looking at this.
+Ben has 16 pencils. He shares half of the pencils with Leo. How many pencils does Leo get?
+
+53. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Ben has 16 pencils. He shares half of the pencils with Leo. How many pencils does Leo get?
+
+54. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Ben has 16 pencils. He shares half of the pencils with Leo. How many pencils does Leo get?
+
+55. Look at the picture! {user_name} is looking at this.
+What is half of 18?
+
+56. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+What is half of 18?
+
+57. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+What is half of 18?
+
+58. Look at the picture! {user_name} is looking at this.
+What is half of 20?
+
+59. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is half of 20?
+
+60. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+What is half of 20?
+
+61. Look at the picture! {user_name} is looking at this.
+A ribbon is 18 cm long. It is cut into 2 equal halves. How long is each half?
+
+62. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A ribbon is 18 cm long. It is cut into 2 equal halves. How long is each half?
+
+63. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A ribbon is 18 cm long. It is cut into 2 equal halves. How long is each half?
+
+64. Look at the picture! {user_name} is looking at this.
+Lily has some stickers. She gives half of them to Kai. Kai gets 6 stickers. How many stickers did Lily have at the start?
+
+65. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Lily has some stickers. She gives half of them to Kai. Kai gets 6 stickers. How many stickers did Lily have at the start?
+
+66. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Lily has some stickers. She gives half of them to Kai. Kai gets 6 stickers. How many stickers did Lily have at the start?

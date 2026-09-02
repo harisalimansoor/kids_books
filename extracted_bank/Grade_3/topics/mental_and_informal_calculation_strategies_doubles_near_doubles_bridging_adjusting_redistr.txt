@@ -1,0 +1,114 @@
+=== Topic: Mental and informal calculation strategies (doubles, near-doubles, bridging, adjusting, redistributing, frog counting up) ===
+Domain: Addition and Subtraction
+
+--- Doubles ---
+
+Question 1: What is double 36?
+Answer: 72
+Working: Double 30 is 60. Double 6 is 12. 60 + 12 = 72.
+
+Question 2: Calculate: double 140
+Answer: 280
+Working: Double 100 is 200. Double 40 is 80. 200 + 80 = 280.
+
+Question 3: A baker makes 75 rolls in the morning and doubles this amount for the afternoon. How many rolls does the baker make in the afternoon?
+Answer: 150
+Working: Double 70 is 140. Double 5 is 10. 140 + 10 = 150.
+
+Question 4: A length of ribbon is 235 cm. A second ribbon is double this length. What is the length of the second ribbon in centimetres?
+Answer: 470 cm
+Working: Double 200 is 400. Double 30 is 60. Double 5 is 10. 400 + 60 + 10 = 470 cm.
+
+--- Near-doubles ---
+
+Question 5: Use doubling to work out: 35 + 36
+Answer: 71
+Working: Double 35 is 70. 70 + 1 = 71.
+
+Question 6: Work out: 49 + 50
+Answer: 99
+Working: Double 50 is 100. 100 - 1 = 99.
+
+Question 7: Liam buys a badge for 48p and a sticker for 49p. How much does he spend in total?
+Answer: 97p
+Working: Double 48 is 96. 96 + 1 = 97p (or double 50 is 100, 100 - 2 - 1 = 97p).
+
+Question 8: Sam knows that double 160 is 320. Use this fact to work out 160 + 162.
+Answer: 322
+Working: 160 + 160 = 320. 320 + 2 = 322.
+
+--- Bridging ---
+
+Question 9: Work out 58 + 7 by bridging through 60.
+Answer: 65
+Working: 58 + 2 = 60. 7 - 2 = 5. 60 + 5 = 65.
+
+Question 10: Work out 296 + 8 by bridging through 300.
+Answer: 304
+Working: 296 + 4 = 300. 8 - 4 = 4. 300 + 4 = 304.
+
+Question 11: Work out 304 - 7 by bridging back through 300.
+Answer: 297
+Working: 304 - 4 = 300. 7 - 4 = 3. 300 - 3 = 297.
+
+Question 12: A runner has completed 195 m of a race. She runs another 18 m. How many metres has she run in total?
+Answer: 213 m
+Working: 195 + 5 = 200. 18 - 5 = 13. 200 + 13 = 213 m.
+
+--- Adjusting ---
+
+Question 13: Work out 64 + 19 by adding 20 and adjusting.
+Answer: 83
+Working: 64 + 20 = 84. 84 - 1 = 83.
+
+Question 14: Work out 145 - 19 by subtracting 20 and adjusting.
+Answer: 126
+Working: 145 - 20 = 125. 125 + 1 = 126.
+
+Question 15: Calculate: 356 + 99
+Answer: 455
+Working: 356 + 100 = 456. 456 - 1 = 455.
+
+Question 16: A book has 280 pages. Jack reads 98 pages. How many pages does he have left to read?
+Answer: 182
+Working: 280 - 100 = 180. 180 + 2 = 182 pages.
+
+Question 17: Calculate: 543 - 199
+Answer: 344
+Working: 543 - 200 = 343. 343 + 1 = 344.
+
+--- Redistributing ---
+
+Question 18: To calculate 48 + 35, Maya adds 2 to 48 to make 50, and subtracts 2 from 35 to leave 33. What is the total of 50 + 33?
+Answer: 83
+Working: 50 + 33 = 83, so 48 + 35 = 83.
+
+Question 19: Work out 67 + 29 by moving 1 from 67 to 29 to make 66 + 30.
+Answer: 96
+Working: 67 - 1 = 66. 29 + 1 = 30. 66 + 30 = 96.
+
+Question 20: A jar contains 78 red marbles and 45 blue marbles. Work out the total number of marbles by moving 2 marbles to make 80 + 43.
+Answer: 123
+Working: 78 + 2 = 80. 45 - 2 = 43. 80 + 43 = 123 marbles.
+
+--- Frog counting up ---
+
+Question 21: A frog jumps on a number line from 67 to 70 (a jump of 3) and then from 70 to 100 (a jump of 30). How far did the frog jump in total?
+Answer: 33
+Working: 3 + 30 = 33.
+
+Question 22: Use counting up to work out: 83 - 58
+Answer: 25
+Working: From 58 to 60 is 2. From 60 to 83 is 23. 2 + 23 = 25.
+
+Question 23: Use counting up to calculate: 125 - 88
+Answer: 37
+Working: From 88 to 100 is 12. From 100 to 125 is 25. 12 + 25 = 37.
+
+Question 24: A shop has 304 bottles of juice. It sells 279 bottles. Use counting up to find how many bottles are left.
+Answer: 25
+Working: From 279 to 300 is 21. From 300 to 304 is 4. 21 + 4 = 25 bottles.
+
+Question 25: Find the difference between 402 and 368 by counting up from 368 to 402.
+Answer: 34
+Working: From 368 to 370 is 2. From 370 to 400 is 30. From 400 to 402 is 2. 2 + 30 + 2 = 34.

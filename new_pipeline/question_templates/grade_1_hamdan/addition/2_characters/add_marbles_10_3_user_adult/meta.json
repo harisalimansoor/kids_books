@@ -1,0 +1,265 @@
+{
+  "stem_id": "add_marbles_10_3_user_adult",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "adult_has_10_marbles_user_has_3_marbles_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste child + grandmother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 314,
+      "y": 295,
+      "w": 216,
+      "h": 268,
+      "landmarks": {
+        "right_eye": [
+          372,
+          395
+        ],
+        "left_eye": [
+          475,
+          391
+        ],
+        "nose": [
+          430,
+          448
+        ],
+        "mouth_right": [
+          382,
+          489
+        ],
+        "mouth_left": [
+          474,
+          485
+        ]
+      },
+      "confidence": 0.956
+    },
+    {
+      "role": "grandmother",
+      "x": 859,
+      "y": 91,
+      "w": 247,
+      "h": 333,
+      "landmarks": {
+        "right_eye": [
+          913,
+          236
+        ],
+        "left_eye": [
+          1029,
+          213
+        ],
+        "nose": [
+          977,
+          293
+        ],
+        "mouth_right": [
+          941,
+          341
+        ],
+        "mouth_left": [
+          1053,
+          321
+        ]
+      },
+      "confidence": 0.941
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_child",
+      "owner": "child",
+      "object_id": "marbles",
+      "singular": "marble",
+      "plural": "marbles",
+      "count": 3,
+      "positions": [
+        {
+          "x": 336,
+          "y": 603
+        },
+        {
+          "x": 422,
+          "y": 603
+        },
+        {
+          "x": 508,
+          "y": 603
+        }
+      ]
+    },
+    {
+      "id": "group_adult",
+      "owner": "adult",
+      "object_id": "marbles",
+      "singular": "marble",
+      "plural": "marbles",
+      "count": 10,
+      "positions": [
+        {
+          "x": 767,
+          "y": 473
+        },
+        {
+          "x": 853,
+          "y": 473
+        },
+        {
+          "x": 939,
+          "y": 473
+        },
+        {
+          "x": 1025,
+          "y": 473
+        },
+        {
+          "x": 1111,
+          "y": 473
+        },
+        {
+          "x": 1197,
+          "y": 473
+        },
+        {
+          "x": 767,
+          "y": 527
+        },
+        {
+          "x": 853,
+          "y": 527
+        },
+        {
+          "x": 939,
+          "y": 527
+        },
+        {
+          "x": 1025,
+          "y": 527
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "13",
+    "options": [
+      "13",
+      "10",
+      "3",
+      "12"
+    ],
+    "formula": "10+3",
+    "explanation": "grandmother (10) + child (3) = 13"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/ADDITION/questions.txt",
+    "notes": "ADDITION/9.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Two clear groups of marbles for addition.",
+    "marble_layout": "two_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Marbles addition stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 314,
+      "y": 295,
+      "w": 216,
+      "h": 268,
+      "landmarks": {
+        "right_eye": [
+          372,
+          395
+        ],
+        "left_eye": [
+          475,
+          391
+        ],
+        "nose": [
+          430,
+          448
+        ],
+        "mouth_right": [
+          382,
+          489
+        ],
+        "mouth_left": [
+          474,
+          485
+        ]
+      },
+      "confidence": 0.956
+    },
+    {
+      "role": "grandmother",
+      "x": 859,
+      "y": 91,
+      "w": 247,
+      "h": 333,
+      "landmarks": {
+        "right_eye": [
+          913,
+          236
+        ],
+        "left_eye": [
+          1029,
+          213
+        ],
+        "nose": [
+          977,
+          293
+        ],
+        "mouth_right": [
+          941,
+          341
+        ],
+        "mouth_left": [
+          1053,
+          321
+        ]
+      },
+      "confidence": 0.941
+    }
+  ]
+}

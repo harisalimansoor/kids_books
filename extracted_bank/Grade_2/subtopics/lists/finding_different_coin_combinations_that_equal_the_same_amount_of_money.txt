@@ -1,0 +1,7 @@
+###################################
+Finding different coin combinations that equal the same amount of money
+###################################
+Domain: Measurement
+
+1. Finding different coin combinations that equal the same amount of money
+   From: find different combinations of coins that equal the same amounts of money

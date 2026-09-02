@@ -1,0 +1,240 @@
+###################################
+Mental and informal calculation strategies (doubles, near-doubles, bridging, adjusting, redistributing, frog counting up)
+###################################
+
+--- Doubles ---
+
+1. Look at the picture! {user_name} is looking at this.
+What is double 36?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is double 36?
+
+3. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+What is double 36?
+
+4. Look at the picture! {user_name} is looking at this.
+Calculate: double 140
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Calculate: double 140
+
+6. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Calculate: double 140
+
+7. Look at the picture! {user_name} is looking at this.
+A baker makes 75 rolls in the morning and doubles this amount for the afternoon. How many rolls does the baker make in the afternoon?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A baker makes 75 rolls in the morning and doubles this amount for the afternoon. How many rolls does the baker make in the afternoon?
+
+9. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A baker makes 75 rolls in the morning and doubles this amount for the afternoon. How many rolls does the baker make in the afternoon?
+
+10. Look at the picture! {user_name} is looking at this.
+A length of ribbon is 235 cm. A second ribbon is double this length. What is the length of the second ribbon in centimetres?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+A length of ribbon is 235 cm. A second ribbon is double this length. What is the length of the second ribbon in centimetres?
+
+12. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A length of ribbon is 235 cm. A second ribbon is double this length. What is the length of the second ribbon in centimetres?
+
+--- Near-doubles ---
+
+13. Look at the picture! {user_name} is looking at this.
+Use doubling to work out: 35 + 36
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+Use doubling to work out: 35 + 36
+
+15. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Use doubling to work out: 35 + 36
+
+16. Look at the picture! {user_name} is looking at this.
+Work out: 49 + 50
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Work out: 49 + 50
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Work out: 49 + 50
+
+19. Look at the picture! {user_name} is looking at this.
+Liam buys a badge for 48p and a sticker for 49p. How much does he spend in total?
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Liam buys a badge for 48p and a sticker for 49p. How much does he spend in total?
+
+21. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Liam buys a badge for 48p and a sticker for 49p. How much does he spend in total?
+
+22. Look at the picture! {user_name} is looking at this.
+Sam knows that double 160 is 320. Use this fact to work out 160 + 162.
+
+23. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Sam knows that double 160 is 320. Use this fact to work out 160 + 162.
+
+24. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Sam knows that double 160 is 320. Use this fact to work out 160 + 162.
+
+--- Bridging ---
+
+25. Look at the picture! {user_name} is looking at this.
+Work out 58 + 7 by bridging through 60.
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Work out 58 + 7 by bridging through 60.
+
+27. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Work out 58 + 7 by bridging through 60.
+
+28. Look at the picture! {user_name} is looking at this.
+Work out 296 + 8 by bridging through 300.
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Work out 296 + 8 by bridging through 300.
+
+30. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Work out 296 + 8 by bridging through 300.
+
+31. Look at the picture! {user_name} is looking at this.
+Work out 304 - 7 by bridging back through 300.
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Work out 304 - 7 by bridging back through 300.
+
+33. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Work out 304 - 7 by bridging back through 300.
+
+34. Look at the picture! {user_name} is looking at this.
+A runner has completed 195 m of a race. She runs another 18 m. How many metres has she run in total?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A runner has completed 195 m of a race. She runs another 18 m. How many metres has she run in total?
+
+36. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A runner has completed 195 m of a race. She runs another 18 m. How many metres has she run in total?
+
+--- Adjusting ---
+
+37. Look at the picture! {user_name} is looking at this.
+Work out 64 + 19 by adding 20 and adjusting.
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+Work out 64 + 19 by adding 20 and adjusting.
+
+39. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Work out 64 + 19 by adding 20 and adjusting.
+
+40. Look at the picture! {user_name} is looking at this.
+Work out 145 - 19 by subtracting 20 and adjusting.
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+Work out 145 - 19 by subtracting 20 and adjusting.
+
+42. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Work out 145 - 19 by subtracting 20 and adjusting.
+
+43. Look at the picture! {user_name} is looking at this.
+Calculate: 356 + 99
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+Calculate: 356 + 99
+
+45. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Calculate: 356 + 99
+
+46. Look at the picture! {user_name} is looking at this.
+A book has 280 pages. Jack reads 98 pages. How many pages does he have left to read?
+
+47. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A book has 280 pages. Jack reads 98 pages. How many pages does he have left to read?
+
+48. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A book has 280 pages. Jack reads 98 pages. How many pages does he have left to read?
+
+49. Look at the picture! {user_name} is looking at this.
+Calculate: 543 - 199
+
+50. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Calculate: 543 - 199
+
+51. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Calculate: 543 - 199
+
+--- Redistributing ---
+
+52. Look at the picture! {user_name} is looking at this.
+To calculate 48 + 35, Maya adds 2 to 48 to make 50, and subtracts 2 from 35 to leave 33. What is the total of 50 + 33?
+
+53. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+To calculate 48 + 35, Maya adds 2 to 48 to make 50, and subtracts 2 from 35 to leave 33. What is the total of 50 + 33?
+
+54. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+To calculate 48 + 35, Maya adds 2 to 48 to make 50, and subtracts 2 from 35 to leave 33. What is the total of 50 + 33?
+
+55. Look at the picture! {user_name} is looking at this.
+Work out 67 + 29 by moving 1 from 67 to 29 to make 66 + 30.
+
+56. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Work out 67 + 29 by moving 1 from 67 to 29 to make 66 + 30.
+
+57. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Work out 67 + 29 by moving 1 from 67 to 29 to make 66 + 30.
+
+58. Look at the picture! {user_name} is looking at this.
+A jar contains 78 red marbles and 45 blue marbles. Work out the total number of marbles by moving 2 marbles to make 80 + 43.
+
+59. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A jar contains 78 red marbles and 45 blue marbles. Work out the total number of marbles by moving 2 marbles to make 80 + 43.
+
+60. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A jar contains 78 red marbles and 45 blue marbles. Work out the total number of marbles by moving 2 marbles to make 80 + 43.
+
+--- Frog counting up ---
+
+61. Look at the picture! {user_name} is looking at this.
+A frog jumps on a number line from 67 to 70 (a jump of 3) and then from 70 to 100 (a jump of 30). How far did the frog jump in total?
+
+62. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A frog jumps on a number line from 67 to 70 (a jump of 3) and then from 70 to 100 (a jump of 30). How far did the frog jump in total?
+
+63. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A frog jumps on a number line from 67 to 70 (a jump of 3) and then from 70 to 100 (a jump of 30). How far did the frog jump in total?
+
+64. Look at the picture! {user_name} is looking at this.
+Use counting up to work out: 83 - 58
+
+65. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use counting up to work out: 83 - 58
+
+66. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Use counting up to work out: 83 - 58
+
+67. Look at the picture! {user_name} is looking at this.
+Use counting up to calculate: 125 - 88
+
+68. Look at the picture! {user_name} and {father_name} are looking at this together.
+Use counting up to calculate: 125 - 88
+
+69. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Use counting up to calculate: 125 - 88
+
+70. Look at the picture! {user_name} is looking at this.
+A shop has 304 bottles of juice. It sells 279 bottles. Use counting up to find how many bottles are left.
+
+71. Look at the picture! {user_name} and {father_name} are looking at this together.
+A shop has 304 bottles of juice. It sells 279 bottles. Use counting up to find how many bottles are left.
+
+72. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A shop has 304 bottles of juice. It sells 279 bottles. Use counting up to find how many bottles are left.
+
+73. Look at the picture! {user_name} is looking at this.
+Find the difference between 402 and 368 by counting up from 368 to 402.
+
+74. Look at the picture! {user_name} and {father_name} are looking at this together.
+Find the difference between 402 and 368 by counting up from 368 to 402.
+
+75. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Find the difference between 402 and 368 by counting up from 368 to 402.

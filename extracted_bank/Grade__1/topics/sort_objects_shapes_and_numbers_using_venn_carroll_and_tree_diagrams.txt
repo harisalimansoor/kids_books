@@ -1,0 +1,56 @@
+=== Topic: Sort objects, shapes, and numbers using Venn, Carroll, and tree diagrams ===
+Domain: Statistics and Data Handling
+
+--- Venn diagrams ---
+
+Question 1: A Venn diagram has two circles. One circle is for 'Red shapes' and the other circle is for 'Squares'. Where do you put a red square: in the red circle only, in the square circle only, or in the middle?
+Answer: in the middle
+Working: A red square is both red and a square, so it belongs in the overlapping middle section.
+
+Question 2: In a Venn diagram, Circle A is for 'Shapes with curved sides' and Circle B is for 'Shapes with straight sides'. Does a circle belong in Circle A or Circle B?
+Answer: Circle A
+Working: A circle has a curved side, so it belongs in Circle A.
+
+Question 3: In a Venn diagram, the left circle is for 'Even numbers' and the right circle is for 'Numbers more than 10'. Is the number 16 placed in the left circle only, the right circle only, or in the middle?
+Answer: in the middle
+Working: 16 is an even number and 16 is more than 10, so it belongs in the overlapping middle section.
+
+Question 4: A Venn diagram sorts shapes. The left circle has 3 triangles. The right circle has 4 circles. The middle section has 2 blue triangles. How many shapes are in the middle section?
+Answer: 2
+Working: The stem states that there are 2 shapes in the middle section.
+
+--- Carroll diagrams ---
+
+Question 5: A Carroll diagram has two rows: 'Even numbers' and 'Odd numbers'. Which row does the number 6 belong in?
+Answer: Even numbers
+Working: 6 is an even number, so it belongs in the 'Even numbers' row.
+
+Question 6: A Carroll diagram sorts 2-D shapes using the labels '4 sides' and 'Not 4 sides', and 'Red' and 'Not red'. In which section does a green triangle go: '4 sides and Not red' or 'Not 4 sides and Not red'?
+Answer: Not 4 sides and Not red
+Working: A triangle has 3 sides (which is not 4 sides) and green is not red, so it goes in 'Not 4 sides and Not red'.
+
+Question 7: A Carroll diagram sorts numbers into boxes. The box for 'Odd numbers less than 10' contains the numbers 3, 5, and 7. How many numbers are in this box?
+Answer: 3
+Working: The box contains 3, 5, and 7, which is 3 numbers in total.
+
+Question 8: A Carroll diagram has columns for 'More than 10' and '10 or less'. Which column does the number 15 belong in?
+Answer: More than 10
+Working: 15 is greater than 10, so it belongs in the 'More than 10' column.
+
+--- Tree diagrams ---
+
+Question 9: A sorting tree asks: 'Is the number even?' If Yes, follow the path to Box A. If No, follow the path to Box B. Which box does the number 4 go into?
+Answer: Box A
+Working: 4 is an even number, so the answer to 'Is the number even?' is Yes, which leads to Box A.
+
+Question 10: A sorting tree asks: 'Is the number greater than 10?' If Yes, go to Branch 1. If No, go to Branch 2. Which branch does the number 8 go to?
+Answer: Branch 2
+Working: 8 is not greater than 10, so the answer is No, which leads to Branch 2.
+
+Question 11: A sorting tree starts with the question: 'Does the shape have straight sides?' If Yes, it asks: 'Does it have 3 sides?' If Yes, you reach Triangle. If No, you reach Rectangle. A square has straight sides and 4 sides. Which shape group does a square go to: Triangle or Rectangle?
+Answer: Rectangle
+Working: A square has straight sides (Yes) and does not have 3 sides (No), so it follows the path to Rectangle.
+
+Question 12: A sorting tree sorts 3-D shapes. The question is: 'Can it roll?' If Yes, it leads to Sphere. If No, it leads to Cube. Which shape is reached if the answer is No?
+Answer: Cube
+Working: The sorting rule states that answering No leads to Cube.

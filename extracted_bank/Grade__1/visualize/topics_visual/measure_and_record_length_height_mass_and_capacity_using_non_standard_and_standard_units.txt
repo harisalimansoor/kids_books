@@ -1,0 +1,153 @@
+###################################
+Measure and record length, height, mass, and capacity using non-standard and standard units
+###################################
+
+--- Measure and record length and height ---
+
+1. Look at the picture! {user_name} is looking at this.
+A toy car is 4 cubes long. A toy bus is 7 cubes long. How many cubes long are the two toys altogether?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A toy car is 4 cubes long. A toy bus is 7 cubes long. How many cubes long are the two toys altogether?
+
+3. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A toy car is 4 cubes long. A toy bus is 7 cubes long. How many cubes long are the two toys altogether?
+
+4. Look at the picture! {user_name} is looking at this.
+A pencil starts at 0 cm on a ruler and ends at 12 cm. What is the length of the pencil?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A pencil starts at 0 cm on a ruler and ends at 12 cm. What is the length of the pencil?
+
+6. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A pencil starts at 0 cm on a ruler and ends at 12 cm. What is the length of the pencil?
+
+7. Look at the picture! {user_name} is looking at this.
+A sunflower is 15 cm tall. A daffodil is 9 cm tall. How much taller is the sunflower than the daffodil?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A sunflower is 15 cm tall. A daffodil is 9 cm tall. How much taller is the sunflower than the daffodil?
+
+9. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A sunflower is 15 cm tall. A daffodil is 9 cm tall. How much taller is the sunflower than the daffodil?
+
+10. Look at the picture! {user_name} is looking at this.
+Mia has a blue ribbon that is 8 cm long and a yellow ribbon that is 6 cm long. She joins them end to end. What is the total length of the ribbon?
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+Mia has a blue ribbon that is 8 cm long and a yellow ribbon that is 6 cm long. She joins them end to end. What is the total length of the ribbon?
+
+12. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Mia has a blue ribbon that is 8 cm long and a yellow ribbon that is 6 cm long. She joins them end to end. What is the total length of the ribbon?
+
+13. Look at the picture! {user_name} is looking at this.
+A tower made of wooden blocks is 18 cubes high. Jack takes 5 cubes off the top. How many cubes high is the tower now?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+A tower made of wooden blocks is 18 cubes high. Jack takes 5 cubes off the top. How many cubes high is the tower now?
+
+15. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A tower made of wooden blocks is 18 cubes high. Jack takes 5 cubes off the top. How many cubes high is the tower now?
+
+16. Look at the picture! {user_name} is looking at this.
+A garden path is 10 metres long. Sam walks 4 metres along the path. How many metres does Sam have left to walk?
+
+17. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A garden path is 10 metres long. Sam walks 4 metres along the path. How many metres does Sam have left to walk?
+
+18. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A garden path is 10 metres long. Sam walks 4 metres along the path. How many metres does Sam have left to walk?
+
+--- Measure and record mass ---
+
+19. Look at the picture! {user_name} is looking at this.
+An apple balances exactly with 6 glass marbles on a balance scale. How many marbles balance the apple?
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An apple balances exactly with 6 glass marbles on a balance scale. How many marbles balance the apple?
+
+21. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+An apple balances exactly with 6 glass marbles on a balance scale. How many marbles balance the apple?
+
+22. Look at the picture! {user_name} is looking at this.
+A book has a mass of 8 wooden cubes. A pencil case has a mass of 5 wooden cubes. What is the total mass of the book and the pencil case in cubes?
+
+23. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A book has a mass of 8 wooden cubes. A pencil case has a mass of 5 wooden cubes. What is the total mass of the book and the pencil case in cubes?
+
+24. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A book has a mass of 8 wooden cubes. A pencil case has a mass of 5 wooden cubes. What is the total mass of the book and the pencil case in cubes?
+
+25. Look at the picture! {user_name} is looking at this.
+A bag of flour has a mass of 14 grams. A bag of oats has a mass of 8 grams. How many grams heavier is the bag of flour than the bag of oats?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A bag of flour has a mass of 14 grams. A bag of oats has a mass of 8 grams. How many grams heavier is the bag of flour than the bag of oats?
+
+27. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A bag of flour has a mass of 14 grams. A bag of oats has a mass of 8 grams. How many grams heavier is the bag of flour than the bag of oats?
+
+28. Look at the picture! {user_name} is looking at this.
+A parcel has a mass of 7 kg. Another parcel has a mass of 9 kg. What is their total mass in kg?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A parcel has a mass of 7 kg. Another parcel has a mass of 9 kg. What is their total mass in kg?
+
+30. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A parcel has a mass of 7 kg. Another parcel has a mass of 9 kg. What is their total mass in kg?
+
+31. Look at the picture! {user_name} is looking at this.
+A pumpkin has a mass of 12 kg. A melon has a mass that is half the mass of the pumpkin. What is the mass of the melon?
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A pumpkin has a mass of 12 kg. A melon has a mass that is half the mass of the pumpkin. What is the mass of the melon?
+
+33. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A pumpkin has a mass of 12 kg. A melon has a mass that is half the mass of the pumpkin. What is the mass of the melon?
+
+--- Measure and record capacity ---
+
+34. Look at the picture! {user_name} is looking at this.
+It takes 5 full cups of water to fill a small teapot. How many cups of water are needed to fill 2 teapots of the same size?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+It takes 5 full cups of water to fill a small teapot. How many cups of water are needed to fill 2 teapots of the same size?
+
+36. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+It takes 5 full cups of water to fill a small teapot. How many cups of water are needed to fill 2 teapots of the same size?
+
+37. Look at the picture! {user_name} is looking at this.
+A bottle holds 9 glasses of juice. Ben pours out 4 glasses of juice. How many glasses of juice are left in the bottle?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+A bottle holds 9 glasses of juice. Ben pours out 4 glasses of juice. How many glasses of juice are left in the bottle?
+
+39. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A bottle holds 9 glasses of juice. Ben pours out 4 glasses of juice. How many glasses of juice are left in the bottle?
+
+40. Look at the picture! {user_name} is looking at this.
+A bucket contains 11 litres of water. Leo adds 6 more litres of water to the bucket. How many litres of water are in the bucket now?
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+A bucket contains 11 litres of water. Leo adds 6 more litres of water to the bucket. How many litres of water are in the bucket now?
+
+42. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A bucket contains 11 litres of water. Leo adds 6 more litres of water to the bucket. How many litres of water are in the bucket now?
+
+43. Look at the picture! {user_name} is looking at this.
+A red jug holds 15 ml of paint. A blue jug holds 7 ml of paint. How many more millilitres does the red jug hold than the blue jug?
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+A red jug holds 15 ml of paint. A blue jug holds 7 ml of paint. How many more millilitres does the red jug hold than the blue jug?
+
+45. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A red jug holds 15 ml of paint. A blue jug holds 7 ml of paint. How many more millilitres does the red jug hold than the blue jug?
+
+46. Look at the picture! {user_name} is looking at this.
+A large bottle holds 20 litres of water when full. It is currently half full. How many litres of water are in the bottle?
+
+47. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A large bottle holds 20 litres of water when full. It is currently half full. How many litres of water are in the bottle?
+
+48. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A large bottle holds 20 litres of water when full. It is currently half full. How many litres of water are in the bottle?

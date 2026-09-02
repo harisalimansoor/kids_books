@@ -1,0 +1,241 @@
+{
+  "stem_id": "add_bundles_of_drinking_straws_2_5_user",
+  "grade": "grade_1",
+  "topic": "geometry",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "user_has_2_bundles_of_drinking_straws_sibling_has_5_bundles_of_drinking_straws_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 999,
+      "y": 209,
+      "w": 188,
+      "h": 263,
+      "landmarks": {
+        "right_eye": [
+          1039,
+          318
+        ],
+        "left_eye": [
+          1133,
+          307
+        ],
+        "nose": [
+          1088,
+          363
+        ],
+        "mouth_right": [
+          1056,
+          403
+        ],
+        "mouth_left": [
+          1145,
+          391
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "sibling",
+      "x": 382,
+      "y": 175,
+      "w": 200,
+      "h": 267,
+      "landmarks": {
+        "right_eye": [
+          446,
+          279
+        ],
+        "left_eye": [
+          541,
+          289
+        ],
+        "nose": [
+          495,
+          342
+        ],
+        "mouth_right": [
+          438,
+          367
+        ],
+        "mouth_left": [
+          527,
+          375
+        ]
+      },
+      "confidence": 0.949
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "bundles_of_drinking_straws",
+      "singular": "bundles of drinking straw",
+      "plural": "bundles of drinking straws",
+      "count": 2,
+      "container": "table",
+      "positions": [
+        {
+          "x": 1047,
+          "y": 511
+        },
+        {
+          "x": 1139,
+          "y": 511
+        }
+      ]
+    },
+    {
+      "id": "sibling",
+      "owner": "sibling",
+      "object_id": "squared-paper_sheets",
+      "singular": "squared-paper sheet",
+      "plural": "squared-paper sheets",
+      "count": 5,
+      "container": "table",
+      "positions": [
+        {
+          "x": 298,
+          "y": 482
+        },
+        {
+          "x": 390,
+          "y": 482
+        },
+        {
+          "x": 482,
+          "y": 482
+        },
+        {
+          "x": 574,
+          "y": 482
+        },
+        {
+          "x": 666,
+          "y": 482
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "7",
+    "options": [
+      "7",
+      "2",
+      "5",
+      "6"
+    ],
+    "formula": "2+5",
+    "explanation": "child (2) + sibling (5) = 7"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/GEOMETRY/questions.txt",
+    "notes": "GEOMETRY/1.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Two clear groups of bundles of drinking straws for addition.",
+    "bundles_of_drinking_straw_layout": "two_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Bundles of drinking straws geometry stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 999,
+      "y": 209,
+      "w": 188,
+      "h": 263,
+      "landmarks": {
+        "right_eye": [
+          1039,
+          318
+        ],
+        "left_eye": [
+          1133,
+          307
+        ],
+        "nose": [
+          1088,
+          363
+        ],
+        "mouth_right": [
+          1056,
+          403
+        ],
+        "mouth_left": [
+          1145,
+          391
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "sibling",
+      "x": 382,
+      "y": 175,
+      "w": 200,
+      "h": 267,
+      "landmarks": {
+        "right_eye": [
+          446,
+          279
+        ],
+        "left_eye": [
+          541,
+          289
+        ],
+        "nose": [
+          495,
+          342
+        ],
+        "mouth_right": [
+          438,
+          367
+        ],
+        "mouth_left": [
+          527,
+          375
+        ]
+      },
+      "confidence": 0.949
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+###################################
+Compare and order numbers within 100 using language and symbols (=, <, >)
+###################################
+
+--- Compare numbers within 100 using language ---
+
+1. Look at the picture! {user_name} is looking at this.
+Which number is greater, 42 or 24?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which number is greater, 42 or 24?
+
+3. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Which number is greater, 42 or 24?
+
+4. Look at the picture! {user_name} is looking at this.
+Which number is less, 58 or 85?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which number is less, 58 or 85?
+
+6. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Which number is less, 58 or 85?
+
+7. Look at the picture! {user_name} is looking at this.
+Sam has 35 marbles and Leo has 53 marbles. Who has more marbles?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Sam has 35 marbles and Leo has 53 marbles. Who has more marbles?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Sam has 35 marbles and Leo has 53 marbles. Who has more marbles?
+
+10. Look at the picture! {user_name} is looking at this.
+Look at the numbers 47 and 74. Complete the sentence using 'more than' or 'less than': 47 is ___ 74.
+
+11. Look at the picture! {user_name} and {father_name} are looking at this together.
+Look at the numbers 47 and 74. Complete the sentence using 'more than' or 'less than': 47 is ___ 74.
+
+12. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Look at the numbers 47 and 74. Complete the sentence using 'more than' or 'less than': 47 is ___ 74.
+
+13. Look at the picture! {user_name} is looking at this.
+Which is the greatest number: 67, 76, or 63?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+Which is the greatest number: 67, 76, or 63?
+
+15. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Which is the greatest number: 67, 76, or 63?
+
+16. Look at the picture! {user_name} is looking at this.
+Which is the least number: 91, 19, or 90?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Which is the least number: 91, 19, or 90?
+
+18. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Which is the least number: 91, 19, or 90?
+
+19. Look at the picture! {user_name} is looking at this.
+There are 82 pencils in a box and 28 pencils on the table. Are there fewer pencils in the box or on the table?
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+There are 82 pencils in a box and 28 pencils on the table. Are there fewer pencils in the box or on the table?
+
+21. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+There are 82 pencils in a box and 28 pencils on the table. Are there fewer pencils in the box or on the table?
+
+--- Compare numbers within 100 using symbols (=, <, >) ---
+
+22. Look at the picture! {user_name} is looking at this.
+Write <, >, or = to make the statement true: 34 ___ 43
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write <, >, or = to make the statement true: 34 ___ 43
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Write <, >, or = to make the statement true: 34 ___ 43
+
+25. Look at the picture! {user_name} is looking at this.
+Write <, >, or = to make the statement true: 70 ___ 50
+
+26. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Write <, >, or = to make the statement true: 70 ___ 50
+
+27. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Write <, >, or = to make the statement true: 70 ___ 50
+
+28. Look at the picture! {user_name} is looking at this.
+Write <, >, or = to make the statement true: 88 ___ 88
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write <, >, or = to make the statement true: 88 ___ 88
+
+30. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Write <, >, or = to make the statement true: 88 ___ 88
+
+31. Look at the picture! {user_name} is looking at this.
+Write <, >, or = to make the statement true: 62 ___ 26
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write <, >, or = to make the statement true: 62 ___ 26
+
+33. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Write <, >, or = to make the statement true: 62 ___ 26
+
+34. Look at the picture! {user_name} is looking at this.
+Write <, >, or = to make the statement true: 49 ___ 94
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write <, >, or = to make the statement true: 49 ___ 94
+
+36. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Write <, >, or = to make the statement true: 49 ___ 94
+
+37. Look at the picture! {user_name} is looking at this.
+Write <, >, or = to make the statement true: 5 tens and 3 ones ___ 3 tens and 5 ones
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write <, >, or = to make the statement true: 5 tens and 3 ones ___ 3 tens and 5 ones
+
+39. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Write <, >, or = to make the statement true: 5 tens and 3 ones ___ 3 tens and 5 ones
+
+--- Order numbers within 100 ---
+
+40. Look at the picture! {user_name} is looking at this.
+Write these numbers in order from smallest to greatest: 45, 12, 78
+
+41. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write these numbers in order from smallest to greatest: 45, 12, 78
+
+42. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Write these numbers in order from smallest to greatest: 45, 12, 78
+
+43. Look at the picture! {user_name} is looking at this.
+Write these numbers in order from greatest to smallest: 34, 89, 56
+
+44. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write these numbers in order from greatest to smallest: 34, 89, 56
+
+45. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Write these numbers in order from greatest to smallest: 34, 89, 56
+
+46. Look at the picture! {user_name} is looking at this.
+Write these numbers in order from smallest to greatest: 61, 16, 66
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+Write these numbers in order from smallest to greatest: 61, 16, 66
+
+48. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Write these numbers in order from smallest to greatest: 61, 16, 66
+
+49. Look at the picture! {user_name} is looking at this.
+Write these numbers in order from greatest to smallest: 90, 19, 99
+
+50. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write these numbers in order from greatest to smallest: 90, 19, 99
+
+51. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Write these numbers in order from greatest to smallest: 90, 19, 99
+
+52. Look at the picture! {user_name} is looking at this.
+Four children count their counters: 23, 71, 45, 18. Write the numbers in order starting with the smallest.
+
+53. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Four children count their counters: 23, 71, 45, 18. Write the numbers in order starting with the smallest.
+
+54. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Four children count their counters: 23, 71, 45, 18. Write the numbers in order starting with the smallest.
+
+55. Look at the picture! {user_name} is looking at this.
+Put these numbers in order from greatest to least: 82, 28, 80, 88
+
+56. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Put these numbers in order from greatest to least: 82, 28, 80, 88
+
+57. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Put these numbers in order from greatest to least: 82, 28, 80, 88

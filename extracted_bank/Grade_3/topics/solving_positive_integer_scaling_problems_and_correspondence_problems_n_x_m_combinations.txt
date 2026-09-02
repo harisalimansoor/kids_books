@@ -1,0 +1,58 @@
+=== Topic: Solving positive integer scaling problems and correspondence problems (n x m combinations) ===
+Domain: Multiplication and Division
+
+--- Positive integer scaling problems ---
+
+Question 1: A blue ribbon is 8 cm long. A red ribbon is 4 times as long as the blue ribbon. What is the length of the red ribbon?
+Answer: 32 cm
+Working: Multiply the length of the blue ribbon by 4: 8 cm × 4 = 32 cm.
+
+Question 2: Sophie has £6 in her money box. Her older brother has 8 times as much money as Sophie. How much money does her brother have?
+Answer: £48
+Working: Multiply Sophie's amount by 8: £6 × 8 = £48.
+
+Question 3: A small bag of flour has a mass of 25 g. A large bag of flour is 3 times as heavy as the small bag. What is the mass of the large bag of flour?
+Answer: 75 g
+Working: Multiply the mass of the small bag by 3: 25 g × 3 = 75 g.
+
+Question 4: Oliver has 32 football cards. He has 4 times as many football cards as Sam. How many football cards does Sam have?
+Answer: 8
+Working: Divide Oliver's total number of cards by 4: 32 ÷ 4 = 8.
+
+Question 5: A toy car is 14 cm long. A toy train is 5 times as long as the toy car. What is the length of the toy train?
+Answer: 70 cm
+Working: Multiply the length of the toy car by 5: 14 cm × 5 = 70 cm.
+
+Question 6: A small bottle holds 18 ml of water. A large bottle holds 8 times as much water as the small bottle. How many millilitres of water does the large bottle hold?
+Answer: 144 ml
+Working: Multiply 18 ml by 8: 10 × 8 = 80, 8 × 8 = 64, 80 + 64 = 144 ml.
+
+Question 7: A short wooden stick is 12 cm long. A medium stick is 3 times as long as the short stick. A long stick is 20 cm longer than the medium stick. What is the length of the long stick?
+Answer: 56 cm
+Working: Find the medium stick length: 12 cm × 3 = 36 cm. Add 20 cm for the long stick: 36 cm + 20 cm = 56 cm.
+
+--- Correspondence problems (n x m combinations) ---
+
+Question 8: Lily has 3 different t-shirts and 4 different pairs of shorts. How many different outfits consisting of 1 t-shirt and 1 pair of shorts can Lily make?
+Answer: 12
+Working: Multiply the number of t-shirts by the number of pairs of shorts: 3 × 4 = 12.
+
+Question 9: A cafe offers 5 different sandwiches and 3 different drinks in a lunch meal deal. How many different combinations of 1 sandwich and 1 drink can a customer choose?
+Answer: 15
+Working: Multiply the number of sandwich choices by the number of drink choices: 5 × 3 = 15.
+
+Question 10: An ice-cream shop offers 4 flavours of ice cream and 8 different toppings. How many different combinations of 1 flavour and 1 topping can be chosen?
+Answer: 32
+Working: Multiply the number of ice cream flavours by the number of toppings: 4 × 8 = 32.
+
+Question 11: A baker makes gift boxes of cupcakes. Each box contains 1 flavour of sponge and 1 type of icing. There are 24 different combinations of sponge and icing in total. If there are 3 flavours of sponge, how many types of icing are there?
+Answer: 8
+Working: Divide the total number of combinations by the number of sponge flavours: 24 ÷ 3 = 8.
+
+Question 12: A teacher makes name badges. She uses 1 colour of card and 1 colour of sticker for each badge. She has 5 colours of card and 8 colours of stickers. How many different styles of badge can she create?
+Answer: 40
+Working: Multiply the number of card colours by the number of sticker colours: 5 × 8 = 40.
+
+Question 13: At a holiday club, children choose 1 morning activity and 1 afternoon activity. There are 32 different activity combinations altogether. If there are 4 morning activities, how many afternoon activities are there?
+Answer: 8
+Working: Divide the total number of combinations by the number of morning activities: 32 ÷ 4 = 8.

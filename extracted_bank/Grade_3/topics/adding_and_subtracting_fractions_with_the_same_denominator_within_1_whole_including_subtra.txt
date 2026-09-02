@@ -1,0 +1,80 @@
+=== Topic: Adding and subtracting fractions with the same denominator within 1 whole (including subtraction from 1 whole: \frac{n{n) ===
+Domain: Fractions
+
+--- Adding fractions with the same denominator within 1 whole ---
+
+Question 1: Calculate: 2/5 + 1/5
+Answer: 3/5
+Working: The denominators are the same, so add the numerators: 2 + 1 = 3. The denominator remains 5. 2/5 + 1/5 = 3/5.
+
+Question 2: Calculate: 3/7 + 2/7
+Answer: 5/7
+Working: Add the numerators: 3 + 2 = 5. Keep the denominator 7. 3/7 + 2/7 = 5/7.
+
+Question 3: Calculate: 1/8 + 4/8 + 2/8
+Answer: 7/8
+Working: Add the numerators together: 1 + 4 + 2 = 7. Keep the denominator 8. 1/8 + 4/8 + 2/8 = 7/8.
+
+Question 4: Maya eats 2/6 of a chocolate bar and Sam eats 3/6 of the same chocolate bar. What fraction of the chocolate bar do they eat altogether?
+Answer: 5/6
+Working: Add the two fractions: 2/6 + 3/6 = 5/6.
+
+Question 5: Liam paints 3/10 of a fence in the morning and 4/10 of the fence in the afternoon. What fraction of the fence has Liam painted in total?
+Answer: 7/10
+Working: Add the two fractional parts: 3/10 + 4/10 = 7/10.
+
+Question 6: Find the missing fraction: 4/9 + ? = 8/9
+Answer: 4/9
+Working: Subtract 4/9 from 8/9: 8/9 - 4/9 = 4/9.
+
+--- Subtracting fractions with the same denominator within 1 whole ---
+
+Question 7: Calculate: 5/6 - 2/6
+Answer: 3/6
+Working: The denominators are the same, so subtract the numerators: 5 - 2 = 3. Keep the denominator 6. 5/6 - 2/6 = 3/6.
+
+Question 8: Calculate: 7/8 - 4/8
+Answer: 3/8
+Working: Subtract the numerators: 7 - 4 = 3. Keep the denominator 8. 7/8 - 4/8 = 3/8.
+
+Question 9: Calculate: 9/10 - 6/10
+Answer: 3/10
+Working: Subtract the numerators: 9 - 6 = 3. Keep the denominator 10. 9/10 - 6/10 = 3/10.
+
+Question 10: A length of ribbon is 7/10 m long. Chen cuts off 3/10 m. What fraction of a metre of ribbon is left?
+Answer: 4/10 m
+Working: Subtract the length cut off from the total length: 7/10 - 3/10 = 4/10 m.
+
+Question 11: A jug contains 5/8 litre of orange juice. Oliver drinks 2/8 litre of the juice. What fraction of a litre of juice remains in the jug?
+Answer: 3/8 litre
+Working: Subtract the amount drunk from the starting amount: 5/8 - 2/8 = 3/8 litre.
+
+Question 12: Find the missing fraction: 6/7 - ? = 2/7
+Answer: 4/7
+Working: Subtract 2/7 from 6/7 to find the missing fraction: 6/7 - 2/7 = 4/7.
+
+--- Subtraction from 1 whole ---
+
+Question 13: Calculate: 1 - 3/5
+Answer: 2/5
+Working: Convert 1 whole into fifths: 1 = 5/5. Then calculate: 5/5 - 3/5 = 2/5.
+
+Question 14: Calculate: 1 - 5/8
+Answer: 3/8
+Working: Convert 1 whole into eighths: 1 = 8/8. Then calculate: 8/8 - 5/8 = 3/8.
+
+Question 15: Calculate: 1 - 7/10
+Answer: 3/10
+Working: Convert 1 whole into tenths: 1 = 10/10. Then calculate: 10/10 - 7/10 = 3/10.
+
+Question 16: A whole pizza is divided into 6 equal slices. Nina eats 4/6 of the pizza. What fraction of the pizza is left?
+Answer: 2/6
+Working: One whole pizza is 6/6. Subtract the eaten fraction: 6/6 - 4/6 = 2/6.
+
+Question 17: A runner has completed 4/7 of a race course. What fraction of the race course is left to run?
+Answer: 3/7
+Working: The whole race course is 7/7. Subtract the completed part: 7/7 - 4/7 = 3/7.
+
+Question 18: Find the missing fraction: 1 - ? = 3/4
+Answer: 1/4
+Working: Rewrite 1 as 4/4: 4/4 - 3/4 = 1/4. So the missing fraction is 1/4.

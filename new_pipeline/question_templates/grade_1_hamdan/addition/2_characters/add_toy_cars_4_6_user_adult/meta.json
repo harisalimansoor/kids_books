@@ -1,0 +1,253 @@
+{
+  "stem_id": "add_toy_cars_4_6_user_adult",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "adult_has_4_toy_cars_user_has_6_toy_cars_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "sibling",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "sibling_name": "sibling",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste the mother face only; identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "sibling",
+      "x": 307,
+      "y": 294,
+      "w": 221,
+      "h": 292,
+      "landmarks": {
+        "right_eye": [
+          371,
+          412
+        ],
+        "left_eye": [
+          478,
+          411
+        ],
+        "nose": [
+          431,
+          472
+        ],
+        "mouth_right": [
+          376,
+          507
+        ],
+        "mouth_left": [
+          478,
+          505
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "mother",
+      "x": 889,
+      "y": 126,
+      "w": 247,
+      "h": 326,
+      "landmarks": {
+        "right_eye": [
+          945,
+          265
+        ],
+        "left_eye": [
+          1057,
+          244
+        ],
+        "nose": [
+          1010,
+          322
+        ],
+        "mouth_right": [
+          974,
+          370
+        ],
+        "mouth_left": [
+          1082,
+          351
+        ]
+      },
+      "confidence": 0.948
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_child",
+      "owner": "child",
+      "object_id": "toy_cars",
+      "singular": "toy car",
+      "plural": "toy cars",
+      "count": 6,
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        },
+        {
+          "x": 490,
+          "y": 738
+        },
+        {
+          "x": 576,
+          "y": 738
+        },
+        {
+          "x": 662,
+          "y": 738
+        },
+        {
+          "x": 748,
+          "y": 738
+        }
+      ]
+    },
+    {
+      "id": "group_adult",
+      "owner": "adult",
+      "object_id": "toy_cars",
+      "singular": "toy car",
+      "plural": "toy cars",
+      "count": 4,
+      "positions": [
+        {
+          "x": 883,
+          "y": 500
+        },
+        {
+          "x": 969,
+          "y": 500
+        },
+        {
+          "x": 1055,
+          "y": 500
+        },
+        {
+          "x": 1141,
+          "y": 500
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "10",
+    "options": [
+      "10",
+      "6",
+      "4",
+      "9"
+    ],
+    "formula": "6+4",
+    "explanation": "sibling (6) + mother (4) = 10"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/ADDITION/questions.txt",
+    "notes": "ADDITION/11.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Two clear groups of toy cars for addition.",
+    "toy_car_layout": "two_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Toy cars addition stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "sibling",
+      "x": 307,
+      "y": 294,
+      "w": 221,
+      "h": 292,
+      "landmarks": {
+        "right_eye": [
+          371,
+          412
+        ],
+        "left_eye": [
+          478,
+          411
+        ],
+        "nose": [
+          431,
+          472
+        ],
+        "mouth_right": [
+          376,
+          507
+        ],
+        "mouth_left": [
+          478,
+          505
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "mother",
+      "x": 889,
+      "y": 126,
+      "w": 247,
+      "h": 326,
+      "landmarks": {
+        "right_eye": [
+          945,
+          265
+        ],
+        "left_eye": [
+          1057,
+          244
+        ],
+        "nose": [
+          1010,
+          322
+        ],
+        "mouth_right": [
+          974,
+          370
+        ],
+        "mouth_left": [
+          1082,
+          351
+        ]
+      },
+      "confidence": 0.948
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "stem_id": "frac_books_4_user_grandmother",
+  "grade": "grade_1",
+  "topic": "fractions",
+  "layout_pattern": "frac",
+  "question_file": "question.txt",
+  "image_file": "grandmother_has_4_books.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste child + grandmother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 821,
+      "y": 242,
+      "w": 193,
+      "h": 250,
+      "landmarks": {
+        "right_eye": [
+          869,
+          346
+        ],
+        "left_eye": [
+          956,
+          335
+        ],
+        "nose": [
+          916,
+          393
+        ],
+        "mouth_right": [
+          886,
+          430
+        ],
+        "mouth_left": [
+          963,
+          421
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "grandmother",
+      "x": 383,
+      "y": 99,
+      "w": 223,
+      "h": 295,
+      "landmarks": {
+        "right_eye": [
+          471,
+          218
+        ],
+        "left_eye": [
+          568,
+          238
+        ],
+        "nose": [
+          521,
+          293
+        ],
+        "mouth_right": [
+          451,
+          313
+        ],
+        "mouth_left": [
+          539,
+          332
+        ]
+      },
+      "confidence": 0.946
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "grandmother",
+      "object_id": "books",
+      "singular": "book",
+      "plural": "books",
+      "count": 4,
+      "container": "table",
+      "positions": [
+        {
+          "x": 365,
+          "y": 438
+        },
+        {
+          "x": 451,
+          "y": 438
+        },
+        {
+          "x": 537,
+          "y": 438
+        },
+        {
+          "x": 623,
+          "y": 438
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count",
+    "correct": "2",
+    "options": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "formula": "2",
+    "explanation": "2 items are circled."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Fractions/questions.txt",
+    "notes": "Fractions/1.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Books activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Books fractions stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 821,
+      "y": 242,
+      "w": 193,
+      "h": 250,
+      "landmarks": {
+        "right_eye": [
+          869,
+          346
+        ],
+        "left_eye": [
+          956,
+          335
+        ],
+        "nose": [
+          916,
+          393
+        ],
+        "mouth_right": [
+          886,
+          430
+        ],
+        "mouth_left": [
+          963,
+          421
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "grandmother",
+      "x": 383,
+      "y": 99,
+      "w": 223,
+      "h": 295,
+      "landmarks": {
+        "right_eye": [
+          471,
+          218
+        ],
+        "left_eye": [
+          568,
+          238
+        ],
+        "nose": [
+          521,
+          293
+        ],
+        "mouth_right": [
+          451,
+          313
+        ],
+        "mouth_left": [
+          539,
+          332
+        ]
+      },
+      "confidence": 0.946
+    }
+  ]
+}

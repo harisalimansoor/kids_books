@@ -1,0 +1,68 @@
+=== Topic: Estimation, threshold checking, and using inverse operations to verify calculations ===
+Domain: Addition and Subtraction
+
+--- Estimation ---
+
+Question 1: Estimate the answer to 487 + 312 by rounding each number to the nearest hundred.
+Answer: 800
+Working: 487 rounds to 500 to the nearest hundred. 312 rounds to 300 to the nearest hundred. 500 + 300 = 800.
+
+Question 2: Estimate the answer to 674 - 231 by rounding each number to the nearest ten.
+Answer: 440
+Working: 674 rounds to 670 to the nearest ten. 231 rounds to 230 to the nearest ten. 670 - 230 = 440.
+
+Question 3: A baker bakes 295 bread rolls in the morning and 188 bread rolls in the afternoon. Round each number to the nearest hundred to estimate the total number of rolls baked.
+Answer: 500
+Working: 295 rounds to 300. 188 rounds to 200. 300 + 200 = 500 rolls.
+
+Question 4: Round 819 and 492 to the nearest hundred to estimate the difference between them.
+Answer: 300
+Working: 819 rounds to 800 to the nearest hundred. 492 rounds to 500 to the nearest hundred. 800 - 500 = 300.
+
+Question 5: A jumper costs £49 and a jacket costs £38. Round each price to the nearest £10 to estimate the total cost.
+Answer: £90
+Working: £49 rounds to £50. £38 rounds to £40. £50 + £40 = £90.
+
+--- Threshold checking ---
+
+Question 6: A cinema has 500 seats. 268 children and 245 adults want to watch a film. Are there enough seats for everyone? Write yes or no.
+Answer: no
+Working: 268 + 245 = 513 people. 513 is greater than 500, so there are not enough seats.
+
+Question 7: Without calculating the exact total, decide if 384 + 229 is greater than 600 or less than 600.
+Answer: greater than 600
+Working: 384 + 229: 380 + 220 = 600, so 384 + 229 must be greater than 600.
+
+Question 8: Ella has a £50 gift card. She wants to buy a board game for £28 and a puzzle for £24. Does Ella have enough money on her gift card to buy both items? Write yes or no.
+Answer: no
+Working: £28 + £24 = £52. £52 is greater than the £50 threshold, so Ella does not have enough money.
+
+Question 9: A school library needs to collect 700 books. Key Stage 1 collects 342 books and Key Stage 2 collects 385 books. Have they reached their target of 700 books? Write yes or no.
+Answer: yes
+Working: 342 + 385 = 727 books. 727 is greater than 700, so they have reached their target.
+
+Question 10: A small bridge has a safe load limit of 900 kg. A trailer weighing 420 kg carries a load of 465 kg. Is the total mass under the 900 kg safety limit? Write yes or no.
+Answer: yes
+Working: 420 kg + 465 kg = 885 kg. 885 kg is less than the 900 kg threshold, so it is under the safety limit.
+
+--- Using inverse operations to verify calculations ---
+
+Question 11: Ravi calculates 648 - 235 = 413. Write the addition calculation Ravi can use to check his answer.
+Answer: 413 + 235 = 648
+Working: The inverse of subtracting 235 is adding 235 to the result: 413 + 235 = 648.
+
+Question 12: Beth calculates 357 + 219 = 576. Write a subtraction calculation Beth can use to check her answer.
+Answer: 576 - 219 = 357
+Working: The inverse of adding 219 to 357 is subtracting 219 from 576: 576 - 219 = 357 (or 576 - 357 = 219).
+
+Question 13: Marcus works out 754 - 281 = 473. He checks his answer by calculating 473 + 281 and gets 754. Is his original subtraction calculation correct? Write yes or no.
+Answer: yes
+Working: 473 + 281 = 754. Because the inverse addition equals the starting number 754, the original calculation is correct.
+
+Question 14: Fill in the missing number to check the addition using an inverse operation: 428 + 316 = 744. Check: 744 - 316 = ___
+Answer: 428
+Working: Using the inverse relationship between addition and subtraction: 744 - 316 = 428.
+
+Question 15: Use the inverse operation to find the missing number: ___ - 245 = 380.
+Answer: 625
+Working: Use addition as the inverse of subtraction: 380 + 245 = 625.

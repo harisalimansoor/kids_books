@@ -1,0 +1,1 @@
+Look at the picture! {user_name} and {sibling_name} are arranging numbered blocks in a regular sequence. The blocks show 10, 15, 20, 25, 30, 35, an empty position and 45. {user_name} points toward the empty position while {sibling_name} checks the sequence.. What number belongs on the blank block?

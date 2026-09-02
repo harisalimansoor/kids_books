@@ -1,0 +1,133 @@
+###################################
+Solve one-step addition and subtraction problems, including missing number equations
+###################################
+
+--- One-step addition and subtraction problems ---
+
+1. Look at the picture! {user_name} is looking at this.
+Sam has 6 red apples and 3 green apples. How many apples does Sam have altogether?
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Sam has 6 red apples and 3 green apples. How many apples does Sam have altogether?
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Sam has 6 red apples and 3 green apples. How many apples does Sam have altogether?
+
+4. Look at the picture! {user_name} is looking at this.
+First, there were 8 birds sitting on a fence. Then, 3 birds flew away. How many birds are on the fence now?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+First, there were 8 birds sitting on a fence. Then, 3 birds flew away. How many birds are on the fence now?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+First, there were 8 birds sitting on a fence. Then, 3 birds flew away. How many birds are on the fence now?
+
+7. Look at the picture! {user_name} is looking at this.
+Amira has 8 pencils. Leo gives her 7 more pencils. How many pencils does Amira have in total?
+
+8. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Amira has 8 pencils. Leo gives her 7 more pencils. How many pencils does Amira have in total?
+
+9. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Amira has 8 pencils. Leo gives her 7 more pencils. How many pencils does Amira have in total?
+
+10. Look at the picture! {user_name} is looking at this.
+There are 17 biscuits in a tin. Jack eats 5 of them. How many biscuits are left in the tin?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+There are 17 biscuits in a tin. Jack eats 5 of them. How many biscuits are left in the tin?
+
+12. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+There are 17 biscuits in a tin. Jack eats 5 of them. How many biscuits are left in the tin?
+
+13. Look at the picture! {user_name} is looking at this.
+Ella has 14 stickers. Ben has 9 stickers. How many more stickers does Ella have than Ben?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Ella has 14 stickers. Ben has 9 stickers. How many more stickers does Ella have than Ben?
+
+15. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Ella has 14 stickers. Ben has 9 stickers. How many more stickers does Ella have than Ben?
+
+16. Look at the picture! {user_name} is looking at this.
+A jar contains 40 blue beads and 30 yellow beads. How many beads are in the jar altogether?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A jar contains 40 blue beads and 30 yellow beads. How many beads are in the jar altogether?
+
+18. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A jar contains 40 blue beads and 30 yellow beads. How many beads are in the jar altogether?
+
+19. Look at the picture! {user_name} is looking at this.
+A toy shop has 80 toy cars. It sells 30 toy cars. How many toy cars are left?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A toy shop has 80 toy cars. It sells 30 toy cars. How many toy cars are left?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A toy shop has 80 toy cars. It sells 30 toy cars. How many toy cars are left?
+
+--- Missing number equations ---
+
+22. Look at the picture! {user_name} is looking at this.
+What is the missing number? 6 + [ ] = 10
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is the missing number? 6 + [ ] = 10
+
+24. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+What is the missing number? 6 + [ ] = 10
+
+25. Look at the picture! {user_name} is looking at this.
+What is the missing number? 9 - [ ] = 4
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is the missing number? 9 - [ ] = 4
+
+27. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+What is the missing number? 9 - [ ] = 4
+
+28. Look at the picture! {user_name} is looking at this.
+What is the missing number? [ ] + 5 = 13
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+What is the missing number? [ ] + 5 = 13
+
+30. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+What is the missing number? [ ] + 5 = 13
+
+31. Look at the picture! {user_name} is looking at this.
+What is the missing number? 16 - [ ] = 10
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is the missing number? 16 - [ ] = 10
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+What is the missing number? 16 - [ ] = 10
+
+34. Look at the picture! {user_name} is looking at this.
+What is the missing number? 7 = [ ] - 9
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+What is the missing number? 7 = [ ] - 9
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+What is the missing number? 7 = [ ] - 9
+
+37. Look at the picture! {user_name} is looking at this.
+What is the missing number? 18 = 11 + [ ]
+
+38. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+What is the missing number? 18 = 11 + [ ]
+
+39. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+What is the missing number? 18 = 11 + [ ]
+
+40. Look at the picture! {user_name} is looking at this.
+What is the missing number? 100 - [ ] = 30
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What is the missing number? 100 - [ ] = 30
+
+42. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+What is the missing number? 100 - [ ] = 30

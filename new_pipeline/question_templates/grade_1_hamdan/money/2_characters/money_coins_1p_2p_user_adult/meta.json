@@ -1,0 +1,222 @@
+{
+  "stem_id": "money_coins_1p_2p_user_adult",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "two_group_add_money",
+  "question_file": "question.txt",
+  "image_file": "group_a_1p_table_2p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 960,
+      "y": 148,
+      "w": 220,
+      "h": 264,
+      "landmarks": {
+        "right_eye": [
+          1010,
+          263
+        ],
+        "left_eye": [
+          1116,
+          244
+        ],
+        "nose": [
+          1074,
+          309
+        ],
+        "mouth_right": [
+          1038,
+          352
+        ],
+        "mouth_left": [
+          1131,
+          335
+        ]
+      },
+      "confidence": 0.947
+    },
+    {
+      "role": "sibling",
+      "x": 343,
+      "y": 147,
+      "w": 203,
+      "h": 258,
+      "landmarks": {
+        "right_eye": [
+          403,
+          236
+        ],
+        "left_eye": [
+          500,
+          247
+        ],
+        "nose": [
+          449,
+          296
+        ],
+        "mouth_right": [
+          394,
+          324
+        ],
+        "mouth_left": [
+          487,
+          332
+        ]
+      },
+      "confidence": 0.952
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_a",
+      "owner": "child",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 1,
+      "value_pence": 1,
+      "container": "group_a",
+      "positions": [
+        {
+          "x": 1070,
+          "y": 451
+        }
+      ]
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 1,
+      "value_pence": 2,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "3p",
+    "options": [
+      "3p",
+      "1p",
+      "2p",
+      "4p"
+    ],
+    "formula": "1p+2p",
+    "explanation": "1p + 2p = 3p"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Money/questions.txt",
+    "notes": "Money/14.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Classroom money activity with clearly separated coin groups."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Coins money stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 960,
+      "y": 148,
+      "w": 220,
+      "h": 264,
+      "landmarks": {
+        "right_eye": [
+          1010,
+          263
+        ],
+        "left_eye": [
+          1116,
+          244
+        ],
+        "nose": [
+          1074,
+          309
+        ],
+        "mouth_right": [
+          1038,
+          352
+        ],
+        "mouth_left": [
+          1131,
+          335
+        ]
+      },
+      "confidence": 0.947
+    },
+    {
+      "role": "sibling",
+      "x": 343,
+      "y": 147,
+      "w": 203,
+      "h": 258,
+      "landmarks": {
+        "right_eye": [
+          403,
+          236
+        ],
+        "left_eye": [
+          500,
+          247
+        ],
+        "nose": [
+          449,
+          296
+        ],
+        "mouth_right": [
+          394,
+          324
+        ],
+        "mouth_left": [
+          487,
+          332
+        ]
+      },
+      "confidence": 0.952
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+=== Topic: Compare and order numbers within 100 using language and symbols (=, <, >) ===
+Domain: Number and Place Value
+
+--- Compare numbers within 100 using language ---
+
+Question 1: Which number is greater, 42 or 24?
+Answer: 42
+Working: 42 has 4 tens and 24 has 2 tens. 4 tens is more than 2 tens, so 42 is greater.
+
+Question 2: Which number is less, 58 or 85?
+Answer: 58
+Working: 58 has 5 tens and 85 has 8 tens. 5 tens is less than 8 tens, so 58 is less.
+
+Question 3: Sam has 35 marbles and Leo has 53 marbles. Who has more marbles?
+Answer: Leo
+Working: Leo has 53 marbles (5 tens and 3 ones) and Sam has 35 marbles (3 tens and 5 ones). 53 is more than 35, so Leo has more.
+
+Question 4: Look at the numbers 47 and 74. Complete the sentence using 'more than' or 'less than': 47 is ___ 74.
+Answer: less than
+Working: 47 has 4 tens and 74 has 7 tens. 4 tens is less than 7 tens, so 47 is less than 74.
+
+Question 5: Which is the greatest number: 67, 76, or 63?
+Answer: 76
+Working: 67 has 6 tens, 76 has 7 tens, and 63 has 6 tens. 7 tens is the greatest, so 76 is the greatest number.
+
+Question 6: Which is the least number: 91, 19, or 90?
+Answer: 19
+Working: 19 has 1 ten, 90 has 9 tens, and 91 has 9 tens. 1 ten is the least, so 19 is the least number.
+
+Question 7: There are 82 pencils in a box and 28 pencils on the table. Are there fewer pencils in the box or on the table?
+Answer: on the table
+Working: 28 is fewer than 82. There are 28 pencils on the table, so there are fewer pencils on the table.
+
+--- Compare numbers within 100 using symbols (=, <, >) ---
+
+Question 8: Write <, >, or = to make the statement true: 34 ___ 43
+Answer: <
+Working: 34 is less than 43, so 34 < 43.
+
+Question 9: Write <, >, or = to make the statement true: 70 ___ 50
+Answer: >
+Working: 70 is greater than 50, so 70 > 50.
+
+Question 10: Write <, >, or = to make the statement true: 88 ___ 88
+Answer: =
+Working: Both numbers are equal to each other, so 88 = 88.
+
+Question 11: Write <, >, or = to make the statement true: 62 ___ 26
+Answer: >
+Working: 62 is greater than 26, so 62 > 26.
+
+Question 12: Write <, >, or = to make the statement true: 49 ___ 94
+Answer: <
+Working: 49 has 4 tens and 94 has 9 tens. 49 is less than 94, so 49 < 94.
+
+Question 13: Write <, >, or = to make the statement true: 5 tens and 3 ones ___ 3 tens and 5 ones
+Answer: >
+Working: 5 tens and 3 ones is 53. 3 tens and 5 ones is 35. 53 is greater than 35, so 53 > 35.
+
+--- Order numbers within 100 ---
+
+Question 14: Write these numbers in order from smallest to greatest: 45, 12, 78
+Answer: 12, 45, 78
+Working: Comparing tens: 12 has 1 ten, 45 has 4 tens, and 78 has 7 tens. From smallest to greatest: 12, 45, 78.
+
+Question 15: Write these numbers in order from greatest to smallest: 34, 89, 56
+Answer: 89, 56, 34
+Working: Comparing tens: 89 has 8 tens, 56 has 5 tens, and 34 has 3 tens. From greatest to smallest: 89, 56, 34.
+
+Question 16: Write these numbers in order from smallest to greatest: 61, 16, 66
+Answer: 16, 61, 66
+Working: 16 has 1 ten (smallest). 61 and 66 both have 6 tens; 61 has 1 one and 66 has 6 ones. So the order is 16, 61, 66.
+
+Question 17: Write these numbers in order from greatest to smallest: 90, 19, 99
+Answer: 99, 90, 19
+Working: 99 and 90 have 9 tens; 99 is larger than 90. 19 has 1 ten. From greatest to smallest: 99, 90, 19.
+
+Question 18: Four children count their counters: 23, 71, 45, 18. Write the numbers in order starting with the smallest.
+Answer: 18, 23, 45, 71
+Working: Comparing tens: 18 (1 ten), 23 (2 tens), 45 (4 tens), 71 (7 tens). The order from smallest is 18, 23, 45, 71.
+
+Question 19: Put these numbers in order from greatest to least: 82, 28, 80, 88
+Answer: 88, 82, 80, 28
+Working: Numbers with 8 tens: 88 (8 ones), 82 (2 ones), 80 (0 ones). Number with 2 tens: 28. From greatest to least: 88, 82, 80, 28.

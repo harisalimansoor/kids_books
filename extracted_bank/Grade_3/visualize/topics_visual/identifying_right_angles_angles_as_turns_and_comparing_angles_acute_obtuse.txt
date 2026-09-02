@@ -1,0 +1,198 @@
+###################################
+Identifying right angles, angles as turns, and comparing angles (acute/obtuse)
+###################################
+
+--- Identifying right angles ---
+
+1. Look at the picture! {user_name} is looking at this.
+How many right angles are there inside a rectangle?
+
+2. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+How many right angles are there inside a rectangle?
+
+3. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+How many right angles are there inside a rectangle?
+
+4. Look at the picture! {user_name} is looking at this.
+A square has right angles at every corner. How many right angles does a square have in total?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A square has right angles at every corner. How many right angles does a square have in total?
+
+6. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A square has right angles at every corner. How many right angles does a square have in total?
+
+7. Look at the picture! {user_name} is looking at this.
+A right-angled triangle has one square corner. How many right angles does it contain?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A right-angled triangle has one square corner. How many right angles does it contain?
+
+9. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A right-angled triangle has one square corner. How many right angles does it contain?
+
+10. Look at the picture! {user_name} is looking at this.
+A straight vertical line meets a straight horizontal line to make a capital letter L. How many right angles are formed where the lines meet?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A straight vertical line meets a straight horizontal line to make a capital letter L. How many right angles are formed where the lines meet?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A straight vertical line meets a straight horizontal line to make a capital letter L. How many right angles are formed where the lines meet?
+
+13. Look at the picture! {user_name} is looking at this.
+A capital letter T is made of one horizontal top bar and one vertical stem meeting in the middle. How many right angles are formed where the lines meet?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A capital letter T is made of one horizontal top bar and one vertical stem meeting in the middle. How many right angles are formed where the lines meet?
+
+15. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A capital letter T is made of one horizontal top bar and one vertical stem meeting in the middle. How many right angles are formed where the lines meet?
+
+16. Look at the picture! {user_name} is looking at this.
+A regular hexagon has 6 straight sides and 6 equal interior angles. Does a regular hexagon have any right angles inside it? Write yes or no.
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+A regular hexagon has 6 straight sides and 6 equal interior angles. Does a regular hexagon have any right angles inside it? Write yes or no.
+
+18. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A regular hexagon has 6 straight sides and 6 equal interior angles. Does a regular hexagon have any right angles inside it? Write yes or no.
+
+--- Angles as turns ---
+
+19. Look at the picture! {user_name} is looking at this.
+How many right angles make a half-turn?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many right angles make a half-turn?
+
+21. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+How many right angles make a half-turn?
+
+22. Look at the picture! {user_name} is looking at this.
+How many right angles make a complete turn?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many right angles make a complete turn?
+
+24. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+How many right angles make a complete turn?
+
+25. Look at the picture! {user_name} is looking at this.
+How many right angles make three quarters of a turn?
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many right angles make three quarters of a turn?
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+How many right angles make three quarters of a turn?
+
+28. Look at the picture! {user_name} is looking at this.
+Mia is facing North. She turns clockwise through 2 right angles. Which compass direction is she facing now?
+
+29. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Mia is facing North. She turns clockwise through 2 right angles. Which compass direction is she facing now?
+
+30. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Mia is facing North. She turns clockwise through 2 right angles. Which compass direction is she facing now?
+
+31. Look at the picture! {user_name} is looking at this.
+Liam is facing East. He makes 1 right angle turn clockwise. Which direction is he facing now?
+
+32. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Liam is facing East. He makes 1 right angle turn clockwise. Which direction is he facing now?
+
+33. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Liam is facing East. He makes 1 right angle turn clockwise. Which direction is he facing now?
+
+34. Look at the picture! {user_name} is looking at this.
+Noah is facing North. He turns clockwise through 3 right angles. Which direction is he facing now?
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Noah is facing North. He turns clockwise through 3 right angles. Which direction is he facing now?
+
+36. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Noah is facing North. He turns clockwise through 3 right angles. Which direction is he facing now?
+
+37. Look at the picture! {user_name} is looking at this.
+The minute hand of a clock points to 12. It moves clockwise to 3. How many right angles has the minute hand turned through?
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The minute hand of a clock points to 12. It moves clockwise to 3. How many right angles has the minute hand turned through?
+
+39. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+The minute hand of a clock points to 12. It moves clockwise to 3. How many right angles has the minute hand turned through?
+
+40. Look at the picture! {user_name} is looking at this.
+The minute hand on a clock turns clockwise from the 12 to the 6. How many right angles has it turned through?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+The minute hand on a clock turns clockwise from the 12 to the 6. How many right angles has it turned through?
+
+42. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+The minute hand on a clock turns clockwise from the 12 to the 6. How many right angles has it turned through?
+
+--- Comparing angles (acute and obtuse) ---
+
+43. Look at the picture! {user_name} is looking at this.
+What name is given to an angle that is smaller than a right angle?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+What name is given to an angle that is smaller than a right angle?
+
+45. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+What name is given to an angle that is smaller than a right angle?
+
+46. Look at the picture! {user_name} is looking at this.
+What name is given to an angle that is greater than a right angle but less than a half-turn?
+
+47. Look at the picture! {user_name} and {father_name} are looking at this together.
+What name is given to an angle that is greater than a right angle but less than a half-turn?
+
+48. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+What name is given to an angle that is greater than a right angle but less than a half-turn?
+
+49. Look at the picture! {user_name} is looking at this.
+Is an acute angle greater than or less than a right angle?
+
+50. Look at the picture! {user_name} and {father_name} are looking at this together.
+Is an acute angle greater than or less than a right angle?
+
+51. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Is an acute angle greater than or less than a right angle?
+
+52. Look at the picture! {user_name} is looking at this.
+At 3 o'clock, the hands of a clock make a right angle. At 2 o'clock, is the smaller angle between the hands acute, right, or obtuse?
+
+53. Look at the picture! {user_name} and {father_name} are looking at this together.
+At 3 o'clock, the hands of a clock make a right angle. At 2 o'clock, is the smaller angle between the hands acute, right, or obtuse?
+
+54. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+At 3 o'clock, the hands of a clock make a right angle. At 2 o'clock, is the smaller angle between the hands acute, right, or obtuse?
+
+55. Look at the picture! {user_name} is looking at this.
+At 4 o'clock, is the smaller angle between the hour hand and the minute hand acute, right, or obtuse?
+
+56. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+At 4 o'clock, is the smaller angle between the hour hand and the minute hand acute, right, or obtuse?
+
+57. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+At 4 o'clock, is the smaller angle between the hour hand and the minute hand acute, right, or obtuse?
+
+58. Look at the picture! {user_name} is looking at this.
+An equilateral triangle has 3 angles that are all equal in size. Each angle is smaller than a right angle. Are the angles acute or obtuse?
+
+59. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An equilateral triangle has 3 angles that are all equal in size. Each angle is smaller than a right angle. Are the angles acute or obtuse?
+
+60. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+An equilateral triangle has 3 angles that are all equal in size. Each angle is smaller than a right angle. Are the angles acute or obtuse?
+
+61. Look at the picture! {user_name} is looking at this.
+Sam uses a corner of a piece of paper as a right-angle tester. An angle is wider than the paper corner. Is this angle acute, right, or obtuse?
+
+62. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Sam uses a corner of a piece of paper as a right-angle tester. An angle is wider than the paper corner. Is this angle acute, right, or obtuse?
+
+63. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Sam uses a corner of a piece of paper as a right-angle tester. An angle is wider than the paper corner. Is this angle acute, right, or obtuse?

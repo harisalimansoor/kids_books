@@ -1,0 +1,86 @@
+=== Topic: Telling and writing time to 5 minutes (including quarter past/to, minutes past/to) on analogue clocks ===
+Domain: Measurement
+
+--- Quarter past and quarter to ---
+
+Question 1: A clock shows the minute hand pointing to 3 and the hour hand just past 4. What time does the clock show?
+Answer: quarter past 4
+Working: When the minute hand points to 3, it is quarter past the hour. The hour hand is just past 4, so the time is quarter past 4.
+
+Question 2: On an analogue clock, which number does the minute hand point to at quarter to 6?
+Answer: 9
+Working: At quarter to the hour, the minute hand points directly to the number 9.
+
+Question 3: A clock has its minute hand pointing to 9 and its hour hand pointing just before 2. What time is shown on the clock?
+Answer: quarter to 2
+Working: The minute hand at 9 means quarter to the next hour. The hour hand is pointing just before 2, so the time is quarter to 2.
+
+Question 4: Which number on a clock face does the minute hand point to at quarter past 8?
+Answer: 3
+Working: At quarter past the hour, the minute hand points directly to the number 3.
+
+Question 5: How many minutes past the hour is the time quarter past 7?
+Answer: 15 minutes
+Working: One quarter of an hour is 15 minutes, so quarter past 7 is 15 minutes past 7.
+
+Question 6: How many minutes are left until the next hour when the time is quarter to 5?
+Answer: 15 minutes
+Working: A quarter of an hour is 15 minutes, so quarter to 5 means there are 15 minutes until 5 o'clock.
+
+Question 7: The time is 3 o'clock. The minute hand makes a quarter turn clockwise. What time is it now?
+Answer: quarter past 3
+Working: A quarter turn clockwise moves the minute hand from 12 to 3, which is quarter past the hour. So the time is quarter past 3.
+
+Question 8: At quarter to 11, how many minutes past 10 o'clock has the minute hand travelled?
+Answer: 45 minutes
+Working: The minute hand is on 9, which is 9 groups of 5 minutes: 9 × 5 = 45 minutes past 10.
+
+--- Minutes past and minutes to ---
+
+Question 9: On an analogue clock, the minute hand points to 1 and the hour hand is just past 8. How many minutes past 8 is it?
+Answer: 5 minutes
+Working: Each number on the clock face represents 5 minutes. The minute hand on 1 means 5 minutes past 8.
+
+Question 10: A clock shows the hour hand just past 2 and the minute hand pointing to 4. What time does the clock show in words?
+Answer: twenty past 2
+Working: The minute hand on 4 shows 4 × 5 = 20 minutes past the hour. The hour hand is past 2, so the time is twenty past 2.
+
+Question 11: On a clock face, the minute hand points to 7 and the hour hand is between 5 and 6. How many minutes to 6 is it?
+Answer: 25 minutes
+Working: Counting the minutes from 7 to 12 in 5s gives 5 intervals: 5 × 5 = 25 minutes to 6.
+
+Question 12: A clock shows the hour hand between 9 and 10, and the minute hand points to 10. What time does the clock show in words?
+Answer: ten to 10
+Working: The minute hand on 10 is 2 numbers away from 12, which is 2 × 5 = 10 minutes to the next hour. The next hour is 10, so the time is ten to 10.
+
+Question 13: The minute hand is pointing to 5 and the hour hand is just past 1. What time does the clock show in words?
+Answer: twenty-five past 1
+Working: The minute hand on 5 shows 5 × 5 = 25 minutes past. The hour hand is past 1, so the time is twenty-five past 1.
+
+Question 14: The minute hand is pointing to 8 and the hour hand is between 6 and 7. What time does the clock show in words?
+Answer: twenty to 7
+Working: The minute hand on 8 is 4 numbers away from 12, which is 4 × 5 = 20 minutes to 7. The time is twenty to 7.
+
+Question 15: The minute hand points to 11 and the hour hand is pointing just before 12. How many minutes is it until 12 o'clock?
+Answer: 5 minutes
+Working: The minute hand is 1 number away from 12, which is 5 minutes until 12 o'clock.
+
+Question 16: How many minutes does the minute hand take to move from number 12 to number 2 on a clock face?
+Answer: 10 minutes
+Working: There are 2 five-minute intervals between 12 and 2: 2 × 5 = 10 minutes.
+
+Question 17: A clock shows twenty to 4. Which number on the clock face does the minute hand point to?
+Answer: 8
+Working: Twenty minutes before the hour is 4 intervals of 5 minutes before 12: 12 - 4 = 8. The minute hand points to 8.
+
+Question 18: A clock shows five to 9. How many minutes past 8 o'clock is this?
+Answer: 55 minutes
+Working: There are 60 minutes in an hour. 5 minutes before 9 is 60 - 5 = 55 minutes past 8.
+
+Question 19: Sam sees the minute hand pointing to 7 and says it is 7 minutes past the hour. How many minutes past the hour does the clock really show?
+Answer: 35 minutes
+Working: Each number on the clock represents 5 minutes: 7 × 5 = 35 minutes past the hour.
+
+Question 20: Which number on the clock face does the minute hand point to when the time is ten to 3?
+Answer: 10
+Working: Ten minutes to the hour means 2 five-minute steps before 12: 12 - 2 = 10. The minute hand points to 10.

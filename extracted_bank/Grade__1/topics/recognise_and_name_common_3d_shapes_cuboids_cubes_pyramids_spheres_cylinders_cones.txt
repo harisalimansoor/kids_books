@@ -1,0 +1,110 @@
+=== Topic: Recognise and name common 3D shapes (cuboids, cubes, pyramids, spheres, cylinders, cones) ===
+Domain: Geometry: Properties of Shapes
+
+--- Cuboids ---
+
+Question 1: A cereal box has 6 flat rectangular faces. What 3D shape is the cereal box?
+Answer: Cuboid
+Working: A box with 6 flat rectangular faces is a cuboid.
+
+Question 2: A shoe box is an example of which 3D shape: a cuboid or a sphere?
+Answer: Cuboid
+Working: A shoe box has flat rectangular faces, so it is a cuboid.
+
+Question 3: Oliver draws around one flat face of a brick on paper. He draws a rectangle. What 3D shape is the brick?
+Answer: Cuboid
+Working: A 3D shape with rectangular flat faces like a brick is a cuboid.
+
+Question 4: Can a cuboid be stacked to make a tall tower? Write yes or no.
+Answer: Yes
+Working: Cuboids have flat faces, so they can easily be stacked on top of each other.
+
+--- Cubes ---
+
+Question 5: A playing die has 6 flat faces that are all the same square shape. What 3D shape is the die?
+Answer: Cube
+Working: A 3D shape with 6 equal square faces is a cube.
+
+Question 6: Maya has a building block where every face is a square. Is the block a cube or a cylinder?
+Answer: Cube
+Working: A block with square faces is a cube.
+
+Question 7: Which 2D shape are the flat faces of a cube: squares or circles?
+Answer: Squares
+Working: All faces of a cube are squares.
+
+Question 8: Leo says that a cube has 6 flat faces. Is Leo correct? Write yes or no.
+Answer: Yes
+Working: A cube has 6 flat square faces, so Leo is correct.
+
+--- Pyramids ---
+
+Question 9: A 3D shape has a flat square bottom and 4 triangular faces that meet at a point at the top. What 3D shape is it?
+Answer: Pyramid
+Working: A 3D shape with a square base and triangular faces meeting at a point is a pyramid.
+
+Question 10: A model of an ancient Egyptian tomb has triangular faces meeting at a point at the top. Name this 3D shape.
+Answer: Pyramid
+Working: The tomb shape with triangular faces meeting at a point is a pyramid.
+
+Question 11: Nina draws around the triangular side of a pyramid. What 2D shape does she draw?
+Answer: Triangle
+Working: Tracing the side face of a pyramid gives a triangle.
+
+Question 12: Does a pyramid have any curved surfaces? Write yes or no.
+Answer: No
+Working: A pyramid has only flat faces, so it has no curved surfaces.
+
+--- Spheres ---
+
+Question 13: A football is completely round with no flat faces. What 3D shape is a football?
+Answer: Sphere
+Working: A completely round 3D shape like a ball is a sphere.
+
+Question 14: Jack has a glass marble. Is the marble a sphere or a cube?
+Answer: Sphere
+Working: A marble is perfectly round with no flat faces, so it is a sphere.
+
+Question 15: How many flat faces does a sphere have?
+Answer: 0
+Working: A sphere has 1 curved surface and 0 flat faces.
+
+Question 16: Can a sphere roll along the floor in every direction? Write yes or no.
+Answer: Yes
+Working: A sphere is completely curved, so it can roll in all directions.
+
+--- Cylinders ---
+
+Question 17: A tin of baked beans has 2 flat circular faces and 1 curved surface. What 3D shape is the tin?
+Answer: Cylinder
+Working: A 3D shape with 2 circular flat faces and 1 curved surface is a cylinder.
+
+Question 18: A stick of glue has flat circle faces at the top and bottom. Is the glue stick a cylinder or a cone?
+Answer: Cylinder
+Working: A shape with two flat circular ends and a curved side is a cylinder.
+
+Question 19: Lucas traces around the flat top of a cylinder. Which 2D shape does he draw: a square or a circle?
+Answer: Circle
+Working: The flat face of a cylinder is a circle.
+
+Question 20: How many flat circular faces does a cylinder have?
+Answer: 2
+Working: A cylinder has 2 flat circular faces (one at each end).
+
+--- Cones ---
+
+Question 21: A party hat has 1 flat circular face at the bottom and goes to a point at the top. What 3D shape is the party hat?
+Answer: Cone
+Working: A 3D shape with 1 flat circular base that meets at a point at the top is a cone.
+
+Question 22: An orange traffic cone has a flat circular base and tapers to a point. Name this 3D shape.
+Answer: Cone
+Working: A shape with a circular base and a pointed top is a cone.
+
+Question 23: Which 2D shape is the flat face at the bottom of a cone: a circle or a triangle?
+Answer: Circle
+Working: The flat base of a cone is a circle.
+
+Question 24: How many flat faces does a cone have?
+Answer: 1
+Working: A cone has exactly 1 flat face (the circular base) and 1 curved surface.

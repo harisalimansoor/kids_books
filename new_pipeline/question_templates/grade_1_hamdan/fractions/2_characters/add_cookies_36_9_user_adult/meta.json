@@ -1,0 +1,397 @@
+{
+  "stem_id": "add_cookies_36_9_user_adult",
+  "grade": "grade_1",
+  "topic": "fractions",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "mother_has_36_cookies_mother_has_9_cookies_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 962,
+      "y": 310,
+      "w": 152,
+      "h": 191,
+      "landmarks": {
+        "right_eye": [
+          990,
+          387
+        ],
+        "left_eye": [
+          1060,
+          378
+        ],
+        "nose": [
+          1024,
+          421
+        ],
+        "mouth_right": [
+          1006,
+          452
+        ],
+        "mouth_left": [
+          1068,
+          443
+        ]
+      },
+      "confidence": 0.948
+    },
+    {
+      "role": "mother",
+      "x": 418,
+      "y": 80,
+      "w": 158,
+      "h": 211,
+      "landmarks": {
+        "right_eye": [
+          473,
+          158
+        ],
+        "left_eye": [
+          544,
+          175
+        ],
+        "nose": [
+          504,
+          212
+        ],
+        "mouth_right": [
+          456,
+          225
+        ],
+        "mouth_left": [
+          524,
+          240
+        ]
+      },
+      "confidence": 0.94
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "mother",
+      "object_id": "cookies",
+      "singular": "cookie",
+      "plural": "cookies",
+      "count": 36,
+      "container": "table",
+      "positions": [
+        {
+          "x": 282,
+          "y": 322
+        },
+        {
+          "x": 368,
+          "y": 322
+        },
+        {
+          "x": 454,
+          "y": 322
+        },
+        {
+          "x": 540,
+          "y": 322
+        },
+        {
+          "x": 626,
+          "y": 322
+        },
+        {
+          "x": 712,
+          "y": 322
+        },
+        {
+          "x": 282,
+          "y": 376
+        },
+        {
+          "x": 368,
+          "y": 376
+        },
+        {
+          "x": 454,
+          "y": 376
+        },
+        {
+          "x": 540,
+          "y": 376
+        },
+        {
+          "x": 626,
+          "y": 376
+        },
+        {
+          "x": 712,
+          "y": 376
+        },
+        {
+          "x": 282,
+          "y": 430
+        },
+        {
+          "x": 368,
+          "y": 430
+        },
+        {
+          "x": 454,
+          "y": 430
+        },
+        {
+          "x": 540,
+          "y": 430
+        },
+        {
+          "x": 626,
+          "y": 430
+        },
+        {
+          "x": 712,
+          "y": 430
+        },
+        {
+          "x": 282,
+          "y": 484
+        },
+        {
+          "x": 368,
+          "y": 484
+        },
+        {
+          "x": 454,
+          "y": 484
+        },
+        {
+          "x": 540,
+          "y": 484
+        },
+        {
+          "x": 626,
+          "y": 484
+        },
+        {
+          "x": 712,
+          "y": 484
+        },
+        {
+          "x": 282,
+          "y": 538
+        },
+        {
+          "x": 368,
+          "y": 538
+        },
+        {
+          "x": 454,
+          "y": 538
+        },
+        {
+          "x": 540,
+          "y": 538
+        },
+        {
+          "x": 626,
+          "y": 538
+        },
+        {
+          "x": 712,
+          "y": 538
+        },
+        {
+          "x": 282,
+          "y": 592
+        },
+        {
+          "x": 368,
+          "y": 592
+        },
+        {
+          "x": 454,
+          "y": 592
+        },
+        {
+          "x": 540,
+          "y": 592
+        },
+        {
+          "x": 626,
+          "y": 592
+        },
+        {
+          "x": 712,
+          "y": 592
+        }
+      ]
+    },
+    {
+      "id": "table_2",
+      "owner": "mother",
+      "object_id": "cookies",
+      "singular": "cookie",
+      "plural": "cookies",
+      "count": 9,
+      "container": "table",
+      "positions": [
+        {
+          "x": 282,
+          "y": 322
+        },
+        {
+          "x": 368,
+          "y": 322
+        },
+        {
+          "x": 454,
+          "y": 322
+        },
+        {
+          "x": 540,
+          "y": 322
+        },
+        {
+          "x": 626,
+          "y": 322
+        },
+        {
+          "x": 712,
+          "y": 322
+        },
+        {
+          "x": 282,
+          "y": 376
+        },
+        {
+          "x": 368,
+          "y": 376
+        },
+        {
+          "x": 454,
+          "y": 376
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "45",
+    "options": [
+      "45",
+      "36",
+      "9",
+      "44"
+    ],
+    "formula": "36+9",
+    "explanation": "scene (36) + scene (9) = 45"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Fractions/questions.txt",
+    "notes": "Fractions/5.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Two clear groups of cookies for addition.",
+    "cookie_layout": "two_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [
+      "cookies"
+    ],
+    "hobbies": [],
+    "notes": "Cookie fractions stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 962,
+      "y": 310,
+      "w": 152,
+      "h": 191,
+      "landmarks": {
+        "right_eye": [
+          990,
+          387
+        ],
+        "left_eye": [
+          1060,
+          378
+        ],
+        "nose": [
+          1024,
+          421
+        ],
+        "mouth_right": [
+          1006,
+          452
+        ],
+        "mouth_left": [
+          1068,
+          443
+        ]
+      },
+      "confidence": 0.948
+    },
+    {
+      "role": "mother",
+      "x": 418,
+      "y": 80,
+      "w": 158,
+      "h": 211,
+      "landmarks": {
+        "right_eye": [
+          473,
+          158
+        ],
+        "left_eye": [
+          544,
+          175
+        ],
+        "nose": [
+          504,
+          212
+        ],
+        "mouth_right": [
+          456,
+          225
+        ],
+        "mouth_left": [
+          524,
+          240
+        ]
+      },
+      "confidence": 0.94
+    }
+  ]
+}

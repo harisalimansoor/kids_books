@@ -1,0 +1,66 @@
+=== Topic: Read and write numbers to 100 in numerals ===
+Domain: Number and Place Value
+
+--- Read numbers to 100 in numerals ---
+
+Question 1: Look at the numeral 47. Which digit is in the tens place?
+Answer: 4
+Working: In the two-digit number 47, the first digit 4 represents 4 tens and the second digit 7 represents 7 ones. The digit in the tens place is 4.
+
+Question 2: Look at the numeral 83. Which digit is in the ones place?
+Answer: 3
+Working: In the numeral 83, 8 is the tens digit and 3 is the ones digit. The digit in the ones place is 3.
+
+Question 3: Look at the numeral 60. How many tens are there in this number?
+Answer: 6
+Working: The numeral 60 has 6 in the tens place and 0 in the ones place, so there are 6 tens.
+
+Question 4: Look at the numeral 95. How many ones are there in this number?
+Answer: 5
+Working: In the numeral 95, the digit 9 shows 9 tens and the digit 5 shows 5 ones. There are 5 ones.
+
+Question 5: A number track shows the numerals 56, 57, 58, 59, 60. Which numeral comes immediately after 58 on the track?
+Answer: 59
+Working: Reading the track from left to right, the numeral after 58 is 59.
+
+Question 6: Look at the numeral 72. What is the value of the digit 7? Write 70 or 7.
+Answer: 70
+Working: The digit 7 is in the tens place of 72, which represents 7 tens. 7 tens is equal to 70.
+
+Question 7: A teacher writes these numerals on the board: 38, 83, 80, 30. Which numeral has 8 tens and 3 ones?
+Answer: 83
+Working: 8 tens and 3 ones make 83. The numeral with 8 in the tens place and 3 in the ones place is 83.
+
+Question 8: Look at the numeral 100. How many full tens make 100?
+Answer: 10
+Working: 100 is equal to 10 groups of ten, so there are 10 tens in 100.
+
+--- Write numbers to 100 in numerals ---
+
+Question 9: A number has 3 tens and 4 ones. Write this number in numerals.
+Answer: 34
+Working: 3 tens is 30 and 4 ones is 4. 30 + 4 = 34.
+
+Question 10: A number has 7 tens and 0 ones. Write this number in numerals.
+Answer: 70
+Working: 7 tens and 0 ones make the numeral 70.
+
+Question 11: Write the numeral for 5 tens and 8 ones.
+Answer: 58
+Working: 5 tens is 50, and 8 ones is 8. Writing 5 in the tens place and 8 in the ones place gives 58.
+
+Question 12: Sam has 6 full packs of 10 pencils and 2 single pencils. Write the total number of pencils in numerals.
+Answer: 62
+Working: 6 full packs of 10 pencils make 60 pencils. 60 pencils and 2 single pencils make 62 pencils.
+
+Question 13: A sticker book has 9 full strips of 10 stickers and 7 single stickers. Write the total number of stickers in numerals.
+Answer: 97
+Working: 9 strips of 10 stickers equal 90 stickers. 90 and 7 make 97 stickers.
+
+Question 14: Write the numeral that comes next in this sequence: 76, 77, 78, 79, [ ].
+Answer: 80
+Working: Counting forwards in ones from 76: 76, 77, 78, 79, 80. The next numeral is 80.
+
+Question 15: There are 10 boxes with 10 counters in each box. Write the total number of counters in numerals.
+Answer: 100
+Working: 10 groups of 10 make one hundred. In numerals, one hundred is written as 100.

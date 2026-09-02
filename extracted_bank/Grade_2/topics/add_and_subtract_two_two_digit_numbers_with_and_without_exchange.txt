@@ -1,0 +1,110 @@
+=== Topic: Add and subtract two two-digit numbers with and without exchange ===
+Domain: Addition and Subtraction
+
+--- Add two two-digit numbers without exchange ---
+
+Question 1: Work out 32 + 45.
+Answer: 77
+Working: Add the tens: 30 + 40 = 70. Add the ones: 2 + 5 = 7. Combine tens and ones: 70 + 7 = 77.
+
+Question 2: Priya has 24 red stickers and 35 blue stickers. How many stickers does Priya have in total?
+Answer: 59
+Working: Add the ones: 4 + 5 = 9. Add the tens: 20 + 30 = 50. 50 + 9 = 59 stickers.
+
+Question 3: What is the sum of 51 and 27?
+Answer: 78
+Working: Add the tens: 50 + 20 = 70. Add the ones: 1 + 7 = 8. 70 + 8 = 78.
+
+Question 4: A green ribbon is 43 cm long. A yellow ribbon is 26 cm long. What is the total length of the two ribbons in centimetres?
+Answer: 69 cm
+Working: 43 cm + 26 cm. Tens: 40 + 20 = 60. Ones: 3 + 6 = 9. 60 + 9 = 69 cm.
+
+Question 5: Leo spends 34p on an apple and 43p on a banana. How much does Leo spend altogether?
+Answer: 77p
+Working: 34p + 43p. Add tens: 30p + 40p = 70p. Add ones: 4p + 3p = 7p. Total = 77p.
+
+Question 6: Class 2A has 21 reading books. Class 2B has 38 reading books. How many reading books do both classes have in total?
+Answer: 59
+Working: 21 + 38 = 59. Tens: 20 + 30 = 50. Ones: 1 + 8 = 9. 50 + 9 = 59.
+
+--- Add two two-digit numbers with exchange ---
+
+Question 7: Work out 38 + 25.
+Answer: 63
+Working: Add the ones: 8 + 5 = 13 (1 ten and 3 ones). Add the tens: 30 + 20 = 50. Combine: 50 + 13 = 63.
+
+Question 8: There are 47 apples and 26 pears in a crate. How many pieces of fruit are in the crate in total?
+Answer: 73
+Working: 47 + 26. Ones: 7 + 6 = 13 (exchange 10 ones for 1 ten, leaving 3 ones). Tens: 40 + 20 + 10 = 70. 70 + 3 = 73.
+
+Question 9: A toy car costs 48p. A spinning top costs 35p. How much do both toys cost in total?
+Answer: 83p
+Working: 48p + 35p. Ones: 8p + 5p = 13p. Tens: 40p + 30p = 70p. 70p + 13p = 83p.
+
+Question 10: Work out 56 + 27.
+Answer: 83
+Working: Add the ones: 6 + 7 = 13. Add the tens: 50 + 20 = 70. 70 + 13 = 83.
+
+Question 11: Work out 64 + 28.
+Answer: 92
+Working: Add the ones: 4 + 8 = 12 (1 ten and 2 ones). Add the tens: 60 + 20 = 80. 80 + 12 = 92.
+
+Question 12: One parcel has a mass of 37 g. A second parcel has a mass of 45 g. What is the total mass of the two parcels in grams?
+Answer: 82 g
+Working: 37 g + 45 g. Ones: 7 + 5 = 12 g. Tens: 30 + 40 = 70 g. 70 + 12 = 82 g.
+
+--- Subtract two two-digit numbers without exchange ---
+
+Question 13: Work out 67 − 23.
+Answer: 44
+Working: Subtract the ones: 7 − 3 = 4. Subtract the tens: 60 − 20 = 40. 40 + 4 = 44.
+
+Question 14: A farmer has 58 sheep in a field. 25 of the sheep go into the barn. How many sheep are left in the field?
+Answer: 33
+Working: 58 − 25. Ones: 8 − 5 = 3. Tens: 50 − 20 = 30. 30 + 3 = 33 sheep.
+
+Question 15: Maya has 79p. She spends 34p on a pencil. How much money does Maya have left?
+Answer: 45p
+Working: 79p − 34p. Tens: 70p − 30p = 40p. Ones: 9p − 4p = 5p. 40p + 5p = 45p.
+
+Question 16: A red block tower is 48 cm tall. A blue block tower is 26 cm tall. What is the difference in height between the two towers in centimetres?
+Answer: 22 cm
+Working: 48 cm − 26 cm. Ones: 8 − 6 = 2 cm. Tens: 40 − 20 = 20 cm. 20 + 2 = 22 cm.
+
+Question 17: Work out 85 − 31.
+Answer: 54
+Working: Subtract ones: 5 − 1 = 4. Subtract tens: 80 − 30 = 50. 50 + 4 = 54.
+
+Question 18: There are 96 library books on a shelf. Pupils borrow 42 books. How many books remain on the shelf?
+Answer: 54
+Working: 96 − 42. Ones: 6 − 2 = 4. Tens: 90 − 40 = 50. 50 + 4 = 54 books.
+
+--- Subtract two two-digit numbers with exchange ---
+
+Question 19: Work out 52 − 27.
+Answer: 25
+Working: Partition 52 into 40 + 12. Ones: 12 − 7 = 5. Tens: 40 − 20 = 20. 20 + 5 = 25.
+
+Question 20: A baker bakes 63 buns. She sells 38 of them. How many buns are left?
+Answer: 25
+Working: 63 − 38. Exchange 1 ten for 10 ones: 63 becomes 5 tens and 13 ones. 13 − 8 = 5 ones. 5 tens − 3 tens = 2 tens. Answer is 25.
+
+Question 21: Jack has 71p. He buys a notebook for 45p. How much money does Jack have left?
+Answer: 26p
+Working: 71p − 45p. Exchange 1 ten for 10 ones: 71 becomes 60 + 11. 11p − 5p = 6p. 60p − 40p = 20p. 20p + 6p = 26p.
+
+Question 22: A piece of string is 84 cm long. Ella cuts off 39 cm. What is the length of the remaining string in centimetres?
+Answer: 45 cm
+Working: 84 cm − 39 cm. Partition 84 into 70 + 14. Ones: 14 − 9 = 5. Tens: 70 − 30 = 40. 40 + 5 = 45 cm.
+
+Question 23: Sam scores 50 points in a game. Ben scores 28 points. How many more points does Sam score than Ben?
+Answer: 22
+Working: 50 − 28. Exchange 1 ten for 10 ones: 50 becomes 4 tens and 10 ones. 10 − 8 = 2 ones. 4 tens − 2 tens = 2 tens. Answer is 22.
+
+Question 24: Work out 90 − 46.
+Answer: 44
+Working: Exchange 1 ten from 90 to make 80 + 10. Ones: 10 − 6 = 4. Tens: 80 − 40 = 40. 40 + 4 = 44.
+
+Question 25: There are 75 passengers on a bus. At the first stop, 48 passengers get off. How many passengers are still on the bus?
+Answer: 27
+Working: 75 − 48. Partition 75 into 60 + 15. Ones: 15 − 8 = 7. Tens: 60 − 40 = 20. 20 + 7 = 27 passengers.

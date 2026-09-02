@@ -1,0 +1,263 @@
+{
+  "stem_id": "sub_balls_15_5_crossed_user_adult",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "adult_table_15_balls_5_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 849,
+      "y": 137,
+      "w": 205,
+      "h": 270,
+      "landmarks": {
+        "right_eye": [
+          893,
+          251
+        ],
+        "left_eye": [
+          995,
+          245
+        ],
+        "nose": [
+          941,
+          306
+        ],
+        "mouth_right": [
+          907,
+          339
+        ],
+        "mouth_left": [
+          1002,
+          332
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "sibling",
+      "x": 316,
+      "y": 104,
+      "w": 215,
+      "h": 291,
+      "landmarks": {
+        "right_eye": [
+          379,
+          218
+        ],
+        "left_eye": [
+          483,
+          225
+        ],
+        "nose": [
+          430,
+          284
+        ],
+        "mouth_right": [
+          374,
+          312
+        ],
+        "mouth_left": [
+          473,
+          319
+        ]
+      },
+      "confidence": 0.95
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "sibling",
+      "object_id": "balls",
+      "singular": "ball",
+      "plural": "balls",
+      "count": 15,
+      "crossed_count": 5,
+      "container": "table",
+      "positions": [
+        {
+          "x": 208,
+          "y": 438
+        },
+        {
+          "x": 294,
+          "y": 438
+        },
+        {
+          "x": 380,
+          "y": 438
+        },
+        {
+          "x": 466,
+          "y": 438
+        },
+        {
+          "x": 552,
+          "y": 438
+        },
+        {
+          "x": 638,
+          "y": 438
+        },
+        {
+          "x": 208,
+          "y": 492
+        },
+        {
+          "x": 294,
+          "y": 492
+        },
+        {
+          "x": 380,
+          "y": 492
+        },
+        {
+          "x": 466,
+          "y": 492
+        },
+        {
+          "x": 552,
+          "y": 492
+        },
+        {
+          "x": 638,
+          "y": 492
+        },
+        {
+          "x": 208,
+          "y": 546
+        },
+        {
+          "x": 294,
+          "y": 546
+        },
+        {
+          "x": 380,
+          "y": 546
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "10",
+    "options": [
+      "10",
+      "15",
+      "5",
+      "9"
+    ],
+    "formula": "15-5",
+    "explanation": "15 objects minus 5 crossed out = 10"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 15 with 5 crossed."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/General Math/questions.txt",
+    "notes": "General Math/21.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Crossed-out balls for subtraction.",
+    "ball_layout": "crossed_items_in_one_group"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Balls general_math stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 849,
+      "y": 137,
+      "w": 205,
+      "h": 270,
+      "landmarks": {
+        "right_eye": [
+          893,
+          251
+        ],
+        "left_eye": [
+          995,
+          245
+        ],
+        "nose": [
+          941,
+          306
+        ],
+        "mouth_right": [
+          907,
+          339
+        ],
+        "mouth_left": [
+          1002,
+          332
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "sibling",
+      "x": 316,
+      "y": 104,
+      "w": 215,
+      "h": 291,
+      "landmarks": {
+        "right_eye": [
+          379,
+          218
+        ],
+        "left_eye": [
+          483,
+          225
+        ],
+        "nose": [
+          430,
+          284
+        ],
+        "mouth_right": [
+          374,
+          312
+        ],
+        "mouth_left": [
+          473,
+          319
+        ]
+      },
+      "confidence": 0.95
+    }
+  ]
+}

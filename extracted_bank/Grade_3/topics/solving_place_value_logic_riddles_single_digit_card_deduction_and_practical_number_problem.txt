@@ -1,0 +1,68 @@
+=== Topic: Solving place value logic riddles, single-digit card deduction, and practical number problems ===
+Domain: Number and Place Value
+
+--- Place value logic riddles ---
+
+Question 1: I am a 3-digit number. My hundreds digit is 4. My tens digit is 3 more than my hundreds digit. My ones digit is 2 less than my hundreds digit. What number am I?
+Answer: 472
+Working: The hundreds digit is 4. The tens digit is 4 + 3 = 7. The ones digit is 4 - 2 = 2. Putting the digits together gives 472.
+
+Question 2: I am a 3-digit number between 300 and 400. My tens digit is double my hundreds digit. The sum of all three digits is 11. What number am I?
+Answer: 362
+Working: The number is between 300 and 400, so the hundreds digit is 3. The tens digit is double 3, which is 6. The sum of the digits is 11, so the ones digit is 11 - (3 + 6) = 11 - 9 = 2. The number is 362.
+
+Question 3: I am a 3-digit multiple of 50. I am greater than 400 and less than 600. The sum of my three digits is 9. What number am I?
+Answer: 450
+Working: The multiples of 50 strictly between 400 and 600 are 450, 500, and 550. Sum of digits for 450 is 4 + 5 + 0 = 9. Sum for 500 is 5. Sum for 550 is 10. Therefore, the number is 450.
+
+Question 4: I am a 3-digit number. My tens digit is 8. My hundreds digit is half of my tens digit. My ones digit is 0. What number do you get if you add 100 to me?
+Answer: 580
+Working: The tens digit is 8. The hundreds digit is 8 ÷ 2 = 4. The ones digit is 0. The starting number is 480. Adding 100 gives 480 + 100 = 580.
+
+Question 5: A number has 6 hundreds, 0 tens, and some ones. It is an odd number greater than 605 but less than 609. What is the number?
+Answer: 607
+Working: The numbers between 605 and 609 with 6 hundreds and 0 tens are 606, 607, and 608. Of these, only 607 is an odd number.
+
+--- Single-digit card deduction ---
+
+Question 6: Sam has three digit cards: 4, 7, and 2. He uses each card once to make the largest possible 3-digit number. What number does he make?
+Answer: 742
+Working: To make the largest 3-digit number, place the digits in descending order from hundreds to ones: 7 hundreds, 4 tens, and 2 ones, making 742.
+
+Question 7: Liam has the digit cards 2, 6, and 9. He makes a 3-digit number using each card once. The tens digit is 2, and the hundreds digit is greater than the ones digit. What 3-digit number does Liam make?
+Answer: 926
+Working: The tens digit must be 2. The remaining digits for hundreds and ones are 9 and 6. Since the hundreds digit is greater than the ones digit, the hundreds digit is 9 and the ones digit is 6. The number is 926.
+
+Question 8: Holly uses the digit cards 3, 4, and 7 once each to make a 3-digit number. Her number has 4 tens and is less than 500. What number did Holly make?
+Answer: 347
+Working: The tens digit is 4. The remaining digits are 3 and 7. For the number to be less than 500, the hundreds digit must be 3. This leaves 7 for the ones place, giving 347.
+
+Question 9: Maya has four digit cards: 1, 5, 8, and 3. She chooses three cards to make the smallest possible 3-digit even number, using each chosen card once. What number does she make?
+Answer: 138
+Working: To make an even number, the ones digit must be even, so it must be 8. To make the smallest number from the remaining digits 1, 3, and 5, choose 1 for the hundreds and 3 for the tens. The number is 138.
+
+Question 10: A lock code is a 3-digit odd number made by using the digit cards 3, 5, and 8 once each. The code is between 500 and 600. What is the lock code?
+Answer: 583
+Working: The number is between 500 and 600, so the hundreds digit must be 5. The remaining cards are 3 and 8. The number is odd, so the ones digit must be 3. This leaves 8 for the tens place, giving 583.
+
+--- Practical number problems ---
+
+Question 11: A school hall has chairs arranged in groups. There are 4 stacks of 100 chairs, 3 rows of 10 chairs, and 8 individual chairs. How many chairs are in the hall altogether?
+Answer: 438
+Working: 4 stacks of 100 = 400. 3 rows of 10 = 30. 8 individual chairs = 8. Total = 400 + 30 + 8 = 438.
+
+Question 12: Farmer Joe packs eggs into crates of 100 and cartons of 10. He fills 3 full crates and 7 full cartons, and has 5 loose eggs left over. How many eggs did he pack in total?
+Answer: 375
+Working: 3 crates of 100 = 300 eggs. 7 cartons of 10 = 70 eggs. 5 loose eggs = 5 eggs. Total eggs = 300 + 70 + 5 = 375.
+
+Question 13: A post office sells stamps in sheets of 100, strips of 10, and single stamps. Priya buys 5 sheets, 0 strips, and 9 single stamps. How many stamps did Priya buy in total?
+Answer: 509
+Working: 5 sheets of 100 = 500 stamps. 0 strips of 10 = 0 stamps. 9 single stamps = 9 stamps. Total stamps = 500 + 0 + 9 = 509.
+
+Question 14: A factory has 7 bags of 100 marbles and 4 small boxes of 10 marbles. How many more marbles are needed to have 800 marbles altogether?
+Answer: 60
+Working: Current marbles = 7 × 100 + 4 × 10 = 700 + 40 = 740 marbles. Marbles needed = 800 - 740 = 60.
+
+Question 15: A library has 624 books. On Monday, the librarian adds 100 more books to the shelves. On Tuesday, she adds another 10 books. How many books are on the shelves now?
+Answer: 734
+Working: Start with 624. Adding 100 gives 624 + 100 = 724. Adding 10 gives 724 + 10 = 734.

@@ -1,0 +1,228 @@
+{
+  "stem_id": "money_coins_2p_5p_user_mother",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "two_group_add_money",
+  "question_file": "question.txt",
+  "image_file": "mother_group_a_2p_table_5p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 868,
+      "y": 339,
+      "w": 186,
+      "h": 238,
+      "landmarks": {
+        "right_eye": [
+          906,
+          432
+        ],
+        "left_eye": [
+          999,
+          424
+        ],
+        "nose": [
+          954,
+          475
+        ],
+        "mouth_right": [
+          918,
+          511
+        ],
+        "mouth_left": [
+          1005,
+          503
+        ]
+      },
+      "confidence": 0.954
+    },
+    {
+      "role": "mother",
+      "x": 386,
+      "y": 136,
+      "w": 196,
+      "h": 269,
+      "landmarks": {
+        "right_eye": [
+          457,
+          229
+        ],
+        "left_eye": [
+          551,
+          254
+        ],
+        "nose": [
+          497,
+          304
+        ],
+        "mouth_right": [
+          428,
+          316
+        ],
+        "mouth_left": [
+          521,
+          339
+        ]
+      },
+      "confidence": 0.955
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_a",
+      "owner": "child",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 2,
+      "value_pence": 2,
+      "container": "group_a",
+      "positions": [
+        {
+          "x": 918,
+          "y": 612
+        },
+        {
+          "x": 1004,
+          "y": 612
+        }
+      ]
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 1,
+      "value_pence": 5,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "7p",
+    "options": [
+      "7p",
+      "2p",
+      "5p",
+      "6p"
+    ],
+    "formula": "2p+5p",
+    "explanation": "2p + 5p = 7p"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Money/questions.txt",
+    "notes": "Money/37.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Classroom money activity with clearly separated coin groups."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Coins money stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 868,
+      "y": 339,
+      "w": 186,
+      "h": 238,
+      "landmarks": {
+        "right_eye": [
+          906,
+          432
+        ],
+        "left_eye": [
+          999,
+          424
+        ],
+        "nose": [
+          954,
+          475
+        ],
+        "mouth_right": [
+          918,
+          511
+        ],
+        "mouth_left": [
+          1005,
+          503
+        ]
+      },
+      "confidence": 0.954
+    },
+    {
+      "role": "mother",
+      "x": 386,
+      "y": 136,
+      "w": 196,
+      "h": 269,
+      "landmarks": {
+        "right_eye": [
+          457,
+          229
+        ],
+        "left_eye": [
+          551,
+          254
+        ],
+        "nose": [
+          497,
+          304
+        ],
+        "mouth_right": [
+          428,
+          316
+        ],
+        "mouth_left": [
+          521,
+          339
+        ]
+      },
+      "confidence": 0.955
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "stem_id": "mul_blocks_16_user_mother",
+  "grade": "grade_1",
+  "topic": "multiplication_and_division",
+  "layout_pattern": "mul",
+  "question_file": "question.txt",
+  "image_file": "mother_has_16_blocks.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 1056,
+      "y": 331,
+      "w": 196,
+      "h": 259,
+      "landmarks": {
+        "right_eye": [
+          1099,
+          426
+        ],
+        "left_eye": [
+          1196,
+          435
+        ],
+        "nose": [
+          1138,
+          483
+        ],
+        "mouth_right": [
+          1093,
+          512
+        ],
+        "mouth_left": [
+          1187,
+          517
+        ]
+      },
+      "confidence": 0.952
+    },
+    {
+      "role": "mother",
+      "x": 344,
+      "y": 102,
+      "w": 230,
+      "h": 283,
+      "landmarks": {
+        "right_eye": [
+          431,
+          195
+        ],
+        "left_eye": [
+          530,
+          224
+        ],
+        "nose": [
+          474,
+          272
+        ],
+        "mouth_right": [
+          401,
+          288
+        ],
+        "mouth_left": [
+          495,
+          313
+        ]
+      },
+      "confidence": 0.942
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "mother",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 16,
+      "container": "table",
+      "positions": [
+        {
+          "x": 244,
+          "y": 427
+        },
+        {
+          "x": 330,
+          "y": 427
+        },
+        {
+          "x": 416,
+          "y": 427
+        },
+        {
+          "x": 502,
+          "y": 427
+        },
+        {
+          "x": 588,
+          "y": 427
+        },
+        {
+          "x": 674,
+          "y": 427
+        },
+        {
+          "x": 244,
+          "y": 481
+        },
+        {
+          "x": 330,
+          "y": 481
+        },
+        {
+          "x": 416,
+          "y": 481
+        },
+        {
+          "x": 502,
+          "y": 481
+        },
+        {
+          "x": 588,
+          "y": 481
+        },
+        {
+          "x": 674,
+          "y": 481
+        },
+        {
+          "x": 244,
+          "y": 535
+        },
+        {
+          "x": 330,
+          "y": 535
+        },
+        {
+          "x": 416,
+          "y": 535
+        },
+        {
+          "x": 502,
+          "y": 535
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count",
+    "correct": "16",
+    "options": [
+      "16",
+      "15",
+      "17",
+      "18"
+    ],
+    "formula": "16",
+    "explanation": "There are 16 blocks."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Multiplication and Division/questions.txt",
+    "notes": "Multiplication and Division/3.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Blocks activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Blocks multiplication_and_division stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 1056,
+      "y": 331,
+      "w": 196,
+      "h": 259,
+      "landmarks": {
+        "right_eye": [
+          1099,
+          426
+        ],
+        "left_eye": [
+          1196,
+          435
+        ],
+        "nose": [
+          1138,
+          483
+        ],
+        "mouth_right": [
+          1093,
+          512
+        ],
+        "mouth_left": [
+          1187,
+          517
+        ]
+      },
+      "confidence": 0.952
+    },
+    {
+      "role": "mother",
+      "x": 344,
+      "y": 102,
+      "w": 230,
+      "h": 283,
+      "landmarks": {
+        "right_eye": [
+          431,
+          195
+        ],
+        "left_eye": [
+          530,
+          224
+        ],
+        "nose": [
+          474,
+          272
+        ],
+        "mouth_right": [
+          401,
+          288
+        ],
+        "mouth_left": [
+          495,
+          313
+        ]
+      },
+      "confidence": 0.942
+    }
+  ]
+}

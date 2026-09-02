@@ -1,0 +1,62 @@
+=== Topic: Money values, combining coins and notes to make amounts (written as £ and p) ===
+Domain: Measurement
+
+--- Money values in pounds (£) and pence (p) ---
+
+Question 1: Which has a greater value: a 20p coin or a 50p coin?
+Answer: 50p coin
+Working: 50 is greater than 20, so a 50p coin has a greater value than a 20p coin.
+
+Question 2: What is the total value of one 10p coin, one 5p coin, and one 2p coin?
+Answer: 17p
+Working: 10p + 5p = 15p, and 15p + 2p = 17p.
+
+Question 3: Write <, >, or = to complete the statement: £10 [ ] £20
+Answer: <
+Working: 10 is less than 20, so £10 < £20.
+
+Question 4: Put these coins in order from smallest value to greatest value: 50p, 5p, 20p, 2p.
+Answer: 2p, 5p, 20p, 50p
+Working: Comparing the values in pence from least to greatest gives 2p, 5p, 20p, 50p.
+
+Question 5: Jack has two £10 notes and one £5 note. What is the total value of Jack's notes?
+Answer: £25
+Working: Two £10 notes = £10 + £10 = £20. Adding the £5 note: £20 + £5 = £25.
+
+Question 6: Is one £2 coin worth more than, less than, or equal to four 50p coins?
+Answer: equal to
+Working: Four 50p coins = 50p + 50p + 50p + 50p = 200p. 200p is equal to £2. Therefore, one £2 coin is equal to four 50p coins.
+
+--- Combining coins and notes to make amounts ---
+
+Question 7: Leo has two 10p coins and one 5p coin. How much money does he have in total?
+Answer: 25p
+Working: 10p + 10p = 20p. 20p + 5p = 25p.
+
+Question 8: Zara has three £2 coins and one £1 coin. How much money does she have altogether?
+Answer: £7
+Working: Three £2 coins = £2 + £2 + £2 = £6. Adding £1: £6 + £1 = £7.
+
+Question 9: Oliver has one £10 note, one £2 coin, one 50p coin, and one 20p coin. What is the total amount of money he has?
+Answer: £12 and 70p
+Working: Pounds: £10 + £2 = £12. Pence: 50p + 20p = 70p. Total amount: £12 and 70p.
+
+Question 10: Mia has one 50p coin, two 20p coins, and one 5p coin. How much money does she have altogether?
+Answer: 95p
+Working: 50p + 20p + 20p = 90p. 90p + 5p = 95p.
+
+Question 11: Ben has two £5 notes, one £1 coin, and one 10p coin. How much money does he have altogether?
+Answer: £11 and 10p
+Working: Pounds: £5 + £5 = £10. £10 + £1 = £11. Pence: 10p. Total: £11 and 10p.
+
+Question 12: Lucas wants to make 35p. He has one 20p coin and one 10p coin. Which coin does he need to add to make exactly 35p?
+Answer: 5p
+Working: 20p + 10p = 30p. 35p - 30p = 5p, so he needs a 5p coin.
+
+Question 13: Hannah has £15 and 60p. She has one £10 note, one £5 note, and one 50p coin. Which coin is missing to make her total?
+Answer: 10p
+Working: £10 + £5 = £15. Her pence amount is 50p. To make 60p: 60p - 50p = 10p, so the missing coin is a 10p coin.
+
+Question 14: Amira has one £20 note, two £2 coins, three 10p coins, and two 2p coins. How much money does she have in total?
+Answer: £24 and 34p
+Working: Pounds: £20 + £2 + £2 = £24. Pence: (3 × 10p) + (2 × 2p) = 30p + 4p = 34p. Total = £24 and 34p.

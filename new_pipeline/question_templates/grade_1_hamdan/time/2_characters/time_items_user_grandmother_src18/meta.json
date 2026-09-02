@@ -1,0 +1,186 @@
+{
+  "stem_id": "time_items_user_grandmother",
+  "grade": "grade_1",
+  "topic": "time",
+  "layout_pattern": "time",
+  "question_file": "question.txt",
+  "image_file": "grandmother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste child + grandmother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 190,
+      "y": 243,
+      "w": 183,
+      "h": 242,
+      "landmarks": {
+        "right_eye": [
+          247,
+          333
+        ],
+        "left_eye": [
+          337,
+          331
+        ],
+        "nose": [
+          302,
+          381
+        ],
+        "mouth_right": [
+          252,
+          415
+        ],
+        "mouth_left": [
+          336,
+          413
+        ]
+      },
+      "confidence": 0.954
+    },
+    {
+      "role": "grandmother",
+      "x": 1023,
+      "y": 165,
+      "w": 204,
+      "h": 271,
+      "landmarks": {
+        "right_eye": [
+          1067,
+          278
+        ],
+        "left_eye": [
+          1161,
+          263
+        ],
+        "nose": [
+          1118,
+          323
+        ],
+        "mouth_right": [
+          1089,
+          366
+        ],
+        "mouth_left": [
+          1175,
+          353
+        ]
+      },
+      "confidence": 0.937
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "other",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Time/questions.txt",
+    "notes": "Time/18.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Items activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 190,
+      "y": 243,
+      "w": 183,
+      "h": 242,
+      "landmarks": {
+        "right_eye": [
+          247,
+          333
+        ],
+        "left_eye": [
+          337,
+          331
+        ],
+        "nose": [
+          302,
+          381
+        ],
+        "mouth_right": [
+          252,
+          415
+        ],
+        "mouth_left": [
+          336,
+          413
+        ]
+      },
+      "confidence": 0.954
+    },
+    {
+      "role": "grandmother",
+      "x": 1023,
+      "y": 165,
+      "w": 204,
+      "h": 271,
+      "landmarks": {
+        "right_eye": [
+          1067,
+          278
+        ],
+        "left_eye": [
+          1161,
+          263
+        ],
+        "nose": [
+          1118,
+          323
+        ],
+        "mouth_right": [
+          1089,
+          366
+        ],
+        "mouth_left": [
+          1175,
+          353
+        ]
+      },
+      "confidence": 0.937
+    }
+  ]
+}

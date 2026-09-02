@@ -1,0 +1,126 @@
+###################################
+Fraction equivalence using diagrams, bar models, and simplest forms
+###################################
+
+--- Fraction equivalence using diagrams ---
+
+1. Look at the picture! {user_name} is looking at this.
+A circle is divided into 2 equal parts and 1 part is shaded to show 1/2. An identical circle is divided into 4 equal parts. How many parts must be shaded to show the same fraction?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A circle is divided into 2 equal parts and 1 part is shaded to show 1/2. An identical circle is divided into 4 equal parts. How many parts must be shaded to show the same fraction?
+
+3. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A circle is divided into 2 equal parts and 1 part is shaded to show 1/2. An identical circle is divided into 4 equal parts. How many parts must be shaded to show the same fraction?
+
+4. Look at the picture! {user_name} is looking at this.
+A square diagram is divided into 3 equal columns, and 1 column is shaded. Another identical square is divided into 6 equal parts. How many parts must be shaded so that the fraction shaded is equivalent to 1/3?
+
+5. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A square diagram is divided into 3 equal columns, and 1 column is shaded. Another identical square is divided into 6 equal parts. How many parts must be shaded so that the fraction shaded is equivalent to 1/3?
+
+6. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A square diagram is divided into 3 equal columns, and 1 column is shaded. Another identical square is divided into 6 equal parts. How many parts must be shaded so that the fraction shaded is equivalent to 1/3?
+
+7. Look at the picture! {user_name} is looking at this.
+A rectangle is divided into 8 equal parts. 4 of the parts are shaded. What fraction with a denominator of 2 is equivalent to the shaded fraction?
+
+8. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A rectangle is divided into 8 equal parts. 4 of the parts are shaded. What fraction with a denominator of 2 is equivalent to the shaded fraction?
+
+9. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A rectangle is divided into 8 equal parts. 4 of the parts are shaded. What fraction with a denominator of 2 is equivalent to the shaded fraction?
+
+10. Look at the picture! {user_name} is looking at this.
+A paper strip is folded into 10 equal parts and 6 parts are shaded. An identical paper strip is folded into 5 equal parts. How many parts must be shaded to show the equivalent fraction?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A paper strip is folded into 10 equal parts and 6 parts are shaded. An identical paper strip is folded into 5 equal parts. How many parts must be shaded to show the equivalent fraction?
+
+12. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A paper strip is folded into 10 equal parts and 6 parts are shaded. An identical paper strip is folded into 5 equal parts. How many parts must be shaded to show the equivalent fraction?
+
+--- Fraction equivalence using bar models ---
+
+13. Look at the picture! {user_name} is looking at this.
+Two bar models have the same total length. The first bar model is split into 4 equal parts with 2 parts shaded. The second bar model is split into 8 equal parts. How many parts must be shaded on the second bar model to equal 2/4?
+
+14. Look at the picture! {user_name} and {father_name} are looking at this together.
+Two bar models have the same total length. The first bar model is split into 4 equal parts with 2 parts shaded. The second bar model is split into 8 equal parts. How many parts must be shaded on the second bar model to equal 2/4?
+
+15. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Two bar models have the same total length. The first bar model is split into 4 equal parts with 2 parts shaded. The second bar model is split into 8 equal parts. How many parts must be shaded on the second bar model to equal 2/4?
+
+16. Look at the picture! {user_name} is looking at this.
+Bar Model A is split into 3 equal blocks with 2 blocks shaded to represent 2/3. Bar Model B is the same length but split into 6 equal blocks. How many blocks must be shaded in Bar Model B to show an equivalent fraction?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together.
+Bar Model A is split into 3 equal blocks with 2 blocks shaded to represent 2/3. Bar Model B is the same length but split into 6 equal blocks. How many blocks must be shaded in Bar Model B to show an equivalent fraction?
+
+18. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Bar Model A is split into 3 equal blocks with 2 blocks shaded to represent 2/3. Bar Model B is the same length but split into 6 equal blocks. How many blocks must be shaded in Bar Model B to show an equivalent fraction?
+
+19. Look at the picture! {user_name} is looking at this.
+On a fraction wall, a bar of 1 whole is divided into 5 equal parts, and 2 parts are shaded (2/5). An identical bar below it is divided into tenths. How many tenths are equal in length to 2/5?
+
+20. Look at the picture! {user_name} and {father_name} are looking at this together.
+On a fraction wall, a bar of 1 whole is divided into 5 equal parts, and 2 parts are shaded (2/5). An identical bar below it is divided into tenths. How many tenths are equal in length to 2/5?
+
+21. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+On a fraction wall, a bar of 1 whole is divided into 5 equal parts, and 2 parts are shaded (2/5). An identical bar below it is divided into tenths. How many tenths are equal in length to 2/5?
+
+22. Look at the picture! {user_name} is looking at this.
+A bar model of length 1 whole is split into 8 equal parts, and 6 parts are shaded. Another bar model of the same length is split into 4 equal parts. What fraction of the second bar model has the same shaded length?
+
+23. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A bar model of length 1 whole is split into 8 equal parts, and 6 parts are shaded. Another bar model of the same length is split into 4 equal parts. What fraction of the second bar model has the same shaded length?
+
+24. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A bar model of length 1 whole is split into 8 equal parts, and 6 parts are shaded. Another bar model of the same length is split into 4 equal parts. What fraction of the second bar model has the same shaded length?
+
+--- Fraction equivalence using simplest forms ---
+
+25. Look at the picture! {user_name} is looking at this.
+Write the fraction 2/4 in its simplest form.
+
+26. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Write the fraction 2/4 in its simplest form.
+
+27. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Write the fraction 2/4 in its simplest form.
+
+28. Look at the picture! {user_name} is looking at this.
+Write the fraction 2/6 in its simplest form.
+
+29. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Write the fraction 2/6 in its simplest form.
+
+30. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Write the fraction 2/6 in its simplest form.
+
+31. Look at the picture! {user_name} is looking at this.
+Write the fraction 4/8 in its simplest form.
+
+32. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the fraction 4/8 in its simplest form.
+
+33. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Write the fraction 4/8 in its simplest form.
+
+34. Look at the picture! {user_name} is looking at this.
+Write the fraction 6/8 in its simplest form.
+
+35. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the fraction 6/8 in its simplest form.
+
+36. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Write the fraction 6/8 in its simplest form.
+
+37. Look at the picture! {user_name} is looking at this.
+Write the fraction 4/10 in its simplest form.
+
+38. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Write the fraction 4/10 in its simplest form.
+
+39. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Write the fraction 4/10 in its simplest form.

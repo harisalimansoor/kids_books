@@ -1,0 +1,10 @@
+###################################
+Partition, compose, and decompose numbers within 100 (including tens and ones and teen "ten and a bit")
+###################################
+Domain: Number and Place Value
+
+1. Partition and compose numbers into tens and ones
+   From: tens and ones
+
+2. Teen numbers as ten and a bit
+   From: teen "ten and a bit"

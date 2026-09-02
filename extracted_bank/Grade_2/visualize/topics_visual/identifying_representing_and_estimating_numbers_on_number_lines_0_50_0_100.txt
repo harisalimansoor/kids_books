@@ -1,0 +1,144 @@
+###################################
+Identifying, representing, and estimating numbers on number lines (0–50, 0–100)
+###################################
+
+--- Identifying numbers on number lines ---
+
+1. Look at the picture! {user_name} is looking at this.
+A number line starts at 0 and ends at 20 with tick marks counting up in 2s. What number is on the tick mark directly between 12 and 16?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+A number line starts at 0 and ends at 20 with tick marks counting up in 2s. What number is on the tick mark directly between 12 and 16?
+
+3. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A number line starts at 0 and ends at 20 with tick marks counting up in 2s. What number is on the tick mark directly between 12 and 16?
+
+4. Look at the picture! {user_name} is looking at this.
+A number line starts at 0 and ends at 50. It is divided into 5 equal sections with tick marks at 10, 20, 30, 40, and 50. What number is at the second tick mark after 0?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A number line starts at 0 and ends at 50. It is divided into 5 equal sections with tick marks at 10, 20, 30, 40, and 50. What number is at the second tick mark after 0?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A number line starts at 0 and ends at 50. It is divided into 5 equal sections with tick marks at 10, 20, 30, 40, and 50. What number is at the second tick mark after 0?
+
+7. Look at the picture! {user_name} is looking at this.
+A number line goes from 0 to 100 with tick marks every 10. An arrow points to the tick mark that is 3 steps of 10 after 40. What number does the arrow point to?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A number line goes from 0 to 100 with tick marks every 10. An arrow points to the tick mark that is 3 steps of 10 after 40. What number does the arrow point to?
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A number line goes from 0 to 100 with tick marks every 10. An arrow points to the tick mark that is 3 steps of 10 after 40. What number does the arrow point to?
+
+10. Look at the picture! {user_name} is looking at this.
+A number line starts at 0 and ends at 50 with tick marks counting up in 5s. What number is 2 marks before 35?
+
+11. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A number line starts at 0 and ends at 50 with tick marks counting up in 5s. What number is 2 marks before 35?
+
+12. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A number line starts at 0 and ends at 50 with tick marks counting up in 5s. What number is 2 marks before 35?
+
+13. Look at the picture! {user_name} is looking at this.
+A number line starts at 20 and ends at 30 with tick marks counting in ones. What number is exactly halfway between 20 and 30?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A number line starts at 20 and ends at 30 with tick marks counting in ones. What number is exactly halfway between 20 and 30?
+
+15. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+A number line starts at 20 and ends at 30 with tick marks counting in ones. What number is exactly halfway between 20 and 30?
+
+--- Representing numbers on number lines ---
+
+16. Look at the picture! {user_name} is looking at this.
+A frog starts at 0 on a number line and makes 4 jumps of 10 forward. What number does the frog land on?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A frog starts at 0 on a number line and makes 4 jumps of 10 forward. What number does the frog land on?
+
+18. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A frog starts at 0 on a number line and makes 4 jumps of 10 forward. What number does the frog land on?
+
+19. Look at the picture! {user_name} is looking at this.
+To show the number 36 on a number line, Ben starts at 30 and jumps forward in ones. How many jumps of 1 must Ben make to reach 36?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+To show the number 36 on a number line, Ben starts at 30 and jumps forward in ones. How many jumps of 1 must Ben make to reach 36?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+To show the number 36 on a number line, Ben starts at 30 and jumps forward in ones. How many jumps of 1 must Ben make to reach 36?
+
+22. Look at the picture! {user_name} is looking at this.
+A number line has marks counting in 5s from 0 to 50. How many jumps of 5 are needed to go from 0 to 45?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A number line has marks counting in 5s from 0 to 50. How many jumps of 5 are needed to go from 0 to 45?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A number line has marks counting in 5s from 0 to 50. How many jumps of 5 are needed to go from 0 to 45?
+
+25. Look at the picture! {user_name} is looking at this.
+Maya starts at 70 on a number line and makes 3 jumps of 10 backwards. What number does Maya land on?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Maya starts at 70 on a number line and makes 3 jumps of 10 backwards. What number does Maya land on?
+
+27. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Maya starts at 70 on a number line and makes 3 jumps of 10 backwards. What number does Maya land on?
+
+28. Look at the picture! {user_name} is looking at this.
+Sam wants to show 48 on an empty number line. He starts at 40, makes 1 jump of 10 forward to 50, and then jumps backwards. How many jumps of 1 must Sam make backwards from 50 to land on 48?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+Sam wants to show 48 on an empty number line. He starts at 40, makes 1 jump of 10 forward to 50, and then jumps backwards. How many jumps of 1 must Sam make backwards from 50 to land on 48?
+
+30. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Sam wants to show 48 on an empty number line. He starts at 40, makes 1 jump of 10 forward to 50, and then jumps backwards. How many jumps of 1 must Sam make backwards from 50 to land on 48?
+
+--- Estimating numbers on number lines ---
+
+31. Look at the picture! {user_name} is looking at this.
+An empty number line starts at 0 and ends at 100. A point is marked exactly halfway between 0 and 100. What number does this point show?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+An empty number line starts at 0 and ends at 100. A point is marked exactly halfway between 0 and 100. What number does this point show?
+
+33. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+An empty number line starts at 0 and ends at 100. A point is marked exactly halfway between 0 and 100. What number does this point show?
+
+34. Look at the picture! {user_name} is looking at this.
+An empty number line starts at 0 and ends at 50. A point is placed exactly halfway between 0 and 50. What number is at this halfway point?
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An empty number line starts at 0 and ends at 50. A point is placed exactly halfway between 0 and 50. What number is at this halfway point?
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+An empty number line starts at 0 and ends at 50. A point is placed exactly halfway between 0 and 50. What number is at this halfway point?
+
+37. Look at the picture! {user_name} is looking at this.
+An empty number line starts at 0 and ends at 100, with 50 marked in the middle. A point is marked halfway between 50 and 100. What number does this point represent?
+
+38. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+An empty number line starts at 0 and ends at 100, with 50 marked in the middle. A point is marked halfway between 50 and 100. What number does this point represent?
+
+39. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+An empty number line starts at 0 and ends at 100, with 50 marked in the middle. A point is marked halfway between 50 and 100. What number does this point represent?
+
+40. Look at the picture! {user_name} is looking at this.
+An empty number line starts at 0 and ends at 100, with 50 marked in the middle. A point is marked halfway between 0 and 50. What number does this point represent?
+
+41. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+An empty number line starts at 0 and ends at 100, with 50 marked in the middle. A point is marked halfway between 0 and 50. What number does this point represent?
+
+42. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+An empty number line starts at 0 and ends at 100, with 50 marked in the middle. A point is marked halfway between 0 and 50. What number does this point represent?
+
+43. Look at the picture! {user_name} is looking at this.
+An empty number line starts at 0 and ends at 50. A mark is placed very close to 50, just before the end. Which number is the best estimate: 12, 26, or 48?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+An empty number line starts at 0 and ends at 50. A mark is placed very close to 50, just before the end. Which number is the best estimate: 12, 26, or 48?
+
+45. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+An empty number line starts at 0 and ends at 50. A mark is placed very close to 50, just before the end. Which number is the best estimate: 12, 26, or 48?

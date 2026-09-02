@@ -1,0 +1,184 @@
+{
+  "stem_id": "other_items_user",
+  "grade": "grade_1",
+  "topic": "number_and_place_value",
+  "layout_pattern": "other",
+  "question_file": "question.txt",
+  "image_file": "items.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 943,
+      "y": 237,
+      "w": 176,
+      "h": 233,
+      "landmarks": {
+        "right_eye": [
+          983,
+          330
+        ],
+        "left_eye": [
+          1071,
+          323
+        ],
+        "nose": [
+          1031,
+          375
+        ],
+        "mouth_right": [
+          996,
+          408
+        ],
+        "mouth_left": [
+          1078,
+          400
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "sibling",
+      "x": 382,
+      "y": 201,
+      "w": 182,
+      "h": 234,
+      "landmarks": {
+        "right_eye": [
+          433,
+          285
+        ],
+        "left_eye": [
+          522,
+          290
+        ],
+        "nose": [
+          477,
+          340
+        ],
+        "mouth_right": [
+          431,
+          367
+        ],
+        "mouth_left": [
+          513,
+          371
+        ]
+      },
+      "confidence": 0.948
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "sequence",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": "Answer depends on the pictured sequence."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Number and Place Value/questions.txt",
+    "notes": "Number and Place Value/14.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Items activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 943,
+      "y": 237,
+      "w": 176,
+      "h": 233,
+      "landmarks": {
+        "right_eye": [
+          983,
+          330
+        ],
+        "left_eye": [
+          1071,
+          323
+        ],
+        "nose": [
+          1031,
+          375
+        ],
+        "mouth_right": [
+          996,
+          408
+        ],
+        "mouth_left": [
+          1078,
+          400
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "sibling",
+      "x": 382,
+      "y": 201,
+      "w": 182,
+      "h": 234,
+      "landmarks": {
+        "right_eye": [
+          433,
+          285
+        ],
+        "left_eye": [
+          522,
+          290
+        ],
+        "nose": [
+          477,
+          340
+        ],
+        "mouth_right": [
+          431,
+          367
+        ],
+        "mouth_left": [
+          513,
+          371
+        ]
+      },
+      "confidence": 0.948
+    }
+  ]
+}

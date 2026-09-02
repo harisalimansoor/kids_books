@@ -1,0 +1,178 @@
+###################################
+Add three single-digit numbers using bonds to 10 and doubles
+###################################
+
+--- Adding three single-digit numbers using bonds to 10 ---
+
+1. Look at the picture! {user_name} is looking at this.
+Work out 7 + 3 + 4.
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Work out 7 + 3 + 4.
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Work out 7 + 3 + 4.
+
+4. Look at the picture! {user_name} is looking at this.
+Work out 8 + 2 + 5.
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Work out 8 + 2 + 5.
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Work out 8 + 2 + 5.
+
+7. Look at the picture! {user_name} is looking at this.
+Work out 1 + 9 + 6.
+
+8. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Work out 1 + 9 + 6.
+
+9. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Work out 1 + 9 + 6.
+
+10. Look at the picture! {user_name} is looking at this.
+Work out 6 + 7 + 4.
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Work out 6 + 7 + 4.
+
+12. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Work out 6 + 7 + 4.
+
+13. Look at the picture! {user_name} is looking at this.
+Work out 8 + 9 + 2.
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Work out 8 + 9 + 2.
+
+15. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Work out 8 + 9 + 2.
+
+16. Look at the picture! {user_name} is looking at this.
+Ben has 5 red apples, 3 green apples, and 5 yellow apples. How many apples does Ben have altogether?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Ben has 5 red apples, 3 green apples, and 5 yellow apples. How many apples does Ben have altogether?
+
+18. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Ben has 5 red apples, 3 green apples, and 5 yellow apples. How many apples does Ben have altogether?
+
+19. Look at the picture! {user_name} is looking at this.
+Clara picks 4 strawberries, 8 raspberries, and 6 blackberries. How many berries does Clara pick in total?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Clara picks 4 strawberries, 8 raspberries, and 6 blackberries. How many berries does Clara pick in total?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Clara picks 4 strawberries, 8 raspberries, and 6 blackberries. How many berries does Clara pick in total?
+
+22. Look at the picture! {user_name} is looking at this.
+Find the missing number: 3 + [ ] + 7 = 18.
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+Find the missing number: 3 + [ ] + 7 = 18.
+
+24. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing number: 3 + [ ] + 7 = 18.
+
+25. Look at the picture! {user_name} is looking at this.
+Amy rolls a 9, Bilal rolls a 4, and Charlie rolls a 1 on their dice. What is the total score of all three dice?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Amy rolls a 9, Bilal rolls a 4, and Charlie rolls a 1 on their dice. What is the total score of all three dice?
+
+27. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Amy rolls a 9, Bilal rolls a 4, and Charlie rolls a 1 on their dice. What is the total score of all three dice?
+
+--- Adding three single-digit numbers using doubles ---
+
+28. Look at the picture! {user_name} is looking at this.
+Work out 4 + 4 + 3.
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+Work out 4 + 4 + 3.
+
+30. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Work out 4 + 4 + 3.
+
+31. Look at the picture! {user_name} is looking at this.
+Work out 3 + 3 + 5.
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Work out 3 + 3 + 5.
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Work out 3 + 3 + 5.
+
+34. Look at the picture! {user_name} is looking at this.
+Work out 6 + 6 + 2.
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Work out 6 + 6 + 2.
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Work out 6 + 6 + 2.
+
+37. Look at the picture! {user_name} is looking at this.
+Work out 7 + 5 + 7.
+
+38. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Work out 7 + 5 + 7.
+
+39. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Work out 7 + 5 + 7.
+
+40. Look at the picture! {user_name} is looking at this.
+Work out 8 + 3 + 8.
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Work out 8 + 3 + 8.
+
+42. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Work out 8 + 3 + 8.
+
+43. Look at the picture! {user_name} is looking at this.
+Lily has 5 stickers in her book, 5 stickers on her pencil case, and 7 stickers on her folder. How many stickers does Lily have in total?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Lily has 5 stickers in her book, 5 stickers on her pencil case, and 7 stickers on her folder. How many stickers does Lily have in total?
+
+45. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+Lily has 5 stickers in her book, 5 stickers on her pencil case, and 7 stickers on her folder. How many stickers does Lily have in total?
+
+46. Look at the picture! {user_name} is looking at this.
+A farmer counts 6 sheep in the barn, 6 sheep in the field, and 5 sheep on the hill. How many sheep are there altogether?
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A farmer counts 6 sheep in the barn, 6 sheep in the field, and 5 sheep on the hill. How many sheep are there altogether?
+
+48. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A farmer counts 6 sheep in the barn, 6 sheep in the field, and 5 sheep on the hill. How many sheep are there altogether?
+
+49. Look at the picture! {user_name} is looking at this.
+Double 9 is 18. Use this fact to work out 9 + 4 + 9.
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Double 9 is 18. Use this fact to work out 9 + 4 + 9.
+
+51. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Double 9 is 18. Use this fact to work out 9 + 4 + 9.
+
+52. Look at the picture! {user_name} is looking at this.
+Find the missing number: [ ] + 4 + 4 = 15.
+
+53. Look at the picture! {user_name} and {father_name} are looking at this together.
+Find the missing number: [ ] + 4 + 4 = 15.
+
+54. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Find the missing number: [ ] + 4 + 4 = 15.
+
+55. Look at the picture! {user_name} is looking at this.
+A toy box contains 8 green cars, 3 blue cars, and 8 red cars. How many cars are in the toy box altogether?
+
+56. Look at the picture! {user_name} and {father_name} are looking at this together.
+A toy box contains 8 green cars, 3 blue cars, and 8 red cars. How many cars are in the toy box altogether?
+
+57. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A toy box contains 8 green cars, 3 blue cars, and 8 red cars. How many cars are in the toy box altogether?

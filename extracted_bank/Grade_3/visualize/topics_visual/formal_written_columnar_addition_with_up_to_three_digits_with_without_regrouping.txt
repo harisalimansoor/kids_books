@@ -1,0 +1,169 @@
+###################################
+Formal written columnar addition with up to three digits (with/without regrouping)
+###################################
+
+--- Column addition without regrouping ---
+
+1. Look at the picture! {user_name} is looking at this.
+Use column addition to calculate: 234 + 153
+
+2. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Use column addition to calculate: 234 + 153
+
+3. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Use column addition to calculate: 234 + 153
+
+4. Look at the picture! {user_name} is looking at this.
+Use column addition to calculate: 425 + 53
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Use column addition to calculate: 425 + 53
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Use column addition to calculate: 425 + 53
+
+7. Look at the picture! {user_name} is looking at this.
+A school library has 312 story books and 265 information books. How many books are there in total?
+
+8. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A school library has 312 story books and 265 information books. How many books are there in total?
+
+9. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A school library has 312 story books and 265 information books. How many books are there in total?
+
+10. Look at the picture! {user_name} is looking at this.
+Class 3A collects 143 stickers. Class 3B collects 234 stickers. How many stickers do both classes collect altogether?
+
+11. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Class 3A collects 143 stickers. Class 3B collects 234 stickers. How many stickers do both classes collect altogether?
+
+12. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Class 3A collects 143 stickers. Class 3B collects 234 stickers. How many stickers do both classes collect altogether?
+
+13. Look at the picture! {user_name} is looking at this.
+In the column addition 3[?]4 + 215 = 569, what digit does [?] stand for?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In the column addition 3[?]4 + 215 = 569, what digit does [?] stand for?
+
+15. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+In the column addition 3[?]4 + 215 = 569, what digit does [?] stand for?
+
+16. Look at the picture! {user_name} is looking at this.
+Use column addition to calculate: 512 + 246
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Use column addition to calculate: 512 + 246
+
+18. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Use column addition to calculate: 512 + 246
+
+19. Look at the picture! {user_name} is looking at this.
+In the column addition 432 + 35[?] = 789, what digit does [?] stand for?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In the column addition 432 + 35[?] = 789, what digit does [?] stand for?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+In the column addition 432 + 35[?] = 789, what digit does [?] stand for?
+
+22. Look at the picture! {user_name} is looking at this.
+A baker has 320 g of white flour and 165 g of wholemeal flour. How many grams of flour does the baker have altogether?
+
+23. Look at the picture! {user_name} and {father_name} are looking at this together.
+A baker has 320 g of white flour and 165 g of wholemeal flour. How many grams of flour does the baker have altogether?
+
+24. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+A baker has 320 g of white flour and 165 g of wholemeal flour. How many grams of flour does the baker have altogether?
+
+--- Column addition with regrouping ---
+
+25. Look at the picture! {user_name} is looking at this.
+Use column addition to calculate: 248 + 137
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+Use column addition to calculate: 248 + 137
+
+27. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+Use column addition to calculate: 248 + 137
+
+28. Look at the picture! {user_name} is looking at this.
+Use column addition to calculate: 382 + 173
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+Use column addition to calculate: 382 + 173
+
+30. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+Use column addition to calculate: 382 + 173
+
+31. Look at the picture! {user_name} is looking at this.
+Use column addition to calculate: 458 + 27
+
+32. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Use column addition to calculate: 458 + 27
+
+33. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Use column addition to calculate: 458 + 27
+
+34. Look at the picture! {user_name} is looking at this.
+Use column addition to calculate: 368 + 257
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Use column addition to calculate: 368 + 257
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+Use column addition to calculate: 368 + 257
+
+37. Look at the picture! {user_name} is looking at this.
+Use column addition to calculate: 587 + 345
+
+38. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+Use column addition to calculate: 587 + 345
+
+39. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+Use column addition to calculate: 587 + 345
+
+40. Look at the picture! {user_name} is looking at this.
+On Saturday, 348 people visited a museum. On Sunday, 275 people visited. How many people visited the museum over the weekend altogether?
+
+41. Look at the picture! {user_name} and {mother_name} are looking at this together.
+On Saturday, 348 people visited a museum. On Sunday, 275 people visited. How many people visited the museum over the weekend altogether?
+
+42. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+On Saturday, 348 people visited a museum. On Sunday, 275 people visited. How many people visited the museum over the weekend altogether?
+
+43. Look at the picture! {user_name} is looking at this.
+In the column addition 258 + 16[?] = 425, what digit does [?] stand for?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In the column addition 258 + 16[?] = 425, what digit does [?] stand for?
+
+45. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+In the column addition 258 + 16[?] = 425, what digit does [?] stand for?
+
+46. Look at the picture! {user_name} is looking at this.
+In the column addition 3[?]7 + 284 = 671, what digit does [?] stand for?
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+In the column addition 3[?]7 + 284 = 671, what digit does [?] stand for?
+
+48. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+In the column addition 3[?]7 + 284 = 671, what digit does [?] stand for?
+
+49. Look at the picture! {user_name} is looking at this.
+A runner ran 375 metres in the morning and 468 metres in the afternoon. What total distance did she run in metres?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A runner ran 375 metres in the morning and 468 metres in the afternoon. What total distance did she run in metres?
+
+51. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+A runner ran 375 metres in the morning and 468 metres in the afternoon. What total distance did she run in metres?
+
+52. Look at the picture! {user_name} is looking at this.
+Use column addition to calculate: 196 + 538
+
+53. Look at the picture! {user_name} and {father_name} are looking at this together.
+Use column addition to calculate: 196 + 538
+
+54. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Use column addition to calculate: 196 + 538

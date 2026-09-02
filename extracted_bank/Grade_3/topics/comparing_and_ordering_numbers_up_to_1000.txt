@@ -1,0 +1,70 @@
+=== Topic: Comparing and ordering numbers up to 1000 ===
+Domain: Number and Place Value
+
+--- Comparing numbers up to 1000 ---
+
+Question 1: Write the correct symbol, < or >, to make this statement true: 348 [?] 384
+Answer: <
+Working: Both numbers have 3 hundreds. Compare the tens: 4 tens is less than 8 tens, so 348 < 384.
+
+Question 2: Which number is greater: 507 or 570?
+Answer: 570
+Working: Both have 5 hundreds. 570 has 7 tens while 507 has 0 tens. Therefore, 570 is greater.
+
+Question 3: Write <, > or = to make the statement true: 4 hundreds + 6 tens + 2 ones [?] 400 + 70 + 1
+Answer: <
+Working: 4 hundreds + 6 tens + 2 ones = 462. 400 + 70 + 1 = 471. 462 is less than 471, so the symbol is <.
+
+Question 4: Oak Class collected 615 cans for recycling. Elm Class collected 598 cans. Which class collected more cans?
+Answer: Oak Class
+Working: Compare the hundreds: 615 has 6 hundreds and 598 has 5 hundreds. 615 > 598, so Oak Class collected more.
+
+Question 5: Write the missing whole number to make the statement true: 529 < ___ < 531
+Answer: 530
+Working: The whole number greater than 529 and less than 531 is 530.
+
+Question 6: Sam uses the digit cards 3, 7, and 5 once each to make a 3-digit number. What is the greatest 3-digit number Sam can make?
+Answer: 753
+Working: To make the greatest number, place the largest digit in the hundreds column (7), the next in the tens column (5), and the smallest in the ones column (3) to get 753.
+
+Question 7: Write the correct symbol, <, > or =, to make this statement true: 8 hundreds + 14 ones [?] 800 + 10 + 4
+Answer: =
+Working: 8 hundreds + 14 ones = 800 + 14 = 814. 800 + 10 + 4 = 814. Both sides are equal to 814, so the symbol is =.
+
+Question 8: A runner ran 845 metres on Saturday and 854 metres on Sunday. On which day did the runner run the greater distance?
+Answer: Sunday
+Working: Both numbers have 8 hundreds. 854 has 5 tens while 845 has 4 tens. 854 is greater than 845, so the runner ran further on Sunday.
+
+--- Ordering numbers up to 1000 ---
+
+Question 9: Write these numbers in order, starting with the smallest: 245, 189, 312
+Answer: 189, 245, 312
+Working: Compare hundreds: 189 has 1 hundred, 245 has 2 hundreds, 312 has 3 hundreds. In order from smallest: 189, 245, 312.
+
+Question 10: Write these numbers in order, starting with the greatest: 670, 760, 607
+Answer: 760, 670, 607
+Working: 760 has 7 hundreds (greatest). For 670 and 607, both have 6 hundreds, but 670 has 7 tens and 607 has 0 tens. Greatest to smallest: 760, 670, 607.
+
+Question 11: Order these numbers from smallest to greatest: 509, 590, 499, 519
+Answer: 499, 509, 519, 590
+Working: 499 is the smallest (4 hundreds). The remaining numbers have 5 hundreds: 509 (0 tens), 519 (1 ten), 590 (9 tens). Smallest to greatest: 499, 509, 519, 590.
+
+Question 12: Four children scored points in a game: Maya scored 340, Leo scored 430, Amir scored 304, and Sara scored 403. Who scored the fewest points?
+Answer: Amir
+Working: Compare hundreds: 340 and 304 both have 3 hundreds. 304 has 0 tens and 340 has 4 tens. 304 is the lowest score, so Amir scored the fewest points.
+
+Question 13: Order these numbers from greatest to smallest: 825, 852, 285, 582
+Answer: 852, 825, 582, 285
+Working: Compare hundreds: 852 and 825 have 8 hundreds (852 > 825), then 582 (5 hundreds), then 285 (2 hundreds). Ordered from greatest to smallest: 852, 825, 582, 285.
+
+Question 14: Here are four values: 600 + 30 + 5, six hundred and fifty-three, 630, and 600 + 5. Write them as digits in order from smallest to greatest.
+Answer: 605, 630, 635, 653
+Working: Convert each value to digits: 600 + 30 + 5 = 635; six hundred and fifty-three = 653; 630; 600 + 5 = 605. Ordered from smallest to greatest: 605, 630, 635, 653.
+
+Question 15: Using the digits 2, 6, and 9 once each, make the smallest possible 3-digit number.
+Answer: 269
+Working: To make the smallest number, place the smallest digit in the hundreds column (2), the next smallest in the tens column (6), and the largest in the ones column (9) to make 269.
+
+Question 16: Three schools have pupils: Green School has 472 pupils, Blue School has 427 pupils, and Red School has 470 pupils. Write the names of the schools in order from the greatest number of pupils to the smallest number of pupils.
+Answer: Green School, Red School, Blue School
+Working: Compare the pupil counts: 472 > 470 > 427. In order from greatest to smallest: Green School, Red School, Blue School.

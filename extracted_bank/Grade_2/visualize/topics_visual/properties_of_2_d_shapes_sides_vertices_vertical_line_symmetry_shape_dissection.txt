@@ -1,0 +1,155 @@
+###################################
+Properties of 2-D shapes (sides, vertices, vertical line symmetry, shape dissection)
+###################################
+
+--- Sides of 2-D shapes ---
+
+1. Look at the picture! {user_name} is looking at this.
+How many straight sides does a pentagon have?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many straight sides does a pentagon have?
+
+3. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+How many straight sides does a pentagon have?
+
+4. Look at the picture! {user_name} is looking at this.
+How many straight sides does an octagon have?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together.
+How many straight sides does an octagon have?
+
+6. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+How many straight sides does an octagon have?
+
+7. Look at the picture! {user_name} is looking at this.
+A triangle has 3 sides and a hexagon has 6 sides. How many sides do 2 triangles and 1 hexagon have in total?
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together.
+A triangle has 3 sides and a hexagon has 6 sides. How many sides do 2 triangles and 1 hexagon have in total?
+
+9. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A triangle has 3 sides and a hexagon has 6 sides. How many sides do 2 triangles and 1 hexagon have in total?
+
+10. Look at the picture! {user_name} is looking at this.
+A square has 4 straight sides. A circle has 0 straight sides. How many straight sides are there on 3 squares and 2 circles altogether?
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A square has 4 straight sides. A circle has 0 straight sides. How many straight sides are there on 3 squares and 2 circles altogether?
+
+12. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+A square has 4 straight sides. A circle has 0 straight sides. How many straight sides are there on 3 squares and 2 circles altogether?
+
+--- Vertices of 2-D shapes ---
+
+13. Look at the picture! {user_name} is looking at this.
+How many vertices does a triangle have?
+
+14. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many vertices does a triangle have?
+
+15. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+How many vertices does a triangle have?
+
+16. Look at the picture! {user_name} is looking at this.
+How many vertices does a circle have?
+
+17. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+How many vertices does a circle have?
+
+18. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+How many vertices does a circle have?
+
+19. Look at the picture! {user_name} is looking at this.
+Leo has 2 squares and 1 pentagon. How many vertices do his shapes have in total?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Leo has 2 squares and 1 pentagon. How many vertices do his shapes have in total?
+
+21. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+Leo has 2 squares and 1 pentagon. How many vertices do his shapes have in total?
+
+22. Look at the picture! {user_name} is looking at this.
+I am a 2-D shape. I have more vertices than a square, but fewer vertices than a hexagon. What shape am I?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+I am a 2-D shape. I have more vertices than a square, but fewer vertices than a hexagon. What shape am I?
+
+24. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+I am a 2-D shape. I have more vertices than a square, but fewer vertices than a hexagon. What shape am I?
+
+--- Vertical line symmetry ---
+
+25. Look at the picture! {user_name} is looking at this.
+Does a vertical line of symmetry go straight up and down, or straight across from side to side?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Does a vertical line of symmetry go straight up and down, or straight across from side to side?
+
+27. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Does a vertical line of symmetry go straight up and down, or straight across from side to side?
+
+28. Look at the picture! {user_name} is looking at this.
+Which of these capital letters has a vertical line of symmetry: E, T, or F?
+
+29. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Which of these capital letters has a vertical line of symmetry: E, T, or F?
+
+30. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Which of these capital letters has a vertical line of symmetry: E, T, or F?
+
+31. Look at the picture! {user_name} is looking at this.
+Look at these capital letters: A, M, L. Which letter does not have a vertical line of symmetry?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+Look at these capital letters: A, M, L. Which letter does not have a vertical line of symmetry?
+
+33. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+Look at these capital letters: A, M, L. Which letter does not have a vertical line of symmetry?
+
+34. Look at the picture! {user_name} is looking at this.
+A shape is folded in half along a vertical line of symmetry. The folded half is a semicircle. What was the original full 2-D shape?
+
+35. Look at the picture! {user_name} and {father_name} are looking at this together.
+A shape is folded in half along a vertical line of symmetry. The folded half is a semicircle. What was the original full 2-D shape?
+
+36. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+A shape is folded in half along a vertical line of symmetry. The folded half is a semicircle. What was the original full 2-D shape?
+
+--- Shape dissection ---
+
+37. Look at the picture! {user_name} is looking at this.
+A square is cut with one straight line from one corner to the opposite corner. What two 2-D shapes are made?
+
+38. Look at the picture! {user_name} and {father_name} are looking at this together.
+A square is cut with one straight line from one corner to the opposite corner. What two 2-D shapes are made?
+
+39. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A square is cut with one straight line from one corner to the opposite corner. What two 2-D shapes are made?
+
+40. Look at the picture! {user_name} is looking at this.
+Ava puts 2 identical triangles together along their longest sides to make a 4-sided shape with equal sides. What shape has she made?
+
+41. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Ava puts 2 identical triangles together along their longest sides to make a 4-sided shape with equal sides. What shape has she made?
+
+42. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Ava puts 2 identical triangles together along their longest sides to make a 4-sided shape with equal sides. What shape has she made?
+
+43. Look at the picture! {user_name} is looking at this.
+A piece of paper is in the shape of a triangle with 3 sides. A straight cut snips off one corner. How many sides does the larger shape have now?
+
+44. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+A piece of paper is in the shape of a triangle with 3 sides. A straight cut snips off one corner. How many sides does the larger shape have now?
+
+45. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+A piece of paper is in the shape of a triangle with 3 sides. A straight cut snips off one corner. How many sides does the larger shape have now?
+
+46. Look at the picture! {user_name} is looking at this.
+A regular hexagon with 6 sides is cut in half by one straight line from top to bottom through opposite vertices. How many sides does each new half shape have?
+
+47. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+A regular hexagon with 6 sides is cut in half by one straight line from top to bottom through opposite vertices. How many sides does each new half shape have?
+
+48. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+A regular hexagon with 6 sides is cut in half by one straight line from top to bottom through opposite vertices. How many sides does each new half shape have?

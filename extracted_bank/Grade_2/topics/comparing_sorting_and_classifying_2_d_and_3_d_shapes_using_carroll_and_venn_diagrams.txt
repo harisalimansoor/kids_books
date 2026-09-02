@@ -1,0 +1,82 @@
+=== Topic: Comparing, sorting, and classifying 2-D and 3-D shapes using Carroll and Venn diagrams ===
+Domain: Geometry: Properties of Shapes
+
+--- Sorting and classifying shapes using Carroll diagrams ---
+
+Question 1: A Carroll diagram has two columns labelled "4 sides" and "Not 4 sides". It has two rows labelled "Has a vertical line of symmetry" and "Does not have a vertical line of symmetry". Which section does a square belong in?
+Answer: 4 sides and has a vertical line of symmetry
+Working: A square has 4 straight sides and has a vertical line of symmetry, so it belongs in the section for "4 sides" and "Has a vertical line of symmetry".
+
+Question 2: Class 2 sort shapes in a Carroll diagram with the column labels "Curved surface" and "No curved surface", and the row labels "Has vertices" and "No vertices". In which section should a cylinder be placed?
+Answer: Curved surface and no vertices
+Working: A cylinder has a curved surface and flat circular faces, but it has 0 vertices. It belongs in the section for "Curved surface" and "No vertices".
+
+Question 3: A Carroll diagram sorts 2-D shapes. The top row is "More than 3 sides" and the bottom row is "3 sides or fewer". The left column is "Straight sides only" and the right column is "Curved sides". Which shape belongs in the bottom-right section: triangle, circle, or pentagon?
+Answer: circle
+Working: A circle has a curved side and fewer than 3 sides, so it belongs in the bottom-right section for "3 sides or fewer" and "Curved sides".
+
+Question 4: Look at the labels of a Carroll diagram for 3-D shapes:
+Left column: "6 faces"
+Right column: "Not 6 faces"
+Top row: "All flat faces"
+Bottom row: "Has curved surfaces"
+Which 3-D shape belongs in the top-left section: a cube, a sphere, or a cylinder?
+Answer: cube
+Working: A cube has 6 flat faces and no curved surfaces, so it belongs in the top-left section for "6 faces" and "All flat faces".
+
+Question 5: Amy sorts 2-D shapes into a Carroll diagram.
+The columns are labelled "Has 4 vertices" and "Does not have 4 vertices".
+The rows are labelled "Has 4 sides" and "Does not have 4 sides".
+Can any 2-D shape belong in the section for "Has 4 vertices" and "Does not have 4 sides"? Write yes or no.
+Answer: no
+Working: Every 2-D polygon with 4 vertices always has 4 sides, so no 2-D shape can have 4 vertices and not have 4 sides.
+
+Question 6: A teacher puts 3-D shapes into a Carroll diagram.
+The rows are labelled "Pyramid" and "Not a pyramid".
+The columns are labelled "Has a square face" and "Does not have a square face".
+In which section does a square-based pyramid belong?
+Answer: Pyramid and has a square face
+Working: A square-based pyramid is a pyramid and it has a square face at its base, so it belongs in the section for "Pyramid" and "Has a square face".
+
+--- Sorting and classifying shapes using Venn diagrams ---
+
+Question 7: A Venn diagram has two overlapping circles.
+Circle A is labelled "Shapes with 4 straight sides".
+Circle B is labelled "Shapes with a vertical line of symmetry".
+In which part of the Venn diagram does a rectangle belong: Circle A only, Circle B only, or the overlapping section?
+Answer: the overlapping section
+Working: A rectangle has 4 straight sides and a vertical line of symmetry, so it satisfies both rules and belongs in the overlapping section.
+
+Question 8: A Venn diagram has two separate circles that do not overlap.
+One circle is labelled "Triangles" and the other circle is labelled "Shapes with curved sides".
+In which circle should a round circle shape be placed?
+Answer: Shapes with curved sides
+Working: A circle shape has a curved side, so it is placed in the circle labelled "Shapes with curved sides".
+
+Question 9: Sam sorts 3-D shapes using a Venn diagram with two overlapping circles.
+Circle 1 is labelled "Has at least one curved surface".
+Circle 2 is labelled "Has at least one vertex".
+Which 3-D shape belongs in the overlapping middle section: a cone, a cube, or a sphere?
+Answer: cone
+Working: A cone has 1 curved surface and 1 vertex, so it belongs in the overlapping middle section of both circles.
+
+Question 10: A Venn diagram has two overlapping circles.
+Circle A is labelled "3-D shapes with 6 faces".
+Circle B is labelled "3-D shapes with 8 vertices".
+Name one 3-D shape that belongs in the middle overlap where the two circles cross.
+Answer: cube
+Working: A cube has 6 faces and 8 vertices, so it belongs in the middle overlap where both properties are met.
+
+Question 11: A Venn diagram has two overlapping circles.
+Circle A is labelled "Shapes with 3 sides".
+Circle B is labelled "Shapes with 5 sides".
+Where does a pentagon belong in this diagram: Circle A, Circle B, the middle overlap, or outside the circles?
+Answer: Circle B
+Working: A pentagon has 5 sides and not 3 sides, so it belongs in Circle B.
+
+Question 12: Maya sorts 2-D shapes into a Venn diagram.
+Circle A is labelled "Shapes with 4 sides".
+Circle B is labelled "Shapes with 3 vertices".
+Where should Maya place a circle: inside Circle A, inside Circle B, in the overlap, or outside both circles?
+Answer: outside both circles
+Working: A circle has 1 curved side and 0 vertices, so it does not have 4 sides and does not have 3 vertices. It belongs outside both circles.

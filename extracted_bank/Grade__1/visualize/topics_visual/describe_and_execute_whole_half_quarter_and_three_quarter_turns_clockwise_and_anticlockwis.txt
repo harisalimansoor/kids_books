@@ -1,0 +1,193 @@
+###################################
+Describe and execute whole, half, quarter, and three-quarter turns (clockwise and anticlockwise)
+###################################
+
+--- Whole turns ---
+
+1. Look at the picture! {user_name} is looking at this.
+An arrow points up. It makes 1 whole turn. Which way does the arrow point now?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together.
+An arrow points up. It makes 1 whole turn. Which way does the arrow point now?
+
+3. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+An arrow points up. It makes 1 whole turn. Which way does the arrow point now?
+
+4. Look at the picture! {user_name} is looking at this.
+Jack is facing the classroom door. He makes 1 whole turn. What is he facing now?
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Jack is facing the classroom door. He makes 1 whole turn. What is he facing now?
+
+6. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Jack is facing the classroom door. He makes 1 whole turn. What is he facing now?
+
+7. Look at the picture! {user_name} is looking at this.
+How many half turns make 1 whole turn?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many half turns make 1 whole turn?
+
+9. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+How many half turns make 1 whole turn?
+
+10. Look at the picture! {user_name} is looking at this.
+How many quarter turns make 1 whole turn?
+
+11. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+How many quarter turns make 1 whole turn?
+
+12. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+How many quarter turns make 1 whole turn?
+
+--- Half turns ---
+
+13. Look at the picture! {user_name} is looking at this.
+An arrow points up. It makes a half turn. Which way does the arrow point now: up or down?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together.
+An arrow points up. It makes a half turn. Which way does the arrow point now: up or down?
+
+15. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+An arrow points up. It makes a half turn. Which way does the arrow point now: up or down?
+
+16. Look at the picture! {user_name} is looking at this.
+An arrow points to the right. It makes a half turn. Which way does the arrow point now: left or right?
+
+17. Look at the picture! {user_name} and {mother_name} are looking at this together.
+An arrow points to the right. It makes a half turn. Which way does the arrow point now: left or right?
+
+18. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+An arrow points to the right. It makes a half turn. Which way does the arrow point now: left or right?
+
+19. Look at the picture! {user_name} is looking at this.
+A toy robot is facing the window. It makes a half turn. Is it now facing the window or facing away from the window?
+
+20. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A toy robot is facing the window. It makes a half turn. Is it now facing the window or facing away from the window?
+
+21. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+A toy robot is facing the window. It makes a half turn. Is it now facing the window or facing away from the window?
+
+22. Look at the picture! {user_name} is looking at this.
+How many quarter turns make a half turn?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together.
+How many quarter turns make a half turn?
+
+24. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+How many quarter turns make a half turn?
+
+--- Quarter turns ---
+
+25. Look at the picture! {user_name} is looking at this.
+An arrow points up. It makes a quarter turn clockwise. Which direction is it pointing now: left or right?
+
+26. Look at the picture! {user_name} and {father_name} are looking at this together.
+An arrow points up. It makes a quarter turn clockwise. Which direction is it pointing now: left or right?
+
+27. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+An arrow points up. It makes a quarter turn clockwise. Which direction is it pointing now: left or right?
+
+28. Look at the picture! {user_name} is looking at this.
+An arrow points up. It makes a quarter turn anticlockwise. Which direction is it pointing now: left or right?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together.
+An arrow points up. It makes a quarter turn anticlockwise. Which direction is it pointing now: left or right?
+
+30. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+An arrow points up. It makes a quarter turn anticlockwise. Which direction is it pointing now: left or right?
+
+31. Look at the picture! {user_name} is looking at this.
+A pointer points to the right. It makes a quarter turn clockwise. Which way is it pointing now: up or down?
+
+32. Look at the picture! {user_name} and {father_name} are looking at this together.
+A pointer points to the right. It makes a quarter turn clockwise. Which way is it pointing now: up or down?
+
+33. Look at the picture! {user_name}, {father_name} and {grandfather_name} are looking at this together.
+A pointer points to the right. It makes a quarter turn clockwise. Which way is it pointing now: up or down?
+
+34. Look at the picture! {user_name} is looking at this.
+Sam is facing forwards. He makes 1 quarter turn to the right. Which way is he facing now: left or right?
+
+35. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+Sam is facing forwards. He makes 1 quarter turn to the right. Which way is he facing now: left or right?
+
+36. Look at the picture! {user_name}, {sibling_name} and {grandmother_name} are looking at this together.
+Sam is facing forwards. He makes 1 quarter turn to the right. Which way is he facing now: left or right?
+
+--- Three-quarter turns ---
+
+37. Look at the picture! {user_name} is looking at this.
+How many quarter turns make a three-quarter turn?
+
+38. Look at the picture! {user_name} and {sibling_name} are looking at this together.
+How many quarter turns make a three-quarter turn?
+
+39. Look at the picture! {user_name}, {sibling_name} and {grandfather_name} are looking at this together.
+How many quarter turns make a three-quarter turn?
+
+40. Look at the picture! {user_name} is looking at this.
+An arrow points up. It makes a three-quarter turn clockwise. Which direction is it pointing now: up, down, left, or right?
+
+41. Look at the picture! {user_name} and {grandmother_name} are looking at this together.
+An arrow points up. It makes a three-quarter turn clockwise. Which direction is it pointing now: up, down, left, or right?
+
+42. Look at the picture! {user_name}, {grandmother_name} and {grandfather_name} are looking at this together.
+An arrow points up. It makes a three-quarter turn clockwise. Which direction is it pointing now: up, down, left, or right?
+
+43. Look at the picture! {user_name} is looking at this.
+An arrow points up. It makes a three-quarter turn anticlockwise. Which direction is it pointing now: up, down, left, or right?
+
+44. Look at the picture! {user_name} and {mother_name} are looking at this together.
+An arrow points up. It makes a three-quarter turn anticlockwise. Which direction is it pointing now: up, down, left, or right?
+
+45. Look at the picture! {user_name}, {mother_name} and {father_name} are looking at this together.
+An arrow points up. It makes a three-quarter turn anticlockwise. Which direction is it pointing now: up, down, left, or right?
+
+46. Look at the picture! {user_name} is looking at this.
+A pointer points to the right. It makes a three-quarter turn clockwise. Which way does it point now: up, down, left, or right?
+
+47. Look at the picture! {user_name} and {mother_name} are looking at this together.
+A pointer points to the right. It makes a three-quarter turn clockwise. Which way does it point now: up, down, left, or right?
+
+48. Look at the picture! {user_name}, {mother_name} and {sibling_name} are looking at this together.
+A pointer points to the right. It makes a three-quarter turn clockwise. Which way does it point now: up, down, left, or right?
+
+--- Clockwise and anticlockwise turns ---
+
+49. Look at the picture! {user_name} is looking at this.
+Do the hands on a clock turn clockwise or anticlockwise?
+
+50. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Do the hands on a clock turn clockwise or anticlockwise?
+
+51. Look at the picture! {user_name}, {mother_name} and {grandmother_name} are looking at this together.
+Do the hands on a clock turn clockwise or anticlockwise?
+
+52. Look at the picture! {user_name} is looking at this.
+Turning the opposite way to the hands on a clock is called what: clockwise or anticlockwise?
+
+53. Look at the picture! {user_name} and {mother_name} are looking at this together.
+Turning the opposite way to the hands on a clock is called what: clockwise or anticlockwise?
+
+54. Look at the picture! {user_name}, {mother_name} and {grandfather_name} are looking at this together.
+Turning the opposite way to the hands on a clock is called what: clockwise or anticlockwise?
+
+55. Look at the picture! {user_name} is looking at this.
+An arrow points up. It turns a quarter turn to the right to point right. Did it turn clockwise or anticlockwise?
+
+56. Look at the picture! {user_name} and {father_name} are looking at this together.
+An arrow points up. It turns a quarter turn to the right to point right. Did it turn clockwise or anticlockwise?
+
+57. Look at the picture! {user_name}, {father_name} and {sibling_name} are looking at this together.
+An arrow points up. It turns a quarter turn to the right to point right. Did it turn clockwise or anticlockwise?
+
+58. Look at the picture! {user_name} is looking at this.
+An arrow points up. It turns a quarter turn to the left to point left. Did it turn clockwise or anticlockwise?
+
+59. Look at the picture! {user_name} and {father_name} are looking at this together.
+An arrow points up. It turns a quarter turn to the left to point left. Did it turn clockwise or anticlockwise?
+
+60. Look at the picture! {user_name}, {father_name} and {grandmother_name} are looking at this together.
+An arrow points up. It turns a quarter turn to the left to point left. Did it turn clockwise or anticlockwise?

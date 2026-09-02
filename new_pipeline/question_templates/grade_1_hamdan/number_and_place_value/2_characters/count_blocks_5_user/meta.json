@@ -1,0 +1,221 @@
+{
+  "stem_id": "count_blocks_5_user",
+  "grade": "grade_1",
+  "topic": "number_and_place_value",
+  "layout_pattern": "count",
+  "question_file": "question.txt",
+  "image_file": "user_has_5_blocks.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 857,
+      "y": 270,
+      "w": 165,
+      "h": 212,
+      "landmarks": {
+        "right_eye": [
+          892,
+          358
+        ],
+        "left_eye": [
+          973,
+          350
+        ],
+        "nose": [
+          936,
+          396
+        ],
+        "mouth_right": [
+          907,
+          425
+        ],
+        "mouth_left": [
+          984,
+          416
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "sibling",
+      "x": 371,
+      "y": 189,
+      "w": 182,
+      "h": 235,
+      "landmarks": {
+        "right_eye": [
+          437,
+          277
+        ],
+        "left_eye": [
+          523,
+          294
+        ],
+        "nose": [
+          479,
+          339
+        ],
+        "mouth_right": [
+          419,
+          350
+        ],
+        "mouth_left": [
+          504,
+          367
+        ]
+      },
+      "confidence": 0.952
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "child",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 5,
+      "container": "table",
+      "positions": [
+        {
+          "x": 767,
+          "y": 513
+        },
+        {
+          "x": 853,
+          "y": 513
+        },
+        {
+          "x": 939,
+          "y": 513
+        },
+        {
+          "x": 1025,
+          "y": 513
+        },
+        {
+          "x": 1111,
+          "y": 513
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count",
+    "correct": "10",
+    "options": [
+      "10",
+      "9",
+      "11",
+      "12"
+    ],
+    "formula": "10",
+    "explanation": "The total shown is 10."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Number and Place Value/questions.txt",
+    "notes": "Number and Place Value/1.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Blocks activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Blocks number_and_place_value stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 857,
+      "y": 270,
+      "w": 165,
+      "h": 212,
+      "landmarks": {
+        "right_eye": [
+          892,
+          358
+        ],
+        "left_eye": [
+          973,
+          350
+        ],
+        "nose": [
+          936,
+          396
+        ],
+        "mouth_right": [
+          907,
+          425
+        ],
+        "mouth_left": [
+          984,
+          416
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "sibling",
+      "x": 371,
+      "y": 189,
+      "w": 182,
+      "h": 235,
+      "landmarks": {
+        "right_eye": [
+          437,
+          277
+        ],
+        "left_eye": [
+          523,
+          294
+        ],
+        "nose": [
+          479,
+          339
+        ],
+        "mouth_right": [
+          419,
+          350
+        ],
+        "mouth_left": [
+          504,
+          367
+        ]
+      },
+      "confidence": 0.952
+    }
+  ]
+}
