@@ -1,0 +1,216 @@
+{
+  "stem_id": "geo_corners_4_user_mother",
+  "grade": "grade_1",
+  "topic": "geometry",
+  "layout_pattern": "geo",
+  "question_file": "question.txt",
+  "image_file": "mother_has_4_corners.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 979,
+      "y": 148,
+      "w": 180,
+      "h": 240,
+      "landmarks": {
+        "right_eye": [
+          1018,
+          249
+        ],
+        "left_eye": [
+          1107,
+          238
+        ],
+        "nose": [
+          1066,
+          292
+        ],
+        "mouth_right": [
+          1038,
+          328
+        ],
+        "mouth_left": [
+          1121,
+          317
+        ]
+      },
+      "confidence": 0.954
+    },
+    {
+      "role": "mother",
+      "x": 488,
+      "y": 76,
+      "w": 188,
+      "h": 249,
+      "landmarks": {
+        "right_eye": [
+          549,
+          173
+        ],
+        "left_eye": [
+          637,
+          192
+        ],
+        "nose": [
+          585,
+          237
+        ],
+        "mouth_right": [
+          531,
+          251
+        ],
+        "mouth_left": [
+          616,
+          267
+        ]
+      },
+      "confidence": 0.952
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "mother",
+      "object_id": "corners",
+      "singular": "corner",
+      "plural": "corners",
+      "count": 4,
+      "container": "table",
+      "positions": [
+        {
+          "x": 444,
+          "y": 362
+        },
+        {
+          "x": 536,
+          "y": 362
+        },
+        {
+          "x": 628,
+          "y": 362
+        },
+        {
+          "x": 720,
+          "y": 362
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "shape",
+    "correct": "square",
+    "options": [
+      "square"
+    ],
+    "formula": "",
+    "explanation": "A shape with 4 equal sides and 4 corners is a square."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/GEOMETRY/questions.txt",
+    "notes": "GEOMETRY/2.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Corners activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Corners geometry stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 979,
+      "y": 148,
+      "w": 180,
+      "h": 240,
+      "landmarks": {
+        "right_eye": [
+          1018,
+          249
+        ],
+        "left_eye": [
+          1107,
+          238
+        ],
+        "nose": [
+          1066,
+          292
+        ],
+        "mouth_right": [
+          1038,
+          328
+        ],
+        "mouth_left": [
+          1121,
+          317
+        ]
+      },
+      "confidence": 0.954
+    },
+    {
+      "role": "mother",
+      "x": 488,
+      "y": 76,
+      "w": 188,
+      "h": 249,
+      "landmarks": {
+        "right_eye": [
+          549,
+          173
+        ],
+        "left_eye": [
+          637,
+          192
+        ],
+        "nose": [
+          585,
+          237
+        ],
+        "mouth_right": [
+          531,
+          251
+        ],
+        "mouth_left": [
+          616,
+          267
+        ]
+      },
+      "confidence": 0.952
+    }
+  ]
+}

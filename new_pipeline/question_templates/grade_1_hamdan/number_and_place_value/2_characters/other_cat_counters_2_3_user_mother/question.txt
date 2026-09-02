@@ -1,0 +1,1 @@
+Look at the picture! {user_name} and {mother_name} are comparing three groups of pet counters. There are exactly 2 cat counters, exactly 4 dog counters and exactly 3 bird counters arranged in three clearly separated groups. {user_name} points toward the groups while {mother_name} helps compare their quantities.. Which number of pets is different from the others?

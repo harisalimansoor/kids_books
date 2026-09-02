@@ -1,0 +1,261 @@
+{
+  "stem_id": "sub_mangoes_rows_30_3_crossed_user_adult",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "adult_table_30_mangoes_rows_3_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "sibling",
+      "x": 637,
+      "y": 98,
+      "w": 154,
+      "h": 200,
+      "landmarks": {
+        "right_eye": [
+          680,
+          175
+        ],
+        "left_eye": [
+          748,
+          177
+        ],
+        "nose": [
+          714,
+          216
+        ],
+        "mouth_right": [
+          682,
+          243
+        ],
+        "mouth_left": [
+          746,
+          244
+        ]
+      },
+      "confidence": 0.943
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "sibling",
+      "object_id": "mangoes_rows",
+      "singular": "mangoes row",
+      "plural": "mangoes rows",
+      "count": 30,
+      "crossed_count": 3,
+      "container": "table",
+      "positions": [
+        {
+          "x": 499,
+          "y": 328
+        },
+        {
+          "x": 585,
+          "y": 328
+        },
+        {
+          "x": 671,
+          "y": 328
+        },
+        {
+          "x": 757,
+          "y": 328
+        },
+        {
+          "x": 843,
+          "y": 328
+        },
+        {
+          "x": 929,
+          "y": 328
+        },
+        {
+          "x": 499,
+          "y": 382
+        },
+        {
+          "x": 585,
+          "y": 382
+        },
+        {
+          "x": 671,
+          "y": 382
+        },
+        {
+          "x": 757,
+          "y": 382
+        },
+        {
+          "x": 843,
+          "y": 382
+        },
+        {
+          "x": 929,
+          "y": 382
+        },
+        {
+          "x": 499,
+          "y": 436
+        },
+        {
+          "x": 585,
+          "y": 436
+        },
+        {
+          "x": 671,
+          "y": 436
+        },
+        {
+          "x": 757,
+          "y": 436
+        },
+        {
+          "x": 843,
+          "y": 436
+        },
+        {
+          "x": 929,
+          "y": 436
+        },
+        {
+          "x": 499,
+          "y": 490
+        },
+        {
+          "x": 585,
+          "y": 490
+        },
+        {
+          "x": 671,
+          "y": 490
+        },
+        {
+          "x": 757,
+          "y": 490
+        },
+        {
+          "x": 843,
+          "y": 490
+        },
+        {
+          "x": 929,
+          "y": 490
+        },
+        {
+          "x": 499,
+          "y": 544
+        },
+        {
+          "x": 585,
+          "y": 544
+        },
+        {
+          "x": 671,
+          "y": 544
+        },
+        {
+          "x": 757,
+          "y": 544
+        },
+        {
+          "x": 843,
+          "y": 544
+        },
+        {
+          "x": 929,
+          "y": 544
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "27",
+    "options": [
+      "27",
+      "30",
+      "3",
+      "26"
+    ],
+    "formula": "30-3",
+    "explanation": "30 objects minus 3 crossed out = 27"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 30 with 3 crossed."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Subtraction/questions.txt",
+    "notes": "Subtraction/13.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Crossed-out mangoes rows for subtraction.",
+    "mangoes_row_layout": "crossed_items_in_one_group"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Mangoes rows subtraction stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "sibling",
+      "x": 637,
+      "y": 98,
+      "w": 154,
+      "h": 200,
+      "landmarks": {
+        "right_eye": [
+          680,
+          175
+        ],
+        "left_eye": [
+          748,
+          177
+        ],
+        "nose": [
+          714,
+          216
+        ],
+        "mouth_right": [
+          682,
+          243
+        ],
+        "mouth_left": [
+          746,
+          244
+        ]
+      },
+      "confidence": 0.943
+    }
+  ]
+}

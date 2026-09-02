@@ -1,0 +1,1 @@
+Look at the picture! {user_name} and {sibling_name} are arranging exactly four numbered balloons in a number-ordering activity. The balloons are labelled 18, 11, 15 and 14. {user_name} is physically moving the balloons into a row while {sibling_name} points toward the numbers. Can {user_name} put the balloons in order from smallest to greatest?

@@ -1,0 +1,223 @@
+{
+  "stem_id": "sub_marbles_20_14_crossed_mother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "mother_table_20_marbles_14_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste the mother face only; identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 648,
+      "y": 101,
+      "w": 225,
+      "h": 311,
+      "landmarks": {
+        "right_eye": [
+          699,
+          231
+        ],
+        "left_eye": [
+          808,
+          216
+        ],
+        "nose": [
+          758,
+          286
+        ],
+        "mouth_right": [
+          719,
+          332
+        ],
+        "mouth_left": [
+          819,
+          320
+        ]
+      },
+      "confidence": 0.951
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "marbles",
+      "singular": "marble",
+      "plural": "marbles",
+      "count": 20,
+      "crossed_count": 14,
+      "container": "table",
+      "positions": [
+        {
+          "x": 545,
+          "y": 458
+        },
+        {
+          "x": 631,
+          "y": 458
+        },
+        {
+          "x": 717,
+          "y": 458
+        },
+        {
+          "x": 803,
+          "y": 458
+        },
+        {
+          "x": 889,
+          "y": 458
+        },
+        {
+          "x": 975,
+          "y": 458
+        },
+        {
+          "x": 545,
+          "y": 512
+        },
+        {
+          "x": 631,
+          "y": 512
+        },
+        {
+          "x": 717,
+          "y": 512
+        },
+        {
+          "x": 803,
+          "y": 512
+        },
+        {
+          "x": 889,
+          "y": 512
+        },
+        {
+          "x": 975,
+          "y": 512
+        },
+        {
+          "x": 545,
+          "y": 566
+        },
+        {
+          "x": 631,
+          "y": 566
+        },
+        {
+          "x": 717,
+          "y": 566
+        },
+        {
+          "x": 803,
+          "y": 566
+        },
+        {
+          "x": 889,
+          "y": 566
+        },
+        {
+          "x": 975,
+          "y": 566
+        },
+        {
+          "x": 545,
+          "y": 620
+        },
+        {
+          "x": 631,
+          "y": 620
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "6",
+    "options": [
+      "6",
+      "20",
+      "14",
+      "5"
+    ],
+    "formula": "20-14",
+    "explanation": "20 objects minus 14 crossed out = 6"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 20 with 14 crossed."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Subtraction/questions.txt",
+    "notes": "Subtraction/9.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Crossed-out marbles for subtraction.",
+    "marble_layout": "crossed_items_in_one_group"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Marbles subtraction stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "mother",
+      "x": 648,
+      "y": 101,
+      "w": 225,
+      "h": 311,
+      "landmarks": {
+        "right_eye": [
+          699,
+          231
+        ],
+        "left_eye": [
+          808,
+          216
+        ],
+        "nose": [
+          758,
+          286
+        ],
+        "mouth_right": [
+          719,
+          332
+        ],
+        "mouth_left": [
+          819,
+          320
+        ]
+      },
+      "confidence": 0.951
+    }
+  ]
+}

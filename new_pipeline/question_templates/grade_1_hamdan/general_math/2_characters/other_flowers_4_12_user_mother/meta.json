@@ -1,0 +1,273 @@
+{
+  "stem_id": "other_flowers_4_12_user_mother",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "other",
+  "question_file": "question.txt",
+  "image_file": "mother_has_4_flowers_mother_has_12_flowers_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 451,
+      "y": 178,
+      "w": 166,
+      "h": 221,
+      "landmarks": {
+        "right_eye": [
+          502,
+          263
+        ],
+        "left_eye": [
+          582,
+          266
+        ],
+        "nose": [
+          544,
+          313
+        ],
+        "mouth_right": [
+          500,
+          334
+        ],
+        "mouth_left": [
+          578,
+          338
+        ]
+      },
+      "confidence": 0.954
+    },
+    {
+      "role": "mother",
+      "x": 966,
+      "y": 102,
+      "w": 185,
+      "h": 241,
+      "landmarks": {
+        "right_eye": [
+          1003,
+          204
+        ],
+        "left_eye": [
+          1099,
+          186
+        ],
+        "nose": [
+          1060,
+          244
+        ],
+        "mouth_right": [
+          1028,
+          282
+        ],
+        "mouth_left": [
+          1116,
+          266
+        ]
+      },
+      "confidence": 0.952
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "mother",
+      "object_id": "flowers",
+      "singular": "flower",
+      "plural": "flowers",
+      "count": 4,
+      "container": "table",
+      "positions": [
+        {
+          "x": 920,
+          "y": 379
+        },
+        {
+          "x": 1012,
+          "y": 379
+        },
+        {
+          "x": 1104,
+          "y": 379
+        },
+        {
+          "x": 1196,
+          "y": 379
+        }
+      ]
+    },
+    {
+      "id": "table_2",
+      "owner": "mother",
+      "object_id": "fourths",
+      "singular": "fourth",
+      "plural": "fourths",
+      "count": 12,
+      "container": "table",
+      "positions": [
+        {
+          "x": 828,
+          "y": 379
+        },
+        {
+          "x": 920,
+          "y": 379
+        },
+        {
+          "x": 1012,
+          "y": 379
+        },
+        {
+          "x": 1104,
+          "y": 379
+        },
+        {
+          "x": 1196,
+          "y": 379
+        },
+        {
+          "x": 1288,
+          "y": 379
+        },
+        {
+          "x": 828,
+          "y": 430
+        },
+        {
+          "x": 920,
+          "y": 430
+        },
+        {
+          "x": 1012,
+          "y": 430
+        },
+        {
+          "x": 1104,
+          "y": 430
+        },
+        {
+          "x": 1196,
+          "y": 430
+        },
+        {
+          "x": 1288,
+          "y": 430
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "other",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/General Math/questions.txt",
+    "notes": "General Math/9.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Flowers activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Flowers general_math stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 451,
+      "y": 178,
+      "w": 166,
+      "h": 221,
+      "landmarks": {
+        "right_eye": [
+          502,
+          263
+        ],
+        "left_eye": [
+          582,
+          266
+        ],
+        "nose": [
+          544,
+          313
+        ],
+        "mouth_right": [
+          500,
+          334
+        ],
+        "mouth_left": [
+          578,
+          338
+        ]
+      },
+      "confidence": 0.954
+    },
+    {
+      "role": "mother",
+      "x": 966,
+      "y": 102,
+      "w": 185,
+      "h": 241,
+      "landmarks": {
+        "right_eye": [
+          1003,
+          204
+        ],
+        "left_eye": [
+          1099,
+          186
+        ],
+        "nose": [
+          1060,
+          244
+        ],
+        "mouth_right": [
+          1028,
+          282
+        ],
+        "mouth_left": [
+          1116,
+          266
+        ]
+      },
+      "confidence": 0.952
+    }
+  ]
+}

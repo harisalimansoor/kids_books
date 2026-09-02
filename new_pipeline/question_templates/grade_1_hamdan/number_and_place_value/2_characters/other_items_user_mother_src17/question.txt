@@ -1,0 +1,1 @@
+Look at the picture! {user_name} and {mother_name} are arranging numbered blocks in descending order. The blocks show 18, 17, 16, an empty position, 14 and 13. {user_name} points toward the empty position while {mother_name} checks the sequence from left to right.. What number belongs on the missing block?

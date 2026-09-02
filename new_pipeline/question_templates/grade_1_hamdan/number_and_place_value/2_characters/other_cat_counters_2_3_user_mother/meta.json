@@ -1,0 +1,229 @@
+{
+  "stem_id": "other_cat_counters_2_3_user_mother",
+  "grade": "grade_1",
+  "topic": "number_and_place_value",
+  "layout_pattern": "other",
+  "question_file": "question.txt",
+  "image_file": "mother_has_2_cat_counters_mother_has_3_cat_counters_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 992,
+      "y": 238,
+      "w": 194,
+      "h": 256,
+      "landmarks": {
+        "right_eye": [
+          1031,
+          341
+        ],
+        "left_eye": [
+          1125,
+          332
+        ],
+        "nose": [
+          1078,
+          386
+        ],
+        "mouth_right": [
+          1046,
+          426
+        ],
+        "mouth_left": [
+          1130,
+          417
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 402,
+      "y": 102,
+      "w": 211,
+      "h": 277,
+      "landmarks": {
+        "right_eye": [
+          477,
+          195
+        ],
+        "left_eye": [
+          575,
+          221
+        ],
+        "nose": [
+          519,
+          270
+        ],
+        "mouth_right": [
+          450,
+          286
+        ],
+        "mouth_left": [
+          545,
+          309
+        ]
+      },
+      "confidence": 0.951
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "mother",
+      "object_id": "cat_counters",
+      "singular": "cat counter",
+      "plural": "cat counters",
+      "count": 2,
+      "container": "table",
+      "positions": [
+        {
+          "x": 464,
+          "y": 420
+        },
+        {
+          "x": 550,
+          "y": 420
+        }
+      ]
+    },
+    {
+      "id": "table_2",
+      "owner": "mother",
+      "object_id": "bird_counters",
+      "singular": "bird counter",
+      "plural": "bird counters",
+      "count": 3,
+      "container": "table",
+      "positions": [
+        {
+          "x": 421,
+          "y": 420
+        },
+        {
+          "x": 507,
+          "y": 420
+        },
+        {
+          "x": 593,
+          "y": 420
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "sequence",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": "Answer depends on the pictured sequence."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Number and Place Value/questions.txt",
+    "notes": "Number and Place Value/6.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Cat counters activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Cat counters number_and_place_value stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 992,
+      "y": 238,
+      "w": 194,
+      "h": 256,
+      "landmarks": {
+        "right_eye": [
+          1031,
+          341
+        ],
+        "left_eye": [
+          1125,
+          332
+        ],
+        "nose": [
+          1078,
+          386
+        ],
+        "mouth_right": [
+          1046,
+          426
+        ],
+        "mouth_left": [
+          1130,
+          417
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 402,
+      "y": 102,
+      "w": 211,
+      "h": 277,
+      "landmarks": {
+        "right_eye": [
+          477,
+          195
+        ],
+        "left_eye": [
+          575,
+          221
+        ],
+        "nose": [
+          519,
+          270
+        ],
+        "mouth_right": [
+          450,
+          286
+        ],
+        "mouth_left": [
+          545,
+          309
+        ]
+      },
+      "confidence": 0.951
+    }
+  ]
+}

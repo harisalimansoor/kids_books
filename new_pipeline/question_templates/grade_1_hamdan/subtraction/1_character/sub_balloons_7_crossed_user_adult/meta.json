@@ -1,0 +1,168 @@
+{
+  "stem_id": "sub_balloons_7_crossed_user_adult",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "adult_table_7_balloons_0_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 611,
+      "y": 128,
+      "w": 211,
+      "h": 265,
+      "landmarks": {
+        "right_eye": [
+          665,
+          232
+        ],
+        "left_eye": [
+          770,
+          226
+        ],
+        "nose": [
+          722,
+          285
+        ],
+        "mouth_right": [
+          674,
+          319
+        ],
+        "mouth_left": [
+          773,
+          314
+        ]
+      },
+      "confidence": 0.957
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "child",
+      "object_id": "balloons",
+      "singular": "balloon",
+      "plural": "balloons",
+      "count": 7,
+      "container": "table",
+      "positions": [
+        {
+          "x": 501,
+          "y": 432
+        },
+        {
+          "x": 587,
+          "y": 432
+        },
+        {
+          "x": 673,
+          "y": 432
+        },
+        {
+          "x": 759,
+          "y": 432
+        },
+        {
+          "x": 845,
+          "y": 432
+        },
+        {
+          "x": 931,
+          "y": 432
+        },
+        {
+          "x": 501,
+          "y": 486
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "7",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "formula": "7",
+    "explanation": "None are crossed out, so the count is 7."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 7 with 0 crossed."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Subtraction/questions.txt",
+    "notes": "Subtraction/4.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Crossed-out balloons for subtraction.",
+    "balloon_layout": "crossed_items_in_one_group"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Balloons subtraction stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 611,
+      "y": 128,
+      "w": 211,
+      "h": 265,
+      "landmarks": {
+        "right_eye": [
+          665,
+          232
+        ],
+        "left_eye": [
+          770,
+          226
+        ],
+        "nose": [
+          722,
+          285
+        ],
+        "mouth_right": [
+          674,
+          319
+        ],
+        "mouth_left": [
+          773,
+          314
+        ]
+      },
+      "confidence": 0.957
+    }
+  ]
+}

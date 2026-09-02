@@ -1,0 +1,186 @@
+{
+  "stem_id": "time_items_user_mother",
+  "grade": "grade_1",
+  "topic": "time",
+  "layout_pattern": "time",
+  "question_file": "question.txt",
+  "image_file": "mother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 1036,
+      "y": 280,
+      "w": 177,
+      "h": 229,
+      "landmarks": {
+        "right_eye": [
+          1071,
+          375
+        ],
+        "left_eye": [
+          1156,
+          365
+        ],
+        "nose": [
+          1114,
+          415
+        ],
+        "mouth_right": [
+          1088,
+          450
+        ],
+        "mouth_left": [
+          1167,
+          439
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 332,
+      "y": 116,
+      "w": 187,
+      "h": 246,
+      "landmarks": {
+        "right_eye": [
+          400,
+          201
+        ],
+        "left_eye": [
+          485,
+          219
+        ],
+        "nose": [
+          441,
+          262
+        ],
+        "mouth_right": [
+          381,
+          284
+        ],
+        "mouth_left": [
+          464,
+          301
+        ]
+      },
+      "confidence": 0.951
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "other",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Time/questions.txt",
+    "notes": "Time/14.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Items activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 1036,
+      "y": 280,
+      "w": 177,
+      "h": 229,
+      "landmarks": {
+        "right_eye": [
+          1071,
+          375
+        ],
+        "left_eye": [
+          1156,
+          365
+        ],
+        "nose": [
+          1114,
+          415
+        ],
+        "mouth_right": [
+          1088,
+          450
+        ],
+        "mouth_left": [
+          1167,
+          439
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 332,
+      "y": 116,
+      "w": 187,
+      "h": 246,
+      "landmarks": {
+        "right_eye": [
+          400,
+          201
+        ],
+        "left_eye": [
+          485,
+          219
+        ],
+        "nose": [
+          441,
+          262
+        ],
+        "mouth_right": [
+          381,
+          284
+        ],
+        "mouth_left": [
+          464,
+          301
+        ]
+      },
+      "confidence": 0.951
+    }
+  ]
+}

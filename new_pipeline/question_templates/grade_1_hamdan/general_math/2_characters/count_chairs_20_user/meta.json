@@ -1,0 +1,281 @@
+{
+  "stem_id": "count_chairs_20_user",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "count",
+  "question_file": "question.txt",
+  "image_file": "table_has_20_chairs.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 1163,
+      "y": 269,
+      "w": 140,
+      "h": 179,
+      "landmarks": {
+        "right_eye": [
+          1190,
+          343
+        ],
+        "left_eye": [
+          1258,
+          340
+        ],
+        "nose": [
+          1221,
+          380
+        ],
+        "mouth_right": [
+          1201,
+          407
+        ],
+        "mouth_left": [
+          1256,
+          404
+        ]
+      },
+      "confidence": 0.94
+    },
+    {
+      "role": "sibling",
+      "x": 176,
+      "y": 237,
+      "w": 152,
+      "h": 191,
+      "landmarks": {
+        "right_eye": [
+          233,
+          301
+        ],
+        "left_eye": [
+          299,
+          318
+        ],
+        "nose": [
+          264,
+          349
+        ],
+        "mouth_right": [
+          219,
+          367
+        ],
+        "mouth_left": [
+          279,
+          382
+        ]
+      },
+      "confidence": 0.941
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "chairs",
+      "singular": "chair",
+      "plural": "chairs",
+      "count": 20,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        },
+        {
+          "x": 490,
+          "y": 738
+        },
+        {
+          "x": 576,
+          "y": 738
+        },
+        {
+          "x": 662,
+          "y": 738
+        },
+        {
+          "x": 748,
+          "y": 738
+        },
+        {
+          "x": 318,
+          "y": 792
+        },
+        {
+          "x": 404,
+          "y": 792
+        },
+        {
+          "x": 490,
+          "y": 792
+        },
+        {
+          "x": 576,
+          "y": 792
+        },
+        {
+          "x": 662,
+          "y": 792
+        },
+        {
+          "x": 748,
+          "y": 792
+        },
+        {
+          "x": 318,
+          "y": 846
+        },
+        {
+          "x": 404,
+          "y": 846
+        },
+        {
+          "x": 490,
+          "y": 846
+        },
+        {
+          "x": 576,
+          "y": 846
+        },
+        {
+          "x": 662,
+          "y": 846
+        },
+        {
+          "x": 748,
+          "y": 846
+        },
+        {
+          "x": 318,
+          "y": 900
+        },
+        {
+          "x": 404,
+          "y": 900
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count",
+    "correct": "20",
+    "options": [
+      "20",
+      "19",
+      "21",
+      "22"
+    ],
+    "formula": "20",
+    "explanation": "There are 20 chairs."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/General Math/questions.txt",
+    "notes": "General Math/12.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Chairs activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Chairs general_math stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 1163,
+      "y": 269,
+      "w": 140,
+      "h": 179,
+      "landmarks": {
+        "right_eye": [
+          1190,
+          343
+        ],
+        "left_eye": [
+          1258,
+          340
+        ],
+        "nose": [
+          1221,
+          380
+        ],
+        "mouth_right": [
+          1201,
+          407
+        ],
+        "mouth_left": [
+          1256,
+          404
+        ]
+      },
+      "confidence": 0.94
+    },
+    {
+      "role": "sibling",
+      "x": 176,
+      "y": 237,
+      "w": 152,
+      "h": 191,
+      "landmarks": {
+        "right_eye": [
+          233,
+          301
+        ],
+        "left_eye": [
+          299,
+          318
+        ],
+        "nose": [
+          264,
+          349
+        ],
+        "mouth_right": [
+          219,
+          367
+        ],
+        "mouth_left": [
+          279,
+          382
+        ]
+      },
+      "confidence": 0.941
+    }
+  ]
+}

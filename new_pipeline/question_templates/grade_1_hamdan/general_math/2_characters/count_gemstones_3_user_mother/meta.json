@@ -1,0 +1,215 @@
+{
+  "stem_id": "count_gemstones_3_user_mother",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "count",
+  "question_file": "question.txt",
+  "image_file": "mother_has_3_gemstones.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 862,
+      "y": 159,
+      "w": 200,
+      "h": 258,
+      "landmarks": {
+        "right_eye": [
+          899,
+          262
+        ],
+        "left_eye": [
+          1000,
+          249
+        ],
+        "nose": [
+          951,
+          309
+        ],
+        "mouth_right": [
+          919,
+          350
+        ],
+        "mouth_left": [
+          1010,
+          338
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "mother",
+      "x": 483,
+      "y": 112,
+      "w": 219,
+      "h": 276,
+      "landmarks": {
+        "right_eye": [
+          562,
+          202
+        ],
+        "left_eye": [
+          662,
+          228
+        ],
+        "nose": [
+          608,
+          278
+        ],
+        "mouth_right": [
+          537,
+          295
+        ],
+        "mouth_left": [
+          633,
+          317
+        ]
+      },
+      "confidence": 0.947
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "mother",
+      "object_id": "gemstones",
+      "singular": "gemstone",
+      "plural": "gemstones",
+      "count": 3,
+      "container": "table",
+      "positions": [
+        {
+          "x": 506,
+          "y": 429
+        },
+        {
+          "x": 592,
+          "y": 429
+        },
+        {
+          "x": 678,
+          "y": 429
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count",
+    "correct": "3",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "formula": "3",
+    "explanation": "There are 3 gemstones."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/General Math/questions.txt",
+    "notes": "General Math/22.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Gemstones activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Gemstones general_math stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 862,
+      "y": 159,
+      "w": 200,
+      "h": 258,
+      "landmarks": {
+        "right_eye": [
+          899,
+          262
+        ],
+        "left_eye": [
+          1000,
+          249
+        ],
+        "nose": [
+          951,
+          309
+        ],
+        "mouth_right": [
+          919,
+          350
+        ],
+        "mouth_left": [
+          1010,
+          338
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "mother",
+      "x": 483,
+      "y": 112,
+      "w": 219,
+      "h": 276,
+      "landmarks": {
+        "right_eye": [
+          562,
+          202
+        ],
+        "left_eye": [
+          662,
+          228
+        ],
+        "nose": [
+          608,
+          278
+        ],
+        "mouth_right": [
+          537,
+          295
+        ],
+        "mouth_left": [
+          633,
+          317
+        ]
+      },
+      "confidence": 0.947
+    }
+  ]
+}

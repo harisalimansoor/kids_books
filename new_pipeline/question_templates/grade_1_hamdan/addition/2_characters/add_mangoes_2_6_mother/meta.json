@@ -1,0 +1,249 @@
+{
+  "stem_id": "add_mangoes_2_6_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "mother_has_2_mangoes_grandmother_has_6_mangoes_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "grandmother",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "mother_name": "mother",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste grandmother + mother faces only; identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "grandmother",
+      "x": 339,
+      "y": 101,
+      "w": 200,
+      "h": 260,
+      "landmarks": {
+        "right_eye": [
+          396,
+          192
+        ],
+        "left_eye": [
+          494,
+          201
+        ],
+        "nose": [
+          442,
+          254
+        ],
+        "mouth_right": [
+          388,
+          279
+        ],
+        "mouth_left": [
+          482,
+          287
+        ]
+      },
+      "confidence": 0.957
+    },
+    {
+      "role": "mother",
+      "x": 923,
+      "y": 109,
+      "w": 213,
+      "h": 276,
+      "landmarks": {
+        "right_eye": [
+          976,
+          221
+        ],
+        "left_eye": [
+          1069,
+          208
+        ],
+        "nose": [
+          1028,
+          270
+        ],
+        "mouth_right": [
+          996,
+          312
+        ],
+        "mouth_left": [
+          1079,
+          301
+        ]
+      },
+      "confidence": 0.947
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "mangoes",
+      "singular": "mango",
+      "plural": "mangoes",
+      "count": 2,
+      "container": "table",
+      "positions": [
+        {
+          "x": 986,
+          "y": 426
+        },
+        {
+          "x": 1072,
+          "y": 426
+        }
+      ]
+    },
+    {
+      "id": "grandmother",
+      "owner": "grandmother",
+      "object_id": "mangoes",
+      "singular": "mango",
+      "plural": "mangoes",
+      "count": 6,
+      "container": "table",
+      "positions": [
+        {
+          "x": 224,
+          "y": 400
+        },
+        {
+          "x": 310,
+          "y": 400
+        },
+        {
+          "x": 396,
+          "y": 400
+        },
+        {
+          "x": 482,
+          "y": 400
+        },
+        {
+          "x": 568,
+          "y": 400
+        },
+        {
+          "x": 654,
+          "y": 400
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "8",
+    "options": [
+      "8",
+      "2",
+      "6",
+      "7"
+    ],
+    "formula": "2+6",
+    "explanation": "mother (2) + grandmother (6) = 8"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/ADDITION/questions.txt",
+    "notes": "ADDITION/7.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Two clear groups of mangoes for addition.",
+    "mango_layout": "two_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [
+      "mangoes"
+    ],
+    "hobbies": [],
+    "notes": "Mangoe addition stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "grandmother",
+      "x": 339,
+      "y": 101,
+      "w": 200,
+      "h": 260,
+      "landmarks": {
+        "right_eye": [
+          396,
+          192
+        ],
+        "left_eye": [
+          494,
+          201
+        ],
+        "nose": [
+          442,
+          254
+        ],
+        "mouth_right": [
+          388,
+          279
+        ],
+        "mouth_left": [
+          482,
+          287
+        ]
+      },
+      "confidence": 0.957
+    },
+    {
+      "role": "mother",
+      "x": 923,
+      "y": 109,
+      "w": 213,
+      "h": 276,
+      "landmarks": {
+        "right_eye": [
+          976,
+          221
+        ],
+        "left_eye": [
+          1069,
+          208
+        ],
+        "nose": [
+          1028,
+          270
+        ],
+        "mouth_right": [
+          996,
+          312
+        ],
+        "mouth_left": [
+          1079,
+          301
+        ]
+      },
+      "confidence": 0.947
+    }
+  ]
+}
