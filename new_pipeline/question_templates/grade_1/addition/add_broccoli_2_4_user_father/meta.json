@@ -1,0 +1,154 @@
+{
+  "stem_id": "add_broccoli_2_4_user_father",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "father_4_broccoli_child_2_broccoli_kitchen.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked. Paste child + father faces only."
+  },
+  "interests": {
+    "foods": [
+      "broccoli"
+    ],
+    "hobbies": [
+      "cooking"
+    ],
+    "notes": "Chopping / cooking broccoli with father addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 175,
+      "y": 357,
+      "w": 135,
+      "h": 165,
+      "landmarks": {
+        "right_eye": [
+          222,
+          417
+        ],
+        "left_eye": [
+          285,
+          422
+        ],
+        "nose": [
+          254,
+          442
+        ],
+        "mouth_right": [
+          217,
+          467
+        ],
+        "mouth_left": [
+          273,
+          473
+        ]
+      },
+      "confidence": 0.937
+    },
+    {
+      "role": "father",
+      "x": 555,
+      "y": 50,
+      "w": 162,
+      "h": 207,
+      "landmarks": {
+        "right_eye": [
+          585,
+          152
+        ],
+        "left_eye": [
+          653,
+          126
+        ],
+        "nose": [
+          626,
+          190
+        ],
+        "mouth_right": [
+          623,
+          216
+        ],
+        "mouth_left": [
+          687,
+          193
+        ]
+      },
+      "confidence": 0.936
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "broccoli",
+      "singular": "broccoli piece",
+      "plural": "broccoli pieces",
+      "count": 2,
+      "container": "board"
+    },
+    {
+      "id": "father",
+      "owner": "father",
+      "object_id": "broccoli",
+      "singular": "broccoli piece",
+      "plural": "broccoli pieces",
+      "count": 4,
+      "container": "board"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "6",
+    "options": [
+      "6",
+      "2",
+      "4",
+      "5"
+    ],
+    "formula": "2+4",
+    "explanation": "2 broccoli pieces + 4 broccoli pieces = 6"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 2 child + 4 father."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": "Batch: generate_6_more_addition.py"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

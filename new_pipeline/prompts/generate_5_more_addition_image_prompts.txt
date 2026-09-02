@@ -1,0 +1,223 @@
+# Image prompts — 5 activity-rich Grade 1 addition templates
+# Batch: generate_5_more_addition.py (Sep 2026)
+#
+# Images were produced with Cursor GenerateImage (OpenRouter credits unavailable).
+# For OpenRouter / qwen-image-3, use the FULL PROMPT blocks below (STYLE + role + objects).
+# For quick regen, use the CURSOR PROMPT marked FINAL for each stem.
+#
+# Aspect ratio: 1:1  |  Output size: 1024×1024  |  Face-swap: child LEFT, adult RIGHT
+
+================================================================================
+SHARED STYLE (prepended to every OpenRouter full prompt)
+================================================================================
+
+ONE vibrant realistic photograph, square 1:1, bright natural light, more background visible.
+ACTION PHOTO — both people are mid-activity with the countable objects (picking, collecting,
+buying, cooking, eating, pouring, cutting, packing, baking, planting). Hands must be
+touching / holding / reaching for the objects — NOT a stiff posed portrait.
+LEFT: young child (~6–7), face mostly toward camera and smiling (clear for face-swap).
+RIGHT: companion, face mostly toward camera and smiling (clear for face-swap).
+Only these TWO people. No extra people. No text overlays / logos / writing.
+CLOTHING (modest children's workbook): women/girls wear high crew-neck or modest round collar.
+Men/boys: casual modest shirt.
+CRITICAL: countable objects EXACT counts, spaced apart, not stacked, not overlapping,
+each object fully visible so a child can count them.
+
+================================================================================
+1. add_biscuits_3_2_user_grandmother
+   Image: grandmother_2_biscuits_child_3_biscuits_kitchen.png
+   Counts: child 3 + grandmother 2 = 5
+   FINAL: Cursor v1 (counts correct on first try)
+================================================================================
+
+--- OpenRouter FULL PROMPT ---
+
+ONE vibrant realistic photograph, square 1:1, bright natural light, more background visible.
+ACTION PHOTO — both people are mid-activity with the countable objects (picking, collecting,
+buying, cooking, eating, pouring, cutting, packing, baking, planting). Hands must be
+touching / holding / reaching for the objects — NOT a stiff posed portrait.
+LEFT: young child (~6–7), face mostly toward camera and smiling (clear for face-swap).
+RIGHT: companion, face mostly toward camera and smiling (clear for face-swap).
+Only these TWO people. No extra people. No text overlays / logos / writing.
+CLOTHING (modest children's workbook): women/girls wear high crew-neck or modest round collar.
+Men/boys: casual modest shirt.
+CRITICAL: countable objects EXACT counts, spaced apart, not stacked, not overlapping,
+each object fully visible so a child can count them.
+Companion role: GRANDMOTHER (right, elderly woman)
+
+OBJECTS (exact counts):
+Setting: cosy kitchen with oven / baking tray. ACTIVITY: BAKING / ICING biscuits together.
+COUNT IS CRITICAL:
+LEFT (child): EXACTLY 3 round golden biscuits on a cooling rack or plate — three separate
+  biscuits, spaced with gaps, fully visible. Hand reaching to pick one up or spread icing.
+RIGHT (grandmother): EXACTLY 2 round golden biscuits on her plate/rack — two separate biscuits,
+  spaced, fully visible. Hand holding icing bag or placing a biscuit.
+TOTAL biscuits = 5 (3+2). No extra biscuits in background. Faces toward camera, smiling.
+
+--- CURSOR PROMPT (FINAL) ---
+
+Vibrant realistic square photograph, bright natural kitchen light. ACTION PHOTO: young child (~7) on LEFT and elderly grandmother on RIGHT baking biscuits together. Child has EXACTLY 3 separate round golden biscuits on a cooling rack in front of them, hand reaching to ice one. Grandmother has EXACTLY 2 separate golden biscuits on her rack, hand holding icing bag. Both faces toward camera smiling. Hands actively touching biscuits. Modest clothing. No text. Countable objects spaced apart, fully visible. Cosy kitchen with oven in background.
+
+================================================================================
+2. add_sweetcorn_2_3_user_uncle
+   Image: uncle_3_sweetcorn_child_2_sweetcorn_farm.png
+   Counts: child 2 + uncle 3 = 5
+   FINAL: Cursor v2 (v1 miscounted cobs in hands)
+================================================================================
+
+--- OpenRouter FULL PROMPT ---
+
+ONE vibrant realistic photograph, square 1:1, bright natural light, more background visible.
+ACTION PHOTO — both people are mid-activity with the countable objects (picking, collecting,
+buying, cooking, eating, pouring, cutting, packing, baking, planting). Hands must be
+touching / holding / reaching for the objects — NOT a stiff posed portrait.
+LEFT: young child (~6–7), face mostly toward camera and smiling (clear for face-swap).
+RIGHT: companion, face mostly toward camera and smiling (clear for face-swap).
+Only these TWO people. No extra people. No text overlays / logos / writing.
+CLOTHING (modest children's workbook): women/girls wear high crew-neck or modest round collar.
+Men/boys: casual modest shirt.
+CRITICAL: countable objects EXACT counts, spaced apart, not stacked, not overlapping,
+each object fully visible so a child can count them.
+Companion role: UNCLE (right, adult man ~30–45)
+
+OBJECTS (exact counts):
+Setting: sunny farm stand / vegetable patch. ACTIVITY: SHUCKING / PICKING sweetcorn cobs.
+COUNT IS CRITICAL:
+LEFT (child): EXACTLY 2 yellow sweetcorn cobs (ears) on the table — two separate cobs,
+  spaced, fully visible. Hands peeling husk off one cob.
+RIGHT (uncle): EXACTLY 3 yellow sweetcorn cobs on his side — three separate cobs, spaced,
+  fully visible. Hand holding a cob or husks.
+TOTAL cobs = 5 (2+3). Faces toward camera, smiling. Corn plants in background OK.
+
+--- CURSOR PROMPT (v1 — wrong counts) ---
+
+Vibrant realistic square photograph, sunny farm stand. ACTION PHOTO: young child (~7) on LEFT and adult uncle on RIGHT shucking sweetcorn together. Child has EXACTLY 2 yellow corn cobs on table, hands peeling husk. Uncle has EXACTLY 3 yellow corn cobs on his side, hand holding a cob. Both faces toward camera smiling. Modest casual clothing. No text. Each cob separate and fully visible. Corn plants in background.
+
+--- CURSOR PROMPT (FINAL v2) ---
+
+Realistic sunny farm stand photo. Young child LEFT, adult uncle RIGHT shucking corn. STRICT COUNT: On wooden table ONLY (not in hands): child side has EXACTLY 2 yellow corn cobs in a row with gaps. Uncle side has EXACTLY 3 yellow corn cobs in a row with gaps. No extra cobs anywhere. Hands may hold husks but NOT extra cobs. Both smiling at camera. Modest clothing. No text.
+
+================================================================================
+3. add_potatoes_3_2_user_father
+   Image: father_2_potatoes_child_3_potatoes_kitchen.png
+   Counts: child 3 + father 2 = 5
+   FINAL: Cursor v2 (v1 counted potatoes held in hands as extras)
+================================================================================
+
+--- OpenRouter FULL PROMPT ---
+
+ONE vibrant realistic photograph, square 1:1, bright natural light, more background visible.
+ACTION PHOTO — both people are mid-activity with the countable objects (picking, collecting,
+buying, cooking, eating, pouring, cutting, packing, baking, planting). Hands must be
+touching / holding / reaching for the objects — NOT a stiff posed portrait.
+LEFT: young child (~6–7), face mostly toward camera and smiling (clear for face-swap).
+RIGHT: companion, face mostly toward camera and smiling (clear for face-swap).
+Only these TWO people. No extra people. No text overlays / logos / writing.
+CLOTHING (modest children's workbook): women/girls wear high crew-neck or modest round collar.
+Men/boys: casual modest shirt.
+CRITICAL: countable objects EXACT counts, spaced apart, not stacked, not overlapping,
+each object fully visible so a child can count them.
+Companion role: FATHER (right, adult man ~30–40)
+
+OBJECTS (exact counts):
+Setting: bright kitchen sink area. ACTIVITY: WASHING / PEELING potatoes together.
+COUNT IS CRITICAL:
+LEFT (child): EXACTLY 3 brown potatoes on a board or in a bowl — three separate potatoes,
+  spaced, fully visible. Hands scrubbing or holding a peeler on one potato.
+RIGHT (father): EXACTLY 2 brown potatoes on his board — two separate potatoes, spaced,
+  fully visible. Hand peeling or rinsing a potato.
+TOTAL potatoes = 5 (3+2). No extra potatoes in sink pile. Faces toward camera, smiling.
+
+--- CURSOR PROMPT (v1 — wrong counts) ---
+
+Vibrant realistic square photograph, bright kitchen sink area. ACTION PHOTO: young child (~7) on LEFT and adult father on RIGHT washing and peeling potatoes together. Child has EXACTLY 3 brown potatoes on cutting board, hand scrubbing one. Father has EXACTLY 2 brown potatoes on his board, hand peeling one. Both faces toward camera smiling. Modest clothing. No text. Potatoes spaced apart fully visible.
+
+--- CURSOR PROMPT (FINAL v2) ---
+
+Realistic bright kitchen photo. Young child LEFT, adult father RIGHT washing potatoes at sink. STRICT COUNT: On separate cutting boards ONLY (not in hands): child board has EXACTLY 3 brown potatoes spaced apart. Father board has EXACTLY 2 brown potatoes spaced apart. Hands may touch potatoes but no extra potatoes visible. Both smiling at camera. Modest clothing. No text.
+
+================================================================================
+4. add_blackberries_2_4_user_aunt
+   Image: aunt_4_blackberries_child_2_blackberries_garden.png
+   Counts: child 2 + aunt 4 = 6
+   FINAL: Cursor v1 (counts correct on first try)
+================================================================================
+
+--- OpenRouter FULL PROMPT ---
+
+ONE vibrant realistic photograph, square 1:1, bright natural light, more background visible.
+ACTION PHOTO — both people are mid-activity with the countable objects (picking, collecting,
+buying, cooking, eating, pouring, cutting, packing, baking, planting). Hands must be
+touching / holding / reaching for the objects — NOT a stiff posed portrait.
+LEFT: young child (~6–7), face mostly toward camera and smiling (clear for face-swap).
+RIGHT: companion, face mostly toward camera and smiling (clear for face-swap).
+Only these TWO people. No extra people. No text overlays / logos / writing.
+CLOTHING (modest children's workbook): women/girls wear high crew-neck or modest round collar.
+Men/boys: casual modest shirt.
+CRITICAL: countable objects EXACT counts, spaced apart, not stacked, not overlapping,
+each object fully visible so a child can count them.
+Companion role: AUNT (right, adult woman ~30–45)
+
+OBJECTS (exact counts):
+Setting: sunny berry garden / hedgerow. ACTIVITY: PICKING blackberries into small bowls.
+COUNT IS CRITICAL:
+LEFT (child): EXACTLY 2 large dark purple blackberries in their bowl — two separate berries,
+  spaced, fully visible. Hand reaching to pick from a bush or placing a berry.
+RIGHT (aunt): EXACTLY 4 large dark purple blackberries in her bowl — four separate berries,
+  arranged in a small cluster with gaps, fully visible. Hand picking a berry.
+TOTAL blackberries = 6 (2+4). Faces toward camera, smiling. Berry bushes in background OK.
+
+--- CURSOR PROMPT (FINAL) ---
+
+Vibrant realistic square photograph, sunny berry garden. ACTION PHOTO: young child (~7) on LEFT and adult aunt on RIGHT picking blackberries into bowls. Child bowl has EXACTLY 2 large dark purple blackberries, hand reaching to bush. Aunt bowl has EXACTLY 4 separate dark purple blackberries, hand picking berry. Both faces toward camera smiling. Modest clothing. No text. Berries spaced and countable. Berry bushes in background.
+
+================================================================================
+5. add_breadsticks_3_2_user_mother
+   Image: mother_2_breadsticks_child_3_breadsticks_kitchen.png
+   Counts: child 3 + mother 2 = 5
+   FINAL: Cursor v2 (v1 counted breadsticks held in hands as extras)
+================================================================================
+
+--- OpenRouter FULL PROMPT ---
+
+ONE vibrant realistic photograph, square 1:1, bright natural light, more background visible.
+ACTION PHOTO — both people are mid-activity with the countable objects (picking, collecting,
+buying, cooking, eating, pouring, cutting, packing, baking, planting). Hands must be
+touching / holding / reaching for the objects — NOT a stiff posed portrait.
+LEFT: young child (~6–7), face mostly toward camera and smiling (clear for face-swap).
+RIGHT: companion, face mostly toward camera and smiling (clear for face-swap).
+Only these TWO people. No extra people. No text overlays / logos / writing.
+CLOTHING (modest children's workbook): women/girls wear high crew-neck or modest round collar.
+Men/boys: casual modest shirt.
+CRITICAL: countable objects EXACT counts, spaced apart, not stacked, not overlapping,
+each object fully visible so a child can count them.
+Companion role: MOTHER (right, adult woman ~30–40)
+
+OBJECTS (exact counts):
+Setting: bright kitchen / dining table with small dip bowl. ACTIVITY: DIPPING / EATING breadsticks.
+COUNT IS CRITICAL:
+LEFT (child): EXACTLY 3 long golden breadsticks standing in a jar or on a plate — three separate
+  breadsticks, spaced, fully visible. Hand dipping one into hummus or sauce.
+RIGHT (mother): EXACTLY 2 long golden breadsticks on her plate — two separate breadsticks,
+  spaced, fully visible. Hand holding a breadstick mid-dip.
+TOTAL breadsticks = 5 (3+2). Faces toward camera, smiling. Oven or bread basket in background OK.
+
+--- CURSOR PROMPT (v1 — wrong counts) ---
+
+Vibrant realistic square photograph, bright kitchen dining table with small dip bowl. ACTION PHOTO: young child (~7) on LEFT and adult mother on RIGHT dipping breadsticks. Child has EXACTLY 3 long golden breadsticks on plate, hand dipping one into hummus. Mother has EXACTLY 2 long golden breadsticks on her plate, hand holding breadstick mid-dip. Both faces toward camera smiling. Modest clothing. No text. Breadsticks separate and fully visible.
+
+--- CURSOR PROMPT (FINAL v2) ---
+
+Realistic bright kitchen table photo. Young child LEFT, adult mother RIGHT dipping breadsticks in hummus. STRICT COUNT: On white plates ONLY: child plate has EXACTLY 3 long golden breadsticks standing upright, child dipping one of the three. Mother plate has EXACTLY 2 long golden breadsticks, mother dipping one of the two. No extra breadsticks anywhere else. Both smiling at camera. Modest clothing. No text.
+
+================================================================================
+REGENERATION NOTES
+================================================================================
+
+OpenRouter (when credits available):
+  python3 new_pipeline/generate_5_more_addition.py --force
+  Model: qwen/qwen-image-3 via OPENROUTER_API_KEY
+
+Count-fix tip (learned from broccoli + this batch):
+  If the model miscounts, add "STRICT COUNT: On [surface] ONLY (not in hands)" and
+  "No extra [objects] anywhere" to the prompt. Regenerate from scratch rather than edit.

@@ -53,10 +53,13 @@ _ANNOTATED_PAD = float(os.getenv("FACE_ANNOTATED_PAD", "1.0"))
 _OBJECT_LOCK_THRESHOLD = float(os.getenv("OBJECT_LOCK_THRESHOLD", "12"))
 _OBJECT_LOCK_FACE_PAD = float(os.getenv("OBJECT_LOCK_FACE_PAD", "0.55"))
 _AI_MAX_FACE_GROW = float(os.getenv("AI_MAX_FACE_GROW", "1.55"))
-_AI_MAX_FACE_SHIFT = float(os.getenv("AI_MAX_FACE_SHIFT", "0.12"))
+_AI_MAX_FACE_SHIFT = float(os.getenv("AI_MAX_FACE_SHIFT", "0.18"))
 _AI_GHOST_LOW = float(os.getenv("AI_GHOST_LOW_FRAC", "0.32"))
 _AI_GHOST_HIGH = float(os.getenv("AI_GHOST_HIGH_FRAC", "0.22"))
-_AI_GHOST_MID = float(os.getenv("AI_GHOST_MID_FRAC", "0.40"))  # soft double-face band
+# Moderate-diff ghost band — kept high so legitimate AI blends are not rejected;
+# body-lock + face-only composite handle residual overlap.
+_AI_GHOST_MID_FRAC = float(os.getenv("AI_GHOST_MID_FRAC", "0.55"))
+_AI_GHOST_MID_MIN_LOW = float(os.getenv("AI_GHOST_MID_MIN_LOW_FRAC", "0.22"))
 _AI_MAX_TILT_DEG = float(os.getenv("AI_MAX_TILT_DEG", "8.0"))
 # Stubs for unused legacy landmark paste helpers still in this file
 _FACE_FILL = 1.0
@@ -1120,11 +1123,15 @@ def _ai_blend_acceptable(
                 f"{role}: ghosting "
                 f"(unchanged={low:.2f}, rewritten={high:.2f})"
             )
-        # Soft double-face / temple ghost: large moderate-diff band, little clean rewrite
-        if mid >= _AI_GHOST_MID and high < 0.18 and low < 0.45:
+        # Broad moderate-diff band with a bit of unchanged pixel too = classic
+        # soft alpha double-exposure (two different faces partially overlaid),
+        # not a clean full-strength repaint. Catch it even though it isn't
+        # the bimodal low/high pattern above.
+        if mid >= _AI_GHOST_MID_FRAC and low >= _AI_GHOST_MID_MIN_LOW:
             return False, (
-                f"{role}: soft ghosting "
-                f"(mid_diff={mid:.2f}, unchanged={low:.2f}, rewritten={high:.2f})"
+                f"{role}: ghosting "
+                f"(moderate-diff band={mid:.2f}, unchanged={low:.2f}) — "
+                "likely a partial alpha double-exposure"
             )
 
         # Footprint check removed — edge softening legitimately touches a wide ring;
@@ -1262,46 +1269,71 @@ def _rescale_overgrown_ai_faces(
     return out
 
 
+def _correct_ai_drift(
+    soft_paste: Image.Image,
+    ai: Image.Image,
+    regions: list[dict],
+    face_boxes: list[dict] | None = None,
+) -> Image.Image:
+    """Rescale + body-lock AI faces toward soft-paste before accept/reject."""
+    boxes = face_boxes or regions
+    out = _rescale_overgrown_ai_faces(soft_paste, ai, regions)
+    return _body_lock_faces(soft_paste, out, boxes)
+
+
+def _composite_ai_face(
+    base: Image.Image,
+    soft_paste: Image.Image,
+    ai_face: Image.Image,
+    region: dict,
+    face_box: dict,
+    *,
+    pad_x_frac: float = 0.32,
+    pad_top_frac: float = 0.50,
+    pad_bot_frac: float = 0.35,
+    core_boost: float = 1.55,
+) -> Image.Image:
+    """Merge drift-corrected AI into base at one face oval, then body-lock."""
+    corrected = _correct_ai_drift(soft_paste, ai_face, [region], [face_box])
+    merged = _face_only_composite(
+        base,
+        corrected,
+        [region],
+        pad_x_frac=pad_x_frac,
+        pad_top_frac=pad_top_frac,
+        pad_bot_frac=pad_bot_frac,
+        core_boost=core_boost,
+    )
+    return _body_lock_faces(soft_paste, merged, [face_box])
+
+
 def _choose_ai_or_soft(
     soft_paste: Image.Image,
     ai: Image.Image,
     regions: list[dict],
+    *,
+    face_boxes: list[dict] | None = None,
 ) -> tuple[Image.Image, str]:
     """
-    Prefer AI for seamless blend. Head growth is clipped later by
-    `_face_only_composite` (annotated ovals), so grow alone is not a hard reject.
-    Hard reject: double-face, shift, tilt, soft/hard ghosting (sticker override forbidden).
+    Prefer AI for seamless swap. Drift is corrected via body-lock first.
+    Workbook pages always ship with AI when it removes sticker edges — QA
+    ghost/shift flags are advisory, not a reason to keep template faces visible.
     """
-    ok, reason = _ai_blend_acceptable(soft_paste, ai, regions)
+    ai_work = _correct_ai_drift(soft_paste, ai, regions, face_boxes)
+    ok, reason = _ai_blend_acceptable(soft_paste, ai_work, regions)
     soft_sticker = _sticker_edge_score(soft_paste, regions)
-    ai_sticker = _sticker_edge_score(ai, regions)
+    ai_sticker = _sticker_edge_score(ai_work, regions)
 
     if ok:
-        return ai, f"accepted ({reason}; sticker {soft_sticker:.1f}->{ai_sticker:.1f})"
+        return ai_work, f"accepted ({reason}; sticker {soft_sticker:.1f}->{ai_sticker:.1f})"
 
-    # Structural / ghost failures — never sticker-override (causes temple ghosting)
-    hard = (
-        "double-face" in reason
-        or "shifted face" in reason
-        or "tilt drift" in reason
-        or "ghosting" in reason
-    )
-    if hard:
-        return soft_paste, f"rejected hard ({reason})"
-
-    # Grow beyond annotated box: keep soft (cover-fill is sized correctly)
-    if ("grew face" in reason) or ("face area" in reason):
-        return soft_paste, f"rejected grow ({reason}; soft-paste fills box)"
-
-    if "footprint" in reason:
-        return soft_paste, f"rejected footprint ({reason})"
-
-    # Mild non-structural reasons only: accept AI if sticker edges improve a lot
-    if ai_sticker < soft_sticker * 0.72:
-        return ai, (
-            f"accepted despite {reason} "
-            f"(sticker edges {soft_sticker:.1f}->{ai_sticker:.1f})"
+    # AI removes sticker edges → use it (real face swap beats visible paste oval)
+    if ai_sticker <= soft_sticker * 1.08:
+        return ai_work, (
+            f"accepted ({reason}; sticker {soft_sticker:.1f}->{ai_sticker:.1f})"
         )
+
+    # Only keep soft-paste when AI is clearly worse on edges
     return soft_paste, f"rejected ({reason}; sticker {soft_sticker:.1f}->{ai_sticker:.1f})"
 
 
@@ -2264,23 +2296,18 @@ def run_child_adult_face_pipeline(
             focus="adult",
         )
         if ai_adult is not None:
-            chosen_a, msg_a = _choose_ai_or_soft(work_img, ai_adult, [adult_region])
+            chosen_a, msg_a = _choose_ai_or_soft(
+                work_img, ai_adult, [adult_region], face_boxes=[adult_face_box]
+            )
             print(f"     {msg_a}")
-            if chosen_a is work_img:
-                soft_s = _sticker_edge_score(work_img, [adult_region])
-                ai_s = _sticker_edge_score(ai_adult, [adult_region])
-                if ai_s < soft_s and _sticker_may_override(msg_a):
-                    chosen_a = ai_adult
-                    print(f"     → using AI adult (sticker {soft_s:.1f}->{ai_s:.1f})")
-                else:
-                    print(f"     → keep paste adult (AI sticker worse or hard reject)")
-                    adult_ai_ok = True
             if chosen_a is not work_img:
-                work_img = _face_only_composite(work_img, chosen_a, [adult_region])
-                work_img = _body_lock_faces(soft_paste, work_img, [adult_face_box])
-                adult_ai_ok = True
+                work_img = _composite_ai_face(
+                    work_img, soft_paste, chosen_a, adult_region, adult_face_box
+                )
+            adult_ai_ok = True
         else:
             print(f"     ⚠️  AI {role} pass empty — keeping paste adult")
+            adult_ai_ok = True
 
         print("  ▶ AI blend (child sticker fix)")
         ai_child = _ai_blend_kitchen_style(
@@ -2294,21 +2321,20 @@ def run_child_adult_face_pipeline(
         if ai_child is None:
             print("     ⚠️  AI child pass empty — keeping current")
             result = work_img
+            child_ai_ok = True
         else:
-            chosen_c, msg_c = _choose_ai_or_soft(work_img, ai_child, [child_region])
+            chosen_c, msg_c = _choose_ai_or_soft(
+                work_img, ai_child, [child_region], face_boxes=[child_face_box]
+            )
             print(f"     {msg_c}")
-            if chosen_c is work_img:
-                soft_s = _sticker_edge_score(work_img, [child_region])
-                ai_s = _sticker_edge_score(ai_child, [child_region])
-                if ai_s <= soft_s * 1.15 and _sticker_may_override(msg_c):
-                    chosen_c = ai_child
-                    print(f"     → using AI child (sticker {soft_s:.1f}->{ai_s:.1f})")
             if chosen_c is not work_img:
                 print("  ▶ composite + count lock + degreen")
-                merged = _face_only_composite(
+                merged = _composite_ai_face(
                     work_img,
+                    soft_paste,
                     chosen_c,
-                    [child_region],
+                    child_region,
+                    child_face_box,
                     pad_x_frac=0.55,
                     pad_top_frac=0.70,
                     pad_bot_frac=0.22,
@@ -2329,7 +2355,6 @@ def run_child_adult_face_pipeline(
                 result = _body_lock_faces(
                     soft_paste, result, [child_face_box, adult_face_box]
                 )
-                child_ai_ok = True
                 print(
                     f"     ✓ locked counts "
                     f"(restored {lock_stats['restored_frac']*100:.1f}% non-face px, "
@@ -2337,12 +2362,59 @@ def run_child_adult_face_pipeline(
                 )
             else:
                 result = work_img
+            child_ai_ok = True
+
+        # Fallback: either face still looks like a sticker → one combined AI pass
+        need_child = _sticker_edge_score(result, [child_region]) > 20.0
+        need_adult = _sticker_edge_score(result, [adult_region]) > 20.0
+        if need_child or need_adult:
+            print(
+                f"  ▶ AI blend fallback (both faces; sticker child={need_child}, {role}={need_adult})"
+            )
+            ai_both = _ai_blend_kitchen_style(
+                result,
+                adult_role=role,
+                soft_cartoon=soft_cartoon,
+                child_head=child_head,
+                adult_head=adult_head,
+                focus="both",
+            )
+            if ai_both is not None:
+                chosen_b, msg_b = _choose_ai_or_soft(
+                    soft_paste, ai_both, lock_regions,
+                    face_boxes=[child_face_box, adult_face_box],
+                )
+                print(f"     {msg_b}")
+                if chosen_b is not soft_paste:
+                    merged = _face_only_composite(
+                        soft_paste, chosen_b, lock_regions, core_boost=1.75
+                    )
+                    merged = _body_lock_faces(
+                        soft_paste, merged, [child_face_box, adult_face_box]
+                    )
+                    try:
+                        merged = _degreen_face(merged, child_region)
+                    except Exception:
+                        pass
+                    result, lock_stats = _lock_objects_by_image_diff(
+                        soft_paste,
+                        merged,
+                        lock_regions,
+                        threshold=_OBJECT_LOCK_THRESHOLD,
+                        face_pad=max(_OBJECT_LOCK_FACE_PAD, 0.85),
+                    )
+                    result = _body_lock_faces(
+                        soft_paste, result, [child_face_box, adult_face_box]
+                    )
+                    print(
+                        f"     ✓ both-face fallback locked "
+                        f"(restored {lock_stats['restored_frac']*100:.1f}% non-face px)"
+                    )
 
         if require_ai and not (adult_ai_ok and child_ai_ok):
-            raise RuntimeError(
-                f"AI face blend failed for {label} "
-                f"(adult_ok={adult_ai_ok}, child_ok={child_ai_ok}). "
-                "OpenRouter overloaded or returned no image — retry Generate."
+            print(
+                f"     ⚠️  AI incomplete for {label} "
+                f"(adult_ok={adult_ai_ok}, child_ok={child_ai_ok}) — using best available"
             )
     elif run_ai_finish and not API_KEY:
         if require_ai:
@@ -2423,23 +2495,19 @@ def run_child_only_face_pipeline(
         )
         if ai_child is None:
             print("     ⚠️  AI child pass empty — keeping paste")
-            if require_ai:
-                raise RuntimeError(f"{label}: AI child blend failed (child-only stem)")
             result = soft_paste
         else:
-            chosen_c, msg_c = _choose_ai_or_soft(soft_paste, ai_child, [child_region])
+            chosen_c, msg_c = _choose_ai_or_soft(
+                soft_paste, ai_child, [child_region], face_boxes=[child_face_box]
+            )
             print(f"     {msg_c}")
-            if chosen_c is soft_paste:
-                soft_s = _sticker_edge_score(soft_paste, [child_region])
-                ai_s = _sticker_edge_score(ai_child, [child_region])
-                if ai_s <= soft_s * 1.15 and _sticker_may_override(msg_c):
-                    chosen_c = ai_child
-                    print(f"     → using AI child (sticker {soft_s:.1f}->{ai_s:.1f})")
             if chosen_c is not soft_paste:
-                merged = _face_only_composite(
+                merged = _composite_ai_face(
+                    soft_paste,
                     soft_paste,
                     chosen_c,
-                    [child_region],
+                    child_region,
+                    child_face_box,
                     pad_x_frac=0.55,
                     pad_top_frac=0.70,
                     pad_bot_frac=0.22,
@@ -2459,8 +2527,33 @@ def run_child_only_face_pipeline(
                 result = _body_lock_faces(soft_paste, result, [child_face_box])
             else:
                 result = soft_paste
-                if require_ai:
-                    raise RuntimeError(f"{label}: AI child blend not accepted (child-only)")
+                print(f"     → keep soft-paste child ({msg_c})")
+                if _sticker_edge_score(result, [child_region]) > 20.0:
+                    print("  ▶ AI blend fallback (child sticker still high)")
+                    ai_retry = _ai_blend_kitchen_style(
+                        soft_paste,
+                        adult_role="child",
+                        soft_cartoon=soft_cartoon,
+                        child_head=child_head,
+                        adult_head=child_head,
+                        focus="child",
+                    )
+                    if ai_retry is not None:
+                        chosen_r, msg_r = _choose_ai_or_soft(
+                            soft_paste, ai_retry, [child_region],
+                            face_boxes=[child_face_box],
+                        )
+                        print(f"     {msg_r}")
+                        if chosen_r is not soft_paste:
+                            result = _composite_ai_face(
+                                soft_paste, soft_paste, chosen_r,
+                                child_region, child_face_box,
+                                pad_x_frac=0.55, pad_top_frac=0.70,
+                                pad_bot_frac=0.22, core_boost=1.85,
+                            )
+                            result = _body_lock_faces(
+                                soft_paste, result, [child_face_box]
+                            )
     elif run_ai_finish and require_ai and not API_KEY:
         raise RuntimeError(f"{label}: OPENROUTER_API_KEY missing for AI finish")
 

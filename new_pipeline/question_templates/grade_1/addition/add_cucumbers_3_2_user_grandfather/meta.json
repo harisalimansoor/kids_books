@@ -1,0 +1,155 @@
+{
+  "stem_id": "add_cucumbers_3_2_user_grandfather",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "grandfather_2_cucumbers_child_3_cucumbers_kitchen.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandfather-locked. Paste child + grandfather faces only."
+  },
+  "interests": {
+    "foods": [
+      "cucumbers"
+    ],
+    "hobbies": [
+      "gardening",
+      "cooking"
+    ],
+    "notes": "Harvesting cucumbers with grandfather addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 263,
+      "y": 350,
+      "w": 115,
+      "h": 137,
+      "landmarks": {
+        "right_eye": [
+          303,
+          403
+        ],
+        "left_eye": [
+          356,
+          405
+        ],
+        "nose": [
+          333,
+          436
+        ],
+        "mouth_right": [
+          301,
+          452
+        ],
+        "mouth_left": [
+          349,
+          454
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "grandfather",
+      "x": 606,
+      "y": 106,
+      "w": 152,
+      "h": 215,
+      "landmarks": {
+        "right_eye": [
+          634,
+          213
+        ],
+        "left_eye": [
+          699,
+          194
+        ],
+        "nose": [
+          670,
+          251
+        ],
+        "mouth_right": [
+          663,
+          277
+        ],
+        "mouth_left": [
+          720,
+          261
+        ]
+      },
+      "confidence": 0.914
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "cucumbers",
+      "singular": "cucumber",
+      "plural": "cucumbers",
+      "count": 3,
+      "container": "basket"
+    },
+    {
+      "id": "grandfather",
+      "owner": "grandfather",
+      "object_id": "cucumbers",
+      "singular": "cucumber",
+      "plural": "cucumbers",
+      "count": 2,
+      "container": "basket"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "formula": "3+2",
+    "explanation": "3 cucumbers + 2 cucumbers = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 3 child + 2 grandfather."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": "Batch: generate_6_more_addition.py"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

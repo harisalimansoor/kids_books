@@ -1,0 +1,154 @@
+{
+  "stem_id": "add_yogurts_2_3_user_grandmother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "grandmother_3_yogurts_child_2_yogurts_kitchen.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste child + grandmother faces only."
+  },
+  "interests": {
+    "foods": [
+      "yogurt"
+    ],
+    "hobbies": [
+      "cooking"
+    ],
+    "notes": "Opening / eating yogurt pots with grandmother addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 201,
+      "y": 365,
+      "w": 153,
+      "h": 189,
+      "landmarks": {
+        "right_eye": [
+          251,
+          438
+        ],
+        "left_eye": [
+          316,
+          444
+        ],
+        "nose": [
+          285,
+          480
+        ],
+        "mouth_right": [
+          249,
+          505
+        ],
+        "mouth_left": [
+          303,
+          510
+        ]
+      },
+      "confidence": 0.938
+    },
+    {
+      "role": "grandmother",
+      "x": 579,
+      "y": 133,
+      "w": 178,
+      "h": 223,
+      "landmarks": {
+        "right_eye": [
+          611,
+          243
+        ],
+        "left_eye": [
+          680,
+          221
+        ],
+        "nose": [
+          646,
+          281
+        ],
+        "mouth_right": [
+          646,
+          309
+        ],
+        "mouth_left": [
+          707,
+          290
+        ]
+      },
+      "confidence": 0.923
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "yogurts",
+      "singular": "yogurt pot",
+      "plural": "yogurt pots",
+      "count": 2,
+      "container": "table"
+    },
+    {
+      "id": "grandmother",
+      "owner": "grandmother",
+      "object_id": "yogurts",
+      "singular": "yogurt pot",
+      "plural": "yogurt pots",
+      "count": 3,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "formula": "2+3",
+    "explanation": "2 yogurt pots + 3 yogurt pots = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 2 child + 3 grandmother."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": "Batch: generate_6_more_addition.py"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

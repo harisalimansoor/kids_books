@@ -664,6 +664,39 @@ def _stem_has_child_face(stem: dict) -> bool:
     return "child" in roles or "user" in roles or "child" in slots or "user" in slots
 
 
+def _stem_requires_sibling(stem: dict) -> bool:
+    """True when the question/scene needs a named sibling character."""
+    _sib = frozenset({"sibling", "brother", "sister"})
+    slots = set(stem.get("face_slots") or [])
+    roles = set(stem.get("region_roles") or set())
+    if slots & _sib or roles & _sib:
+        return True
+    q = stem.get("question_template") or ""
+    if any(f"{{{k}}}" in q for k in ("sibling_name", "brother_name", "sister_name")):
+        return True
+    pers = (stem.get("meta") or {}).get("personalisation") or {}
+    if "sibling_name" in (pers.get("name_placeholders") or {}):
+        return True
+    return False
+
+
+def _sibling_configured(
+    *,
+    has_sibling_photo: bool = False,
+    family_names: dict[str, str] | None = None,
+) -> bool:
+    """User provided a sibling/brother/sister name and/or face photo."""
+    _placeholders = frozenset({"sibling", "brother", "sister", "your sibling"})
+    if has_sibling_photo:
+        return True
+    fn = family_names or {}
+    for key in ("sibling", "brother", "sister"):
+        raw = (fn.get(key) or "").strip()
+        if raw and raw.lower() not in _placeholders:
+            return True
+    return False
+
+
 def _stem_personalizable(stem: dict) -> bool:
     """True when face-swap can run (child box + locked adult box if required)."""
     regions = (stem.get("meta") or {}).get("face_regions") or []
@@ -726,20 +759,25 @@ def stems_for_available_roles(
     *,
     has_child_photo: bool = True,
     has_sibling_photo: bool = False,
+    family_names: dict[str, str] | None = None,
     require_personalizable: bool = False,
 ) -> list[dict]:
     """Keep stems whose locked adult role has an uploaded photo (or child-only stems)."""
     avail = {r.lower() for r in available_roles}
+    sibling_ok = _sibling_configured(
+        has_sibling_photo=has_sibling_photo,
+        family_names=family_names,
+    )
     out = []
     for stem in stems:
         if require_personalizable and not _stem_personalizable(stem):
+            continue
+        if _stem_requires_sibling(stem) and not sibling_ok:
             continue
         role = (stem.get("template_adult_role") or "").strip().lower()
         if not role:
             if not has_child_photo or not _stem_has_child_face(stem):
                 continue
-            # Child-only / child+sibling Hamdan scenes: personalise child; sibling
-            # face stays template unless a sibling/brother/sister photo was uploaded.
             out.append(stem)
             continue
         allowed = stem.get("allowed_adult_roles") or [role]
@@ -911,6 +949,17 @@ def display_name_for_role(role: str, family_names: dict[str, str] | None = None)
     return ROLE_DISPLAY.get(role, role.replace("_", " ").title())
 
 
+def sibling_display_name(family_names: dict[str, str] | None = None) -> str:
+    """Brother/sister/sibling name for {sibling_name} placeholders."""
+    family_names = family_names or {}
+    placeholders = frozenset({"sibling", "brother", "sister", "your sibling"})
+    for key in ("sibling", "brother", "sister"):
+        raw = (family_names.get(key) or "").strip()
+        if raw and raw.lower() not in placeholders:
+            return raw
+    return "your sibling"
+
+
 def fill_question_text(
     template: str,
     *,
@@ -931,7 +980,7 @@ def fill_question_text(
         "father_name": display_name_for_role("father", family_names),
         "grandmother_name": display_name_for_role("grandmother", family_names),
         "grandfather_name": display_name_for_role("grandfather", family_names),
-        "sibling_name": (family_names.get("sibling") or "your sibling").strip(),
+        "sibling_name": sibling_display_name(family_names),
         "uncle_name": display_name_for_role("uncle", family_names),
         "aunt_name": display_name_for_role("aunt", family_names),
         "brother_name": display_name_for_role("brother", family_names),
@@ -981,13 +1030,16 @@ def build_workbook_items(
     out_dir: Path | None = None,
     on_progress=None,
     skip_on_error: bool = True,
+    target_count: int | None = None,
+    backup_stems: list[dict] | None = None,
 ) -> tuple[list[dict], list[dict]]:
     """
     Personalize each stem and return PDF-ready items.
 
     face_paths keys: user/child, mother, father, grandmother, grandfather
     on_progress: optional callable(i, total, stem_id) for Streamlit UI updates
-    skip_on_error: if True, skip failed stems and continue; if False, raise on first error
+    skip_on_error: if True, skip failed stems and try backups; if False, raise on first error
+    target_count: minimum pages to produce (pulls from backup_stems when a stem fails)
     Returns (items, skipped) where skipped is [{stem_id, error}, ...].
     """
     from swapping_engine import personalize as _personalize
@@ -1009,10 +1061,22 @@ def build_workbook_items(
     if not child_photo:
         raise ValueError("Child face photo is required.")
 
-    total = len(stems)
+    goal = target_count if target_count is not None else len(stems)
+    queue: list[dict] = list(stems)
+    seen_ids = {s["stem_id"] for s in queue}
+    for extra in backup_stems or []:
+        sid = extra.get("stem_id")
+        if sid and sid not in seen_ids:
+            queue.append(extra)
+            seen_ids.add(sid)
+
+    total = max(goal, len(queue))
     items: list[dict] = []
     skipped: list[dict] = []
-    for i, stem in enumerate(stems, start=1):
+    qi = 0
+    while len(items) < goal and qi < len(queue):
+        stem = queue[qi]
+        qi += 1
         role = (stem.get("template_adult_role") or "").strip().lower()
         adult_photo = face_paths.get(role) if role else None
         err_prefix = f"{stem['stem_id']}"
@@ -1025,7 +1089,7 @@ def build_workbook_items(
                 raise ValueError(f"{err_prefix}: missing child/adult face annotation")
 
             if on_progress is not None:
-                on_progress(i, total, stem["stem_id"])
+                on_progress(len(items) + 1, goal, stem["stem_id"])
 
             out_path = out_dir / f"{len(items) + 1:02d}_{stem['stem_id']}_{role or 'child'}.png"
             sibling_photo = (
@@ -1042,7 +1106,7 @@ def build_workbook_items(
                 run_ai_finish=run_ai_finish,
                 soft_cartoon=soft_cartoon,
                 child_gender=child_gender,
-                require_ai=bool(run_ai_finish),
+                require_ai=False,
                 sibling_photo=sibling_photo,
             )
 
@@ -1074,6 +1138,12 @@ def build_workbook_items(
                 raise
             skipped.append({"stem_id": stem["stem_id"], "error": str(exc)})
             print(f"  ⚠️  Skipped {stem['stem_id']}: {exc}")
+
+    if len(items) < goal:
+        print(
+            f"  ⚠️  Only {len(items)}/{goal} questions personalised "
+            f"({len(skipped)} failed, no more backup stems)"
+        )
 
     if not items:
         detail = skipped[0]["error"] if skipped else "no stems processed"

@@ -1,0 +1,155 @@
+{
+  "stem_id": "add_raspberries_2_3_user_aunt",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "aunt_3_raspberries_child_2_raspberries_kitchen.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "aunt"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "aunt",
+    "allowed_adult_roles": [
+      "aunt"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "aunt_name": "aunt"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is aunt-locked. Paste child + aunt faces only."
+  },
+  "interests": {
+    "foods": [
+      "raspberries"
+    ],
+    "hobbies": [
+      "cooking",
+      "gardening"
+    ],
+    "notes": "Picking raspberries with aunt addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 177,
+      "y": 414,
+      "w": 147,
+      "h": 174,
+      "landmarks": {
+        "right_eye": [
+          224,
+          489
+        ],
+        "left_eye": [
+          287,
+          488
+        ],
+        "nose": [
+          264,
+          526
+        ],
+        "mouth_right": [
+          228,
+          551
+        ],
+        "mouth_left": [
+          282,
+          551
+        ]
+      },
+      "confidence": 0.942
+    },
+    {
+      "role": "aunt",
+      "x": 622,
+      "y": 133,
+      "w": 158,
+      "h": 198,
+      "landmarks": {
+        "right_eye": [
+          645,
+          230
+        ],
+        "left_eye": [
+          712,
+          212
+        ],
+        "nose": [
+          677,
+          269
+        ],
+        "mouth_right": [
+          674,
+          293
+        ],
+        "mouth_left": [
+          732,
+          277
+        ]
+      },
+      "confidence": 0.935
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "raspberries",
+      "singular": "raspberry",
+      "plural": "raspberries",
+      "count": 2,
+      "container": "bowl"
+    },
+    {
+      "id": "aunt",
+      "owner": "aunt",
+      "object_id": "raspberries",
+      "singular": "raspberry",
+      "plural": "raspberries",
+      "count": 3,
+      "container": "bowl"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "formula": "2+3",
+    "explanation": "2 raspberries + 3 raspberries = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 2 child + 3 aunt."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": "Batch: generate_6_more_addition.py"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

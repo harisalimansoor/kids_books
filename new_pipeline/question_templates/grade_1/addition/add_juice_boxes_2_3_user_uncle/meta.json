@@ -1,0 +1,154 @@
+{
+  "stem_id": "add_juice_boxes_2_3_user_uncle",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "uncle_3_juice_boxes_child_2_juice_boxes_kitchen.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "uncle"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "uncle",
+    "allowed_adult_roles": [
+      "uncle"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "uncle_name": "uncle"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is uncle-locked. Paste child + uncle faces only."
+  },
+  "interests": {
+    "foods": [
+      "juice"
+    ],
+    "hobbies": [
+      "shopping"
+    ],
+    "notes": "Buying / unpacking juice boxes with uncle addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 212,
+      "y": 289,
+      "w": 139,
+      "h": 174,
+      "landmarks": {
+        "right_eye": [
+          252,
+          361
+        ],
+        "left_eye": [
+          316,
+          358
+        ],
+        "nose": [
+          291,
+          399
+        ],
+        "mouth_right": [
+          259,
+          423
+        ],
+        "mouth_left": [
+          316,
+          420
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "uncle",
+      "x": 581,
+      "y": 60,
+      "w": 156,
+      "h": 203,
+      "landmarks": {
+        "right_eye": [
+          612,
+          156
+        ],
+        "left_eye": [
+          685,
+          142
+        ],
+        "nose": [
+          654,
+          192
+        ],
+        "mouth_right": [
+          633,
+          218
+        ],
+        "mouth_left": [
+          699,
+          206
+        ]
+      },
+      "confidence": 0.933
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "juice_boxes",
+      "singular": "juice box",
+      "plural": "juice boxes",
+      "count": 2,
+      "container": "table"
+    },
+    {
+      "id": "uncle",
+      "owner": "uncle",
+      "object_id": "juice_boxes",
+      "singular": "juice box",
+      "plural": "juice boxes",
+      "count": 3,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "formula": "2+3",
+    "explanation": "2 juice boxes + 3 juice boxes = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 2 child + 3 uncle."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": "Batch: generate_6_more_addition.py"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

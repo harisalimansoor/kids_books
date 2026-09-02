@@ -380,6 +380,7 @@ eligible = (
         available_adult_roles,
         has_child_photo=("user" in saved_face_paths),
         has_sibling_photo=has_sibling_photo,
+        family_names={k: v for k, v in family_names.items() if v},
     )
     if "user" in saved_face_paths
     else []
@@ -490,6 +491,7 @@ if phase == "build":
             has_sibling_photo=any(
                 r in faces for r in ("sibling", "brother", "sister")
             ),
+            family_names=pipeline.get("family_names") or {},
             require_personalizable=True,
         )
     chosen = select_stems(
@@ -497,6 +499,16 @@ if phase == "build":
         pipeline["num_questions"],
         favourite_foods=pipeline.get("favourite_foods") or [],
         favourite_hobbies=pipeline.get("favourite_hobbies") or [],
+        bank_balance=True,
+    )
+    chosen_ids = {s["stem_id"] for s in chosen}
+    backup_pool = [s for s in pool if s["stem_id"] not in chosen_ids]
+    backup_stems = select_stems(
+        backup_pool,
+        max(pipeline["num_questions"] * 3, 6),
+        favourite_foods=pipeline.get("favourite_foods") or [],
+        favourite_hobbies=pipeline.get("favourite_hobbies") or [],
+        strict_interests=False,
         bank_balance=True,
     )
     if not chosen:
@@ -530,14 +542,24 @@ if phase == "build":
                 child_gender=pipeline.get("gender", ""),
                 out_dir=PIPELINE_ROOT / "_runtime" / "personalized",
                 on_progress=_on_stem,
+                target_count=pipeline["num_questions"],
+                backup_stems=backup_stems,
             )
             progress.progress(1.0, text="Done")
             status.empty()
             if skipped:
-                st.warning(
-                    f"**{len(skipped)}** stem(s) skipped due to errors — "
-                    f"PDF will include **{len(items)}** question(s) that personalised successfully."
-                )
+                short = pipeline["num_questions"] - len(items)
+                if short > 0:
+                    st.warning(
+                        f"**{len(skipped)}** stem(s) failed and **{short}** backup(s) "
+                        f"could not fill the gap — PDF has **{len(items)}** of "
+                        f"**{pipeline['num_questions']}** requested."
+                    )
+                else:
+                    st.info(
+                        f"**{len(skipped)}** stem(s) were replaced by backups — "
+                        f"PDF has all **{len(items)}** questions."
+                    )
                 with st.expander("Skipped stems", expanded=False):
                     for s in skipped:
                         st.markdown(f"- `{s['stem_id']}`: {s['error']}")

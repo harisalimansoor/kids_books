@@ -32,7 +32,7 @@
   },
   "face_regions": [
     {
-      "role": "grandfather",
+      "role": "child",
       "x": 0,
       "y": 0,
       "w": 242,
@@ -62,7 +62,7 @@
       "confidence": 0.674
     },
     {
-      "role": "child",
+      "role": "grandfather",
       "x": 878,
       "y": 83,
       "w": 240,

@@ -659,6 +659,22 @@ def snap_ai_faces_to_reference(
         ox = int(round(rcx - acx_s))
         oy = int(round(rcy - acy_s))
 
+        # Safety: the OLD reference face must sit fully inside the pasted
+        # patch, or pasting alone can't fully cover it and a sliver of the
+        # old face will leak through outside the patch bounds.
+        old_face_in_patch = (
+            ox <= r["x"]
+            and oy <= r["y"]
+            and ox + nw >= r["x"] + r["w"]
+            and oy + nh >= r["y"] + r["h"]
+        )
+        if not old_face_in_patch:
+            print(
+                f"     ⚠️  body-lock {role}: shift too large to snap cleanly "
+                f"({dx:.0f},{dy:.0f})px — skipping snap for this region"
+            )
+            continue
+
         canvas = ref_crop.copy()
         # Erase old soft-paste face so it cannot show through fractional alpha
         erase = Image.new("L", canvas.size, 0)
@@ -679,13 +695,12 @@ def snap_ai_faces_to_reference(
         mask = mask.filter(ImageFilter.GaussianBlur(2))
         canvas.paste(scaled, (ox, oy), mask)
 
-        # Safety: if snap still yields 2 faces, fall back to soft-paste
+        # Safety: if snap still yields 2 faces, keep the un-snapped AI crop
         check = detect_faces(canvas) or []
         if len(check) >= 2:
-            out.paste(ref_crop, (x0, y0))
             print(
-                f"     ↳ body-lock {role}: post-snap double-face "
-                f"→ kept soft-paste"
+                f"     ⚠️  body-lock {role}: snap produced {len(check)} "
+                "detectable faces (likely ghost) — keeping un-snapped AI crop"
             )
             continue
 
