@@ -1,0 +1,253 @@
+{
+  "stem_id": "add_balloons_2_8_user",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "user_has_2_balloons_sibling_has_8_balloons_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 1039,
+      "y": 264,
+      "w": 170,
+      "h": 211,
+      "landmarks": {
+        "right_eye": [
+          1084,
+          344
+        ],
+        "left_eye": [
+          1162,
+          347
+        ],
+        "nose": [
+          1120,
+          387
+        ],
+        "mouth_right": [
+          1084,
+          411
+        ],
+        "mouth_left": [
+          1161,
+          412
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "sibling",
+      "x": 289,
+      "y": 133,
+      "w": 158,
+      "h": 197,
+      "landmarks": {
+        "right_eye": [
+          340,
+          206
+        ],
+        "left_eye": [
+          407,
+          213
+        ],
+        "nose": [
+          374,
+          247
+        ],
+        "mouth_right": [
+          337,
+          276
+        ],
+        "mouth_left": [
+          393,
+          282
+        ]
+      },
+      "confidence": 0.942
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "balloons",
+      "singular": "balloon",
+      "plural": "balloons",
+      "count": 2,
+      "container": "table",
+      "positions": [
+        {
+          "x": 1081,
+          "y": 506
+        },
+        {
+          "x": 1167,
+          "y": 506
+        }
+      ]
+    },
+    {
+      "id": "sibling",
+      "owner": "sibling",
+      "object_id": "balloons",
+      "singular": "balloon",
+      "plural": "balloons",
+      "count": 8,
+      "container": "table",
+      "positions": [
+        {
+          "x": 153,
+          "y": 359
+        },
+        {
+          "x": 239,
+          "y": 359
+        },
+        {
+          "x": 325,
+          "y": 359
+        },
+        {
+          "x": 411,
+          "y": 359
+        },
+        {
+          "x": 497,
+          "y": 359
+        },
+        {
+          "x": 583,
+          "y": 359
+        },
+        {
+          "x": 153,
+          "y": 413
+        },
+        {
+          "x": 239,
+          "y": 413
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "10",
+    "options": [
+      "10",
+      "2",
+      "8",
+      "9"
+    ],
+    "formula": "2+8",
+    "explanation": "child (2) + sibling (8) = 10"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/ADDITION/questions.txt",
+    "notes": "ADDITION/10.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Two clear groups of balloons for addition.",
+    "balloon_layout": "two_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Balloons addition stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 1039,
+      "y": 264,
+      "w": 170,
+      "h": 211,
+      "landmarks": {
+        "right_eye": [
+          1084,
+          344
+        ],
+        "left_eye": [
+          1162,
+          347
+        ],
+        "nose": [
+          1120,
+          387
+        ],
+        "mouth_right": [
+          1084,
+          411
+        ],
+        "mouth_left": [
+          1161,
+          412
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "sibling",
+      "x": 289,
+      "y": 133,
+      "w": 158,
+      "h": 197,
+      "landmarks": {
+        "right_eye": [
+          340,
+          206
+        ],
+        "left_eye": [
+          407,
+          213
+        ],
+        "nose": [
+          374,
+          247
+        ],
+        "mouth_right": [
+          337,
+          276
+        ],
+        "mouth_left": [
+          393,
+          282
+        ]
+      },
+      "confidence": 0.942
+    }
+  ]
+}

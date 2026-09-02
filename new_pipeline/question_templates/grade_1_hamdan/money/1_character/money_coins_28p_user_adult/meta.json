@@ -1,0 +1,252 @@
+{
+  "stem_id": "money_coins_28p_user_adult",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "table_28p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 1162,
+      "y": 213,
+      "w": 164,
+      "h": 212,
+      "landmarks": {
+        "right_eye": [
+          1196,
+          304
+        ],
+        "left_eye": [
+          1276,
+          296
+        ],
+        "nose": [
+          1237,
+          342
+        ],
+        "mouth_right": [
+          1210,
+          373
+        ],
+        "mouth_left": [
+          1281,
+          365
+        ]
+      },
+      "confidence": 0.946
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "child",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 28,
+      "value_pence": 28,
+      "container": "table",
+      "positions": [
+        {
+          "x": 1029,
+          "y": 456
+        },
+        {
+          "x": 1115,
+          "y": 456
+        },
+        {
+          "x": 1201,
+          "y": 456
+        },
+        {
+          "x": 1287,
+          "y": 456
+        },
+        {
+          "x": 1373,
+          "y": 456
+        },
+        {
+          "x": 1440,
+          "y": 456
+        },
+        {
+          "x": 1029,
+          "y": 510
+        },
+        {
+          "x": 1115,
+          "y": 510
+        },
+        {
+          "x": 1201,
+          "y": 510
+        },
+        {
+          "x": 1287,
+          "y": 510
+        },
+        {
+          "x": 1373,
+          "y": 510
+        },
+        {
+          "x": 1440,
+          "y": 510
+        },
+        {
+          "x": 1029,
+          "y": 564
+        },
+        {
+          "x": 1115,
+          "y": 564
+        },
+        {
+          "x": 1201,
+          "y": 564
+        },
+        {
+          "x": 1287,
+          "y": 564
+        },
+        {
+          "x": 1373,
+          "y": 564
+        },
+        {
+          "x": 1440,
+          "y": 564
+        },
+        {
+          "x": 1029,
+          "y": 618
+        },
+        {
+          "x": 1115,
+          "y": 618
+        },
+        {
+          "x": 1201,
+          "y": 618
+        },
+        {
+          "x": 1287,
+          "y": 618
+        },
+        {
+          "x": 1373,
+          "y": 618
+        },
+        {
+          "x": 1440,
+          "y": 618
+        },
+        {
+          "x": 1029,
+          "y": 672
+        },
+        {
+          "x": 1115,
+          "y": 672
+        },
+        {
+          "x": 1201,
+          "y": 672
+        },
+        {
+          "x": 1287,
+          "y": 672
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "28",
+    "options": [
+      "28",
+      "27p",
+      "29p",
+      "30p"
+    ],
+    "formula": "28",
+    "explanation": "There are 28 coins."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Money/questions.txt",
+    "notes": "Money/47.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Classroom money activity with clearly separated coin groups."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Coins money stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 1162,
+      "y": 213,
+      "w": 164,
+      "h": 212,
+      "landmarks": {
+        "right_eye": [
+          1196,
+          304
+        ],
+        "left_eye": [
+          1276,
+          296
+        ],
+        "nose": [
+          1237,
+          342
+        ],
+        "mouth_right": [
+          1210,
+          373
+        ],
+        "mouth_left": [
+          1281,
+          365
+        ]
+      },
+      "confidence": 0.946
+    }
+  ]
+}

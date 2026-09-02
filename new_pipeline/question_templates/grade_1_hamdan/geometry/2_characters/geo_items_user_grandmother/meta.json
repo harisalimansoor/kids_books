@@ -1,0 +1,186 @@
+{
+  "stem_id": "geo_items_user_grandmother",
+  "grade": "grade_1",
+  "topic": "geometry",
+  "layout_pattern": "geo",
+  "question_file": "question.txt",
+  "image_file": "grandmother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste child + grandmother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 981,
+      "y": 248,
+      "w": 210,
+      "h": 268,
+      "landmarks": {
+        "right_eye": [
+          1029,
+          349
+        ],
+        "left_eye": [
+          1129,
+          344
+        ],
+        "nose": [
+          1081,
+          398
+        ],
+        "mouth_right": [
+          1041,
+          440
+        ],
+        "mouth_left": [
+          1134,
+          434
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "grandmother",
+      "x": 413,
+      "y": 114,
+      "w": 240,
+      "h": 303,
+      "landmarks": {
+        "right_eye": [
+          498,
+          221
+        ],
+        "left_eye": [
+          606,
+          245
+        ],
+        "nose": [
+          548,
+          299
+        ],
+        "mouth_right": [
+          476,
+          322
+        ],
+        "mouth_left": [
+          578,
+          343
+        ]
+      },
+      "confidence": 0.947
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "shape",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": "Shape answer should be read from the image."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/GEOMETRY/questions.txt",
+    "notes": "GEOMETRY/7.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Items activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 981,
+      "y": 248,
+      "w": 210,
+      "h": 268,
+      "landmarks": {
+        "right_eye": [
+          1029,
+          349
+        ],
+        "left_eye": [
+          1129,
+          344
+        ],
+        "nose": [
+          1081,
+          398
+        ],
+        "mouth_right": [
+          1041,
+          440
+        ],
+        "mouth_left": [
+          1134,
+          434
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "grandmother",
+      "x": 413,
+      "y": 114,
+      "w": 240,
+      "h": 303,
+      "landmarks": {
+        "right_eye": [
+          498,
+          221
+        ],
+        "left_eye": [
+          606,
+          245
+        ],
+        "nose": [
+          548,
+          299
+        ],
+        "mouth_right": [
+          476,
+          322
+        ],
+        "mouth_left": [
+          578,
+          343
+        ]
+      },
+      "confidence": 0.947
+    }
+  ]
+}

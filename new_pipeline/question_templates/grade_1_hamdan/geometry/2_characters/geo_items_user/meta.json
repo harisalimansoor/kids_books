@@ -1,0 +1,184 @@
+{
+  "stem_id": "geo_items_user",
+  "grade": "grade_1",
+  "topic": "geometry",
+  "layout_pattern": "geo",
+  "question_file": "question.txt",
+  "image_file": "items.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 1005,
+      "y": 185,
+      "w": 191,
+      "h": 259,
+      "landmarks": {
+        "right_eye": [
+          1046,
+          291
+        ],
+        "left_eye": [
+          1141,
+          282
+        ],
+        "nose": [
+          1095,
+          338
+        ],
+        "mouth_right": [
+          1062,
+          376
+        ],
+        "mouth_left": [
+          1150,
+          367
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "sibling",
+      "x": 404,
+      "y": 160,
+      "w": 203,
+      "h": 252,
+      "landmarks": {
+        "right_eye": [
+          466,
+          254
+        ],
+        "left_eye": [
+          561,
+          262
+        ],
+        "nose": [
+          513,
+          314
+        ],
+        "mouth_right": [
+          459,
+          340
+        ],
+        "mouth_left": [
+          548,
+          346
+        ]
+      },
+      "confidence": 0.953
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "shape",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": "Shape answer should be read from the image."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/GEOMETRY/questions.txt",
+    "notes": "GEOMETRY/3.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Items activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 1005,
+      "y": 185,
+      "w": 191,
+      "h": 259,
+      "landmarks": {
+        "right_eye": [
+          1046,
+          291
+        ],
+        "left_eye": [
+          1141,
+          282
+        ],
+        "nose": [
+          1095,
+          338
+        ],
+        "mouth_right": [
+          1062,
+          376
+        ],
+        "mouth_left": [
+          1150,
+          367
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "sibling",
+      "x": 404,
+      "y": 160,
+      "w": 203,
+      "h": 252,
+      "landmarks": {
+        "right_eye": [
+          466,
+          254
+        ],
+        "left_eye": [
+          561,
+          262
+        ],
+        "nose": [
+          513,
+          314
+        ],
+        "mouth_right": [
+          459,
+          340
+        ],
+        "mouth_left": [
+          548,
+          346
+        ]
+      },
+      "confidence": 0.953
+    }
+  ]
+}

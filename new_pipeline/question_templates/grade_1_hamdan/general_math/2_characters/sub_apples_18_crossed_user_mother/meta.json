@@ -1,0 +1,273 @@
+{
+  "stem_id": "sub_apples_18_crossed_user_mother",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "mother_table_18_apples_0_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 927,
+      "y": 185,
+      "w": 172,
+      "h": 228,
+      "landmarks": {
+        "right_eye": [
+          960,
+          286
+        ],
+        "left_eye": [
+          1045,
+          276
+        ],
+        "nose": [
+          1004,
+          329
+        ],
+        "mouth_right": [
+          979,
+          360
+        ],
+        "mouth_left": [
+          1056,
+          351
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 477,
+      "y": 86,
+      "w": 191,
+      "h": 256,
+      "landmarks": {
+        "right_eye": [
+          543,
+          171
+        ],
+        "left_eye": [
+          631,
+          192
+        ],
+        "nose": [
+          578,
+          235
+        ],
+        "mouth_right": [
+          522,
+          255
+        ],
+        "mouth_left": [
+          607,
+          274
+        ]
+      },
+      "confidence": 0.944
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "apples",
+      "singular": "apple",
+      "plural": "apples",
+      "count": 18,
+      "container": "table",
+      "positions": [
+        {
+          "x": 357,
+          "y": 380
+        },
+        {
+          "x": 443,
+          "y": 380
+        },
+        {
+          "x": 529,
+          "y": 380
+        },
+        {
+          "x": 615,
+          "y": 380
+        },
+        {
+          "x": 701,
+          "y": 380
+        },
+        {
+          "x": 787,
+          "y": 380
+        },
+        {
+          "x": 357,
+          "y": 434
+        },
+        {
+          "x": 443,
+          "y": 434
+        },
+        {
+          "x": 529,
+          "y": 434
+        },
+        {
+          "x": 615,
+          "y": 434
+        },
+        {
+          "x": 701,
+          "y": 434
+        },
+        {
+          "x": 787,
+          "y": 434
+        },
+        {
+          "x": 357,
+          "y": 488
+        },
+        {
+          "x": 443,
+          "y": 488
+        },
+        {
+          "x": 529,
+          "y": 488
+        },
+        {
+          "x": 615,
+          "y": 488
+        },
+        {
+          "x": 701,
+          "y": 488
+        },
+        {
+          "x": 787,
+          "y": 488
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 18 with 0 crossed."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/General Math/questions.txt",
+    "notes": "General Math/25.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Crossed-out apples for subtraction.",
+    "apple_layout": "crossed_items_in_one_group"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [
+      "apples"
+    ],
+    "hobbies": [],
+    "notes": "Apple general_math stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 927,
+      "y": 185,
+      "w": 172,
+      "h": 228,
+      "landmarks": {
+        "right_eye": [
+          960,
+          286
+        ],
+        "left_eye": [
+          1045,
+          276
+        ],
+        "nose": [
+          1004,
+          329
+        ],
+        "mouth_right": [
+          979,
+          360
+        ],
+        "mouth_left": [
+          1056,
+          351
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 477,
+      "y": 86,
+      "w": 191,
+      "h": 256,
+      "landmarks": {
+        "right_eye": [
+          543,
+          171
+        ],
+        "left_eye": [
+          631,
+          192
+        ],
+        "nose": [
+          578,
+          235
+        ],
+        "mouth_right": [
+          522,
+          255
+        ],
+        "mouth_left": [
+          607,
+          274
+        ]
+      },
+      "confidence": 0.944
+    }
+  ]
+}

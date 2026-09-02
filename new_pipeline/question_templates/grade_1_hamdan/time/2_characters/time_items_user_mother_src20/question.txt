@@ -1,0 +1,1 @@
+Look at the picture! {user_name} and {mother_name} are using a calendar to work through a sequence of dates. Monday is clearly marked as 30 April, followed by Tuesday, Wednesday and Thursday. {user_name} points to each day in order while {mother_name} helps follow the sequence across the calendar.. What date is Thursday?

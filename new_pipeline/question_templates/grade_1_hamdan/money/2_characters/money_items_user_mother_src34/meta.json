@@ -1,0 +1,191 @@
+{
+  "stem_id": "money_items_user_mother",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "mother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 381,
+      "y": 158,
+      "w": 196,
+      "h": 248,
+      "landmarks": {
+        "right_eye": [
+          441,
+          257
+        ],
+        "left_eye": [
+          532,
+          253
+        ],
+        "nose": [
+          497,
+          307
+        ],
+        "mouth_right": [
+          451,
+          341
+        ],
+        "mouth_left": [
+          532,
+          337
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "mother",
+      "x": 930,
+      "y": 97,
+      "w": 195,
+      "h": 262,
+      "landmarks": {
+        "right_eye": [
+          966,
+          208
+        ],
+        "left_eye": [
+          1064,
+          188
+        ],
+        "nose": [
+          1021,
+          252
+        ],
+        "mouth_right": [
+          993,
+          293
+        ],
+        "mouth_left": [
+          1084,
+          276
+        ]
+      },
+      "confidence": 0.949
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "45p",
+    "options": [
+      "45p",
+      "9p",
+      "5p",
+      "44p"
+    ],
+    "formula": "9*5",
+    "explanation": "9 items at 5p = 45p"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Money/questions.txt",
+    "notes": "Money/34.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Classroom money activity with clearly separated coin groups."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 381,
+      "y": 158,
+      "w": 196,
+      "h": 248,
+      "landmarks": {
+        "right_eye": [
+          441,
+          257
+        ],
+        "left_eye": [
+          532,
+          253
+        ],
+        "nose": [
+          497,
+          307
+        ],
+        "mouth_right": [
+          451,
+          341
+        ],
+        "mouth_left": [
+          532,
+          337
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "mother",
+      "x": 930,
+      "y": 97,
+      "w": 195,
+      "h": 262,
+      "landmarks": {
+        "right_eye": [
+          966,
+          208
+        ],
+        "left_eye": [
+          1064,
+          188
+        ],
+        "nose": [
+          1021,
+          252
+        ],
+        "mouth_right": [
+          993,
+          293
+        ],
+        "mouth_left": [
+          1084,
+          276
+        ]
+      },
+      "confidence": 0.949
+    }
+  ]
+}

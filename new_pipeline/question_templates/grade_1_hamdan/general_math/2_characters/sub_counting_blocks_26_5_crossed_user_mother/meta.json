@@ -1,0 +1,309 @@
+{
+  "stem_id": "sub_counting_blocks_26_5_crossed_user_mother",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "mother_table_26_counting_blocks_5_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 387,
+      "y": 220,
+      "w": 192,
+      "h": 252,
+      "landmarks": {
+        "right_eye": [
+          453,
+          315
+        ],
+        "left_eye": [
+          542,
+          327
+        ],
+        "nose": [
+          498,
+          376
+        ],
+        "mouth_right": [
+          441,
+          397
+        ],
+        "mouth_left": [
+          526,
+          408
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "mother",
+      "x": 852,
+      "y": 84,
+      "w": 217,
+      "h": 272,
+      "landmarks": {
+        "right_eye": [
+          897,
+          207
+        ],
+        "left_eye": [
+          993,
+          182
+        ],
+        "nose": [
+          953,
+          248
+        ],
+        "mouth_right": [
+          928,
+          290
+        ],
+        "mouth_left": [
+          1020,
+          269
+        ]
+      },
+      "confidence": 0.946
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "child",
+      "object_id": "counting_blocks",
+      "singular": "counting block",
+      "plural": "counting blocks",
+      "count": 26,
+      "crossed_count": 5,
+      "container": "table",
+      "positions": [
+        {
+          "x": 268,
+          "y": 509
+        },
+        {
+          "x": 354,
+          "y": 509
+        },
+        {
+          "x": 440,
+          "y": 509
+        },
+        {
+          "x": 526,
+          "y": 509
+        },
+        {
+          "x": 612,
+          "y": 509
+        },
+        {
+          "x": 698,
+          "y": 509
+        },
+        {
+          "x": 268,
+          "y": 563
+        },
+        {
+          "x": 354,
+          "y": 563
+        },
+        {
+          "x": 440,
+          "y": 563
+        },
+        {
+          "x": 526,
+          "y": 563
+        },
+        {
+          "x": 612,
+          "y": 563
+        },
+        {
+          "x": 698,
+          "y": 563
+        },
+        {
+          "x": 268,
+          "y": 617
+        },
+        {
+          "x": 354,
+          "y": 617
+        },
+        {
+          "x": 440,
+          "y": 617
+        },
+        {
+          "x": 526,
+          "y": 617
+        },
+        {
+          "x": 612,
+          "y": 617
+        },
+        {
+          "x": 698,
+          "y": 617
+        },
+        {
+          "x": 268,
+          "y": 671
+        },
+        {
+          "x": 354,
+          "y": 671
+        },
+        {
+          "x": 440,
+          "y": 671
+        },
+        {
+          "x": 526,
+          "y": 671
+        },
+        {
+          "x": 612,
+          "y": 671
+        },
+        {
+          "x": 698,
+          "y": 671
+        },
+        {
+          "x": 268,
+          "y": 725
+        },
+        {
+          "x": 354,
+          "y": 725
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "21",
+    "options": [
+      "21",
+      "26",
+      "5",
+      "20"
+    ],
+    "formula": "26-5",
+    "explanation": "26 objects minus 5 crossed out = 21"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 26 with 5 crossed."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/General Math/questions.txt",
+    "notes": "General Math/2.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Crossed-out counting blocks for subtraction.",
+    "counting_block_layout": "crossed_items_in_one_group"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Counting blocks general_math stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 387,
+      "y": 220,
+      "w": 192,
+      "h": 252,
+      "landmarks": {
+        "right_eye": [
+          453,
+          315
+        ],
+        "left_eye": [
+          542,
+          327
+        ],
+        "nose": [
+          498,
+          376
+        ],
+        "mouth_right": [
+          441,
+          397
+        ],
+        "mouth_left": [
+          526,
+          408
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "mother",
+      "x": 852,
+      "y": 84,
+      "w": 217,
+      "h": 272,
+      "landmarks": {
+        "right_eye": [
+          897,
+          207
+        ],
+        "left_eye": [
+          993,
+          182
+        ],
+        "nose": [
+          953,
+          248
+        ],
+        "mouth_right": [
+          928,
+          290
+        ],
+        "mouth_left": [
+          1020,
+          269
+        ]
+      },
+      "confidence": 0.946
+    }
+  ]
+}

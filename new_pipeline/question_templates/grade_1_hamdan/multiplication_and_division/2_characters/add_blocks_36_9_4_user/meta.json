@@ -1,0 +1,420 @@
+{
+  "stem_id": "add_blocks_36_9_4_user",
+  "grade": "grade_1",
+  "topic": "multiplication_and_division",
+  "layout_pattern": "three_group_add",
+  "question_file": "question.txt",
+  "image_file": "table_has_36_blocks_table_has_9_blocks_table_has_4_blocks_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 972,
+      "y": 129,
+      "w": 176,
+      "h": 238,
+      "landmarks": {
+        "right_eye": [
+          1005,
+          225
+        ],
+        "left_eye": [
+          1091,
+          219
+        ],
+        "nose": [
+          1045,
+          270
+        ],
+        "mouth_right": [
+          1018,
+          306
+        ],
+        "mouth_left": [
+          1093,
+          300
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "sibling",
+      "x": 390,
+      "y": 99,
+      "w": 190,
+      "h": 249,
+      "landmarks": {
+        "right_eye": [
+          456,
+          194
+        ],
+        "left_eye": [
+          546,
+          208
+        ],
+        "nose": [
+          502,
+          258
+        ],
+        "mouth_right": [
+          441,
+          276
+        ],
+        "mouth_left": [
+          527,
+          289
+        ]
+      },
+      "confidence": 0.953
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 36,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        },
+        {
+          "x": 490,
+          "y": 738
+        },
+        {
+          "x": 576,
+          "y": 738
+        },
+        {
+          "x": 662,
+          "y": 738
+        },
+        {
+          "x": 748,
+          "y": 738
+        },
+        {
+          "x": 318,
+          "y": 792
+        },
+        {
+          "x": 404,
+          "y": 792
+        },
+        {
+          "x": 490,
+          "y": 792
+        },
+        {
+          "x": 576,
+          "y": 792
+        },
+        {
+          "x": 662,
+          "y": 792
+        },
+        {
+          "x": 748,
+          "y": 792
+        },
+        {
+          "x": 318,
+          "y": 846
+        },
+        {
+          "x": 404,
+          "y": 846
+        },
+        {
+          "x": 490,
+          "y": 846
+        },
+        {
+          "x": 576,
+          "y": 846
+        },
+        {
+          "x": 662,
+          "y": 846
+        },
+        {
+          "x": 748,
+          "y": 846
+        },
+        {
+          "x": 318,
+          "y": 900
+        },
+        {
+          "x": 404,
+          "y": 900
+        },
+        {
+          "x": 490,
+          "y": 900
+        },
+        {
+          "x": 576,
+          "y": 900
+        },
+        {
+          "x": 662,
+          "y": 900
+        },
+        {
+          "x": 748,
+          "y": 900
+        },
+        {
+          "x": 318,
+          "y": 954
+        },
+        {
+          "x": 404,
+          "y": 954
+        },
+        {
+          "x": 490,
+          "y": 954
+        },
+        {
+          "x": 576,
+          "y": 954
+        },
+        {
+          "x": 662,
+          "y": 954
+        },
+        {
+          "x": 748,
+          "y": 954
+        },
+        {
+          "x": 318,
+          "y": 1008
+        },
+        {
+          "x": 404,
+          "y": 1008
+        },
+        {
+          "x": 490,
+          "y": 1008
+        },
+        {
+          "x": 576,
+          "y": 1008
+        },
+        {
+          "x": 662,
+          "y": 1008
+        },
+        {
+          "x": 748,
+          "y": 1008
+        }
+      ]
+    },
+    {
+      "id": "table_2",
+      "owner": "table",
+      "object_id": "horizontal_rows",
+      "singular": "horizontal row",
+      "plural": "horizontal rows",
+      "count": 9,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        },
+        {
+          "x": 490,
+          "y": 738
+        },
+        {
+          "x": 576,
+          "y": 738
+        },
+        {
+          "x": 662,
+          "y": 738
+        },
+        {
+          "x": 748,
+          "y": 738
+        },
+        {
+          "x": 318,
+          "y": 792
+        },
+        {
+          "x": 404,
+          "y": 792
+        },
+        {
+          "x": 490,
+          "y": 792
+        }
+      ]
+    },
+    {
+      "id": "table_3",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 4,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        },
+        {
+          "x": 490,
+          "y": 738
+        },
+        {
+          "x": 576,
+          "y": 738
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "49",
+    "options": [
+      "49",
+      "36",
+      "9",
+      "4"
+    ],
+    "formula": "36+9+4",
+    "explanation": "scene (36) + scene (9) + scene (4) = 49"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Multiplication and Division/questions.txt",
+    "notes": "Multiplication and Division/4.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Three clear groups of blocks for addition.",
+    "block_layout": "three_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Blocks multiplication_and_division stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 972,
+      "y": 129,
+      "w": 176,
+      "h": 238,
+      "landmarks": {
+        "right_eye": [
+          1005,
+          225
+        ],
+        "left_eye": [
+          1091,
+          219
+        ],
+        "nose": [
+          1045,
+          270
+        ],
+        "mouth_right": [
+          1018,
+          306
+        ],
+        "mouth_left": [
+          1093,
+          300
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "sibling",
+      "x": 390,
+      "y": 99,
+      "w": 190,
+      "h": 249,
+      "landmarks": {
+        "right_eye": [
+          456,
+          194
+        ],
+        "left_eye": [
+          546,
+          208
+        ],
+        "nose": [
+          502,
+          258
+        ],
+        "mouth_right": [
+          441,
+          276
+        ],
+        "mouth_left": [
+          527,
+          289
+        ]
+      },
+      "confidence": 0.953
+    }
+  ]
+}

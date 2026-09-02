@@ -1,0 +1,404 @@
+{
+  "stem_id": "add_blocks_one_groups_18_18_9_user",
+  "grade": "grade_1",
+  "topic": "mixed",
+  "layout_pattern": "three_group_add",
+  "question_file": "question.txt",
+  "image_file": "user_has_18_blocks_one_groups_table_has_18_blocks_one_groups_table_has_9_blocks_one_groups_altogethe.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste child face only; keep identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 926,
+      "y": 174,
+      "w": 195,
+      "h": 250,
+      "landmarks": {
+        "right_eye": [
+          969,
+          291
+        ],
+        "left_eye": [
+          1060,
+          269
+        ],
+        "nose": [
+          1026,
+          329
+        ],
+        "mouth_right": [
+          995,
+          366
+        ],
+        "mouth_left": [
+          1080,
+          348
+        ]
+      },
+      "confidence": 0.947
+    },
+    {
+      "role": "sibling",
+      "x": 449,
+      "y": 132,
+      "w": 198,
+      "h": 249,
+      "landmarks": {
+        "right_eye": [
+          513,
+          220
+        ],
+        "left_eye": [
+          606,
+          236
+        ],
+        "nose": [
+          556,
+          285
+        ],
+        "mouth_right": [
+          497,
+          304
+        ],
+        "mouth_left": [
+          586,
+          318
+        ]
+      },
+      "confidence": 0.948
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "blocks_one_groups",
+      "singular": "blocks one group",
+      "plural": "blocks one groups",
+      "count": 18,
+      "container": "table",
+      "positions": [
+        {
+          "x": 808,
+          "y": 461
+        },
+        {
+          "x": 894,
+          "y": 461
+        },
+        {
+          "x": 980,
+          "y": 461
+        },
+        {
+          "x": 1066,
+          "y": 461
+        },
+        {
+          "x": 1152,
+          "y": 461
+        },
+        {
+          "x": 1238,
+          "y": 461
+        },
+        {
+          "x": 808,
+          "y": 515
+        },
+        {
+          "x": 894,
+          "y": 515
+        },
+        {
+          "x": 980,
+          "y": 515
+        },
+        {
+          "x": 1066,
+          "y": 515
+        },
+        {
+          "x": 1152,
+          "y": 515
+        },
+        {
+          "x": 1238,
+          "y": 515
+        },
+        {
+          "x": 808,
+          "y": 569
+        },
+        {
+          "x": 894,
+          "y": 569
+        },
+        {
+          "x": 980,
+          "y": 569
+        },
+        {
+          "x": 1066,
+          "y": 569
+        },
+        {
+          "x": 1152,
+          "y": 569
+        },
+        {
+          "x": 1238,
+          "y": 569
+        }
+      ]
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 18,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        },
+        {
+          "x": 490,
+          "y": 738
+        },
+        {
+          "x": 576,
+          "y": 738
+        },
+        {
+          "x": 662,
+          "y": 738
+        },
+        {
+          "x": 748,
+          "y": 738
+        },
+        {
+          "x": 318,
+          "y": 792
+        },
+        {
+          "x": 404,
+          "y": 792
+        },
+        {
+          "x": 490,
+          "y": 792
+        },
+        {
+          "x": 576,
+          "y": 792
+        },
+        {
+          "x": 662,
+          "y": 792
+        },
+        {
+          "x": 748,
+          "y": 792
+        },
+        {
+          "x": 318,
+          "y": 846
+        },
+        {
+          "x": 404,
+          "y": 846
+        },
+        {
+          "x": 490,
+          "y": 846
+        },
+        {
+          "x": 576,
+          "y": 846
+        },
+        {
+          "x": 662,
+          "y": 846
+        },
+        {
+          "x": 748,
+          "y": 846
+        }
+      ]
+    },
+    {
+      "id": "table_2",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 9,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        },
+        {
+          "x": 490,
+          "y": 738
+        },
+        {
+          "x": 576,
+          "y": 738
+        },
+        {
+          "x": 662,
+          "y": 738
+        },
+        {
+          "x": 748,
+          "y": 738
+        },
+        {
+          "x": 318,
+          "y": 792
+        },
+        {
+          "x": 404,
+          "y": 792
+        },
+        {
+          "x": 490,
+          "y": 792
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "45",
+    "options": [
+      "45",
+      "18",
+      "9",
+      "44"
+    ],
+    "formula": "18+18+9",
+    "explanation": "child (18) + scene (18) + scene (9) = 45"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Mixed/questions.txt",
+    "notes": "Mixed/5.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Three clear groups of blocks one groups for addition.",
+    "blocks_one_group_layout": "three_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Blocks one groups mixed stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 926,
+      "y": 174,
+      "w": 195,
+      "h": 250,
+      "landmarks": {
+        "right_eye": [
+          969,
+          291
+        ],
+        "left_eye": [
+          1060,
+          269
+        ],
+        "nose": [
+          1026,
+          329
+        ],
+        "mouth_right": [
+          995,
+          366
+        ],
+        "mouth_left": [
+          1080,
+          348
+        ]
+      },
+      "confidence": 0.947
+    },
+    {
+      "role": "sibling",
+      "x": 449,
+      "y": 132,
+      "w": 198,
+      "h": 249,
+      "landmarks": {
+        "right_eye": [
+          513,
+          220
+        ],
+        "left_eye": [
+          606,
+          236
+        ],
+        "nose": [
+          556,
+          285
+        ],
+        "mouth_right": [
+          497,
+          304
+        ],
+        "mouth_left": [
+          586,
+          318
+        ]
+      },
+      "confidence": 0.948
+    }
+  ]
+}

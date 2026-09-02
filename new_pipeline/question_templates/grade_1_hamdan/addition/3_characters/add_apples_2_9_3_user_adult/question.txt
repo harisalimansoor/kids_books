@@ -1,0 +1,1 @@
+Look at the picture! {sibling_name} has 2 apples in front of {sibling_name}, {mother_name} has 9 apples in front of her, and {user_name} has 3 apples in front of {user_name}. How many apples do they have altogether?

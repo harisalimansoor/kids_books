@@ -1,0 +1,211 @@
+{
+  "stem_id": "sub_balloons_17_12_crossed_grandmother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "grandmother_table_17_balloons_12_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste the grandmother face only; identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "grandmother",
+      "x": 667,
+      "y": 77,
+      "w": 131,
+      "h": 166,
+      "landmarks": {
+        "right_eye": [
+          698,
+          146
+        ],
+        "left_eye": [
+          759,
+          145
+        ],
+        "nose": [
+          730,
+          181
+        ],
+        "mouth_right": [
+          705,
+          203
+        ],
+        "mouth_left": [
+          757,
+          202
+        ]
+      },
+      "confidence": 0.934
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "grandmother",
+      "object_id": "balloons",
+      "singular": "balloon",
+      "plural": "balloons",
+      "count": 17,
+      "crossed_count": 12,
+      "container": "table",
+      "positions": [
+        {
+          "x": 517,
+          "y": 267
+        },
+        {
+          "x": 603,
+          "y": 267
+        },
+        {
+          "x": 689,
+          "y": 267
+        },
+        {
+          "x": 775,
+          "y": 267
+        },
+        {
+          "x": 861,
+          "y": 267
+        },
+        {
+          "x": 947,
+          "y": 267
+        },
+        {
+          "x": 517,
+          "y": 321
+        },
+        {
+          "x": 603,
+          "y": 321
+        },
+        {
+          "x": 689,
+          "y": 321
+        },
+        {
+          "x": 775,
+          "y": 321
+        },
+        {
+          "x": 861,
+          "y": 321
+        },
+        {
+          "x": 947,
+          "y": 321
+        },
+        {
+          "x": 517,
+          "y": 375
+        },
+        {
+          "x": 603,
+          "y": 375
+        },
+        {
+          "x": 689,
+          "y": 375
+        },
+        {
+          "x": 775,
+          "y": 375
+        },
+        {
+          "x": 861,
+          "y": 375
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "5",
+    "options": [
+      "5",
+      "17",
+      "12",
+      "4"
+    ],
+    "formula": "17-12",
+    "explanation": "17 objects minus 12 crossed out = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 17 with 12 crossed."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Subtraction/questions.txt",
+    "notes": "Subtraction/20.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Crossed-out balloons for subtraction.",
+    "balloon_layout": "crossed_items_in_one_group"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Balloons subtraction stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "grandmother",
+      "x": 667,
+      "y": 77,
+      "w": 131,
+      "h": 166,
+      "landmarks": {
+        "right_eye": [
+          698,
+          146
+        ],
+        "left_eye": [
+          759,
+          145
+        ],
+        "nose": [
+          730,
+          181
+        ],
+        "mouth_right": [
+          705,
+          203
+        ],
+        "mouth_left": [
+          757,
+          202
+        ]
+      },
+      "confidence": 0.934
+    }
+  ]
+}

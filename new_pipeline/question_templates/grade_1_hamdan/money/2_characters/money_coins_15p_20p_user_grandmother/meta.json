@@ -1,0 +1,236 @@
+{
+  "stem_id": "money_coins_15p_20p_user_grandmother",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "two_group_add_money",
+  "question_file": "question.txt",
+  "image_file": "grandmother_group_a_15p_table_20p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste child + grandmother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 914,
+      "y": 230,
+      "w": 194,
+      "h": 236,
+      "landmarks": {
+        "right_eye": [
+          955,
+          328
+        ],
+        "left_eye": [
+          1051,
+          319
+        ],
+        "nose": [
+          1005,
+          374
+        ],
+        "mouth_right": [
+          972,
+          406
+        ],
+        "mouth_left": [
+          1060,
+          397
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "grandmother",
+      "x": 399,
+      "y": 72,
+      "w": 225,
+      "h": 288,
+      "landmarks": {
+        "right_eye": [
+          483,
+          183
+        ],
+        "left_eye": [
+          582,
+          207
+        ],
+        "nose": [
+          530,
+          259
+        ],
+        "mouth_right": [
+          459,
+          276
+        ],
+        "mouth_left": [
+          551,
+          297
+        ]
+      },
+      "confidence": 0.942
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_a",
+      "owner": "grandmother",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 2,
+      "value_pence": 15,
+      "container": "group_a",
+      "positions": [
+        {
+          "x": 468,
+          "y": 403
+        },
+        {
+          "x": 554,
+          "y": 403
+        }
+      ]
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 3,
+      "value_pence": 20,
+      "container": "table",
+      "positions": [
+        {
+          "x": 318,
+          "y": 738
+        },
+        {
+          "x": 404,
+          "y": 738
+        },
+        {
+          "x": 490,
+          "y": 738
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "35p",
+    "options": [
+      "35p",
+      "15p",
+      "20p",
+      "34p"
+    ],
+    "formula": "15p+20p",
+    "explanation": "15p + 20p = 35p"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Money/questions.txt",
+    "notes": "Money/55.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Classroom money activity with clearly separated coin groups."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Coins money stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 914,
+      "y": 230,
+      "w": 194,
+      "h": 236,
+      "landmarks": {
+        "right_eye": [
+          955,
+          328
+        ],
+        "left_eye": [
+          1051,
+          319
+        ],
+        "nose": [
+          1005,
+          374
+        ],
+        "mouth_right": [
+          972,
+          406
+        ],
+        "mouth_left": [
+          1060,
+          397
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "grandmother",
+      "x": 399,
+      "y": 72,
+      "w": 225,
+      "h": 288,
+      "landmarks": {
+        "right_eye": [
+          483,
+          183
+        ],
+        "left_eye": [
+          582,
+          207
+        ],
+        "nose": [
+          530,
+          259
+        ],
+        "mouth_right": [
+          459,
+          276
+        ],
+        "mouth_left": [
+          551,
+          297
+        ]
+      },
+      "confidence": 0.942
+    }
+  ]
+}

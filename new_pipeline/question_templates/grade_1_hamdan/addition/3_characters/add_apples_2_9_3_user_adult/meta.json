@@ -1,0 +1,346 @@
+{
+  "stem_id": "add_apples_2_9_3_user_adult",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "three_group_add",
+  "question_file": "question.txt",
+  "image_file": "sibling_has_2_apples_mother_has_9_apples_user_has_3_apples_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 1126,
+      "y": 239,
+      "w": 184,
+      "h": 237,
+      "landmarks": {
+        "right_eye": [
+          1173,
+          333
+        ],
+        "left_eye": [
+          1265,
+          329
+        ],
+        "nose": [
+          1226,
+          380
+        ],
+        "mouth_right": [
+          1182,
+          411
+        ],
+        "mouth_left": [
+          1270,
+          405
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "sibling",
+      "x": 161,
+      "y": 281,
+      "w": 178,
+      "h": 224,
+      "landmarks": {
+        "right_eye": [
+          208,
+          366
+        ],
+        "left_eye": [
+          294,
+          366
+        ],
+        "nose": [
+          254,
+          412
+        ],
+        "mouth_right": [
+          212,
+          443
+        ],
+        "mouth_left": [
+          291,
+          442
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "mother",
+      "x": 616,
+      "y": 86,
+      "w": 188,
+      "h": 260,
+      "landmarks": {
+        "right_eye": [
+          662,
+          193
+        ],
+        "left_eye": [
+          757,
+          184
+        ],
+        "nose": [
+          715,
+          241
+        ],
+        "mouth_right": [
+          676,
+          277
+        ],
+        "mouth_left": [
+          767,
+          268
+        ]
+      },
+      "confidence": 0.954
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "sibling",
+      "owner": "sibling",
+      "object_id": "apples",
+      "singular": "apple",
+      "plural": "apples",
+      "count": 2,
+      "container": "table",
+      "positions": [
+        {
+          "x": 207,
+          "y": 538
+        },
+        {
+          "x": 293,
+          "y": 538
+        }
+      ]
+    },
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "apples",
+      "singular": "apple",
+      "plural": "apples",
+      "count": 9,
+      "container": "table",
+      "positions": [
+        {
+          "x": 495,
+          "y": 385
+        },
+        {
+          "x": 581,
+          "y": 385
+        },
+        {
+          "x": 667,
+          "y": 385
+        },
+        {
+          "x": 753,
+          "y": 385
+        },
+        {
+          "x": 839,
+          "y": 385
+        },
+        {
+          "x": 925,
+          "y": 385
+        },
+        {
+          "x": 495,
+          "y": 439
+        },
+        {
+          "x": 581,
+          "y": 439
+        },
+        {
+          "x": 667,
+          "y": 439
+        }
+      ]
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "apples",
+      "singular": "apple",
+      "plural": "apples",
+      "count": 3,
+      "container": "table",
+      "positions": [
+        {
+          "x": 1132,
+          "y": 511
+        },
+        {
+          "x": 1218,
+          "y": 511
+        },
+        {
+          "x": 1304,
+          "y": 511
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "14",
+    "options": [
+      "14",
+      "2",
+      "9",
+      "3"
+    ],
+    "formula": "2+9+3",
+    "explanation": "sibling (2) + mother (9) + child (3) = 14"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/ADDITION/questions.txt",
+    "notes": "ADDITION/8.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Three clear groups of apples for addition.",
+    "apple_layout": "three_clear_groups_with_gap"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [
+      "apples"
+    ],
+    "hobbies": [],
+    "notes": "Apple addition stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 1126,
+      "y": 239,
+      "w": 184,
+      "h": 237,
+      "landmarks": {
+        "right_eye": [
+          1173,
+          333
+        ],
+        "left_eye": [
+          1265,
+          329
+        ],
+        "nose": [
+          1226,
+          380
+        ],
+        "mouth_right": [
+          1182,
+          411
+        ],
+        "mouth_left": [
+          1270,
+          405
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "sibling",
+      "x": 161,
+      "y": 281,
+      "w": 178,
+      "h": 224,
+      "landmarks": {
+        "right_eye": [
+          208,
+          366
+        ],
+        "left_eye": [
+          294,
+          366
+        ],
+        "nose": [
+          254,
+          412
+        ],
+        "mouth_right": [
+          212,
+          443
+        ],
+        "mouth_left": [
+          291,
+          442
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "mother",
+      "x": 616,
+      "y": 86,
+      "w": 188,
+      "h": 260,
+      "landmarks": {
+        "right_eye": [
+          662,
+          193
+        ],
+        "left_eye": [
+          757,
+          184
+        ],
+        "nose": [
+          715,
+          241
+        ],
+        "mouth_right": [
+          676,
+          277
+        ],
+        "mouth_left": [
+          767,
+          268
+        ]
+      },
+      "confidence": 0.954
+    }
+  ]
+}

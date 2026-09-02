@@ -1,0 +1,297 @@
+{
+  "stem_id": "other_candles_15_7_user_grandfather",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "other",
+  "question_file": "question.txt",
+  "image_file": "grandfather_has_15_candles_grandfather_has_7_candles_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandfather-locked. Paste child + grandfather faces only; soft-cartoon with identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 343,
+      "y": 261,
+      "w": 222,
+      "h": 294,
+      "landmarks": {
+        "right_eye": [
+          411,
+          374
+        ],
+        "left_eye": [
+          518,
+          385
+        ],
+        "nose": [
+          462,
+          443
+        ],
+        "mouth_right": [
+          400,
+          467
+        ],
+        "mouth_left": [
+          505,
+          477
+        ]
+      },
+      "confidence": 0.959
+    },
+    {
+      "role": "grandfather",
+      "x": 826,
+      "y": 79,
+      "w": 260,
+      "h": 363,
+      "landmarks": {
+        "right_eye": [
+          882,
+          243
+        ],
+        "left_eye": [
+          1004,
+          211
+        ],
+        "nose": [
+          954,
+          303
+        ],
+        "mouth_right": [
+          924,
+          361
+        ],
+        "mouth_left": [
+          1034,
+          335
+        ]
+      },
+      "confidence": 0.934
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "grandfather",
+      "object_id": "candles",
+      "singular": "candle",
+      "plural": "candles",
+      "count": 15,
+      "container": "table",
+      "positions": [
+        {
+          "x": 741,
+          "y": 496
+        },
+        {
+          "x": 827,
+          "y": 496
+        },
+        {
+          "x": 913,
+          "y": 496
+        },
+        {
+          "x": 999,
+          "y": 496
+        },
+        {
+          "x": 1085,
+          "y": 496
+        },
+        {
+          "x": 1171,
+          "y": 496
+        },
+        {
+          "x": 741,
+          "y": 550
+        },
+        {
+          "x": 827,
+          "y": 550
+        },
+        {
+          "x": 913,
+          "y": 550
+        },
+        {
+          "x": 999,
+          "y": 550
+        },
+        {
+          "x": 1085,
+          "y": 550
+        },
+        {
+          "x": 1171,
+          "y": 550
+        },
+        {
+          "x": 741,
+          "y": 604
+        },
+        {
+          "x": 827,
+          "y": 604
+        },
+        {
+          "x": 913,
+          "y": 604
+        }
+      ]
+    },
+    {
+      "id": "table_2",
+      "owner": "grandfather",
+      "object_id": "years_before_his",
+      "singular": "years before hi",
+      "plural": "years before his",
+      "count": 7,
+      "container": "table",
+      "positions": [
+        {
+          "x": 741,
+          "y": 496
+        },
+        {
+          "x": 827,
+          "y": 496
+        },
+        {
+          "x": 913,
+          "y": 496
+        },
+        {
+          "x": 999,
+          "y": 496
+        },
+        {
+          "x": 1085,
+          "y": 496
+        },
+        {
+          "x": 1171,
+          "y": 496
+        },
+        {
+          "x": 741,
+          "y": 550
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "other",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/General Math/questions.txt",
+    "notes": "General Math/27.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Candles activity; faces front-camera."
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Candles general_math stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "child",
+      "x": 343,
+      "y": 261,
+      "w": 222,
+      "h": 294,
+      "landmarks": {
+        "right_eye": [
+          411,
+          374
+        ],
+        "left_eye": [
+          518,
+          385
+        ],
+        "nose": [
+          462,
+          443
+        ],
+        "mouth_right": [
+          400,
+          467
+        ],
+        "mouth_left": [
+          505,
+          477
+        ]
+      },
+      "confidence": 0.959
+    },
+    {
+      "role": "grandfather",
+      "x": 826,
+      "y": 79,
+      "w": 260,
+      "h": 363,
+      "landmarks": {
+        "right_eye": [
+          882,
+          243
+        ],
+        "left_eye": [
+          1004,
+          211
+        ],
+        "nose": [
+          954,
+          303
+        ],
+        "mouth_right": [
+          924,
+          361
+        ],
+        "mouth_left": [
+          1034,
+          335
+        ]
+      },
+      "confidence": 0.934
+    }
+  ]
+}

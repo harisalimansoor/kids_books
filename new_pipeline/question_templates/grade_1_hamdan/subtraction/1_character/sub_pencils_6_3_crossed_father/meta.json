@@ -1,0 +1,167 @@
+{
+  "stem_id": "sub_pencils_6_3_crossed_father",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "father_table_6_pencils_3_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is father-locked. Paste the father face only; identity lock."
+  },
+  "face_regions": [
+    {
+      "role": "father",
+      "x": 631,
+      "y": 90,
+      "w": 218,
+      "h": 297,
+      "landmarks": {
+        "right_eye": [
+          680,
+          212
+        ],
+        "left_eye": [
+          786,
+          198
+        ],
+        "nose": [
+          738,
+          261
+        ],
+        "mouth_right": [
+          700,
+          308
+        ],
+        "mouth_left": [
+          799,
+          296
+        ]
+      },
+      "confidence": 0.955
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "father",
+      "object_id": "pencils",
+      "singular": "pencil",
+      "plural": "pencils",
+      "count": 6,
+      "crossed_count": 3,
+      "container": "table",
+      "positions": [
+        {
+          "x": 525,
+          "y": 431
+        },
+        {
+          "x": 611,
+          "y": 431
+        },
+        {
+          "x": 697,
+          "y": 431
+        },
+        {
+          "x": 783,
+          "y": 431
+        },
+        {
+          "x": 869,
+          "y": 431
+        },
+        {
+          "x": 955,
+          "y": 431
+        }
+      ]
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "3",
+    "options": [
+      "3",
+      "6",
+      "2",
+      "4"
+    ],
+    "formula": "6-3",
+    "explanation": "6 objects minus 3 crossed out = 3"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 6 with 3 crossed."
+  },
+  "source": {
+    "cluster_file": "C:/Users/My Computer/OneDrive/Desktop/S H PROJECTS/KIDS BOOK/Metadata Builder/image_templates_grade_1/Subtraction/questions.txt",
+    "notes": "Subtraction/25.png"
+  },
+  "face_detection": "yunet",
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "framing": "more_background",
+    "facing": "front_camera",
+    "object_clarity": "same_shape_clearly_separated",
+    "notes": "Crossed-out pencils for subtraction.",
+    "pencil_layout": "crossed_items_in_one_group"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "YuNet boxes copied to face_regions_previous. Tweak face_regions if needed."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Pencils subtraction stem."
+  },
+  "face_regions_previous": [
+    {
+      "role": "father",
+      "x": 631,
+      "y": 90,
+      "w": 218,
+      "h": 297,
+      "landmarks": {
+        "right_eye": [
+          680,
+          212
+        ],
+        "left_eye": [
+          786,
+          198
+        ],
+        "nose": [
+          738,
+          261
+        ],
+        "mouth_right": [
+          700,
+          308
+        ],
+        "mouth_left": [
+          799,
+          296
+        ]
+      },
+      "confidence": 0.955
+    }
+  ]
+}

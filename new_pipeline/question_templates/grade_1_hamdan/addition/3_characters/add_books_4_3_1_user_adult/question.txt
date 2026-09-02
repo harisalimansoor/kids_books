@@ -1,0 +1,1 @@
+Look at the picture! {grandmother_name} has 4 books in front of her, {sibling_name} has 3 books in front of {sibling_name}, and {user_name} has 1 books in front of {user_name}. How many books do they have altogether?
