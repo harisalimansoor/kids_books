@@ -1,0 +1,137 @@
+{
+  "stem_id": "meas_ruler_pencil_6cm_user_mother",
+  "grade": "grade_1",
+  "topic": "measurement",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "ruler_pencil_6cm_mother_child.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked.",
+    "child_gender": "girl"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 246,
+      "y": 320,
+      "w": 139,
+      "h": 169,
+      "landmarks": {
+        "right_eye": [
+          289,
+          382
+        ],
+        "left_eye": [
+          352,
+          386
+        ],
+        "nose": [
+          323,
+          417
+        ],
+        "mouth_right": [
+          288,
+          441
+        ],
+        "mouth_left": [
+          347,
+          443
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "mother",
+      "x": 537,
+      "y": 166,
+      "w": 133,
+      "h": 189,
+      "landmarks": {
+        "right_eye": [
+          567,
+          244
+        ],
+        "left_eye": [
+          632,
+          235
+        ],
+        "nose": [
+          602,
+          277
+        ],
+        "mouth_right": [
+          580,
+          305
+        ],
+        "mouth_left": [
+          638,
+          298
+        ]
+      },
+      "confidence": 0.94
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "pencil",
+      "object_id": "pencil",
+      "length_cm": 6
+    }
+  ],
+  "answer": {
+    "type": "length_cm",
+    "correct": "6 cm",
+    "options": [
+      "6 cm",
+      "5 cm",
+      "8 cm",
+      "4 cm"
+    ],
+    "formula": null,
+    "explanation": "Pencil spans 0 to 6 on ruler"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

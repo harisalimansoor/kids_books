@@ -1,0 +1,120 @@
+{
+  "stem_id": "money_coins_2p_5p_mother",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "two_group_add_money",
+  "question_file": "question.txt",
+  "image_file": "mother_group_a_2p_table_5p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Coins money stem."
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 445,
+      "y": 137,
+      "w": 216,
+      "h": 276,
+      "landmarks": {
+        "right_eye": [
+          532,
+          229
+        ],
+        "left_eye": [
+          625,
+          259
+        ],
+        "nose": [
+          573,
+          306
+        ],
+        "mouth_right": [
+          500,
+          320
+        ],
+        "mouth_left": [
+          589,
+          346
+        ]
+      },
+      "confidence": 0.945
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_a",
+      "owner": "mother",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 2,
+      "value_pence": 2,
+      "container": "group_a"
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 2,
+      "value_pence": 5,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "7p",
+    "options": [
+      "7p",
+      "2p",
+      "5p",
+      "6p"
+    ],
+    "formula": "2+5",
+    "explanation": "2p + 5p = 7p"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Money/83.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

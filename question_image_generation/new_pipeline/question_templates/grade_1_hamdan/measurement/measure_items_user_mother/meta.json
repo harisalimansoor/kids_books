@@ -1,0 +1,132 @@
+{
+  "stem_id": "measure_items_user_mother",
+  "grade": "grade_1",
+  "topic": "measurement",
+  "layout_pattern": "measure",
+  "question_file": "question.txt",
+  "image_file": "mother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 391,
+      "y": 150,
+      "w": 259,
+      "h": 324,
+      "landmarks": {
+        "right_eye": [
+          481,
+          272
+        ],
+        "left_eye": [
+          597,
+          299
+        ],
+        "nose": [
+          530,
+          361
+        ],
+        "mouth_right": [
+          454,
+          379
+        ],
+        "mouth_left": [
+          562,
+          404
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "mother",
+      "x": 920,
+      "y": 56,
+      "w": 263,
+      "h": 350,
+      "landmarks": {
+        "right_eye": [
+          975,
+          200
+        ],
+        "left_eye": [
+          1094,
+          191
+        ],
+        "nose": [
+          1029,
+          268
+        ],
+        "mouth_right": [
+          993,
+          321
+        ],
+        "mouth_left": [
+          1098,
+          313
+        ]
+      },
+      "confidence": 0.945
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "measurement",
+    "correct": "600",
+    "options": [
+      "600",
+      "599",
+      "601",
+      "602"
+    ],
+    "formula": "600",
+    "explanation": "The water level is 600 ml."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "MEASURMENT/2.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

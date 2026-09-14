@@ -1,0 +1,110 @@
+{
+  "stem_id": "money_coins_5p_mother",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "mother_table_5p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Coins money stem."
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 421,
+      "y": 72,
+      "w": 186,
+      "h": 241,
+      "landmarks": {
+        "right_eye": [
+          489,
+          156
+        ],
+        "left_eye": [
+          576,
+          180
+        ],
+        "nose": [
+          527,
+          225
+        ],
+        "mouth_right": [
+          463,
+          235
+        ],
+        "mouth_left": [
+          548,
+          257
+        ]
+      },
+      "confidence": 0.95
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "mother",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 2,
+      "value_pence": 5,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "10p",
+    "options": [
+      "10p",
+      "5p",
+      "9p",
+      "11p"
+    ],
+    "formula": "5p+5p",
+    "explanation": "5p + 5p = 10p"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Money/5.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

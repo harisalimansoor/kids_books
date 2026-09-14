@@ -1,0 +1,146 @@
+{
+  "stem_id": "add_dinosaurs_3_2_user_brother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "brother_2_dinosaurs_child_3_dinosaurs_playroom.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "brother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "brother",
+    "allowed_adult_roles": [
+      "brother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "brother_name": "brother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is brother-locked. Paste child + brother faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "toys",
+      "dinosaurs"
+    ],
+    "notes": "Playing with dinosaurs in dinosaur world with brother addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 240,
+      "y": 391,
+      "w": 128,
+      "h": 149,
+      "landmarks": {
+        "right_eye": [
+          271,
+          448
+        ],
+        "left_eye": [
+          333,
+          447
+        ],
+        "nose": [
+          302,
+          481
+        ],
+        "mouth_right": [
+          274,
+          504
+        ],
+        "mouth_left": [
+          326,
+          503
+        ]
+      }
+    },
+    {
+      "role": "brother",
+      "x": 613,
+      "y": 234,
+      "w": 142,
+      "h": 170,
+      "landmarks": {
+        "right_eye": [
+          644,
+          307
+        ],
+        "left_eye": [
+          710,
+          296
+        ],
+        "nose": [
+          683,
+          336
+        ],
+        "mouth_right": [
+          661,
+          361
+        ],
+        "mouth_left": [
+          721,
+          352
+        ]
+      }
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "dinosaurs",
+      "count": 3
+    },
+    {
+      "id": "brother",
+      "owner": "brother",
+      "object_id": "dinosaurs",
+      "count": 2
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "formula": "3+2",
+    "explanation": "3 dinosaurs + 2 dinosaurs = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Vision-checked toy dino counts: (3, 2, True)"
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

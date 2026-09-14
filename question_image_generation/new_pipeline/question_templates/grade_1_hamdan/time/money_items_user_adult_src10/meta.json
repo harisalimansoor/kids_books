@@ -1,0 +1,125 @@
+{
+  "stem_id": "money_items_user_adult",
+  "grade": "grade_1",
+  "topic": "time",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "items.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 153,
+      "y": 292,
+      "w": 164,
+      "h": 211,
+      "landmarks": {
+        "right_eye": [
+          199,
+          377
+        ],
+        "left_eye": [
+          272,
+          379
+        ],
+        "nose": [
+          236,
+          419
+        ],
+        "mouth_right": [
+          201,
+          445
+        ],
+        "mouth_left": [
+          269,
+          446
+        ]
+      },
+      "confidence": 0.948
+    },
+    {
+      "role": "sibling",
+      "x": 609,
+      "y": 249,
+      "w": 164,
+      "h": 205,
+      "landmarks": {
+        "right_eye": [
+          654,
+          333
+        ],
+        "left_eye": [
+          725,
+          326
+        ],
+        "nose": [
+          692,
+          372
+        ],
+        "mouth_right": [
+          665,
+          403
+        ],
+        "mouth_left": [
+          727,
+          397
+        ]
+      },
+      "confidence": 0.942
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Time/10.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

@@ -1,0 +1,153 @@
+{
+  "stem_id": "sub_cupcakes_decorate_5_3_user_mother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "decorate_remain",
+  "question_file": "question.txt",
+  "image_file": "mother_5_cupcakes_child_decorates_3.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Interactive Baking With Mum decorate-remain stem; mother-locked.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [
+      "cupcakes"
+    ],
+    "hobbies": [],
+    "notes": "Baking/decorating activity"
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 219,
+      "y": 311,
+      "w": 148,
+      "h": 192,
+      "landmarks": {
+        "right_eye": [
+          259,
+          393
+        ],
+        "left_eye": [
+          329,
+          390
+        ],
+        "nose": [
+          298,
+          430
+        ],
+        "mouth_right": [
+          267,
+          454
+        ],
+        "mouth_left": [
+          331,
+          450
+        ]
+      },
+      "confidence": 0.948
+    },
+    {
+      "role": "mother",
+      "x": 511,
+      "y": 98,
+      "w": 172,
+      "h": 214,
+      "landmarks": {
+        "right_eye": [
+          546,
+          195
+        ],
+        "left_eye": [
+          620,
+          175
+        ],
+        "nose": [
+          588,
+          232
+        ],
+        "mouth_right": [
+          571,
+          264
+        ],
+        "mouth_left": [
+          640,
+          248
+        ]
+      },
+      "confidence": 0.94
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "cupcakes",
+      "count": 5
+    },
+    {
+      "id": "decorated",
+      "owner": "child",
+      "object_id": "cupcakes",
+      "count": 3,
+      "notes": "frosted"
+    },
+    {
+      "id": "plain",
+      "owner": "table",
+      "object_id": "cupcakes",
+      "count": 2,
+      "notes": "still need decorating"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "2",
+    "options": [
+      "2",
+      "5",
+      "3",
+      "1"
+    ],
+    "formula": "5-3",
+    "explanation": "5 cupcakes − 3 decorated = 2 still need decorating"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Target: 5 total, 3 decorated, 2 plain."
+  },
+  "source": {
+    "notes": "Workbook-style Baking With Mum interactive activity."
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "activity": "baking_decorating",
+    "facing": "front_camera"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

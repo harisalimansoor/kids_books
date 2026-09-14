@@ -1,0 +1,96 @@
+{
+  "stem_id": "money_items_mother",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "mother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only."
+  },
+  "interests": {
+    "foods": [
+      "biscuits"
+    ],
+    "hobbies": [],
+    "notes": "Auto-tagged from template objects: biscuits food."
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 292,
+      "y": 92,
+      "w": 196,
+      "h": 251,
+      "landmarks": {
+        "right_eye": [
+          374,
+          182
+        ],
+        "left_eye": [
+          462,
+          211
+        ],
+        "nose": [
+          414,
+          256
+        ],
+        "mouth_right": [
+          341,
+          261
+        ],
+        "mouth_left": [
+          426,
+          288
+        ]
+      },
+      "confidence": 0.949
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Money/52.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

@@ -1,0 +1,145 @@
+{
+  "stem_id": "npv_blocks_5_6_8_missing_user_mother",
+  "grade": "grade_1",
+  "topic": "number_and_place_value",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "number_blocks_5_6_blank_8.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 243,
+      "y": 272,
+      "w": 134,
+      "h": 163,
+      "landmarks": {
+        "right_eye": [
+          283,
+          335
+        ],
+        "left_eye": [
+          344,
+          340
+        ],
+        "nose": [
+          313,
+          372
+        ],
+        "mouth_right": [
+          280,
+          392
+        ],
+        "mouth_left": [
+          332,
+          397
+        ]
+      },
+      "confidence": 0.94
+    },
+    {
+      "role": "mother",
+      "x": 583,
+      "y": 133,
+      "w": 159,
+      "h": 179,
+      "landmarks": {
+        "right_eye": [
+          613,
+          214
+        ],
+        "left_eye": [
+          679,
+          202
+        ],
+        "nose": [
+          647,
+          246
+        ],
+        "mouth_right": [
+          634,
+          273
+        ],
+        "mouth_left": [
+          692,
+          262
+        ]
+      },
+      "confidence": 0.923
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "seq",
+      "object_id": "number_blocks",
+      "values": [
+        5,
+        6,
+        null,
+        8
+      ],
+      "missing": 7,
+      "count": 4
+    }
+  ],
+  "answer": {
+    "type": "missing_number",
+    "correct": "7",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "formula": null,
+    "explanation": "Sequence 5,6,?,8 → 7"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Garden riddles, 5-6-?-8, with qwen/qwen-image-3."
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background",
+    "activity": "garden_playing_riddles"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

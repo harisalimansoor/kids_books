@@ -1,0 +1,147 @@
+{
+  "stem_id": "add_pasta_2_3_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "mother_2_pasta_bowls_child_3_pasta_bowls.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Interactive pasta cook/serve; mother-locked.",
+    "child_gender": "girl"
+  },
+  "interests": {
+    "foods": [
+      "pasta"
+    ],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 241,
+      "y": 342,
+      "w": 117,
+      "h": 154,
+      "landmarks": {
+        "right_eye": [
+          276,
+          402
+        ],
+        "left_eye": [
+          330,
+          403
+        ],
+        "nose": [
+          302,
+          433
+        ],
+        "mouth_right": [
+          275,
+          453
+        ],
+        "mouth_left": [
+          326,
+          454
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 622,
+      "y": 139,
+      "w": 134,
+      "h": 166,
+      "landmarks": {
+        "right_eye": [
+          651,
+          206
+        ],
+        "left_eye": [
+          710,
+          198
+        ],
+        "nose": [
+          682,
+          236
+        ],
+        "mouth_right": [
+          666,
+          263
+        ],
+        "mouth_left": [
+          718,
+          255
+        ]
+      },
+      "confidence": 0.935
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "pasta",
+      "count": 2
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "pasta",
+      "count": 3
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "6"
+    ],
+    "formula": "2+3",
+    "explanation": "2 + 3 = 5 bowls"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Cooking/serving pasta; child 3 left + mother 2 right; total 5 serving bowls."
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background",
+    "activity": "making_serving_pasta"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

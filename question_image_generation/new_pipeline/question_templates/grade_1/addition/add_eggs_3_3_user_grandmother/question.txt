@@ -1,0 +1,1 @@
+Look at the picture! {grandmother_name} has 3 eggs in her basket, and {user_name} has 3 eggs in {user_name}'s basket. How many eggs are there altogether?

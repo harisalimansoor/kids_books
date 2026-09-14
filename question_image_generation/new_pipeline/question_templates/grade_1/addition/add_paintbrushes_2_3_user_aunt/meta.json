@@ -1,0 +1,148 @@
+{
+  "stem_id": "add_paintbrushes_2_3_user_aunt",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "aunt_3_paintbrushes_child_2_paintbrushes_studio.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "aunt"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "aunt",
+    "allowed_adult_roles": [
+      "aunt"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "aunt_name": "aunt"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is aunt-locked. Paste child + aunt faces only.",
+    "child_gender": "girl"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "art",
+      "painting"
+    ],
+    "notes": "Painting together in art studio with aunt addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 267,
+      "y": 351,
+      "w": 112,
+      "h": 142,
+      "landmarks": {
+        "right_eye": [
+          300,
+          406
+        ],
+        "left_eye": [
+          356,
+          402
+        ],
+        "nose": [
+          334,
+          435
+        ],
+        "mouth_right": [
+          308,
+          456
+        ],
+        "mouth_left": [
+          358,
+          452
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "aunt",
+      "x": 617,
+      "y": 102,
+      "w": 120,
+      "h": 152,
+      "landmarks": {
+        "right_eye": [
+          642,
+          163
+        ],
+        "left_eye": [
+          695,
+          157
+        ],
+        "nose": [
+          669,
+          194
+        ],
+        "mouth_right": [
+          652,
+          217
+        ],
+        "mouth_left": [
+          700,
+          212
+        ]
+      },
+      "confidence": 0.942
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "paintbrushes",
+      "count": 2
+    },
+    {
+      "id": "aunt",
+      "owner": "aunt",
+      "object_id": "paintbrushes",
+      "count": 3
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "formula": "2+3",
+    "explanation": "2 paintbrushes + 3 paintbrushes = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 2 child + 3 aunt."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": "batch v3"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "three_quarter_art_studio"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

@@ -1,0 +1,137 @@
+{
+  "stem_id": "time_clock_15_minutes_user_mother",
+  "grade": "grade_1",
+  "topic": "time",
+  "layout_pattern": "visual_count",
+  "question_file": "question.txt",
+  "image_file": "clock_15_minutes_quarter_hour.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked.",
+    "child_gender": "girl"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 286,
+      "y": 336,
+      "w": 145,
+      "h": 176,
+      "landmarks": {
+        "right_eye": [
+          332,
+          410
+        ],
+        "left_eye": [
+          398,
+          404
+        ],
+        "nose": [
+          374,
+          440
+        ],
+        "mouth_right": [
+          339,
+          468
+        ],
+        "mouth_left": [
+          399,
+          463
+        ]
+      },
+      "confidence": 0.948
+    },
+    {
+      "role": "mother",
+      "x": 542,
+      "y": 192,
+      "w": 156,
+      "h": 197,
+      "landmarks": {
+        "right_eye": [
+          569,
+          277
+        ],
+        "left_eye": [
+          641,
+          265
+        ],
+        "nose": [
+          605,
+          310
+        ],
+        "mouth_right": [
+          587,
+          340
+        ],
+        "mouth_left": [
+          652,
+          330
+        ]
+      },
+      "confidence": 0.938
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "clock",
+      "object_id": "clock",
+      "minutes": 15
+    }
+  ],
+  "answer": {
+    "type": "clock_marks",
+    "correct": "15",
+    "options": [
+      "15",
+      "30",
+      "5",
+      "60"
+    ],
+    "formula": null,
+    "explanation": "Quarter hour = 15 minutes"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": false,
+    "notes": "Needs visual count check"
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

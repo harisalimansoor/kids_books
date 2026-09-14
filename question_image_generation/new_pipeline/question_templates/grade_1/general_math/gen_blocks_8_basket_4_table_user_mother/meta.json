@@ -1,0 +1,154 @@
+{
+  "stem_id": "gen_blocks_8_basket_4_table_user_mother",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "two_group_total",
+  "question_file": "question.txt",
+  "image_file": "mother_basket_8_blocks_table_4_blocks.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only.",
+    "child_gender": "girl"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "lego"
+    ],
+    "notes": "Blocks stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 192,
+      "y": 300,
+      "w": 164,
+      "h": 203,
+      "landmarks": {
+        "right_eye": [
+          240,
+          382
+        ],
+        "left_eye": [
+          312,
+          377
+        ],
+        "nose": [
+          282,
+          421
+        ],
+        "mouth_right": [
+          249,
+          451
+        ],
+        "mouth_left": [
+          314,
+          447
+        ]
+      },
+      "confidence": 0.942
+    },
+    {
+      "role": "mother",
+      "x": 558,
+      "y": 108,
+      "w": 193,
+      "h": 227,
+      "landmarks": {
+        "right_eye": [
+          589,
+          209
+        ],
+        "left_eye": [
+          672,
+          188
+        ],
+        "nose": [
+          631,
+          246
+        ],
+        "mouth_right": [
+          621,
+          283
+        ],
+        "mouth_left": [
+          693,
+          265
+        ]
+      },
+      "confidence": 0.932
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "basket",
+      "owner": "mother",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 8,
+      "container": "basket"
+    },
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "blocks",
+      "singular": "block",
+      "plural": "blocks",
+      "count": 4,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "12",
+    "options": [
+      "12",
+      "8",
+      "4",
+      "11"
+    ],
+    "formula": "8+4",
+    "explanation": "8 in basket + 4 on table = 12"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Playing and building, 8 in basket + 4 on table, with qwen/qwen-image-3."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/general_math.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background",
+    "activity": "playing_building_blocks"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

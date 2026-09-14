@@ -1,0 +1,146 @@
+{
+  "stem_id": "sub_apples_9_3_crossed_user_mother",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "mother_basket_9_apples_3_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [
+      "apples"
+    ],
+    "hobbies": [],
+    "notes": "Apple subtraction stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 235,
+      "y": 200,
+      "w": 162,
+      "h": 198,
+      "landmarks": {
+        "right_eye": [
+          279,
+          275
+        ],
+        "left_eye": [
+          351,
+          279
+        ],
+        "nose": [
+          311,
+          316
+        ],
+        "mouth_right": [
+          279,
+          344
+        ],
+        "mouth_left": [
+          341,
+          348
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "mother",
+      "x": 540,
+      "y": 80,
+      "w": 171,
+      "h": 222,
+      "landmarks": {
+        "right_eye": [
+          571,
+          169
+        ],
+        "left_eye": [
+          654,
+          159
+        ],
+        "nose": [
+          613,
+          208
+        ],
+        "mouth_right": [
+          590,
+          244
+        ],
+        "mouth_left": [
+          666,
+          233
+        ]
+      },
+      "confidence": 0.945
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "mother",
+      "object_id": "apples",
+      "singular": "apple",
+      "plural": "apples",
+      "count": 9,
+      "crossed_count": 3,
+      "container": "carton"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "6",
+    "options": [
+      "6",
+      "9",
+      "3",
+      "5"
+    ],
+    "formula": "9-3",
+    "explanation": "9 apples minus 3 crossed out = 6 left"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Packing apples in carton, 9 with 3 crossed, with qwen/qwen-image-3."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/subtraction.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background",
+    "activity": "packing_apples_carton"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

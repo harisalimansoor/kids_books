@@ -1,0 +1,148 @@
+{
+  "stem_id": "add_pizza_2_3_user_father",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "father_2_pizza_child_3_pizza.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "Interactive pizza night; father-locked.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [
+      "pizza"
+    ],
+    "hobbies": [],
+    "notes": "Food-named stem for favourite-food preference."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 185,
+      "y": 334,
+      "w": 130,
+      "h": 160,
+      "landmarks": {
+        "right_eye": [
+          225,
+          396
+        ],
+        "left_eye": [
+          282,
+          397
+        ],
+        "nose": [
+          258,
+          429
+        ],
+        "mouth_right": [
+          226,
+          453
+        ],
+        "mouth_left": [
+          278,
+          454
+        ]
+      },
+      "confidence": 0.946
+    },
+    {
+      "role": "father",
+      "x": 561,
+      "y": 117,
+      "w": 158,
+      "h": 217,
+      "landmarks": {
+        "right_eye": [
+          591,
+          212
+        ],
+        "left_eye": [
+          669,
+          196
+        ],
+        "nose": [
+          634,
+          249
+        ],
+        "mouth_right": [
+          613,
+          281
+        ],
+        "mouth_left": [
+          683,
+          268
+        ]
+      },
+      "confidence": 0.942
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "father",
+      "owner": "father",
+      "object_id": "pizza",
+      "count": 2
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "pizza",
+      "count": 3
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "2",
+      "3",
+      "6"
+    ],
+    "formula": "2+3",
+    "explanation": "2 pizza slices + 3 pizza slices = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Pizza-from-box; colourful greasy empty box; father 2 + child 3 slices; total 5."
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": "Food-named Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background",
+    "activity": "taking_pizza_from_box"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

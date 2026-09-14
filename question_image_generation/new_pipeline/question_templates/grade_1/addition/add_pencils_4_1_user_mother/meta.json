@@ -1,0 +1,151 @@
+{
+  "stem_id": "add_pencils_4_1_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "child_4_pencils_mother_1_pencil_colouring.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Interactive colouring_drawing activity stem; mother-locked.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "drawing",
+      "colouring"
+    ],
+    "notes": "Workbook-style interactive activity: colouring_drawing"
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 181,
+      "y": 341,
+      "w": 152,
+      "h": 181,
+      "landmarks": {
+        "right_eye": [
+          219,
+          411
+        ],
+        "left_eye": [
+          293,
+          408
+        ],
+        "nose": [
+          259,
+          447
+        ],
+        "mouth_right": [
+          227,
+          474
+        ],
+        "mouth_left": [
+          292,
+          471
+        ]
+      },
+      "confidence": 0.942
+    },
+    {
+      "role": "mother",
+      "x": 593,
+      "y": 117,
+      "w": 178,
+      "h": 223,
+      "landmarks": {
+        "right_eye": [
+          618,
+          219
+        ],
+        "left_eye": [
+          695,
+          202
+        ],
+        "nose": [
+          654,
+          258
+        ],
+        "mouth_right": [
+          646,
+          292
+        ],
+        "mouth_left": [
+          712,
+          278
+        ]
+      },
+      "confidence": 0.938
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "pencils",
+      "singular": "pencil",
+      "plural": "pencils",
+      "count": 4
+    },
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "pencils",
+      "singular": "pencil",
+      "plural": "pencils",
+      "count": 1
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "4",
+      "1",
+      "6"
+    ],
+    "formula": "4+1",
+    "explanation": "4 pencils + 1 pencil = 5 pencils altogether"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Interactive activity stem; verify object counts against image."
+  },
+  "source": {
+    "notes": "Interactive workbook-style scenario (like Baking/Building activity pages)."
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "activity": "colouring_drawing",
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet"
+  },
+  "face_detection": "yunet"
+}

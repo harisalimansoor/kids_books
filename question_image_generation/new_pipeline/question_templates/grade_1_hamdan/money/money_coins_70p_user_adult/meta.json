@@ -1,0 +1,108 @@
+{
+  "stem_id": "money_coins_70p_user_adult",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "table_70p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Coins money stem."
+  },
+  "face_regions": [
+    {
+      "role": "sibling",
+      "x": 292,
+      "y": 178,
+      "w": 218,
+      "h": 270,
+      "landmarks": {
+        "right_eye": [
+          362,
+          267
+        ],
+        "left_eye": [
+          463,
+          279
+        ],
+        "nose": [
+          412,
+          332
+        ],
+        "mouth_right": [
+          351,
+          361
+        ],
+        "mouth_left": [
+          447,
+          371
+        ]
+      },
+      "confidence": 0.956
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "sibling",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 3,
+      "value_pence": 70,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "3",
+    "options": [
+      "3",
+      "2p",
+      "4p",
+      "5p"
+    ],
+    "formula": "3",
+    "explanation": "Sum of visible groups = 3"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Money/65.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

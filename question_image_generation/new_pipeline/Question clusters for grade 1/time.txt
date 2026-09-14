@@ -1,0 +1,67 @@
+=== TIME ===
+
+Look at the picture! You can see a newspaper for Monday, a newspaper for Tuesday, a newspaper for Wednesday, a newspaper for Thursday, a newspaper for Friday, and a newspaper for Saturday. Each newspaper costs 30p. How much money will you need to buy all the newspapers from Monday to Saturday?
+Look at the picture! There is a calendar for October on the wall. Can you count how many days are there in October?
+Look at the picture! There is a calendar for May on the wall. Can you count the numbered days in the picture, how many days are there in May?
+Look at the picture! There is a big calendar on the wall with all the months. Can you see the page for June and count how many days are there in June?
+Look at the picture! There is a calendar on the wall with the month of April on it. Can you count the number of days in April?
+Look at the picture! Can you see the calendar that {mother_name} is holding? It shows the month of July with all the days marked. How many days are there in July?
+Look at the picture! There is a big calendar on the wall with all the months. Can you see the month of January on the calendar and count how many days are there in January?
+Look at the picture! You can see a big calendar with all the months on it. November is marked with a big star. If you count 3 months after the star on November, which month will your finger land on?
+Look at the picture! You can see a big calendar with all the months. Can you find August and count how many little boxes are there for the days in August?
+Look at the picture! Priya has a piggy bank with 12 boxes, one for each month. Each box has a 20p coin inside. How much money will Priya have saved in her piggy bank after one year?
+Look at the picture! You can see a big calendar with all the days of the week. Monday is marked with a big 1, Tuesday has a big 2, Wednesday has a big 3, and the next day has a big 4. What is the name of the day marked with the big 4?
+Look at the picture! There is a big clock showing 1 hour with 60 little marks. Now, look at the smaller clock showing 30 minutes. How many little marks can you count on the smaller clock?
+Look at the picture! There's a big clock with 60 little marks on it, and it says 1 hour. Can you see the clock and count how many minutes are in the 1 hour?
+Look at the calendar picture! Can you find the day of the week for 14 September on the calendar? Is it a Saturday?
+Look at the picture! There is a calendar on the wall with all the months. Can you see the month of February and count how many days are marked on it?
+Look at the picture! There is a big calendar showing the month of September. Can you count the numbered days on the calendar to find out how many days are there in September?
+Look at the picture! There is a clock with big hands and little hands. The clock says 40 minutes have passed. Can you count how many minutes are shown on the clock face?
+Look at the picture! There is a big clock on the wall. The short hand is pointing to 11 and the long hand is on the 12. Midnight is when the short hand points to 12. How many numbers will the short hand pass before it reaches midnight?
+Look at the clock in the picture! The short hand is on the 9 and the long hand is on the 4. If it was 5 o'clock earlier, how many minutes have passed from 5 to 9:20?
+Look at the picture! You can see a calendar with the days of the week and the dates for April. Monday is marked as 30 April, and you can see the following days: Tuesday, Wednesday, and Thursday. What date is written on Thursday?
+Look at the picture! You can see a big calendar with all 12 months on it. December is highlighted with a big star. What month is written next to the star?
+Look at the picture! There is a big calendar on the wall with all the months. Can you see the month of January on the calendar and count how many days are in January?
+Look at the calendar picture! You can see the days of the month on it. Find 29 December on the calendar, then count 4 days forward to 2 January. Is the date 2 January 4 days after 29 December?
+Look at the picture! You can see a big calendar with all the months on it. March is highlighted with 31 numbers on the page. How many days are there in March?
+Look at the picture! You can see a newspaper for Monday, a newspaper for Tuesday, a newspaper for Wednesday, a newspaper for Thursday, a newspaper for Friday, and a newspaper for Saturday. Each newspaper costs 30p. How much money will {user_name} need to buy all the newspapers from Monday to Saturday?
+Look at the picture! There is a calendar for October on the wall. Can {user_name} count how many days are there in October?
+Look at the picture! There is a calendar for May on the wall. Can {user_name} count the numbered days in the picture, how many days are there in May?
+Look at the picture! There is a big calendar on the wall with all the months. Can {user_name} see the page for June and count how many days are there in June?
+Look at the picture! There is a calendar on the wall with the month of April on it. Can {user_name} count the number of days in April?
+Look at the picture! Can {user_name} see the calendar that {mother_name} is holding? It shows the month of July with all the days marked. How many days are there in July?
+Look at the picture! There is a big calendar on the wall with all the months. Can {user_name} see the month of January on the calendar and count how many days are there in January?
+Look at the picture! You can see a big calendar with all the months on it. November is marked with a big star. If {user_name} count 3 months after the star on November, which month will {user_name}'s finger land on?
+Look at the picture! You can see a big calendar with all the months. Can {user_name} find August and count how many little boxes are there for the days in August?
+Look at the picture! There is a big clock showing 1 hour with 60 little marks. Now, look at the smaller clock showing 30 minutes. How many little marks can {user_name} count on the smaller clock?
+Look at the picture! There's a big clock with 60 little marks on it, and it says 1 hour. Can {user_name} see the clock and count how many minutes are in the 1 hour?
+Look at the calendar picture! Can {user_name} find the day of the week for 14 September on the calendar? Is it a Saturday?
+Look at the picture! There is a calendar on the wall with all the months. Can {user_name} see the month of February and count how many days are marked on it?
+Look at the picture! There is a big calendar showing the month of September. Can {user_name} count the numbered days on the calendar to find out how many days are there in September?
+Look at the picture! There is a clock with big hands and little hands. The clock says 40 minutes have passed. Can {user_name} count how many minutes are shown on the clock face?
+Look at the picture! You can see a calendar with the days of the week and the dates for April. Monday is marked as 30 April, and {user_name} can see the following days: Tuesday, Wednesday, and Thursday. What date is written on Thursday?
+Look at the picture! There is a big calendar on the wall with all the months. Can {user_name} see the month of January on the calendar and count how many days are in January?
+Look at the picture! There are newspapers for Monday to Saturday. Each costs 30p. How much money is needed to buy all six?
+Look at the picture! There is a calendar for October on the wall. How many days are there in October?
+Look at the picture! There is a calendar for May on the wall. How many days are there in May?
+Look at the picture! There is a calendar for June on the wall. How many days are there in June?
+Look at the picture! There is a calendar for April on the wall. How many days are there in April?
+Look at the picture! {mother_name} is holding a calendar for July. How many days are there in July?
+Look at the picture! There is a calendar for January on the wall. How many days are there in January?
+Look at the picture! There is a calendar showing November. If {user_name} count 3 months after November, which month is it?
+Look at the picture! There is a calendar showing August. How many days are there in August?
+Look at the picture! Priya has 12 boxes, one for each month. Each box has 20p. How much does Priya save after one year?
+Look at the picture! Monday is 1, Tuesday is 2, Wednesday is 3, and the next day is 4. What is the name of the day marked 4?
+Look at the picture! There is a clock showing 1 hour with 60 marks. How many minutes are in 1 hour?
+Look at the picture! There is a clock with 60 marks. How many minutes are in 1 hour?
+Look at the picture! What day of the week is 14 September? Is it a Saturday?
+Look at the picture! There is a calendar for February. How many days are there in February?
+Look at the picture! There is a calendar for September. How many days are there in September?
+Look at the picture! There is a clock showing 40 minutes. How many minutes are shown on the clock face?
+Look at the picture! There is a clock with the short hand at 11 and the long hand at 12. How many numbers will the short hand pass before it reaches midnight?
+Look at the picture! The short hand is at 9 and the long hand is at 4. How many minutes have passed from 5 to 9:20?
+Look at the picture! Monday is 30 April, followed by Tuesday, Wednesday, and Thursday. What date is Thursday?
+Look at the picture! There is a calendar with all 12 months. December is highlighted. What month is next to the star?
+Look at the picture! There is a calendar for January. How many days are in January?
+Look at the picture! Find 29 December. Count 4 days forward to 2 January. Is 2 January 4 days after 29 December?
+Look at the picture! There is a calendar for March with 31 days. How many days are there in March?

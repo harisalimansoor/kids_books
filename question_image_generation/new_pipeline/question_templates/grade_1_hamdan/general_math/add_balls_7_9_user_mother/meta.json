@@ -1,0 +1,153 @@
+{
+  "stem_id": "add_balls_7_9_user_mother",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "mother_has_7_balls_mother_has_9_balls_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "football"
+    ],
+    "notes": "Balls general_math stem."
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 354,
+      "y": 108,
+      "w": 194,
+      "h": 256,
+      "landmarks": {
+        "right_eye": [
+          424,
+          198
+        ],
+        "left_eye": [
+          515,
+          225
+        ],
+        "nose": [
+          462,
+          270
+        ],
+        "mouth_right": [
+          395,
+          280
+        ],
+        "mouth_left": [
+          483,
+          304
+        ]
+      },
+      "confidence": 0.948
+    },
+    {
+      "role": "child",
+      "x": 975,
+      "y": 240,
+      "w": 178,
+      "h": 230,
+      "landmarks": {
+        "right_eye": [
+          1011,
+          332
+        ],
+        "left_eye": [
+          1103,
+          323
+        ],
+        "nose": [
+          1061,
+          374
+        ],
+        "mouth_right": [
+          1027,
+          409
+        ],
+        "mouth_left": [
+          1110,
+          400
+        ]
+      },
+      "confidence": 0.955
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "mother",
+      "owner": "mother",
+      "object_id": "balls",
+      "singular": "ball",
+      "plural": "balls",
+      "count": 7,
+      "container": "table"
+    },
+    {
+      "id": "table",
+      "owner": "mother",
+      "object_id": "balls",
+      "singular": "ball",
+      "plural": "balls",
+      "count": 9,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "16",
+    "options": [
+      "16",
+      "7",
+      "9",
+      "15"
+    ],
+    "formula": "7+9",
+    "explanation": "mother (7) + scene (9) = 16"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "General Math/4.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

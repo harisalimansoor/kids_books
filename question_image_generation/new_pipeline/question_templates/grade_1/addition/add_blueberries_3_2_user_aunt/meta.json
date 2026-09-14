@@ -1,0 +1,151 @@
+{
+  "stem_id": "add_blueberries_3_2_user_aunt",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "aunt_2_blueberries_child_3_blueberries_kitchen.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "aunt"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "aunt",
+    "allowed_adult_roles": [
+      "aunt"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "aunt_name": "aunt"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is aunt-locked. Paste child + aunt faces only.",
+    "child_gender": "girl"
+  },
+  "interests": {
+    "foods": [
+      "blueberries"
+    ],
+    "hobbies": [
+      "cooking"
+    ],
+    "notes": "Sharing blueberries with aunt addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 181,
+      "y": 323,
+      "w": 158,
+      "h": 206,
+      "landmarks": {
+        "right_eye": [
+          228,
+          406
+        ],
+        "left_eye": [
+          299,
+          408
+        ],
+        "nose": [
+          264,
+          447
+        ],
+        "mouth_right": [
+          228,
+          468
+        ],
+        "mouth_left": [
+          297,
+          470
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "aunt",
+      "x": 617,
+      "y": 180,
+      "w": 173,
+      "h": 215,
+      "landmarks": {
+        "right_eye": [
+          647,
+          274
+        ],
+        "left_eye": [
+          728,
+          257
+        ],
+        "nose": [
+          690,
+          309
+        ],
+        "mouth_right": [
+          670,
+          342
+        ],
+        "mouth_left": [
+          744,
+          328
+        ]
+      },
+      "confidence": 0.938
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "blueberries",
+      "count": 3,
+      "container": "plate"
+    },
+    {
+      "id": "aunt",
+      "owner": "aunt",
+      "object_id": "blueberries",
+      "count": 2,
+      "container": "plate"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "formula": "3+2",
+    "explanation": "3 blueberries + 2 blueberries = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 3 child + 2 aunt."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

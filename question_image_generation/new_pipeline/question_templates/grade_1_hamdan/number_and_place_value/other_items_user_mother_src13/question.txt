@@ -1,0 +1,1 @@
+Look at the picture! {user_name} and {mother_name} are checking rows of numbered counting blocks. The rows show 48, 42, 36, 30 and 24 in descending order. {user_name} points toward the final row while {mother_name} checks the pattern.. Is 24 correct as the next number in the sequence?

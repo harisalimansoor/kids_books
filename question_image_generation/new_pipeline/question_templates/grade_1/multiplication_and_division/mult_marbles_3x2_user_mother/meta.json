@@ -1,0 +1,144 @@
+{
+  "stem_id": "mult_marbles_3x2_user_mother",
+  "grade": "grade_1",
+  "topic": "multiplication_and_division",
+  "layout_pattern": "equal_groups",
+  "question_file": "question.txt",
+  "image_file": "mother_3_groups_2_marbles.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only.",
+    "child_gender": "girl"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "marbles"
+    ],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 210,
+      "y": 294,
+      "w": 143,
+      "h": 167,
+      "landmarks": {
+        "right_eye": [
+          256,
+          355
+        ],
+        "left_eye": [
+          316,
+          363
+        ],
+        "nose": [
+          283,
+          395
+        ],
+        "mouth_right": [
+          248,
+          413
+        ],
+        "mouth_left": [
+          302,
+          421
+        ]
+      },
+      "confidence": 0.94
+    },
+    {
+      "role": "mother",
+      "x": 608,
+      "y": 93,
+      "w": 155,
+      "h": 202,
+      "landmarks": {
+        "right_eye": [
+          636,
+          184
+        ],
+        "left_eye": [
+          711,
+          171
+        ],
+        "nose": [
+          677,
+          217
+        ],
+        "mouth_right": [
+          656,
+          246
+        ],
+        "mouth_left": [
+          727,
+          234
+        ]
+      },
+      "confidence": 0.939
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "groups",
+      "owner": "mother",
+      "object_id": "marbles",
+      "groups": 3,
+      "per_group": 2,
+      "count": 6
+    }
+  ],
+  "answer": {
+    "type": "multiply",
+    "correct": "6",
+    "options": [
+      "6",
+      "5",
+      "3",
+      "8"
+    ],
+    "formula": "3×2",
+    "explanation": "3 groups of 2 marbles = 6"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Garden marbles play, 3 groups of 2, with qwen/qwen-image-3."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/multiplication_and_division.txt",
+    "notes": "Count-locked Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background",
+    "activity": "playing_marbles_garden"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

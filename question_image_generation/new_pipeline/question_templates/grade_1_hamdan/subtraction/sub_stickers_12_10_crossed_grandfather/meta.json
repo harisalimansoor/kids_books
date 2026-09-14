@@ -1,0 +1,112 @@
+{
+  "stem_id": "sub_stickers_12_10_crossed_grandfather",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "grandfather_table_12_stickers_10_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandfather-locked. Paste child + grandfather faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "stickers"
+    ],
+    "notes": "Stickers subtraction stem."
+  },
+  "face_regions": [
+    {
+      "role": "grandfather",
+      "x": 611,
+      "y": 69,
+      "w": 213,
+      "h": 301,
+      "landmarks": {
+        "right_eye": [
+          662,
+          199
+        ],
+        "left_eye": [
+          765,
+          194
+        ],
+        "nose": [
+          714,
+          254
+        ],
+        "mouth_right": [
+          675,
+          295
+        ],
+        "mouth_left": [
+          770,
+          290
+        ]
+      },
+      "confidence": 0.944
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "grandfather",
+      "object_id": "stickers",
+      "singular": "sticker",
+      "plural": "stickers",
+      "count": 12,
+      "crossed_count": 10,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "2",
+    "options": [
+      "2",
+      "12",
+      "10",
+      "1"
+    ],
+    "formula": "12-10",
+    "explanation": "12 objects minus 10 crossed out = 2"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 12 with 10 crossed."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Subtraction/16.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

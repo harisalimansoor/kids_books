@@ -1,0 +1,152 @@
+{
+  "stem_id": "add_marbles_4_5_user_grandfather",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "sibling_has_4_marbles_grandfather_has_5_marbles_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "sibling",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "sibling_name": "sibling",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandfather-locked. Paste child + grandfather faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "marbles"
+    ],
+    "notes": "Marbles addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "sibling",
+      "x": 261,
+      "y": 198,
+      "w": 219,
+      "h": 275,
+      "landmarks": {
+        "right_eye": [
+          328,
+          294
+        ],
+        "left_eye": [
+          430,
+          303
+        ],
+        "nose": [
+          379,
+          357
+        ],
+        "mouth_right": [
+          322,
+          390
+        ],
+        "mouth_left": [
+          418,
+          396
+        ]
+      },
+      "confidence": 0.957
+    },
+    {
+      "role": "grandfather",
+      "x": 899,
+      "y": 40,
+      "w": 259,
+      "h": 375,
+      "landmarks": {
+        "right_eye": [
+          958,
+          204
+        ],
+        "left_eye": [
+          1080,
+          182
+        ],
+        "nose": [
+          1024,
+          269
+        ],
+        "mouth_right": [
+          988,
+          330
+        ],
+        "mouth_left": [
+          1098,
+          312
+        ]
+      },
+      "confidence": 0.938
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "sibling",
+      "owner": "sibling",
+      "object_id": "marbles",
+      "singular": "marble",
+      "plural": "marbles",
+      "count": 4,
+      "container": "table"
+    },
+    {
+      "id": "grandfather",
+      "owner": "grandfather",
+      "object_id": "marbles",
+      "singular": "marble",
+      "plural": "marbles",
+      "count": 5,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "9",
+    "options": [
+      "9",
+      "4",
+      "5",
+      "8"
+    ],
+    "formula": "4+5",
+    "explanation": "sibling (4) + grandfather (5) = 9"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "ADDITION/5.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

@@ -1,0 +1,125 @@
+{
+  "stem_id": "other_items_user",
+  "grade": "grade_1",
+  "topic": "mixed",
+  "layout_pattern": "other",
+  "question_file": "question.txt",
+  "image_file": "items.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 424,
+      "y": 147,
+      "w": 218,
+      "h": 285,
+      "landmarks": {
+        "right_eye": [
+          496,
+          243
+        ],
+        "left_eye": [
+          601,
+          261
+        ],
+        "nose": [
+          546,
+          315
+        ],
+        "mouth_right": [
+          479,
+          340
+        ],
+        "mouth_left": [
+          580,
+          355
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "sibling",
+      "x": 891,
+      "y": 149,
+      "w": 224,
+      "h": 297,
+      "landmarks": {
+        "right_eye": [
+          940,
+          282
+        ],
+        "left_eye": [
+          1047,
+          267
+        ],
+        "nose": [
+          1000,
+          333
+        ],
+        "mouth_right": [
+          963,
+          376
+        ],
+        "mouth_left": [
+          1059,
+          363
+        ]
+      },
+      "confidence": 0.953
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "other",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Mixed/2.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

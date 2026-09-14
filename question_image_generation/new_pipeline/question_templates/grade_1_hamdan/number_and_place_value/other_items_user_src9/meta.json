@@ -1,0 +1,125 @@
+{
+  "stem_id": "other_items_user",
+  "grade": "grade_1",
+  "topic": "number_and_place_value",
+  "layout_pattern": "other",
+  "question_file": "question.txt",
+  "image_file": "items.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 341,
+      "y": 184,
+      "w": 180,
+      "h": 227,
+      "landmarks": {
+        "right_eye": [
+          408,
+          265
+        ],
+        "left_eye": [
+          488,
+          281
+        ],
+        "nose": [
+          448,
+          320
+        ],
+        "mouth_right": [
+          393,
+          341
+        ],
+        "mouth_left": [
+          468,
+          356
+        ]
+      },
+      "confidence": 0.955
+    },
+    {
+      "role": "sibling",
+      "x": 1009,
+      "y": 271,
+      "w": 170,
+      "h": 220,
+      "landmarks": {
+        "right_eye": [
+          1039,
+          361
+        ],
+        "left_eye": [
+          1123,
+          357
+        ],
+        "nose": [
+          1077,
+          404
+        ],
+        "mouth_right": [
+          1051,
+          436
+        ],
+        "mouth_left": [
+          1124,
+          430
+        ]
+      },
+      "confidence": 0.957
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "sequence",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": "Answer depends on the pictured sequence."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Number and Place Value/9.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}
