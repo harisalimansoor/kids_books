@@ -1,0 +1,151 @@
+{
+  "stem_id": "add_childrens_32_16_user_teacher",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "teacher_has_32_childrens_teacher_has_16_childrens_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "teacher"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "teacher",
+    "allowed_adult_roles": [
+      "teacher"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "teacher_name": "teacher"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is teacher-locked. Paste child + teacher faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Childrens general_math stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 110,
+      "y": 333,
+      "w": 79,
+      "h": 98,
+      "landmarks": {
+        "right_eye": [
+          133,
+          372
+        ],
+        "left_eye": [
+          169,
+          371
+        ],
+        "nose": [
+          153,
+          391
+        ],
+        "mouth_right": [
+          135,
+          404
+        ],
+        "mouth_left": [
+          168,
+          404
+        ]
+      },
+      "confidence": 0.947
+    },
+    {
+      "role": "teacher",
+      "x": 1229,
+      "y": 359,
+      "w": 92,
+      "h": 119,
+      "landmarks": {
+        "right_eye": [
+          1243,
+          404
+        ],
+        "left_eye": [
+          1291,
+          403
+        ],
+        "nose": [
+          1262,
+          427
+        ],
+        "mouth_right": [
+          1251,
+          448
+        ],
+        "mouth_left": [
+          1291,
+          445
+        ]
+      },
+      "confidence": 0.93
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "teacher",
+      "object_id": "childrens",
+      "singular": "children",
+      "plural": "childrens",
+      "count": 32,
+      "container": "table"
+    },
+    {
+      "id": "table_2",
+      "owner": "teacher",
+      "object_id": "of_childrens",
+      "singular": "of children",
+      "plural": "of childrens",
+      "count": 16,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "48",
+    "options": [
+      "48",
+      "32",
+      "16",
+      "47"
+    ],
+    "formula": "32+16",
+    "explanation": "scene (32) + scene (16) = 48"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "General Math/7.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

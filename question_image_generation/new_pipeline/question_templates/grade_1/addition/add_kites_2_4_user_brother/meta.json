@@ -1,0 +1,101 @@
+{
+  "stem_id": "add_kites_2_4_user_brother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "brother_4_kites_child_2_kites_park.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "brother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "brother",
+    "allowed_adult_roles": [
+      "brother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "brother_name": "brother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is brother-locked. Paste child + brother faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "kite_flying"
+    ],
+    "notes": "Flying kites with brother addition stem."
+  },
+  "face_regions": [
+    {
+      "x": 358,
+      "y": 453,
+      "w": 64,
+      "h": 78,
+      "role": "child"
+    },
+    {
+      "x": 522,
+      "y": 257,
+      "w": 67,
+      "h": 78,
+      "role": "brother"
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "brother",
+      "owner": "brother",
+      "object_id": "kites",
+      "count": 4
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "kites",
+      "count": 2
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "6",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "5"
+    ],
+    "formula": "2+4",
+    "explanation": "2 kites + 4 kites = 6"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 2 child + 4 brother."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

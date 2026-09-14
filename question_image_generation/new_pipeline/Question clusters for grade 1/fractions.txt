@@ -1,0 +1,32 @@
+=== FRACTIONS ===
+
+Look at the picture! {grandmother_name} is sitting at a table with 2 books in front of her, and she is packing half of them into a bag to give to a friend. How many books does {grandmother_name} keep on the table?
+Look at the picture! {father_name} has 8 books on a shelf, and he is giving some to his friend. Can you see that he is giving half of the books away? How many books does {father_name} keep on the shelf?
+Look at the picture! There are 28 pennies in a jar. Can you see the jar divided into 4 equal parts? How many pennies are in one of those parts?
+Look at the picture! There are 20 cookies on the table, and {mother_name} is cutting them into quarters. How many cookies will {grandmother_name} get if she takes a quarter of the cookies?
+Look at the picture! There are 36 cookies in a big basket. Can you see {grandmother_name} taking a quarter of the cookies and putting them in a smaller basket? How many cookies will {grandmother_name} have in the smaller basket?
+Look at the picture! You can see 3 big circles, and each circle is divided into 5 parts. How many of these small parts are there in the 3 big circles?
+Look at the picture! There is a big clock with 12 numbers and 1 hour marked. The clock hand has moved three-quarters of the way around the clock face. How many minutes have passed?
+Look at the picture! There are 3 whole oranges on the table. Can you see how many half oranges can be cut from them?
+Look at the picture! {father_name} has 8 books on a shelf, and he is giving some to his friend. Can {user_name} see that he is giving half of the books away? How many books does {father_name} keep on the shelf?
+Look at the picture! There are 28 pennies in a jar. Can {user_name} see the jar divided into 4 equal parts? How many pennies are in one of those parts?
+Look at the picture! There are 36 cookies in a big basket. Can {user_name} see {grandmother_name} taking a quarter of the cookies and putting them in a smaller basket? How many cookies will {grandmother_name} have in the smaller basket?
+Look at the picture! There are 3 whole oranges on the table. Can {user_name} see how many half oranges can be cut from them?
+Look at the picture! {father_name} has 8 books in front of him. Half of them are circled. How many books are circled?
+Look at the picture! {grandmother_name} has 4 books in front of her. Half of them are circled. How many books are circled?
+Look at the picture! There are 8 pennies divided into 4 equal groups. One group is circled. How many pennies are in the circled group?
+Look at the picture! {grandmother_name} has 4 stickers in front of her. Half of them are circled. How many stickers are circled?
+Look at the picture! {sibling_name} has 2 apples in front of {sibling_pronoun}. Half of them are circled. How many apples are circled?
+Look at the picture! {grandfather_name} has 8 marbles in front of him. Half of them are circled. How many marbles are circled?
+Look at the picture! {sibling_name} has 4 apples in front of {sibling_pronoun}. Half of them are circled. How many apples are circled?
+Look at the picture! {sibling_name} has 2 stickers in front of {sibling_pronoun}. Half of them are circled. How many stickers are circled?
+Look at the picture! {grandmother_name} has 8 stickers in front of her. Half of them are circled. How many stickers are circled?
+Look at the picture! {sibling_name} has 10 marbles in front of {sibling_pronoun}. Half of them are circled. How many marbles are circled?
+Look at the picture! {mother_name} has 6 stickers in front of her. Half of them are circled. How many stickers are circled?
+Look at the picture! {grandmother_name} has 2 books in front of her. Half of them are circled. How many books are circled?
+Look at the picture! There are 28 pennies divided into 4 equal groups. One group is circled. How many pennies are in the circled group?
+Look at the picture! There are 20 cookies on the table, divided into 4 equal groups. One group is circled. How many cookies are in the circled group?
+Look at the picture! There are 36 cookies divided into 4 equal groups. One group is circled. How many cookies are in the circled group?
+Look at the picture! There are 3 circles, each divided into 5 parts. How many parts are there altogether?
+Look at the picture! There is a clock showing 1 hour. The hand has moved three-quarters of the way around. How many minutes have passed?
+Look at the picture! There are 3 oranges. Each orange is cut into 2 halves. How many orange halves are there altogether?

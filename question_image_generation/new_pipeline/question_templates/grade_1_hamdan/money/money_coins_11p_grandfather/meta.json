@@ -1,0 +1,110 @@
+{
+  "stem_id": "money_coins_11p_grandfather",
+  "grade": "grade_1",
+  "topic": "money",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "grandfather_table_11p_coins.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandfather-locked. Paste child + grandfather faces only."
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Coins money stem."
+  },
+  "face_regions": [
+    {
+      "role": "grandfather",
+      "x": 456,
+      "y": 111,
+      "w": 245,
+      "h": 321,
+      "landmarks": {
+        "right_eye": [
+          560,
+          229
+        ],
+        "left_eye": [
+          666,
+          265
+        ],
+        "nose": [
+          609,
+          319
+        ],
+        "mouth_right": [
+          524,
+          333
+        ],
+        "mouth_left": [
+          620,
+          365
+        ]
+      },
+      "confidence": 0.929
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "grandfather",
+      "object_id": "coins",
+      "singular": "coin",
+      "plural": "coins",
+      "count": 2,
+      "value_pence": 11,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "2",
+    "options": [
+      "2",
+      "1p",
+      "3p",
+      "4p"
+    ],
+    "formula": "2",
+    "explanation": "Sum of visible groups = 2"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Money/71.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

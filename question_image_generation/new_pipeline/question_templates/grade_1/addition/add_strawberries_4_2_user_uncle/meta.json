@@ -1,0 +1,105 @@
+{
+  "stem_id": "add_strawberries_4_2_user_uncle",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "uncle_2_strawberries_child_4_strawberries_farm.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "uncle"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "uncle",
+    "allowed_adult_roles": [
+      "uncle"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "uncle_name": "uncle"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is uncle-locked. Paste child + uncle faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [
+      "strawberries"
+    ],
+    "hobbies": [
+      "farming"
+    ],
+    "notes": "Picking strawberries with uncle addition stem."
+  },
+  "face_regions": [
+    {
+      "x": 283,
+      "y": 258,
+      "w": 127,
+      "h": 157,
+      "role": "child"
+    },
+    {
+      "x": 545,
+      "y": 99,
+      "w": 162,
+      "h": 218,
+      "role": "uncle"
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "uncle",
+      "owner": "uncle",
+      "object_id": "strawberries",
+      "count": 2,
+      "container": "bowl"
+    },
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "strawberries",
+      "count": 4,
+      "container": "bowl"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "6",
+    "options": [
+      "6",
+      "4",
+      "2",
+      "5"
+    ],
+    "formula": "4+2",
+    "explanation": "4 strawberries + 2 strawberries = 6"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 4 child + 2 uncle."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

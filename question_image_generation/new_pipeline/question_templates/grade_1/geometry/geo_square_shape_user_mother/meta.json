@@ -1,0 +1,140 @@
+{
+  "stem_id": "geo_square_shape_user_mother",
+  "grade": "grade_1",
+  "topic": "geometry",
+  "layout_pattern": "shape_identify",
+  "question_file": "question.txt",
+  "image_file": "mother_holding_square_paper.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 181,
+      "y": 358,
+      "w": 127,
+      "h": 161,
+      "landmarks": {
+        "right_eye": [
+          217,
+          425
+        ],
+        "left_eye": [
+          278,
+          422
+        ],
+        "nose": [
+          250,
+          456
+        ],
+        "mouth_right": [
+          223,
+          479
+        ],
+        "mouth_left": [
+          277,
+          477
+        ]
+      },
+      "confidence": 0.94
+    },
+    {
+      "role": "mother",
+      "x": 625,
+      "y": 196,
+      "w": 137,
+      "h": 174,
+      "landmarks": {
+        "right_eye": [
+          647,
+          270
+        ],
+        "left_eye": [
+          707,
+          260
+        ],
+        "nose": [
+          675,
+          298
+        ],
+        "mouth_right": [
+          664,
+          329
+        ],
+        "mouth_left": [
+          715,
+          319
+        ]
+      },
+      "confidence": 0.937
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "shape",
+      "object_id": "square",
+      "sides": 4,
+      "equal_sides": true,
+      "count": 1
+    }
+  ],
+  "answer": {
+    "type": "shape_name",
+    "correct": "square",
+    "options": [
+      "square",
+      "circle",
+      "triangle",
+      "rectangle"
+    ],
+    "formula": null,
+    "explanation": "4 equal sides and 4 corners = square"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Visually count-checked against question."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/geometry.txt",
+    "notes": "Count-locked Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

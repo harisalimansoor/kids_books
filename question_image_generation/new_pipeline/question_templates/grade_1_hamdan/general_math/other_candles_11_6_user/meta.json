@@ -1,0 +1,146 @@
+{
+  "stem_id": "other_candles_11_6_user",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "other",
+  "question_file": "question.txt",
+  "image_file": "sibling_has_11_candles_table_has_6_candles_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock.",
+    "child_gender": "girl"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "parties"
+    ],
+    "notes": "Candles general_math stem."
+  },
+  "face_regions": [
+    {
+      "role": "sibling",
+      "x": 215,
+      "y": 222,
+      "w": 201,
+      "h": 265,
+      "landmarks": {
+        "right_eye": [
+          273,
+          321
+        ],
+        "left_eye": [
+          373,
+          324
+        ],
+        "nose": [
+          324,
+          378
+        ],
+        "mouth_right": [
+          269,
+          406
+        ],
+        "mouth_left": [
+          368,
+          409
+        ]
+      },
+      "confidence": 0.952
+    },
+    {
+      "role": "child",
+      "x": 639,
+      "y": 188,
+      "w": 181,
+      "h": 235,
+      "landmarks": {
+        "right_eye": [
+          687,
+          279
+        ],
+        "left_eye": [
+          771,
+          272
+        ],
+        "nose": [
+          731,
+          324
+        ],
+        "mouth_right": [
+          697,
+          359
+        ],
+        "mouth_left": [
+          772,
+          354
+        ]
+      },
+      "confidence": 0.95
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "sibling",
+      "object_id": "candles",
+      "singular": "candle",
+      "plural": "candles",
+      "count": 11,
+      "container": "table"
+    },
+    {
+      "id": "table_2",
+      "owner": "table",
+      "object_id": "candles",
+      "singular": "candle",
+      "plural": "candles",
+      "count": 6,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "other",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "General Math/30.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

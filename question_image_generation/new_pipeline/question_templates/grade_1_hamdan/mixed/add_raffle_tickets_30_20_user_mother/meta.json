@@ -1,0 +1,151 @@
+{
+  "stem_id": "add_raffle_tickets_30_20_user_mother",
+  "grade": "grade_1",
+  "topic": "mixed",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "mother_has_30_raffle_tickets_mother_has_20_raffle_tickets_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Raffle tickets mixed stem."
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 419,
+      "y": 98,
+      "w": 190,
+      "h": 232,
+      "landmarks": {
+        "right_eye": [
+          495,
+          173
+        ],
+        "left_eye": [
+          578,
+          207
+        ],
+        "nose": [
+          526,
+          243
+        ],
+        "mouth_right": [
+          458,
+          247
+        ],
+        "mouth_left": [
+          538,
+          278
+        ]
+      },
+      "confidence": 0.938
+    },
+    {
+      "role": "child",
+      "x": 927,
+      "y": 174,
+      "w": 178,
+      "h": 240,
+      "landmarks": {
+        "right_eye": [
+          968,
+          264
+        ],
+        "left_eye": [
+          1057,
+          259
+        ],
+        "nose": [
+          1013,
+          311
+        ],
+        "mouth_right": [
+          978,
+          347
+        ],
+        "mouth_left": [
+          1059,
+          342
+        ]
+      },
+      "confidence": 0.945
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "mother",
+      "object_id": "raffle_tickets",
+      "singular": "raffle ticket",
+      "plural": "raffle tickets",
+      "count": 30,
+      "container": "table"
+    },
+    {
+      "id": "table_2",
+      "owner": "mother",
+      "object_id": "raffle_tickets",
+      "singular": "raffle ticket",
+      "plural": "raffle tickets",
+      "count": 20,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "50",
+    "options": [
+      "50",
+      "30",
+      "20",
+      "49"
+    ],
+    "formula": "30+20",
+    "explanation": "scene (30) + scene (20) = 50"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Mixed/6.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

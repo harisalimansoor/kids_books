@@ -1,0 +1,1 @@
+Look at the picture! {user_name} is visiting a British school badge stall. Three badge types are displayed with prices of exactly 10p, 20p and 30p. {user_name} has exactly 60p available and is actively selecting badges. How many badges can {user_name} buy with 60p?

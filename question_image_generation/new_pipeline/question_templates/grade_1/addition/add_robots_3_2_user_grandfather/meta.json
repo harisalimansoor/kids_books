@@ -1,0 +1,146 @@
+{
+  "stem_id": "add_robots_3_2_user_grandfather",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "grandfather_2_robots_child_3_robots_playroom.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandfather-locked. Paste child + grandfather faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "toys",
+      "robots"
+    ],
+    "notes": "Playing with robots in robotic world with grandfather addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 248,
+      "y": 323,
+      "w": 135,
+      "h": 170,
+      "landmarks": {
+        "right_eye": [
+          287,
+          384
+        ],
+        "left_eye": [
+          349,
+          389
+        ],
+        "nose": [
+          318,
+          420
+        ],
+        "mouth_right": [
+          286,
+          444
+        ],
+        "mouth_left": [
+          342,
+          448
+        ]
+      }
+    },
+    {
+      "role": "grandfather",
+      "x": 562,
+      "y": 138,
+      "w": 174,
+      "h": 239,
+      "landmarks": {
+        "right_eye": [
+          597,
+          252
+        ],
+        "left_eye": [
+          678,
+          235
+        ],
+        "nose": [
+          644,
+          291
+        ],
+        "mouth_right": [
+          623,
+          323
+        ],
+        "mouth_left": [
+          695,
+          308
+        ]
+      }
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "robots",
+      "count": 3
+    },
+    {
+      "id": "grandfather",
+      "owner": "grandfather",
+      "object_id": "robots",
+      "count": 2
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "5",
+    "options": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "formula": "3+2",
+    "explanation": "3 robots + 2 robots = 5"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Vision-checked toy robot counts: (3, 2, True)"
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

@@ -1,0 +1,110 @@
+{
+  "stem_id": "sub_balloons_7_crossed_user_adult",
+  "grade": "grade_1",
+  "topic": "subtraction",
+  "layout_pattern": "cross_out_subtract",
+  "question_file": "question.txt",
+  "image_file": "adult_table_7_balloons_None_crossed.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "balloons"
+    ],
+    "notes": "Balloons subtraction stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 611,
+      "y": 128,
+      "w": 211,
+      "h": 265,
+      "landmarks": {
+        "right_eye": [
+          665,
+          232
+        ],
+        "left_eye": [
+          770,
+          226
+        ],
+        "nose": [
+          722,
+          285
+        ],
+        "mouth_right": [
+          674,
+          319
+        ],
+        "mouth_left": [
+          773,
+          314
+        ]
+      },
+      "confidence": 0.957
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "all",
+      "owner": "child",
+      "object_id": "balloons",
+      "singular": "balloon",
+      "plural": "balloons",
+      "count": 7,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_remaining",
+    "correct": "7",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "formula": "7",
+    "explanation": "None are crossed out, so the count is 7."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to verified image: 7 with 0 crossed."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Subtraction/4.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

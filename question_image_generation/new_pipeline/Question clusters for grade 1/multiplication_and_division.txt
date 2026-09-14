@@ -1,0 +1,34 @@
+=== MULTIPLICATION & DIVISION ===
+
+Look at the picture! {grandmother_name} is holding a small bag with 2 marbles inside. Now, someone is giving {grandmother_name} another bag with the same number of marbles. How many marbles will {grandmother_name} have altogether?
+Look at the picture! Can you see the number 27 written on the blackboard that {grandmother_name} is pointing to, and the number lines on the table that {mother_name} drew, with {father_name} and {sibling_name} looking at the lines with 3 blocks in each set? How many sets of three blocks are there in 27?
+Look at the picture! There are 16 blocks arranged in a special square shape. Can you find the number of blocks in one row that makes the whole square when multiplied by itself?
+Look at the picture! There are blocks arranged in rows, and each row has the same number of blocks. Can you see that each row has 4 blocks? How many rows of 4 blocks can you count to make 36?
+Look at the picture! Nadeen is holding nine 1p coins in her hand and is exchanging them for three coins on the table. Can you see the coins Nadeen is getting? What is the value of each of these three coins?
+Look at the picture! There are blocks arranged in a special square shape, with 5 blocks in one row and 5 blocks in the other row, making a total of 25 blocks. What number of blocks in one row, when multiplied by itself, gives us the total number of blocks in the square?
+Look at the picture! There are blocks in a row, and the number 12 is written below them. Can you see the blocks grouped into sets of 2? How many sets of 2 blocks can you count in the picture of 12 blocks?
+Look at the picture! Can {user_name} see the number 27 written on the blackboard that {grandmother_name} is pointing to, and the number lines on the table that {mother_name} drew, with {father_name} and {sibling_name} looking at the lines with 3 blocks in each set? How many sets of three blocks are there in 27?
+Look at the picture! There are 16 blocks arranged in a special square shape. Can {user_name} find the number of blocks in one row that makes the whole square when multiplied by itself?
+Look at the picture! There are blocks arranged in rows, and each row has the same number of blocks. Can {user_name} see that each row has 4 blocks? How many rows of 4 blocks can {user_name} count to make 36?
+Look at the picture! Nadeen is holding nine 1p coins in her hand and is exchanging them for three coins on the table. Can {user_name} see the coins Nadeen is getting? What is the value of each of these three coins?
+Look at the picture! There are blocks in a row, and the number 12 is written below them. Can {user_name} see the blocks grouped into sets of 2? How many sets of 2 blocks can {user_name} count in the picture of 12 blocks?
+Look at the picture! {grandmother_name} has 3 groups of 2 marbles in front of her. How many marbles are there altogether?
+Look at the picture! {grandfather_name} has 2 groups of 4 blocks in front of him. How many blocks are there altogether?
+Look at the picture! {mother_name} has 4 groups of 2 cookies in front of her. How many cookies are there altogether?
+Look at the picture! {father_name} has 2 groups of 3 sweets in front of him. How many sweets are there altogether?
+Look at the picture! {sibling_name} has 3 groups of 3 stickers in front of {sibling_pronoun}. How many stickers are there altogether?
+Look at the picture! {user_name} has 2 groups of 5 apples in front of {user_name}. How many apples are there altogether?
+Look at the picture! {grandmother_name} has 2 groups of 2 pencils in front of her. How many pencils are there altogether?
+Look at the picture! {grandfather_name} has 5 groups of 2 balloons in front of him. How many balloons are there altogether?
+Look at the picture! {mother_name} has 3 groups of 4 marbles in front of her. How many marbles are there altogether?
+Look at the picture! {father_name} has 4 groups of 3 toy cars in front of him. How many toy cars are there altogether?
+Look at the picture! {sibling_name} has 2 groups of 6 shells in front of {sibling_pronoun}. How many shells are there altogether?
+Look at the picture! {user_name} has 4 groups of 4 flowers in front of {user_name}. How many flowers are there altogether?
+Look at the picture! {grandmother_name} has 3 groups of 5 crayons in front of her. How many crayons are there altogether?
+Look at the picture! {grandmother_name} has 2 marbles in front of her. There are 3 groups of 2 marbles. How many marbles are there altogether?
+Look at the picture! There are 27 blocks on the table, with 3 blocks in each group. How many groups of 3 blocks are there?
+Look at the picture! There are 16 blocks arranged in a square. How many blocks are in each row?
+Look at the picture! There are 36 blocks arranged in rows. Each row has 4 blocks. How many rows are there?
+Look at the picture! {user_name} has nine 1p coins in front of {user_name}. They are exchanged for 3 coins. What is the value of each coin?
+Look at the picture! There are 25 blocks arranged in a square. How many blocks are in each row?
+Look at the picture! There are 12 blocks in a row, grouped into sets of 2. How many sets of 2 blocks are there?

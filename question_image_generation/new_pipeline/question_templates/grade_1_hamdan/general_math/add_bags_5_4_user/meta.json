@@ -1,0 +1,151 @@
+{
+  "stem_id": "add_bags_5_4_user",
+  "grade": "grade_1",
+  "topic": "general_math",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "table_has_5_bags_table_has_4_bags_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [
+      "apples"
+    ],
+    "hobbies": [],
+    "notes": "Apple general_math stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 425,
+      "y": 149,
+      "w": 168,
+      "h": 226,
+      "landmarks": {
+        "right_eye": [
+          477,
+          233
+        ],
+        "left_eye": [
+          559,
+          233
+        ],
+        "nose": [
+          525,
+          281
+        ],
+        "mouth_right": [
+          480,
+          310
+        ],
+        "mouth_left": [
+          555,
+          310
+        ]
+      },
+      "confidence": 0.949
+    },
+    {
+      "role": "sibling",
+      "x": 876,
+      "y": 144,
+      "w": 163,
+      "h": 217,
+      "landmarks": {
+        "right_eye": [
+          909,
+          232
+        ],
+        "left_eye": [
+          990,
+          225
+        ],
+        "nose": [
+          949,
+          274
+        ],
+        "mouth_right": [
+          923,
+          306
+        ],
+        "mouth_left": [
+          993,
+          299
+        ]
+      },
+      "confidence": 0.951
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "table",
+      "owner": "table",
+      "object_id": "bags",
+      "singular": "bag",
+      "plural": "bags",
+      "count": 5,
+      "container": "table"
+    },
+    {
+      "id": "table_2",
+      "owner": "table",
+      "object_id": "apples",
+      "singular": "apple",
+      "plural": "apples",
+      "count": 4,
+      "container": "table"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "9",
+    "options": [
+      "9",
+      "5",
+      "4",
+      "8"
+    ],
+    "formula": "5+4",
+    "explanation": "scene (5) + scene (4) = 9"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked to question and image."
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "General Math/32.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

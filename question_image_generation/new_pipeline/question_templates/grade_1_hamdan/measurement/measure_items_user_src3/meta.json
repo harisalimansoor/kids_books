@@ -1,0 +1,130 @@
+{
+  "stem_id": "measure_items_user",
+  "grade": "grade_1",
+  "topic": "measurement",
+  "layout_pattern": "measure",
+  "question_file": "question.txt",
+  "image_file": "items.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": null,
+    "allowed_adult_roles": [],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "Paste faces for the listed face_slots only; keep identity lock.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 358,
+      "y": 154,
+      "w": 226,
+      "h": 295,
+      "landmarks": {
+        "right_eye": [
+          429,
+          257
+        ],
+        "left_eye": [
+          540,
+          272
+        ],
+        "nose": [
+          478,
+          331
+        ],
+        "mouth_right": [
+          412,
+          355
+        ],
+        "mouth_left": [
+          521,
+          369
+        ]
+      },
+      "confidence": 0.962
+    },
+    {
+      "role": "sibling",
+      "x": 978,
+      "y": 149,
+      "w": 234,
+      "h": 293,
+      "landmarks": {
+        "right_eye": [
+          1030,
+          263
+        ],
+        "left_eye": [
+          1142,
+          249
+        ],
+        "nose": [
+          1092,
+          314
+        ],
+        "mouth_right": [
+          1053,
+          366
+        ],
+        "mouth_left": [
+          1151,
+          353
+        ]
+      },
+      "confidence": 0.956
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "measurement",
+    "correct": "1000",
+    "options": [
+      "1000",
+      "999",
+      "1001",
+      "1002"
+    ],
+    "formula": "1000",
+    "explanation": "1 litre = 1000 millilitres."
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "MEASURMENT/3.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

@@ -1,0 +1,152 @@
+{
+  "stem_id": "add_marbles_3_6_user_mother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "user_bag_3_marbles_mother_jar_6_marbles.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Interactive marble play; mother-locked.",
+    "child_gender": "girl"
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 253,
+      "y": 318,
+      "w": 132,
+      "h": 167,
+      "landmarks": {
+        "right_eye": [
+          291,
+          379
+        ],
+        "left_eye": [
+          353,
+          382
+        ],
+        "nose": [
+          323,
+          414
+        ],
+        "mouth_right": [
+          290,
+          438
+        ],
+        "mouth_left": [
+          347,
+          440
+        ]
+      },
+      "confidence": 0.952
+    },
+    {
+      "role": "mother",
+      "x": 624,
+      "y": 139,
+      "w": 159,
+      "h": 197,
+      "landmarks": {
+        "right_eye": [
+          655,
+          229
+        ],
+        "left_eye": [
+          729,
+          214
+        ],
+        "nose": [
+          693,
+          267
+        ],
+        "mouth_right": [
+          677,
+          293
+        ],
+        "mouth_left": [
+          743,
+          281
+        ]
+      },
+      "confidence": 0.945
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "group_child_bag",
+      "owner": "child",
+      "object_id": "marbles",
+      "singular": "marble",
+      "plural": "marbles",
+      "count": 3,
+      "container": "bag"
+    },
+    {
+      "id": "group_mother_jar",
+      "owner": "mother",
+      "object_id": "marbles",
+      "singular": "marble",
+      "plural": "marbles",
+      "count": 6,
+      "container": "jar"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "9",
+    "options": [
+      "9",
+      "3",
+      "6",
+      "8"
+    ],
+    "formula": "3+6",
+    "explanation": "3 marbles from child bag + 6 in mother jar = 9"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Marble-play activity; child 3 in circle + mother 6 in 2x3 grid; total 9."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": "User bag 3 + mother jar 6 pour-together total."
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background",
+    "activity": "playing_marbles"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions in meta.json if needed."
+  },
+  "face_detection": "yunet",
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": "Match UI favourite foods/hobbies (ids). Populate as more templates are added."
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  }
+}

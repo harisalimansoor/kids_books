@@ -1,0 +1,144 @@
+{
+  "stem_id": "mult_cookies_4x2_user_mother",
+  "grade": "grade_1",
+  "topic": "multiplication_and_division",
+  "layout_pattern": "equal_groups",
+  "question_file": "question.txt",
+  "image_file": "mother_4_groups_2_cookies.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only.",
+    "child_gender": "unclear"
+  },
+  "interests": {
+    "foods": [
+      "cookies"
+    ],
+    "hobbies": [],
+    "notes": "Food-named stem for favourite-food preference."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 215,
+      "y": 365,
+      "w": 103,
+      "h": 122,
+      "landmarks": {
+        "right_eye": [
+          245,
+          413
+        ],
+        "left_eye": [
+          294,
+          411
+        ],
+        "nose": [
+          272,
+          438
+        ],
+        "mouth_right": [
+          247,
+          457
+        ],
+        "mouth_left": [
+          293,
+          456
+        ]
+      },
+      "confidence": 0.946
+    },
+    {
+      "role": "mother",
+      "x": 618,
+      "y": 81,
+      "w": 133,
+      "h": 173,
+      "landmarks": {
+        "right_eye": [
+          643,
+          161
+        ],
+        "left_eye": [
+          701,
+          147
+        ],
+        "nose": [
+          673,
+          194
+        ],
+        "mouth_right": [
+          664,
+          216
+        ],
+        "mouth_left": [
+          716,
+          205
+        ]
+      },
+      "confidence": 0.935
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "groups",
+      "owner": "mother",
+      "object_id": "cookies",
+      "groups": 4,
+      "per_group": 2,
+      "count": 8
+    }
+  ],
+  "answer": {
+    "type": "multiply",
+    "correct": "8",
+    "options": [
+      "8",
+      "6",
+      "4",
+      "10"
+    ],
+    "formula": "4×2",
+    "explanation": "4 groups of 2 cookies = 8"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Baking, 4 groups of 2 cookies, with qwen/qwen-image-3."
+  },
+  "source": {
+    "cluster_file": "",
+    "notes": "Food-named Grade 1 stem"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background",
+    "activity": "baking_cookies"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Child box corrected: rejected YuNet false positive on cookie plates (old 460x385 @ y=661); kept real child face 103x122 @ (215,365)."
+  },
+  "face_detection": "yunet"
+}

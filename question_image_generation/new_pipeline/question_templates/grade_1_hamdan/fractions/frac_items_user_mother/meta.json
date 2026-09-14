@@ -1,0 +1,127 @@
+{
+  "stem_id": "frac_items_user_mother",
+  "grade": "grade_1",
+  "topic": "fractions",
+  "layout_pattern": "frac",
+  "question_file": "question.txt",
+  "image_file": "mother.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 255,
+      "y": 244,
+      "w": 209,
+      "h": 268,
+      "landmarks": {
+        "right_eye": [
+          326,
+          345
+        ],
+        "left_eye": [
+          425,
+          355
+        ],
+        "nose": [
+          378,
+          411
+        ],
+        "mouth_right": [
+          316,
+          435
+        ],
+        "mouth_left": [
+          410,
+          444
+        ]
+      },
+      "confidence": 0.953
+    },
+    {
+      "role": "mother",
+      "x": 941,
+      "y": 99,
+      "w": 222,
+      "h": 297,
+      "landmarks": {
+        "right_eye": [
+          989,
+          233
+        ],
+        "left_eye": [
+          1085,
+          208
+        ],
+        "nose": [
+          1046,
+          279
+        ],
+        "mouth_right": [
+          1022,
+          327
+        ],
+        "mouth_left": [
+          1110,
+          306
+        ]
+      },
+      "confidence": 0.948
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "other",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Fractions/7.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

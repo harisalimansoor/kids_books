@@ -1,0 +1,127 @@
+{
+  "stem_id": "money_items_user_mother",
+  "grade": "grade_1",
+  "topic": "multiplication_and_division",
+  "layout_pattern": "money",
+  "question_file": "question.txt",
+  "image_file": "mother_altogether.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is mother-locked. Paste child + mother faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [],
+    "notes": ""
+  },
+  "face_regions": [
+    {
+      "role": "mother",
+      "x": 338,
+      "y": 89,
+      "w": 233,
+      "h": 297,
+      "landmarks": {
+        "right_eye": [
+          422,
+          188
+        ],
+        "left_eye": [
+          529,
+          222
+        ],
+        "nose": [
+          464,
+          275
+        ],
+        "mouth_right": [
+          386,
+          287
+        ],
+        "mouth_left": [
+          489,
+          317
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "role": "child",
+      "x": 952,
+      "y": 258,
+      "w": 218,
+      "h": 280,
+      "landmarks": {
+        "right_eye": [
+          995,
+          377
+        ],
+        "left_eye": [
+          1098,
+          359
+        ],
+        "nose": [
+          1053,
+          423
+        ],
+        "mouth_right": [
+          1021,
+          468
+        ],
+        "mouth_left": [
+          1116,
+          451
+        ]
+      },
+      "confidence": 0.954
+    }
+  ],
+  "visual_groups": [],
+  "answer": {
+    "type": "money_total_pence",
+    "correct": "",
+    "options": [],
+    "formula": "",
+    "explanation": ""
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": ""
+  },
+  "source": {
+    "cluster_file": null,
+    "notes": "Multiplication and Division/5.png"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "",
+    "api": ""
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}

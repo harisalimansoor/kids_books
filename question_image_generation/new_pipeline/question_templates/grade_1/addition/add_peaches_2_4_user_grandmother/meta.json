@@ -1,0 +1,152 @@
+{
+  "stem_id": "add_peaches_2_4_user_grandmother",
+  "grade": "grade_1",
+  "topic": "addition",
+  "layout_pattern": "two_group_add",
+  "question_file": "question.txt",
+  "image_file": "grandmother_4_peaches_child_2_peaches_kitchen.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "Image body is grandmother-locked. Paste child + grandmother faces only.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [
+      "peaches"
+    ],
+    "hobbies": [
+      "gardening",
+      "cooking"
+    ],
+    "notes": "Sharing peaches with grandmother addition stem."
+  },
+  "face_regions": [
+    {
+      "role": "child",
+      "x": 231,
+      "y": 347,
+      "w": 126,
+      "h": 158,
+      "landmarks": {
+        "right_eye": [
+          273,
+          406
+        ],
+        "left_eye": [
+          332,
+          416
+        ],
+        "nose": [
+          300,
+          438
+        ],
+        "mouth_right": [
+          262,
+          456
+        ],
+        "mouth_left": [
+          317,
+          465
+        ]
+      },
+      "confidence": 0.951
+    },
+    {
+      "role": "grandmother",
+      "x": 549,
+      "y": 134,
+      "w": 146,
+      "h": 186,
+      "landmarks": {
+        "right_eye": [
+          582,
+          218
+        ],
+        "left_eye": [
+          642,
+          203
+        ],
+        "nose": [
+          615,
+          249
+        ],
+        "mouth_right": [
+          603,
+          277
+        ],
+        "mouth_left": [
+          657,
+          265
+        ]
+      },
+      "confidence": 0.931
+    }
+  ],
+  "visual_groups": [
+    {
+      "id": "child",
+      "owner": "child",
+      "object_id": "peaches",
+      "count": 2,
+      "container": "plate"
+    },
+    {
+      "id": "grandmother",
+      "owner": "grandmother",
+      "object_id": "peaches",
+      "count": 4,
+      "container": "plate"
+    }
+  ],
+  "answer": {
+    "type": "count_total",
+    "correct": "6",
+    "options": [
+      "6",
+      "2",
+      "4",
+      "5"
+    ],
+    "formula": "2+4",
+    "explanation": "2 peaches + 4 peaches = 6"
+  },
+  "validation": {
+    "must_match_image_counts": true,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "Counts locked: 2 child + 4 grandmother."
+  },
+  "source": {
+    "cluster_file": "new_pipeline/Question clusters for grade 1/addition.txt",
+    "notes": ""
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  },
+  "image_generation": {
+    "model": "qwen/qwen-image-3",
+    "api": "openrouter_images_v1"
+  },
+  "annotation": {
+    "method": "yunet",
+    "instructions": "Tweak face_regions if needed."
+  },
+  "face_detection": "yunet"
+}
