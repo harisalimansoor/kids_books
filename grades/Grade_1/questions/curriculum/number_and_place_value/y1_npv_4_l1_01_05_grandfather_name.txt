@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {grandfather_name} are looking at a number chart. {user_name} points to the number 45. What number is {user_name} pointing to?
+
+image_prompt:
+A bright classroom scene with a large number chart on the wall showing numbers from 1 to 100. {user_name} is standing next to the chart, pointing at the number 45, while {grandfather_name} is looking at the chart with a curious expression. The number 45 is clearly visible and highlighted.

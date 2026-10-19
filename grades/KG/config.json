@@ -1,0 +1,45 @@
+{
+  "grade_id": "KG",
+  "display_name": "Kindergarten",
+  "curriculum_name": "EYFS Reception",
+  "age_range": "4-5",
+  "question_banks": {
+    "primary": "questions/primary",
+    "fallback": "questions/fallback"
+  },
+  "available_topics": [
+    "number_and_place_value",
+    "addition_and_subtraction",
+    "doubles_and_sharing",
+    "measurement",
+    "time_and_routines",
+    "geometry_and_spatial_reasoning",
+    "patterns"
+  ],
+  "prompts": {
+    "question_image": "prompts/question_image.md",
+    "front_page": "prompts/front_page.md"
+  },
+  "fonts": null,
+  "icons": null,
+  "assets": {
+    "reference": "assets/reference"
+  },
+  "features": {
+    "ai_question_images": true,
+    "front_cover": true,
+    "last_page": false
+  },
+  "workbook_subtitle": "Personalised Kindergarten Math Explorer",
+  "visual_policy": {
+    "mode": "in_scene",
+    "max_in_scene_count": 5,
+    "overlay_card_categories": [],
+    "desk_clutter_policy": "show_exact_props",
+    "non_counting_rules": {
+      "time": "analog_clock",
+      "geometry": "open_sketchpad",
+      "measurement": "clear_graduations"
+    }
+  }
+}

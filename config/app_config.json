@@ -1,0 +1,9 @@
+{
+  "workbook_id_prefix": "WB",
+  "workbook_id_padding": 6,
+  "max_questions": 50,
+  "min_questions": 1,
+  "default_questions": 6,
+  "runtime_dir": "runtime",
+  "jobs_dir": "runtime/jobs"
+}

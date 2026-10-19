@@ -1,0 +1,57 @@
+{
+  "stem_id": "g2_money_grandfather_total_coins_pound_1",
+  "grade": "grade_2",
+  "topic": "money",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with grandfather.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "\u00a31",
+    "options": [
+      "\u00a31.10",
+      "\u00a31.20",
+      "\u00a31",
+      "90p"
+    ],
+    "formula": "",
+    "explanation": "The answer is \u00a31 because 50p + 20p + 20p + 10p = 100p = \u00a31."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

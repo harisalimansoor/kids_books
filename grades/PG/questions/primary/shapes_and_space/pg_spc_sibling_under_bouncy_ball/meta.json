@@ -1,0 +1,63 @@
+{
+  "stem_id": "pg_spc_sibling_under_bouncy_ball",
+  "grade": "pg",
+  "topic": "shapes_and_space",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": "sibling",
+    "allowed_adult_roles": [
+      "sibling"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with sibling.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [
+    {
+      "object_id": "bouncy_ball",
+      "position": "Under the chair",
+      "count": 1
+    }
+  ],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "Under the chair",
+    "options": [
+      "On the table",
+      "Up on the shelf",
+      "Under the chair",
+      "Inside the drawer"
+    ],
+    "formula": "",
+    "explanation": "The bouncy ball is under the chair!"
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

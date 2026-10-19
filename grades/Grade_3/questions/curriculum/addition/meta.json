@@ -1,0 +1,18 @@
+{
+  "grade": "Grade_3",
+  "topic": "addition",
+  "total_questions": 33,
+  "sub_topics": [
+    "Column addition with regrouping",
+    "Solving two-step comparison, sum, and difference problems from statistical presentations",
+    "Adding fractions with the same denominator within 1 whole",
+    "Column addition without regrouping",
+    "Solving one-step comparison, sum, and difference problems from statistical presentations"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

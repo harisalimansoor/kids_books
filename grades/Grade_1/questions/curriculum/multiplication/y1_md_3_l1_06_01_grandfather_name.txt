@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 16 stickers. {grandfather_name} helps them share the stickers equally. How many stickers does each person get?
+
+image_prompt:
+A bright classroom. {user_name} is holding a sheet with 16 stickers, while {grandfather_name} is dividing them into two equal piles. The stickers are various shapes and colours, and both characters are smiling as they share.

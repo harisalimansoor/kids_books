@@ -1,0 +1,41 @@
+{
+  "grade_id": "PG",
+  "display_name": "Playgroup",
+  "curriculum_name": "EYFS Playgroup",
+  "age_range": "2-3.5",
+  "question_banks": {
+    "primary": "questions/primary",
+    "fallback": "questions/fallback"
+  },
+  "available_topics": [
+    "counting_1_to_3",
+    "size_and_comparison",
+    "colours_and_matching",
+    "shapes_and_space",
+    "more_or_fewer"
+  ],
+  "prompts": {
+    "question_image": "prompts/question_image.md",
+    "front_page": "prompts/front_page.md"
+  },
+  "fonts": null,
+  "icons": null,
+  "assets": {},
+  "features": {
+    "ai_question_images": true,
+    "front_cover": true,
+    "last_page": false
+  },
+  "workbook_subtitle": "Personalised Playgroup Practice",
+  "visual_policy": {
+    "mode": "in_scene",
+    "max_in_scene_count": 3,
+    "overlay_card_categories": [],
+    "desk_clutter_policy": "show_exact_props",
+    "non_counting_rules": {
+      "time": "analog_clock",
+      "geometry": "open_sketchpad",
+      "measurement": "clear_graduations"
+    }
+  }
+}

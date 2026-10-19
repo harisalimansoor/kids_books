@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {father_name} have 3 cylinders. If they find 2 more cylinders, how many cylinders do they have now?
+
+image_prompt:
+A bright classroom scene. {user_name} is holding 3 cylinders in one hand, while {father_name} is excitedly showing 2 more cylinders they just found on a desk. The classroom is decorated with educational posters.

@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 25 stickers. {grandfather_name} takes away 10 stickers. How many stickers does {user_name} have left?
+
+image_prompt:
+A bright classroom scene. {user_name} is sitting at a desk with a pile of 25 stickers, while {grandfather_name} is holding 10 stickers that they are taking away. The desk is decorated with colourful drawings and a window showing a sunny day.

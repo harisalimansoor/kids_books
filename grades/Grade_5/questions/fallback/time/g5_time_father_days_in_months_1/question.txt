@@ -1,0 +1,1 @@
+{user_name} and {father_name} calculate total summer holiday days across all of July and August. How many days are there in July and August combined?

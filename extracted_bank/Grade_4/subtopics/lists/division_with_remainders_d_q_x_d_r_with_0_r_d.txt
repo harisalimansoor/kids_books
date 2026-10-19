@@ -1,7 +1,0 @@
-###################################
-Division with remainders: D = q x d + r with 0 <= r < d
-###################################
-Domain: Multiplication and Division
-
-1. Division with remainders: D = q \× d + r with 0 \≤ r < d
-   From: Division with remainders: $D = q \× d + r$ with $0 \≤ r < d$

@@ -1,0 +1,1 @@
+{user_name} and {mother_name} analyze the number 42, which divides by 1, 2, 3, 6, 7, 14, 21, 42. What type of number is 42?

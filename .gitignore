@@ -1,31 +1,88 @@
-# Ignore Python cache
-__pycache__/
-*.pyc
+# ==============================================================================
+# MyInteliBooks - Git Ignore Configuration
+# ==============================================================================
 
-# Ignore virtual environments
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+
+# Virtual environments
+jug/
 venv/
 .venv/
+env/
+ENV/
+env.bak/
+venv.bak/
 
-# Ignore env files / secrets
+# Environment variables & secrets (CRITICAL: Do not commit real keys!)
 .env
-.env/
-.env.example
+.env.local
+.env.*.local
 *.env
-.env.*
+!.env.example
 
-# Ignore system files
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Runtime data & generated PDFs/images
+# Keep runtime/jobs directory structure with .gitkeep but ignore dynamic job folders
+runtime/jobs/*
+!runtime/jobs/.gitkeep
+runtime/admin/*
+!runtime/admin/.gitkeep
+runtime/*.png
+runtime/*.pdf
+test_*.png
+test_*.pdf
+*.pdf
+!grades/**/question.txt
+grades/**/test_output/
+
+
+# Frontend build & dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.oxlint_cache/
+frontend/*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Operating System & Editor Files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+desktop.ini
 
-# Generated / runtime outputs
-assets_cache/
-kitchen_scenes/pipeline_output/
-
-# Runtime personalised previews
-new_pipeline/_runtime/
-
-# Deterministic face-swap cache (regenerate via scripts/preprocess_templates.py)
-pipeline_cache/
-
-# Sample curriculum books (local only — do not commit copyrighted PDFs)
-data/
+# IDEs
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+*.bak

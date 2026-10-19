@@ -1,0 +1,22 @@
+{
+  "grade": "Grade_4",
+  "topic": "multiplication_and_division",
+  "total_questions": 59,
+  "sub_topics": [
+    "Factor pairs",
+    "Associative law with 3 factors (efficient pairing)",
+    "Multiplication facts up to 12 \u00d7 12",
+    "Formal short multiplication (2-digit by 1-digit)",
+    "Distributive law multiplication (18 x 6 = 10 x 6 + 8 x 6)",
+    "Division with remainders: D = q \\\u00d7 d + r with 0 \\\u2264 r < d",
+    "Mental factor splitting",
+    "Formal short multiplication (3-digit by 1-digit)",
+    "Division facts up to 12 \u00d7 12"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

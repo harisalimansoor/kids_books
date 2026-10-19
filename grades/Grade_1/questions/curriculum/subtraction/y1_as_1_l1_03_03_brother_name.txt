@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {brother_name} work on this together. {user_name} sees 4 birds in a tree. Then, 3 more birds join them. How many birds are there in total?
+
+image_prompt:
+{user_name} and {brother_name} work on this together. A sunny garden scene. {user_name} is pointing at a tree with 4 birds sitting on a branch, while 3 more birds are flying towards the tree. The total of 7 birds is implied by the scene.

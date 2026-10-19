@@ -1,0 +1,57 @@
+{
+  "stem_id": "g2_time_grandfather_twenty_past_8_1",
+  "grade": "grade_2",
+  "topic": "time",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with grandfather.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "20 past 8",
+    "options": [
+      "20 past 8",
+      "20 to 8",
+      "quarter past 8",
+      "25 past 8"
+    ],
+    "formula": "",
+    "explanation": "The answer is 20 past 8 because minute hand at 4 represents 20 past 8."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

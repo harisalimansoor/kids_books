@@ -1,11 +1,24 @@
-streamlit>=1.50
-Pillow>=10.0
-fpdf2>=2.7
-python-dotenv>=1.0
-opencv-python>=4.8
-numpy>=1.24
-mediapipe>=0.10.0
-insightface>=0.7
-onnxruntime>=1.15
-requests>=2.31
-langchain-core>=0.1
+# ==============================================================================
+# MyInteliBooks - Python Dependencies
+# ==============================================================================
+
+# Backend API Framework
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+python-multipart>=0.0.9
+
+# Document Compilation & Imaging
+Pillow>=10.0.0
+pillow-heif>=0.18.0
+rembg>=2.0.50
+fpdf2>=2.8.0
+
+# HTTP & AI Integration
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Legacy Streamlit UI
+streamlit>=1.30.0
+
+# Testing & Quality Assurance
+pytest>=8.0.0

@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 15 apples and shows them to {sister_name}. {sister_name} writes down how many apples there are in words. What does {sister_name} write?
+
+image_prompt:
+A sunny kitchen scene. {user_name} is holding a basket filled with 15 shiny apples, smiling proudly. {sister_name} is sitting at the kitchen table with a piece of paper, writing the word 'fifteen'. The apples are bright and clearly visible, and the kitchen has a warm, inviting feel with sunlight streaming in.

@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {brother_name} are playing a game. {user_name} takes 20 seconds to complete a level, and {brother_name} takes 35 seconds. How many seconds do they take together to complete one level each?
+
+image_prompt:
+A gaming room scene. {user_name} is sitting at a gaming console, focused on the screen, while {brother_name} is beside them, also playing. A timer on the screen shows 35 seconds. The room is decorated with gaming posters, and both children are engaged in their game.

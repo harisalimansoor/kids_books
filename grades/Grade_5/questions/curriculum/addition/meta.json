@@ -1,0 +1,19 @@
+{
+  "grade": "Grade_5",
+  "topic": "addition",
+  "total_questions": 34,
+  "sub_topics": [
+    "Interior angle sums of quadrilaterals (360^ degrees)",
+    "Columnar addition of decimals with same and different decimal places",
+    "Columnar addition of numbers with more than 4 digits",
+    "Columnar addition of decimals with exchanges",
+    "Interior angle sums of triangles (180^ degrees)",
+    "Interior angle sums of polygons ((n-2) x 180^ degrees)"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

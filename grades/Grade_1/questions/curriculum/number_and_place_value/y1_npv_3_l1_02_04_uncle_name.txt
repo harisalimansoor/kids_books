@@ -1,0 +1,5 @@
+question_text:
+{user_name} counts out 12 blocks and places them in a line. {uncle_name} writes down the number of blocks in numerals. What number does {uncle_name} write?
+
+image_prompt:
+A playful living room scene. {user_name} is arranging 12 colourful blocks in a straight line on the floor. {uncle_name} is sitting nearby with a notepad, writing the numeral '12'. The blocks are clearly visible, and the notepad shows the numeral written down. There are toys scattered around the room, adding to the lively atmosphere.

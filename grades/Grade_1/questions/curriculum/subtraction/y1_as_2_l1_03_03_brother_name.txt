@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 12 balloons. {brother_name} pops 4 balloons. How many balloons does {user_name} have left?
+
+image_prompt:
+A sunny park scene. {user_name} is looking sad with 12 balloons, while {brother_name} is holding a popped balloon. The remaining balloons are scattered around, showing that 8 are still intact.

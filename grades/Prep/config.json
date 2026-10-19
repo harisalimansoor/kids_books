@@ -1,0 +1,44 @@
+{
+  "grade_id": "Prep",
+  "display_name": "Prep",
+  "curriculum_name": "EYFS Pre-Reception",
+  "age_range": "3.5-4.5",
+  "question_banks": {
+    "primary": "questions/primary",
+    "fallback": "questions/fallback"
+  },
+  "available_topics": [
+    "counting_and_cardinality",
+    "sorting_and_classifying",
+    "number_composition",
+    "measurement_and_comparison",
+    "patterns_and_geometry",
+    "daily_routines_and_time"
+  ],
+  "prompts": {
+    "question_image": "prompts/question_image.md",
+    "front_page": "prompts/front_page.md"
+  },
+  "fonts": null,
+  "icons": null,
+  "assets": {
+    "reference": "assets/reference"
+  },
+  "features": {
+    "ai_question_images": true,
+    "front_cover": true,
+    "last_page": false
+  },
+  "workbook_subtitle": "Personalised Prep Math Journey",
+  "visual_policy": {
+    "mode": "in_scene",
+    "max_in_scene_count": 5,
+    "overlay_card_categories": [],
+    "desk_clutter_policy": "show_exact_props",
+    "non_counting_rules": {
+      "time": "analog_clock",
+      "geometry": "open_sketchpad",
+      "measurement": "clear_graduations"
+    }
+  }
+}

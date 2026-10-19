@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 10 stickers. {mother_name} gives them 5 more stickers. How many stickers does {user_name} have now?
+
+image_prompt:
+A colourful bedroom scene. {user_name} is excitedly holding a pile of 10 stickers, while {mother_name} is handing over 5 more stickers. The total of 15 stickers is suggested by the scene.

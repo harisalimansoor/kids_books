@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {father_name} are planning their week. They decide that today is Monday. What day will it be three days from now?
+
+image_prompt:
+A bright kitchen scene. {user_name} is sitting at the table with a calendar open, pointing at Monday. {father_name} is standing beside the table, looking at the calendar with a thoughtful expression. The calendar clearly shows the days of the week, with Monday highlighted. There are no other distractions in the background.

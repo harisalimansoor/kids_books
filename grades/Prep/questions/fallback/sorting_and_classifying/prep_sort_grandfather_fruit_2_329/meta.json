@@ -1,0 +1,57 @@
+{
+  "stem_id": "prep_sort_grandfather_fruit_2_329",
+  "grade": "prep",
+  "topic": "sorting_and_classifying",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with grandfather.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "The metal toy car",
+    "options": [
+      "A red strawberry",
+      "The metal toy car",
+      "A yellow banana",
+      "A green apple"
+    ],
+    "formula": "",
+    "explanation": "The metal toy car does not belong because a toy car is not food to eat."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "stem_id": "g5_as_mother_mental_large_sub_1",
+  "grade": "grade_5",
+  "topic": "addition_and_subtraction",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with mother.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "65,000",
+    "options": [
+      "75,000",
+      "55,000",
+      "60,000",
+      "65,000"
+    ],
+    "formula": "",
+    "explanation": "The answer is 65,000 because 100,000 - 35,000 = 65,000."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

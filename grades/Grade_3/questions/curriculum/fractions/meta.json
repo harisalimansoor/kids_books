@@ -1,0 +1,27 @@
+{
+  "grade": "Grade_3",
+  "topic": "fractions",
+  "total_questions": 77,
+  "sub_topics": [
+    "Finding the whole from non-unit fractional parts",
+    "Finding the whole from unit fractional parts",
+    "Comparing and ordering fractions with the same numerator",
+    "Counting in tenths",
+    "Comparing and ordering fractions with the same denominator",
+    "Proper fractions on number lines (0\u20131)",
+    "Unit and non-unit fractions of discrete sets",
+    "Fraction equivalence using bar models",
+    "Comparing and ordering unit fractions",
+    "Fraction anatomy (numerator, denominator)",
+    "Fraction equivalence using diagrams",
+    "Fractions equal to 1",
+    "Unit and non-unit fractions of continuous measures",
+    "Fraction equivalence using simplest forms"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

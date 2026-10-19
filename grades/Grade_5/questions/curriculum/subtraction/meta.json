@@ -1,0 +1,20 @@
+{
+  "grade": "Grade_5",
+  "topic": "subtraction",
+  "total_questions": 54,
+  "sub_topics": [
+    "Adding and subtracting fractions with related denominators",
+    "Columnar subtraction of numbers with more than 4 digits",
+    "Columnar subtraction of decimals with same and different decimal places",
+    "Adding and subtracting mixed numbers with related denominators",
+    "Columnar subtraction of decimals with exchanges",
+    "Finding differences across zero",
+    "Multi-step addition and subtraction problems in real-world contexts"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

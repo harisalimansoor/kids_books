@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {aunt_name} have the numbers 12, 18, and 15. Can you help them put these numbers in order from smallest to largest?
+
+image_prompt:
+A sunny garden scene. {user_name} is sitting on a picnic blanket with a piece of paper, writing down the numbers 12, 18, and 15. {aunt_name} is beside them, pointing at the numbers with a pencil, looking excited. The numbers are written clearly, and the picnic setting adds a fun atmosphere.

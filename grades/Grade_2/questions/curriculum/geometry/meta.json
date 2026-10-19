@@ -1,0 +1,28 @@
+{
+  "grade": "Grade_2",
+  "topic": "geometry",
+  "total_questions": 82,
+  "sub_topics": [
+    "Representing numbers on number lines",
+    "Describing position and direction",
+    "Rotations",
+    "Sorting and classifying shapes using Venn diagrams",
+    "Estimating numbers on number lines",
+    "Comparing and ordering volume and capacity",
+    "Identifying 2-D shapes on the surface of 3-D shapes",
+    "Vertices of 2-D shapes",
+    "Shape dissection",
+    "Measuring capacity and volume (l and ml)",
+    "Straight-line movement",
+    "Sorting and classifying shapes using Carroll diagrams",
+    "Vertical line symmetry",
+    "Sides of 2-D shapes",
+    "Identifying numbers on number lines"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

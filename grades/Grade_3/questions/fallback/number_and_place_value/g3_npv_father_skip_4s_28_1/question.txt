@@ -1,0 +1,1 @@
+{user_name} and {father_name} count in multiples of 4 along a garden stepping-stone path: 16, 20, 24, 28. What multiple comes next?

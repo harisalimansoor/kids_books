@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 14 marbles. {grandmother_name} helps them divide the marbles equally. How many marbles does each person get?
+
+image_prompt:
+A bright living room. {user_name} is sitting on the floor with 14 marbles spread out in front of them, while {grandmother_name} is counting out 7 marbles to give to {user_name}. The marbles are colourful and shiny, clearly showing the total.

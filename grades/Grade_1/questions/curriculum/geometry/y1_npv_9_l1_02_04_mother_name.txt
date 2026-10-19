@@ -1,0 +1,5 @@
+question_text:
+{user_name} is 3rd in line for the ice cream. {mother_name} is 1st in line. Who is 2nd in line?
+
+image_prompt:
+A sunny day at an ice cream stand. {user_name} is standing behind two other children, looking excited. {mother_name} is at the front of the line, pointing at the menu. The ice cream stand is colourful, and the line is clearly marked with numbers 1, 2, and 3.

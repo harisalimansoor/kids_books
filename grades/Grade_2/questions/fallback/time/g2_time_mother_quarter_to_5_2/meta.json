@@ -1,0 +1,57 @@
+{
+  "stem_id": "g2_time_mother_quarter_to_5_2",
+  "grade": "grade_2",
+  "topic": "time",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with mother.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "quarter to 7",
+    "options": [
+      "half past 6",
+      "quarter to 8",
+      "quarter to 7",
+      "quarter past 7"
+    ],
+    "formula": "",
+    "explanation": "The answer is quarter to 7 because minute hand at 9 approaching 7 indicates quarter to 7."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

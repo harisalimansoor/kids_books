@@ -1,1 +1,0 @@
-Look at the picture! {user_name} and {sibling_name} are arranging numbered cards in a sequence. The cards show 10, 15, 20, an empty position, 30, 35 and 40. The cards follow a regular sequence increasing by 5 each time. {user_name} points toward the empty position while {sibling_name} checks the sequence.. What number is missing?

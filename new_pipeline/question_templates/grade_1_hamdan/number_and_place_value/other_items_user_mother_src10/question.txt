@@ -1,1 +1,0 @@
-Look at the picture! {user_name} and {mother_name} are arranging numbered balloons in a descending number sequence. The balloons are arranged in this order: 82, 81, an empty position, 79 and 78. {user_name} points toward the empty position while {mother_name} checks the sequence from left to right.. What number is missing in the sequence?

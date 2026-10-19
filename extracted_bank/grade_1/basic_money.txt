@@ -1,5 +1,0 @@
-=== Topic: Basic Money ===
-
-Question 1: Count the number of coins in a set between two people.
-Question 2: Compare the value of different coins.
-

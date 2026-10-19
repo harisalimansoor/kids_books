@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 15 marbles. {uncle_name} helps {user_name} group them into sets of 5. How many groups do they make?
+
+image_prompt:
+A sunny garden scene. {user_name} is sitting on the grass with 15 marbles in front of them. {uncle_name} is helping to group the marbles into sets of 5. The scene shows 3 groups of 5 marbles each, with the marbles clearly arranged.

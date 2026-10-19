@@ -1,0 +1,5 @@
+question_text:
+{user_name} has some marbles. If {sister_name} gives them 5 more marbles, they will have 12 marbles. How many marbles did {user_name} start with?
+
+image_prompt:
+A colourful play area. {user_name} is looking at a jar with an unknown number of marbles, while {sister_name} is holding 5 marbles to give. The total of 12 marbles is indicated on a nearby sign.

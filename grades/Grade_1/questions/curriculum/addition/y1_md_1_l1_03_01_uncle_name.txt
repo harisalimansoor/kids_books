@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {uncle_name} are planting flowers. They plant 3 rows with 4 flowers in each row. How many flowers do they plant in total?
+
+image_prompt:
+A sunny garden scene. {user_name} and {uncle_name} are kneeling in the soil, planting flowers. There are 3 rows visible, each with 4 flowers planted in a neat line. The flowers are colourful, and a small watering can is nearby. The rows are clearly marked.

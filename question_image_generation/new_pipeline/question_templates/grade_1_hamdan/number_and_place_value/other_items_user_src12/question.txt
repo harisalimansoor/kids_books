@@ -1,1 +1,0 @@
-Look at the picture! {user_name} and {sibling_name} are arranging numbered balloons in order. The balloons should show every whole number from 7 to 20, but the balloon numbered 13 is missing. {user_name} points along the sequence while {sibling_name} looks at the empty space where the missing balloon belongs.. What number is missing?

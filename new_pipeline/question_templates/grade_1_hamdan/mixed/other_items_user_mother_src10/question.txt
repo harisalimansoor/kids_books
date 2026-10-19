@@ -1,1 +1,0 @@
-Look at the picture! {user_name} and {mother_name} are working together with exactly three numbered cards: 15, 17 and 20. {user_name} points to 17 while {mother_name} compares the three numbers. Is 17 less than 20 but greater than 15?

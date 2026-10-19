@@ -1,0 +1,66 @@
+{
+  "stem_id": "pg_cnt_grandmother_toy_car_3",
+  "grade": "pg",
+  "topic": "counting_1_to_3",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with grandmother.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": [
+      "toy cars"
+    ]
+  },
+  "face_regions": [],
+  "visual_groups": [
+    {
+      "object_id": "toy_car",
+      "singular": "toy car",
+      "plural": "toy cars",
+      "count": 3
+    }
+  ],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "3",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "formula": "count = 3",
+    "explanation": "There are 3 toy cars."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

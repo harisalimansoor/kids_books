@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 5 toy cars. {grandmother_name} has 3 toy cars. How many toy cars do they have altogether?
+
+image_prompt:
+A playroom scene. {user_name} is sitting on the floor with 5 toy cars in front of them, while {grandmother_name} is placing 3 more toy cars next to them. The total of 8 toy cars is visually represented in the scene.

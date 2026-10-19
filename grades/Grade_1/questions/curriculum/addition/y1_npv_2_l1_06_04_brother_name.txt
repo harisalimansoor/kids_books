@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {brother_name} are collecting toy cars. They have 3 boxes, each containing 10 toy cars. How many toy cars do they have altogether?
+
+image_prompt:
+A colourful playroom scene. {user_name} is playing with a toy car while {brother_name} counts 3 boxes of toy cars on the floor. Each box contains 10 toy cars, and the total of 30 toy cars is implied by the arrangement. The room has a rug and some stuffed animals.

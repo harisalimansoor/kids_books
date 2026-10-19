@@ -1,0 +1,83 @@
+{
+  "Grade_1": {
+    "addition": "Addition",
+    "subtraction": "Subtraction",
+    "fractions": "Fractions",
+    "geometry": "Geometry",
+    "measurement": "Measurements",
+    "multiplication": "Multiplication",
+    "division": "Division",
+    "number_and_place_value": "Number & Place Value",
+    "time": "Time"
+  },
+  "Grade_2": {
+    "number_and_place_value": "Place Value to 100 & Comparing Numbers",
+    "addition_and_subtraction": "2-Digit Addition & Subtraction with Regrouping",
+    "multiplication_and_division": "2, 3, 5, 10 Times Tables & Arrays",
+    "fractions": "1/3, 1/4, 2/4, 3/4 & Equivalence of 1/2 and 2/4",
+    "measurement": "Standard Units (cm, m, g, kg, ml, l) & Scales",
+    "money": "Combining Coins & Calculating Change",
+    "time": "Telling Time to 5 Minutes, Quarter Past & To",
+    "geometry": "Properties of 2D/3D Shapes & Symmetry",
+    "statistics": "Block Diagrams, Pictograms & Tables"
+  },
+  "Grade_3": {
+    "number_and_place_value": "3-Digit Numbers, Place Value & Counting in 50s/100s",
+    "addition_and_subtraction": "Formal 3-Digit Column Addition & Subtraction",
+    "multiplication_and_division": "3, 4, 8 Times Tables & Mental Division",
+    "fractions": "Tenths & Fractions with Common Denominators",
+    "measurement": "Perimeter of 2D Shapes & Adding Measures",
+    "money": "Adding & Subtracting Money (£ and p) & Change",
+    "time": "12-Hour & 24-Hour Clocks & Roman Numerals to XII",
+    "geometry": "Right Angles & Perpendicular/Parallel Lines",
+    "statistics": "Interpreting Bar Charts, Pictograms & Tables"
+  },
+  "Grade_4": {
+    "number_and_place_value": "4-Digit Numbers, Rounding & Negative Numbers",
+    "addition_and_subtraction": "Column Addition & Subtraction up to 4 Digits",
+    "multiplication_and_division": "6, 7, 9, 11, 12 Times Tables & Factor Pairs",
+    "fractions": "Equivalent Fractions, Hundredths & Decimals",
+    "fractions_and_decimals": "Equivalent Fractions, Hundredths & Decimals",
+    "measurement": "Converting Units (km/m, cm/mm, kg/g) & Area",
+    "money": "Estimating & Calculating Money in Pounds and Pence",
+    "time": "Converting Hours to Minutes & Analogue/Digital 12/24-Hour",
+    "geometry": "Acute & Obtuse Angles, Lines of Symmetry & Coordinates",
+    "statistics": "Discrete and Continuous Data & Time Graphs"
+  },
+  "Grade_5": {
+    "number_and_place_value": "Numbers to 1,000,000 & Powers of 10",
+    "addition_and_subtraction": "Formal Multi-Digit Addition & Subtraction (> 4 Digits)",
+    "multiplication_and_division": "Long Multiplication, Short Division, Primes & Factors",
+    "fractions": "FDP Conversions, Thousandths & Mixed Numbers",
+    "fractions_decimals_percentages": "FDP Conversions, Thousandths & Mixed Numbers",
+    "measurement": "Metric & Imperial Units, Volume & Perimeter",
+    "time": "Timetables, Scheduling & Elapsed Time Word Problems",
+    "geometry": "Angles at a Point, Angles on a Line & 3D Nets",
+    "statistics": "Interpreting Line Graphs, Two-Way Tables & Timetables"
+  },
+  "KG": {
+    "number_and_place_value": "Number Sense, Counting to 20 & Subitising",
+    "addition_and_subtraction": "Adding & Subtracting with Objects within 10",
+    "doubles_and_sharing": "Doubles to 10 & Equal Sharing",
+    "measurement": "Comparing Length, Weight & Capacity",
+    "time_and_routines": "Daily Routines, Days of the Week & Sequencing",
+    "geometry_and_spatial_reasoning": "Exploring 2D & 3D Shapes & Spatial Language",
+    "patterns": "Repeating Patterns (AB, AAB, ABC)"
+  },
+  "Prep": {
+    "counting_and_cardinality": "Counting & Number Recognition to 10",
+    "sorting_and_classifying": "Sorting by Colour, Size & Shape",
+    "number_composition": "Composing & Decomposing Small Numbers",
+    "measurement_and_comparison": "Big vs Small, Heavy vs Light",
+    "patterns_and_geometry": "Basic 2D Shapes & Colour Patterns",
+    "daily_routines_and_time": "Morning, Afternoon & Night Sequencing"
+  },
+  "Nursery": {
+    "counting": "Number Songs & Counting to 5",
+    "comparison": "More or Less & Size Matching",
+    "shapes": "Circle, Square & Triangle Discovery",
+    "spatial_and_position": "In, On, Under & Behind",
+    "patterns": "Simple Two-Colour Patterns",
+    "measurement": "Taller and Shorter Comparisons"
+  }
+}

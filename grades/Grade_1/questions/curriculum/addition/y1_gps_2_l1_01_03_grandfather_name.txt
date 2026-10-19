@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {grandfather_name} are building a tower with 3 cuboids. How many cuboids do they have altogether?
+
+image_prompt:
+A bright playroom scene. {user_name} is stacking two cuboids on top of each other while {grandfather_name} holds one more cuboid in their hands, ready to add it to the tower. The floor is scattered with colourful building blocks, and the three cuboids are clearly visible, showing their rectangular shapes.

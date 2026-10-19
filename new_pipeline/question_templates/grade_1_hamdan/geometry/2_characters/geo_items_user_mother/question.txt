@@ -1,1 +1,0 @@
-Look at the picture! {mother_name} is holding a clearly outlined geometric shape with 4 sides and 4 corners while {user_name} examines it beside her. {mother_name} points toward one of the sides while {user_name} points toward one of the corners. They are discussing the properties of the shape together. What can {user_name} tell about this shape?

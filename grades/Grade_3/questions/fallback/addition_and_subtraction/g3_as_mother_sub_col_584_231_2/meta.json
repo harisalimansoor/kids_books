@@ -1,0 +1,57 @@
+{
+  "stem_id": "g3_as_mother_sub_col_584_231_2",
+  "grade": "grade_3",
+  "topic": "addition_and_subtraction",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with mother.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "433",
+    "options": [
+      "432",
+      "433",
+      "423",
+      "443"
+    ],
+    "formula": "",
+    "explanation": "The answer is 433 because 678 - 245 = 433."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

@@ -1,1 +1,0 @@
-Look at the picture! {user_name} and {mother_name} are arranging numbered blocks in a descending pattern. The blocks show 27, 24, 21, an empty position, 15 and 12. The numbers decrease by 3 each time. {user_name} points towards the empty block while {mother_name} checks the numerical pattern.. What number is missing?

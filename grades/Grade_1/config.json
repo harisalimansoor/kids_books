@@ -1,0 +1,47 @@
+{
+  "grade_id": "Grade_1",
+  "display_name": "Grade 1",
+  "curriculum_name": "Year 1",
+  "age_range": "5-6",
+  "question_banks": {
+    "primary": "questions/primary",
+    "fallback": "questions/fallback"
+  },
+  "available_topics": [
+    "addition",
+    "subtraction",
+    "fractions",
+    "geometry",
+    "measurement",
+    "multiplication",
+    "division",
+    "number_and_place_value",
+    "time"
+  ],
+  "prompts": {
+    "question_image": "prompts/question_image.md",
+    "front_page": "prompts/front_page.md"
+  },
+  "fonts": null,
+  "icons": null,
+  "assets": {
+    "reference": "assets/reference"
+  },
+  "features": {
+    "ai_question_images": true,
+    "front_cover": true,
+    "last_page": false
+  },
+  "workbook_subtitle": "Personalised Grade 1 Practice",
+  "visual_policy": {
+    "mode": "in_scene",
+    "max_in_scene_count": 5,
+    "overlay_card_categories": [],
+    "desk_clutter_policy": "show_exact_props",
+    "non_counting_rules": {
+      "time": "analog_clock",
+      "geometry": "open_sketchpad",
+      "measurement": "clear_graduations"
+    }
+  }
+}

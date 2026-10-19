@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 5 cookies. {grandmother_name} says they can eat 0 cookies. How many cookies does {user_name} have now?
+
+image_prompt:
+A cozy kitchen scene. {user_name} is looking at a plate with 5 cookies, while {grandmother_name} is pointing to the cookies with a smile. The cookies are clearly visible on the plate.

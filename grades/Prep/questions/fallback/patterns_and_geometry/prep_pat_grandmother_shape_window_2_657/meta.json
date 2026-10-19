@@ -1,0 +1,57 @@
+{
+  "stem_id": "prep_pat_grandmother_shape_window_2_657",
+  "grade": "prep",
+  "topic": "patterns_and_geometry",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with grandmother.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "Square",
+    "options": [
+      "Rectangle",
+      "Triangle",
+      "Square",
+      "Circle"
+    ],
+    "formula": "",
+    "explanation": "The answer is Square because it is a square shape."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

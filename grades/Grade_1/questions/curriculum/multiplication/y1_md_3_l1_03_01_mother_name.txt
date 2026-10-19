@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 5 balloons. {mother_name} gives them double the number of balloons. How many balloons does {user_name} have now?
+
+image_prompt:
+A sunny park scene. {user_name} is holding 5 colourful balloons while {mother_name} is handing over another 5 balloons. The sky is blue, and other children are playing in the background. The total of 10 balloons is visible.

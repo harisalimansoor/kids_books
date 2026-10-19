@@ -1,0 +1,17 @@
+{
+  "grade": "Grade_2",
+  "topic": "time",
+  "total_questions": 34,
+  "sub_topics": [
+    "24 hours in a day",
+    "Minutes past and minutes to",
+    "Start, end, and duration calculations",
+    "60 minutes in an hour"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

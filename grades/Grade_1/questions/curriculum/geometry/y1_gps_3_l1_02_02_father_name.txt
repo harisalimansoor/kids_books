@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {father_name} are looking at a cylinder. How many circular faces does the cylinder have?
+
+image_prompt:
+In a sunny park, {user_name} is holding a cylinder while {father_name} is looking closely at it. The cylinder is upright, showing its two circular faces clearly. There are no other shapes around them.

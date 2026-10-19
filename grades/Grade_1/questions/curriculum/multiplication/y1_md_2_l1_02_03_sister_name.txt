@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 10 toy cars. {sister_name} helps {user_name} share them equally with 5 friends. How many toy cars does each friend get?
+
+image_prompt:
+A playful living room scene. {user_name} is sitting on the floor with 10 toy cars spread out. {sister_name} is helping to distribute the cars to 5 friends who are sitting around. Each friend is receiving 2 toy cars, and the scene shows the distribution process.

@@ -1,0 +1,1 @@
+{user_name} and {father_name} pack 12 crates of apples, placing 8 apples in each crate. How many apples are there in all?

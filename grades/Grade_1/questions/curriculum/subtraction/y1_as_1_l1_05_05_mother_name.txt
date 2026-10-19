@@ -1,0 +1,5 @@
+question_text:
+{user_name} collects 2 seashells at the beach. {mother_name} finds 5 more seashells. How many seashells do they have together?
+
+image_prompt:
+A beach scene. {user_name} is holding 2 seashells in one hand, while {mother_name} is showing 5 seashells in their other hand. The sand and waves are visible in the background, suggesting a fun day at the beach.

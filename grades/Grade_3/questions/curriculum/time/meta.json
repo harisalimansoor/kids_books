@@ -1,0 +1,20 @@
+{
+  "grade": "Grade_3",
+  "topic": "time",
+  "total_questions": 49,
+  "sub_topics": [
+    "Time duration calculations (start, finish, elapsed time across hours)",
+    "12-hour and 24-hour clock",
+    "Reading the second hand",
+    "Estimating short durations",
+    "Seconds in a minute",
+    "Telling and writing analogue time to the nearest minute past and to",
+    "Calendar units (days in months, leap years)"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

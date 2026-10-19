@@ -1,1 +1,0 @@
-Look at the picture! {user_name} and {sibling_name} are comparing two rows of toy cars. Exactly 9 toy cars are arranged in the first row and exactly 15 toy cars in the second row. {user_name} points towards the shorter row while {sibling_name} compares it with the longer row.. Is 9 less than 15?

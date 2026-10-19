@@ -1,0 +1,21 @@
+{
+  "grade": "Grade_2",
+  "topic": "fractions",
+  "total_questions": 63,
+  "sub_topics": [
+    "Fractions of sets",
+    "Count in halves and quarters",
+    "Fractions of shapes",
+    "Quarter past and quarter to",
+    "Right-angle turns (quarter, half, three-quarter, whole; clockwise and anticlockwise)",
+    "Recognise and write simple fraction equivalence",
+    "Fractions of lengths",
+    "Fraction quantity problems"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "grade": "Grade_2",
+  "topic": "multiplication_and_division",
+  "total_questions": 45,
+  "sub_topics": [
+    "Non-commutativity of division",
+    "Sharing",
+    "Multiplication and division facts for the 5 multiplication table",
+    "Commutativity of multiplication",
+    "Multiplication and division facts for the 10 multiplication table",
+    "Fraction sharing problems",
+    "Multiplication and division facts for the 2 multiplication table"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

@@ -1,1 +1,0 @@
-Look at the picture! {father_name} has 3 lemons in his basket, and {user_name} has 2 lemons in {user_name}'s crate. How many lemons are there altogether?

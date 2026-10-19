@@ -1,5 +1,0 @@
-=== Topic: Counting Counters ===
-
-Question 1: Count the number of counters in a set.
-Question 2: Compare the number of counters in two sets.
-

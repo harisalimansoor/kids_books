@@ -1,5 +1,0 @@
-=== Topic: Counting Objects with Shape ===
-
-Question 1: Count the number of rectangle paper shapes.
-Question 2: Count the number of paper circles.
-

@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 6 cookies. {aunt_name} eats 1 cookie. How many cookies does {user_name} have now?
+
+image_prompt:
+A cozy kitchen scene. {user_name} is looking at a plate with 6 cookies, while {aunt_name} is taking 1 cookie from the plate. The remaining cookies are visible, showing the subtraction.

@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {mother_name} work on this together. {user_name} arranges 4 rows of toy cars. Each row has 3 cars. How many toy cars does {user_name} have in total?
+
+image_prompt:
+A playful living room scene. {user_name} is on the floor, arranging 4 rows of toy cars. Each row has exactly 3 cars lined up. The cars are colourful and shiny. {mother_name} is watching and counting the rows with a smile.

@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {mother_name} go to the park at 10 o'clock and stay for 2 hours. What time do they leave the park?
+
+image_prompt:
+A sunny park scene. {user_name} and {mother_name} are playing on swings. A large clock on a nearby tree shows 10 o'clock. There are trees and a picnic blanket with snacks in the background. The clock is clearly visible, indicating the start time.

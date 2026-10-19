@@ -1,0 +1,34 @@
+{
+  "assets": {},
+  "prompts": {},
+  "display_name": "Grade 8",
+  "age_range": null,
+  "question_banks": {
+    "primary": "questions/primary",
+    "fallback": null
+  },
+  "fonts": null,
+  "features": {
+    "last_page": false,
+    "front_cover": false,
+    "ai_question_images": false
+  },
+  "available_topics": [],
+  "workbook_subtitle": null,
+  "icons": null,
+  "grade_id": "Grade_8",
+  "curriculum_name": null,
+  "visual_policy": {
+    "mode": "math_card",
+    "max_in_scene_count": 0,
+    "overlay_card_categories": [
+      "counting"
+    ],
+    "desk_clutter_policy": "clean_minimal",
+    "non_counting_rules": {
+      "time": "analog_clock",
+      "geometry": "open_sketchpad",
+      "measurement": "clear_graduations"
+    }
+  }
+}

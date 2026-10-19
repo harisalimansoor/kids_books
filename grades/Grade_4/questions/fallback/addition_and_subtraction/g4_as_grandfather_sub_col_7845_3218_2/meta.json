@@ -1,0 +1,57 @@
+{
+  "stem_id": "g4_as_grandfather_sub_col_7845_3218_2",
+  "grade": "grade_4",
+  "topic": "addition_and_subtraction",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with grandfather.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "4,637",
+    "options": [
+      "4,627",
+      "4,737",
+      "4,537",
+      "4,637"
+    ],
+    "formula": "",
+    "explanation": "The answer is 4,637 because 8,962 - 4,325 = 4,637."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

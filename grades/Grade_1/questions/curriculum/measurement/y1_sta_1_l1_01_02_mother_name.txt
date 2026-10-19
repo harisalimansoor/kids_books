@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {mother_name} count the number of apples and write the tally marks. If they have 3 apples, how many tally marks do they make?
+
+image_prompt:
+A bright kitchen scene. {user_name} is holding 3 red apples while {mother_name} is writing tally marks on a piece of paper. The paper shows three tallies (|||) and a space for more. The apples are on the table, and a fruit bowl is in the background.

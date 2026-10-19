@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 45 toy cars and {grandfather_name} has 40 toy cars. How many more toy cars does {user_name} have than {grandfather_name}?
+
+image_prompt:
+A vibrant toy room scene. {user_name} is standing proudly next to a shelf filled with 45 toy cars, while {grandfather_name} is beside them with a smaller shelf containing 40 toy cars. Both are counting their cars, and the numbers are clearly visible on the shelves. The atmosphere is playful and competitive.

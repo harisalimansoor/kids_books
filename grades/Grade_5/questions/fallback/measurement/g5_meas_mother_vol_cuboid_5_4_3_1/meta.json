@@ -1,0 +1,57 @@
+{
+  "stem_id": "g5_meas_mother_vol_cuboid_5_4_3_1",
+  "grade": "grade_5",
+  "topic": "measurement",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with mother.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "60 cm\u00b3",
+    "options": [
+      "60 cm\u00b3",
+      "55 cm\u00b3",
+      "45 cm\u00b3",
+      "70 cm\u00b3"
+    ],
+    "formula": "",
+    "explanation": "The answer is 60 cm\u00b3 because volume = length x width x height = 5 x 4 x 3 = 60 cm\u00b3."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

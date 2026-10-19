@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {father_name} are playing with building blocks. They have 3 rectangles. How many rectangles do they have altogether?
+
+image_prompt:
+A bright playroom scene. {user_name} is stacking 2 wooden rectangles while {father_name} holds 1 rectangle in their hand. There are 3 distinct rectangles visible on a colourful mat. The child’s hands are busy with the blocks, and the room is filled with other toys.

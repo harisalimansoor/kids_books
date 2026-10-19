@@ -1,0 +1,17 @@
+{
+  "grade": "Grade_5",
+  "topic": "measurement",
+  "total_questions": 32,
+  "sub_topics": [
+    "Converting metric units of mass",
+    "Multi-step measurement word problems combining all four operations",
+    "Capacity links",
+    "Converting metric units of length"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

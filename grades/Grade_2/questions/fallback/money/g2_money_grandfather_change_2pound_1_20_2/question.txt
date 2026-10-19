@@ -1,0 +1,1 @@
+{user_name} buys a set of paint brushes for £1.40 and pays with a £2 coin. How much change do {user_name} and {grandfather_name} get back?

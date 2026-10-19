@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 6 apples. {mother_name} gives them double that amount. How many apples does {user_name} have now?
+
+image_prompt:
+A bright kitchen scene. {user_name} is holding 6 apples in one hand while {mother_name} is placing another 6 apples on the table. The table is cluttered with fruit, and a bowl is visible in the background. The apples are red and shiny, clearly showing the total of 12 apples on the table.

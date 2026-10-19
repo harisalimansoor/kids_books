@@ -1,0 +1,1 @@
+{user_name} and {mother_name} count in steps of 3 along a garden path: 18, 21, 24. What number comes next?

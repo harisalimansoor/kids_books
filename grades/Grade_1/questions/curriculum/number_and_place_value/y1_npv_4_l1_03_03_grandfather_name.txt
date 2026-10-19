@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {grandfather_name} are writing numbers. {user_name} writes the number 58. What number did {user_name} write?
+
+image_prompt:
+A cozy study area with a table where {user_name} is writing on a piece of paper. The number 58 is clearly visible on the paper. {grandfather_name} is sitting next to {user_name}, looking at the paper with interest.

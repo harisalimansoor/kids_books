@@ -1,0 +1,1 @@
+{user_name} and {father_name} survey pets: 52 dogs, 41 cats, and 17 rabbits. How many pets were surveyed in all?

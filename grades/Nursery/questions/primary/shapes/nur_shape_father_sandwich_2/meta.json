@@ -1,0 +1,63 @@
+{
+  "stem_id": "nur_shape_father_sandwich_2",
+  "grade": "nursery",
+  "topic": "shapes",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "father"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "father",
+    "allowed_adult_roles": [
+      "father"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "father_name": "father"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with father.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [
+    {
+      "object_id": "the sandwich piece",
+      "shape": "triangle",
+      "count": 1
+    }
+  ],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "Triangle",
+    "options": [
+      "Triangle",
+      "Circle",
+      "Square",
+      "Rectangle"
+    ],
+    "formula": "",
+    "explanation": "The sandwich piece is shaped like a triangle."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

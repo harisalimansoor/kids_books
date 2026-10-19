@@ -1,0 +1,17 @@
+{
+  "grade": "Grade_4",
+  "topic": "time",
+  "total_questions": 24,
+  "sub_topics": [
+    "12-hour and 24-hour time and durations",
+    "Continuous data displays: line graphs / time graphs",
+    "Converting between hours, minutes and seconds",
+    "Converting between metres, centimetres and millimetres (m, cm and mm)"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

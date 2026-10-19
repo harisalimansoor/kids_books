@@ -1,0 +1,5 @@
+question_text:
+{user_name} is reaching up to grab a balloon that {grandmother_name} is holding. Where is the balloon in relation to {user_name}?
+
+image_prompt:
+A sunny park scene. {user_name} is standing on tiptoes, stretching their arms up towards a bright red balloon that {grandmother_name} is holding high above their head. {grandmother_name} is smiling and standing a little further back, making the balloon clearly visible above {user_name}. Trees and grass are in the background.

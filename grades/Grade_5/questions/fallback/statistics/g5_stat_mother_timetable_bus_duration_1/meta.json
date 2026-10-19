@@ -1,0 +1,57 @@
+{
+  "stem_id": "g5_stat_mother_timetable_bus_duration_1",
+  "grade": "grade_5",
+  "topic": "statistics",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "mother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "mother",
+    "allowed_adult_roles": [
+      "mother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "mother_name": "mother"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with mother.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "37 minutes",
+    "options": [
+      "35 minutes",
+      "32 minutes",
+      "37 minutes",
+      "42 minutes"
+    ],
+    "formula": "",
+    "explanation": "The answer is 37 minutes because 08:35 to 09:12 is 37 minutes."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

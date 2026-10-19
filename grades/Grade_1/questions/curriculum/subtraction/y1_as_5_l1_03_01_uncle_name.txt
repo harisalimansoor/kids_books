@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 7 stickers and {uncle_name} gives them 2 more stickers. How many stickers does {user_name} have now?
+
+image_prompt:
+A bright classroom scene. {user_name} is smiling while holding 7 colourful stickers in one hand and receiving 2 more stickers from {uncle_name}, who is handing them over. A desk with more stickers is in the background, but it is not visible how many. The focus is on the exchange of stickers.

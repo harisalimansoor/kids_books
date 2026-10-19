@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 18 marbles. {uncle_name} takes away 5 marbles. How many marbles does {user_name} have left?
+
+image_prompt:
+A play area scene. {user_name} is looking at a bag with 18 marbles, while {uncle_name} is holding 5 marbles that they took away. The remaining marbles are visible, showing that 13 are left.

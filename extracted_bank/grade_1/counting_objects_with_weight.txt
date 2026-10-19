@@ -1,5 +1,0 @@
-=== Topic: Counting Objects with Weight ===
-
-Question 1: Count the number of objects weighing 1 g.
-Question 2: Count the number of objects weighing 1 kg or less (one set between four).
-

@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 8 marbles. {sister_name} gives them 5 more marbles. How many marbles do they have altogether?
+
+image_prompt:
+A playground scene. {user_name} is holding 8 marbles in one hand while {sister_name} is handing over 5 more marbles. The marbles are colorful and clearly visible, with a total of 8 in {user_name}'s hand and 5 in {sister_name}'s hand.

@@ -1,0 +1,28 @@
+{
+  "grade": "Grade_2",
+  "topic": "general_math",
+  "total_questions": 82,
+  "sub_topics": [
+    "Algebraic expression balance",
+    "Edges",
+    "Vertices",
+    "Finding 10 more and 10 less",
+    "Mathematical statements in stories",
+    "Scaling",
+    "Grouping",
+    "Faces",
+    "Flat vs curved surfaces",
+    "Repeating units",
+    "Mathematical statements in calculations",
+    "Divisibility rules",
+    "Complete 4-fact families",
+    "Bar models",
+    "Checking calculations using inverse operations"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

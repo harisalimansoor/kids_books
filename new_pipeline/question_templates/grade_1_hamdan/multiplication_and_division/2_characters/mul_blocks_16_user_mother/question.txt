@@ -1,1 +1,0 @@
-Look at the picture! {user_name} and {mother_name} are building a square block arrangement together. Exactly 16 colourful blocks are being actively arranged into a perfect square consisting of exactly 4 rows and exactly 4 blocks in each row. {user_name} is carefully placing a block into one row while {mother_name} points across a completed row. How many blocks are in each row?

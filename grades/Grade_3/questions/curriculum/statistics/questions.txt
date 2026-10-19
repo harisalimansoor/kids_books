@@ -1,0 +1,28 @@
+1. Look at the picture! {user_name} and {mother_name} are looking at this together. A bar chart has a vertical scale that goes up in steps of 2. The bar for Year 3 reaches the line labelled 14. The bar for Year 4 reaches the line labelled 18. What is the total value of both bars combined?
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together. A bar chart shows the number of stickers collected by three pupils. The scale on the vertical axis goes up in steps of 5: 0, 5, 10, 15, 20, 25, 30. Maya's bar reaches 25 and Sam's bar reaches 10. How many more stickers does Maya have than Sam?
+
+3. Look at the picture! {user_name} and {mother_name} are looking at this together. In a bar chart with a scale counting in 10s (0, 10, 20, 30, 40, 50), the bar for Friday reaches halfway between 30 and 40. How many items does the Friday bar represent?
+
+4. Look at the picture! {user_name} and {mother_name} are looking at this together. A scaled bar chart shows vehicles passing a school: Cars = 45, Buses = 15, Bicycles = 25, Vans = 30. The scale on the vertical axis goes up in 5s. How many more cars passed the school than bicycles and buses combined?
+
+5. Look at the picture! {user_name} and {father_name} are looking at this together. A table shows the number of pencils in four pots: Pot A has 14, Pot B has 23, Pot C has 18, and Pot D has 9. How many pencils are in Pot B and Pot C altogether?
+
+6. Look at the picture! {user_name} and {father_name} are looking at this together. A two-way table shows children attending after-school clubs: Art Club: 12 Boys, 15 Girls Chess Club: 14 Boys, 8 Girls What is the total number of children who attend Chess Club?
+
+7. Look at the picture! {user_name} and {sibling_name} are looking at this together. A two-way table shows lunch choices in Class 3: Hot Meal: 11 Boys, 13 Girls Packed Lunch: 5 Boys, 7 Girls How many more girls than boys have a hot meal?
+
+8. Look at the picture! {user_name} and {sibling_name} are looking at this together. A table records the number of visitors to a museum over three days: Friday: 124 visitors Saturday: 215 visitors Sunday: 180 visitors How many more visitors came on Saturday than on Friday?
+
+9. Look at the picture! {user_name} and {grandmother_name} are looking at this together. A two-way table shows the pets owned by children in Year 3: Cats: 16 Boys, 18 Girls Dogs: 14 Boys, 12 Girls Fish: 7 Boys, 9 Girls How many more children own cats than fish in total?
+
+10. Look at the picture! {user_name} and {father_name} are looking at this together. The table shows the pets owned by children in Year 3.
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together. A two-way table sorts numbers into two rows ('Multiples of 4' and 'Not multiples of 4') and two columns ('Odd' and 'Even'). Into which cell should the number 28 be placed: 'Multiple of 4 and Even', 'Multiple of 4 and Odd', 'Not a multiple of 4 and Even', or 'Not a multiple of 4 and Odd'?
+
+12. Look at the picture! {user_name} and {sibling_name} are looking at this together. A class records how they travel to school in a two-way table:
+
+13. Look at the picture! {user_name} and {grandmother_name} are looking at this together. A two-way table sorts 2-D shapes using two categories: 'Has 4 sides' and 'Has at least one right angle'. Which cell does an equilateral triangle belong to: 'Has 4 sides and at least one right angle', 'Has 4 sides and no right angles', 'Fewer than 4 sides and at least one right angle', or 'Fewer than 4 sides and no right angles'?
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together. A two-way table sorts the following calculations: 12 × 4, 15 × 3, 8 × 4, and 9 × 3. The rows are 'Answer is even' and 'Answer is odd'. The columns are 'Answer is greater than 40' and 'Answer is 40 or less'. Which calculation belongs in the cell for 'Answer is odd and greater than 40'?
+

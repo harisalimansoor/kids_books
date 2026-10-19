@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {grandfather_name} are sorting 10 different fruits using a Carroll diagram. They have 3 bananas, 4 oranges, and 3 apples. How many fruits will be in the 'Banana' section?
+
+image_prompt:
+A sunny garden scene. {user_name} is writing on a large Carroll diagram on a clipboard, while {grandfather_name} is holding 3 bananas, ready to place them in the 'Banana' section. The diagram has clear sections for bananas, oranges, and apples, with the fruits laid out on the grass beside them.

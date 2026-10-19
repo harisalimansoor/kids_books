@@ -1,0 +1,28 @@
+{
+  "grade": "Grade_3",
+  "topic": "subtraction",
+  "total_questions": 79,
+  "sub_topics": [
+    "Missing digit addition and subtraction problems",
+    "Column subtraction with double regrouping",
+    "Adding and subtracting lengths",
+    "Subtracting fractions with the same denominator within 1 whole",
+    "Column subtraction across zeros",
+    "Subtraction from 1 whole",
+    "Adding and subtracting mass (kg/g)",
+    "1-step addition and subtraction problems",
+    "Mental addition and subtraction of hundreds to and from 3-digit numbers",
+    "Mental addition and subtraction of 1-digit numbers to and from 3-digit numbers",
+    "Mental addition and subtraction of tens to and from 3-digit numbers",
+    "Column subtraction with single regrouping",
+    "Adding and subtracting capacity and volume",
+    "2-step addition and subtraction problems",
+    "Adding and subtracting money in \u00a3 and p"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

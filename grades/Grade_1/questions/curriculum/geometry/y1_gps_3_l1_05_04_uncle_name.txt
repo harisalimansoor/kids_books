@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {uncle_name} are drawing a butterfly. If they make one side of the butterfly the same as the other, what are they creating?
+
+image_prompt:
+A bright art room scene. {user_name} is drawing one wing of a butterfly while {uncle_name} is drawing the matching wing on the other side. The butterfly is half-drawn, showing symmetry, with crayons scattered around.

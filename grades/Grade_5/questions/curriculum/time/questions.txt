@@ -1,0 +1,32 @@
+1. Look at the picture! {user_name} and {father_name} are looking at this together. A runner completed a race in 3 hours and 42 minutes. How many minutes did the race take in total?
+
+2. Look at the picture! {user_name} and {father_name} are looking at this together. A film lasts 138 minutes. Express this time in hours and minutes.
+
+3. Look at the picture! {user_name} and {father_name} are looking at this together. A space probe takes 3 minutes and 48 seconds to send a signal to Earth. Convert this time entirely into seconds.
+
+4. Look at the picture! {user_name} and {sibling_name} are looking at this together. A science experiment took 325 seconds. Write this duration in minutes and seconds.
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together. Convert 4.75 hours into hours and minutes.
+
+6. Look at the picture! {user_name} and {father_name} are looking at this together. A local leisure centre was closed for refurbishment for 5 weeks and 3 days. How many days was the leisure centre closed in total?
+
+7. Look at the picture! {user_name} and {father_name} are looking at this together. A library book is borrowed on 24 April. It must be returned in exactly 21 days. On what date is the book due back? (April has 30 days.)
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together. A holiday activity club starts on 18 July and ends on 6 August. How many days does the club run for in total, including both the start date and the end date? (July has 31 days.)
+
+9. Look at the picture! {user_name} and {sibling_name} are looking at this together. An art exhibition opens on 12 October and runs for 3 weeks and 4 days. On what date does the exhibition end? (October has 31 days.)
+
+10. Look at the picture! {user_name} and {sibling_name} are looking at this together. A bus departs from the Town Hall at 08:45 and arrives at the Train Station at 09:32. How many minutes does the journey take?
+
+11. Look at the picture! {user_name} and {grandmother_name} are looking at this together. A train stops at Station B at 14:48 and reaches Station C at 15:22. How many minutes does the journey between Station B and Station C take?
+
+12. Look at the picture! {user_name} and {mother_name} are looking at this together. A coach leaves Manchester at 10:40 and arrives in London at 14:15. How long did the coach journey take in hours and minutes?
+
+13. Look at the picture! {user_name} and {mother_name} are looking at this together. A ferry departs at 11:45. The sailing takes 1 hour and 50 minutes. At what time does the ferry arrive? Give your answer using the 24-hour clock.
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together. Three trains travel from Leeds to York: - Train A departs at 07:15 and arrives at 08:02. - Train B departs at 07:45 and arrives at 08:26. - Train C departs at 08:10 and arrives at 09:01. Which train has the shortest journey time?
+
+15. Look at the picture! {user_name} and {sibling_name} are looking at this together. Here is a train timetable: Oakfield: 14:18 Bramley: 14:35 Crowthorne: 14:52 Drayton: 15:11 How many minutes does the train take to travel from Bramley to Drayton?
+
+16. Look at the picture! {user_name} and {grandmother_name} are looking at this together. Here is a bus timetable from Village Green to City Centre: Bus 1: Departs Village Green 07:40, arrives City Centre 08:25 Bus 2: Departs Village Green 08:05, arrives City Centre 08:52 Bus 3: Departs Village Green 08:30, arrives City Centre 09:14 Bus 4: Departs Village Green 08:55, arrives City Centre 09:38 Maya must arrive in City Centre by 09:00. What is the departure time of the latest bus she can catch from Village Green?
+

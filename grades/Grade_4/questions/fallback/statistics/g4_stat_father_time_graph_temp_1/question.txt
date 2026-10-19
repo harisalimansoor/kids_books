@@ -1,0 +1,1 @@
+{user_name} and {father_name} plot hourly garden temperatures on a line graph. At 10:00 am the temperature line marks 14 °C, and by 2:00 pm it reaches 21 °C. How many degrees did the temperature rise?

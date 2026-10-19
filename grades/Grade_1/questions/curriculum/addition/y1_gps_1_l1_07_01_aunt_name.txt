@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {aunt_name} are building with blocks. They have 3 triangles. How many triangles do they have in total?
+
+image_prompt:
+A building block scene on a play mat. {user_name} is stacking 2 triangle blocks while {aunt_name} holds 1 triangle block. There are 3 distinct triangles visible on the mat.

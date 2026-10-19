@@ -1,0 +1,32 @@
+{
+  "grade": "Grade_5",
+  "topic": "fractions",
+  "total_questions": 130,
+  "sub_topics": [
+    "Decimal and fraction equivalences for hundredths",
+    "Finding the whole from a fractional part",
+    "Converting mixed numbers to improper fractions",
+    "Ordering and comparing numbers with up to 3 decimal places",
+    "Dividing decimals by 10, 100, and 1000",
+    "Fractional scaling",
+    "Converting improper fractions to mixed numbers",
+    "Comparing fractions whose denominators are multiples of the same number",
+    "Ordering fractions whose denominators are multiples of the same number",
+    "Decimal and fraction equivalences for tenths",
+    "Multiplying proper fractions by whole numbers",
+    "Rounding decimals to 1 decimal place",
+    "Fraction, decimal and percentage equivalences",
+    "Equivalent fractions",
+    "Decimal and fraction equivalences for thousandths",
+    "Rounding decimals to the nearest whole number",
+    "Reading and writing numbers with up to 3 decimal places",
+    "Multiplying decimals by 10, 100, and 1000",
+    "Fractions of amounts"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

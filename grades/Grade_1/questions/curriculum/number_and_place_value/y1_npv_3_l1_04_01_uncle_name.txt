@@ -1,0 +1,5 @@
+question_text:
+{user_name} sees 9 birds in the garden. {uncle_name} writes down the number of birds in words. What does {uncle_name} write?
+
+image_prompt:
+A cheerful garden scene. {user_name} is pointing excitedly at 9 birds perched on a tree branch. {uncle_name} is sitting on the grass with a notebook, writing the word 'nine'. The birds are clearly visible, and the garden is filled with flowers and greenery, creating a vibrant atmosphere.

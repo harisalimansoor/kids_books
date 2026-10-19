@@ -1,0 +1,68 @@
+{
+  "stem_id": "pg_mor_grandfather_toy cars_more",
+  "grade": "pg",
+  "topic": "more_or_fewer",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandfather"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandfather",
+    "allowed_adult_roles": [
+      "grandfather"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandfather_name": "grandfather"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with grandfather.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [
+    {
+      "holder": "child",
+      "count": 3,
+      "item": "toy cars"
+    },
+    {
+      "holder": "companion",
+      "count": 1,
+      "item": "toy cars"
+    }
+  ],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "{user_name}",
+    "options": [
+      "Grandad",
+      "Both have same",
+      "{user_name}",
+      "Neither"
+    ],
+    "formula": "",
+    "explanation": "{user_name} has more toy cars!"
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

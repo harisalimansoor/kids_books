@@ -1,0 +1,63 @@
+{
+  "stem_id": "pg_spc_grandmother_on_teddy_bear",
+  "grade": "pg",
+  "topic": "shapes_and_space",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with grandmother.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [
+    {
+      "object_id": "teddy_bear",
+      "position": "On the table",
+      "count": 1
+    }
+  ],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "On the table",
+    "options": [
+      "Behind the door",
+      "Under the bed",
+      "In the toybox",
+      "On the table"
+    ],
+    "formula": "",
+    "explanation": "The teddy bear is on the table!"
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

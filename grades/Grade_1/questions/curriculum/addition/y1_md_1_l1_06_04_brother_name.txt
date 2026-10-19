@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {brother_name} work on this together. {brother_name} sets up 2 rows of chairs for a party. Each row has 5 chairs. How many chairs are there in total?
+
+image_prompt:
+A festive party scene. {brother_name} is arranging 2 rows of chairs in a bright room decorated with balloons. Each row has exactly 5 chairs. {user_name} is helping by placing a balloon on each chair. The rows are clearly visible.

@@ -1,0 +1,37 @@
+{
+  "grade": "Grade_5",
+  "topic": "number_and_place_value",
+  "total_questions": 119,
+  "sub_topics": [
+    "Prime numbers up to 100",
+    "Flexible partitioning of numbers up to 1 000 000 using place value charts",
+    "Counting through zero",
+    "Rounding",
+    "Writing numbers up to 1 000 000",
+    "Composite number classification",
+    "Dividing whole numbers by 10, 100, and 1000",
+    "Multiplying mixed numbers by whole numbers",
+    "Rounding to the nearest 10 000",
+    "Rounding to the nearest 1000",
+    "Comparative conversions",
+    "Standard partitioning of numbers up to 1 000 000 using place value charts",
+    "Reading numbers up to 1 000 000",
+    "Near-number compensation",
+    "Roman numerals up to 1000 (M)",
+    "Multiplying whole numbers by 10, 100, and 1000",
+    "Rounding to the nearest 100 000",
+    "Rounding to the nearest 100",
+    "Ordering numbers up to 1 000 000",
+    "Counting in steps of powers of 10",
+    "Negative numbers in context",
+    "Comparing numbers up to 1 000 000",
+    "Rounding to the nearest 10",
+    "Numeral ordering"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

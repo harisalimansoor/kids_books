@@ -1,0 +1,48 @@
+{
+  "grade_id": "Grade_5",
+  "display_name": "Grade 5",
+  "curriculum_name": "Year 5",
+  "age_range": "9-10",
+  "question_banks": {
+    "primary": "questions/primary",
+    "fallback": "questions/fallback"
+  },
+  "available_topics": [
+    "number_and_place_value",
+    "addition_and_subtraction",
+    "multiplication_and_division",
+    "fractions_decimals_percentages",
+    "measurement",
+    "time",
+    "geometry",
+    "statistics"
+  ],
+  "prompts": {
+    "question_image": "prompts/question_image.md",
+    "front_page": "prompts/front_page.md"
+  },
+  "fonts": null,
+  "icons": null,
+  "assets": {
+    "reference": "assets/reference"
+  },
+  "features": {
+    "ai_question_images": true,
+    "front_cover": true,
+    "last_page": false
+  },
+  "workbook_subtitle": "Personalised Grade 5 Practice",
+  "visual_policy": {
+    "mode": "math_card",
+    "max_in_scene_count": 0,
+    "overlay_card_categories": [
+      "counting"
+    ],
+    "desk_clutter_policy": "clean_minimal",
+    "non_counting_rules": {
+      "time": "analog_clock",
+      "geometry": "open_sketchpad",
+      "measurement": "clear_graduations"
+    }
+  }
+}

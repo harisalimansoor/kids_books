@@ -1,0 +1,16 @@
+{
+  "grade": "Grade_3",
+  "topic": "statistics",
+  "total_questions": 14,
+  "sub_topics": [
+    "Scaled bar charts",
+    "Tables",
+    "2-way tables"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

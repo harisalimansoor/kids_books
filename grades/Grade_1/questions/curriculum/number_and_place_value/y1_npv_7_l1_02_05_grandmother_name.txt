@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 15 stickers. {grandmother_name} says that 15 is the same as 10 and 5. Can you show how {user_name} can split the stickers into 10 and a bit?
+
+image_prompt:
+A cheerful bedroom scene. {user_name} is sitting at a desk with 15 colourful stickers spread out in front of them. {grandmother_name} is pointing to a small pile of 10 stickers on one side and 5 stickers on the other side. The numbers 10 and 5 are written on a piece of paper next to the stickers.

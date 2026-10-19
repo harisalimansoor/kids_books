@@ -1,1 +1,0 @@
-Look at the picture! {user_name} has 4 coins in front of {user_name}, and {table_name} has 3 coins in front of {table_name}. How much money does {user_name} have altogether?

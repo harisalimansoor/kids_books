@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 8 apples, and {aunt_name} wants to share them equally. How many apples will each person get if they take half?
+
+image_prompt:
+A sunny garden scene where {user_name} is holding a basket with 8 apples, while {aunt_name} is counting the apples. The apples are clearly visible in the basket, and both characters are engaged in sharing.

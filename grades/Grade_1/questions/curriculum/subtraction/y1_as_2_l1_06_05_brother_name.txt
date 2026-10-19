@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 7 crayons. {brother_name} gives them 3 more crayons. How many crayons does {user_name} have now?
+
+image_prompt:
+An art corner scene. {user_name} is holding 7 crayons in one hand, while {brother_name} is handing over 3 more crayons. The total of 10 crayons is implied by the arrangement.

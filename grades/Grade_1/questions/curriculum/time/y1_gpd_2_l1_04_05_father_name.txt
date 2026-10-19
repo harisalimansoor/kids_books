@@ -1,0 +1,5 @@
+question_text:
+{user_name} is facing {father_name}. If {user_name} makes a three-quarter turn to the left, which direction will {user_name} be facing?
+
+image_prompt:
+A cheerful garden scene. {user_name} is standing next to a flower bed, facing {father_name}, who is watering plants. {user_name} is in the process of turning three-quarters to the left, with a flower in hand. The garden is full of blooming flowers.

@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {brother_name} are creating a shape collage. If they use 2 triangles and 2 squares, how many shapes do they have altogether?
+
+image_prompt:
+A creative art table scene. {user_name} is gluing two triangles onto a paper while {brother_name} is placing two squares next to the triangles. The triangles and squares are clearly visible on the table, with no other shapes present.

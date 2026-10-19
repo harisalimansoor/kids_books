@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {uncle_name} are playing a game with shape cards. {user_name} has 3 square cards, and {uncle_name} has 2 square cards. How many square cards do they have together?
+
+image_prompt:
+A game setup on a table with shape cards. {user_name} is holding 3 square cards, while {uncle_name} is showing 2 square cards. The cards are clearly visible, and the total number of square cards is evident.

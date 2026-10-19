@@ -1,0 +1,5 @@
+question_text:
+{user_name} has 23 marbles. {aunt_name} helps {user_name} to count how many tens and how many ones are in 23. How many tens and ones are there?
+
+image_prompt:
+A bright living room scene. {user_name} is sitting on the floor with a pile of 23 marbles in front of them, while {aunt_name} is kneeling beside them, holding a piece of paper and a pencil. The marbles are grouped into two sets of ten and three individual marbles. The numbers 10 and 3 are written on the paper, showing the tens and ones.

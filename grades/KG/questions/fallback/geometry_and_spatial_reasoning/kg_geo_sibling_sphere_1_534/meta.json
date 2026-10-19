@@ -1,0 +1,57 @@
+{
+  "stem_id": "kg_geo_sibling_sphere_1_534",
+  "grade": "kg",
+  "topic": "geometry_and_spatial_reasoning",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "sibling"
+    ],
+    "adult_role_slot": false,
+    "template_adult_role": "sibling",
+    "allowed_adult_roles": [
+      "sibling"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "sibling_name": "sibling"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with sibling.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "Sphere",
+    "options": [
+      "Cone",
+      "Sphere",
+      "Cube",
+      "Triangle"
+    ],
+    "formula": "",
+    "explanation": "Sphere is correct because it is a 3D shape called a sphere."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

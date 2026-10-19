@@ -1,0 +1,5 @@
+question_text:
+{sister_name} helps {user_name} measure the length of a toy car. The toy car is 10 cm long. What is the length of the toy car?
+
+image_prompt:
+A playful living room scene. {sister_name} kneels beside {user_name}, who is holding a ruler next to a bright red toy car. The ruler shows the length of 10 cm next to the car. Toys are scattered around the room.

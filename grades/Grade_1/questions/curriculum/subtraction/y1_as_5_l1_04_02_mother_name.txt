@@ -1,0 +1,5 @@
+question_text:
+First, {user_name} has 3 balloons. Then, {mother_name} gives them 4 more balloons. Now, how many balloons does {user_name} have?
+
+image_prompt:
+A sunny park scene. {user_name} is holding 3 balloons in one hand and looking excited as {mother_name} hands over 4 more balloons. The sky is clear, and there are trees in the background. The focus is on the joyful exchange of balloons.

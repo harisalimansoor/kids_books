@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {grandfather_name} are building a shape using blocks. If they use 3 cubes and 1 pyramid, how many shapes do they have in total?
+
+image_prompt:
+A colourful playroom scene. {user_name} is stacking three cubes while {grandfather_name} is placing a pyramid on top of the cubes. The three cubes and one pyramid are clearly visible, and there are no other blocks around.

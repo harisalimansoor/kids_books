@@ -1,0 +1,5 @@
+question_text:
+{user_name} collects 5 shells at the beach. {uncle_name} writes the number of shells in numerals. What number does {uncle_name} write?
+
+image_prompt:
+A fun beach scene. {user_name} is holding 5 colourful shells in their hands, looking happy. {uncle_name} is sitting on a beach towel with a small notebook, writing the numeral '5'. The shells are bright and clearly visible, and the ocean waves can be seen in the background.

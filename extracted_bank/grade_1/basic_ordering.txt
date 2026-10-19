@@ -1,5 +1,0 @@
-=== Topic: Basic Ordering ===
-
-Question 1: Order a set of objects from smallest to largest.
-Question 2: Order a set of numbers from smallest to largest.
-

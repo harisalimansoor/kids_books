@@ -1,0 +1,68 @@
+1. Look at the picture! {user_name} and {mother_name} are looking at this together. Calculate 43,628 + 25,147.
+
+2. Look at the picture! {user_name} and {mother_name} are looking at this together. Calculate 58,746 + 26,585.
+
+3. Look at the picture! {user_name} and {mother_name} are looking at this together. Calculate the sum of 45,618, 38,294, and 7,543.
+
+4. Look at the picture! {user_name} and {father_name} are looking at this together. Calculate 5.76 + 3.85.
+
+5. Look at the picture! {user_name} and {sibling_name} are looking at this together. Calculate 34.8 + 17.65.
+
+6. Look at the picture! {user_name} and {sibling_name} are looking at this together. A runner completes three stages of a race. The first stage takes 14.85 seconds, the second stage takes 15.6 seconds, and the third stage takes 14.78 seconds. What is the total time taken in seconds?
+
+7. Look at the picture! {user_name} and {grandmother_name} are looking at this together. Calculate 6.427 + 18.85.
+
+8. Look at the picture! {user_name} and {father_name} are looking at this together. Calculate 4.36 + 2.58.
+
+9. Look at the picture! {user_name} and {father_name} are looking at this together. Calculate 3.245 + 1.632.
+
+10. Look at the picture! {user_name} and {father_name} are looking at this together. Calculate 6.4 + 3.85.
+
+11. Look at the picture! {user_name} and {sibling_name} are looking at this together. Calculate 14.7 + 5.286.
+
+12. Look at the picture! {user_name} and {sibling_name} are looking at this together. A baker mixes 2.45 kg of flour with 0.8 kg of sugar. What is the total mass of the mixture in kilograms?
+
+13. Look at the picture! {user_name} and {grandmother_name} are looking at this together. Calculate 4.6 + 12.38 + 0.745.
+
+14. Look at the picture! {user_name} and {mother_name} are looking at this together. A parcel contains three packages weighing 1.05 kg, 0.478 kg, and 2.6 kg. What is the total mass of the three packages in kilograms?
+
+15. Look at the picture! {user_name} and {mother_name} are looking at this together. A triangular flowerbed has side lengths of 4.75 m, 3.8 m, and 5.065 m. Calculate the perimeter of the flowerbed in metres.
+
+16. Look at the picture! {user_name} and {mother_name} are looking at this together. Two angles in a triangle measure 70° and 50°. What is the size of the third angle?
+
+17. Look at the picture! {user_name} and {father_name} are looking at this together. A right-angled triangle has one angle measuring 35°. What is the size of the other acute angle?
+
+18. Look at the picture! {user_name} and {father_name} are looking at this together. An isosceles triangle has an angle of 40° between its two equal sides. What is the size of each of the other two equal angles?
+
+19. Look at the picture! {user_name} and {father_name} are looking at this together. An isosceles triangle has two equal angles that each measure 68°. What is the size of the third angle?
+
+20. Look at the picture! {user_name} and {sibling_name} are looking at this together. An equilateral triangle has three equal angles. What is the size of each angle?
+
+21. Look at the picture! {user_name} and {sibling_name} are looking at this together. One angle in a triangle is 48°. A second angle is twice the size of the first angle. What is the size of the third angle?
+
+22. Look at the picture! {user_name} and {grandmother_name} are looking at this together. What is the total sum of the interior angles in any four-sided quadrilateral?
+
+23. Look at the picture! {user_name} and {mother_name} are looking at this together. Three interior angles of a quadrilateral measure 110°, 85°, and 95°. What is the size of the fourth angle?
+
+24. Look at the picture! {user_name} and {mother_name} are looking at this together. A quadrilateral has two right angles and an angle measuring 115°. What is the size of the fourth angle?
+
+25. Look at the picture! {user_name} and {mother_name} are looking at this together. A parallelogram has two opposite acute angles that each measure 75°. What is the size of each of the other two equal angles?
+
+26. Look at the picture! {user_name} and {mother_name} are looking at this together. A trapezium has angles measuring 65°, 65°, and 115°. What is the size of the fourth angle?
+
+27. Look at the picture! {user_name} and {father_name} are looking at this together. A kite has two angles that measure 120° and 50°. The other two opposite angles are equal to each other. What is the size of each of the equal angles?
+
+28. Look at the picture! {user_name} and {father_name} are looking at this together. A pentagon has 5 sides. How many non-overlapping triangles can be formed inside it by drawing straight lines from one vertex?
+
+29. Look at the picture! {user_name} and {father_name} are looking at this together. A pentagon can be split into 3 non-overlapping triangles from one vertex. What is the total sum of the interior angles of a pentagon?
+
+30. Look at the picture! {user_name} and {sibling_name} are looking at this together. A hexagon has 6 sides. What is the sum of the interior angles of a hexagon?
+
+31. Look at the picture! {user_name} and {sibling_name} are looking at this together. An octagon has 8 sides. Calculate the total sum of all the interior angles of an octagon.
+
+32. Look at the picture! {user_name} and {grandmother_name} are looking at this together. A regular pentagon has 5 equal sides and 5 equal angles. The sum of its interior angles is 540°. What is the size of each interior angle?
+
+33. Look at the picture! {user_name} and {mother_name} are looking at this together. A regular hexagon has 6 equal angles and an interior angle sum of 720°. What is the size of each interior angle?
+
+34. Look at the picture! {user_name} and {mother_name} are looking at this together. A heptagon is a 2-D shape with 7 sides. What is the total sum of the interior angles of a heptagon?
+

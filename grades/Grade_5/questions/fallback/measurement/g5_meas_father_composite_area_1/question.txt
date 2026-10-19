@@ -1,0 +1,1 @@
+{user_name} and {father_name} design an L-shaped patio consisting of two rectangles: one 6 m by 4 m (24 m²) and one 5 m by 2 m (10 m²). What is the total area?

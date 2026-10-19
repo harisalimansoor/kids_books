@@ -1,0 +1,31 @@
+{
+  "grade": "Grade_2",
+  "topic": "number_and_place_value",
+  "total_questions": 117,
+  "sub_topics": [
+    "Place value of two-digit numbers",
+    "Standard partitioning",
+    "Using place value facts to solve problems",
+    "Odd and even numbers",
+    "Ordering numbers up to 100",
+    "Solving missing number problems using inverse operations",
+    "Multiples of 10",
+    "Parity of multiples",
+    "Counting in steps of 5 from 0",
+    "Flexible non-standard partitioning",
+    "Reading and writing numbers to at least 100 in words",
+    "Counting in steps of 2 from 0",
+    "Counting in steps of 3 from 0",
+    "Reading and writing numbers to at least 100 in numerals",
+    "Comparing numbers up to 100 using `<`, `>`, and `=`",
+    "Comparing",
+    "Counting in 10s from any number forwards and backwards",
+    "Related single-digit extensions"
+  ],
+  "companions_used": [
+    "sibling_name",
+    "mother_name",
+    "grandmother_name",
+    "father_name"
+  ]
+}

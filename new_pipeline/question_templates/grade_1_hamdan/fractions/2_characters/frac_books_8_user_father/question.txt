@@ -1,1 +1,0 @@
-Look at the picture! {father_name} and {user_name} are sitting together. Exactly 8 books are arranged clearly in front of {father_name}. Exactly half of the 8 books are marked with a simple visible circle around the entire book, while the remaining 4 books are unmarked. {father_name} points towards the circled group while {user_name} counts the books.. How many books are circled?

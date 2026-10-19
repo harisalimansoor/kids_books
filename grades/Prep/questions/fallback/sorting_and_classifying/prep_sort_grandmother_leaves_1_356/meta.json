@@ -1,0 +1,57 @@
+{
+  "stem_id": "prep_sort_grandmother_leaves_1_356",
+  "grade": "prep",
+  "topic": "sorting_and_classifying",
+  "layout_pattern": "curriculum_question",
+  "question_file": "question.txt",
+  "image_file": "placeholder.png",
+  "status": "ready",
+  "personalisation": {
+    "face_slots": [
+      "child",
+      "grandmother"
+    ],
+    "adult_role_slot": true,
+    "template_adult_role": "grandmother",
+    "allowed_adult_roles": [
+      "grandmother"
+    ],
+    "name_placeholders": {
+      "user_name": "child",
+      "grandmother_name": "grandmother"
+    },
+    "face_swap_friendly": true,
+    "notes": "UK Curriculum story question with grandmother.",
+    "child_gender": "boy"
+  },
+  "interests": {
+    "foods": [],
+    "hobbies": []
+  },
+  "face_regions": [],
+  "visual_groups": [],
+  "answer": {
+    "type": "multiple_choice",
+    "correct": "The plastic toy frog",
+    "options": [
+      "The plastic toy frog",
+      "A maple leaf",
+      "A dry twig",
+      "An oak leaf"
+    ],
+    "formula": "",
+    "explanation": "The plastic toy frog does not belong because the frog is a plastic toy, not a real leaf."
+  },
+  "validation": {
+    "must_match_image_counts": false,
+    "correct_must_be_in_options": true,
+    "verified": true,
+    "notes": "UK curriculum verified"
+  },
+  "style": {
+    "look": "vibrant_realistic",
+    "interaction": true,
+    "facing": "front_camera",
+    "framing": "more_background"
+  }
+}

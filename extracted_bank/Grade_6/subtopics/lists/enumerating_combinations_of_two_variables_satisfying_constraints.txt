@@ -1,7 +1,0 @@
-###################################
-Enumerating combinations of two variables satisfying constraints
-###################################
-Domain: Algebra & Two Unknowns
-
-1. Enumerating combinations of two variables satisfying constraints
-   From: enumerate possibilities of combinations of two variables

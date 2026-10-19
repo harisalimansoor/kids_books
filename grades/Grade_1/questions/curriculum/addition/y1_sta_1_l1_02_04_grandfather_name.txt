@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {grandfather_name} are making a pictogram of their favourite fruits. If {user_name} likes 2 bananas and {grandfather_name} likes 3 bananas, how many banana pictures do they draw altogether?
+
+image_prompt:
+A cheerful living room scene. {user_name} is drawing 2 banana pictures on a large sheet of paper while {grandfather_name} is drawing 3 banana pictures next to them. The paper has a title 'Our Favourite Fruits' at the top, and there are crayons scattered around.

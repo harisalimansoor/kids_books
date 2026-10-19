@@ -1,0 +1,13 @@
+{
+  "image_generation": {
+    "default_provider": "openrouter",
+    "default_model": "openai/gpt-image-2",
+    "chat_completions_models": [],
+    "images_endpoint_prefixes": ["openai/gpt-image"],
+    "max_attempts": 3
+  },
+  "mcq_generation": {
+    "default_model": "openrouter/auto"
+  },
+  "providers": ["openrouter", "openai", "gemini"]
+}
