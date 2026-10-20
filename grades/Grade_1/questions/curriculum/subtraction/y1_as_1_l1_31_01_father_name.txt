@@ -1,0 +1,9 @@
+title: Packing a Picnic with Dad
+question_text:
+{user_name} packs 7 sandwiches for a picnic. {father_name} takes 2 sandwiches for lunch. How many sandwiches remain in the lunchbox?
+options:
+A) 4
+B) 6
+C) 5
+image_prompt:
+Show {user_name} painting flowerpots with {father_name}. Dad paints 4 pots from a group of 9. Show exactly 5 unpainted pots and 4 painted pots. No extra pots, text, letters, or numbers.

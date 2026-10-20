@@ -1,0 +1,9 @@
+title: Watering Plants with Grandma
+question_text:
+{user_name} has 7 small plants. {grandmother_name} moves 2 plants to another shelf. How many plants remain on the first shelf?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} watering plants while {grandmother_name} moves 2 plants to another shelf. Show exactly 5 plants on the first shelf and 2 on the second. No extra plants, text, letters, or numbers.

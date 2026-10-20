@@ -1,0 +1,9 @@
+title: Collecting Eggs with Grandpa
+question_text:
+{user_name} helps {grandfather_name} collect eggs from the henhouse. They collect 2 eggs from each of 4 nests. How many eggs do they collect altogether?
+options:
+A) 6
+B) 10
+C) 8
+image_prompt:
+Show {user_name} and {grandfather_name} collecting eggs from exactly 4 nests. Each nest contains exactly 2 eggs. Show exactly 8 eggs in total. No extra nests, eggs, text, letters, or numbers.

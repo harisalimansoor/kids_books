@@ -1,0 +1,9 @@
+title: Hanging Socks with Grandpa
+question_text:
+{user_name} hangs 6 socks on a clothesline. {grandfather_name} takes down 2 socks. How many socks remain on the clothesline?
+options:
+A) 5
+B) 3
+C) 4
+image_prompt:
+Show {user_name} hanging socks while {grandfather_name} removes 2 socks from the clothesline. Show exactly 4 socks still hanging and 2 removed socks in Grandpa's hands. No extra socks, text, letters, or numbers.

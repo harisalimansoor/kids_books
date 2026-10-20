@@ -1,0 +1,9 @@
+title: Setting Up Bubble Machines with Aunt
+question_text:
+{user_name} and {aunt_name} place 4 bubble machines equally in 2 play areas. How many bubble machines will be in each area?
+options:
+A) 1
+B) 2
+C) 3
+image_prompt:
+Show {user_name} and {aunt_name} placing exactly 4 small bubble machines equally in 2 separate play areas, with exactly 2 machines in each area. No extra machines, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Organizing Bath Sponges with Aunt
+question_text:
+{user_name} and {aunt_name} place 6 bath sponges equally into 2 bath caddies. How many bath sponges will be in each caddy?
+options:
+A) 2
+B) 3
+C) 4
+image_prompt:
+Show {user_name} and {aunt_name} placing exactly 6 bath sponges equally into 2 bath caddies, with exactly 3 sponges in each caddy. Show only the specified people, 6 sponges, and 2 caddies. No extra objects, text, letters, or numbers.
