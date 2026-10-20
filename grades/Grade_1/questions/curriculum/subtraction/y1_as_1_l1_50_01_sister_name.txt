@@ -1,0 +1,9 @@
+title: Decorating a Dollhouse with Sister
+question_text:
+{user_name} places 6 tiny chairs in a dollhouse. {sister_name} moves 2 chairs into another room. How many chairs remain in the first room?
+options:
+A) 3
+B) 5
+C) 4
+image_prompt:
+Show {user_name} decorating a dollhouse with {sister_name}. Sister moves 2 chairs from a room containing 6 chairs into a separate room. Show exactly 4 chairs in the first room and 2 in the second. No extra chairs, text, letters, or numbers.

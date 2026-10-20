@@ -1,0 +1,9 @@
+title: Giving Toy Frogs Their Ponds
+question_text:
+{user_name} and {grandmother_name} share 9 toy frogs equally among 3 small pretend ponds. How many toy frogs will be in each pond?
+options:
+A) 3
+B) 2
+C) 4
+image_prompt:
+Show {user_name} and {grandmother_name} distributing exactly 9 toy frogs equally among 3 separate small pretend ponds, with exactly 3 frogs in each pond. No extra frogs, props, text, letters, or numbers.

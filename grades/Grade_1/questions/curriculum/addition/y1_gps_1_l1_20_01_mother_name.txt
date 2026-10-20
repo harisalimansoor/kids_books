@@ -1,0 +1,9 @@
+title: Buying Balloons with Mom
+question_text:
+{user_name} and {mother_name} are buying colorful balloons. {user_name} buys 5 balloons, and {mother_name} buys 4 balloons. How many balloons did they buy in total?
+options:
+A) 9
+B) 1
+C) 15
+image_prompt:
+Make 5 colorful balloons in front of {user_name} and 4 colorful balloons in front of {mother_name}.

@@ -1,0 +1,9 @@
+title: Making Paper Flowers with Mom
+question_text:
+{user_name} makes 7 paper flowers. {mother_name} gives 3 flowers to a friend. How many paper flowers remain with {user_name}?
+options:
+A) 3
+B) 5
+C) 4
+image_prompt:
+Show {user_name} making paper flowers with {mother_name}. Mom gives 3 flowers from a group of 7 to a friend. Show exactly 4 flowers remaining with the child and 3 with the friend. No extra flowers, text, letters, or numbers.

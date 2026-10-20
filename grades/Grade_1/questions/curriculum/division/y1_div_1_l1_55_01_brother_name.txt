@@ -1,0 +1,9 @@
+title: Sorting Seed Packets with Brother
+question_text:
+{user_name} and {brother_name} distribute 9 seed packets equally among 3 garden organizers. How many seed packets will be in each organizer?
+options:
+A) 3
+B) 2
+C) 4
+image_prompt:
+Show {user_name} and {brother_name} placing exactly 9 plain seed packets equally into 3 separate garden organizers, with exactly 3 packets in each organizer. Packets must have no writing. No extra packets, text, letters, or numbers.

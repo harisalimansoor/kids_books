@@ -1,0 +1,9 @@
+title: Tea Time with Grandma
+question_text:
+{user_name} sets out 4 painted teacups for tea time, and {grandmother_name} arranges 4 more on the table. How many teacups have they set out altogether?
+options:
+A) 0
+B) 8
+C) 14
+image_prompt:
+Illustrate a welcoming tea-time preparation scene in a bright dining room. {user_name} is arranging a neat row of floral teacups on a tablecloth, while {grandmother_name} pours tea into one of the cups in a separate place setting. Exactly 4 painted teacups must be visible in the child's designated area of the table, and EXACTLY 4 painted teacups must be visible in Grandma's designated area. Each teacup must be a complete, separate vessel with a clearly visible rim and handle wherever its orientation allows. Keep all 8 cups spaced apart and unobstructed; do not stack them or hide one behind another. Their designs may vary in color while remaining visually consistent with a charming family tea party. A teapot, teaspoons, a folded napkin, or a small plate may be included as secondary props, but no additional cups, mugs, saucers shaped like cups, or teacups in the background. Make the characters interact naturally with the table arrangement. No text, letters, numbers, labels, or written answers.

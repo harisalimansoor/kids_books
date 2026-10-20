@@ -1,0 +1,9 @@
+title: Making Popsicles with Uncle
+question_text:
+{user_name} fills 2 popsicle molds with fruit juice, and {uncle_name} prepares 2 more. How many popsicles are they making altogether?
+options:
+A) 4
+B) 12
+C) 1
+image_prompt:
+Show {user_name} pouring fruit juice into popsicle molds while {uncle_name} inserts sticks into another set. Include EXACTLY 2 popsicles being prepared by the child and 2 by the uncle, with no extra popsicles.

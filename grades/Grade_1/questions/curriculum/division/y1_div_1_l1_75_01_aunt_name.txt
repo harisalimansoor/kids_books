@@ -1,0 +1,9 @@
+title: Making Clay Figures with Aunt
+question_text:
+{user_name} and {aunt_name} share 9 small clay figures equally among 3 modelling mats. How many clay figures will be on each mat?
+options:
+A) 3
+B) 4
+C) 2
+image_prompt:
+Show {user_name} and {aunt_name} placing exactly 9 small clay figures equally on 3 separate modelling mats, with exactly 3 figures on each mat. No extra figures, text, letters, or numbers.
