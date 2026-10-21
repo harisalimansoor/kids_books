@@ -1,0 +1,9 @@
+title: Sorting Crayons with Grandfather
+question_text:
+{user_name} and {grandfather_name} are putting 8 crayons equally into 2 crayon cups. How many crayons will be in each cup?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {grandfather_name} sorting exactly 8 crayons into 2 cups, with exactly 4 crayons in each cup. No extra crayons, props, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Finding Ladybugs with Aunt
+question_text:
+In the garden, {user_name} observes 3 ladybugs in a clear viewing jar, and {aunt_name} observes 3 in another jar. How many ladybugs are they observing altogether?
+options:
+A) 0
+B) 6
+C) 13
+image_prompt:
+Show {user_name} observing ladybugs through a magnifying glass while {aunt_name} examines a second clear viewing jar. Include EXACTLY 3 red ladybugs in each jar, 6 in total, all clearly visible. No extra insects or ladybugs.

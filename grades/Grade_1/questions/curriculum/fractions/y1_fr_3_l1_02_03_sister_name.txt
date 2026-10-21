@@ -1,0 +1,5 @@
+question_text:
+{user_name} cuts a pizza into four equal slices. {sister_name} eats two slices. What fraction of the pizza is left?
+
+image_prompt:
+A round pizza on a plate, cut into four equal slices. {user_name} is holding two slices, while {sister_name} is pointing at the remaining two slices on the plate. The pizza is clearly divided into four equal parts.

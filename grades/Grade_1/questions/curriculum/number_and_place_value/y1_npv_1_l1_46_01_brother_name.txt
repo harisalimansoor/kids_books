@@ -1,0 +1,9 @@
+title: Comparing Marble Collections with Brother
+question_text:
+{user_name} and {brother_name} compare 34 marbles in one collection and 43 marbles in another. Which collection has fewer marbles?
+options:
+A) The collection with 43 marbles
+B) Both collections have the same number
+C) The collection with 34 marbles
+image_prompt:
+Show {user_name} and {brother_name} comparing exactly 2 separate marble collections. One collection contains exactly 34 marbles, and the other contains exactly 43 marbles. Keep every marble visible and countable. No extra marbles or containers, and no text, letters, or numbers.

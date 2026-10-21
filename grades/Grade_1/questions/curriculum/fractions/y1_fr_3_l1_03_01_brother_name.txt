@@ -1,0 +1,5 @@
+question_text:
+{user_name} has a cake cut into four equal pieces. {brother_name} wants to take three pieces. What fraction of the cake will {brother_name} take?
+
+image_prompt:
+A cake on a table, cut into four equal pieces. {user_name} is pointing at the three pieces while {brother_name} is reaching for them. The cake is clearly divided into four equal parts, with three pieces highlighted.

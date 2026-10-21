@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {father_name} work on this together. {user_name} places a teddy bear between two toy cars. What is the position of the teddy bear in relation to the toy cars?
+
+image_prompt:
+{user_name} and {father_name} work on this together. A playful bedroom scene. {user_name} is sitting on the floor, arranging a teddy bear between a red toy car on the left and a blue toy car on the right. The teddy bear is fluffy and clearly visible, with both toy cars facing forward. The room is filled with colourful toys and a soft rug.

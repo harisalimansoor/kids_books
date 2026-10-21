@@ -1,0 +1,9 @@
+title: Sorting Paper Clips with Sister
+question_text:
+{user_name} helps {sister_name} arrange 27 paper clips into 2 groups of 10 and 7 loose paper clips. How many ones are in 27?
+options:
+A) 2
+B) 7
+C) 27
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 27 paper clips: 2 separate groups of 10 paper clips each and 7 loose paper clips. Keep all clips visible and countable. No extra paper clips, and no text, letters, or numbers.

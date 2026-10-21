@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {grandfather_name} are discussing their favourite seasons. {user_name} loves summer, and {grandfather_name} loves winter. Which season comes after winter?
+
+image_prompt:
+A cozy living room scene. {user_name} is sitting on a chair with a summer hat, while {grandfather_name} is wrapped in a winter blanket. A seasonal chart is on the wall showing the four seasons. The room has decorations representing both summer and winter.

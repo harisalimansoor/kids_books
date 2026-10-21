@@ -1,0 +1,5 @@
+question_text:
+{user_name} has a jug that holds 1 litre of water. {mother_name} has a cup that holds 250 ml of water. How much more water can {user_name}'s jug hold than {mother_name}'s cup?
+
+image_prompt:
+{user_name} and {mother_name} work on this together. A picnic scene with a large jug and a small cup on a table. {user_name} is pouring water from the jug into the cup, which is filled to 250 ml. The jug is labeled 1 litre, and there are other picnic items around.

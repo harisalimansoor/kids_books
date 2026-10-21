@@ -1,0 +1,9 @@
+title: Building Toy Robots with Dad
+question_text:
+{user_name} helps {father_name} build toy robots. Each of 3 robots has 2 antennae. How many antennae do the robots have altogether?
+options:
+A) 5
+B) 9
+C) 6
+image_prompt:
+Show {user_name} and {father_name} assembling exactly 3 simple toy robots. Each robot must have exactly 2 clearly visible antennae. Show exactly 6 antennae in total. No extra robots or antennae, and no text, letters, or numbers.

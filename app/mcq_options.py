@@ -2,8 +2,8 @@
 Look at one question and build the question page's words.
 
 Options: exactly 3 — 1 correct answer and 2 wrong ones.
-Heading: a short title and a sticker taken from THIS question.
-A mango question becomes "Mangoes With Gran". Nothing is reused on every page.
+Heading: the character, what they are doing, and the objects.
+An apples question for Hamdan becomes "Hamdan Counting with Apples".
 
 The correct answer already stored on the question (meta.json) is kept.
 Wrong options are nearby numbers, the way the workbook page shows 6, 8, 10.
@@ -165,6 +165,8 @@ def normalize_trio(correct: str, options: list[Any] | None) -> dict[str, Any]:
 # over the word "circle" that often appears in the same sentence.
 _TOPICS: tuple[tuple[str, str, str], ...] = (
     (r"toy cars?", "Toy Cars", "car"),
+    (r"boxes", "Boxes", "building"),
+    (r"seashells?|shells?", "Seashells", "counting"),
     (r"counting blocks|wooden blocks|blocks?", "Blocks", "building"),
     (r"bricks?|castles?|forts?|lego|towers?", "Blocks", "building"),
     (r"marbles?", "Marbles", "toys"),
@@ -203,20 +205,67 @@ def _adult_label(question: str, adult: str = "") -> str:
     return name[:18]
 
 
-def local_heading(question: str, adult: str = "") -> dict[str, str]:
-    """Short title and sticker from this question. No network."""
+_ACTIVITIES: tuple[tuple[str, str], ...] = (
+    (r"stack(?:s|ing|ed)?", "Stacking"),
+    (r"build(?:s|ing|ed)?|bricks?|lego|towers?|blocks?", "Building"),
+    (r"bak(?:e|ing|ed)|cupcakes?|cakes?|cookies|biscuits?", "Baking"),
+    (r"shar(?:e|ing|ed)", "Sharing"),
+    (r"collect(?:s|ing|ed)?|seashells?|shells?", "Collecting"),
+)
+
+_NOT_A_CHILD = {
+    "how", "the", "there", "what", "when", "look", "count", "they", "we",
+    "grandfather", "grandmother", "grandma", "grandpa", "grandad", "gran",
+    "granny", "mum", "mom", "mother", "dad", "father", "uncle", "aunt",
+    "brother", "sister",
+}
+
+
+def _child_label(question: str, child: str = "") -> str:
+    """The child on this page. Uses the workbook name, then the question."""
+    name = (child or "").strip()
+    if name and name.lower() not in {"a friend", "friend", "child", "student"}:
+        return name[:1].upper() + name[1:18]
+    match = re.match(r"^\s*([A-Za-z][A-Za-z'\-]{1,18})\b", question or "")
+    if not match:
+        return ""
+    word = match.group(1)
+    if word.lower() in _NOT_A_CHILD:
+        return ""
+    return word[:1].upper() + word[1:]
+
+
+def _activity_label(question: str) -> str:
+    """What the characters are doing. Number questions stay 'Counting'."""
+    low = (question or "").lower()
+    for pattern, label in _ACTIVITIES:
+        if re.search(rf"\b(?:{pattern})\b", low):
+            return label
+    return "Counting"
+
+
+def local_heading(question: str, adult: str = "", child: str = "") -> dict[str, str]:
+    """Title from the character, the activity, and the objects. No network."""
     low = (question or "").lower()
     sticker = "maths"
-    verb = "Maths"
+    obj = ""
     for pattern, label, sticker_id in _TOPICS:
         if re.search(rf"\b(?:{pattern})\b", low):
             sticker = sticker_id
-            verb = label
+            obj = label
             break
-    who = _adult_label(question, adult)
-    title = f"{verb} With {who}" if who else verb
+    activity = _activity_label(question)
+    who = _child_label(question, child) or _adult_label(question, adult)
+    if who and obj:
+        title = f"{who} {activity} with {obj}"
+    elif obj:
+        title = f"{activity} with {obj}"
+    elif who:
+        title = f"{who} {activity}"
+    else:
+        title = activity
     title = re.sub(r"\s+", " ", title).strip()
-    return {"title": title[:42], "sticker": sticker if sticker in STICKERS else "maths"}
+    return {"title": title[:52], "sticker": sticker if sticker in STICKERS else "maths"}
 
 
 def _copied_template(title: str, sticker: str, question: str, adult: str = "") -> bool:
@@ -236,14 +285,15 @@ def page_heading(
     question: str,
     *,
     adult: str = "",
+    child: str = "",
     allow_network: bool = True,
     api_key: str | None = None,
 ) -> dict[str, str]:
     """
-    Short page title for this question only.
+    Page title for this question: who is on the page and what they are doing.
     Uses the model when a key is available, otherwise the local reading.
     """
-    fallback = local_heading(question, adult)
+    fallback = local_heading(question, adult, child)
     if not allow_network or os.environ.get("PYTEST_CURRENT_TEST"):
         return fallback
     key = (api_key or os.getenv("OPENROUTER_API_KEY") or "").strip()
@@ -258,10 +308,11 @@ def page_heading(
             f"QUESTION:\n{question}\n"
             f"ADULT ON THIS PAGE: {who or 'none'}\n\n"
             "Reply with JSON only, using placeholders you replace from this question:\n"
-            '{"title": "<2 to 5 words naming the objects in THIS question>", '
+            '{"title": "<Character Activity with Objects>", '
             '"sticker": "<sticker id>"}\n'
             "Rules:\n"
-            "- The title must name what this question is about (mangoes, coins, books, balloons, blocks).\n"
+            "- The title names the character and their activity with the objects.\n"
+            "- Example: Hamdan Counting with Apples. Not just Apples.\n"
             "- Do not reuse one fixed title for every question.\n"
             "- Do not use the title Building With Grandad.\n"
             "- No question mark. Do not reveal the numeric answer.\n"
@@ -291,7 +342,7 @@ def page_heading(
         if len(title) < 3 or _copied_template(title, sticker, question, adult):
             return fallback
         return {
-            "title": title[:42],
+            "title": title[:52],
             "sticker": sticker if sticker in STICKERS else fallback["sticker"],
         }
     except Exception:
@@ -322,7 +373,7 @@ def _ai_trio(question: str, correct: str, *, api_key: str | None, model: str) ->
             "- options has exactly 3 values: the correct answer and 2 wrong ones.\n"
             "- Wrong numbers should be close to the correct answer.\n"
             "- No A/B/C labels.\n"
-            "- title names the objects in THIS question only. Do not reuse one title for every question.\n"
+            "- title names the character and their activity with the objects, such as Hamdan Counting with Apples. Do not use the object name alone.\n"
             "- Use a building title only when the question is about blocks or building.\n"
             f"- sticker is one of: {', '.join(STICKERS)}."
         )
@@ -350,7 +401,7 @@ def _ai_trio(question: str, correct: str, *, api_key: str | None, model: str) ->
         title = re.sub(r"\s+", " ", str(data.get("title") or "")).strip()
         sticker = str(data.get("sticker") or "").strip().lower()
         if title and not _copied_template(title, sticker, question):
-            packed["title"] = title[:42]
+            packed["title"] = title[:52]
         if sticker in STICKERS and not _copied_template(title, sticker, question):
             packed["sticker"] = sticker
         return packed
@@ -373,22 +424,18 @@ def build_mcq(
     """
     known = _clean_option(correct) or _answer_from_meta(meta)
     supplied = []
-    stored_title = ""
     if meta:
         supplied = ((meta.get("answer") or {}).get("options") or [])
-        stored_title = str(meta.get("title") or "").strip()
-    heading = local_heading(question)
+    heading = local_heading(question, child="")
     if allow_network and not os.environ.get("PYTEST_CURRENT_TEST"):
         ai = _ai_trio(question, known, api_key=api_key, model=model)
         if ai and len(ai.get("options") or []) == 3:
-            ai.setdefault("title", stored_title or heading["title"])
-            if stored_title:
-                ai["title"] = stored_title
+            ai["title"] = heading["title"]
             ai.setdefault("sticker", heading["sticker"])
             return ai
     if not known:
         known = _solve_question(question)
     packed = normalize_trio(known, supplied)
-    packed["title"] = stored_title or heading["title"]
+    packed["title"] = heading["title"]
     packed["sticker"] = heading["sticker"]
     return packed

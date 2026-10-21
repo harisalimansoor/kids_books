@@ -1,0 +1,5 @@
+question_text:
+{user_name} starts reading a book at 2 o'clock and finishes at half past 3. How long did {user_name} spend reading the book? What time did {grandfather_name} start cooking dinner if they started 15 minutes after {user_name} finished?
+
+image_prompt:
+A cozy living room with a clock showing 3:30. {user_name} is sitting on a sofa with a book, while {grandfather_name} is in the kitchen looking at a clock. The clock shows 3:30, and there is a timer on the kitchen counter.

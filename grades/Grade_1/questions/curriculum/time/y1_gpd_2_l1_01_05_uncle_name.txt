@@ -1,0 +1,5 @@
+question_text:
+{user_name} stands facing {uncle_name}. {user_name} makes a whole turn. Which direction is {user_name} facing now?
+
+image_prompt:
+A sunny park scene. {user_name} is standing on a grassy patch, facing {uncle_name}, who is standing a few steps away. {user_name} has just completed a full turn and is now facing the same direction as before. The background shows trees and a playground.

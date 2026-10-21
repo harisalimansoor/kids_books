@@ -1,0 +1,82 @@
+=== MULTIPLICATION ===
+
+{user_name} is helping {grandfather_name} plant flowers. They plant 2 flowers in each of 3 small pots. How many flowers do they plant altogether?
+{user_name} helps {grandfather_name} feed rabbits. Each of 2 rabbits gets 3 carrot pieces. How many carrot pieces do the rabbits get altogether?
+{user_name} helps {grandfather_name} fill bird feeders. They put 2 scoops of birdseed into each of 2 feeders. How many scoops do they use altogether?
+{user_name} and {grandfather_name} make clay pots. They make 3 pots each on 2 small work mats. How many clay pots do they make altogether?
+{user_name} helps {grandfather_name} collect eggs from the henhouse. They collect 2 eggs from each of 4 nests. How many eggs do they collect altogether?
+{user_name} and {grandfather_name} wash toy boats. They wash 3 toy boats each in 2 tubs. How many toy boats do they wash altogether?
+{user_name} helps {grandfather_name} arrange picture frames. They place 2 frames on each of 3 shelves. How many frames do they place altogether?
+{user_name} helps {grandfather_name} pack biscuits. They put 3 biscuits into each of 3 small bags. How many biscuits do they pack altogether?
+{user_name} and {grandfather_name} set up mini bowling pins. They arrange 2 pins in each of 4 small groups. How many pins do they arrange altogether?
+{user_name} and {grandfather_name} make paper windmills. They make 3 windmills each on 2 tables. How many windmills do they make altogether?
+{user_name} helps {grandmother_name} make necklaces. They put 3 beads on each of 2 necklaces. How many beads do they use altogether?
+{user_name} helps {grandmother_name} fix doll prams. Each of 2 prams has 4 wheels. How many wheels do the prams have altogether?
+{user_name} helps {grandmother_name} decorate cupcakes. They put 2 candles on each of 3 cupcakes. How many candles do they use altogether?
+{user_name} helps {grandmother_name} decorate paper kites. They draw 3 round dots on each of 2 kites. How many dots do they draw altogether?
+{user_name} helps {grandmother_name} organize storybooks. They place 3 books on each of 2 reading mats. How many books do they place altogether?
+{user_name} helps {grandmother_name} make paper puppets. Each of 3 puppets has 2 paper eyes. How many paper eyes do they use altogether?
+{user_name} helps {grandmother_name} sew buttons onto coats. Each of 2 coats needs 4 buttons. How many buttons do they need altogether?
+{user_name} helps {grandmother_name} decorate woolly hats. They attach 2 pom-poms to each of 3 hats. How many pom-poms do they use altogether?
+{user_name} helps {grandmother_name} decorate mini trees. They hang 3 ornaments on each of 2 trees. How many ornaments do they hang altogether?
+{user_name} helps {grandmother_name} prepare toy drums for a music game. They place 2 drumsticks beside each of 3 toy drums. How many drumsticks do they place altogether?
+{user_name} helps {father_name} build small bridges with blocks. They use 3 blocks for each of 2 bridges. How many blocks do they use altogether?
+{user_name} helps {father_name} make sandwiches. They put 2 cheese slices in each of 3 sandwiches. How many cheese slices do they use altogether?
+{user_name} helps {father_name} collect seashells at the beach. They put 4 seashells in each of 2 small boxes. How many seashells do they collect altogether?
+{user_name} plays a ring-toss game with {father_name}. They place 2 rings around each of 3 pegs. How many rings do they use altogether?
+{user_name} helps {father_name} stack pancakes for breakfast. They put 3 pancakes on each of 2 plates. How many pancakes do they stack altogether?
+{user_name} helps {father_name} build toy robots. Each of 3 robots has 2 antennae. How many antennae do the robots have altogether?
+{user_name} visits an aquarium with {father_name}. They see 2 fish in each of 3 small fish tanks. How many fish do they see altogether?
+{user_name} helps {father_name} fold clean towels. They put 3 folded towels in each of 2 baskets. How many towels do they put away altogether?
+{user_name} helps {father_name} make two small garden paths. They lay 4 stepping stones on each path. How many stepping stones do they use altogether?
+{user_name} helps {father_name} make berry ice pops. They put 2 blueberries in each of 3 ice-pop molds. How many blueberries do they use altogether?
+{user_name} helps {mother_name} sort colour pencils. They put 3 pencils in each of 2 cups. How many pencils do they put in the cups altogether?
+{user_name} helps {mother_name} decorate paper crowns. They stick 2 stars on each of 3 crowns. How many stars do they use altogether?
+{user_name} helps {mother_name} prepare orange slices for a snack. They put 4 orange slices in each of 2 bowls. How many orange slices do they use altogether?
+{user_name} helps {mother_name} match clean socks. They make 3 pairs of socks. How many individual socks do they have altogether?
+{user_name} helps {mother_name} plant seeds. They put 3 seeds in each of 2 small pots. How many seeds do they plant altogether?
+{user_name} helps {mother_name} pack erasers into pencil cases. They put 2 erasers in each of 4 pencil cases. How many erasers do they pack altogether?
+{user_name} helps {mother_name} decorate notebooks. They stick 3 animal stickers on each of 2 notebooks. How many stickers do they use altogether?
+{user_name} helps {mother_name} paint ladybug crafts. They paint 3 black spots on each of 2 ladybugs. How many black spots do they paint altogether?
+{user_name} helps {mother_name} wrap birthday gifts. They use 2 ribbon bows on each of 3 gift boxes. How many ribbon bows do they use altogether?
+{user_name} helps {mother_name} set up a picnic. They place 4 spoons beside each of 2 picnic plates. How many spoons do they place altogether?
+{user_name} and {brother_name} make paper airplanes. Each of 3 airplanes has 2 wings. How many wings do the airplanes have altogether?
+{user_name} helps {brother_name} pack footballs for practice. They put 2 footballs in each of 3 sports bags. How many footballs do they pack altogether?
+{user_name} and {brother_name} arrange toy dinosaurs in two play enclosures. They put 3 dinosaurs in each enclosure. How many dinosaurs do they arrange altogether?
+{user_name} helps {brother_name} make fruit skewers. They put 3 grapes on each of 2 skewers. How many grapes do they use altogether?
+{user_name} and {brother_name} use toy binoculars to explore the garden. Each of 3 binoculars has 2 round lenses. How many lenses do the binoculars have altogether?
+{user_name} helps {brother_name} sort marbles after a game. They put 2 marbles in each of 4 small trays. How many marbles do they sort altogether?
+{user_name} helps {brother_name} arrange medals for a sports display. They hang 3 medals on each of 2 ribbons. How many medals do they hang altogether?
+{user_name} helps {brother_name} build toy rockets. Each of 2 rockets has 3 fins. How many fins do the rockets have altogether?
+{user_name} and {brother_name} prepare a mini-golf game. They place 2 golf balls at each of 3 starting spots. How many golf balls do they place altogether?
+{user_name} and {brother_name} play a treasure hunt. They put 3 toy gold coins in each of 3 small treasure chests. How many toy gold coins do they use altogether?
+{user_name} helps {sister_name} decorate umbrellas. They add 3 colourful patches to each of 2 umbrellas. How many patches do they use altogether?
+{user_name} and {sister_name} make paper fans. Each of 2 fans has 4 visible supporting sticks. How many supporting sticks do the fans have altogether?
+{user_name} helps {sister_name} arrange toy horses in a play area. They place 3 horses in each of 2 sections. How many toy horses do they place altogether?
+{user_name} helps {sister_name} paint animal masks. Each of 3 masks has 2 eye holes. How many eye holes are there altogether?
+{user_name} helps {sister_name} make paper lanterns. Each of 3 lanterns has 2 handles. How many handles do the lanterns have altogether?
+{user_name} and {sister_name} build sandcastles at the beach. They put 3 small flags on each of 2 sandcastles. How many flags do they use altogether?
+{user_name} helps {sister_name} arrange toy bicycles. Each of 3 bicycles has 2 pedals. How many pedals do the bicycles have altogether?
+{user_name} helps {sister_name} complete picture puzzles. They place 4 puzzle pieces on each of 2 small puzzle boards. How many puzzle pieces do they place altogether?
+{user_name} and {sister_name} make a tiny fairy garden. They place 2 decorative mushrooms in each of 4 small garden patches. How many mushrooms do they place altogether?
+{user_name} helps {sister_name} make picture magnets. They attach 3 small magnets to each of 2 picture cards. How many magnets do they use altogether?
+{user_name} helps {uncle_name} set up toy trains. Each of 2 trains has 3 carriages. How many carriages do the trains have altogether?
+{user_name} helps {uncle_name} set up a mini road course. They place 3 traffic cones in each of 2 lanes. How many traffic cones do they use altogether?
+{user_name} helps {uncle_name} pitch camping tents. Each of 2 tents needs 4 tent pegs. How many tent pegs do they need altogether?
+{user_name} explores toy houses with {uncle_name}. Each of 2 toy houses has 3 windows. How many windows do the houses have altogether?
+{user_name} helps {uncle_name} prepare suitcases for a trip. Each of 3 suitcases has 2 visible handles. How many handles do the suitcases have altogether?
+{user_name} helps {uncle_name} build toy castles. Each of 2 castles has 3 towers. How many towers do the castles have altogether?
+{user_name} helps {uncle_name} organize toy tools. They put 2 toy hammers in each of 3 toolboxes. How many toy hammers do they put away altogether?
+{user_name} helps {uncle_name} prepare a puppet show. They set up 4 small spotlights on each of 2 stages. How many spotlights do they use altogether?
+{user_name} helps {uncle_name} assemble toy clocks. Each of 3 clocks has 2 clock hands. How many clock hands do the clocks have altogether?
+{user_name} helps {uncle_name} arrange yo-yos for a play activity. They place 3 yo-yos in each of 3 display sections. How many yo-yos do they arrange altogether?
+{user_name} helps {aunt_name} hang wind chimes. Each of 2 wind chimes has 3 small bells. How many bells are there altogether?
+{user_name} helps {aunt_name} organize domino tiles. They arrange 4 tiles in each of 2 rows. How many domino tiles do they arrange altogether?
+{user_name} blows bubbles with {aunt_name}. They make 3 bubbles with each of 2 bubble wands. How many bubbles do they make altogether?
+{user_name} helps {aunt_name} paint toy turtles. They paint 3 colourful spots on each of 2 turtles. How many spots do they paint altogether?
+{user_name} helps {aunt_name} prepare toy helicopters. Each of 3 helicopters has 2 landing skids. How many landing skids do the helicopters have altogether?
+{user_name} helps {aunt_name} build cardboard tunnels for toy cars. Each of 2 tunnels has 4 supporting arches. How many arches do the tunnels have altogether?
+{user_name} helps {aunt_name} make paper chains. They use 3 paper loops for each of 2 short chains. How many paper loops do they use altogether?
+{user_name} helps {aunt_name} decorate rain boots. They add 2 reflective strips to each of 3 boots. How many strips do they use altogether?
+{user_name} helps {aunt_name} arrange toy penguins on two icy platforms. They place 4 penguins on each platform. How many toy penguins do they arrange altogether?
+{user_name} helps {aunt_name} pack bookmarks for a reading activity. They place 3 bookmarks in each of 2 envelopes. How many bookmarks do they pack altogether?

@@ -1,0 +1,5 @@
+question_text:
+{mother_name} holds a book on the right side of {user_name}. What is the position of the book in relation to {user_name}?
+
+image_prompt:
+A cozy living room scene. {mother_name} is standing next to {user_name}, who is sitting on a sofa. {mother_name} is holding a bright yellow book in their right hand, clearly positioned to the right of {user_name}. The sofa is decorated with cushions, and a small table with a lamp is in the background.

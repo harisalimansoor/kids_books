@@ -1,0 +1,9 @@
+title: Making Bracelets with Mom
+question_text:
+{user_name} and {mother_name} are making bead bracelets. {user_name} makes 5 bracelets, and {mother_name} makes 2 bracelets. How many bracelets did they make in total?
+options:
+A) 7
+B) 3
+C) 17
+image_prompt:
+Make 5 bead bracelets in front of {user_name} and 2 bead bracelets in front of {mother_name}.

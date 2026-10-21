@@ -1,0 +1,9 @@
+title: Feeding Fish with Dad
+question_text:
+{user_name} has 8 fish-food pellets. {father_name} drops 3 pellets into the aquarium. How many pellets remain outside the aquarium?
+options:
+A) 4
+B) 5
+C) 6
+image_prompt:
+Show {user_name} feeding fish with {father_name}. Dad drops 3 fish-food pellets into the aquarium from a group of 8. Show exactly 5 pellets remaining outside and 3 entering the water. No extra pellets, text, letters, or numbers.

@@ -1,625 +1,82 @@
 === ADDITION ===
 
-Look at the picture! {sibling_name} is holding a bag with 4 marbles and {grandfather_name} has 5 marbles in a bowl on the table. If they pour the marbles from the bag into the bowl, how many marbles are in the bowl now?
-Look at the picture! {grandmother_name} is carrying a basket with 7 mangoes and {grandfather_name} is holding 2 mangoes in his hands. If they put all the mangoes together in the basket, how many mangoes do they have now?
-Look at the picture! {mother_name} is standing next to a big box with 8 books inside, and {father_name} is standing next to an empty box with 0 books inside. If they put their boxes together, how many books can you see now?
-Look at the picture! {grandmother_name} is sitting with 4 books in her basket, {sibling_name} is holding 3 books, and you are reading 1 book. How many books can you count altogether?
-Look at the picture! {grandmother_name} is holding 2 stickers, {mother_name} has 5 stickers on the table, and you are showing 2 stickers. How many stickers can you count altogether?
-Look at the picture! {user_name} is holding a basket with 5 books, and {grandfather_name} has 5 books on a shelf. If they put all the books together in one big pile, how many books do they have now?
-Look at the picture! {mother_name} is holding a basket with 2 mangoes and {grandmother_name} has a big bowl with 6 mangoes on the table. If they put the mangoes from the basket into the bowl, how many mangoes are in the bowl now?
-Look at the picture! {sibling_name} has 0 apples in their basket, {mother_name} has 7 apples in a big bowl on the table, and you have 0 apples in your bag. How many apples are there altogether?
-Look at the picture! {grandmother_name} is holding a big jar with 10 marbles inside, and {user_name} has 3 marbles in a small basket. If they pour the marbles from the basket into the jar, how many marbles do they have now?
-Look at the picture! {user_name} is holding 2 colorful balloons and {sibling_name} has 8 balloons tied to a chair. If they put all their balloons together in a big basket, how many balloons are in the basket now?
-Look at the picture! {sibling_name} is holding a bag with 6 toy cars inside, and {mother_name} has 4 toy cars lined up on the table. If they pour {sibling_name}'s toy cars out of the bag and onto the table with {mother_name}'s toy cars, how many toy cars do they have now?
-Look at the picture! {grandfather_name} is holding a big jar with 10 colourful sweets inside, and {sibling_name} has a small basket with 6 sweets in it. They are putting their sweets together in a big bowl. How many sweets are in the bowl now?
-Look at the picture! {mother_name} is standing on the beach with a bucket that has 3 shells in it. Next to the bucket, there are 4 more shells that {mother_name} just found. On the ground, you can see a sign that says "0 more shells" and it's true, there are no more shells to add. How many shells does {mother_name} have now?
-Look at the picture! {sibling_name} is holding 6 colourful balloons, and {grandmother_name} has 9 balloons tied to a chair. If they put all the balloons together in a big basket, how many balloons can you see in the basket now?
-Look at the picture! {grandfather_name} is carrying a basket with 3 books inside, and {mother_name} has 8 books stacked up on a table. If they put all the books together in one big pile, how many books do they have now?
-Look at the picture! {grandfather_name} is standing next to a big box with 9 toy cars inside, and {grandmother_name} has 4 toy cars in her basket. If they pour all the toy cars onto the floor together, how many toy cars do they have now?
-Look at the picture! {father_name} is holding a basket with 6 apples and {grandmother_name} has a bowl on the table with 7 apples. If they pour {father_name}'s apples into {grandmother_name}'s bowl, how many apples are in the bowl now?
-Look at the picture! {father_name} is standing next to a big basket with 10 mangoes, {sibling_name} is holding 2 mangoes in their hands, and you are sitting on the floor with 1 mango. How many mangoes can you count altogether?
-Look at the picture! {user_name} is holding a basket with 2 sweets and {sibling_name} has a big jar with 9 sweets on the table. If they pour {user_name}'s sweets into {sibling_name}'s jar, how many sweets are in the jar now?
-Look at the picture! {user_name} is holding a small bag with 3 marbles inside, and {mother_name} has a big jar on the table with 6 marbles in it. If they pour {user_name}'s marbles into {mother_name}'s jar, how many marbles are in the jar now?
-Look at the picture! {mother_name} is holding a basket with 4 apples and {father_name} has an empty basket with 0 apples. If they put their baskets together, how many apples can you see now?
-Look at the picture! {father_name} is putting 8 apples into a big basket, {sibling_name} has 5 apples in a small bucket, and you are holding 2 apples in your hands. How many apples can you count altogether?
-Look at the picture! {user_name} is holding a big sheet of paper with 7 stickers on it, {grandmother_name} has 5 stickers in her basket, and you have 5 stickers on your desk. How many stickers can you count altogether?
-Look at the picture! {grandfather_name} has a big jar with 9 colourful sweets on the table, and {mother_name} has a small bowl with 4 sweets next to it. If they pour {grandfather_name}'s sweets into {mother_name}'s bowl, how many sweets are in the bowl now?
-Look at the picture! {grandmother_name} is holding a basket with 6 shells and {grandfather_name} has a bucket with 6 shells next to her. If they pour their shells into a big box together, how many shells can you see in the box now?
-Look at the picture! {grandmother_name} has a big bag with 9 colourful sweets in it, and {user_name} is holding a small basket with 8 sweets in it. If they pour {grandmother_name}'s sweets into {user_name}'s basket, how many sweets can you count altogether?
-Look at the picture! {mother_name} is holding 2 sweets in her hand and {father_name} has 5 sweets in his basket. If they pour {mother_name}'s sweets into {father_name}'s basket, how many sweets can you see in the basket now?
-Look at the picture! {mother_name} is holding a basket with 8 shells, and {sibling_name} has a bucket with 10 shells next to it. If they pour all the shells into the big bucket, how many shells are in the bucket now?
-Look at the picture! {grandfather_name} is holding a basket with 10 sweets and {father_name} has a big jar on the table with 40 sweets inside. If they pour {grandfather_name}'s sweets into {father_name}'s jar, how many sweets are in the jar now?
-Look at the picture! {father_name} has a big jar with 50 sweets on the table, and {sibling_name} has a small bag with 10 sweets next to it. If they pour the sweets from the bag into the jar, how many sweets are in the jar now?
-Look at the picture! {grandmother_name} is standing in the garden with a big bunch of 40 balloons, and {father_name} is holding 10 balloons in his hands. If they put all their balloons together in the big basket, how many balloons are in the basket now?
-Look at the picture! {mother_name} is standing next to a bookshelf with 6 books on it, {sibling_name} is holding a sign that says 0 books and has an empty basket, and you are sitting with 14 books in a big pile. How many books can you count altogether?
-Look at the picture! {grandfather_name} is holding a basket with 8 shells, {mother_name} has a big bowl on the table with 10 shells, and you are standing next to a big box with 20 shells. How many shells can you count altogether?
-Look at the picture! {father_name} has a big box with 40 toy cars in it, {mother_name} has a smaller box with 30 toy cars on the shelf, and you have 20 toy cars lined up on the floor. How many toy cars can you count altogether?
-Look at the picture! {user_name} is holding a big sheet with 7 stickers on it, {sibling_name} has a sticker book with 0 stickers in it, and you are showing a sticker collection with 9 stickers. How many stickers can you count altogether?
-Look at the picture! {father_name} has a big box with 18 books inside, and {user_name} has a small basket with 8 books in it. They are putting their books together on a big shelf. How many books can you count on the shelf now?
-Look at the picture! {grandfather_name} is collecting 9 shells in his big bucket, {mother_name} has 4 shells in her small bag, and you are holding 7 shells in your hands. How many shells can you count altogether?
-Look at the picture! {sibling_name} is picking apples from a tree and has 4 apples in a basket, then finds 4 more apples on the ground and puts them in the basket, and then discovers 4 more apples in a nearby wheelbarrow to add to the basket. How many apples are in {sibling_name}'s basket now?
-Look at the picture! {grandfather_name} is standing in front of a bookshelf with 3 baskets. The first basket has 5 books, the second basket also has 5 books, and the third basket has 5 more books. How many books does {grandfather_name} have now?
-Look at the picture! {user_name} is holding 4 colorful pencils in their hand and {mother_name} has 1 pencil on the table. If they put all the pencils together in a big jar, how many pencils do they have now?
-Look at the picture! {sibling_name} has a big basket with 13 apples in it, and {user_name} is standing next to them with a basket that has 18 apples in it. If they pour {sibling_name}'s apples into {user_name}'s basket, how many apples are in the basket now?
-Look at the picture! {mother_name} is holding a bag with 16 stickers and {grandfather_name} has a big jar with 20 stickers on the table. If they pour all the stickers into a big basket, how many stickers are in the basket now?
-Look at the picture! {grandmother_name} is holding a basket with 9 shells on the beach, and {father_name} has 7 shells in his bucket. If they pour all the shells into a big box together, how many shells are in the box now?
-Look at the picture! {grandfather_name} is holding a basket with 7 mangoes, and {father_name} has a big box with 30 mangoes on the table. If they put all the mangoes from the basket and the box into a big fruit bowl, how many mangoes are in the bowl now?
-Look at the picture! {mother_name} is holding a big basket with 40 shells inside, and {sibling_name} has a small bucket with 6 shells in it. They are putting their shells together in a big box. How many shells are in the box now?
-Look at the picture! {grandmother_name} is holding 3 balloons, {user_name} has 6 balloons tied to a chair, and you are standing next to 14 balloons in a big basket. How many balloons can you count altogether?
-Look at the picture! {grandmother_name} has 7 toy cars in her basket and {grandfather_name} has 8 toy cars on the shelf. If they put all their toy cars together in one big box, how many toy cars do they have now?
-Look at the picture! {grandfather_name} is holding a basket with 6 marbles inside, and {father_name} has 14 marbles in a big jar on the table. If they pour {grandfather_name}'s marbles into {father_name}'s jar, how many marbles will they have now?
-Look at the picture! {father_name} is pouring 13 marbles from a bag onto a table, and {grandmother_name} is adding 9 marbles from her pocket to the table. How many marbles can you count on the table now?
-Look at the picture! {grandmother_name} is putting 5 mangoes into a big basket, {sibling_name} is holding 2 mangoes in their hands, and you are sitting next to a plate with 5 mangoes on it. How many mangoes can you count altogether?
-Look at the picture! {sibling_name} is holding a big bag with 40 marbles, {grandfather_name} has a bowl on the table with 30 marbles, and you are standing next to a small basket with 7 marbles inside. How many marbles can you count altogether?
-Look at the picture! {user_name} is pouring 19 marbles out of a bag, {father_name} has 17 marbles in a big jar on the table, and you are holding 1 marble in your hand. How many marbles can you count altogether?
-Look at the picture! {grandfather_name} is sitting with a big jar that has 40 stickers inside, {sibling_name} is holding a basket with 60 stickers, and you are standing next to a box that has 50 stickers in it. How many stickers can you count altogether?
-Look at the picture! {mother_name} is standing in front of a bookshelf with 20 books on the bottom shelf, 80 books on the middle shelf, and 30 books on the top shelf. How many books does {mother_name} have now?
-Look at the picture! {user_name} is holding 5 colourful balloons, {sibling_name} has 9 balloons tied to a chair, and you are standing with 7 balloons in a big basket. How many balloons can you count altogether?
-Look at the picture! {grandmother_name} is holding a sheet with 6 stickers, {sibling_name} has a big jar with 20 stickers on the table, and you are showing 7 stickers in your hand. How many stickers can you count altogether?
-Look at the picture! {user_name} is holding a big jar with 30 stickers inside, and {grandmother_name} is holding an even bigger jar with 60 stickers inside. They are putting their jars together on the table. How many stickers are in the jars now?
-Look at the picture! {mother_name} is standing in front of a table with an empty basket that says "0 pencils" on it. Then, she found a big box with 70 pencils in it, and now the box is open on the table. Next to the box, there's a small bag with 9 pencils inside. How many pencils can {mother_name} count altogether?
-Look at the picture! {user_name} is holding a big box with 16 pencils inside, and {sibling_name} has 3 pencils in a small basket next to the box. If they put all the pencils together in the box, how many pencils do they have now?
-Look at the picture! {user_name} is holding a small bag with 2 sweets inside and {grandfather_name} has a big jar with 18 sweets on the table. If they pour {user_name}'s sweets into {grandfather_name}'s jar, how many sweets can you count in the jar now?
-Look at the picture! {father_name} is carrying a bag with 5 books inside, and {user_name} has a big box with 14 books on the table. If they put all the books together in one big pile, how many books do they have now?
-Look at the picture! {mother_name} is standing with 11 colourful balloons tied to her hand, and {grandmother_name} is standing next to her with 8 balloons in a big basket. If they put all their balloons together in one big bunch, how many balloons do they have now?
-Look at the picture! {sibling_name} has a big bag with 7 books inside, and {user_name} has a bookshelf with 13 books on it. If they put all the books from the bag and the bookshelf into one big box, how many books are in the box now?
-Look at the picture! {grandfather_name} is standing with a big bunch of 15 balloons, and {user_name} is holding 7 balloons in their hands. If they put all their balloons together in one big basket, how many balloons can you count in the basket now?
-Look at the picture! {user_name} is holding a big basket with 13 apples, and {grandfather_name} is standing next to a small table with 8 apples on it. If they put all the apples together in the basket, how many apples can you see now?
-Look at the picture! {user_name} is holding a basket with 5 toy cars inside, and {grandfather_name} has 16 toy cars lined up on the shelf behind him. If they put all the toy cars together in the basket, how many toy cars do they have now?
-Look at the picture! {mother_name} has a big box with 18 toy cars inside, and {user_name} is holding 4 toy cars in {user_name}'s hands. If they put all the toy cars together in the box, how many toy cars can you count now?
-Look at the picture! {grandfather_name} is holding a basket with 6 pencils inside, and {sibling_name} has 19 pencils in a big jar on the table. If they pour all the pencils into the basket, how many pencils do they have now?
-Look at the picture! {father_name} is carrying a big bag with 17 apples, and {sibling_name} has a small basket with 7 apples next to it. If they pour the apples from the basket into the bag, how many apples are in the bag now?
-Look at the picture! {grandmother_name} has a basket with 6 stickers in it, and {mother_name} is holding a big sheet with 14 stickers on it. If they put their stickers together in the basket, how many stickers can you see in the basket now?
-Look at the picture! {sibling_name} has a big box with 19 toy cars inside, and {father_name} is holding 4 toy cars in his hand. If they pour all the toy cars into the box together, how many toy cars can you see in the box now?
-Look at the picture! {grandmother_name} is putting 5 mangoes into a big basket, and {sibling_name} is adding 18 mangoes from their basket into the same big basket. How many mangoes are in the big basket now?
-Look at the picture! {grandmother_name} has a basket with 7 stickers in it, and {father_name} is holding a big jar with 19 stickers inside. If they pour the stickers from the basket into the jar, how many stickers are in the jar now?
-Look at the picture! {father_name} is carrying a big basket with 15 mangoes, and {grandfather_name} is not there, but {grandmother_name} has a small basket with 5 mangoes. They are putting their baskets together on the table. How many mangoes can you count in the baskets now?
-Look at the picture! {father_name} is standing in the garden with a basket that has 9 mangoes in it. Next to the basket, there are 7 more mangoes on the ground, and {father_name} is holding 4 more mangoes in his hands. How many mangoes does {father_name} have now?
-Look at the picture! {grandmother_name} has a big basket with 20 apples, and {father_name} has a big box with 50 apples next to it. If they empty both into a big container, how many apples will they have now?
-Look at the picture! {user_name} is holding a basket with 10 mangoes and {sibling_name} has a big box with 90 mangoes. They are putting their mangoes together in a big pile. How many mangoes are in the pile now?
-Look at the picture! {user_name} has a big bag with 70 colourful sweets, and {father_name} is holding a small basket with 18 sweets. If they pour all the sweets into a big bowl together, how many sweets can you count in the bowl now?
-Look at the picture! You can see 6 birds already sitting in the tree. Now, look at the birds flying in - there are 5 more birds joining them. How many birds are in the tree now?
-Look at the picture! {grandmother_name} is holding a basket with 11 marbles in it, and {mother_name} has 4 marbles on the table next to her. If they pour {grandmother_name}'s marbles into the same basket as {mother_name}'s marbles, how many marbles are in the basket now?
-Look at the picture! {mother_name} is standing in front of a big tree with 15 mangoes in a basket. Then, she picked 2 more mangoes from the tree and added them to the basket. After that, she found 10 more mangoes on the ground and put them in the basket too. How many mangoes can you count in {mother_name}'s basket now?
-Look at the picture! {mother_name} is holding a basket with 8 apples, and {father_name} has a basket with 8 apples on the table next to her. If they put their baskets together, how many apples can you see in the baskets now?
-Look at the picture! {grandmother_name} is standing in the garden with a basket. She picked 5 apples and put them in the basket, then she added 10 more apples from the tree, and now there are even more apples in the basket because she found 7 more under the bush. How many apples are in {grandmother_name}'s basket now?
-Look at the picture! {father_name} is holding a big bag with 19 shells and {user_name} has 2 shells in a small bucket. If they pour all the shells into a big basket together, how many shells can you see in the basket now?
-Look at the picture! {user_name} has a big basket with 17 apples, and {father_name} is holding 2 apples in his hands. If they put all the apples together in the basket, how many apples can you see now?
-Look at the picture! {father_name} is carrying a big box with 10 books inside, and {sibling_name} has 5 books in a small basket. If they put the books from the box and the basket together on the table, how many books do they have now?
-Look at the picture! {father_name} is holding 7 stickers in his hand and {sibling_name} has 4 stickers in their basket. If they pour all the stickers into a big box together, how many stickers are in the box now?
-Look at the picture! {mother_name} is holding 2 books in her bag, and you, {user_name}, are holding 1 book in your hand. If you put them together on the table, how many books can you see now?
-Look at the picture! {mother_name} is holding a basket with 5 shells, {grandmother_name} has 2 shells in her hand, and you are showing 1 shell. How many shells can you count altogether?
-Look at the picture! {sibling_name} is holding a basket with 2 sweets and {father_name} has a bowl with 2 sweets on the table. If they pour {sibling_name}'s sweets into {father_name}'s bowl, how many sweets do they have now?
-Look at the picture! {sibling_name} is holding 3 colorful balloons and {user_name} has 3 balloons tied to a chair. If they put all the balloons together in a big basket, how many balloons can you see in the basket now?
-Look at the picture! {sibling_name} is holding 3 colourful balloons and {grandfather_name} has 4 balloons tied to his chair. If they put all their balloons together in one big basket, how many balloons can you see in the basket now?
-Look at the picture! {father_name} is carrying a basket with 2 mangoes, and {mother_name} has a bowl on the table with 5 mangoes. If they put the mangoes from the basket into the bowl, how many mangoes are in the bowl now?
-Look at the picture! {mother_name} is holding a basket with 4 shells and {grandfather_name} has 3 shells in his hand. If they put their shells together in the basket, how many shells can you see now?
-Look at the picture! {father_name} is carrying a basket with 6 mangoes and {mother_name} is holding 2 mangoes in her hands. If they put all the mangoes together in the basket, how many mangoes can you see now?
-Look at the picture! {sibling_name} is holding a big bunch of 5 colourful balloons, and {grandmother_name} has 3 shiny balloons in a basket. If they put all the balloons together in the basket, how many balloons can you see now?
-Look at the picture! {sibling_name} is holding 3 stickers in their hand and {father_name} has 4 stickers on the table next to them. If they put all their stickers together in a big pile, how many stickers do they have now?
-Look at the picture! {mother_name} is carrying a bag with 10 books inside, and {father_name} has 10 books on a shelf. If they put all the books together in one big pile, how many books can you count now?
-Look at the picture! {grandmother_name} is carrying a big basket with 10 mangoes and {mother_name} has 2 mangoes in a small bowl on the table. If they put all the mangoes together in the basket, how many mangoes can you see now?
-Look at the picture! {grandmother_name} is standing with 5 colourful balloons tied to her hand, and {sibling_name} is next to her with 2 balloons in their basket. If they put all their balloons together in a big bunch, how many balloons do they have now?
-Look at the picture! {mother_name} is holding a big bunch of 8 colourful balloons, and {grandmother_name} is standing next to her with 2 shiny balloons in her hands. If they put all their balloons together in one big basket, how many balloons do they have now?
-Look at the picture! {father_name} is holding a big bag with 12 sweets and {mother_name} has a small bowl with 4 sweets on the table. If they pour {father_name}'s sweets into {mother_name}'s bowl, how many sweets can you count in the bowl now?
-Look at the picture! {grandfather_name} is standing with a big bunch of 15 balloons, and {grandmother_name} is sitting next to him with 3 balloons in a basket. If they put all their balloons together in one big bunch, how many balloons do they have now?
-Look at the picture! {mother_name} is holding a big bag with 20 sweets and {grandmother_name} has a small basket with 5 sweets. They are putting their sweets together in a big bowl. How many sweets are in the bowl now?
-Look at the picture! {sibling_name} is holding 1 sweet in their hand and someone is giving them 1 more sweet. How many sweets will {sibling_name} have now?
-Look at the picture! {mother_name} is holding 1 balloon, and someone is giving {mother_name} 1 more balloon. How many balloons will {mother_name} have now?
-Look at the picture! {grandfather_name} is standing in front of a bookshelf with 2 books in his hands, and there are 2 more books on the table, and 2 more books on the floor next to him. How many books can {grandfather_name} count altogether?
-Look at the picture! {mother_name} is holding 2 mangoes in a basket, and {sibling_name} has 2 mangoes on the table. If they put all the mangoes together in the basket, how many mangoes do they have now?
-Look at the picture! {father_name} is standing with a big bunch of 20 colourful balloons, and {mother_name} is holding 2 shiny balloons next to him. If they put all their balloons together in one big bunch, how many balloons can you see now?
-Look at the picture! {mother_name} is holding a bag with 6 marbles, {sibling_name} has 10 marbles in a big bowl, and you are playing with 4 marbles on the floor. How many marbles can you count altogether?
-Look at the picture! {grandmother_name} is putting 4 mangoes into a big basket, and {user_name} is adding 16 mangoes from a smaller basket. How many mangoes are in the big basket now?
-Look at the picture! {user_name} is holding a box with 8 pencils and {mother_name} has a jar with 13 pencils on the table. If they pour all the pencils into a big basket, how many pencils are in the basket now?
-Look at the picture! {sibling_name} is holding a sheet with 4 stickers on it, and {grandmother_name} has a big jar with 13 stickers inside. If they pour {sibling_name}'s stickers into {grandmother_name}'s jar, how many stickers are in the jar now?
-Look at the picture! {sibling_name} has a big basket with 13 mangoes and {user_name} has a basket with 18 mangoes. They are putting their baskets together. How many mangoes are in the baskets now?
-Look at the picture! There are two price tags on the table: one says £5 for packet A and the other says £3 for packet B. By how much is packet A more expensive than packet B?
-Look at the picture! {grandfather_name} has a big box with 50 toy cars inside, and {father_name} has a bigger box with 100 toy cars inside. They are putting their boxes together. How many toy cars can you see in the boxes now?
-Look at the picture! {mother_name} is standing next to a big bunch of 19 balloons, {grandfather_name} is holding a string with 7 balloons, and you are sitting on the grass with 5 balloons tied to your chair. How many balloons can you count altogether?
-Look at the picture! {sibling_name} is holding a bag with 5 stickers and {grandmother_name} has 2 stickers in her hand. If they put all the stickers into a big basket together, how many stickers are in the basket now?
-Look at the picture! {grandmother_name} is holding a basket with 1 marble inside and {user_name} has a big jar with 50 marbles on the table. If they pour {grandmother_name}'s marble into {user_name}'s jar, how many marbles can you see in the jar now?
-Look at the picture! {sibling_name} is holding a basket with 2 apples, {father_name} has 1 apple on the table, and you have a big bag with 50 apples. How many apples can you count altogether?
-Look at the picture! {grandfather_name} is sitting under a tree with 5 apples in a basket, {grandmother_name} is standing next to him with 2 apples in her hands, and you are holding a big bag with 50 apples inside. How many apples can you count altogether?
-Look at the picture! {mother_name} is holding a big bucket with 10 shells, and {grandfather_name} has a small basket with 5 shells next to it. If they pour {grandfather_name}'s shells into {mother_name}'s bucket, how many shells are in the bucket now?
-Look at the picture! {mother_name} is carrying a big basket with 20 mangoes, and {user_name} is holding a small basket with 10 mangoes. If they put their baskets together, how many mangoes can you see in total?
-Look at the picture! {mother_name} is holding 2 stickers in her hand and {father_name} has 1 sticker on the table. If they put all the stickers in a basket together, how many stickers are in the basket now?
-Look at the picture! {user_name} is holding 2 apples in a basket, and {mother_name} has 10 apples on the table. If they put all the apples together in the basket, how many apples can you see now?
-Look at the picture! {mother_name} is holding a basket with 4 shells, and {user_name} is holding a bucket with 5 shells. They are putting their shells together in a big box. How many shells are in the box now?
-Look at the picture! {user_name} is standing next to a basket with 12 mangoes, {sibling_name} is holding a bag with 10 mangoes, and you are sitting on the floor with 2 mangoes in front of you. How many mangoes can you count altogether?
-Look at the picture! {grandmother_name} has 18 toy cars in a big box, {grandfather_name} has 7 toy cars lined up on the shelf, and you are playing with 4 toy cars on the floor. How many toy cars can you count altogether?
-Look at the picture! {user_name} is holding a bucket with 4 shells, {sibling_name} has a big basket with 12 shells, and you are standing next to a big pile of 20 shells. How many shells can you count altogether?
-Look at the picture! {grandmother_name} is putting 8 apples into a big basket, {user_name} is holding 5 apples in a small bag, and you are sitting at a table with 2 apples in front of you. How many apples can you count altogether?
-Look at the picture! {sibling_name} has a big bag with 20 stickers in it, and {father_name} has a box on the table with 40 stickers inside. Can you see them putting all the stickers together in a big basket? How many stickers are in the basket now?
-Look at the picture! {grandmother_name} is sitting with 5 books in her basket, {user_name} has 7 books on the shelf, and you are holding 8 books in your arms. How many books can you count altogether?
-Look at the picture! {grandfather_name} is holding a basket with 3 mangoes, {father_name} has a big bowl on the table with 6 mangoes, and you are standing next to a tree with 7 mangoes in your basket. How many mangoes can you count altogether?
-Look at the picture! {grandfather_name} is sitting on a couch with 5 books stacked beside him, {sibling_name} has 16 books in a big basket, and you are holding 14 books in your arms. How many books can you count altogether?
-Look at the picture! {sibling_name} is holding a basket with 5 mangoes, {mother_name} has a big box on the table with 80 mangoes, and you are holding 1 mango in your hand. How many mangoes can you count altogether?
-Look at the picture! {mother_name} has 10 toy cars lined up on the shelf, {user_name} has 8 toy cars in a basket, and you have 5 toy cars on the floor. How many toy cars can you count altogether?
-Look at the picture! {sibling_name} is holding 1 sticker, {grandmother_name} has 6 stickers in her basket, and you have 40 stickers on your table. How many stickers can you count altogether?
-Look at the picture! {grandfather_name} is sitting with 5 books in a basket, and {user_name} is standing next to him with 2 books in their hands. If they put all the books together in the basket, how many books can you count in the basket now?
-Look at the picture! {sibling_name} is holding a big sheet of paper with 8 stickers on it, and {user_name} is adding 1 sticker to the paper. How many stickers can you count on the paper now?
-Look at the picture! {father_name} is holding 2 apples in a basket and {sibling_name} has 5 apples in a big bowl on the table. If they pour {father_name}'s apples into {sibling_name}'s bowl, how many apples are in the bowl now?
-Look at the picture! {grandfather_name} is putting his 10 pencils in a big jar, and {sibling_name} is adding 2 pencils to the jar. How many pencils are in the jar now?
-Look at the picture! {sibling_name} is holding 2 books in their basket, and {grandmother_name} has 5 books on the shelf. If they put all the books together in one big pile, how many books do they have now?
-Look at the picture! {mother_name} is holding a big box with 10 pencils inside, and {user_name} has 5 pencils in a small basket. If they pour the pencils from the basket into the box, how many pencils are in the box now?
-Look at the picture! {sibling_name} is holding a big bag with 50 stickers and {mother_name} has a small box with 20 stickers on the table. They are putting their stickers together in a big basket. How many stickers are in the basket now?
-Look at the picture! {mother_name} is holding a basket with 2 apples and {father_name} is holding 1 apple in his hand. They are putting their apples together in a big bowl. How many apples are in the bowl now?
-Look at the picture! {mother_name} is holding a big box with 10 toy cars inside, and {user_name} is standing next to {mother_name} with 2 toy cars in {user_name}'s hands. If they put all the toy cars together on the floor, how many toy cars can they count now?
-Look at the picture! {father_name} is carrying a big bucket with 50 shells, and {grandmother_name} has a small basket with 10 shells. They are putting their shells together in a big pile. How many shells are in the pile now?
-Look at the picture! {user_name} is standing in front of a big basket with 20 mangoes, {father_name} is sitting on a chair with a small basket of 10 mangoes, and you are holding 2 mangoes in your hands. How many mangoes can you count altogether?
-Look at the picture! {father_name} is standing behind a big bunch of 50 balloons, {sibling_name} is holding a small bag with 10 balloons, and you are clutching 5 balloons in your hands. How many balloons can you count altogether?
-Look at the picture! {father_name} is standing next to a big bucket with 100 shells, and {grandfather_name} is holding a small basket with 16 shells. They are pouring the shells from the basket into the bucket. How many shells are in the bucket now?
-Look at the picture! {mother_name} has an empty bucket with 0 shells, and {father_name} has a big basket with 9 shells. If they pour the shells from {father_name}'s basket into {mother_name}'s bucket, how many shells are in the bucket now?
-Look at the picture! {mother_name} is pouring 8 marbles from a bag onto a table, and {father_name} has 3 marbles in his hand that he is adding to the table. How many marbles can you count on the table now?
-Look at the picture! {grandfather_name} is holding 5 colourful balloons and {mother_name} has 9 balloons tied to a chair. If they put all the balloons together in a big basket, how many balloons do they have now?
-Look at the picture! {sibling_name} is holding a bag with 7 stickers and {mother_name} has 4 stickers in a basket. If they pour {sibling_name}'s stickers into {mother_name}'s basket, how many stickers are in the basket now?
-Look at the picture! {user_name} is holding a basket with 4 shells and {grandmother_name} has a big bucket with 8 shells. They are putting their shells together in a big box. How many shells are in the box now?
-Look at the picture! {sibling_name} has a basket with 6 mangoes and {user_name} is holding 5 mangoes in their hands. If they put all the mangoes together in the basket, how many mangoes can you see now?
-Look at the picture! {user_name} is holding a basket with 8 mangoes and {mother_name} has a basket with 8 mangoes on the table. If they put their baskets together, how many mangoes can you see in the baskets now?
-Look at the picture! {sibling_name} is holding a big bunch of balloons, and there are 7 balloons in it. {grandmother_name} is standing next to {sibling_name} with a basket that has 6 balloons inside. If they put all the balloons together in one big pile, how many balloons do they have now?
-Look at the picture! {user_name} is standing next to a bookshelf with 9 books, and {grandfather_name} is sitting beside a basket with 9 books. They are putting all the books together in a big box. How many books are in the box now?
-Look at the picture! {grandfather_name} is holding a big bunch of 6 colorful balloons, and {sibling_name} has 8 shiny balloons in a basket. If they put all their balloons together in one big pile, how many balloons can you count now?
-Look at the picture! {mother_name} is holding a basket with 8 toy cars inside, and {grandmother_name} has 5 toy cars lined up on the shelf. If they put all the toy cars together in one big box, how many toy cars do they have now?
-Look at the picture! {grandfather_name} is holding a basket with 3 big shells, and {grandmother_name} has a big bowl with 9 shiny shells on the table. If they pour {grandfather_name}'s shells into {grandfather_name} and {grandmother_name}'s bowl, how many shells can you see in the bowl now?
-Look at the picture! {father_name} is carrying a bag with 8 books inside, and {mother_name} has 9 books on a shelf. If they put all the books into one big box, how many books are in the box now?
-Look at the picture! {user_name} is pouring 9 marbles from a bag into a big bowl, and {sibling_name} is adding 6 marbles from a small basket into the same bowl. How many marbles are in the bowl now?
-Look at the picture! {user_name} has a basket with 3 sweets in it, and next to the basket, there are 10 more sweets on the table, and on the floor, there are 12 more sweets spilled out. How many sweets does {user_name} have now?
-Look at the picture! {sibling_name} is sitting on the floor with a big basket. There are 13 marbles in the basket. Next to the basket, {sibling_name} has 4 marbles in {sibling_name}'s hand, and on the table, there are 12 more marbles. How many marbles does {sibling_name} have now?
-Look at the picture! {grandfather_name} is holding a small bag with 3 marbles inside, {grandmother_name} has a big jar on the table with 11 marbles, and you are playing with 8 marbles in a basket. How many marbles can you count altogether?
-Look at the picture! {grandmother_name} has a big box with 12 books inside, and {mother_name} has a small basket with 2 books in it. They are putting their books together on a big shelf. How many books are on the shelf now?
-Look at the picture! {grandfather_name} is holding a big bunch of 6 colorful balloons, and {mother_name} has 8 shiny balloons in a basket. If they put all the balloons together in one big pile, how many balloons can you count now?
-Look at the picture! {mother_name} has a box with 9 toy cars inside, and {father_name} is holding 3 toy cars in his hand. They are putting all the toy cars together on the table. How many toy cars can you see on the table now?
-Look at the picture! {user_name} is holding 5 colourful balloons, {mother_name} has 1 big balloon tied to her chair, and you are standing with 9 balloons in a big basket. How many balloons can you count altogether?
-Look at the picture! {user_name} is holding a basket with 9 apples, and {grandmother_name} has a big bag with 19 apples. They are putting their apples together in a big box. How many apples are in the box now?
-Look at the picture! There is 1 big red apple in a basket and 10 small yellow apples on the table next to it. How many apples are there in total?
-Look at the picture! There is a line with some dots already drawn. Can you see that there are 7 dots in the line? How many more dots are needed to make a line of 10 dots?
-Look at the picture! There are 8 toy cars in one box and 8 toy cars in another box. If you count them together, how many more toy cars are there than the 9 toy cars {mother_name} has in her basket?
-Look at the picture! {sibling_name} is putting 5 pencils in a pencil case, {grandmother_name} has 2 pencils in her basket, and you are holding 1 pencil. How many pencils can you count altogether?
-Look at the picture! You can see 5 men sitting on the left side of the bus, 6 women standing on the right side, and 8 children playing at the back. How many people are there in total on the bus?
-Look at the picture! There are 2 toy cars, 4 toy blocks, and 6 toy balls. How many toys are there altogether?
-Look at the picture! There is a big number 59 written on a sign in the garden. Next to the sign, {grandmother_name} has 11 flowers in a basket. If we add the flowers to the number on the sign, what number will we get?
-Look at the picture! {sibling_name} is pouring 8 marbles out of their bag onto the table, and {user_name} is adding 9 marbles from their pocket. How many marbles are on the table now?
-Look at the picture! {grandmother_name} is standing with 10 balloons tied to her hand, and {user_name} is standing next to her with 10 balloons tied to their hand. They are putting all the balloons together in a big basket. How many balloons are in the basket now?
-Look at the picture! There are 15 colourful blocks in a big basket and 9 more blocks are being added to the basket by {mother_name}. How many blocks are in the basket now?
-Look at the picture! {father_name} is picking up 3 apples from the tree and {mother_name} has 2 apples in her basket. If they put all the apples together in the big basket, how many apples do they have now?
-Look at the picture! {grandmother_name} is holding 2 stickers, {mother_name} has 5 stickers on the table, and {user_name} are showing 2 stickers. How many stickers can {user_name} count altogether?
-Look at the picture! {grandmother_name} is sitting with 4 books in her basket, {sibling_name} is holding 3 books, and {user_name} are reading 1 book. How many books can {user_name} count altogether?
-Look at the picture! {mother_name} is standing next to a big box with 8 books inside, and {father_name} is standing next to an empty box with 0 books inside. If they put their boxes together, how many books can {user_name} see now?
-Look at the picture! {sibling_name} has 0 apples in their basket, {mother_name} has 7 apples in a big bowl on the table, and {user_name} have 0 apples in {user_name}'s bag. How many apples are there altogether?
-Look at the picture! {mother_name} is standing on the beach with a bucket that has 3 shells in it. Next to the bucket, there are 4 more shells that {mother_name} just found. On the ground, {user_name} can see a sign that says "0 more shells" and it's true, there are no more shells to add. How many shells does {mother_name} have now?
-Look at the picture! {sibling_name} is holding 6 colourful balloons, and {grandmother_name} has 9 balloons tied to a chair. If they put all the balloons together in a big basket, how many balloons can {user_name} see in the basket now?
-Look at the picture! {father_name} is standing next to a big basket with 10 mangoes, {sibling_name} is holding 2 mangoes in their hands, and {user_name} are sitting on the floor with 1 mango. How many mangoes can {user_name} count altogether?
-Look at the picture! {mother_name} is holding a basket with 4 apples and {father_name} has an empty basket with 0 apples. If they put their baskets together, how many apples can {user_name} see now?
-Look at the picture! {father_name} is putting 8 apples into a big basket, {sibling_name} has 5 apples in a small bucket, and {user_name} are holding 2 apples in {user_name}'s hands. How many apples can {user_name} count altogether?
-Look at the picture! {user_name} is holding a big sheet of paper with 7 stickers on it, {grandmother_name} has 5 stickers in her basket, and {user_name} have 5 stickers on {user_name}'s desk. How many stickers can {user_name} count altogether?
-Look at the picture! {grandmother_name} is holding a basket with 6 shells and {grandfather_name} has a bucket with 6 shells next to her. If they pour their shells into a big box together, how many shells can {user_name} see in the box now?
-Look at the picture! {grandmother_name} has a big bag with 9 colourful sweets in it, and {user_name} is holding a small basket with 8 sweets in it. If they pour {grandmother_name}'s sweets into {user_name}'s basket, how many sweets can {user_name} count altogether?
-Look at the picture! {mother_name} is holding 2 sweets in her hand and {father_name} has 5 sweets in his basket. If they pour {mother_name}'s sweets into {father_name}'s basket, how many sweets can {user_name} see in the basket now?
-Look at the picture! {mother_name} is standing next to a bookshelf with 6 books on it, {sibling_name} is holding a sign that says 0 books and has an empty basket, and {user_name} are sitting with 14 books in a big pile. How many books can {user_name} count altogether?
-Look at the picture! {grandfather_name} is holding a basket with 8 shells, {mother_name} has a big bowl on the table with 10 shells, and {user_name} are standing next to a big box with 20 shells. How many shells can {user_name} count altogether?
-Look at the picture! {father_name} has a big box with 40 toy cars in it, {mother_name} has a smaller box with 30 toy cars on the shelf, and {user_name} have 20 toy cars lined up on the floor. How many toy cars can {user_name} count altogether?
-Look at the picture! {user_name} is holding a big sheet with 7 stickers on it, {sibling_name} has a sticker book with 0 stickers in it, and {user_name} are showing a sticker collection with 9 stickers. How many stickers can {user_name} count altogether?
-Look at the picture! {father_name} has a big box with 18 books inside, and {user_name} has a small basket with 8 books in it. They are putting their books together on a big shelf. How many books can {user_name} count on the shelf now?
-Look at the picture! {grandfather_name} is collecting 9 shells in his big bucket, {mother_name} has 4 shells in her small bag, and {user_name} are holding 7 shells in {user_name}'s hands. How many shells can {user_name} count altogether?
-Look at the picture! {grandmother_name} is holding 3 balloons, {user_name} has 6 balloons tied to a chair, and {user_name} are standing next to 14 balloons in a big basket. How many balloons can {user_name} count altogether?
-Look at the picture! {father_name} is pouring 13 marbles from a bag onto a table, and {grandmother_name} is adding 9 marbles from her pocket to the table. How many marbles can {user_name} count on the table now?
-Look at the picture! {grandmother_name} is putting 5 mangoes into a big basket, {sibling_name} is holding 2 mangoes in their hands, and {user_name} are sitting next to a plate with 5 mangoes on it. How many mangoes can {user_name} count altogether?
-Look at the picture! {sibling_name} is holding a big bag with 40 marbles, {grandfather_name} has a bowl on the table with 30 marbles, and {user_name} are standing next to a small basket with 7 marbles inside. How many marbles can {user_name} count altogether?
-Look at the picture! {user_name} is pouring 19 marbles out of a bag, {father_name} has 17 marbles in a big jar on the table, and {user_name} are holding 1 marble in {user_name}'s hand. How many marbles can {user_name} count altogether?
-Look at the picture! {grandfather_name} is sitting with a big jar that has 40 stickers inside, {sibling_name} is holding a basket with 60 stickers, and {user_name} are standing next to a box that has 50 stickers in it. How many stickers can {user_name} count altogether?
-Look at the picture! {user_name} is holding 5 colourful balloons, {sibling_name} has 9 balloons tied to a chair, and {user_name} are standing with 7 balloons in a big basket. How many balloons can {user_name} count altogether?
-Look at the picture! {grandmother_name} is holding a sheet with 6 stickers, {sibling_name} has a big jar with 20 stickers on the table, and {user_name} are showing 7 stickers in {user_name}'s hand. How many stickers can {user_name} count altogether?
-Look at the picture! {user_name} is holding a small bag with 2 sweets inside and {grandfather_name} has a big jar with 18 sweets on the table. If they pour {user_name}'s sweets into {grandfather_name}'s jar, how many sweets can {user_name} count in the jar now?
-Look at the picture! {grandfather_name} is standing with a big bunch of 15 balloons, and {user_name} is holding 7 balloons in their hands. If they put all their balloons together in one big basket, how many balloons can {user_name} count in the basket now?
-Look at the picture! {user_name} is holding a big basket with 13 apples, and {grandfather_name} is standing next to a small table with 8 apples on it. If they put all the apples together in the basket, how many apples can {user_name} see now?
-Look at the picture! {mother_name} has a big box with 18 toy cars inside, and {user_name} is holding 4 toy cars in {user_name}'s hands. If they put all the toy cars together in the box, how many toy cars can {user_name} count now?
-Look at the picture! {grandmother_name} has a basket with 6 stickers in it, and {mother_name} is holding a big sheet with 14 stickers on it. If they put their stickers together in the basket, how many stickers can {user_name} see in the basket now?
-Look at the picture! {sibling_name} has a big box with 19 toy cars inside, and {father_name} is holding 4 toy cars in his hand. If they pour all the toy cars into the box together, how many toy cars can {user_name} see in the box now?
-Look at the picture! {father_name} is carrying a big basket with 15 mangoes, and {grandfather_name} is not there, but {grandmother_name} has a small basket with 5 mangoes. They are putting their baskets together on the table. How many mangoes can {user_name} count in the baskets now?
-Look at the picture! {user_name} has a big bag with 70 colourful sweets, and {father_name} is holding a small basket with 18 sweets. If they pour all the sweets into a big bowl together, how many sweets can {user_name} count in the bowl now?
-Look at the picture! {mother_name} is standing in front of a big tree with 15 mangoes in a basket. Then, she picked 2 more mangoes from the tree and added them to the basket. After that, she found 10 more mangoes on the ground and put them in the basket too. How many mangoes can {user_name} count in {mother_name}'s basket now?
-Look at the picture! {mother_name} is holding a basket with 8 apples, and {father_name} has a basket with 8 apples on the table next to her. If they put their baskets together, how many apples can {user_name} see in the baskets now?
-Look at the picture! {father_name} is holding a big bag with 19 shells and {user_name} has 2 shells in a small bucket. If they pour all the shells into a big basket together, how many shells can {user_name} see in the basket now?
-Look at the picture! {user_name} has a big basket with 17 apples, and {father_name} is holding 2 apples in his hands. If they put all the apples together in the basket, how many apples can {user_name} see now?
-Look at the picture! {mother_name} is holding 2 books in her bag, and {user_name}, {user_name}, are holding 1 book in {user_name}'s hand. If {user_name} put them together on the table, how many books can {user_name} see now?
-Look at the picture! {mother_name} is holding a basket with 5 shells, {grandmother_name} has 2 shells in her hand, and {user_name} are showing 1 shell. How many shells can {user_name} count altogether?
-Look at the picture! {sibling_name} is holding 3 colorful balloons and {user_name} has 3 balloons tied to a chair. If they put all the balloons together in a big basket, how many balloons can {user_name} see in the basket now?
-Look at the picture! {sibling_name} is holding 3 colourful balloons and {grandfather_name} has 4 balloons tied to his chair. If they put all their balloons together in one big basket, how many balloons can {user_name} see in the basket now?
-Look at the picture! {mother_name} is holding a basket with 4 shells and {grandfather_name} has 3 shells in his hand. If they put their shells together in the basket, how many shells can {user_name} see now?
-Look at the picture! {father_name} is carrying a basket with 6 mangoes and {mother_name} is holding 2 mangoes in her hands. If they put all the mangoes together in the basket, how many mangoes can {user_name} see now?
-Look at the picture! {sibling_name} is holding a big bunch of 5 colourful balloons, and {grandmother_name} has 3 shiny balloons in a basket. If they put all the balloons together in the basket, how many balloons can {user_name} see now?
-Look at the picture! {mother_name} is carrying a bag with 10 books inside, and {father_name} has 10 books on a shelf. If they put all the books together in one big pile, how many books can {user_name} count now?
-Look at the picture! {grandmother_name} is carrying a big basket with 10 mangoes and {mother_name} has 2 mangoes in a small bowl on the table. If they put all the mangoes together in the basket, how many mangoes can {user_name} see now?
-Look at the picture! {father_name} is holding a big bag with 12 sweets and {mother_name} has a small bowl with 4 sweets on the table. If they pour {father_name}'s sweets into {mother_name}'s bowl, how many sweets can {user_name} count in the bowl now?
-Look at the picture! {father_name} is standing with a big bunch of 20 colourful balloons, and {mother_name} is holding 2 shiny balloons next to him. If they put all their balloons together in one big bunch, how many balloons can {user_name} see now?
-Look at the picture! {mother_name} is holding a bag with 6 marbles, {sibling_name} has 10 marbles in a big bowl, and {user_name} are playing with 4 marbles on the floor. How many marbles can {user_name} count altogether?
-Look at the picture! {grandfather_name} has a big box with 50 toy cars inside, and {father_name} has a bigger box with 100 toy cars inside. They are putting their boxes together. How many toy cars can {user_name} see in the boxes now?
-Look at the picture! {mother_name} is standing next to a big bunch of 19 balloons, {grandfather_name} is holding a string with 7 balloons, and {user_name} are sitting on the grass with 5 balloons tied to {user_name}'s chair. How many balloons can {user_name} count altogether?
-Look at the picture! {grandmother_name} is holding a basket with 1 marble inside and {user_name} has a big jar with 50 marbles on the table. If they pour {grandmother_name}'s marble into {user_name}'s jar, how many marbles can {user_name} see in the jar now?
-Look at the picture! {sibling_name} is holding a basket with 2 apples, {father_name} has 1 apple on the table, and {user_name} have a big bag with 50 apples. How many apples can {user_name} count altogether?
-Look at the picture! {grandfather_name} is sitting under a tree with 5 apples in a basket, {grandmother_name} is standing next to him with 2 apples in her hands, and {user_name} are holding a big bag with 50 apples inside. How many apples can {user_name} count altogether?
-Look at the picture! {mother_name} is carrying a big basket with 20 mangoes, and {user_name} is holding a small basket with 10 mangoes. If they put their baskets together, how many mangoes can {user_name} see in total?
-Look at the picture! {user_name} is holding 2 apples in a basket, and {mother_name} has 10 apples on the table. If they put all the apples together in the basket, how many apples can {user_name} see now?
-Look at the picture! {user_name} is standing next to a basket with 12 mangoes, {sibling_name} is holding a bag with 10 mangoes, and {user_name} are sitting on the floor with 2 mangoes in front of {user_name}. How many mangoes can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 18 toy cars in a big box, {grandfather_name} has 7 toy cars lined up on the shelf, and {user_name} are playing with 4 toy cars on the floor. How many toy cars can {user_name} count altogether?
-Look at the picture! {user_name} is holding a bucket with 4 shells, {sibling_name} has a big basket with 12 shells, and {user_name} are standing next to a big pile of 20 shells. How many shells can {user_name} count altogether?
-Look at the picture! {grandmother_name} is putting 8 apples into a big basket, {user_name} is holding 5 apples in a small bag, and {user_name} are sitting at a table with 2 apples in front of {user_name}. How many apples can {user_name} count altogether?
-Look at the picture! {sibling_name} has a big bag with 20 stickers in it, and {father_name} has a box on the table with 40 stickers inside. Can {user_name} see them putting all the stickers together in a big basket? How many stickers are in the basket now?
-Look at the picture! {grandmother_name} is sitting with 5 books in her basket, {user_name} has 7 books on the shelf, and {user_name} are holding 8 books in {user_name}'s arms. How many books can {user_name} count altogether?
-Look at the picture! {grandfather_name} is holding a basket with 3 mangoes, {father_name} has a big bowl on the table with 6 mangoes, and {user_name} are standing next to a tree with 7 mangoes in {user_name}'s basket. How many mangoes can {user_name} count altogether?
-Look at the picture! {grandfather_name} is sitting on a couch with 5 books stacked beside him, {sibling_name} has 16 books in a big basket, and {user_name} are holding 14 books in {user_name}'s arms. How many books can {user_name} count altogether?
-Look at the picture! {sibling_name} is holding a basket with 5 mangoes, {mother_name} has a big box on the table with 80 mangoes, and {user_name} are holding 1 mango in {user_name}'s hand. How many mangoes can {user_name} count altogether?
-Look at the picture! {mother_name} has 10 toy cars lined up on the shelf, {user_name} has 8 toy cars in a basket, and {user_name} have 5 toy cars on the floor. How many toy cars can {user_name} count altogether?
-Look at the picture! {sibling_name} is holding 1 sticker, {grandmother_name} has 6 stickers in her basket, and {user_name} have 40 stickers on {user_name}'s table. How many stickers can {user_name} count altogether?
-Look at the picture! {grandfather_name} is sitting with 5 books in a basket, and {user_name} is standing next to him with 2 books in their hands. If they put all the books together in the basket, how many books can {user_name} count in the basket now?
-Look at the picture! {sibling_name} is holding a big sheet of paper with 8 stickers on it, and {user_name} is adding 1 sticker to the paper. How many stickers can {user_name} count on the paper now?
-Look at the picture! {user_name} is standing in front of a big basket with 20 mangoes, {father_name} is sitting on a chair with a small basket of 10 mangoes, and {user_name} are holding 2 mangoes in {user_name}'s hands. How many mangoes can {user_name} count altogether?
-Look at the picture! {father_name} is standing behind a big bunch of 50 balloons, {sibling_name} is holding a small bag with 10 balloons, and {user_name} are clutching 5 balloons in {user_name}'s hands. How many balloons can {user_name} count altogether?
-Look at the picture! {mother_name} is pouring 8 marbles from a bag onto a table, and {father_name} has 3 marbles in his hand that he is adding to the table. How many marbles can {user_name} count on the table now?
-Look at the picture! {sibling_name} has a basket with 6 mangoes and {user_name} is holding 5 mangoes in their hands. If they put all the mangoes together in the basket, how many mangoes can {user_name} see now?
-Look at the picture! {user_name} is holding a basket with 8 mangoes and {mother_name} has a basket with 8 mangoes on the table. If they put their baskets together, how many mangoes can {user_name} see in the baskets now?
-Look at the picture! {grandfather_name} is holding a big bunch of 6 colorful balloons, and {sibling_name} has 8 shiny balloons in a basket. If they put all their balloons together in one big pile, how many balloons can {user_name} count now?
-Look at the picture! {grandfather_name} is holding a basket with 3 big shells, and {grandmother_name} has a big bowl with 9 shiny shells on the table. If they pour {grandfather_name}'s shells into {grandfather_name} and {grandmother_name}'s bowl, how many shells can {user_name} see in the bowl now?
-Look at the picture! {grandfather_name} is holding a small bag with 3 marbles inside, {grandmother_name} has a big jar on the table with 11 marbles, and {user_name} are playing with 8 marbles in a basket. How many marbles can {user_name} count altogether?
-Look at the picture! {grandfather_name} is holding a big bunch of 6 colorful balloons, and {mother_name} has 8 shiny balloons in a basket. If they put all the balloons together in one big pile, how many balloons can {user_name} count now?
-Look at the picture! {mother_name} has a box with 9 toy cars inside, and {father_name} is holding 3 toy cars in his hand. They are putting all the toy cars together on the table. How many toy cars can {user_name} see on the table now?
-Look at the picture! {user_name} is holding 5 colourful balloons, {mother_name} has 1 big balloon tied to her chair, and {user_name} are standing with 9 balloons in a big basket. How many balloons can {user_name} count altogether?
-Look at the picture! There is a line with some dots already drawn. Can {user_name} see that there are 7 dots in the line? How many more dots are needed to make a line of 10 dots?
-Look at the picture! There are 8 toy cars in one box and 8 toy cars in another box. If {user_name} count them together, how many more toy cars are there than the 9 toy cars {mother_name} has in her basket?
-Look at the picture! {sibling_name} is putting 5 pencils in a pencil case, {grandmother_name} has 2 pencils in her basket, and {user_name} are holding 1 pencil. How many pencils can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 2 stickers in front of her, {mother_name} has 5 stickers in front of her, and {user_name} has 2 stickers in front of {user_name}. How many stickers can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 4 books in front of her, {sibling_name} has 3 books in front of {sibling_pronoun}, and {user_name} has 1 book in front of {user_name}. How many books can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 7 mangoes in front of her and {grandfather_name} has 2 mangoes in his hands in front of him. How many mangoes are there altogether?
-Look at the picture! {mother_name} has 8 books in front of her, and {father_name} has 0 books in front of him. How many books can {user_name} see altogether?
-Look at the picture! {sibling_name} has 4 marbles in front of {sibling_pronoun} and {grandfather_name} has 5 marbles in front of {sibling_pronoun}. How many marbles are there altogether?
-Look at the picture! {user_name} has 5 books in front of {user_name}, and {grandfather_name} has 5 books in front of him. How many books do they have altogether?
-Look at the picture! {mother_name} has 2 mangoes in front of her and {grandmother_name} has 6 mangoes in front of her. How many mangoes are there altogether?
-Look at the picture! {sibling_name} has 0 apples in front of {sibling_pronoun}, {mother_name} has 7 apples in front of her, and {user_name} have 0 apples in front of {user_name}. How many apples are there altogether?
-Look at the picture! {grandmother_name} has 10 marbles in front of her, and {user_name} has 3 marbles in front of {user_name}. How many marbles are there altogether?
-Look at the picture! {user_name} has 2 colorful balloons in front of {user_name} and {sibling_name} has 8 balloons in front of {sibling_pronoun}. How many balloons are there altogether?
-Look at the picture! {sibling_name} has 6 toy cars in front of {sibling_pronoun}, and {mother_name} has 4 toy cars in front of her. How many toy cars do they have altogether?
-Look at the picture! {grandfather_name} has 10 sweets in front of {sibling_pronoun}, and {sibling_name} has 6 sweets in front of {sibling_pronoun}. How many sweets are there altogether?
-Look at the picture! {mother_name} has 3 shells in front of her, and there are 4 more shells in front of her. How many shells does {mother_name} have altogether?
-Look at the picture! {sibling_name} has 6 colourful balloons in front of {sibling_pronoun}, and {grandmother_name} has 9 balloons in front of her. How many balloons can {user_name} see altogether?
-Look at the picture! {grandfather_name} has 3 books in front of him, and {mother_name} has 8 books in front of her. How many books are there altogether?
-Look at the picture! {grandfather_name} has 9 toy cars in front of him, and {grandmother_name} has 4 toy cars in front of her. How many toy cars do they have altogether?
-Look at the picture! {father_name} has 6 apples in front of him and {grandmother_name} has 7 apples in front of her. How many apples are there altogether?
-Look at the picture! {father_name} has 10 mangoes in front of {sibling_pronoun}, {sibling_name} has 2 mangoes in front of {sibling_pronoun}, and {user_name} has 1 mango in front of {user_name}. How many mangoes can {user_name} count altogether?
-Look at the picture! {user_name} has 2 sweets in front of {user_name} and {sibling_name} has 9 sweets in front of {sibling_pronoun}. How many sweets are there altogether?
-Look at the picture! {user_name} has 3 marbles in front of {user_name}, and {mother_name} has 6 marbles in front of her. How many marbles are there altogether?
-Look at the picture! {mother_name} has 4 apples in front of her and {father_name} has 0 apples in front of him. How many apples can {user_name} see altogether?
-Look at the picture! {father_name} has 8 apples in front of {sibling_pronoun}, {sibling_name} has 5 apples in front of {sibling_pronoun}, and {user_name} has 2 apples in front of {user_name}. How many apples can {user_name} count altogether?
-Look at the picture! {user_name} has 7 stickers in front of {user_name}, {grandmother_name} has 5 stickers in front of her, and {user_name} have 5 stickers in front of {user_name}. How many stickers can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 9 sweets in front of him, and {mother_name} has 4 sweets in front of her. How many sweets are there altogether?
-Look at the picture! {grandmother_name} has 6 shells in front of her and {grandfather_name} has 6 shells in front of him. How many shells can {user_name} see altogether?
-Look at the picture! {grandmother_name} has 9 sweets in front of her, and {user_name} has 8 sweets in front of {user_name}. How many sweets can {user_name} count altogether?
-Look at the picture! {mother_name} has 2 sweets in front of her and {father_name} has 5 sweets in front of him. How many sweets can {user_name} see altogether?
-Look at the picture! {mother_name} has 8 shells in front of her, and {sibling_name} has 10 shells in front of {sibling_pronoun}. How many shells are there altogether?
-Look at the picture! {grandfather_name} has 10 sweets in front of him and {father_name} has 2 sweets in front of him. How many sweets are there altogether?
-Look at the picture! {father_name} has 1 sweets in front of {sibling_pronoun}, and {sibling_name} has 10 sweets in front of {sibling_pronoun}. How many sweets are there altogether?
-Look at the picture! {grandmother_name} has 5 balloons in front of her, and {father_name} has 10 balloons in front of him. How many balloons are there altogether?
-Look at the picture! {mother_name} has 6 books in front of her, {sibling_name} has 0 books in front of {sibling_pronoun}, and {user_name} have 4 books in front of {user_name}. How many books can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 8 shells in front of him, {mother_name} has 10 shells in front of her, and {user_name} has 4 shells in front of {user_name}. How many shells can {user_name} count altogether?
-Look at the picture! {father_name} has 3 toy cars in front of him, {mother_name} has 2 toy cars in front of her, and {user_name} have 9 toy cars in front of {user_name}. How many toy cars can {user_name} count altogether?
-Look at the picture! {user_name} has 7 stickers in front of {user_name}, {sibling_name} has 0 stickers in front of {sibling_pronoun}, and {user_name} has 9 stickers in front of {user_name}. How many stickers can {user_name} count altogether?
-Look at the picture! {father_name} has 2 books in front of him, and {user_name} has 8 books in front of {user_name}. How many books can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 9 shells in front of him, {mother_name} has 4 shells in front of her, and {user_name} has 7 shells in front of {user_name}. How many shells can {user_name} count altogether?
-Look at the picture! {sibling_name} has 4 apples in front of {sibling_pronoun}, then 4 more apples in front of {sibling_pronoun}, and then 4 more apples in front of {sibling_pronoun}. How many apples does {sibling_name} have altogether?
-Look at the picture! {grandfather_name} has 3 groups of 5 books in front of him. How many books does {grandfather_name} have altogether?
-Look at the picture! {user_name} has 4 colorful pencils in front of {user_name} and {mother_name} has 1 pencil in front of her. How many pencils are there altogether?
-Look at the picture! {sibling_name} has 10 apples in front of {sibling_pronoun}, and {user_name} has 7 apples in front of {user_name}. How many apples are there altogether?
-Look at the picture! {mother_name} has 1 stickers in front of her and {grandfather_name} has 1 stickers in front of him. How many stickers are there altogether?
-Look at the picture! {grandmother_name} has 9 shells in front of her, and {father_name} has 7 shells in front of him. How many shells are there altogether?
-Look at the picture! {grandfather_name} has 7 mangoes in front of him, and {father_name} has 2 mangoes in front of him. How many mangoes are there altogether?
-Look at the picture! {mother_name} has 4 shells in front of her, and {sibling_name} has 6 shells in front of {sibling_pronoun}. How many shells are there altogether?
-Look at the picture! {grandmother_name} has 3 balloons in front of her, {user_name} has 6 balloons in front of {user_name}, and {user_name} has 4 balloons in front of {user_name}. How many balloons can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 7 toy cars in front of her and {grandfather_name} has 8 toy cars in front of him. How many toy cars are there altogether?
-Look at the picture! {grandfather_name} has 6 marbles in front of him, and {father_name} has 9 marbles in front of him. How many marbles are there altogether?
-Look at the picture! {father_name} has 10 marbles in front of him, and {grandmother_name} has 9 marbles in front of her. How many marbles can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 5 mangoes in front of her, {sibling_name} has 2 mangoes in front of {sibling_pronoun}, and {user_name} have 5 mangoes in front of {user_name}. How many mangoes can {user_name} count altogether?
-Look at the picture! {sibling_name} has 1 marbles in front of {sibling_pronoun}, {grandfather_name} has 9 marbles in front of {sibling_pronoun}, and {user_name} has 7 marbles in front of {user_name}. How many marbles can {user_name} count altogether?
-Look at the picture! {user_name} has 4 marbles in front of {user_name}, {father_name} has 9 marbles in front of him, and {user_name} has 1 marble in front of {user_name}. How many marbles can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 7 stickers in front of {sibling_pronoun}, {sibling_name} has 4 stickers in front of {sibling_pronoun}, and {user_name} has 8 stickers in front of {user_name}. How many stickers can {user_name} count altogether?
-Look at the picture! {mother_name} has 10 books on a shelf, 5 books on another shelf, and 1 books on another shelf. How many books does {mother_name} have altogether?
-Look at the picture! {user_name} has 5 colourful balloons in front of {user_name}, {sibling_name} has 9 balloons in front of {sibling_pronoun}, and {user_name} has 7 balloons in front of {user_name}. How many balloons can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 6 stickers in front of her, {sibling_name} has 3 stickers in front of {sibling_pronoun}, and {user_name} has 7 stickers in front of {user_name}. How many stickers can {user_name} count altogether?
-Look at the picture! {user_name} has 7 stickers in front of {user_name}, and {grandmother_name} has 6 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {mother_name} has 0 pencils in front of her, then 5 pencils in front of her, and 9 pencils in front of her. How many pencils can {mother_name} count altogether?
-Look at the picture! {user_name} has 3 pencils in front of {user_name}, and {sibling_name} has 3 pencils in front of {sibling_pronoun}. How many pencils are there altogether?
-Look at the picture! {user_name} has 2 sweets in front of {user_name} and {grandfather_name} has 4 sweets in front of him. How many sweets can {user_name} count altogether?
-Look at the picture! {father_name} has 5 books in front of him, and {user_name} has 6 books in front of {user_name}. How many books are there altogether?
-Look at the picture! {mother_name} has 2 colourful balloons in front of her, and {grandmother_name} has 8 balloons in front of her. How many balloons do they have altogether?
-Look at the picture! {sibling_name} has 7 books in front of {sibling_pronoun}, and {user_name} has 2 books in front of {user_name}. How many books are there altogether?
-Look at the picture! {grandfather_name} has 7 balloons in front of him, and {user_name} has 7 balloons in front of {user_name}. How many balloons can {user_name} count altogether?
-Look at the picture! {user_name} has 2 apples in front of {user_name}, and {grandfather_name} has 8 apples in front of him. How many apples can {user_name} see altogether?
-Look at the picture! {user_name} has 5 toy cars in front of {user_name}, and {grandfather_name} has 6 toy cars in front of him. How many toy cars are there altogether?
-Look at the picture! {mother_name} has 6 toy cars in front of her, and {user_name} has 4 toy cars in front of {user_name}. How many toy cars can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 6 pencils in front of {sibling_pronoun}, and {sibling_name} has 10 pencils in front of {sibling_pronoun}. How many pencils are there altogether?
-Look at the picture! {father_name} has 5 apples in front of {sibling_pronoun}, and {sibling_name} has 7 apples in front of {sibling_pronoun}. How many apples are there altogether?
-Look at the picture! {grandmother_name} has 6 stickers in front of her, and {mother_name} has 1 stickers in front of her. How many stickers can {user_name} see altogether?
-Look at the picture! {sibling_name} has 8 toy cars in front of {sibling_pronoun}, and {father_name} has 4 toy cars in front of {sibling_pronoun}. How many toy cars can {user_name} see altogether?
-Look at the picture! {grandmother_name} has 5 mangoes in front of her, and {sibling_name} has 9 mangoes in front of {sibling_pronoun}. How many mangoes are there altogether?
-Look at the picture! {grandmother_name} has 7 stickers in front of her, and {father_name} has 2 stickers in front of him. How many stickers are there altogether?
-Look at the picture! {father_name} has 7 mangoes in front of him, and {grandmother_name} has 5 mangoes in front of her. How many mangoes can {user_name} count altogether?
-Look at the picture! {father_name} has 9 mangoes in front of him, 7 more mangoes in front of him, and 4 more mangoes in front of him. How many mangoes does {father_name} have altogether?
-Look at the picture! {grandmother_name} has 2 apples in front of her, and {father_name} has 9 apples in front of him. How many apples are there altogether?
-Look at the picture! {user_name} has 10 mangoes in front of {user_name} and {sibling_name} has 5 mangoes in front of {sibling_pronoun}. How many mangoes are there altogether?
-Look at the picture! {user_name} has 10 sweets in front of {user_name}, and {father_name} has 6 sweets in front of him. How many sweets can {user_name} count altogether?
-Look at the picture! There are 6 birds sitting in the tree and 5 more birds flying in. How many birds are there altogether?
-Look at the picture! {grandmother_name} has 10 marbles in front of her, and {mother_name} has 4 marbles in front of her. How many marbles are there altogether?
-Look at the picture! {mother_name} has 4 mangoes in front of her, then 2 more mangoes in front of her, then 10 more mangoes in front of her. How many mangoes can {user_name} count altogether?
-Look at the picture! {mother_name} has 8 apples in front of her, and {father_name} has 8 apples in front of him. How many apples can {user_name} see altogether?
-Look at the picture! {grandmother_name} has 5 apples in front of her, then 10 more apples in front of her, then 7 more apples in front of her. How many apples does {grandmother_name} have altogether?
-Look at the picture! {father_name} has 2 shells in front of him and {user_name} has 2 shells in front of {user_name}. How many shells can {user_name} see altogether?
-Look at the picture! {user_name} has 1 apples in front of {user_name}, and {father_name} has 2 apples in front of him. How many apples can {user_name} see altogether?
-Look at the picture! {father_name} has 10 books in front of {sibling_pronoun}, and {sibling_name} has 5 books in front of {sibling_pronoun}. How many books are there altogether?
-Look at the picture! {father_name} has 7 stickers in front of {sibling_pronoun} and {sibling_name} has 4 stickers in front of {sibling_pronoun}. How many stickers are there altogether?
-Look at the picture! {mother_name} has 2 books in front of her, and {user_name} has 1 book in front of {user_name}. How many books can {user_name} see altogether?
-Look at the picture! {mother_name} has 5 shells in front of her, {grandmother_name} has 2 shells in front of her, and {user_name} has 1 shell in front of {user_name}. How many shells can {user_name} count altogether?
-Look at the picture! {sibling_name} has 2 sweets in front of {sibling_pronoun} and {father_name} has 2 sweets in front of {sibling_pronoun}. How many sweets are there altogether?
-Look at the picture! {sibling_name} has 3 colorful balloons in front of {sibling_pronoun} and {user_name} has 3 balloons in front of {user_name}. How many balloons can {user_name} see altogether?
-Look at the picture! {sibling_name} has 3 colourful balloons in front of {sibling_pronoun} and {grandfather_name} has 4 balloons in front of {sibling_pronoun}. How many balloons can {user_name} see altogether?
-Look at the picture! {father_name} has 2 mangoes in front of him, and {mother_name} has 5 mangoes in front of her. How many mangoes are there altogether?
-Look at the picture! {mother_name} has 4 shells in front of her and {grandfather_name} has 3 shells in front of him. How many shells can {user_name} see altogether?
-Look at the picture! {father_name} has 6 mangoes in front of him and {mother_name} has 2 mangoes in front of her. How many mangoes can {user_name} see altogether?
-Look at the picture! {sibling_name} has 5 colourful balloons in front of {sibling_pronoun}, and {grandmother_name} has 3 balloons in front of her. How many balloons can {user_name} see altogether?
-Look at the picture! {sibling_name} has 3 stickers in front of {sibling_pronoun} and {father_name} has 4 stickers in front of {sibling_pronoun}. How many stickers are there altogether?
-Look at the picture! {mother_name} has 10 books in front of her, and {father_name} has 10 books in front of him. How many books can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 10 mangoes in front of her and {mother_name} has 2 mangoes in front of her. How many mangoes can {user_name} see altogether?
-Look at the picture! {grandmother_name} has 5 colourful balloons in front of her, and {sibling_name} has 2 balloons in front of {sibling_pronoun}. How many balloons are there altogether?
-Look at the picture! {mother_name} has 8 colourful balloons in front of her, and {grandmother_name} has 2 balloons in front of her. How many balloons are there altogether?
-Look at the picture! {father_name} has 4 sweets in front of him and {mother_name} has 4 sweets in front of her. How many sweets can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 5 balloons in front of him, and {grandmother_name} has 3 balloons in front of her. How many balloons are there altogether?
-Look at the picture! {mother_name} has 2 sweets in front of her and {grandmother_name} has 5 sweets in front of her. How many sweets are there altogether?
-Look at the picture! {sibling_name} has 1 sweet in front of {sibling_pronoun} and {sibling_name} has 1 more sweet in front of {sibling_pronoun}. How many sweets will {sibling_name} have altogether?
-Look at the picture! {mother_name} has 1 balloon in front of her, and {mother_name} has 1 more balloon in front of her. How many balloons will {mother_name} have altogether?
-Look at the picture! {grandfather_name} has 2 books in front of him, 2 more books in front of him, and 2 more books in front of him. How many books can {grandfather_name} count altogether?
-Look at the picture! {mother_name} has 2 mangoes in front of her, and {sibling_name} has 2 mangoes in front of {sibling_pronoun}. How many mangoes are there altogether?
-Look at the picture! {father_name} has 4 colourful balloons, and {mother_name} has 2 balloons in front of her. How many balloons can {user_name} see altogether?
-Look at the picture! {mother_name} has 6 marbles in front of her, {sibling_name} has 10 marbles in front of {sibling_pronoun}, and {user_name} has 4 marbles in front of {user_name}. How many marbles can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 4 mangoes in front of her, and {user_name} has 2 mangoes in front of {user_name}. How many mangoes are there altogether?
-Look at the picture! {user_name} has 8 pencils in front of {user_name} and {mother_name} has 7 pencils in front of her. How many pencils are there altogether?
-Look at the picture! {sibling_name} has 4 stickers in front of {sibling_pronoun}, and {grandmother_name} has 5 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {sibling_name} has 8 mangoes in front of {sibling_pronoun} and {user_name} has 6 mangoes in front of {user_name}. How many mangoes are there altogether?
-Look at the picture! There are two price tags on the table: one says 5 and the other says 3. How much more is 5 than 3?
-Look at the picture! {grandfather_name} has 3 toy cars in front of him, and {father_name} has 6 toy cars in front of him. How many toy cars can {user_name} see altogether?
-Look at the picture! {mother_name} has 6 balloons in front of her, {grandfather_name} has 7 balloons in front of him, and {user_name} has 5 balloons in front of {user_name}. How many balloons can {user_name} count altogether?
-Look at the picture! {sibling_name} has 5 stickers in front of {sibling_pronoun} and {grandmother_name} has 2 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {grandmother_name} has 1 marble in front of her and {user_name} has 4 marbles in front of {user_name}. How many marbles can {user_name} see altogether?
-Look at the picture! {sibling_name} has 2 apples in front of {sibling_pronoun}, {father_name} has 1 apple in front of {sibling_pronoun}, and {user_name} has 5 apples in front of {user_name}. How many apples can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 5 apples in front of him, {grandmother_name} has 2 apples in front of her, and {user_name} has 2 apples in front of {user_name}. How many apples can {user_name} count altogether?
-Look at the picture! {mother_name} has 10 shells in front of her, and {grandfather_name} has 5 shells in front of him. How many shells are there altogether?
-Look at the picture! {mother_name} has 10 mangoes in front of her, and {user_name} has 10 mangoes in front of {user_name}. How many mangoes can {user_name} see altogether?
-Look at the picture! {mother_name} has 2 stickers in front of her and {father_name} has 1 sticker in front of him. How many stickers are there altogether?
-Look at the picture! {user_name} has 2 apples in front of {user_name}, and {mother_name} has 10 apples in front of her. How many apples can {user_name} see altogether?
-Look at the picture! {mother_name} has 4 shells in front of her, and {user_name} has 5 shells in front of {user_name}. How many shells are there altogether?
-Look at the picture! {user_name} has 3 mangoes in front of {user_name}, {sibling_name} has 10 mangoes in front of {sibling_pronoun}, and {user_name} has 2 mangoes in front of {user_name}. How many mangoes can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 9 toy cars in front of her, {grandfather_name} has 7 toy cars in front of him, and {user_name} has 4 toy cars in front of {user_name}. How many toy cars can {user_name} count altogether?
-Look at the picture! {user_name} has 4 shells in front of {user_name}, {sibling_name} has 4 shells in front of {sibling_pronoun}, and {user_name} has 3 shells in front of {user_name}. How many shells can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 8 apples in front of her, {user_name} has 5 apples in front of {user_name}, and {user_name} has 2 apples in front of {user_name}. How many apples can {user_name} count altogether?
-Look at the picture! {sibling_name} has 8 stickers in front of {sibling_pronoun}, and {father_name} has 7 stickers in front of {sibling_pronoun}. How many stickers are there altogether?
-Look at the picture! {grandmother_name} has 5 books in front of her, {user_name} has 7 books in front of {user_name}, and {user_name} has 8 books in front of {user_name}. How many books can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 3 mangoes in front of him, {father_name} has 6 mangoes in front of him, and {user_name} has 7 mangoes in front of {user_name}. How many mangoes can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 5 books in front of {sibling_pronoun}, {sibling_name} has 5 books in front of {sibling_pronoun}, and {user_name} has 9 books in front of {user_name}. How many books can {user_name} count altogether?
-Look at the picture! {sibling_name} has 5 mangoes in front of {sibling_pronoun}, {mother_name} has 4 mangoes in front of her, and {user_name} has 1 mango in front of {user_name}. How many mangoes can {user_name} count altogether?
-Look at the picture! {mother_name} has 10 toy cars in front of her, {user_name} has 8 toy cars in front of {user_name}, and {user_name} have 5 toy cars in front of {user_name}. How many toy cars can {user_name} count altogether?
-Look at the picture! {sibling_name} has 1 sticker in front of {sibling_pronoun}, {grandmother_name} has 6 stickers in front of her, and {user_name} have 6 stickers in front of {user_name}. How many stickers can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 5 books in front of him, and {user_name} has 2 books in front of {user_name}. How many books can {user_name} count altogether?
-Look at the picture! {sibling_name} has 8 stickers in front of {sibling_pronoun}, and {user_name} has 1 sticker in front of {user_name}. How many stickers can {user_name} count altogether?
-Look at the picture! {father_name} has 2 apples in front of {sibling_pronoun} and {sibling_name} has 5 apples in front of {sibling_pronoun}. How many apples are there altogether?
-Look at the picture! {grandfather_name} has 10 pencils in front of {sibling_pronoun}, and {sibling_name} has 2 pencils in front of {sibling_pronoun}. How many pencils are there altogether?
-Look at the picture! {sibling_name} has 2 books in front of {sibling_pronoun}, and {grandmother_name} has 5 books in front of her. How many books are there altogether?
-Look at the picture! {mother_name} has 10 pencils in front of her, and {user_name} has 5 pencils in front of {user_name}. How many pencils are there altogether?
-Look at the picture! {sibling_name} has 1 stickers in front of {sibling_pronoun} and {mother_name} has 4 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {mother_name} has 2 apples in front of her and {father_name} has 1 apple in front of him. How many apples are there altogether?
-Look at the picture! {mother_name} has 10 toy cars in front of her, and {user_name} has 2 toy cars in front of {user_name}. How many toy cars can they count altogether?
-Look at the picture! {father_name} has 1 shells in front of him, and {grandmother_name} has 10 shells in front of her. How many shells are there altogether?
-Look at the picture! {user_name} has 6 mangoes in front of {user_name}, {father_name} has 10 mangoes in front of him, and {user_name} has 2 mangoes in front of {user_name}. How many mangoes can {user_name} count altogether?
-Look at the picture! {father_name} has 7 balloons in front of {sibling_pronoun}, {sibling_name} has 10 balloons in front of {sibling_pronoun}, and {user_name} has 5 balloons in front of {user_name}. How many balloons can {user_name} count altogether?
-Look at the picture! {father_name} has 5 shells in front of him, and {grandfather_name} has 2 shells in front of him. How many shells are there altogether?
-Look at the picture! {mother_name} has 0 shells in front of her, and {father_name} has 9 shells in front of him. How many shells are in front of her now?
-Look at the picture! {mother_name} has 8 marbles in front of her, and {father_name} has 3 marbles in front of him. How many marbles can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 5 colourful balloons in front of him and {mother_name} has 9 balloons in front of her. How many balloons are there altogether?
-Look at the picture! {sibling_name} has 7 stickers in front of {sibling_pronoun} and {mother_name} has 4 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {user_name} has 4 shells in front of {user_name} and {grandmother_name} has 8 shells in front of her. How many shells are there altogether?
-Look at the picture! {sibling_name} has 6 mangoes in front of {sibling_pronoun} and {user_name} has 5 mangoes in front of {user_name}. How many mangoes can {user_name} see altogether?
-Look at the picture! {user_name} has 8 mangoes in front of {user_name} and {mother_name} has 8 mangoes in front of her. How many mangoes can {user_name} see altogether?
-Look at the picture! {sibling_name} has 7 balloons in front of {sibling_pronoun}, and {grandmother_name} has 6 balloons in front of her. How many balloons are there altogether?
-Look at the picture! {user_name} has 9 books in front of {user_name}, and {grandfather_name} has 9 books in front of him. How many books are there altogether?
-Look at the picture! {grandfather_name} has 6 colorful balloons in front of {sibling_pronoun}, and {sibling_name} has 8 balloons in front of {sibling_pronoun}. How many balloons can {user_name} count altogether?
-Look at the picture! {mother_name} has 8 toy cars in front of her, and {grandmother_name} has 5 toy cars in front of her. How many toy cars are there altogether?
-Look at the picture! {grandfather_name} has 3 shells in front of him, and {grandmother_name} has 9 shells in front of her. How many shells can {user_name} see altogether?
-Look at the picture! {father_name} has 8 books in front of him, and {mother_name} has 9 books in front of her. How many books are there altogether?
-Look at the picture! {user_name} has 9 marbles in front of {user_name}, and {sibling_name} has 6 marbles in front of {sibling_pronoun}. How many marbles are there altogether?
-Look at the picture! {user_name} has 3 sweets in front of {user_name}, 10 more sweets in front of {user_name}, and 4 more sweets in front of {user_name}. How many sweets does {user_name} have altogether?
-Look at the picture! {sibling_name} has 10 marbles in front of {sibling_pronoun}, 4 marbles in {sibling_possessive} hand, and 6 more marbles in front of {sibling_pronoun}. How many marbles does {sibling_name} have altogether?
-Look at the picture! {grandfather_name} has 3 marbles in front of him, {grandmother_name} has 4 marbles in front of her, and {user_name} has 8 marbles in front of {user_name}. How many marbles can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 8 books in front of her, and {mother_name} has 2 books in front of her. How many books are there altogether?
-Look at the picture! {grandfather_name} has 6 colorful balloons in front of him, and {mother_name} has 8 balloons in front of her. How many balloons can {user_name} count altogether?
-Look at the picture! {mother_name} has 9 toy cars in front of her, and {father_name} has 3 toy cars in front of him. How many toy cars can {user_name} see altogether?
-Look at the picture! {user_name} has 5 colourful balloons in front of {user_name}, {mother_name} has 1 balloon in front of her, and {user_name} has 9 balloons in front of {user_name}. How many balloons can {user_name} count altogether?
-Look at the picture! {user_name} has 9 apples in front of {user_name}, and {grandmother_name} has 7 apples in front of her. How many apples are there altogether?
-Look at the picture! There is 1 red apple and 10 yellow apples. How many apples are there in total?
-Look at the picture! There are 7 dots on a line. How many more dots are needed to make a line of 10 dots?
-Look at the picture! {sibling_name} has 8 toy cars in front of {sibling_pronoun} and {grandmother_name} has 8 toy cars in front of her. How many more toy cars are there than the 9 toy cars {mother_name} has?
-Look at the picture! {sibling_name} has 5 pencils in front of {sibling_pronoun}, {grandmother_name} has 2 pencils in front of her, and {user_name} has 1 pencil in front of {user_name}. How many pencils can {user_name} count altogether?
-Look at the picture! There are 5 men, 6 women, and 8 children. How many people are there in total?
-Look at the picture! There is a sign showing 59, and {grandmother_name} has 8 flowers in front of her. If we add the flowers to the number on the sign, what number will we get?
-Look at the picture! {sibling_name} has 8 marbles in front of {sibling_pronoun}, and {user_name} has 9 marbles in front of {user_name}. How many marbles are there altogether?
-Look at the picture! {grandmother_name} has 10 balloons in front of her, and {user_name} has 10 balloons in front of {user_name}. How many balloons are there altogether?
-Look at the picture! There are 3 blocks in front of {user_name} and 9 more blocks in front of {user_name}. How many blocks are there altogether?
-Look at the picture! {father_name} has 3 apples in front of him and {mother_name} has 2 apples in front of her. How many apples are there altogether?
-Look at the picture! {grandmother_name} has 4 marbles in front of her, and {father_name} has 4 marbles in front of him. How many marbles are there altogether?
-Look at the picture! {user_name} has 9 stickers in front of {user_name}, and {grandmother_name} has 2 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {grandmother_name} has 2 crayons in front of her, and {grandfather_name} has 4 crayons in front of him. How many crayons are there altogether?
-Look at the picture! {sibling_name} has 1 sweet in front of {sibling_pronoun}, and {user_name} has 9 sweets in front of {user_name}. How many sweets are there altogether?
-Look at the picture! {user_name} has 7 shells in front of {user_name}, and {sibling_name} has 4 shells in front of {sibling_pronoun}. How many shells are there altogether?
-Look at the picture! {sibling_name} has 1 coin in front of {sibling_pronoun}, and {mother_name} has 3 coins in front of her. How many coins are there altogether?
-Look at the picture! {mother_name} has 3 crayons in front of her, and {father_name} has 4 crayons in front of him. How many crayons are there altogether?
-Look at the picture! {grandmother_name} has 7 blocks in front of her, and {grandfather_name} has 2 blocks in front of him. How many blocks are there altogether?
-Look at the picture! {mother_name} has 5 cookies in front of her, and {user_name} has 1 cookie in front of {user_name}. How many cookies are there altogether?
-Look at the picture! {sibling_name} has 7 coins in front of {sibling_pronoun}, and {grandmother_name} has 2 coins in front of her. How many coins are there altogether?
-Look at the picture! {user_name} has 6 toy cars in front of {user_name}, and {sibling_name} has 4 toy cars in front of {sibling_pronoun}. How many toy cars are there altogether?
-Look at the picture! {grandmother_name} has 5 books in front of her, and {mother_name} has 2 books in front of her. How many books are there altogether?
-Look at the picture! {grandmother_name} has 5 sweets in front of her, and {sibling_name} has 8 sweets in front of {sibling_pronoun}. How many sweets are there altogether?
-Look at the picture! {grandfather_name} has 6 cookies in front of him, and {father_name} has 4 cookies in front of him. How many cookies are there altogether?
-Look at the picture! {user_name} has 3 balloons in front of {user_name}, and {grandmother_name} has 9 balloons in front of her. How many balloons are there altogether?
-Look at the picture! {grandfather_name} has 7 sweets in front of {sibling_pronoun}, and {sibling_name} has 5 sweets in front of {sibling_pronoun}. How many sweets are there altogether?
-Look at the picture! {user_name} has 1 sweet in front of {user_name}, and {mother_name} has 4 sweets in front of her. How many sweets are there altogether?
-Look at the picture! {mother_name} has 5 balls in front of her, and {sibling_name} has 2 balls in front of {sibling_pronoun}. How many balls are there altogether?
-Look at the picture! {sibling_name} has 4 shells in front of {sibling_pronoun}, and {mother_name} has 8 shells in front of her. How many shells are there altogether?
-Look at the picture! {user_name} has 3 flowers in front of {user_name}, and {father_name} has 5 flowers in front of him. How many flowers are there altogether?
-Look at the picture! {grandfather_name} has 9 stickers in front of him, and {user_name} has 5 stickers in front of {user_name}. How many stickers are there altogether?
-Look at the picture! {sibling_name} has 6 crayons in front of {sibling_pronoun}, and {father_name} has 4 crayons in front of {sibling_pronoun}. How many crayons are there altogether?
-Look at the picture! {sibling_name} has 2 stickers in front of {sibling_pronoun}, and {father_name} has 1 sticker in front of {sibling_pronoun}. How many stickers are there altogether?
-Look at the picture! {grandfather_name} has 7 marbles in front of him, and {mother_name} has 2 marbles in front of her. How many marbles are there altogether?
-Look at the picture! {father_name} has 8 flowers in front of him, and {user_name} has 9 flowers in front of {user_name}. How many flowers are there altogether?
-Look at the picture! {sibling_name} has 2 balloons in front of {sibling_pronoun}, and {grandmother_name} has 9 balloons in front of her. How many balloons are there altogether?
-Look at the picture! {user_name} has 2 balloons in front of {user_name}, and {mother_name} has 5 balloons in front of her. How many balloons are there altogether?
-Look at the picture! {grandfather_name} has 1 crayon in front of {sibling_pronoun}, and {sibling_name} has 5 crayons in front of {sibling_pronoun}. How many crayons are there altogether?
-Look at the picture! {sibling_name} has 5 pencils in front of {sibling_pronoun}, and {grandmother_name} has 9 pencils in front of her. How many pencils are there altogether?
-Look at the picture! {grandfather_name} has 3 shells in front of him, and {father_name} has 9 shells in front of him. How many shells are there altogether?
-Look at the picture! {sibling_name} has 1 sweets in front of {sibling_pronoun}, and {user_name} has 9 sweets in front of {user_name}. How many sweets are there altogether?
-Look at the picture! {sibling_name} has 1 coins in front of {sibling_pronoun}, and {mother_name} has 3 coins in front of her. How many coins are there altogether?
-Look at the picture! {mother_name} has 5 cookies in front of her, and {user_name} has 1 cookies in front of {user_name}. How many cookies are there altogether?
-Look at the picture! {user_name} has 1 sweets in front of {user_name}, and {mother_name} has 4 sweets in front of her. How many sweets are there altogether?
-Look at the picture! {sibling_name} has 2 stickers in front of {sibling_pronoun}, and {father_name} has 1 stickers in front of {sibling_pronoun}. How many stickers are there altogether?
-Look at the picture! {grandfather_name} has 1 crayons in front of {sibling_pronoun}, and {sibling_name} has 5 crayons in front of {sibling_pronoun}. How many crayons are there altogether?
-Look at the picture! {grandmother_name} is holding 2 stickers, {mother_name} has 5 stickers in front of her, and {user_name} are showing 2 stickers. How many stickers can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 4 books in front of her, {sibling_name} is holding 3 books, and {user_name} are reading 1 book. How many books can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 7 mangoes in front of her and {grandfather_name} is holding 2 mangoes in his hands. How many mangoes are there altogether?
-Look at the picture! {sibling_name} has 4 marbles in front of him and {grandfather_name} has 5 marbles in front of him. How many marbles are there altogether?
-Look at the picture! {sibling_name} has 0 apples in front of him, {mother_name} has 7 apples in front of her, and {user_name} have 0 apples in front of {user_name}. How many apples are there altogether?
-Look at the picture! {user_name} is holding 2 colorful balloons and {sibling_name} has 8 balloons in front of him. How many balloons are there altogether?
-Look at the picture! {sibling_name} has 6 toy cars in front of him, and {mother_name} has 4 toy cars in front of her. How many toy cars do they have altogether?
-Look at the picture! {grandfather_name} has 10 sweets in front of him, and {sibling_name} has 6 sweets in front of him. How many sweets are there altogether?
-Look at the picture! {sibling_name} is holding 6 colourful balloons, and {grandmother_name} has 9 balloons in front of her. How many balloons can {user_name} see altogether?
-Look at the picture! {father_name} has 10 mangoes in front of him, {sibling_name} is holding 2 mangoes, and {user_name} are sitting with 1 mango. How many mangoes can {user_name} count altogether?
-Look at the picture! {user_name} has 2 sweets in front of {user_name} and {sibling_name} has 9 sweets in front of him. How many sweets are there altogether?
-Look at the picture! {father_name} has 8 apples in front of him, {sibling_name} has 5 apples in front of him, and {user_name} are holding 2 apples. How many apples can {user_name} count altogether?
-Look at the picture! {mother_name} is holding 2 sweets and {father_name} has 5 sweets in front of him. How many sweets can {user_name} see altogether?
-Look at the picture! {mother_name} has 8 shells in front of her, and {sibling_name} has 10 shells in front of him. How many shells are there altogether?
-Look at the picture! {grandfather_name} has 10 sweets in front of him and {father_name} has 40 sweets in front of him. How many sweets are there altogether?
-Look at the picture! {father_name} has 50 sweets in front of him, and {sibling_name} has 10 sweets in front of him. How many sweets are there altogether?
-Look at the picture! {grandmother_name} has 40 balloons in front of her, and {father_name} is holding 10 balloons. How many balloons are there altogether?
-Look at the picture! {mother_name} has 6 books in front of her, {sibling_name} has 0 books in front of him, and {user_name} have 14 books in front of {user_name}. How many books can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 8 shells in front of him, {mother_name} has 10 shells in front of her, and {user_name} has 20 shells in front of {user_name}. How many shells can {user_name} count altogether?
-Look at the picture! {father_name} has 40 toy cars in front of him, {mother_name} has 30 toy cars in front of her, and {user_name} have 20 toy cars in front of {user_name}. How many toy cars can {user_name} count altogether?
-Look at the picture! {user_name} has 7 stickers in front of {user_name}, {sibling_name} has 0 stickers in front of him, and {user_name} are showing 9 stickers. How many stickers can {user_name} count altogether?
-Look at the picture! {father_name} has 18 books in front of him, and {user_name} has 8 books in front of {user_name}. How many books can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 9 shells in front of him, {mother_name} has 4 shells in front of her, and {user_name} are holding 7 shells. How many shells can {user_name} count altogether?
-Look at the picture! {sibling_name} has 4 apples in front of him, then 4 more apples in front of him, and then 4 more apples in front of him. How many apples does {sibling_name} have altogether?
-Look at the picture! {grandfather_name} has 3 baskets in front of him. The first basket has 5 books, the second basket has 5 books, and the third basket has 5 books. How many books does {grandfather_name} have altogether?
-Look at the picture! {user_name} is holding 4 colorful pencils and {mother_name} has 1 pencil in front of her. How many pencils are there altogether?
-Look at the picture! {sibling_name} has 13 apples in front of him, and {user_name} has 18 apples in front of {user_name}. How many apples are there altogether?
-Look at the picture! {mother_name} has 16 stickers in front of her and {grandfather_name} has 20 stickers in front of him. How many stickers are there altogether?
-Look at the picture! {grandfather_name} has 7 mangoes in front of him, and {father_name} has 30 mangoes in front of him. How many mangoes are there altogether?
-Look at the picture! {mother_name} has 40 shells in front of her, and {sibling_name} has 6 shells in front of him. How many shells are there altogether?
-Look at the picture! {grandmother_name} is holding 3 balloons, {user_name} has 6 balloons in front of {user_name}, and {user_name} has 14 balloons in front of {user_name}. How many balloons can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 6 marbles in front of him, and {father_name} has 14 marbles in front of him. How many marbles are there altogether?
-Look at the picture! {father_name} has 13 marbles in front of him, and {grandmother_name} has 9 marbles in front of her. How many marbles can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 5 mangoes in front of her, {sibling_name} is holding 2 mangoes, and {user_name} have 5 mangoes in front of {user_name}. How many mangoes can {user_name} count altogether?
-Look at the picture! {sibling_name} has 40 marbles in front of him, {grandfather_name} has 30 marbles in front of him, and {user_name} has 7 marbles in front of {user_name}. How many marbles can {user_name} count altogether?
-Look at the picture! {user_name} has 19 marbles in front of {user_name}, {father_name} has 17 marbles in front of him, and {user_name} are holding 1 marble. How many marbles can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 40 stickers in front of him, {sibling_name} has 60 stickers in front of him, and {user_name} has 50 stickers in front of {user_name}. How many stickers can {user_name} count altogether?
-Look at the picture! {mother_name} has 20 books on a shelf, 80 books on another shelf, and 30 books on another shelf. How many books does {mother_name} have altogether?
-Look at the picture! {user_name} is holding 5 colourful balloons, {sibling_name} has 9 balloons in front of him, and {user_name} has 7 balloons in front of {user_name}. How many balloons can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 6 stickers in front of her, {sibling_name} has 20 stickers in front of him, and {user_name} are showing 7 stickers. How many stickers can {user_name} count altogether?
-Look at the picture! {user_name} has 30 stickers in front of {user_name}, and {grandmother_name} has 60 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {mother_name} has 0 pencils in front of her, then 70 pencils in front of her, and 9 pencils in front of her. How many pencils can {mother_name} count altogether?
-Look at the picture! {user_name} has 16 pencils in front of {user_name}, and {sibling_name} has 3 pencils in front of him. How many pencils are there altogether?
-Look at the picture! {user_name} has 2 sweets in front of {user_name} and {grandfather_name} has 18 sweets in front of him. How many sweets can {user_name} count altogether?
-Look at the picture! {father_name} has 5 books in front of him, and {user_name} has 14 books in front of {user_name}. How many books are there altogether?
-Look at the picture! {mother_name} is holding 11 colourful balloons, and {grandmother_name} has 8 balloons in front of her. How many balloons do they have altogether?
-Look at the picture! {sibling_name} has 7 books in front of him, and {user_name} has 13 books in front of {user_name}. How many books are there altogether?
-Look at the picture! {grandfather_name} is holding 15 balloons, and {user_name} is holding 7 balloons. How many balloons can {user_name} count altogether?
-Look at the picture! {user_name} has 13 apples in front of {user_name}, and {grandfather_name} has 8 apples in front of him. How many apples can {user_name} see altogether?
-Look at the picture! {user_name} has 5 toy cars in front of {user_name}, and {grandfather_name} has 16 toy cars in front of him. How many toy cars are there altogether?
-Look at the picture! {mother_name} has 18 toy cars in front of her, and {user_name} is holding 4 toy cars. How many toy cars can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 6 pencils in front of him, and {sibling_name} has 19 pencils in front of him. How many pencils are there altogether?
-Look at the picture! {father_name} has 17 apples in front of him, and {sibling_name} has 7 apples in front of him. How many apples are there altogether?
-Look at the picture! {grandmother_name} has 6 stickers in front of her, and {mother_name} has 14 stickers in front of her. How many stickers can {user_name} see altogether?
-Look at the picture! {sibling_name} has 19 toy cars in front of him, and {father_name} is holding 4 toy cars. How many toy cars can {user_name} see altogether?
-Look at the picture! {grandmother_name} has 5 mangoes in front of her, and {sibling_name} has 18 mangoes in front of him. How many mangoes are there altogether?
-Look at the picture! {grandmother_name} has 7 stickers in front of her, and {father_name} has 19 stickers in front of him. How many stickers are there altogether?
-Look at the picture! {father_name} has 15 mangoes in front of him, and {grandmother_name} has 5 mangoes in front of her. How many mangoes can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 20 apples in front of her, and {father_name} has 50 apples in front of him. How many apples are there altogether?
-Look at the picture! {user_name} has 10 mangoes in front of {user_name} and {sibling_name} has 90 mangoes in front of him. How many mangoes are there altogether?
-Look at the picture! {user_name} has 70 sweets in front of {user_name}, and {father_name} has 18 sweets in front of him. How many sweets can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 11 marbles in front of her, and {mother_name} has 4 marbles in front of her. How many marbles are there altogether?
-Look at the picture! {mother_name} has 15 mangoes in front of her, then 2 more mangoes in front of her, then 10 more mangoes in front of her. How many mangoes can {user_name} count altogether?
-Look at the picture! {father_name} has 19 shells in front of him and {user_name} has 2 shells in front of {user_name}. How many shells can {user_name} see altogether?
-Look at the picture! {user_name} has 17 apples in front of {user_name}, and {father_name} is holding 2 apples. How many apples can {user_name} see altogether?
-Look at the picture! {father_name} has 10 books in front of him, and {sibling_name} has 5 books in front of him. How many books are there altogether?
-Look at the picture! {father_name} is holding 7 stickers and {sibling_name} has 4 stickers in front of him. How many stickers are there altogether?
-Look at the picture! {mother_name} has 2 books in front of her, and {user_name} are holding 1 book. How many books can {user_name} see altogether?
-Look at the picture! {mother_name} has 5 shells in front of her, {grandmother_name} has 2 shells in front of her, and {user_name} are showing 1 shell. How many shells can {user_name} count altogether?
-Look at the picture! {sibling_name} has 2 sweets in front of him and {father_name} has 2 sweets in front of him. How many sweets are there altogether?
-Look at the picture! {sibling_name} is holding 3 colorful balloons and {user_name} has 3 balloons in front of {user_name}. How many balloons can {user_name} see altogether?
-Look at the picture! {sibling_name} is holding 3 colourful balloons and {grandfather_name} has 4 balloons in front of him. How many balloons can {user_name} see altogether?
-Look at the picture! {father_name} has 6 mangoes in front of him and {mother_name} is holding 2 mangoes. How many mangoes can {user_name} see altogether?
-Look at the picture! {sibling_name} is holding 5 colourful balloons, and {grandmother_name} has 3 balloons in front of her. How many balloons can {user_name} see altogether?
-Look at the picture! {sibling_name} is holding 3 stickers and {father_name} has 4 stickers in front of him. How many stickers are there altogether?
-Look at the picture! {grandmother_name} is holding 5 colourful balloons, and {sibling_name} has 2 balloons in front of him. How many balloons are there altogether?
-Look at the picture! {mother_name} is holding 8 colourful balloons, and {grandmother_name} is holding 2 balloons. How many balloons are there altogether?
-Look at the picture! {father_name} has 12 sweets in front of him and {mother_name} has 4 sweets in front of her. How many sweets can {user_name} count altogether?
-Look at the picture! {grandfather_name} is holding 15 balloons, and {grandmother_name} has 3 balloons in front of her. How many balloons are there altogether?
-Look at the picture! {mother_name} has 20 sweets in front of her and {grandmother_name} has 5 sweets in front of her. How many sweets are there altogether?
-Look at the picture! {sibling_name} is holding 1 sweet and someone is giving them 1 more sweet. How many sweets will {sibling_name} have altogether?
-Look at the picture! {mother_name} is holding 1 balloon, and someone is giving {mother_name} 1 more balloon. How many balloons will {mother_name} have altogether?
-Look at the picture! {mother_name} has 2 mangoes in front of her, and {sibling_name} has 2 mangoes in front of him. How many mangoes are there altogether?
-Look at the picture! {father_name} has 20 colourful balloons, and {mother_name} is holding 2 balloons. How many balloons can {user_name} see altogether?
-Look at the picture! {mother_name} has 6 marbles in front of her, {sibling_name} has 10 marbles in front of him, and {user_name} has 4 marbles in front of {user_name}. How many marbles can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 4 mangoes in front of her, and {user_name} has 16 mangoes in front of {user_name}. How many mangoes are there altogether?
-Look at the picture! {user_name} has 8 pencils in front of {user_name} and {mother_name} has 13 pencils in front of her. How many pencils are there altogether?
-Look at the picture! {sibling_name} has 4 stickers in front of him, and {grandmother_name} has 13 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {sibling_name} has 13 mangoes in front of him and {user_name} has 18 mangoes in front of {user_name}. How many mangoes are there altogether?
-Look at the picture! {grandfather_name} has 50 toy cars in front of him, and {father_name} has 100 toy cars in front of him. How many toy cars can {user_name} see altogether?
-Look at the picture! {mother_name} has 19 balloons in front of her, {grandfather_name} is holding 7 balloons, and {user_name} has 5 balloons in front of {user_name}. How many balloons can {user_name} count altogether?
-Look at the picture! {sibling_name} has 5 stickers in front of him and {grandmother_name} has 2 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {grandmother_name} has 1 marble in front of her and {user_name} has 50 marbles in front of {user_name}. How many marbles can {user_name} see altogether?
-Look at the picture! {sibling_name} has 2 apples in front of him, {father_name} has 1 apple in front of him, and {user_name} has 50 apples in front of {user_name}. How many apples can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 5 apples in front of him, {grandmother_name} has 2 apples in front of her, and {user_name} has 50 apples in front of {user_name}. How many apples can {user_name} count altogether?
-Look at the picture! {mother_name} has 20 mangoes in front of her, and {user_name} has 10 mangoes in front of {user_name}. How many mangoes can {user_name} see altogether?
-Look at the picture! {mother_name} is holding 2 stickers and {father_name} has 1 sticker in front of him. How many stickers are there altogether?
-Look at the picture! {user_name} has 12 mangoes in front of {user_name}, {sibling_name} has 10 mangoes in front of him, and {user_name} has 2 mangoes in front of {user_name}. How many mangoes can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 18 toy cars in front of her, {grandfather_name} has 7 toy cars in front of him, and {user_name} has 4 toy cars in front of {user_name}. How many toy cars can {user_name} count altogether?
-Look at the picture! {user_name} has 4 shells in front of {user_name}, {sibling_name} has 12 shells in front of him, and {user_name} has 20 shells in front of {user_name}. How many shells can {user_name} count altogether?
-Look at the picture! {sibling_name} has 20 stickers in front of him, and {father_name} has 40 stickers in front of him. How many stickers are there altogether?
-Look at the picture! {grandmother_name} has 5 books in front of her, {user_name} has 7 books in front of {user_name}, and {user_name} are holding 8 books. How many books can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 5 books in front of him, {sibling_name} has 16 books in front of him, and {user_name} are holding 14 books. How many books can {user_name} count altogether?
-Look at the picture! {sibling_name} has 5 mangoes in front of him, {mother_name} has 80 mangoes in front of her, and {user_name} are holding 1 mango. How many mangoes can {user_name} count altogether?
-Look at the picture! {sibling_name} is holding 1 sticker, {grandmother_name} has 6 stickers in front of her, and {user_name} have 40 stickers in front of {user_name}. How many stickers can {user_name} count altogether?
-Look at the picture! {grandfather_name} has 5 books in front of him, and {user_name} is holding 2 books. How many books can {user_name} count altogether?
-Look at the picture! {sibling_name} has 8 stickers in front of him, and {user_name} is adding 1 sticker. How many stickers can {user_name} count altogether?
-Look at the picture! {father_name} has 2 apples in front of him and {sibling_name} has 5 apples in front of him. How many apples are there altogether?
-Look at the picture! {grandfather_name} has 10 pencils in front of him, and {sibling_name} is adding 2 pencils. How many pencils are there altogether?
-Look at the picture! {sibling_name} is holding 2 books, and {grandmother_name} has 5 books in front of her. How many books are there altogether?
-Look at the picture! {sibling_name} has 50 stickers in front of him and {mother_name} has 20 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {mother_name} has 2 apples in front of her and {father_name} is holding 1 apple. How many apples are there altogether?
-Look at the picture! {mother_name} has 10 toy cars in front of her, and {user_name} is holding 2 toy cars. How many toy cars can they count altogether?
-Look at the picture! {father_name} has 50 shells in front of him, and {grandmother_name} has 10 shells in front of her. How many shells are there altogether?
-Look at the picture! {user_name} has 20 mangoes in front of {user_name}, {father_name} has 10 mangoes in front of him, and {user_name} are holding 2 mangoes. How many mangoes can {user_name} count altogether?
-Look at the picture! {father_name} has 50 balloons in front of him, {sibling_name} has 10 balloons in front of him, and {user_name} are holding 5 balloons. How many balloons can {user_name} count altogether?
-Look at the picture! {father_name} has 100 shells in front of him, and {grandfather_name} has 16 shells in front of him. How many shells are there altogether?
-Look at the picture! {grandfather_name} is holding 5 colourful balloons and {mother_name} has 9 balloons in front of her. How many balloons are there altogether?
-Look at the picture! {sibling_name} has 7 stickers in front of him and {mother_name} has 4 stickers in front of her. How many stickers are there altogether?
-Look at the picture! {sibling_name} has 6 mangoes in front of him and {user_name} is holding 5 mangoes. How many mangoes can {user_name} see altogether?
-Look at the picture! {sibling_name} is holding 7 balloons, and {grandmother_name} has 6 balloons in front of her. How many balloons are there altogether?
-Look at the picture! {grandfather_name} is holding 6 colorful balloons, and {sibling_name} has 8 balloons in front of him. How many balloons can {user_name} count altogether?
-Look at the picture! {user_name} has 9 marbles in front of {user_name}, and {sibling_name} has 6 marbles in front of him. How many marbles are there altogether?
-Look at the picture! {user_name} has 3 sweets in front of {user_name}, 10 more sweets in front of {user_name}, and 12 more sweets in front of {user_name}. How many sweets does {user_name} have altogether?
-Look at the picture! {sibling_name} has 13 marbles in front of him, 4 marbles in his hand, and 12 more marbles in front of him. How many marbles does {sibling_name} have altogether?
-Look at the picture! {grandfather_name} has 3 marbles in front of him, {grandmother_name} has 11 marbles in front of her, and {user_name} has 8 marbles in front of {user_name}. How many marbles can {user_name} count altogether?
-Look at the picture! {grandmother_name} has 12 books in front of her, and {mother_name} has 2 books in front of her. How many books are there altogether?
-Look at the picture! {grandfather_name} is holding 6 colorful balloons, and {mother_name} has 8 balloons in front of her. How many balloons can {user_name} count altogether?
-Look at the picture! {mother_name} has 9 toy cars in front of her, and {father_name} is holding 3 toy cars. How many toy cars can {user_name} see altogether?
-Look at the picture! {user_name} is holding 5 colourful balloons, {mother_name} has 1 balloon in front of her, and {user_name} has 9 balloons in front of {user_name}. How many balloons can {user_name} count altogether?
-Look at the picture! {user_name} has 9 apples in front of {user_name}, and {grandmother_name} has 19 apples in front of her. How many apples are there altogether?
-Look at the picture! There are 8 toy cars in one box and 8 toy cars in another box. How many more toy cars are there than the 9 toy cars {mother_name} has?
-Look at the picture! {sibling_name} has 5 pencils in front of him, {grandmother_name} has 2 pencils in front of her, and {user_name} are holding 1 pencil. How many pencils can {user_name} count altogether?
-Look at the picture! There is a sign showing 59, and {grandmother_name} has 11 flowers in front of her. If we add the flowers to the number on the sign, what number will we get?
-Look at the picture! {sibling_name} has 8 marbles in front of him, and {user_name} has 9 marbles in front of {user_name}. How many marbles are there altogether?
-Look at the picture! {grandmother_name} is holding 10 balloons, and {user_name} is holding 10 balloons. How many balloons are there altogether?
-Look at the picture! There are 15 blocks in front of {user_name} and 9 more blocks in front of {user_name}. How many blocks are there altogether?
+{user_name} and {grandfather_name} are reading storybooks. {user_name} reads 2 storybooks, and {grandfather_name} reads 4 storybooks. How many storybooks did they read in total?
+{user_name} and {grandfather_name} are planting flowers in the garden. {user_name} plants 3 flowers, and {grandfather_name} plants 2 flowers. How many flowers did they plant in total?
+{user_name} and {grandfather_name} are picking apples from a tree. {user_name} picks 4 apples, and {grandfather_name} picks 3 apples. How many apples did they pick in total?
+{user_name} and {grandfather_name} are baking cookies in the kitchen. {user_name} bakes 5 cookies, and {grandfather_name} bakes 3 cookies. How many cookies did they bake in total?
+{user_name} and {grandfather_name} are catching fish at the pond. {user_name} catches 3 fish, and {grandfather_name} catches 3 fish. How many fish did they catch in total?
+{user_name} and {grandfather_name} are painting smooth rocks. {user_name} paints 4 rocks, and {grandfather_name} paints 5 rocks. How many rocks did they paint in total?
+{user_name} and {grandfather_name} are folding paper boats. {user_name} folds 2 paper boats, and {grandfather_name} folds 3 paper boats. How many paper boats did they fold in total?
+{user_name} and {grandfather_name} are feeding birds in the park. {user_name} feeds 6 birds, and {grandfather_name} feeds 2 birds. How many birds did they feed in total?
+{user_name} and {grandfather_name} are pasting stamps into an album. {user_name} pastes 5 stamps, and {grandfather_name} pastes 2 stamps. How many stamps did they paste in total?
+{user_name} and {grandfather_name} are building toy towers. {user_name} builds 3 toy towers, and {grandfather_name} builds 4 toy towers. How many toy towers did they build in total?
+{user_name} and {mother_name} are decorating cupcakes. {user_name} decorates 4 cupcakes, and {mother_name} decorates 2 cupcakes. How many cupcakes did they decorate in total?
+{user_name} and {mother_name} are making sandwiches for a picnic. {user_name} makes 2 sandwiches, and {mother_name} makes 3 sandwiches. How many sandwiches did they make in total?
+{user_name} and {mother_name} are buying colorful balloons. {user_name} buys 5 balloons, and {mother_name} buys 4 balloons. How many balloons did they buy in total?
+{user_name} and {mother_name} are washing plates after dinner. {user_name} washes 3 plates, and {mother_name} washes 5 plates. How many plates did they wash in total?
+{user_name} and {mother_name} are folding clean shirts. {user_name} folds 4 shirts, and {mother_name} folds 3 shirts. How many shirts did they fold in total?
+{user_name} and {mother_name} are picking fresh strawberries. {user_name} picks 6 strawberries, and {mother_name} picks 2 strawberries. How many strawberries did they pick in total?
+{user_name} and {mother_name} are blowing soap bubbles in the yard. {user_name} blows 3 bubbles, and {mother_name} blows 3 bubbles. How many bubbles did they blow in total?
+{user_name} and {mother_name} are wrapping birthday gifts. {user_name} wraps 2 gifts, and {mother_name} wraps 2 gifts. How many gifts did they wrap in total?
+{user_name} and {mother_name} are making bead bracelets. {user_name} makes 5 bracelets, and {mother_name} makes 2 bracelets. How many bracelets did they make in total?
+{user_name} and {mother_name} are pouring glasses of orange juice. {user_name} pours 4 glasses, and {mother_name} pours 5 glasses. How many glasses did they pour in total?
+{user_name} arranges 3 toy cars on a race track, while {father_name} adds 2 more. How many toy cars have they lined up altogether?
+{user_name} prepares 4 pancakes for breakfast, and {father_name} makes 4 more. How many pancakes have they made altogether?
+After their tennis game, {user_name} collects 5 tennis balls, while {father_name} gathers 2 more. How many tennis balls have they collected altogether?
+{user_name} crafts 2 paper kites, and {father_name} makes 2 more. How many kites have they made altogether?
+{user_name} paints 3 wooden birdhouses, while {father_name} decorates 3 more. How many birdhouses have they painted altogether?
+{user_name} sharpens 6 colored pencils, and {father_name} sharpens 3 more. How many pencils have they sharpened altogether?
+During a woodland walk, {user_name} finds 4 pinecones, while {father_name} discovers 2 more. How many pinecones have they found altogether?
+{user_name} assembles 2 toy airplanes, while {father_name} builds 3 more. How many toy airplanes have they built altogether?
+{user_name} prepares 3 ice cream cones, and {father_name} prepares 5 more. How many ice cream cones have they made altogether?
+{user_name} stacks 4 comic books on a table, while {father_name} stacks 3 more. How many comic books have they stacked altogether?
+{user_name} finds 4 seashells on the beach, while {sister_name} discovers 3 more. How many seashells have they collected altogether?
+{user_name} places 2 teddy bears on a playroom rug, while {sister_name} adds 3 more. How many teddy bears have they arranged altogether?
+{user_name} decorates 3 glazed donuts with sprinkles, and {sister_name} decorates 3 more. How many donuts have they decorated altogether?
+{user_name} folds 5 paper stars for decorations, while {sister_name} folds 4 more. How many paper stars have they folded altogether?
+{user_name} creates 2 greeting cards, and {sister_name} makes 2 more. How many greeting cards have they made altogether?
+{user_name} paints 5 small clay pots, while {sister_name} decorates 3 more. How many clay pots have they painted altogether?
+{user_name} ties 4 silk ribbon bows, and {sister_name} ties 2 more. How many ribbon bows have they made altogether?
+{user_name} sorts 6 wax crayons by color, while {sister_name} organizes 3 more. How many crayons have they sorted altogether?
+{user_name} bakes 3 blueberry muffins, and {sister_name} bakes 4 more. How many muffins have they baked altogether?
+{user_name} assembles 5 colorful paper pinwheels, while {sister_name} makes 3 more. How many pinwheels have they made altogether?
+{user_name} assembles 3 toy robots, while {uncle_name} builds 2 more. How many toy robots have they built altogether?
+Beside the campfire, {user_name} roasts 4 marshmallows, and {uncle_name} roasts 3 more. How many marshmallows are they roasting altogether?
+At the campsite, {user_name} positions 3 lanterns around the tent, while {uncle_name} sets up 5 more. How many lanterns have they set up altogether?
+{user_name} fills 2 popsicle molds with fruit juice, and {uncle_name} prepares 2 more. How many popsicles are they making altogether?
+During their orchard visit, {user_name} gathers 5 oranges, while {uncle_name} collects 4 more. How many oranges have they picked in total?
+{user_name} decorates 5 cone-shaped party hats, while {uncle_name} finishes decorating 2 more. How many party hats have they decorated altogether?
+On the grassy field, {user_name} arranges 4 soccer balls, and {uncle_name} lines up 4 more. How many soccer balls have they arranged altogether?
+In the kitchen, {user_name} fills 3 crispy taco shells, while {uncle_name} prepares 3 more. How many tacos have they made altogether?
+Under an oak tree, {user_name} gathers 6 acorns, and {uncle_name} finds 3 more. How many acorns have they collected altogether?
+{user_name} places 2 wooden toy trains on a track, while {uncle_name} adds 4 more. How many toy trains have they arranged altogether?
+In the garden, {user_name} catches 4 butterflies with a net, while {brother_name} catches 2. How many butterflies did they catch altogether?
+{user_name} has 2 swirl lollipops to share, and {brother_name} brings 3 more. How many lollipops do they have altogether?
+{user_name} decorates a drawing board with 5 dinosaur stickers, while {brother_name} decorates another with 3. How many stickers have they used altogether?
+At the library, {user_name} places 3 books onto a reading table, and {brother_name} adds 4 more. How many books have they placed altogether?
+{user_name} drops 6 colorful marbles into a jar, and {brother_name} puts 3 into his own jar. How many marbles have they collected altogether?
+At the park, {user_name} brings 2 frisbees for a game, and {brother_name} brings 2 more. How many frisbees do they have altogether?
+In the vegetable garden, {user_name} harvests 5 carrots, and {brother_name} pulls out 4 more. How many carrots have they harvested altogether?
+During art class, {user_name} selects 4 paintbrushes, and {brother_name} selects 3. How many paintbrushes have they selected altogether?
+{user_name} floats 3 yellow rubber ducks in a water tub, while {brother_name} floats 3 ducks in another tub. How many rubber ducks are floating altogether?
+{user_name} arranges 5 toy dinosaurs on a shelf, and {brother_name} places 3 more on another shelf. How many toy dinosaurs have they arranged altogether?
+{user_name} arranges 3 yellow sunflowers in a vase, while {aunt_name} arranges 2 in another vase. How many sunflowers have they arranged altogether?
+At the bakery, {user_name} prepares 4 pretzels, and {aunt_name} prepares 3 more. How many pretzels have they prepared in total?
+At the fair, {user_name} buys 2 cotton candy cones, and {aunt_name} buys 2 more. How many cotton candy cones have they bought altogether?
+{user_name} collects 5 eggs for the farm basket, while {aunt_name} gathers 3 eggs for another basket. How many eggs have they collected altogether?
+Before knitting, {user_name} sorts 4 balls of wool, and {aunt_name} organizes 2 more. How many balls of wool do they have altogether?
+At a summer picnic, {user_name} arranges 5 watermelon slices on a platter, and {aunt_name} prepares another platter with 4 slices. How many watermelon slices are there altogether?
+In the garden, {user_name} observes 3 ladybugs in a clear viewing jar, and {aunt_name} observes 3 in another jar. How many ladybugs are they observing altogether?
+While preparing gifts, {user_name} decorates 4 paper gift bags, and {aunt_name} ties ribbons on 4 more. How many gift bags have they prepared altogether?
+{user_name} plants 6 small cacti in separate pots, while {aunt_name} prepares 3 more potted cacti. How many cactus pots have they prepared altogether?
+{user_name} makes 3 caramel apples, while {aunt_name} prepares 4 more. How many caramel apples have they made altogether?
+At the art table, {user_name} draws 4 rectangles on a drawing board while {grandmother_name} adds 2 rectangles to her own board. How many rectangles have they drawn altogether?
+During their sewing session, {user_name} stitches 3 buttons onto a fabric hoop, and {grandmother_name} sews 4 buttons onto another hoop. How many buttons have they sewn altogether?
+After their knitting session, {user_name} has completed 2 wool mittens, and {grandmother_name} has knitted 2 more. How many mittens have they made in total?
+In the kitchen, {user_name} arranges 3 cinnamon rolls on a baking tray. {grandmother_name} prepares another tray with 2 rolls. How many cinnamon rolls are there altogether?
+After gathering pears, {user_name} rinses 5 green pears while {grandmother_name} cleans 3 more for their harvest. How many pears have they collected altogether?
+{user_name} sets out 4 painted teacups for tea time, and {grandmother_name} arranges 4 more on the table. How many teacups have they set out altogether?
+In the kitchen, {user_name} fills 5 glass jars with strawberry jam while {grandmother_name} prepares 4 more jars for sealing. How many jam jars do they prepare altogether?
+For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {grandmother_name} hangs 3 along another. How many lanterns have they hung altogether?
+At their craft table, {user_name} decorates 5 paper hand fans, while {grandmother_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
+During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {grandmother_name} gathers 3 into another. How many plums have they collected in total?

@@ -1,0 +1,9 @@
+title: Ordering Toy Animals with Sister
+question_text:
+{user_name} helps {sister_name} arrange the numbers 14, 26, and 37 from smallest to largest. Which number should come last?
+options:
+A) 26
+B) 14
+C) 37
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 3 blank cards from left to right. No printed numbers, letters, extra cards, or other text.

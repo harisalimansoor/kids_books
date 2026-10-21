@@ -1,0 +1,5 @@
+question_text:
+{user_name} brushes their teeth first, then {aunt_name} washes their face. What is the sequence of their morning routine?
+
+image_prompt:
+A bright bathroom scene where {user_name} is at the sink brushing their teeth with a toothbrush, while {aunt_name} is beside them, splashing water on their face. The bathroom is colourful, with a mirror reflecting their actions. The sequence of brushing teeth and washing face is clear.

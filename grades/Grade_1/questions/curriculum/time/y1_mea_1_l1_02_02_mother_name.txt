@@ -1,0 +1,5 @@
+question_text:
+{user_name} has a bag of apples that weighs 5 kg. {mother_name} has a bag of oranges that weighs 3 kg. How much heavier is {user_name}'s bag than {mother_name}'s bag?
+
+image_prompt:
+A kitchen scene with a scale on the counter. {user_name} is placing a bag of apples on the scale showing 5 kg, while {mother_name} is holding a bag of oranges that is next to the scale showing 3 kg. The kitchen is bright and has fruit on the table.

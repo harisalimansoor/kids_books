@@ -1079,7 +1079,7 @@ def build_generation_prompt(
     {question} or the old placeholder, those are filled. Otherwise the
     selected question is added at the end.
     """
-    del character_context, count_context, thematic_context, favourite_colour, child_gender
+    del character_context, thematic_context, favourite_colour, child_gender
     template = _load_prompt_template(grade_id)
     question = (question_text or "").strip()
     grade = (grade_id or "").replace("_", " ").strip()
@@ -1092,6 +1092,32 @@ def build_generation_prompt(
         prompt = f"{prompt.rstrip()}\n\nSELECTED QUESTION:\n{question}\n"
     if child and "{child_name}" in prompt:
         prompt = prompt.replace("{child_name}", child)
+    count_block = (count_context or "").strip()
+    if not count_block and question:
+        try:
+            count_block = build_count_specification(None, question, grade_id=grade_id).strip()
+        except Exception:
+            count_block = ""
+    framing = (
+        "CAMERA FRAMING — ZOOM THE CAMERA OUT:\n"
+        "Pull the camera back. The people must appear about 15–20% smaller than a tight head-and-shoulders shot.\n"
+        "This is a wider camera position, not smaller bodies. Keep natural proportions, the same identities, expressions, clothes, poses, and lighting.\n"
+        "Show more of each person's upper body, both arms, both hands, and the table or floor where the activity happens.\n"
+        "Leave clear space above the hair inside the curved shape. Do not crop heads, hands, or the question's objects.\n"
+        "Faces stay sharp and recognisable. The question's objects stay in front, separate, and easy to count.\n"
+        "Show a modest amount of the real room or setting behind them. Do not fill that space with extra copies of the question's objects.\n"
+    )
+    if count_block:
+        prompt = (
+            "STRICT OBJECT COUNT — this overrides a natural pile, basket, bowl, or background clutter.\n"
+            f"{count_block}\n"
+            "Show only the objects named in the question, in the exact numbers above. "
+            "Do not add extra copies of those objects anywhere in the picture.\n\n"
+            f"{framing}\n"
+            + prompt
+        )
+    else:
+        prompt = f"{framing}\n{prompt}"
     return prompt
 
 
@@ -1278,9 +1304,18 @@ def _build_compact_prompt(
     favourite_colour: str = "",
     max_chars: int = 3500,
 ) -> str:
-    """Send the grade prompt as written. Do not add system rules or cut the text."""
-    del count_context, thematic_context, character_context, child_gender, user_name, favourite_colour, max_chars
+    """Send the grade prompt, with the exact object count kept at the front."""
+    del thematic_context, character_context, child_gender, user_name, favourite_colour, max_chars
     text = (full_prompt or "").strip()
+    extra = (count_context or "").strip()
+    if extra and "EXACT OBJECT COUNT" not in text and "EXACT COUNT" not in text:
+        text = (
+            "STRICT OBJECT COUNT — this overrides a natural pile, basket, bowl, or background clutter.\n"
+            f"{extra}\n"
+            "Show only the objects named in the question, in the exact numbers above. "
+            "Do not add extra copies of those objects anywhere in the picture.\n\n"
+            + text
+        )
     print(f"  [INFO] Prompt sent: {len(text)} chars")
     return text
 

@@ -1,0 +1,9 @@
+title: Playing a Marble Game with Brother
+question_text:
+{user_name} has 8 marbles. {brother_name} rolls 3 marbles into a small game hole. How many marbles remain outside the hole?
+options:
+A) 5
+B) 6
+C) 4
+image_prompt:
+Show {user_name} playing a marble game with {brother_name}. Brother rolls 3 marbles into a visible game hole from a group of 8. Show exactly 5 marbles outside and 3 inside the hole. No extra marbles, text, letters, or numbers.

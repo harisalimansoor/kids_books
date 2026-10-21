@@ -1,0 +1,5 @@
+question_text:
+{user_name} has a chocolate bar. {mother_name} helps {user_name} break it into 4 equal pieces. How many pieces does {user_name} have if they take 1 piece?
+
+image_prompt:
+A kitchen table scene. {user_name} is holding a chocolate bar while {mother_name} is breaking it into 4 equal pieces. The chocolate bar is clearly divided into 4 sections, with 1 piece in {user_name}'s hand and 3 pieces remaining on the table. The background shows a plate and a knife.

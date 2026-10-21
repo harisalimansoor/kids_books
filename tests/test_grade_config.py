@@ -92,19 +92,16 @@ class TestGradeRegistry:
         expected = [
             "PG", "Nursery", "Prep", "KG",
             "Grade_1", "Grade_2", "Grade_3", "Grade_4", "Grade_5",
-            "Grade_6", "Grade_7", "Grade_8", "Grade_9", "Grade_10",
         ]
         assert grade_ids == expected
 
     def test_year_group_menu_lists_every_grade(self):
         options = grade_select_options()
-        assert len(options) == 14
+        assert len(options) == 9
         labels = [opt["label"] for opt in options]
         assert any("Grade 1" in l for l in labels)
         unavailable = [opt for opt in options if not opt["available"]]
-        assert len(unavailable) == 5  # Grade 6, 7, 8, 9, 10
-        for opt in unavailable:
-            assert "content not available yet" in opt["label"]
+        assert unavailable == []
         ready = [opt for opt in options if opt["available"]]
         assert len(ready) == 9  # PG, KG, Nursery, Prep, Grade 1-5
 
@@ -114,15 +111,12 @@ class TestGradeRegistry:
         for grade_id in ("Grade_6", "Grade_7", "Grade_8", "Grade_9", "Grade_10"):
             assert is_grade_available(grade_id) is False
 
-    def test_unavailable_grades_do_not_resolve_grade_1_questions(self):
+    def test_removed_grades_do_not_resolve_grade_1_questions(self):
         grade_1_roots = {p.resolve() for p in get_questions_roots("Grade_1")}
         assert grade_1_roots
         for grade_id in ("Grade_6", "Grade_10"):
-            roots = get_questions_roots(grade_id)
-            resolved = {p.resolve() for p in roots}
-            assert grade_1_roots.isdisjoint(resolved)
-            for root in resolved:
-                assert "Grade_1" not in root.parts
+            with pytest.raises(GradeNotFoundError):
+                get_questions_roots(grade_id)
 
     def test_get_grade_entry_valid(self):
         entry = get_grade_entry("Grade_1")
@@ -211,7 +205,7 @@ class TestPathResolution:
         with pytest.raises(PromptNotFoundError):
             get_prompt_path("Grade_1", "completely_unknown_prompt_xyz")
 
-        with pytest.raises(PromptNotFoundError):
+        with pytest.raises(GradeNotFoundError):
             get_prompt_path("Grade_10", "question_image")
 
 

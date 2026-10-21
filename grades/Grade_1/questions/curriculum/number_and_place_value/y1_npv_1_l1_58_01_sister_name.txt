@@ -1,0 +1,9 @@
+title: Discovering Tens with Sister
+question_text:
+{user_name} helps {sister_name} arrange 45 craft beads into 4 groups of 10 and 5 loose beads. What does the digit 4 represent in 45?
+options:
+A) 4 ones
+B) 4 tens
+C) 5 tens
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 45 craft beads: 4 separate groups of 10 beads each and 5 loose beads. Keep all beads visible and countable. No extra beads, and no text, letters, or numbers.

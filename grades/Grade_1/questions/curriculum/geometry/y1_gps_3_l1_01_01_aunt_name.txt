@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {aunt_name} look at a cube. How many square faces does the cube have?
+
+image_prompt:
+A bright classroom scene. {user_name} is holding a cube and pointing at one of its faces, while {aunt_name} is counting the faces on the cube with a thoughtful expression. The cube is clearly visible, showing all six square faces, and there are no other objects in the scene.

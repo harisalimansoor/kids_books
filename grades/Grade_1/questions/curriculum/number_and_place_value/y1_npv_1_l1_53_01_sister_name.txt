@@ -1,0 +1,9 @@
+title: Arranging Toy Robots with Sister
+question_text:
+{user_name} and {sister_name} arrange 4 groups of 10 toy robots and 2 extra robots. What number do the robots show altogether?
+options:
+A) 24
+B) 42
+C) 40
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 42 toy robots: 4 separate groups of 10 robots each and 2 extra robots. Keep all robots visible and countable. No extra robots, and no text, letters, or numbers.

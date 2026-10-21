@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {sister_name} are looking at a circle drawn on paper. They cut the circle in half. What do they have now?
+
+image_prompt:
+A bright classroom scene where {user_name} is holding one half of a circle cut from paper, while {sister_name} holds the other half. The two halves are equal and clearly visible. The remaining circle outline is on the table.

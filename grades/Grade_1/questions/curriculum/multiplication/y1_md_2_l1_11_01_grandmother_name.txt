@@ -1,0 +1,9 @@
+title: Making Beaded Necklaces with Grandma
+question_text:
+{user_name} helps {grandmother_name} make necklaces. They put 3 beads on each of 2 necklaces. How many beads do they use altogether?
+options:
+A) 5
+B) 6
+C) 4
+image_prompt:
+Show {user_name} and {grandmother_name} making exactly 2 necklaces, each with exactly 3 beads. Show exactly 6 beads in total. No extra beads, necklaces, text, letters, or numbers.

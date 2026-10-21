@@ -53,7 +53,7 @@ from pathlib import Path
 from typing import Any, Dict, List, Optional, Tuple
 
 from fpdf import FPDF
-from PIL import Image, ImageFilter, ImageDraw
+from PIL import Image, ImageFilter, ImageDraw, ImageChops
 import numpy as np
 try:
     from app.utils import safe_text
@@ -106,10 +106,17 @@ _PAGE_H = 297.0
 # Border frame occupies x:[6,204] y:[6,291] (drawn last, on top).
 # Keep real content a few mm inside that so nothing is chopped.
 # ------------------------------------------------------------------
-_PHOTO_X = 36          # sits along right/bottom, leaving top-left clear for question
-_PHOTO_Y = 48          # alongside question on the right, extending down to y=278
-_PHOTO_W = 166         # width inside safe area (reaches x=202)
-_PHOTO_H = 230         # height inside safe area (reaches y=278)
+# Largest picture area on a question page. The picture grows down to just
+# above the page number and across the lower left. A clear pocket in the
+# top-left keeps the question and the three checkboxes readable.
+_PHOTO_X = 11.0
+_PHOTO_Y = 14.0
+_PHOTO_RIGHT = 200.0
+_PHOTO_BOTTOM = 264.0
+_PHOTO_W = _PHOTO_RIGHT - _PHOTO_X
+_PHOTO_H = _PHOTO_BOTTOM - _PHOTO_Y
+_QUESTION_CLEAR_RIGHT = 92.0
+_QUESTION_CLEAR_BOTTOM = 136.0
 _DOODLE_Y_OFFSET = 80  # bottom-left doodle clearance
 
 
@@ -1084,27 +1091,117 @@ def _sticker_file(kind: str) -> str | None:
     return path
 
 
-def _fit_in_image_box(pdf: FPDF, path: str) -> tuple[float, float, float, float]:
-    """Place the scene on the right and return the rectangle it occupies."""
+def _knock_out_paper(image: Image.Image) -> Image.Image:
+    """Turn the plain page around the scene transparent."""
+    rgba = image.convert("RGBA")
+    arr = np.array(rgba)
+    rgb = arr[:, :, :3].astype(np.int16)
+    spread = rgb.max(axis=2) - rgb.min(axis=2)
+    paper = (rgb.min(axis=2) >= 246) & (spread <= 10)
+    arr[:, :, 3] = np.where(paper, 0, arr[:, :, 3])
+    return Image.fromarray(arr)
+
+
+def _question_pocket_mask(img_x: float, img_y: float, img_w: float, img_h: float,
+                          w_px: int, h_px: int) -> Image.Image:
+    """Keep the question column clear and let the picture fill the rest of its box."""
+    mask = Image.new("L", (w_px, h_px), 0)
+    draw = ImageDraw.Draw(mask)
+    img_r = img_x + img_w
+    img_b = img_y + img_h
+
+    def pt(mx: float, my: float) -> tuple[float, float]:
+        mx = min(max(mx, img_x), img_r)
+        my = min(max(my, img_y), img_b)
+        return (
+            (mx - img_x) / img_w * (w_px - 1),
+            (my - img_y) / img_h * (h_px - 1),
+        )
+
+    overlaps = img_x < _QUESTION_CLEAR_RIGHT - 0.5 and img_y < _QUESTION_CLEAR_BOTTOM - 0.5
+    if not overlaps:
+        draw.rectangle((0, 0, w_px - 1, h_px - 1), fill=255)
+        return mask
+
+    # Stay beside the question, then bend left just under the options so the
+    # picture can fill the bottom-left without crossing a face.
+    wall_x = min(_QUESTION_CLEAR_RIGHT, img_r - 8.0)
+    sweep_top = max(img_y + 1.0, _QUESTION_CLEAR_BOTTOM - 16.0)
+    sweep_bottom = min(img_b - 1.0, _QUESTION_CLEAR_BOTTOM + 6.0)
+    curve: list[tuple[float, float]] = []
+    for step in range(18):
+        t = step / 17.0
+        smooth = t * t * (3.0 - 2.0 * t)
+        mx = wall_x + (img_x + 1.2 - wall_x) * smooth
+        my = sweep_top + (sweep_bottom - sweep_top) * smooth
+        curve.append(pt(mx, my))
+
+    draw.polygon(
+        [
+            pt(wall_x, img_y),
+            pt(img_r, img_y),
+            pt(img_r, img_b),
+            pt(img_x, img_b),
+            pt(img_x, sweep_bottom),
+            *reversed(curve),
+        ],
+        fill=255,
+    )
+    blur = max(8, int(round(min(w_px, h_px) / 80)))
+    return mask.filter(ImageFilter.GaussianBlur(radius=blur))
+
+
+def _fit_in_image_box(pdf: FPDF, path: str, temps: list | None = None) -> tuple[float, float, float, float]:
+    """Place the scene so both people sit inside it and the bottom-right is filled.
+
+    The question and checkboxes stay in the top-left. The returned x is the
+    right edge of that column, so the question text does not run into the picture.
+    """
     with Image.open(path) as source:
-        width, height = source.size
+        image = source.convert("RGBA")
+    if image.width < 1 or image.height < 1:
+        return (0.0, 0.0, 0.0, 0.0)
+
+    image = _knock_out_paper(image)
+    bbox = image.getbbox()
+    if bbox:
+        image = image.crop(bbox)
+    width, height = image.size
     if width < 1 or height < 1:
         return (0.0, 0.0, 0.0, 0.0)
-    x0 = TEXT_X + TEXT_W + 8
-    y0 = 36.0
-    max_w = (BORDER_X + BORDER_W) - x0 - 4
-    max_h = PAGE_BADGE_Y - y0 - 8
+
+    # Wide enough to cover the lower left and the lower right, and short
+    # enough that the stacks, shells and hands stay on the page.
     aspect = width / height
-    if max_w / max_h > aspect:
-        draw_h = max_h
-        draw_w = draw_h * aspect
-    else:
-        draw_w = max_w
-        draw_h = draw_w / aspect
-    x = x0 + (max_w - draw_w) / 2
-    y = y0
-    pdf.image(path, x=x, y=y, w=draw_w, h=draw_h)
-    return (x, y, draw_w, draw_h)
+    x = _PHOTO_X
+    draw_w = _PHOTO_W * 0.90
+    draw_h = draw_w / aspect
+    y = _PHOTO_BOTTOM - draw_h + 16.0
+    if y < _PHOTO_Y:
+        y = _PHOTO_Y
+
+    px_per_mm = 12
+    w_px = max(1, int(round(draw_w * px_per_mm)))
+    h_px = max(1, int(round(draw_h * px_per_mm)))
+    resized = image.resize((w_px, h_px), Image.Resampling.LANCZOS)
+    alpha = resized.getchannel("A")
+    pocket = _question_pocket_mask(x, y, draw_w, draw_h, w_px, h_px)
+    resized.putalpha(ImageChops.multiply(alpha, pocket))
+
+    fd, dest = tempfile.mkstemp(suffix=".png")
+    os.close(fd)
+    resized.save(dest, "PNG")
+    if temps is not None:
+        temps.append(dest)
+    pdf.image(dest, x=x, y=y, w=draw_w, h=draw_h)
+    if temps is None:
+        try:
+            os.remove(dest)
+        except OSError:
+            pass
+
+    text_edge = TEXT_X + TEXT_W + 8
+    return (text_edge, y, draw_w, draw_h)
 
 
 def _question_body(question: str) -> str:
@@ -1146,15 +1243,17 @@ def _render_question_page(
 ) -> None:
     """One workbook page. The picture is placed first. Question and options stay to its left."""
     pdf.add_page(orientation="P", format="A4")
-    heading = page_heading(str(question), adult=adult, allow_network=True)
-    title = (page_title or "").strip() or heading["title"]
+    heading = page_heading(
+        str(question), adult=adult, child=student_name, allow_network=False,
+    )
+    title = heading["title"]
     sticker = _sticker_file(heading["sticker"])
 
     image_left = BORDER_X + BORDER_W
     placed = False
     if image_path and os.path.exists(image_path):
         try:
-            image_left = _fit_in_image_box(pdf, image_path)[0]
+            image_left = _fit_in_image_box(pdf, image_path, temps)[0]
             placed = True
         except Exception as exc:
             print(f"[PDF WARN] scene image: {exc}")
@@ -1171,7 +1270,7 @@ def _render_question_page(
             tmp.close()
             card.save(tmp.name, "PNG")
             temps.append(tmp.name)
-            image_left = _fit_in_image_box(pdf, tmp.name)[0]
+            image_left = _fit_in_image_box(pdf, tmp.name, temps)[0]
         except Exception as exc:
             print(f"[PDF MATH CARD WARN] {exc}")
 

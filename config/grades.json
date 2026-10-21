@@ -62,41 +62,6 @@
       "curriculum_name": "Year 5",
       "age_range": "9-10",
       "enabled": true
-    },
-    {
-      "id": "Grade_6",
-      "display_name": "Grade 6",
-      "curriculum_name": null,
-      "age_range": null,
-      "enabled": false
-    },
-    {
-      "id": "Grade_7",
-      "display_name": "Grade 7",
-      "curriculum_name": null,
-      "age_range": null,
-      "enabled": false
-    },
-    {
-      "id": "Grade_8",
-      "display_name": "Grade 8",
-      "curriculum_name": null,
-      "age_range": null,
-      "enabled": false
-    },
-    {
-      "id": "Grade_9",
-      "display_name": "Grade 9",
-      "curriculum_name": null,
-      "age_range": null,
-      "enabled": false
-    },
-    {
-      "id": "Grade_10",
-      "display_name": "Grade 10",
-      "curriculum_name": null,
-      "age_range": null,
-      "enabled": false
     }
   ]
 }

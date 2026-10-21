@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {mother_name} are drawing shapes. {user_name} draws 4 triangles, and {mother_name} draws 1 triangle. How many triangles did they draw together?
+
+image_prompt:
+An art table with paper and crayons. {user_name} is focused on drawing 4 triangles on their paper, while {mother_name} is drawing 1 triangle on a different sheet. Both drawings are clearly visible, showing a total of 5 triangles.

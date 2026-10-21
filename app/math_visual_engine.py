@@ -290,6 +290,11 @@ def infer_structured_question(
         "lego": ("lego brick", "lego bricks", "brick"),
         "toy car": ("toy car", "toy cars", "car"),
         "car": ("toy car", "toy cars", "car"),
+        "box": ("box", "boxes", "brick"),
+        "block": ("block", "blocks", "brick"),
+        "seashell": ("seashell", "seashells", "counter"),
+        "shell": ("seashell", "seashells", "counter"),
+        "mango": ("mango", "mangoes", "apple"),
         "flower": ("flower", "flowers", "flower"),
         "star": ("star", "stars", "star"),
         "coin": ("coin", "coins", "coin"),
@@ -475,6 +480,31 @@ def _owner_label(owner: str) -> str:
     return ""
 
 
+def _stated_groups(question_text: str) -> Optional[tuple[int, int]]:
+    """Read '2 stacks of 5' or '4 bags, each containing 10' as groups times size."""
+    q = (question_text or "").lower()
+    match = re.search(
+        r"\b(\d+)\s+(?:stacks?|groups?|rows?|bags?|piles?|trays?|boxes)\s+of\s+(\d+)\b",
+        q,
+    )
+    if not match:
+        match = re.search(
+            r"\b(\d+)\s+(?:stacks?|groups?|rows?|bags?|piles?|trays?)\b.{0,40}?\b(\d+)\s+(?:each|apiece)\b",
+            q,
+        )
+    if not match:
+        match = re.search(
+            r"\b(\d+)\s+(?:stacks?|groups?|rows?|bags?|piles?|trays?)\b.{0,40}?\b(?:each|apiece)\s+(?:containing\s+)?(\d+)\b",
+            q,
+        )
+    if not match:
+        return None
+    groups, per = int(match.group(1)), int(match.group(2))
+    if groups < 1 or per < 1:
+        return None
+    return groups, per
+
+
 def object_count_plan(question_text: str = "", meta: Optional[Dict[str, Any]] = None) -> Dict[str, Any]:
     """
     Exact objects this question must show.
@@ -506,6 +536,7 @@ def object_count_plan(question_text: str = "", meta: Optional[Dict[str, Any]] = 
         })
 
     people = []
+    group_n, per_group = 0, 0
     for group in groups:
         label = _owner_label(group["owner"])
         if label:
@@ -517,18 +548,47 @@ def object_count_plan(question_text: str = "", meta: Optional[Dict[str, Any]] = 
         plural = groups[0]["plural"]
         operation = "subtraction" if crossed else ("addition" if len(groups) > 1 else "counting")
     else:
+        stated = _stated_groups(question_text)
         sq = infer_structured_question(question_text, meta=meta)
         nums = sq.numbers
-        total = int(nums.start or nums.answer or 0)
-        crossed = int(nums.subtract or 0) if sq.operation == "subtraction" else 0
         plural = sq.object.plural or "objects"
-        operation = sq.operation
-        if sq.operation == "addition" and nums.number1 and nums.number2:
-            people = [
-                {"label": "one person", "count": int(nums.number1)},
-                {"label": "the other person", "count": int(nums.number2)},
-            ]
-            total = int(nums.number1) + int(nums.number2)
+        if stated:
+            group_n, per_group = stated
+            total = group_n * per_group
+            crossed = 0
+            operation = "multiplication"
+            people = []
+        else:
+            group_n, per_group = 0, 0
+            total = int(nums.start or nums.answer or 0)
+            crossed = int(nums.subtract or 0) if sq.operation == "subtraction" else 0
+            operation = sq.operation
+            owned = [int(n) for n in re.findall(r"\b(?:has|have)\s+(\d+)\b", (question_text or "").lower())]
+            if sq.operation == "addition" and nums.number1 and nums.number2:
+                people = [
+                    {"label": "one person", "count": int(nums.number1)},
+                    {"label": "the other person", "count": int(nums.number2)},
+                ]
+                total = int(nums.number1) + int(nums.number2)
+            elif len(owned) >= 2 and sq.operation != "subtraction":
+                people = [
+                    {"label": "one person", "count": owned[0]},
+                    {"label": "the other person", "count": owned[1]},
+                ]
+                total = owned[0] + owned[1]
+                operation = "addition"
+            elif (
+                sq.operation != "subtraction"
+                and re.search(r"\b\d+\s+more\b", (question_text or "").lower())
+            ):
+                stated_nums = [int(n) for n in re.findall(r"\b\d+\b", question_text or "")]
+                if len(stated_nums) >= 2:
+                    people = [
+                        {"label": "one person", "count": stated_nums[0]},
+                        {"label": "the other person", "count": stated_nums[1]},
+                    ]
+                    total = stated_nums[0] + stated_nums[1]
+                    operation = "addition"
 
     return {
         "total": max(0, int(total)),
@@ -536,26 +596,46 @@ def object_count_plan(question_text: str = "", meta: Optional[Dict[str, Any]] = 
         "people": people,
         "crossed": max(0, int(crossed)),
         "operation": operation,
+        "groups": int(group_n) if not groups else 0,
+        "per_group": int(per_group) if not groups else 0,
         "use_board": int(total) > 10,
     }
 
 
 def count_prompt_for_image(question_text: str = "", meta: Optional[Dict[str, Any]] = None) -> str:
-    """Prompt text: exact total, each person's share, and the board when needed."""
+    """Prompt text: the exact number of objects the question states, and nothing extra."""
     plan = object_count_plan(question_text, meta)
     total = plan["total"]
     if total <= 0:
         return ""
     name = plan["plural"]
     people = plan["people"]
-    lines = ["EXACT OBJECT COUNT:"]
-    if len(people) >= 2:
+    lines = [
+        "EXACT OBJECT COUNT — MANDATORY:",
+        f"The question states how many {name} to show. The finished picture must contain that count and no other copies of {name}.",
+        "Count every visible copy, including ones in hands, baskets, bowls, bags, on the table, on the floor, and in the background.",
+        "Do not add a full basket, a heaped bowl, a decorative pile, or extra copies behind the people.",
+        "Do not print digits, words, or the answer in the scene.",
+    ]
+    if plan.get("groups") and plan.get("per_group") and not plan["use_board"]:
+        lines.append(f"- Draw exactly {plan['groups']} separate groups.")
+        lines.append(f"- Each group contains exactly {plan['per_group']} {name}.")
+        lines.append(f"- Total {name} visible in the whole picture: exactly {total}. No more and no fewer.")
+    elif len(people) >= 2 and not plan["use_board"]:
         lines.append(f"- Together there are exactly {total} {name}. That total is only the shares below.")
-        lines.append("- Do not draw a third pile.")
+        lines.append("- Do not draw a third pile or any extra copies.")
         for person in people:
             lines.append(f"- {person['label'].capitalize()} has exactly {person['count']} {name}.")
-    else:
+        lines.append(f"- Total {name} visible anywhere in the picture: exactly {total}.")
+    elif not plan["use_board"]:
         lines.append(f"- Draw exactly {total} {name}. No more and no fewer.")
+        lines.append(f"- A child must be able to point and count them one by one, from 1 through {total}.")
+    if plan["crossed"] and not plan["use_board"]:
+        lines.append(
+            f"- {plan['crossed']} of those {total} are being taken away. "
+            f"They are part of the {total}, not extra objects. "
+            f"The whole picture still shows exactly {total} {name}."
+        )
     if plan["use_board"]:
         lines.append(
             "- There are more than 10, so do not draw this pile in the room. "
@@ -563,12 +643,8 @@ def count_prompt_for_image(question_text: str = "", meta: Optional[Dict[str, Any
             "Keep the desk and the background clear of extra copies."
         )
     else:
-        lines.append("- Show every object in the scene, separate and easy to count. Do not add extras.")
-    if plan["crossed"]:
-        lines.append(
-            f"- {plan['crossed']} of them are taken away. "
-            "The board marks those objects. Do not print the answer."
-        )
+        lines.append("- Every one of those objects must be whole, separate, and easy for a child to count.")
+        lines.append("- None of them may be cut off by the frame or hidden behind a person.")
     return "\n".join(lines)
 
 

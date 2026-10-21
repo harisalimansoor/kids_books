@@ -1,0 +1,9 @@
+title: Comparing Clothespins with Sister
+question_text:
+{user_name} and {sister_name} compare 18 clothespins in one basket and 28 clothespins in another basket. Which basket has fewer clothespins?
+options:
+A) The basket with 28 clothespins
+B) The basket with 18 clothespins
+C) Both baskets have the same number
+image_prompt:
+Show {user_name} and {sister_name} comparing exactly 2 baskets. One basket contains exactly 18 clothespins, and the other contains exactly 28 clothespins. Keep every clothespin visible and countable. No extra baskets or clothespins, and no text, letters, or numbers.

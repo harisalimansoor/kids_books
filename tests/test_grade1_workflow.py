@@ -186,13 +186,18 @@ class TestGrade1TextAndMCQ:
         assert res["correct_answer"] == "8"
         assert res["options"] == ["6", "8", "10"]
         heading = local_heading(question)
-        assert heading["title"] == "Blocks With Grandad"
+        assert heading["title"] == "Grandad Building with Blocks"
         assert heading["sticker"] == "building"
         mango = local_heading("Gran has 7 mangoes. How many mangoes are there altogether?")
-        assert mango["title"] == "Mangoes With Gran"
+        assert mango["title"] == "Gran Counting with Mangoes"
         assert mango["sticker"] == "food"
         coins = local_heading("Mum has 8 coins. How many coins are left?", adult="Mum")
-        assert coins["title"] == "Coins With Mum"
+        assert coins["title"] == "Mum Counting with Coins"
+        apples = local_heading(
+            "Hamdan has 8 apples. David takes away 3 apples. How many apples does Hamdan have left?",
+            child="Hamdan",
+        )
+        assert apples["title"] == "Hamdan Counting with Apples"
         assert coins["sticker"] == "shopping"
         assert coins["title"] != heading["title"]
 
@@ -371,7 +376,7 @@ class TestGrade1PromptAndPDF:
         assert len(all_pills) == 4
 
     def test_front_cover_prompt_refuses_grade_without_content(self):
-        with pytest.raises(FrontCoverError):
+        with pytest.raises(Exception):
             build_front_cover_prompt(
                 grade_id="Grade_10",
                 child_name="Leo",

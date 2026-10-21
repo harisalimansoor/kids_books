@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {aunt_name} are sorting shapes. They find 5 squares. How many squares do they have?
+
+image_prompt:
+A sorting activity on a table. {user_name} is placing 5 squares into a box, while {aunt_name} is counting them. The squares are clearly visible, and the box is labelled 'Squares'.

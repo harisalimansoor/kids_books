@@ -1,0 +1,5 @@
+question_text:
+{user_name} draws a square on a piece of paper. {mother_name} helps {user_name} divide it into 4 equal parts. How many parts does {user_name} have if they take 1 part?
+
+image_prompt:
+An art table scene. {user_name} is drawing a square on a piece of paper while {mother_name} is using a ruler to divide the square into 4 equal parts. The square is clearly marked with lines showing the divisions, and 1 part is highlighted. There are pencils and erasers on the table.

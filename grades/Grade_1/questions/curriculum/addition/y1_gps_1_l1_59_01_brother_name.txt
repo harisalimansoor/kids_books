@@ -1,0 +1,9 @@
+title: Floating Toy Ducks with Brother
+question_text:
+{user_name} floats 3 yellow rubber ducks in a water tub, while {brother_name} floats 3 ducks in another tub. How many rubber ducks are floating altogether?
+options:
+A) 0
+B) 6
+C) 13
+image_prompt:
+Show {user_name} gently placing rubber ducks into a water tub while {brother_name} splashes water beside his own tub. Include EXACTLY 3 yellow rubber ducks in each tub, 6 in total, with no extra ducks.

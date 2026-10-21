@@ -1,0 +1,5 @@
+question_text:
+{user_name} and {brother_name} are making a pyramid with 5 blocks. If they use 3 blocks, how many more blocks do they need to complete the pyramid?
+
+image_prompt:
+An outdoor play area. {user_name} is placing 3 blocks in a pyramid shape on the grass, while {brother_name} is holding 2 more blocks, looking excited to add them. The sun is shining, and there are other toys scattered around.
