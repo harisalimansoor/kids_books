@@ -1,9 +1,0 @@
-title: Making Berry Ice Pops with Dad
-question_text:
-{user_name} helps {father_name} make berry ice pops. They put 2 blueberries in each of 3 ice-pop molds. How many blueberries do they use altogether?
-options:
-A) 5
-B) 6
-C) 9
-image_prompt:
-Show {user_name} and {father_name} preparing exactly 3 clear ice-pop molds. Each mold must contain exactly 2 clearly visible blueberries. Show exactly 6 blueberries in total. No extra blueberries or molds, and no text, letters, or numbers.

@@ -1,9 +1,0 @@
-title: Sharing Hand Bells with Grandmother
-question_text:
-{user_name} and {grandmother_name} distribute 6 hand bells equally among 3 music stands. How many hand bells will be at each stand?
-options:
-A) 2
-B) 4
-C) 3
-image_prompt:
-Show {user_name} and {grandmother_name} distributing exactly 6 hand bells equally among 3 separate music stands, with exactly 2 bells at each stand. No extra bells, props, text, letters, or numbers.

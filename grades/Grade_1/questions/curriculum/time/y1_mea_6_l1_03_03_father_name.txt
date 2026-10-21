@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {father_name} are timing how long it takes to run to the tree. It takes {user_name} 30 seconds and {father_name} 45 seconds. How many seconds did they take altogether?
-
-image_prompt:
-An outdoor scene with a tree in the background. {user_name} is running towards the tree while {father_name} is timing with a stopwatch. The stopwatch shows 45 seconds. The tree is clearly visible, and both children are focused on their activity.

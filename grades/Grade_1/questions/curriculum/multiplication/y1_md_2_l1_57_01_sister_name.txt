@@ -1,9 +1,0 @@
-title: Arranging Toy Horses with Sister
-question_text:
-{user_name} helps {sister_name} arrange toy horses in a play area. They place 3 horses in each of 2 sections. How many toy horses do they place altogether?
-options:
-A) 5
-B) 9
-C) 6
-image_prompt:
-Show {user_name} and {sister_name} arranging exactly 2 separate play sections, each containing exactly 3 toy horses. Show exactly 6 horses in total. No extra horses or sections, and no text, letters, or numbers.

@@ -1,9 +1,0 @@
-title: Sorting Envelopes with Aunt
-question_text:
-{user_name} and {aunt_name} divide 8 blank envelopes equally among 2 mail trays. How many envelopes will be in each tray?
-options:
-A) 2
-B) 3
-C) 4
-image_prompt:
-Show {user_name} and {aunt_name} sorting exactly 8 blank envelopes equally into 2 mail trays, with exactly 4 envelopes in each tray. All envelopes must be completely blank. No extra envelopes, text, letters, or numbers.

@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {uncle_name} are sharing 7 cookies. They want to see if they can share them equally. How many cookies will each person get?
-
-image_prompt:
-A cheerful kitchen scene. {user_name} is holding 7 cookies on a plate while {uncle_name} is looking at the cookies with a curious expression. The cookies are arranged on the table, and the number 7 is written on a sticky note beside them.

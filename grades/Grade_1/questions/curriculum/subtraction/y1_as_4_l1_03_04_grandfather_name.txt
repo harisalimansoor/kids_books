@@ -1,5 +1,0 @@
-question_text:
-{user_name} counts 50 stars in the sky. {grandfather_name} counts 30 more stars. How many stars do they count altogether?
-
-image_prompt:
-A clear night sky scene. {user_name} is pointing up at the sky, counting 50 stars, while {grandfather_name} is looking through binoculars, counting 30 more stars. The stars are twinkling brightly, and a tree silhouette is visible in the foreground.

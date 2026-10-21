@@ -1,9 +1,0 @@
-title: Making Pancake Stacks with Dad
-question_text:
-{user_name} helps {father_name} stack pancakes for breakfast. They put 3 pancakes on each of 2 plates. How many pancakes do they stack altogether?
-options:
-A) 6
-B) 5
-C) 8
-image_prompt:
-Show {user_name} and {father_name} preparing exactly 2 plates. Each plate must have exactly 3 clearly visible pancakes stacked neatly. Show exactly 6 pancakes in total. No extra pancakes, text, letters, or numbers.

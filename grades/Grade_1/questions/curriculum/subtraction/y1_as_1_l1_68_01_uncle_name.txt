@@ -1,9 +1,0 @@
-title: Making a Clay Pot with Uncle
-question_text:
-{user_name} makes 7 small clay pots. {uncle_name} takes 2 pots to decorate a shelf. How many pots remain with {user_name}?
-options:
-A) 4
-B) 6
-C) 5
-image_prompt:
-Show {user_name} making clay pots with {uncle_name}. Uncle takes 2 pots from a group of 7. Show exactly 5 pots with the child and 2 on the shelf. No extra pots, text, letters, or numbers.

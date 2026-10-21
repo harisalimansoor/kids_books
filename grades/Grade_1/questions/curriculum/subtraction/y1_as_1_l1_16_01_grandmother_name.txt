@@ -1,9 +1,0 @@
-title: Baking Cookies with Grandma
-question_text:
-{user_name} bakes 8 cookies with {grandmother_name}. Grandma takes 3 cookies from the tray. How many cookies remain on the tray?
-options:
-A) 6
-B) 5
-C) 4
-image_prompt:
-Show {user_name} baking cookies with {grandmother_name}. Grandma takes 3 cookies from a tray of 8. Show exactly 5 cookies remaining on the tray and 3 with Grandma. No extra cookies, text, letters, or numbers.

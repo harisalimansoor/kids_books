@@ -1,9 +1,0 @@
-title: Playing Mini Golf with Sister
-question_text:
-{user_name} has 7 golf balls. {sister_name} hits 2 balls into a mini-golf hole. How many golf balls remain outside the hole?
-options:
-A) 4
-B) 6
-C) 5
-image_prompt:
-Show {user_name} playing mini golf with {sister_name}. Sister hits 2 balls into a visible golf hole from a group of 7. Show exactly 5 balls outside the hole and 2 inside it. No extra balls, text, letters, or numbers.

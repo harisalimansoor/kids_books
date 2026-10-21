@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {grandfather_name} are counting apples. They have 4 bags, each containing 10 apples. How many apples do they have in total?
-
-image_prompt:
-A vibrant kitchen scene. {user_name} is holding an apple while {grandfather_name} counts 4 bags of apples on the counter. Each bag is filled with 10 apples, and the total of 40 apples is suggested by the arrangement. The kitchen has a fruit bowl and a window with sunlight streaming in.

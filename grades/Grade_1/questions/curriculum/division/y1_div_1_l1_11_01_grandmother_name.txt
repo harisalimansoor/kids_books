@@ -1,9 +1,0 @@
-title: Sharing Toy Dinosaurs with Grandmother
-question_text:
-{user_name} and {grandmother_name} place 6 toy dinosaurs equally into 3 dinosaur caves. How many toy dinosaurs will be in each cave?
-options:
-A) 3
-B) 2
-C) 4
-image_prompt:
-Show {user_name} and {grandmother_name} placing exactly 6 toy dinosaurs equally into 3 separate caves, with exactly 2 dinosaurs in each cave. No extra dinosaurs, props, text, letters, or numbers.

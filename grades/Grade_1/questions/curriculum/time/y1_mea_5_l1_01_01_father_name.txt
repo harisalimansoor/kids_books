@@ -1,5 +1,0 @@
-question_text:
-{user_name} looks at the clock while {father_name} points to the hour hand. What time is it when the hour hand is on 3 and the minute hand is on 12?
-
-image_prompt:
-A bright classroom scene with a large wall clock showing 3:00. {user_name} is standing in front of the clock, looking up at it with curiosity. {father_name} is beside them, pointing at the hour hand which is on the number 3. The minute hand is clearly on the 12. The clock is the only focus in the scene.

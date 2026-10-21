@@ -1,9 +1,0 @@
-title: Playing Ring Toss with Dad
-question_text:
-{user_name} plays a ring-toss game with {father_name}. They place 2 rings around each of 3 pegs. How many rings do they use altogether?
-options:
-A) 9
-B) 4
-C) 6
-image_prompt:
-Show {user_name} and {father_name} playing ring toss with exactly 3 upright pegs. Place exactly 2 rings around each peg. Show exactly 6 rings in total. No extra rings, pegs, text, letters, or numbers.

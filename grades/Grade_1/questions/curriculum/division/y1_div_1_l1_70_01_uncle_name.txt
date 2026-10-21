@@ -1,9 +1,0 @@
-title: Organizing Scuba Flippers with Uncle
-question_text:
-{user_name} and {uncle_name} distribute 6 pairs of scuba flippers equally among 3 beach lockers. How many pairs of flippers will be in each locker?
-options:
-A) 4 pairs
-B) 3 pairs
-C) 2 pairs
-image_prompt:
-Show {user_name} and {uncle_name} placing exactly 6 pairs of scuba flippers equally into 3 separate open beach lockers, with exactly 2 pairs in each locker. No extra flippers, text, letters, or numbers.

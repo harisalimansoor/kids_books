@@ -1,9 +1,0 @@
-title: Baking Pretzels with Aunt
-question_text:
-At the bakery, {user_name} prepares 4 pretzels, and {aunt_name} prepares 3 more. How many pretzels have they prepared in total?
-options:
-A) 7
-B) 1
-C) 14
-image_prompt:
-Show {user_name} shaping pretzel dough beside a baking tray while {aunt_name} arranges baked pretzels on another tray. Include EXACTLY 4 pretzels on the child's tray and 3 on the aunt's tray. Keep all 7 easy to count, with no extra pretzels.

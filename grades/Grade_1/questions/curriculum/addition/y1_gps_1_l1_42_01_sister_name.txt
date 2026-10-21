@@ -1,9 +1,0 @@
-title: Making Greeting Cards with Sister
-question_text:
-{user_name} creates 2 greeting cards, and {sister_name} makes 2 more. How many greeting cards have they made altogether?
-options:
-A) 4
-B) 10
-C) 1
-image_prompt:
-Show {user_name} drawing decorations on greeting cards while {sister_name} folds her finished cards. Include EXACTLY 2 completed greeting cards in the child's group and 2 in the sister's group, with no extra cards.

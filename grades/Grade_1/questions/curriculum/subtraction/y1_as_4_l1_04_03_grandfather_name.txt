@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 12 toy cars. {grandfather_name} gives {user_name} 15 more toy cars. How many toy cars does {user_name} have now?
-
-image_prompt:
-A playroom scene. {user_name} is sitting on the floor surrounded by 12 toy cars, while {grandfather_name} is handing over a box with 15 more toy cars. The toy cars are colourful and scattered around, with a rug and some building blocks in the background.

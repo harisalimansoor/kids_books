@@ -1,9 +1,0 @@
-title: Building Sandcastles with Sister
-question_text:
-{user_name} and {sister_name} build sandcastles at the beach. They put 3 small flags on each of 2 sandcastles. How many flags do they use altogether?
-options:
-A) 6
-B) 4
-C) 8
-image_prompt:
-Show {user_name} and {sister_name} building exactly 2 sandcastles. Each sandcastle must have exactly 3 clearly visible small flags. Show exactly 6 flags in total. No extra sandcastles or flags, and no text, letters, or numbers.

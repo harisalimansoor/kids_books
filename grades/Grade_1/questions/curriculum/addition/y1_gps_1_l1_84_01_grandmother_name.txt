@@ -1,9 +1,0 @@
-title: Making Jam with Grandma
-question_text:
-In the kitchen, {user_name} fills 5 glass jars with strawberry jam while {grandmother_name} prepares 4 more jars for sealing. How many jam jars do they prepare altogether?
-options:
-A) 1
-B) 19
-C) 9
-image_prompt:
-Create a cheerful homemade jam-making scene on a kitchen counter. {user_name} is stirring a small cooking pot of strawberry jam with a wooden spoon, while {grandmother_name} carefully places a lid on one of the filled jars. Arrange EXACTLY 5 glass jars of red strawberry jam in a tidy row on the child's side of the counter and EXACTLY 4 glass jars on Grandma's side. All nine jars must be complete, distinct, upright, and easy to count. The glass should reveal the red jam inside, with simple lids and natural highlights. Keep the activity believable: the pot and spoon support the jam-making process, while the nine visible jars represent the entire counted collection. Do not add spare jars, empty jars, jars inside cupboards, jars behind the characters, or extra containers that could be mistaken for jam jars. Leave clear space between both groups. No text, letters, numbers, labels, or written answers.

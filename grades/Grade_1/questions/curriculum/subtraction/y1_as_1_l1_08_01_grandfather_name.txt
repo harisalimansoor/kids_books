@@ -1,9 +1,0 @@
-title: Parking Toy Cars with Grandpa
-question_text:
-{user_name} has 9 toy cars on the floor. {grandfather_name} puts 4 cars into a toy garage. How many toy cars remain on the floor?
-options:
-A) 6
-B) 5
-C) 4
-image_prompt:
-Show {user_name} playing with toy cars while {grandfather_name} parks 4 cars in a toy garage. Show exactly 5 cars remaining on the floor and 4 inside the garage. No extra cars, text, letters, or numbers.

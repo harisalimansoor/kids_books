@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {brother_name} are sorting a collection of 5 toy cars. They want to know if 5 is odd or even. What do they find out?
-
-image_prompt:
-A playful living room scene. {user_name} is sitting on the floor with 5 colourful toy cars spread out in front of them. {brother_name} is kneeling beside them, pointing at the cars while looking thoughtful. The number 5 is written on a piece of paper nearby.

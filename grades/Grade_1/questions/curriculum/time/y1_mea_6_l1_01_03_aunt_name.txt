@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {aunt_name} start playing a game at 2 o'clock. They finish playing 1 hour later. What time do they finish playing?
-
-image_prompt:
-A bright living room scene. {user_name} and {aunt_name} are sitting on a carpet with a board game spread out in front of them. A clock on the wall shows 2 o'clock. The game pieces are scattered around, and both are focused on the game. The clock is clearly visible, with no other distractions in the background.

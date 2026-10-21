@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 3 apples. {mother_name} gives them 2 more apples. How many apples does {user_name} have now?
-
-image_prompt:
-A bright kitchen scene. {user_name} is holding 3 apples in one hand while {mother_name} hands over 2 more apples with the other hand. There is a table in the background with a bowl of apples, and the total of 5 apples is visible in {user_name}'s hands.

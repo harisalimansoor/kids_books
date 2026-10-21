@@ -1,5 +1,0 @@
-question_text:
-{user_name} is facing {sister_name}. If {user_name} makes a quarter turn to the right, which way will {user_name} be facing?
-
-image_prompt:
-A lively playground scene. {user_name} is standing on a swing, facing {sister_name}, who is on the slide. {user_name} is turning to the right, with one arm raised. The swing is in motion, and there are other children playing in the background.

@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 6 toy cars. {mother_name} buys 2 more toy cars for {user_name}. How many toy cars does {user_name} have now?
-
-image_prompt:
-A lively toy store scene. {user_name} is excitedly counting 6 toy cars on a shelf, while {mother_name} holds 2 more toy cars in their hands. The store is filled with colourful toys and bright decorations.

@@ -1,9 +1,0 @@
-title: Organizing Safety Helmets with Father
-question_text:
-{user_name} and {father_name} distribute 9 safety helmets equally among 3 lockers. How many helmets will be in each locker?
-options:
-A) 4
-B) 2
-C) 3
-image_prompt:
-Show {user_name} and {father_name} placing exactly 9 safety helmets equally into 3 open lockers, with exactly 3 helmets in each locker. No extra helmets, text, letters, or numbers.

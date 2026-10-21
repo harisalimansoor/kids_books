@@ -1,5 +1,0 @@
-question_text:
-{user_name} starts at 60 and counts backwards. {grandfather_name} joins in. Can you both count backwards to 50?
-
-image_prompt:
-A cozy living room scene. {user_name} is sitting on a sofa, looking at a large number chart on the wall that shows numbers from 0 to 100. {grandfather_name} is beside them, counting down from 60 with their fingers. The numbers from 60 to 50 are clearly visible on the chart.

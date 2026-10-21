@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 40 balloons. {father_name} takes away 10 balloons. How many balloons does {user_name} have left?
-
-image_prompt:
-A festive party scene. {user_name} is holding a bunch of 40 colourful balloons, while {father_name} is seen walking away with 10 balloons. The remaining balloons are floating above {user_name}, and a birthday cake is on a table nearby.

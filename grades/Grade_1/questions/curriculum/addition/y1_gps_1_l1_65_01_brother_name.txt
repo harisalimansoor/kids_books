@@ -1,9 +1,0 @@
-title: Art Time with Brother
-question_text:
-During art class, {user_name} selects 4 paintbrushes, and {brother_name} selects 3. How many paintbrushes have they selected altogether?
-options:
-A) 7
-B) 1
-C) 14
-image_prompt:
-Show {user_name} choosing paintbrushes from an art container while {brother_name} arranges his brushes beside a palette. Include EXACTLY 4 paintbrushes in the child's group and 3 in the brother's group, with no extra brushes visible.

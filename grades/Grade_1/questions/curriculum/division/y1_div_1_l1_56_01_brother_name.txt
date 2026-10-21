@@ -1,9 +1,0 @@
-title: Packing Water Bottles with Brother
-question_text:
-{user_name} and {brother_name} pack 8 water bottles equally into 2 sports crates. How many water bottles will be in each crate?
-options:
-A) 3
-B) 4
-C) 2
-image_prompt:
-Show {user_name} and {brother_name} packing exactly 8 water bottles equally into 2 separate open sports crates, with exactly 4 bottles in each crate. No extra bottles, text, letters, or numbers.

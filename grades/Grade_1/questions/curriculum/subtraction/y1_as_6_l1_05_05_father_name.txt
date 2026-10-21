@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 4 crayons. {father_name} gives {user_name} 3 more crayons. How many crayons does {user_name} have altogether?
-
-image_prompt:
-A bright art room scene. {user_name} is holding 4 crayons in one hand while {father_name} is handing over 3 more crayons. The total number of crayons is visible, illustrating the addition.

@@ -1,9 +1,0 @@
-title: Decorating Rain Boots with Aunt
-question_text:
-{user_name} helps {aunt_name} decorate rain boots. They add 2 reflective strips to each of 3 boots. How many strips do they use altogether?
-options:
-A) 6
-B) 4
-C) 8
-image_prompt:
-Show {user_name} and {aunt_name} decorating exactly 3 rain boots. Each boot must have exactly 2 separate, clearly visible reflective strips. Show exactly 6 strips in total. No extra boots or strips, and no text, letters, or numbers.

@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 8 apples. {brother_name} helps {user_name} share them equally between 2 baskets. How many apples are in each basket?
-
-image_prompt:
-A bright kitchen scene. {user_name} is placing apples into two baskets on the table, while {brother_name} counts the apples. There are 8 apples in total, and the two baskets are empty. The scene shows 4 apples in each basket, with the remaining apples on the table.

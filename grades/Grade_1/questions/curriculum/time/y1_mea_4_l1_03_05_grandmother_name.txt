@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {grandmother_name} are planning their day. They decide to have breakfast first, then go to school, and finally play in the park. What is the order of their activities?
-
-image_prompt:
-A sunny kitchen scene. {user_name} is pouring cereal into a bowl for breakfast, while {grandmother_name} is putting on a backpack, ready to go to school. A clock on the wall shows morning time. There are breakfast items on the table, and a school bag is visible on a chair.

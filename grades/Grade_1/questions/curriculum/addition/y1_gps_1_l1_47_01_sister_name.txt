@@ -1,9 +1,0 @@
-title: Making Pinwheels with Sister
-question_text:
-{user_name} assembles 5 colorful paper pinwheels, while {sister_name} makes 3 more. How many pinwheels have they made altogether?
-options:
-A) 8
-B) 2
-C) 15
-image_prompt:
-Show {user_name} assembling a paper pinwheel with a stick while {sister_name} tests her finished pinwheels in a gentle breeze. Include EXACTLY 5 completed pinwheels in the child's group and 3 in the sister's group, with no extra pinwheels.

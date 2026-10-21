@@ -1,9 +1,0 @@
-title: Folding Shirts with Mom
-question_text:
-{user_name} and {mother_name} are folding clean shirts. {user_name} folds 4 shirts, and {mother_name} folds 3 shirts. How many shirts did they fold in total?
-options:
-A) 13
-B) 7
-C) 1
-image_prompt:
-Make 4 folded shirts in front of {user_name} and 3 folded shirts in front of {mother_name}.

@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {uncle_name} are folding a piece of paper in half. What shape will they see if they draw a line down the middle?
-
-image_prompt:
-A classroom scene with a table. {user_name} is folding a piece of paper while {uncle_name} is drawing a line down the middle of the folded paper. The paper shows a clear line of symmetry, and there are no other items on the table.

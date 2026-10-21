@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {father_name} are stacking boxes. They stack 2 stacks of 5 boxes each. How many boxes are there altogether?
-
-image_prompt:
-A busy storage room scene. {user_name} is placing a box on top of a stack while {father_name} counts 2 stacks of boxes. Each stack has 5 boxes, and the total of 10 boxes is visually represented. The room has shelves and some tools in the background.

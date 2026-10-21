@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {uncle_name} are drawing shapes. {user_name} draws 4 rectangles, and {uncle_name} draws 2 rectangles. How many rectangles did they draw in total?
-
-image_prompt:
-An art table with paper and crayons. {user_name} is focused on drawing 4 rectangles on their paper, while {uncle_name} is drawing 2 rectangles on a different sheet. Both drawings are clearly visible, showing a total of 6 rectangles on the table.

@@ -1,5 +1,0 @@
-question_text:
-{user_name} starts counting from 45. {mother_name} joins in. Can you both count forwards to 50 together?
-
-image_prompt:
-A bright classroom scene. {user_name} is standing next to a number line that starts at 0 and goes to 100, pointing at the number 45. {mother_name} is beside them, counting out loud with a big smile. The number line is clearly visible, and the numbers from 45 to 50 are highlighted.

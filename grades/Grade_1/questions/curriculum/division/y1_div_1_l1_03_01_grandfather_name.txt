@@ -1,9 +1,0 @@
-title: Collecting Seashells with Grandfather
-question_text:
-{user_name} and {grandfather_name} have collected 6 seashells. They divide them equally among 3 small jars. How many seashells go into each jar?
-options:
-A) 3
-B) 2
-C) 4
-image_prompt:
-Show {user_name} and {grandfather_name} dividing exactly 6 seashells equally among 3 small jars, with exactly 2 seashells in each jar. No extra shells, props, text, letters, or numbers.

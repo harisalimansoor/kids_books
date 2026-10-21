@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 9 flowers. {grandmother_name} gives them 6 more flowers. How many flowers does {user_name} have now?
-
-image_prompt:
-A garden scene. {user_name} is holding 9 flowers, while {grandmother_name} is handing over 6 more flowers. The total of 15 flowers is suggested by the arrangement.

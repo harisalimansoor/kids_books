@@ -1,9 +1,0 @@
-title: Sharing Puzzle Pieces with Grandmother
-question_text:
-{user_name} and {grandmother_name} put 8 large puzzle pieces equally into 2 sorting trays. How many puzzle pieces will be in each tray?
-options:
-A) 4
-B) 3
-C) 2
-image_prompt:
-Show {user_name} and {grandmother_name} sorting exactly 8 large puzzle pieces equally into 2 trays, with exactly 4 pieces in each tray. No extra puzzle pieces, props, text, letters, or numbers.

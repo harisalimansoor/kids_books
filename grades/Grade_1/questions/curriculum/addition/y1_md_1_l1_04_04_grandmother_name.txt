@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {grandmother_name} are sharing cookies. They have 5 plates, and each plate has 2 cookies. How many cookies do they have altogether?
-
-image_prompt:
-A cheerful kitchen table scene. {user_name} and {grandmother_name} are sitting at a table with 5 plates. Each plate has 2 cookies on it. The cookies are round and chocolate chip. {user_name} is counting the plates while {grandmother_name} is smiling at the cookies.

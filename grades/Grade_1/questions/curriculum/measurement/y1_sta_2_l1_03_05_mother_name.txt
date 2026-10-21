@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {mother_name} are creating a tree diagram to show their pet choices. They have 2 cats and 3 dogs. How many pets will be shown in the tree diagram?
-
-image_prompt:
-A cozy living room scene. {user_name} is drawing a tree diagram on a large sheet of paper, while {mother_name} is counting 2 toy cats and 3 toy dogs to place next to the diagram. The tree diagram has branches labeled 'Cats' and 'Dogs', with the toys clearly visible on the table.

@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 6 balloons. {grandfather_name} accidentally pops 2 balloons. How many balloons does {user_name} have now?
-
-image_prompt:
-A festive party scene. {user_name} is holding 6 colourful balloons, while {grandfather_name} looks surprised as one balloon is popped. The remaining 4 balloons are still in {user_name}'s hands.

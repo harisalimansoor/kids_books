@@ -1,9 +1,0 @@
-title: Playing a Tambourine with Aunt
-question_text:
-{user_name} has 9 small tambourines. {aunt_name} gives 4 tambourines to a music group. How many tambourines remain?
-options:
-A) 6
-B) 5
-C) 4
-image_prompt:
-Show {user_name} enjoying music with {aunt_name}. Aunt gives 4 tambourines from a group of 9 to a music group. Show exactly 5 tambourines with the child and 4 with the group. No extra tambourines, text, letters, or numbers.

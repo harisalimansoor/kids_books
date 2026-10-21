@@ -1,9 +1,0 @@
-title: Arranging Toy Penguins with Aunt
-question_text:
-{user_name} helps {aunt_name} arrange toy penguins on two icy platforms. They place 4 penguins on each platform. How many toy penguins do they arrange altogether?
-options:
-A) 6
-B) 8
-C) 5
-image_prompt:
-Show {user_name} and {aunt_name} arranging exactly 2 separate icy platforms. Each platform must have exactly 4 clearly visible toy penguins. Show exactly 8 penguins in total. No extra platforms or penguins, and no text, letters, or numbers.

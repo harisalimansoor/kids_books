@@ -1,9 +1,0 @@
-title: Playing Table Tennis with Brother
-question_text:
-{user_name} has 7 table-tennis balls. {brother_name} takes 2 balls to practise serving. How many balls remain with {user_name}?
-options:
-A) 5
-B) 4
-C) 6
-image_prompt:
-Show {user_name} playing table tennis with {brother_name}. Brother takes 2 balls from a group of 7. Show exactly 5 balls with the child and 2 with Brother. No extra balls, text, letters, or numbers.

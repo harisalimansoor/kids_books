@@ -1,5 +1,0 @@
-question_text:
-{aunt_name} gives {user_name} 4 packs of crayons. Each pack has 5 crayons. How many crayons does {user_name} have altogether?
-
-image_prompt:
-A colourful art room. {aunt_name} is handing {user_name} 4 packs of crayons. Each pack is open, showing exactly 5 crayons inside. {user_name} is looking excited, holding the packs, while a few crayons are laid out on the table. The packs are clearly labelled with the number of crayons inside.

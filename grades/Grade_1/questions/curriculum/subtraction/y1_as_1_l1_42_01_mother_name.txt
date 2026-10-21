@@ -1,9 +1,0 @@
-title: Feeding Birds with Mom
-question_text:
-{user_name} puts 9 birdseed scoops in a small bowl. {mother_name} uses 4 scoops to feed the birds. How many scoops remain in the bowl?
-options:
-A) 5
-B) 6
-C) 4
-image_prompt:
-Show {user_name} feeding birds with {mother_name}. Mom uses 4 scoops of birdseed from a group of 9. Show exactly 5 scoops remaining in the bowl and 4 scoops in a separate feeder. No extra scoops, text, letters, or numbers.

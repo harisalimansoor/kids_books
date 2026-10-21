@@ -1,9 +1,0 @@
-title: Playing Toy Drums with Father
-question_text:
-{user_name} and {father_name} arrange 4 toy drums equally on 2 music mats. How many toy drums will be on each mat?
-options:
-A) 2
-B) 3
-C) 1
-image_prompt:
-Show {user_name} and {father_name} arranging exactly 4 toy drums equally on 2 separate music mats, with exactly 2 drums on each mat. No extra drums, text, letters, or numbers.

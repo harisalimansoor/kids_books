@@ -1,9 +1,0 @@
-title: Making a Paper Airplane with Brother
-question_text:
-{user_name} folds 7 paper airplanes. {brother_name} launches 3 airplanes across the room. How many paper airplanes remain on the table?
-options:
-A) 3
-B) 4
-C) 5
-image_prompt:
-Show {user_name} folding paper airplanes with {brother_name}. Brother launches 3 airplanes from a group of 7 Airplanes. Show exactly 4 airplanes on the table and 3 flying through the air. No extra airplanes, text, letters, or numbers.

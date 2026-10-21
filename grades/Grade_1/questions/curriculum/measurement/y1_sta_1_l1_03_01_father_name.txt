@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {father_name} are creating a block graph to show how many books they read last week. If {user_name} read 4 books and {father_name} read 2 books, how many blocks do they need to draw?
-
-image_prompt:
-A cozy study area. {user_name} is drawing a block graph on a large piece of paper, with 4 blocks for their books and 2 blocks for {father_name}'s books. The blocks are colourful, and there are books stacked on the table beside them.

@@ -1,9 +1,0 @@
-title: Knitting Wool Balls with Grandma
-question_text:
-{grandmother_name} has 6 balls of wool. She gives 2 balls to {user_name}. How many balls of wool does Grandma have left?
-options:
-A) 3
-B) 4
-C) 5
-image_prompt:
-Show {grandmother_name} knitting beside {user_name}. Grandma gives 2 wool balls to the child. Show exactly 4 wool balls with Grandma and 2 with the child. No extra wool balls, text, letters, or numbers.

@@ -1,9 +1,0 @@
-title: Building Block Bridges with Dad
-question_text:
-{user_name} helps {father_name} build small bridges with blocks. They use 3 blocks for each of 2 bridges. How many blocks do they use altogether?
-options:
-A) 5
-B) 6
-C) 4
-image_prompt:
-Show {user_name} and {father_name} building exactly 2 small block bridges, each made of exactly 3 blocks. Show exactly 6 blocks in total. No extra blocks, text, letters, or numbers.

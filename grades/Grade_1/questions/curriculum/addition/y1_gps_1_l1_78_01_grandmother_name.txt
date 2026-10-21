@@ -1,9 +1,0 @@
-title: Drawing with Grandma
-question_text:
-At the art table, {user_name} draws 4 rectangles on a drawing board while {grandmother_name} adds 2 rectangles to her own board. How many rectangles have they drawn altogether?
-options:
-A) 2
-B) 14
-C) 6
-image_prompt:
-Create a lively art-room scene with {user_name} and {grandmother_name} sitting side by side at a drawing table. {user_name} is actively drawing the final colored rectangle on a white board resting on the table, while {grandmother_name} points to her own board and works on her drawing. The child's board must display EXACTLY 4 completed, colorful, clearly separated rectangles. Grandma's board must display EXACTLY 2 completed, colorful, clearly separated rectangles. All six drawn rectangles must be fully visible and easy to count. Make the drawing activity feel natural, with pencils and a few ordinary art supplies arranged around the workspace. Do not add any extra drawn rectangles, geometric shapes, diagrams, or doodles to either board. Keep both boards unobstructed and clearly distinguishable. Do not place either board in the characters' hands. No text, letters, numbers, labels, or written answers anywhere in the image.

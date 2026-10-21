@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {sister_name} have a collection of 6 red apples and 4 green apples. They want to sort them using a Venn diagram. How many apples will go in the red section?
-
-image_prompt:
-A bright kitchen table scene. {user_name} is placing 6 red apples in the left circle of a Venn diagram, while {sister_name} is holding 4 green apples, ready to place them in the right circle. The Venn diagram is drawn on a large piece of paper on the table, with clear labels for red and green apples. The apples are vibrant and clearly visible.

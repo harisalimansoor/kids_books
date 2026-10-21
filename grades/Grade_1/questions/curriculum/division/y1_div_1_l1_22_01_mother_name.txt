@@ -1,9 +1,0 @@
-title: Preparing Cupcake Liners with Mother
-question_text:
-{user_name} and {mother_name} divide 8 paper cupcake liners equally between 2 muffin tins. How many liners will be in each tin?
-options:
-A) 3
-B) 2
-C) 4
-image_prompt:
-Show {user_name} and {mother_name} placing exactly 8 paper cupcake liners equally into 2 muffin tins, with exactly 4 liners in each tin. No extra liners, text, letters, or numbers.

@@ -1,9 +1,0 @@
-title: Packing Travel Pillows with Uncle
-question_text:
-{user_name} and {uncle_name} pack 8 travel pillows equally into 2 suitcases. How many travel pillows will be in each suitcase?
-options:
-A) 4
-B) 2
-C) 3
-image_prompt:
-Show {user_name} and {uncle_name} packing exactly 8 travel pillows equally into 2 open suitcases, with exactly 4 pillows in each suitcase. No extra pillows, text, letters, or numbers.

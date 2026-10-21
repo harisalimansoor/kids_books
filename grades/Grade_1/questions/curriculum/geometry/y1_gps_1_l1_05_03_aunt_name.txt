@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {aunt_name} are at the park. They see 4 circles in the playground. How many circles do they see?
-
-image_prompt:
-A sunny park scene with a playground. {user_name} is pointing at 4 circular shapes on the playground equipment, while {aunt_name} is looking at them. The circles are clearly visible, and the playground is lively.

@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 5 toy cars. {grandmother_name} gives {user_name} 4 more toy cars. How many toy cars does {user_name} have now?
-
-image_prompt:
-A colourful playroom scene. {user_name} is counting 5 toy cars on the floor while {grandmother_name} is handing over 4 more toy cars. The total number of toy cars is visible, showing the addition.

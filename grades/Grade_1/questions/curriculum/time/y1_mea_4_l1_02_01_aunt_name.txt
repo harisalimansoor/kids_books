@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {aunt_name} are talking about their birthdays. {user_name} says their birthday is in April, and {aunt_name} says their birthday is in July. Which birthday comes first in the year?
-
-image_prompt:
-A cheerful living room scene. {user_name} is sitting on a sofa, holding a birthday card with 'April' written on it. {aunt_name} is standing next to a wall calendar, pointing at the month of July. The calendar is clearly visible, showing the months of the year. There are balloons and decorations in the background.

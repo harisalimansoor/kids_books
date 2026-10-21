@@ -1,9 +1,0 @@
-title: Exploring Toy Houses with Uncle
-question_text:
-{user_name} explores toy houses with {uncle_name}. Each of 2 toy houses has 3 windows. How many windows do the houses have altogether?
-options:
-A) 9
-B) 5
-C) 6
-image_prompt:
-Show {user_name} and {uncle_name} examining exactly 2 toy houses. Each house must have exactly 3 clearly visible windows. Show exactly 6 windows in total. No extra houses or windows, and no text, letters, or numbers.

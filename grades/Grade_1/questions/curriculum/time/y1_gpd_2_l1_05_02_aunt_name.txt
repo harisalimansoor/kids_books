@@ -1,5 +1,0 @@
-question_text:
-{user_name} is facing {aunt_name}. If {user_name} turns clockwise, which way will {user_name} be facing after a quarter turn?
-
-image_prompt:
-A sunny beach scene. {user_name} is standing on the sand, facing {aunt_name}, who is building a sandcastle. {user_name} is turning clockwise, with the ocean in the background. The sun is shining brightly.

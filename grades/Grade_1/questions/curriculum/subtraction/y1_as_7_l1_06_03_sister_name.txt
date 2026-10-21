@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {sister_name} work on this together. {user_name} sees 15 ducks in the pond. If 3 ducks swim away, how many ducks are left? What is the missing number?
-
-image_prompt:
-{user_name} and {sister_name} work on this together. A serene pond scene. {user_name} is counting 15 ducks swimming, while 3 ducks are swimming away. The remaining ducks are visible, creating a clear visual of the situation.

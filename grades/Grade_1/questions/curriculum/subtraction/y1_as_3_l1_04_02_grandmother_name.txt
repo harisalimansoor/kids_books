@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 10 stickers. {grandmother_name} gives them 3 more stickers. How many stickers does {user_name} have now?
-
-image_prompt:
-A bright classroom scene. {user_name} is sitting at a desk with 10 stickers in front of them, while {grandmother_name} is handing over 3 more stickers. The stickers are colorful and clearly visible.

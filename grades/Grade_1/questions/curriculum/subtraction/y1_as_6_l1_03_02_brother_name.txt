@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 10 balloons. {brother_name} pops 2 balloons. How many balloons does {user_name} have left?
-
-image_prompt:
-A festive outdoor scene. {user_name} is holding 10 colourful balloons, while {brother_name} is popping 2 balloons. The remaining balloons are visible, illustrating the subtraction.

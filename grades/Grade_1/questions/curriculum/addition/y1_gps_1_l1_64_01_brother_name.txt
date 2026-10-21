@@ -1,9 +1,0 @@
-title: Harvesting Carrots with Brother
-question_text:
-In the vegetable garden, {user_name} harvests 5 carrots, and {brother_name} pulls out 4 more. How many carrots have they harvested altogether?
-options:
-A) 1
-B) 19
-C) 9
-image_prompt:
-Show {user_name} pulling carrots from the soil while {brother_name} washes his harvested carrots at a garden station. Include EXACTLY 5 carrots in the child's harvest and 4 in the brother's, with all 9 visible and no extra carrots.

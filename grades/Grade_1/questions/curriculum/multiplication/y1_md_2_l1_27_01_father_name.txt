@@ -1,9 +1,0 @@
-title: Collecting Seashells with Dad
-question_text:
-{user_name} helps {father_name} collect seashells at the beach. They put 4 seashells in each of 2 small boxes. How many seashells do they collect altogether?
-options:
-A) 6
-B) 8
-C) 5
-image_prompt:
-Show {user_name} and {father_name} collecting seashells beside exactly 2 open boxes. Each box must contain exactly 4 clearly visible seashells. Show exactly 8 seashells in total. No extra shells, text, letters, or numbers.

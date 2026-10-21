@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 10 cookies. {brother_name} says they can share them equally. How many cookies will each person get?
-
-image_prompt:
-A kitchen table set for a snack. {user_name} is holding a plate with 10 cookies, while {brother_name} is preparing to take half. The cookies are round and chocolate chip, and a knife is on the table for cutting. The scene shows both characters ready to share.

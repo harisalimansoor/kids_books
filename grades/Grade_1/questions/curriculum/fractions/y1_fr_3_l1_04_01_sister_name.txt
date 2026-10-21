@@ -1,5 +1,0 @@
-question_text:
-{user_name} has a set of four apples. {sister_name} takes three apples. What fraction of the apples does {sister_name} have?
-
-image_prompt:
-A table with four apples arranged in a line. {user_name} is holding three apples, while {sister_name} is looking at the one remaining apple on the table. The apples are clearly visible, showing the total of four.

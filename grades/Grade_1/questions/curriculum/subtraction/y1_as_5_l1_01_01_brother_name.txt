@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 5 apples and {brother_name} has 3 apples. How many apples do they have altogether?
-
-image_prompt:
-A bright kitchen scene. {user_name} is holding 5 red apples in one hand while {brother_name} is holding 3 green apples in the other hand. A table in the background has a basket with more apples, but it is not visible how many. The focus is on the two characters and their apples.

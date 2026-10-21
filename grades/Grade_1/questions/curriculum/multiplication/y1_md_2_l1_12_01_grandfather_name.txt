@@ -1,9 +1,0 @@
-title: Packing Biscuits with Grandpa
-question_text:
-{user_name} helps {grandfather_name} pack biscuits. They put 3 biscuits into each of 3 small bags. How many biscuits do they pack altogether?
-options:
-A) 6
-B) 12
-C) 9
-image_prompt:
-Show {user_name} and {grandfather_name} packing exactly 3 small bags, each containing exactly 3 biscuits. Show exactly 9 biscuits in total. No extra bags, biscuits, text, letters, or numbers.
