@@ -1,9 +1,9 @@
-title: Sewing Buttons with Grandma
+title: Decorating Hand Fans with Grandma
 question_text:
-During their sewing session, {user_name} stitches 3 buttons onto a fabric hoop, and {grandmother_name} sews 4 buttons onto another hoop. How many buttons have they sewn altogether?
+At their craft table, {user_name} decorates 5 paper hand fans, while {grandmother_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
 options:
-A) 7
-B) 1
-C) 13
+A) 3
+B) 7
+C) 15
 image_prompt:
-Illustrate a cozy sewing corner where {user_name} and {grandmother_name} are working on circular fabric embroidery hoops placed on a craft table. The child is carefully sewing buttons onto the first hoop, while Grandma sits nearby stitching a button onto her own fabric. The child's hoop must contain EXACTLY 3 large, colorful buttons sewn onto the fabric. Grandma's hoop must contain EXACTLY 4 large, colorful buttons sewn onto the fabric. Arrange the buttons with sufficient space between them so each individual button can be identified and counted easily. Their hands, needles, and threads should support the sewing activity without covering any buttons. The hoops should remain separate and fully visible. A small amount of thread or folded fabric may decorate the workspace, but there must be NO loose buttons, spare buttons, additional hoops with buttons, or other button-shaped objects anywhere in the scene. Do not make the characters pose for the camera. No text, letters, numbers, labels, or written answers.
+Create a colorful paper-craft scene with {user_name} painting patterns onto open paper hand fans spread across a worktable. {grandmother_name} sits at the other end, attaching decorative tassels to her completed fans. Place EXACTLY 5 open hand fans in the child's work area and EXACTLY 2 open hand fans in Grandma's area. All seven fans must have distinct, recognizable fan shapes, visible ribs, and fully spread paper sections. The child may be painting one of the five fans already included in the count; do not introduce a separate extra fan for the painting action. Grandma's hands and tassels must not cover or obscure either of her two fans. Use varied cheerful colors and tasteful painted patterns without creating fan-shaped objects elsewhere in the illustration. Brushes, paint pots, thread, and a few craft supplies are acceptable, but no additional fans, folded fans, or fan-shaped decorations. No text, letters, numbers, labels, or written answers.

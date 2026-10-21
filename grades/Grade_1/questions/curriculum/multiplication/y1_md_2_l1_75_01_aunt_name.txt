@@ -1,9 +1,9 @@
-title: Hanging Wind Chimes with Aunt
+title: Preparing Toy Helicopters with Aunt
 question_text:
-{user_name} helps {aunt_name} hang wind chimes. Each of 2 wind chimes has 3 small bells. How many bells are there altogether?
+{user_name} helps {aunt_name} prepare toy helicopters. Each of 3 helicopters has 2 landing skids. How many landing skids do the helicopters have altogether?
 options:
-A) 5
-B) 6
+A) 6
+B) 5
 C) 8
 image_prompt:
-Show {user_name} and {aunt_name} hanging exactly 2 wind chimes. Each wind chime must have exactly 3 clearly visible bells. Show exactly 6 bells in total. No extra wind chimes or bells, and no text, letters, or numbers.
+Show {user_name} and {aunt_name} arranging exactly 3 toy helicopters. Each helicopter must have exactly 2 clearly visible landing skids. Show exactly 6 skids in total. No extra helicopters or skids, and no text, letters, or numbers.

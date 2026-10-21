@@ -1,0 +1,9 @@
+title: Decorating Kites with Grandma
+question_text:
+{user_name} helps {grandmother_name} decorate paper kites. They draw 3 round dots on each of 2 kites. How many dots do they draw altogether?
+options:
+A) 3
+B) 8
+C) 6
+image_prompt:
+Show {user_name} and {grandmother_name} decorating exactly 2 paper kites. Each kite must have exactly 3 clearly visible round dots. Show exactly 6 dots in total. No extra kites or dots, and no text, letters, or numbers.

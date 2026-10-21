@@ -1,9 +1,9 @@
-title: Making Pancakes with Dad
+title: Scooping Ice Cream with Dad
 question_text:
-{user_name} prepares 4 pancakes for breakfast, and {father_name} makes 4 more. How many pancakes have they made altogether?
+{user_name} prepares 3 ice cream cones, and {father_name} prepares 5 more. How many ice cream cones have they made altogether?
 options:
-A) 8
-B) 0
-C) 16
+A) 2
+B) 15
+C) 8
 image_prompt:
-Show {user_name} flipping a pancake in the kitchen while {father_name} arranges finished pancakes on a plate. Include EXACTLY 4 pancakes in the child's group and 4 in Dad's group, with no additional pancakes.
+Show {user_name} scooping ice cream into a cone while {father_name} adds scoops to another batch. Include EXACTLY 3 completed ice cream cones in the child's group and 5 in Dad's group, with no extra cones.

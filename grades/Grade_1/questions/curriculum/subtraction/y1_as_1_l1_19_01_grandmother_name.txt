@@ -1,9 +1,9 @@
-title: Knitting Wool Balls with Grandma
+title: Collecting Eggs with Grandma
 question_text:
-{grandmother_name} has 6 balls of wool. She gives 2 balls to {user_name}. How many balls of wool does Grandma have left?
+{user_name} finds 8 eggs in a basket. {grandmother_name} takes 3 eggs to the kitchen. How many eggs remain in the basket?
 options:
-A) 3
-B) 4
-C) 5
+A) 4
+B) 5
+C) 6
 image_prompt:
-Show {grandmother_name} knitting beside {user_name}. Grandma gives 2 wool balls to the child. Show exactly 4 wool balls with Grandma and 2 with the child. No extra wool balls, text, letters, or numbers.
+Show {user_name} collecting eggs with {grandmother_name}. Grandma takes 3 eggs from a basket of 8. Show exactly 5 eggs remaining in the basket and 3 with Grandma. No extra eggs, text, letters, or numbers.

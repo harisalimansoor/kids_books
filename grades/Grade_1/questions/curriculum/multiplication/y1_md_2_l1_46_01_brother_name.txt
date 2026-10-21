@@ -1,9 +1,9 @@
-title: Packing Footballs with Brother
+title: Sorting Marbles with Brother
 question_text:
-{user_name} helps {brother_name} pack footballs for practice. They put 2 footballs in each of 3 sports bags. How many footballs do they pack altogether?
+{user_name} helps {brother_name} sort marbles after a game. They put 2 marbles in each of 4 small trays. How many marbles do they sort altogether?
 options:
 A) 6
-B) 5
+B) 10
 C) 8
 image_prompt:
-Show {user_name} and {brother_name} packing exactly 3 sports bags. Each bag must contain exactly 2 clearly visible footballs. Show exactly 6 footballs in total. No extra bags, footballs, text, letters, or numbers.
+Show {user_name} and {brother_name} sorting marbles into exactly 4 small trays. Each tray must contain exactly 2 clearly visible marbles. Show exactly 8 marbles in total. No extra trays, marbles, text, letters, or numbers.

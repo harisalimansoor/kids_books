@@ -1,9 +1,9 @@
-title: Feeding Ducks with Grandma
+title: Washing Toy Plates with Grandma
 question_text:
-{user_name} sees 9 ducks near a pond. {grandmother_name} watches as 4 ducks swim away. How many ducks remain near the pond?
+{user_name} has 6 toy plates. {grandmother_name} washes 2 plates and puts them away. How many toy plates are still waiting to be washed?
 options:
-A) 4
-B) 6
-C) 5
+A) 5
+B) 3
+C) 4
 image_prompt:
-Show {user_name} and {grandmother_name} watching ducks beside a pond. Show exactly 5 ducks remaining near the pond and 4 swimming away. No additional ducks, text, letters, or numbers.
+Show {user_name} washing toy plates with {grandmother_name}. Grandma puts 2 washed plates away. Show exactly 4 plates waiting to be washed and 2 clean plates in a separate cupboard. No extra plates, text, letters, or numbers.

@@ -1,9 +1,9 @@
-title: Decorating Kites with Grandma
+title: Decorating Woolly Hats with Grandma
 question_text:
-{user_name} helps {grandmother_name} decorate paper kites. They draw 3 round dots on each of 2 kites. How many dots do they draw altogether?
+{user_name} helps {grandmother_name} decorate woolly hats. They attach 2 pom-poms to each of 3 hats. How many pom-poms do they use altogether?
 options:
-A) 3
-B) 8
-C) 6
+A) 6
+B) 5
+C) 8
 image_prompt:
-Show {user_name} and {grandmother_name} decorating exactly 2 paper kites. Each kite must have exactly 3 clearly visible round dots. Show exactly 6 dots in total. No extra kites or dots, and no text, letters, or numbers.
+Show {user_name} and {grandmother_name} decorating exactly 3 woolly hats. Each hat must have exactly 2 clearly visible pom-poms attached to it. Show exactly 6 pom-poms in total. No extra hats or pom-poms, and no text, letters, or numbers.

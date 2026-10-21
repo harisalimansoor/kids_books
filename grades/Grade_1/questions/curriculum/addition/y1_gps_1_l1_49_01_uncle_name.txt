@@ -1,9 +1,9 @@
-title: Roasting Marshmallows with Uncle
+title: Collecting Acorns with Uncle
 question_text:
-Beside the campfire, {user_name} roasts 4 marshmallows, and {uncle_name} roasts 3 more. How many marshmallows are they roasting altogether?
+Under an oak tree, {user_name} gathers 6 acorns, and {uncle_name} finds 3 more. How many acorns have they collected altogether?
 options:
-A) 1
-B) 14
-C) 7
+A) 3
+B) 18
+C) 9
 image_prompt:
-Show {user_name} roasting marshmallows over a safe campfire while {uncle_name} prepares another roasting stick. Include EXACTLY 4 marshmallows for the child and 3 for the uncle, all clearly visible, with no extras.
+Show {user_name} searching among fallen leaves while {uncle_name} sorts collected acorns into a small basket. Include EXACTLY 6 acorns in the child's collection and 3 in the uncle's, with no additional acorns visible.

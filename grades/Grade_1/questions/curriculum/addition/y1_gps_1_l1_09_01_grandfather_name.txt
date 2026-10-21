@@ -1,9 +1,9 @@
-title: Planting with Grandpa
+title: Collecting Stamps with Grandpa
 question_text:
-{user_name} and {grandfather_name} are planting flowers in the garden. {user_name} plants 3 flowers, and {grandfather_name} plants 2 flowers. How many flowers did they plant in total?
+{user_name} and {grandfather_name} are pasting stamps into an album. {user_name} pastes 5 stamps, and {grandfather_name} pastes 2 stamps. How many stamps did they paste in total?
 options:
-A) 4
-B) 5
-C) 6
+A) 7
+B) 6
+C) 8
 image_prompt:
-Show {user_name} planting exactly 3 flowers and {grandfather_name} planting exactly 2 flowers in a garden. Show exactly 5 flowers in total. No extra flowers, text, letters, or numbers.
+Show {user_name} pasting exactly 5 stamps into a stamp album and {grandfather_name} pasting exactly 2 stamps into the same album. Show exactly 7 stamps in total. No extra stamps, text, letters, or numbers.

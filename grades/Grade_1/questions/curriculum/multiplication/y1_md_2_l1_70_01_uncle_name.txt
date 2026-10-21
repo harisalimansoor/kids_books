@@ -1,9 +1,9 @@
-title: Building Toy Castles with Uncle
+title: Arranging Yo-Yos with Uncle
 question_text:
-{user_name} helps {uncle_name} build toy castles. Each of 2 castles has 3 towers. How many towers do the castles have altogether?
+{user_name} helps {uncle_name} arrange yo-yos for a play activity. They place 3 yo-yos in each of 3 display sections. How many yo-yos do they arrange altogether?
 options:
-A) 5
-B) 9
-C) 6
+A) 6
+B) 8
+C) 9
 image_prompt:
-Show {user_name} and {uncle_name} building exactly 2 separate toy castles. Each castle must have exactly 3 clearly visible towers. Show exactly 6 towers in total. No extra castles or towers, and no text, letters, or numbers.
+Show {user_name} and {uncle_name} arranging exactly 3 separate display sections. Each section must contain exactly 3 clearly visible yo-yos. Show exactly 9 yo-yos in total. No extra display sections or yo-yos, and no text, letters, or numbers.

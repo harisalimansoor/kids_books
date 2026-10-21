@@ -1,9 +1,9 @@
-title: Filling Bird Feeders with Grandpa
+title: Arranging Picture Frames with Grandpa
 question_text:
-{user_name} helps {grandfather_name} fill bird feeders. They put 2 scoops of birdseed into each of 2 feeders. How many scoops do they use altogether?
+{user_name} helps {grandfather_name} arrange picture frames. They place 2 frames on each of 3 shelves. How many frames do they place altogether?
 options:
-A) 4
-B) 3
-C) 6
+A) 8
+B) 6
+C) 5
 image_prompt:
-Show {user_name} and {grandfather_name} filling exactly 2 bird feeders. Each feeder contains exactly 2 visible scoops of birdseed. Represent exactly 4 scoops in total. No extra feeders, scoops, text, letters, or numbers.
+Show {user_name} and {grandfather_name} arranging exactly 3 shelves, with exactly 2 picture frames on each shelf. Show exactly 6 frames in total. No extra frames, shelves, text, letters, or numbers.

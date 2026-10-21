@@ -1,9 +1,9 @@
-title: Baking Cookies with Grandma
+title: Feeding Rabbits with Grandma
 question_text:
-{user_name} bakes 8 cookies with {grandmother_name}. Grandma takes 3 cookies from the tray. How many cookies remain on the tray?
+{user_name} puts 7 carrots in a basket for the rabbits. {grandmother_name} uses 2 carrots to feed them. How many carrots remain in the basket?
 options:
 A) 6
 B) 5
 C) 4
 image_prompt:
-Show {user_name} baking cookies with {grandmother_name}. Grandma takes 3 cookies from a tray of 8. Show exactly 5 cookies remaining on the tray and 3 with Grandma. No extra cookies, text, letters, or numbers.
+Show {user_name} helping {grandmother_name} feed rabbits. Grandma uses 2 carrots from a basket of 7. Show exactly 5 carrots in the basket and 2 being fed to the rabbits. No extra carrots, text, letters, or numbers.

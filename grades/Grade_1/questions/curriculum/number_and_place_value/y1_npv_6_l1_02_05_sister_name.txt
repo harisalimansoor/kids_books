@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 15 stickers and {sister_name} has 20 stickers. Write the correct symbol: 15 ___ 20.
-
-image_prompt:
-A cheerful bedroom scene. {user_name} is sitting at a desk with a sheet of paper, writing down the numbers 15 and 20. Next to them, {sister_name} is holding a collection of 20 colourful stickers, looking at {user_name} with a smile. The numbers and the blank space for the symbol are clearly visible on the paper.

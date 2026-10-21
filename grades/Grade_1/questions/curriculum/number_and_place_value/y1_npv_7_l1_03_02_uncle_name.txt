@@ -1,5 +1,0 @@
-question_text:
-{user_name} counts 47 apples. {uncle_name} helps {user_name} to find out how many tens and ones are in 47. What are the tens and ones?
-
-image_prompt:
-An outdoor picnic scene. {user_name} is standing next to a basket filled with 47 apples, while {uncle_name} is writing on a notepad. The apples are arranged in groups of ten, with 4 groups of ten apples and 7 individual apples. The numbers 40 and 7 are visible on the notepad.

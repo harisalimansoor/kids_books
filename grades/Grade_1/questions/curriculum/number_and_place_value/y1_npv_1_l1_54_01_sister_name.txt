@@ -1,0 +1,9 @@
+title: Following a Number Path with Sister
+question_text:
+{user_name} and {sister_name} follow a number path while counting. Which number comes just before 40?
+options:
+A) 41
+B) 39
+C) 38
+image_prompt:
+Show {user_name} and {sister_name} following a path made of exactly 3 stepping stones in a row. Keep the stones blank, with the middle stone highlighted as their focus. No extra stones, and no text, letters, or numbers.

@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {uncle_name} are planting flowers in pairs. They plant 4 pairs of flowers. How many flowers did they plant?
-
-image_prompt:
-A sunny garden scene. {user_name} is digging a small hole while {uncle_name} places 4 pairs of flowers into the ground. Each pair of flowers is visible, and the total of 8 flowers is implied by the arrangement. The garden has a fence and some butterflies flying around.

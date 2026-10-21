@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 34 marbles. {brother_name} gives {user_name} 21 more marbles. How many marbles does {user_name} have now?
-
-image_prompt:
-A sunny park scene. {user_name} is sitting on a picnic blanket with 34 marbles in front of them, while {brother_name} is handing over a bag with 21 more marbles. The marbles are colourful and scattered around, with trees and flowers in the background.

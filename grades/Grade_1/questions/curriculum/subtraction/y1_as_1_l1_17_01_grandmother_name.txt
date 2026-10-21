@@ -1,9 +1,9 @@
-title: Watering Plants with Grandma
+title: Arranging Books with Grandma
 question_text:
-{user_name} has 7 small plants. {grandmother_name} moves 2 plants to another shelf. How many plants remain on the first shelf?
+{user_name} places 9 books on a shelf. {grandmother_name} moves 4 books to another shelf. How many books remain on the first shelf?
 options:
 A) 5
 B) 4
 C) 6
 image_prompt:
-Show {user_name} watering plants while {grandmother_name} moves 2 plants to another shelf. Show exactly 5 plants on the first shelf and 2 on the second. No extra plants, text, letters, or numbers.
+Show {user_name} arranging books with {grandmother_name}. Grandma moves 4 books from a shelf of 9 to another shelf. Show exactly 5 books on the first shelf and 4 on the second. No extra books, text, letters, or numbers.

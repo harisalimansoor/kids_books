@@ -1,5 +1,0 @@
-question_text:
-{user_name} writes the number 7 on a piece of paper. {sister_name} writes the same number in words. What is the word for the number 7?
-
-image_prompt:
-A bright classroom scene. {user_name} is sitting at a desk, focused on writing the number '7' on a piece of paper. {sister_name} is beside them, holding a pencil and writing the word 'seven' on another piece of paper. Both papers are clearly visible, showing the number and the word. The classroom has colourful posters on the walls and a chalkboard in the background.

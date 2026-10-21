@@ -1,9 +1,9 @@
-title: Making Bracelets with Aunt
+title: Making a Mosaic with Aunt
 question_text:
-{user_name} has 8 bracelet charms. {aunt_name} uses 3 charms to make a bracelet. How many unused charms remain?
+{user_name} has 7 colored mosaic tiles. {aunt_name} places 3 tiles onto a small art board. How many tiles remain unused?
 options:
-A) 6
-B) 5
-C) 4
+A) 4
+B) 3
+C) 5
 image_prompt:
-Show {user_name} making a bracelet with {aunt_name}. Aunt uses 3 charms from a group of 8. Show exactly 5 loose charms on the table and 3 on the bracelet. No extra charms, text, letters, or numbers.
+Show {user_name} making a mosaic with {aunt_name}. Aunt places 3 tiles from a group of 7 onto an art board. Show exactly 4 loose tiles and 3 attached to the board. No extra tiles, text, letters, or numbers.

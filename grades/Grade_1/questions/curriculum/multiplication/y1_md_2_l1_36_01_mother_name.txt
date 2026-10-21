@@ -1,9 +1,9 @@
-title: Decorating Paper Crowns with Mom
+title: Packing Erasers with Mom
 question_text:
-{user_name} helps {mother_name} decorate paper crowns. They stick 2 stars on each of 3 crowns. How many stars do they use altogether?
+{user_name} helps {mother_name} pack erasers into pencil cases. They put 2 erasers in each of 4 pencil cases. How many erasers do they pack altogether?
 options:
 A) 6
-B) 5
+B) 10
 C) 8
 image_prompt:
-Show {user_name} and {mother_name} decorating exactly 3 paper crowns. Each crown must have exactly 2 clearly visible star stickers. Show exactly 6 stars in total. No extra crowns or stars, and no text, letters, or numbers.
+Show {user_name} and {mother_name} packing exactly 4 open pencil cases. Each case must contain exactly 2 clearly visible erasers. Show exactly 8 erasers in total. No extra cases or erasers, and no text, letters, or numbers.

@@ -1,9 +1,9 @@
-title: Arranging Toy Dinosaurs with Brother
+title: Arranging Medals with Brother
 question_text:
-{user_name} and {brother_name} arrange toy dinosaurs in two play enclosures. They put 3 dinosaurs in each enclosure. How many dinosaurs do they arrange altogether?
+{user_name} helps {brother_name} arrange medals for a sports display. They hang 3 medals on each of 2 ribbons. How many medals do they hang altogether?
 options:
-A) 5
-B) 8
-C) 6
+A) 6
+B) 4
+C) 9
 image_prompt:
-Show {user_name} and {brother_name} arranging exactly 2 toy dinosaur enclosures. Each enclosure must contain exactly 3 clearly visible toy dinosaurs. Show exactly 6 dinosaurs in total. No extra dinosaurs or enclosures, and no text, letters, or numbers.
+Show {user_name} and {brother_name} arranging exactly 2 display ribbons. Each ribbon must hold exactly 3 clearly visible medals. Show exactly 6 medals in total. No extra ribbons or medals, and no text, letters, or numbers.

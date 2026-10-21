@@ -1,0 +1,9 @@
+title: Naming Number Collections with Brother
+question_text:
+{user_name} and {brother_name} count 46 toy beads. Which number name matches 46?
+options:
+A) Sixty-four
+B) Forty-six
+C) Forty-three
+image_prompt:
+Show {user_name} and {brother_name} counting exactly 46 beads: 4 groups of 10 beads each and 6 loose beads. Keep every bead visible and countable. No extra beads, and no text, letters, or numbers.

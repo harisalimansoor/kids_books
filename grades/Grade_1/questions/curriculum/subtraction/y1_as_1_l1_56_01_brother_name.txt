@@ -1,9 +1,9 @@
-title: Flying a Toy Helicopter with Brother
+title: Making a Paper Airplane with Brother
 question_text:
-{user_name} has 8 toy helicopters. {brother_name} takes 3 helicopters to his room. How many toy helicopters remain with {user_name}?
+{user_name} folds 7 paper airplanes. {brother_name} launches 3 airplanes across the room. How many paper airplanes remain on the table?
 options:
-A) 6
-B) 5
-C) 4
+A) 3
+B) 4
+C) 5
 image_prompt:
-Show {user_name} playing with {brother_name}. Brother takes 3 toy helicopters from a group of 8. Show exactly 5 toy helicopters with the child and 3 with Brother. No extra helicopters, text, letters, or numbers.
+Show {user_name} folding paper airplanes with {brother_name}. Brother launches 3 airplanes from a group of 7 Airplanes. Show exactly 4 airplanes on the table and 3 flying through the air. No extra airplanes, text, letters, or numbers.

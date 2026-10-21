@@ -1,9 +1,9 @@
-title: Making Paper Lanterns with Sister
+title: Making Fairy Gardens with Sister
 question_text:
-{user_name} helps {sister_name} make paper lanterns. Each of 3 lanterns has 2 handles. How many handles do the lanterns have altogether?
+{user_name} and {sister_name} make a tiny fairy garden. They place 2 decorative mushrooms in each of 4 small garden patches. How many mushrooms do they place altogether?
 options:
-A) 9
-B) 6
-C) 5
+A) 6
+B) 8
+C) 9
 image_prompt:
-Show {user_name} and {sister_name} making exactly 3 paper lanterns. Each lantern must have exactly 2 clearly visible handles. Show exactly 6 handles in total. No extra lanterns or handles, and no text, letters, or numbers.
+Show {user_name} and {sister_name} decorating exactly 4 separate small garden patches. Each patch must contain exactly 2 decorative mushrooms. Show exactly 8 mushrooms in total. No extra patches or mushrooms, and no text, letters, or numbers.

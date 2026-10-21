@@ -1,9 +1,9 @@
-title: Decorating a Picture Frame with Aunt
+title: Making a Paper Fan with Aunt
 question_text:
-{user_name} has 9 decorative buttons. {aunt_name} glues 4 buttons onto a picture frame. How many buttons remain unused?
+{user_name} folds 6 paper fans. {aunt_name} gives 2 fans to guests. How many paper fans remain with {user_name}?
 options:
 A) 5
-B) 6
+B) 3
 C) 4
 image_prompt:
-Show {user_name} decorating a picture frame with {aunt_name}. Aunt glues 4 buttons from a group of 9 onto the frame. Show exactly 5 loose buttons and 4 attached to the frame. No extra buttons, text, letters, or numbers.
+Show {user_name} making paper fans with {aunt_name}. Aunt gives 2 fans from a group of 6 to guests. Show exactly 4 fans with the child and 2 with the guests. No extra fans, text, letters, or numbers.

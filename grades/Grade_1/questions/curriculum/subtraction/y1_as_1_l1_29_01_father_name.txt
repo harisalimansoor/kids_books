@@ -1,9 +1,9 @@
-title: Building a Birdhouse with Dad
+title: Sorting Tools with Dad
 question_text:
-{user_name} and {father_name} have 9 wooden pieces for a birdhouse. Dad uses 4 pieces. How many wooden pieces are left unused?
+{father_name} has 8 toy tools. {user_name} puts 3 tools into a toolbox. How many toy tools remain outside the toolbox?
 options:
-A) 5
-B) 6
+A) 6
+B) 5
 C) 4
 image_prompt:
-Show {user_name} building a birdhouse with {father_name}. Dad uses 4 wooden pieces from a group of 9. Show exactly 5 unused pieces on the worktable and 4 incorporated into the birdhouse. No extra pieces, text, letters, or numbers.
+Show {user_name} sorting toy tools with {father_name}. The child puts 3 tools from a group of 8 into a toolbox. Show exactly 5 tools outside and 3 inside. No extra tools, text, letters, or numbers.

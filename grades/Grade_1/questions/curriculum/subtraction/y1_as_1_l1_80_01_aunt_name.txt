@@ -1,9 +1,9 @@
-title: Playing with Finger Puppets and Aunt
+title: Making a Wind Chime with Aunt
 question_text:
-{user_name} has 8 finger puppets. {aunt_name} puts 3 puppets into a puppet bag. How many puppets remain outside the bag?
+{user_name} has 7 small bells for a wind chime. {aunt_name} attaches 3 bells to the wind chime. How many bells remain unattached?
 options:
-A) 4
-B) 5
-C) 6
+A) 3
+B) 4
+C) 5
 image_prompt:
-Show {user_name} playing with finger puppets beside {aunt_name}. Aunt puts 3 puppets from a group of 8 into a bag. Show exactly 5 puppets outside and 3 inside the bag. No extra puppets, text, letters, or numbers.
+Show {user_name} making a wind chime with {aunt_name}. Aunt attaches 3 bells from a group of 7 to the wind chime. Show exactly 4 loose bells and 3 attached to the chime. No extra bells, text, letters, or numbers.

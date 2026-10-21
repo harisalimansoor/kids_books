@@ -1,44 +1,82 @@
 === NUMBER & PLACE VALUE ===
 
-Look at the picture! There are some blocks in a basket and some blocks on the table. The basket has 5 blocks and the table has some blocks too. The picture shows that when we put the blocks from the basket and the table together, we get 8 blocks. How many blocks are on the table?
-Look at the picture! There is a number line in the garden with numbers on stones. Can you see the stone with the number 8 on it? What number is on the stone just before the stone with 8?
-Look at the picture! There is a big number line on the floor with numbers marked on it. You can see 45 and 46 written clearly, and there is a big arrow pointing to the next number. What number comes after 46?
-Look at the picture! You can see a number line with pictures of animals. The monkey is standing on the number 2, the giraffe is standing on the number 4, and the elephant is standing on the number 8, but there is a blank space with a picture of a cat, and then a dog is standing on the number 6, but also the number 6 is in the wrong place, it should be before the blank space. What even number should be written in the blank space?
-Which is the even number? 9 11 13 15 16 17 16?
-Look at the picture! You can see 2 cats, 4 dogs, and 3 birds. Which number of pets is different from the others?
-Look at the picture! There are blocks with numbers on them, lined up in a row: 0, 10, 20, __, 40, 50, and a picture of thirty written in words. Can you find the correct number to fill in the blank?
-Look at the picture! There is a number line with numbers marked on it. Can you see the numbers 50, 59, 60, and 70 on the line? Which number is closest to 60?
-Look at the picture! There are 7 number cards on the table: 10, 15, 20, 25, 30, 35, 40. Can you see that one of the numbers between 20 and 25 is missing from the line of cards? What number is missing from the sequence?
-Look at the picture! There are balloons with numbers on them, lined up on the table: one balloon says 82, the next says 81, then 80, and the next one says 79. The last balloon says 78. Can you find the missing number in the counting sequence?
-Look at the picture! There are blocks with numbers on them, lined up in a row: 10, 15, 20, 25, 30, 35, and a blank block, then a block with 40 on it. What number should be on the blank block?
-Look at the picture! There are numbered balloons in a row: balloon 1 is red, balloon 2 is blue, balloon 3 is green, balloon 4 is yellow, then another balloon with number 1 is pink, and the last balloon says 4. What number should be on the empty balloon in place of the missing number?
-Look at the picture! There are numbered balloons on the table: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, but one balloon is missing. The next balloon says 20. What number is on the missing balloon?
-Look at the picture! {grandmother_name} is building with blocks, and {mother_name} is counting them. There are rows of blocks with numbers on them: 48 blocks in the first row, 42 blocks in the second row, 36 blocks in the third row, 30 blocks in the fourth row, and the last row has a question mark, but {father_name} wrote the number 24 on a piece of paper next to it, and {sibling_name} is trying to figure out if it belongs there. Can you see how many blocks are being taken away each time and use that to figure out if the number 24 is correct for the last row, with {grandfather_name} and {user_name} waiting to see your answer?
-Look at the picture! There are blocks lined up in a row with numbers on them: the first block says 11, the second block says 12, and the fourth block says 14. What number should be on the third block?
-Look at the picture! There are 17 birds sitting on a tree branch, and the next tree has the next odd number of birds bigger than 17. How many birds are on the next tree?
-Look at the picture! There is a clock on the wall. The short hand is between the 10 and the 11, and the long hand is on the 10. What time will it be one hour later?
-Look at the picture! There are blocks with numbers on them, lined up in a row: 18, 17, 16, a block with a question mark, 14, 13, and 15 is on the floor. Can you find the correct number to put on the block with the question mark?
-Look at the picture! There is a number line in the garden with numbers on stones. Can {user_name} see the stone with the number 8 on it? What number is on the stone just before the stone with 8?
-Look at the picture! There are blocks with numbers on them, lined up in a row: 0, 10, 20, __, 40, 50, and a picture of thirty written in words. Can {user_name} find the correct number to fill in the blank?
-Look at the picture! There is a number line with numbers marked on it. Can {user_name} see the numbers 50, 59, 60, and 70 on the line? Which number is closest to 60?
-Look at the picture! There are 7 number cards on the table: 10, 15, 20, 25, 30, 35, 40. Can {user_name} see that one of the numbers between 20 and 25 is missing from the line of cards? What number is missing from the sequence?
-Look at the picture! There are balloons with numbers on them, lined up on the table: one balloon says 82, the next says 81, then 80, and the next one says 79. The last balloon says 78. Can {user_name} find the missing number in the counting sequence?
-Look at the picture! {grandmother_name} is building with blocks, and {mother_name} is counting them. There are rows of blocks with numbers on them: 48 blocks in the first row, 42 blocks in the second row, 36 blocks in the third row, 30 blocks in the fourth row, and the last row has a question mark, but {father_name} wrote the number 24 on a piece of paper next to it, and {sibling_name} is trying to figure out if it belongs there. Can {user_name} see how many blocks are being taken away each time and use that to figure out if the number 24 is correct for the last row, with {grandfather_name} and {user_name} waiting to see {user_name}'s answer?
-Look at the picture! There are blocks with numbers on them, lined up in a row: 18, 17, 16, a block with a question mark, 14, 13, and 15 is on the floor. Can {user_name} find the correct number to put on the block with the question mark?
-Look at the picture! There are 5 blocks in front of {user_name} and some blocks on the table. Together they make 8 blocks. How many blocks are on the table?
-Look at the picture! There is a number line with stones. The stone with 8 is marked. What number is on the stone just before 8?
-Look at the picture! There is a number line with 45 and 46. An arrow points to the next number. What number comes after 46?
-Look at the picture! There is a number line with animals. The monkey is at 2, the giraffe at 4, and the elephant at 8. A cat is at a blank space, and the dog is at 6. What even number should be in the blank space?
-Look at the picture! Which is the even number: 9, 11, 13, 15, 16, 17?
-Look at the picture! There are 2 cats, 4 dogs, and 3 birds. Which number of pets is different from the others?
-Look at the picture! There are blocks numbered 0, 10, 20, __, 40, 50. What number is missing?
-Look at the picture! There is a number line with 50, 59, 60, and 70. Which number is closest to 60?
-Look at the picture! There are cards numbered 10, 15, 20, 25, 30, 35, 40. One number between 20 and 25 is missing. What number is missing?
-Look at the picture! There are balloons numbered 82, 81, 80, 79, 78. What number is missing in the sequence?
-Look at the picture! There are blocks numbered 10, 15, 20, 25, 30, 35, ?, 40. What number is on the blank block?
-Look at the picture! There are balloons numbered 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20. One balloon is missing. What number is missing?
-Look at the picture! There are rows of blocks: 48, 42, 36, 30, ?. The last row has 24. Is 24 correct?
-Look at the picture! There are blocks numbered 11, 12, ?, 14. What number is on the third block?
-Look at the picture! There are 17 birds on a tree. The next tree has the next odd number of birds. How many birds are on the next tree?
-Look at the picture! The short hand is between 10 and 11, and the long hand is at 10. What time is it one hour later?
-Look at the picture! There are blocks numbered 18, 17, 16, ?, 14, 13. What number is on the missing block?
+{user_name} helps {grandfather_name} count 3 groups of 10 blocks and 4 extra blocks. What number do the blocks show altogether?
+{user_name} and {grandfather_name} arrange 27 toy blocks into 2 groups of 10 and 7 loose blocks. How many tens are there in 27?
+{user_name} helps {grandfather_name} arrange 36 buttons into 3 groups of 10 and 6 loose buttons. How many ones are in 36?
+{user_name} helps {grandfather_name} arrange number cards in counting order. Which number comes just before 25?
+{user_name} and {grandfather_name} count forward from 18. Which number comes just after 18?
+{user_name} helps {grandfather_name} complete the counting sequence: 31, 32, __, 34. Which number belongs in the empty space?
+{user_name} and {grandfather_name} have 28 toy cars in one collection and 32 in another. Which collection has more toy cars?
+{user_name} helps {grandfather_name} arrange three numbers from smallest to largest. Which number should come first: 16, 9, or 21?
+{user_name} helps {grandfather_name} make a number with 4 tens and 2 ones. Which number do they make?
+{user_name} and {grandfather_name} count 35 beads. Which number name matches 35?
+{user_name} helps {grandmother_name} arrange 2 groups of 10 buttons and 5 extra buttons. What number do the buttons show altogether?
+{user_name} helps {grandmother_name} arrange 38 yarn balls into 3 groups of 10 and 8 loose balls. How many ones are in 38?
+{user_name} helps {grandmother_name} arrange 4 tens and 1 one using small flowerpots. Which number do they show?
+{user_name} helps {grandmother_name} complete this counting sequence: 22, 23, __, 25. Which number is missing?
+{user_name} and {grandmother_name} arrange 17 apples in a basket. Which number comes just before 17?
+{user_name} helps {grandmother_name} compare 26 knitting needles in one box and 19 in another. Which box has fewer needles?
+{user_name} helps {grandmother_name} arrange the numbers 12, 29, and 18 from smallest to largest. Which number comes last?
+{user_name} helps {grandmother_name} arrange 3 groups of 10 teacups and 6 extra teacups. What number do the teacups show altogether?
+{user_name} and {grandmother_name} compare the numbers 34 and 43. Which number is greater?
+{user_name} helps {grandmother_name} count 47 buttons. Which number name matches 47?
+{user_name} helps {father_name} arrange 2 groups of 10 footballs and 7 extra footballs. What number do the footballs show altogether?
+{user_name} helps {father_name} arrange 46 nuts into 4 groups of 10 and 6 loose nuts. How many tens are in 46?
+{user_name} helps {father_name} count 35 tool handles. If 35 has 3 tens and 5 ones, how many ones does it have?
+{user_name} and {father_name} count forward from 39. Which number comes just after 39?
+{user_name} helps {father_name} complete this counting sequence: 41, 42, __, 44. Which number is missing?
+{user_name} and {father_name} compare 24 building blocks in one group and 42 in another. Which group has fewer blocks?
+{user_name} helps {father_name} arrange the numbers 17, 31, and 26 from smallest to largest. Which number should come first?
+{user_name} helps {father_name} arrange 4 groups of 10 bolts and 3 extra bolts. What number do the bolts show altogether?
+{user_name} helps {father_name} identify the number 28. Which number name matches 28?
+{user_name} helps {father_name} show 32 using tens and ones. Which description matches 32?
+{user_name} helps {mother_name} arrange 4 groups of 10 seashells and 5 extra seashells. What number do the seashells show altogether?
+{user_name} helps {mother_name} arrange 29 beads into 2 groups of 10 and 9 loose beads. How many ones are in 29?
+{user_name} helps {mother_name} pack 3 groups of 10 cupcakes and 2 extra cupcakes. What number do the cupcakes show altogether?
+{user_name} helps {mother_name} count backward by looking at numbers near 36. Which number comes just before 36?
+{user_name} and {mother_name} complete this counting sequence: 26, 27, 28, __, 30. Which number is missing?
+{user_name} helps {mother_name} compare 37 oranges in one basket and 31 oranges in another. Which basket has more oranges?
+{user_name} helps {mother_name} arrange 14, 39, and 22 from smallest to largest. Which number should come last?
+{user_name} helps {mother_name} arrange 4 groups of 10 buttons and 8 extra buttons. What number do the buttons show altogether?
+{user_name} helps {mother_name} show the number 26 using tens and ones. Which description matches 26?
+{user_name} helps {mother_name} identify the number 41. Which number name matches 41?
+{user_name} and {brother_name} arrange 3 groups of 10 toy dinosaurs and 6 extra dinosaurs. What number do the dinosaurs show altogether?
+{user_name} helps {brother_name} arrange 42 sticks into 4 bundles of 10 sticks and 2 loose sticks. How many tens are in 42?
+{user_name} and {brother_name} make a number using 2 tens and 8 ones with toy blocks. Which number do they make?
+{user_name} and {brother_name} follow a counting path: 15, 16, __, 18. Which number is missing?
+{user_name} and {brother_name} place toy trains in counting order. Which number comes just after 29?
+{user_name} and {brother_name} compare 34 marbles in one collection and 43 marbles in another. Which collection has fewer marbles?
+{user_name} helps {brother_name} arrange the numbers 12, 27, and 19 from smallest to largest. Which number should come last?
+{user_name} and {brother_name} count 46 toy beads. Which number name matches 46?
+{user_name} helps {brother_name} show 38 using bundles of sticks. What does the digit 3 represent in 38?
+{user_name} and {brother_name} sort number cards. Which of these numbers has two digits?
+{user_name} helps {sister_name} arrange 3 groups of 10 pencils and 4 extra pencils. What number do the pencils show altogether?
+{user_name} helps {sister_name} arrange 27 paper clips into 2 groups of 10 and 7 loose paper clips. How many ones are in 27?
+{user_name} and {sister_name} arrange 4 groups of 10 toy robots and 2 extra robots. What number do the robots show altogether?
+{user_name} and {sister_name} follow a number path while counting. Which number comes just before 40?
+{user_name} helps {sister_name} complete this counting sequence: 30, 31, __, 33. Which number is missing?
+{user_name} and {sister_name} compare 18 clothespins in one basket and 28 clothespins in another basket. Which basket has fewer clothespins?
+{user_name} helps {sister_name} arrange the numbers 14, 26, and 37 from smallest to largest. Which number should come last?
+{user_name} helps {sister_name} arrange 45 craft beads into 4 groups of 10 and 5 loose beads. What does the digit 4 represent in 45?
+{user_name} and {sister_name} look at the number 32. Which number name matches 32?
+{user_name} helps {sister_name} sort the numbers 9, 16, and 7. Which number has two digits?
+{user_name} helps {uncle_name} arrange 4 groups of 10 toy trucks and 3 extra trucks. What number do the trucks show altogether?
+{user_name} helps {uncle_name} arrange 35 wooden beads into 3 groups of 10 and 5 loose beads. How many tens are in 35?
+{user_name} and {uncle_name} arrange 2 tens and 9 ones using small seed packets. Which number do they show?
+{user_name} helps {uncle_name} complete a counting sequence: 44, 45, __. Which number comes next?
+{user_name} and {uncle_name} arrange three numbers in counting order: 21, __, 23. Which number belongs in the middle?
+{user_name} and {uncle_name} compare 39 seashells in one collection and 29 seashells in another. Which collection has more seashells?
+{user_name} helps {uncle_name} arrange the numbers 18, 42, and 27 from smallest to largest. Which number should come first?
+{user_name} helps {uncle_name} represent 47 using bundles of sticks. What does the digit 7 represent in 47?
+{user_name} and {uncle_name} identify the number 24. Which number name matches 24?
+{user_name} helps {uncle_name} compare 16 and 19. Which number is smaller?
+{user_name} helps {aunt_name} arrange 2 groups of 10 greeting cards and 6 extra cards. What number do the cards show altogether?
+{user_name} helps {aunt_name} arrange 39 ribbons into 3 groups of 10 and 9 loose ribbons. How many tens are in 39?
+{user_name} and {aunt_name} arrange 4 groups of 10 feathers and 1 extra feather. What number do the feathers show altogether?
+{user_name} helps {aunt_name} arrange 27 paper hearts into 2 groups of 10 and 7 separate hearts. How many ones are in 27?
+{user_name} and {aunt_name} walk along a garden path while counting. Which number comes just after 34?
+{user_name} helps {aunt_name} complete this counting sequence: 16, 17, __, 19. Which number is missing?
+{user_name} and {aunt_name} compare 24 stamps in one collection and 42 stamps in another. Which collection has fewer stamps?
+{user_name} helps {aunt_name} arrange the numbers 13, 28, and 35 from smallest to largest. Which number should come second?
+{user_name} helps {aunt_name} count 44 paper butterflies. Which number name matches 44?
+{user_name} and {aunt_name} arrange 3 groups of 10 pinwheels and 8 extra pinwheels. What number do the pinwheels show altogether?

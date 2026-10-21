@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 50 apples and {uncle_name} has 50 apples too. Write the correct symbol: 50 ___ 50.
-
-image_prompt:
-A bright orchard scene. {user_name} and {uncle_name} are standing under an apple tree, each holding a basket with 50 apples. They are looking at each other with smiles, and {user_name} is writing the numbers 50 and 50 on a piece of paper, with a blank space for the symbol. The apples are clearly visible in their baskets.

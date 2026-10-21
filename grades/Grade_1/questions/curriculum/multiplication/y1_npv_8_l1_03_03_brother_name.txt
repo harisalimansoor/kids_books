@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {brother_name} are playing a game with 8 blocks. They want to see if they can make two equal groups. How many blocks will be in each group?
-
-image_prompt:
-A bright playroom scene. {user_name} is arranging 8 colourful blocks into two equal groups on a mat. {brother_name} is counting the blocks in one group, looking excited. The blocks are clearly visible, and the number 8 is written on a card next to them.

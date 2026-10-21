@@ -1,9 +1,9 @@
-title: Polishing Shoes with Uncle
+title: Decorating a Model Rocket with Uncle
 question_text:
-{user_name} has 6 shoes to polish. {uncle_name} polishes 2 shoes. How many shoes are still waiting to be polished?
+{user_name} has 9 paper fins for a model rocket. {uncle_name} attaches 4 fins to the rocket. How many fins remain unattached?
 options:
-A) 3
-B) 4
+A) 4
+B) 6
 C) 5
 image_prompt:
-Show {user_name} polishing shoes with {uncle_name}. Uncle polishes 2 shoes from a group of 6. Show exactly 4 unpolished shoes and 2 polished shoes. No extra shoes, text, letters, or numbers.
+Show {user_name} decorating a model rocket with {uncle_name}. Uncle attaches 4 paper fins from a group of 9. Show exactly 5 unattached fins on the table and 4 attached to the rocket. No extra fins, text, letters, or numbers.

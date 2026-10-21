@@ -1,9 +1,9 @@
-title: Buying Cotton Candy with Aunt
+title: Making Caramel Apples with Aunt
 question_text:
-At the fair, {user_name} buys 2 cotton candy cones, and {aunt_name} buys 2 more. How many cotton candy cones have they bought altogether?
+{user_name} makes 3 caramel apples, while {aunt_name} prepares 4 more. How many caramel apples have they made altogether?
 options:
-A) 0
-B) 12
-C) 4
+A) 1
+B) 7
+C) 17
 image_prompt:
-Show {user_name} receiving cotton candy at a colorful fair stall while {aunt_name} chooses her own cones. Include EXACTLY 2 pink cotton candy cones for each person, 4 in total, all clearly separated. No extra cotton candy cones.
+Show {user_name} dipping apples in caramel at a kitchen workstation while {aunt_name} decorates finished caramel apples nearby. Include EXACTLY 3 caramel apples in the child's work area and 4 in the aunt's area. Keep all 7 apples separate and countable, with no extra apples.

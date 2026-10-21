@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {uncle_name} are using a number line to group 12 stickers into groups of 3. How many groups can they make?
-
-image_prompt:
-A colourful classroom scene. {user_name} is pointing at a number line drawn on the board, while {uncle_name} is placing stickers on the number line. There are 12 stickers being grouped into sets of 3, with 4 groups clearly visible on the number line.

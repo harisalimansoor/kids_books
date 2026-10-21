@@ -1,5 +1,0 @@
-question_text:
-{user_name} sees 7 birds in the garden. {father_name} joins them with 2 more birds. How many birds are there in total?
-
-image_prompt:
-A sunny garden scene. {user_name} is pointing at 7 birds on a tree, while {father_name} is holding 2 more birds in their hands. The total of 9 birds is implied by the scene.

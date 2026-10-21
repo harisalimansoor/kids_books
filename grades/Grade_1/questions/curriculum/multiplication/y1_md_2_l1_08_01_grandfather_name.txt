@@ -1,9 +1,9 @@
-title: Making Clay Pots with Grandpa
+title: Packing Biscuits with Grandpa
 question_text:
-{user_name} and {grandfather_name} make clay pots. They make 3 pots each on 2 small work mats. How many clay pots do they make altogether?
+{user_name} helps {grandfather_name} pack biscuits. They put 3 biscuits into each of 3 small bags. How many biscuits do they pack altogether?
 options:
-A) 5
-B) 6
-C) 8
+A) 6
+B) 12
+C) 9
 image_prompt:
-Show {user_name} and {grandfather_name} making exactly 2 groups of 3 clay pots, with each group on one work mat. Show exactly 6 pots in total. No extra pots, text, letters, or numbers
+Show {user_name} and {grandfather_name} packing exactly 3 small bags, each containing exactly 3 biscuits. Show exactly 9 biscuits in total. No extra bags, biscuits, text, letters, or numbers.

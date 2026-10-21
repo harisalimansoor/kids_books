@@ -1,9 +1,9 @@
-title: Blowing Bubbles with Aunt
+title: Making Paper Chains with Aunt
 question_text:
-{user_name} blows bubbles with {aunt_name}. They make 3 bubbles with each of 2 bubble wands. How many bubbles do they make altogether?
+{user_name} helps {aunt_name} make paper chains. They use 3 paper loops for each of 2 short chains. How many paper loops do they use altogether?
 options:
-A) 6
-B) 5
-C) 9
+A) 5
+B) 9
+C) 6
 image_prompt:
-Show {user_name} and {aunt_name} using exactly 2 bubble wands. Show exactly 3 separate bubbles coming from each wand, making exactly 6 bubbles in total. No extra bubbles or wands, and no text, letters, or numbers.
+Show {user_name} and {aunt_name} making exactly 2 separate short paper chains. Each chain must contain exactly 3 clearly distinguishable paper loops. Show exactly 6 loops in total. No extra chains or loops, and no text, letters, or numbers.

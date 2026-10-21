@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {uncle_name} work on this together. {user_name} has 3 bags of apples. Each bag has 2 apples. How many apples does {user_name} have in total?
-
-image_prompt:
-{user_name} and {uncle_name} work on this together. A bright kitchen scene. {user_name} is standing at a table with 3 bags of apples. Each bag is open, showing exactly 2 apples inside. {user_name} is counting the apples, while a few apples are scattered on the table. The bags are clearly labelled with the number of apples inside.

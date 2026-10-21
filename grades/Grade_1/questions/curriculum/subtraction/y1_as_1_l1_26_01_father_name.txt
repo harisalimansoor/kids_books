@@ -1,9 +1,9 @@
-title: Playing Football with Dad
+title: Packing a Picnic with Dad
 question_text:
-{user_name} has 8 footballs. {father_name} takes 3 footballs to the garage. How many footballs remain?
+{user_name} packs 7 sandwiches for a picnic. {father_name} takes 2 sandwiches for lunch. How many sandwiches remain in the lunchbox?
 options:
-A) 6
-B) 5
-C) 4
+A) 4
+B) 6
+C) 5
 image_prompt:
-Show {user_name} playing with {father_name}. Dad takes 3 footballs from a group of 8. Show exactly 5 footballs remaining with the child and 3 with Dad. No extra footballs, text, letters, or numbers.
+Show {user_name} painting flowerpots with {father_name}. Dad paints 4 pots from a group of 9. Show exactly 5 unpainted pots and 4 painted pots. No extra pots, text, letters, or numbers.

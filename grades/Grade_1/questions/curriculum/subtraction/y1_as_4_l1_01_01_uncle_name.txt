@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 30 apples. {uncle_name} gives {user_name} 20 more apples. How many apples does {user_name} have now?
-
-image_prompt:
-A bright orchard scene. {user_name} is standing next to a basket filled with 30 apples, while {uncle_name} is handing over a box containing 20 more apples. The basket is clearly visible with apples spilling slightly over the edge, and a sunny sky in the background.

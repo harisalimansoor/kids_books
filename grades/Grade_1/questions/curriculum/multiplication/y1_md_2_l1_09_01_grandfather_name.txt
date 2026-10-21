@@ -1,9 +1,9 @@
-title: Collecting Eggs with Grandpa
+title: Setting Up Mini Bowling with Grandpa
 question_text:
-{user_name} helps {grandfather_name} collect eggs from the henhouse. They collect 2 eggs from each of 4 nests. How many eggs do they collect altogether?
+{user_name} and {grandfather_name} set up mini bowling pins. They arrange 2 pins in each of 4 small groups. How many pins do they arrange altogether?
 options:
-A) 6
-B) 10
-C) 8
+A) 8
+B) 6
+C) 10
 image_prompt:
-Show {user_name} and {grandfather_name} collecting eggs from exactly 4 nests. Each nest contains exactly 2 eggs. Show exactly 8 eggs in total. No extra nests, eggs, text, letters, or numbers.
+Show {user_name} and {grandfather_name} arranging exactly 4 separate groups of 2 mini bowling pins. Show exactly 8 pins in total. No extra pins, text, letters, or numbers.

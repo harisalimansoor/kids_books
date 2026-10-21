@@ -1,0 +1,9 @@
+title: Washing Apples with Mom
+question_text:
+{user_name} puts 6 apples in the sink. {mother_name} washes 2 apples and places them in a bowl. How many apples remain in the sink?
+options:
+A) 3
+B) 5
+C) 4
+image_prompt:
+Show {user_name} washing apples with {mother_name}. Mom moves 2 apples from the sink to a separate bowl. Show exactly 4 apples in the sink and 2 in the bowl. No extra apples, text, letters, or numbers.

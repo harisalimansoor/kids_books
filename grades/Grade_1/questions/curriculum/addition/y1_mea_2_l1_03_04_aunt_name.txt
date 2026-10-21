@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {aunt_name} work on this together. {user_name} weighs two apples on a scale. Each apple weighs 150 grams. What is the total weight of the two apples?
-
-image_prompt:
-A kitchen scene with a digital scale on the counter. {user_name} places two red apples on the scale, which shows 300 grams. {aunt_name} watches closely, holding a notebook to record the weight. The apples are shiny and fresh.

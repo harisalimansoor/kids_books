@@ -1,9 +1,9 @@
-title: Painting Animal Masks with Sister
+title: Creating Puzzle Pictures with Sister
 question_text:
-{user_name} helps {sister_name} paint animal masks. Each of 3 masks has 2 eye holes. How many eye holes are there altogether?
+{user_name} helps {sister_name} complete picture puzzles. They place 4 puzzle pieces on each of 2 small puzzle boards. How many puzzle pieces do they place altogether?
 options:
-A) 6
-B) 5
-C) 8
+A) 8
+B) 6
+C) 10
 image_prompt:
-Show {user_name} and {sister_name} painting exactly 3 animal masks. Each mask must have exactly 2 clearly visible eye holes. Show exactly 6 eye holes in total. No extra masks or eye holes, and no text, letters, or numbers.
+Show {user_name} and {sister_name} working on exactly 2 small puzzle boards. Each board must contain exactly 4 clearly separate puzzle pieces. Show exactly 8 pieces in total. No extra boards or pieces, and no text, letters, or numbers.

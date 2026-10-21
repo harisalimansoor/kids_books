@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 15 cookies. {sister_name} eats 6 cookies. How many cookies does {user_name} have left?
-
-image_prompt:
-A kitchen table scene. {user_name} is looking at a plate with 15 cookies, while {sister_name} is taking a bite from one of the cookies. The remaining cookies are clearly visible, showing that 9 are left.

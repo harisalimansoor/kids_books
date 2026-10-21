@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {uncle_name} are counting pairs of socks. They find 6 pairs. How many socks do they have altogether?
-
-image_prompt:
-A bright living room scene. {user_name} is holding a pair of socks while {uncle_name} counts 6 pairs of socks laid out on a table. Each pair is neatly arranged, and the total of 12 socks is visually represented. The room has a cozy atmosphere with a sofa and a window in the background.

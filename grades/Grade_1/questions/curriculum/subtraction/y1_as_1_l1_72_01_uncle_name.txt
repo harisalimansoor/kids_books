@@ -1,9 +1,0 @@
-title: Setting Up a Telescope with Uncle
-question_text:
-{user_name} has 6 star stickers for a telescope activity. {uncle_name} uses 2 stickers on his notebook. How many stickers remain with {user_name}?
-options:
-A) 5
-B) 4
-C) 3
-image_prompt:
-Show {user_name} looking through a telescope with {uncle_name}. Uncle uses 2 star stickers from a group of 6 on his notebook. Show exactly 4 unused stickers with the child and 2 on the notebook. No extra stickers, text, letters, or numbers.

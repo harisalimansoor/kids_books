@@ -1,9 +1,0 @@
-title: Practising Magic Tricks with Uncle
-question_text:
-{user_name} has 7 magic cards. {uncle_name} uses 3 cards for a magic trick. How many cards remain with {user_name}?
-options:
-A) 5
-B) 3
-C) 4
-image_prompt:
-Show {user_name} practising a magic trick with {uncle_name}. Uncle uses 3 cards from a group of 7. Show exactly 4 cards with the child and 3 with Uncle. No extra cards, text, letters, or numbers.

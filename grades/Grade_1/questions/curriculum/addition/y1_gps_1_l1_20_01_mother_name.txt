@@ -1,9 +1,9 @@
-title: Buying Balloons with Mom
+title: Pouring Juice with Mom
 question_text:
-{user_name} and {mother_name} are buying colorful balloons. {user_name} buys 5 balloons, and {mother_name} buys 4 balloons. How many balloons did they buy in total?
+{user_name} and {mother_name} are pouring glasses of orange juice. {user_name} pours 4 glasses, and {mother_name} pours 5 glasses. How many glasses did they pour in total?
 options:
-A) 9
-B) 1
-C) 15
+A) 1
+B) 18
+C) 9
 image_prompt:
-Make 5 colorful balloons in front of {user_name} and 4 colorful balloons in front of {mother_name}.
+Make 4 glasses of orange juice in front of {user_name} and 5 glasses of orange juice in front of {mother_name}.

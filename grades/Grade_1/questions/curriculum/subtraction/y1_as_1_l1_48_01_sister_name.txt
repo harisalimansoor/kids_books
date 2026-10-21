@@ -1,9 +1,9 @@
-title: Making a Necklace with Sister
+title: Playing Ring Toss with Sister
 question_text:
-{user_name} has 9 colorful beads. {sister_name} uses 4 beads to make a necklace. How many unused beads remain?
+{user_name} has 8 rings for a ring-toss game. {sister_name} throws 3 rings onto a peg. How many rings remain in {user_name}'s hand?
 options:
 A) 5
 B) 4
 C) 6
 image_prompt:
-Show {user_name} making a necklace with {sister_name}. Sister uses 4 beads from a group of 9. Show exactly 5 loose beads on the table and 4 beads on the necklace. No extra beads, text, letters, or numbers.
+Show {user_name} playing ring toss with {sister_name}. Sister throws 3 rings onto a peg from a group of 8. Show exactly 5 rings in the child's hand and 3 around the peg. No extra rings, text, letters, or numbers.

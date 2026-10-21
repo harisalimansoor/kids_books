@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 8 apples. {sister_name} takes away 3 apples. How many apples does {user_name} have left?
-
-image_prompt:
-A bright kitchen scene. {user_name} is holding a basket with 8 apples, while {sister_name} is taking 3 apples out of the basket. The remaining apples in the basket are visible, showing the subtraction in action.

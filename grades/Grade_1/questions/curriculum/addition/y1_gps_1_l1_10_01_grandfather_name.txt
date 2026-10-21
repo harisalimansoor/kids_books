@@ -1,9 +1,9 @@
-title: Picking Apples with Grandpa
+title: Building Towers with Grandpa
 question_text:
-{user_name} and {grandfather_name} are picking apples from a tree. {user_name} picks 4 apples, and {grandfather_name} picks 3 apples. How many apples did they pick in total?
+{user_name} and {grandfather_name} are building toy towers. {user_name} builds 3 toy towers, and {grandfather_name} builds 4 toy towers. How many toy towers did they build in total?
 options:
-A) 3
-B) 6
+A) 1
+B) 18
 C) 7
 image_prompt:
-Show {user_name} holding exactly 4 picked apples and {grandfather_name} holding exactly 3 picked apples. Show exactly 7 apples in total. No extra apples, text, letters, or numbers.
+Show {user_name} building exactly 3 separate toy towers and {grandfather_name} building exactly 4 separate toy towers. Show exactly 7 towers in total. No extra towers, text, letters, or numbers.

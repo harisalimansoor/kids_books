@@ -1,9 +1,9 @@
-title: Decorating Donuts with Sister
+title: Making Pinwheels with Sister
 question_text:
-{user_name} decorates 3 glazed donuts with sprinkles, and {sister_name} decorates 3 more. How many donuts have they decorated altogether?
+{user_name} assembles 5 colorful paper pinwheels, while {sister_name} makes 3 more. How many pinwheels have they made altogether?
 options:
-A) 0
-B) 6
-C) 13
+A) 8
+B) 2
+C) 15
 image_prompt:
-Show {user_name} adding sprinkles to donuts while {sister_name} spreads icing on another batch. Include EXACTLY 3 donuts in the child's group and 3 in the sister's group, with no extra donuts.
+Show {user_name} assembling a paper pinwheel with a stick while {sister_name} tests her finished pinwheels in a gentle breeze. Include EXACTLY 5 completed pinwheels in the child's group and 3 in the sister's group, with no extra pinwheels.

@@ -1,5 +1,9 @@
+title: Finding the Number Before with Grandpa
 question_text:
-{user_name} has 75 stickers. {grandfather_name} says, 'Let's count backwards to 70!' How many numbers will you count?
-
+{user_name} helps {grandfather_name} arrange number cards in counting order. Which number comes just before 25?
+options:
+A) 26
+B) 24
+C) 23
 image_prompt:
-A bright bedroom scene. {user_name} is sitting at a desk covered with 75 colourful stickers. {grandfather_name} is standing next to them, pointing at a whiteboard where the number 70 is written. The stickers are arranged in a fun way, and the numbers from 75 to 70 are drawn in the air with a finger.
+Show {user_name} and {grandfather_name} arranging exactly 3 blank cards in a row, with one card between the other two. No printed numbers, letters, extra cards, or other text.

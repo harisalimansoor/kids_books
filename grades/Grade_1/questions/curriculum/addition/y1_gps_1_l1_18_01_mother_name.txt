@@ -1,9 +1,9 @@
-title: Decorating Cupcakes with Mom
+title: Wrapping Gifts with Mom
 question_text:
-{user_name} and {mother_name} are decorating cupcakes. {user_name} decorates 4 cupcakes, and {mother_name} decorates 2 cupcakes. How many cupcakes did they decorate in total?
+{user_name} and {mother_name} are wrapping birthday gifts. {user_name} wraps 2 gifts, and {mother_name} wraps 2 gifts. How many gifts did they wrap in total?
 options:
-A) 2
-B) 6
-C) 14
+A) 10
+B) 4
+C) 1
 image_prompt:
-Make 4 cupcakes in front of {user_name} and 2 cupcakes in front of {mother_name}
+Make 2 wrapped gifts in front of {user_name} and 2 wrapped gifts in front of {mother_name}.

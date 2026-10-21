@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {grandmother_name} are making a sandwich. {user_name} puts down the bread first, then {grandmother_name} adds the cheese. What is the order of their actions?
-
-image_prompt:
-A kitchen scene where {user_name} is placing two slices of bread on a cutting board. {grandmother_name} is next to them, holding a slice of cheese ready to add. The kitchen is bright and cheerful, with various ingredients visible on the counter. The bread is clearly the first item, and the cheese is the second.

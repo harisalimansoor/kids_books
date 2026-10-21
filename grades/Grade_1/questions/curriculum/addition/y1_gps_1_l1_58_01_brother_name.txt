@@ -1,9 +1,9 @@
-title: Catching Butterflies with Brother
+title: Art Time with Brother
 question_text:
-In the garden, {user_name} catches 4 butterflies with a net, while {brother_name} catches 2. How many butterflies did they catch altogether?
+During art class, {user_name} selects 4 paintbrushes, and {brother_name} selects 3. How many paintbrushes have they selected altogether?
 options:
-A) 6
-B) 2
+A) 7
+B) 1
 C) 14
 image_prompt:
-Show {user_name} carefully guiding 4 colorful butterflies into a butterfly net while {brother_name} uses his net to catch 2. Keep all 6 butterflies clearly visible and distinct, with no extra butterflies.
+Show {user_name} choosing paintbrushes from an art container while {brother_name} arranges his brushes beside a palette. Include EXACTLY 4 paintbrushes in the child's group and 3 in the brother's group, with no extra brushes visible.

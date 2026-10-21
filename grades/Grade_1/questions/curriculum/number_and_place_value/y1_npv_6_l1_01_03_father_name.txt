@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 25 marbles and {father_name} has 30 marbles. Who has more marbles?
-
-image_prompt:
-A bright playroom scene. {user_name} is sitting on the floor with a small box containing 25 colourful marbles, while {father_name} stands nearby holding a larger box with 30 marbles. Both boxes are clearly visible, and the marbles are arranged in groups for easy counting. The expressions on their faces show curiosity as they compare their collections.

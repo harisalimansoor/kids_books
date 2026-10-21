@@ -1,9 +1,9 @@
-title: Washing Toy Boats with Grandpa
+title: Making Paper Windmills with Grandpa
 question_text:
-{user_name} and {grandfather_name} wash toy boats. They wash 3 toy boats each in 2 tubs. How many toy boats do they wash altogether?
+{user_name} and {grandfather_name} make paper windmills. They make 3 windmills each on 2 tables. How many windmills do they make altogether?
 options:
-A) 6
-B) 5
+A) 5
+B) 6
 C) 9
 image_prompt:
-Show {user_name} and {grandfather_name} washing exactly 2 tubs, each containing exactly 3 toy boats. Show exactly 6 toy boats in total. No extra boats, tubs, text, letters, or numbers.
+Show {user_name} and {grandfather_name} making exactly 2 groups of 3 paper windmills, with each group on one table. Show exactly 6 windmills in total. No extra windmills, tables, text, letters, or numbers.

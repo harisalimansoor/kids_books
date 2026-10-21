@@ -1,9 +1,9 @@
-title: Erasing Stars with Grandpa
+title: Sorting Seashells with Grandpa
 question_text:
-{user_name} draws 8 stars on a paper. {grandfather_name} erases 3 stars. How many stars are left?
+{user_name} collects 7 seashells in a bucket. {grandfather_name} takes 2 seashells and places them on a display tray. How many seashells remain in the bucket?
 options:
-A) 6
+A) 4
 B) 5
-C) 4
+C) 6
 image_prompt:
-Show {user_name} drawing stars while {grandfather_name} erases 3 stars from a paper that originally had 8 stars. Show exactly 5 intact stars and 3 stars being erased. No extra stars, text, letters, or numbers.
+Show {user_name} sorting seashells with {grandfather_name}. Show exactly 5 seashells inside a bucket and 2 separate seashells on a display tray. No additional seashells, text, letters, or numbers.

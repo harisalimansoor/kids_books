@@ -1,9 +1,9 @@
-title: Knitting Mittens with Grandma
+title: Harvesting Plums with Grandma
 question_text:
-After their knitting session, {user_name} has completed 2 wool mittens, and {grandmother_name} has knitted 2 more. How many mittens have they made in total?
+During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {grandmother_name} gathers 3 into another. How many plums have they collected in total?
 options:
-A) 0
-B) 4
-C) 12
+A) 3
+B) 18
+C) 9
 image_prompt:
-Create a warm, inviting knitting scene in which {user_name} and {grandmother_name} sit at a comfortable craft table. Two finished knitted mittens belonging to the child lie flat on a small mat while the child carefully checks their stitching. Beside Grandma, her own two finished mittens are arranged neatly as she examines a seam with a sewing needle. The child's side must contain EXACTLY 2 complete wool mittens, and Grandma's side must contain EXACTLY 2 complete wool mittens, making 4 mittens altogether. Every mitten must have a clearly recognizable mitten shape, with its thumb visible, and must be separated from the other mittens rather than stacked or hidden. Use different gentle wool colors and realistic knitted textures to make the four items easy to distinguish. Knitting needles and a modest ball of yarn may appear as supporting craft materials, but no unfinished mitten, mitten-shaped yarn, extra gloves, or additional knitted mittens may appear. Avoid placing the finished mittens in either character's hands. No text, letters, numbers, labels, or written answers.
+Illustrate a peaceful plum-harvesting scene beside a rustic outdoor worktable. {user_name} kneels beside a shallow harvest basket, carefully arranging the collected fruit, while {grandmother_name} sits nearby sorting her smaller harvest. The child's basket must contain EXACTLY 6 whole, ripe purple plums. Grandma's separate basket must contain EXACTLY 3 whole, ripe purple plums. Every plum must be individually recognizable, with a natural oval shape, rich purple skin, and enough spacing to count it clearly. Avoid piling the fruit too high or allowing one plum to hide another. The characters should appear focused on sorting the harvest, with natural body positions and relaxed expressions. Wooden baskets, green leaves, and a simple countryside backdrop may be included, but do not show additional plums on trees, on the ground, on the table, or in either person's hands. The only visible plums must be the six in the first basket and the three in the second. No text, letters, numbers, labels, or written answers.

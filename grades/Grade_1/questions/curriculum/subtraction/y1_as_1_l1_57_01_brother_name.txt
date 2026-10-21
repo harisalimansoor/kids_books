@@ -1,9 +1,9 @@
-title: Playing Table Tennis with Brother
+title: Playing with Toy Dinosaurs and Brother
 question_text:
-{user_name} has 7 table-tennis balls. {brother_name} takes 2 balls to practise serving. How many balls remain with {user_name}?
+{user_name} has 9 toy dinosaurs. {brother_name} places 4 dinosaurs inside a toy cave. How many dinosaurs remain outside the cave?
 options:
 A) 5
-B) 4
-C) 6
+B) 6
+C) 4
 image_prompt:
-Show {user_name} playing table tennis with {brother_name}. Brother takes 2 balls from a group of 7. Show exactly 5 balls with the child and 2 with Brother. No extra balls, text, letters, or numbers.
+Show {user_name} playing with toy dinosaurs while {brother_name} places 4 dinosaurs inside a toy cave. Show exactly 5 dinosaurs outside and 4 inside the cave. No extra dinosaurs, text, letters, or numbers.

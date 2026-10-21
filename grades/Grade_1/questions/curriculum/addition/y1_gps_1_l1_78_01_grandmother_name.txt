@@ -1,9 +1,9 @@
-title: Drawing with Grandma
+title: Hanging Lanterns with Grandma
 question_text:
-At the art table, {user_name} draws 4 rectangles on a drawing board while {grandmother_name} adds 2 rectangles to her own board. How many rectangles have they drawn altogether?
+For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {grandmother_name} hangs 3 along another. How many lanterns have they hung altogether?
 options:
-A) 2
-B) 14
-C) 6
+A) 6
+B) 0
+C) 13
 image_prompt:
-Create a lively art-room scene with {user_name} and {grandmother_name} sitting side by side at a drawing table. {user_name} is actively drawing the final colored rectangle on a white board resting on the table, while {grandmother_name} points to her own board and works on her drawing. The child's board must display EXACTLY 4 completed, colorful, clearly separated rectangles. Grandma's board must display EXACTLY 2 completed, colorful, clearly separated rectangles. All six drawn rectangles must be fully visible and easy to count. Make the drawing activity feel natural, with pencils and a few ordinary art supplies arranged around the workspace. Do not add any extra drawn rectangles, geometric shapes, diagrams, or doodles to either board. Keep both boards unobstructed and clearly distinguishable. Do not place either board in the characters' hands. No text, letters, numbers, labels, or written answers anywhere in the image.
+Depict a joyful garden-decorating scene in the late afternoon. {user_name} stands beside a low, secure step stool, fastening colorful paper lanterns onto a horizontal string. Nearby, {grandmother_name} adjusts the spacing of lanterns on a second string stretched between two garden posts. The child's string must have EXACTLY 3 round paper lanterns, and Grandma's string must have EXACTLY 3 round paper lanterns, making 6 lanterns in total. Each lantern must hang separately from its string, with its complete rounded shape visible and no overlaps. Use attractive varied colors and softly glowing paper textures, but keep the lanterns themselves clearly countable. The characters should be engaged in decorating the garden, looking toward the strings rather than at the viewer. No additional lanterns on trees, fences, tables, or in the background. Avoid fairy lights, decorative bulbs, or extra hanging ornaments that resemble lanterns. No text, letters, numbers, labels, or written answers.

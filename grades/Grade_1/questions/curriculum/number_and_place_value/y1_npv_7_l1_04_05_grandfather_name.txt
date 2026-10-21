@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 12 crayons. {grandfather_name} explains that 12 can be thought of as 10 and 2. Can you help {user_name} to separate the crayons into 10 and a bit?
-
-image_prompt:
-A bright art room scene. {user_name} is sitting at a table with 12 crayons in front of them. {grandfather_name} is showing {user_name} how to group the crayons, with 10 crayons in one pile and 2 crayons in another pile. The numbers 10 and 2 are written on a piece of paper beside the crayons.

@@ -1,9 +1,9 @@
-title: Packing Erasers with Mom
+title: Setting Picnic Places with Mom
 question_text:
-{user_name} helps {mother_name} pack erasers into pencil cases. They put 2 erasers in each of 4 pencil cases. How many erasers do they pack altogether?
+{user_name} helps {mother_name} set up a picnic. They place 4 spoons beside each of 2 picnic plates. How many spoons do they place altogether?
 options:
-A) 6
-B) 10
-C) 8
+A) 8
+B) 6
+C) 4
 image_prompt:
-Show {user_name} and {mother_name} packing exactly 4 open pencil cases. Each case must contain exactly 2 clearly visible erasers. Show exactly 8 erasers in total. No extra cases or erasers, and no text, letters, or numbers.
+Show {user_name} and {mother_name} setting up exactly 2 picnic plates. Place exactly 4 separate spoons beside each plate. Show exactly 8 spoons in total. No extra plates or spoons, and no text, letters, or numbers.

@@ -1,9 +1,9 @@
-title: Building a Robot with Brother
+title: Playing a Magnetic Fishing Game with Brother
 question_text:
-{user_name} has 9 toy robot parts. {brother_name} uses 4 parts to build a robot. How many unused parts remain?
+{user_name} has 7 magnetic toy fish. {brother_name} catches 2 fish with a toy fishing rod. How many fish remain in the pond?
 options:
 A) 6
 B) 5
 C) 4
 image_prompt:
-Show {user_name} building a toy robot with {brother_name}. Brother uses 4 parts from a group of 9. Show exactly 5 unused parts on the table and 4 incorporated into the robot. No extra parts, text, letters, or numbers.
+Show {user_name} playing a magnetic fishing game with {brother_name}. Brother catches 2 toy fish from a pond containing 7. Show exactly 5 fish remaining in the pond and 2 held by Brother. No extra fish, text, letters, or numbers.

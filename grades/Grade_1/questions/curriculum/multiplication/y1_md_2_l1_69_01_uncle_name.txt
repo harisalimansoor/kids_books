@@ -1,9 +1,9 @@
-title: Packing Suitcases for a Trip with Uncle
+title: Assembling Toy Clocks with Uncle
 question_text:
-{user_name} helps {uncle_name} prepare suitcases for a trip. Each of 3 suitcases has 2 visible handles. How many handles do the suitcases have altogether?
+{user_name} helps {uncle_name} assemble toy clocks. Each of 3 clocks has 2 clock hands. How many clock hands do the clocks have altogether?
 options:
-A) 6
-B) 4
-C) 8
+A) 4
+B) 7
+C) 6
 image_prompt:
-Show {user_name} and {uncle_name} preparing exactly 3 suitcases. Each suitcase must have exactly 2 clearly visible handles. Show exactly 6 handles in total. No extra suitcases or handles, and no text, letters, or numbers.
+Show {user_name} and {uncle_name} assembling exactly 3 simple toy clocks. Each clock face must have exactly 2 clearly visible hands and no numerals. Show exactly 6 clock hands in total. No extra clocks or hands, and no text, letters, or numbers.

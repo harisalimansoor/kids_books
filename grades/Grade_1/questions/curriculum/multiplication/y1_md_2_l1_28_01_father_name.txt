@@ -1,9 +1,9 @@
-title: Playing Ring Toss with Dad
+title: Folding Towels with Dad
 question_text:
-{user_name} plays a ring-toss game with {father_name}. They place 2 rings around each of 3 pegs. How many rings do they use altogether?
+{user_name} helps {father_name} fold clean towels. They put 3 folded towels in each of 2 baskets. How many towels do they put away altogether?
 options:
-A) 9
+A) 6
 B) 4
-C) 6
+C) 9
 image_prompt:
-Show {user_name} and {father_name} playing ring toss with exactly 3 upright pegs. Place exactly 2 rings around each peg. Show exactly 6 rings in total. No extra rings, pegs, text, letters, or numbers.
+Show {user_name} and {father_name} arranging exactly 2 baskets. Each basket must contain exactly 3 clearly separate folded towels. Show exactly 6 towels in total. No extra towels, text, letters, or numbers.

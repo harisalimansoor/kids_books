@@ -1,9 +1,9 @@
-title: Preparing Toy Helicopters with Aunt
+title: Arranging Toy Penguins with Aunt
 question_text:
-{user_name} helps {aunt_name} prepare toy helicopters. Each of 3 helicopters has 2 landing skids. How many landing skids do the helicopters have altogether?
+{user_name} helps {aunt_name} arrange toy penguins on two icy platforms. They place 4 penguins on each platform. How many toy penguins do they arrange altogether?
 options:
 A) 6
-B) 5
-C) 8
+B) 8
+C) 5
 image_prompt:
-Show {user_name} and {aunt_name} arranging exactly 3 toy helicopters. Each helicopter must have exactly 2 clearly visible landing skids. Show exactly 6 skids in total. No extra helicopters or skids, and no text, letters, or numbers.
+Show {user_name} and {aunt_name} arranging exactly 2 separate icy platforms. Each platform must have exactly 4 clearly visible toy penguins. Show exactly 8 penguins in total. No extra platforms or penguins, and no text, letters, or numbers.

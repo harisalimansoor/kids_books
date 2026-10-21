@@ -1,9 +1,9 @@
-title: Pitching Camping Tents with Uncle
+title: Sorting Toy Hammers with Uncle
 question_text:
-{user_name} helps {uncle_name} pitch camping tents. Each of 2 tents needs 4 tent pegs. How many tent pegs do they need altogether?
+{user_name} helps {uncle_name} organize toy tools. They put 2 toy hammers in each of 3 toolboxes. How many toy hammers do they put away altogether?
 options:
-A) 6
-B) 8
+A) 7
+B) 6
 C) 5
 image_prompt:
-Show {user_name} and {uncle_name} setting up exactly 2 camping tents. Each tent must have exactly 4 clearly visible tent pegs securing it to the ground. Show exactly 8 pegs in total. No extra tents or pegs, and no text, letters, or numbers.
+Show {user_name} and {uncle_name} organizing exactly 3 open toolboxes. Each toolbox must contain exactly 2 clearly visible toy hammers. Show exactly 6 hammers in total. No extra toolboxes or hammers, and no text, letters, or numbers.

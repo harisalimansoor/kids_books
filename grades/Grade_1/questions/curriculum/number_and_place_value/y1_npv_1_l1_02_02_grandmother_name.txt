@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 30 marbles. {grandmother_name} says, 'Let's count forwards to 40!' How many numbers will you count?
-
-image_prompt:
-A sunny garden scene. {user_name} is sitting on the grass with a pile of 30 colourful marbles in front of them. {grandmother_name} is standing nearby, excitedly pointing towards the number 40 written on a piece of paper. The marbles are arranged in groups, and the numbers from 30 to 40 are drawn in the air with a finger.

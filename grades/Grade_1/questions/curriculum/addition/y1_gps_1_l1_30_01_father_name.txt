@@ -1,9 +1,9 @@
-title: Collecting Tennis Balls with Dad
+title: Stacking Comic Books with Dad
 question_text:
-After their tennis game, {user_name} collects 5 tennis balls, while {father_name} gathers 2 more. How many tennis balls have they collected altogether?
+{user_name} stacks 4 comic books on a table, while {father_name} stacks 3 more. How many comic books have they stacked altogether?
 options:
-A) 3
-B) 15
-C) 7
+A) 17
+B) 7
+C) 1
 image_prompt:
-Show {user_name} picking up tennis balls from the court while {father_name} places his collected balls in a basket. Include EXACTLY 5 tennis balls in the child's group and 2 in Dad's group, with no extra balls.
+Show {user_name} arranging comic books into a neat stack while {father_name} places books on a separate stack nearby. Include EXACTLY 4 comic books in the child's group and 3 in Dad's group, with no extra books.

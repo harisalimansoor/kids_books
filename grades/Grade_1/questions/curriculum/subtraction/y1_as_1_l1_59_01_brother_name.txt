@@ -1,9 +1,9 @@
-title: Playing a Drum with Brother
+title: Playing with Toy Boats and Brother
 question_text:
-{user_name} has 6 small toy drums. {brother_name} puts 2 drums away in a cupboard. How many drums remain outside?
+{user_name} has 8 toy boats in a water tub. {brother_name} removes 3 boats from the tub. How many toy boats remain in the tub?
 options:
-A) 3
-B) 5
-C) 4
+A) 4
+B) 6
+C) 5
 image_prompt:
-Show {user_name} playing a toy drum while {brother_name} puts 2 drums from a group of 6 into a cupboard. Show exactly 4 drums outside and 2 inside. No extra drums, text, letters, or numbers.
+Show {user_name} playing with toy boats in a water tub while {brother_name} removes 3 boats. Show exactly 5 boats remaining in the tub and 3 outside it. No extra boats, text, letters, or numbers.

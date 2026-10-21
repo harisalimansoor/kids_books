@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 8 crayons. {uncle_name} asks how many crayons they have if they don't give any away. How many crayons does {user_name} have?
-
-image_prompt:
-An art room scene. {user_name} is holding a box with 8 crayons, while {uncle_name} is looking curiously. The crayons are colorful and clearly visible in the box.

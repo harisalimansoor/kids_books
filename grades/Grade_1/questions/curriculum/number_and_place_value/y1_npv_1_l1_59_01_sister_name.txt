@@ -1,0 +1,9 @@
+title: Identifying Number Names with Sister
+question_text:
+{user_name} and {sister_name} look at the number 32. Which number name matches 32?
+options:
+A) Twenty-three
+B) Thirty-two
+C) Forty-two
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 32 toy buttons: 3 groups of 10 buttons each and 2 loose buttons. Keep all buttons visible and countable. No extra buttons, and no text, letters, or numbers.

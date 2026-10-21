@@ -1,5 +1,0 @@
-question_text:
-{user_name} counts 4 toy cars. {aunt_name} brings over the same number of toy cars. How many toy cars do they have together?
-
-image_prompt:
-A playroom filled with toys. {user_name} is sitting on the floor with 4 toy cars in front of them, while {aunt_name} is adding another 4 toy cars from a box. The total of 8 toy cars is clearly visible, with bright colours and different designs.

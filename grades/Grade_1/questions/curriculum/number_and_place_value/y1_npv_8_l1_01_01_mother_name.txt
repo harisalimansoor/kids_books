@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {mother_name} have a basket with 6 apples. They want to find out if the number of apples is odd or even. What do they discover?
-
-image_prompt:
-A bright kitchen scene. {user_name} is holding a basket filled with 6 red apples while {mother_name} is counting the apples on a table. The table has a notepad and a pencil for recording their findings. The apples are clearly visible, and the number 6 is written on the notepad.

@@ -1,9 +1,9 @@
-title: Building Toy Robots with Uncle
+title: Making Tacos with Uncle
 question_text:
-{user_name} assembles 3 toy robots, while {uncle_name} builds 2 more. How many toy robots have they built altogether?
+In the kitchen, {user_name} fills 3 crispy taco shells, while {uncle_name} prepares 3 more. How many tacos have they made altogether?
 options:
-A) 1
-B) 5
+A) 6
+B) 0
 C) 13
 image_prompt:
-Show {user_name} assembling toy robots at a workbench while {uncle_name} connects robot parts nearby. Include EXACTLY 3 completed toy robots in the child's area and 2 in the uncle's area, with no extra robots.
+Show {user_name} filling taco shells with vegetables while {uncle_name} adds toppings to another batch. Include EXACTLY 3 tacos in the child's work area and 3 in the uncle's, with no extra tacos.

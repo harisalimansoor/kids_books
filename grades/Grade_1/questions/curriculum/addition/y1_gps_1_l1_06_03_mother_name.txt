@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {mother_name} are making art. {user_name} draws 2 circles, and {mother_name} draws 3 circles. How many circles did they draw altogether?
-
-image_prompt:
-An art session with paper and markers. {user_name} is drawing 2 circles on their paper, while {mother_name} is drawing 3 circles on another sheet. Both drawings are visible, showing a total of 5 circles.

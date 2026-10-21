@@ -1,9 +1,0 @@
-title: Sorting Seashells with Grandpa
-question_text:
-{user_name} collects 7 seashells in a bucket. {grandfather_name} takes 2 seashells and places them on a display tray. How many seashells remain in the bucket?
-options:
-A) 4
-B) 5
-C) 6
-image_prompt:
-Show {user_name} sorting seashells with {grandfather_name}. Show exactly 5 seashells inside a bucket and 2 separate seashells on a display tray. No additional seashells, text, letters, or numbers.

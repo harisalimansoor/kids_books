@@ -1,9 +1,9 @@
-title: Sharing Biscuits with Grandpa
+title: Sweeping Leaves with Grandpa
 question_text:
-{user_name} has 6 biscuits on a plate. {grandfather_name} takes 2 biscuits for his own plate. How many biscuits remain on {user_name}'s plate?
+{user_name} sees 9 fallen leaves on a path. {grandfather_name} sweeps 4 leaves into a dustpan. How many leaves remain on the path?
 options:
-A) 3
-B) 5
-C) 4
+A) 5
+B) 4
+C) 6
 image_prompt:
-Show {user_name} sharing biscuits with {grandfather_name}. Show exactly 4 biscuits on the child's plate and 2 biscuits on Grandpa's plate. No other biscuits, text, letters, or numbers.
+Show {user_name} helping {grandfather_name} sweep a path. Show exactly 5 fallen leaves remaining on the path and 4 leaves inside the dustpan. No other visible fallen leaves, text, letters, or numbers.

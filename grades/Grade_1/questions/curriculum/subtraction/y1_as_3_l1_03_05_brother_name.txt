@@ -1,5 +1,0 @@
-question_text:
-{user_name} counts 9 balloons. {brother_name} brings 6 more balloons. How many balloons do they have together?
-
-image_prompt:
-An outdoor party scene. {user_name} is holding 9 balloons while {brother_name} is holding 6 more balloons. The balloons are colorful and floating in the air, with a visible count of 9 in {user_name}'s hands and 6 in {brother_name}'s hands.

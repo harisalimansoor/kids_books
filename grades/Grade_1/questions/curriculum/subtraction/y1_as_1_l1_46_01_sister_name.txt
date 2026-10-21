@@ -1,9 +1,9 @@
-title: Feeding a Toy Dinosaur with Sister
+title: Playing with Toy Trains and Sister
 question_text:
-{user_name} has 8 toy bones. {sister_name} gives 3 bones to a toy dinosaur. How many toy bones remain?
+{user_name} has 9 toy train carriages. {sister_name} removes 3 carriages from the train. How many carriages remain connected to the train?
 options:
 A) 6
 B) 5
-C) 4
+C) 7
 image_prompt:
-Show {user_name} playing with {sister_name} and a toy dinosaur. Sister gives 3 toy bones from a group of 8 to the dinosaur. Show exactly 5 bones remaining and 3 beside the dinosaur. No extra bones, text, letters, or numbers.
+Show {user_name} playing with a toy train while {sister_name} disconnects 3 carriages. Show exactly 6 carriages connected to the train and 3 separate carriages beside the track. No extra carriages, text, letters, or numbers.

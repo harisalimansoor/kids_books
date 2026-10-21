@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 75 stickers. {uncle_name} says, 'Let's count backwards to 70!' How many numbers will you count?
-
-image_prompt:
-A bright bedroom scene. {user_name} is sitting at a desk covered with 75 colourful stickers. {uncle_name} is standing next to them, pointing at a whiteboard where the number 70 is written. The stickers are arranged in a fun way, and the numbers from 75 to 70 are drawn in the air with a finger.

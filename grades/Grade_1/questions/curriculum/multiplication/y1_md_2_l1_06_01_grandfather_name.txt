@@ -1,9 +1,9 @@
-title: Feeding Rabbits with Grandpa
+title: Washing Toy Boats with Grandpa
 question_text:
-{user_name} helps {grandfather_name} feed rabbits. Each of 2 rabbits gets 3 carrot pieces. How many carrot pieces do the rabbits get altogether?
+{user_name} and {grandfather_name} wash toy boats. They wash 3 toy boats each in 2 tubs. How many toy boats do they wash altogether?
 options:
-A) 5
-B) 3
-C) 6
+A) 6
+B) 5
+C) 9
 image_prompt:
-Show {user_name} and {grandfather_name} feeding exactly 2 rabbits. Each rabbit must have exactly 3 carrot pieces. Show exactly 6 carrot pieces in total. No extra rabbits, carrots, text, letters, or numbers.
+Show {user_name} and {grandfather_name} washing exactly 2 tubs, each containing exactly 3 toy boats. Show exactly 6 toy boats in total. No extra boats, tubs, text, letters, or numbers.

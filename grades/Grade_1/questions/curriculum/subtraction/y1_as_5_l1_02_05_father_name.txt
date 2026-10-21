@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 4 toy cars and {father_name} has 6 toy cars. How many toy cars do they have together?
-
-image_prompt:
-A playroom scene. {user_name} is sitting on the floor with 4 toy cars in front of them, while {father_name} is nearby with 6 toy cars arranged in a line. A toy box is open in the background, but it does not show any other cars. The focus is on the two children and their toy cars.

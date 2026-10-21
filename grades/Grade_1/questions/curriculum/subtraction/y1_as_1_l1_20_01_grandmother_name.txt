@@ -1,9 +1,9 @@
-title: Picking Oranges with Grandma
+title: Making Paper Boats with Grandma
 question_text:
-{user_name} picks 8 oranges with {grandmother_name}. Grandma takes 3 oranges to the kitchen. How many oranges remain in the basket?
+{user_name} makes 7 paper boats with {grandmother_name}. Grandma places 3 boats in a box. How many paper boats remain outside the box?
 options:
 A) 5
-B) 6
+B) 3
 C) 4
 image_prompt:
-Show {user_name} picking oranges with {grandmother_name}. Grandma takes 3 oranges from a basket of 8. Show exactly 5 oranges remaining in the basket and 3 with Grandma. No extra oranges, text, letters, or numbers.
+Show {user_name} making paper boats with {grandmother_name}. Grandma puts 3 boats from a group of 7 into a box. Show exactly 4 paper boats outside the box and 3 inside. No extra boats, text, letters, or numbers.

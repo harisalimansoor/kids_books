@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 5 toy cars. {grandfather_name} takes away 2 toy cars. How many toy cars does {user_name} have left?
-
-image_prompt:
-A playroom scene. {user_name} is sitting on the floor with 5 toy cars in front of them, while {grandfather_name} is holding 2 toy cars, looking at {user_name}. The remaining 3 toy cars are clearly visible in front of {user_name}.
