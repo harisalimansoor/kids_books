@@ -1,1 +1,0 @@
-{user_name} and {mother_name} test whether 35 is prime or composite. Since 35 can be divided by 1, 5, 7, and 35, what kind of number is it?

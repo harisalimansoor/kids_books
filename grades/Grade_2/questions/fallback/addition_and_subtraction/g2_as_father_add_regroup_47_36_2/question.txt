@@ -1,1 +1,0 @@
-{user_name} and {father_name} read storybooks for a charity readathon. {user_name} reads 56 pages, and {father_name} reads 29 pages. How many pages did they read in all?

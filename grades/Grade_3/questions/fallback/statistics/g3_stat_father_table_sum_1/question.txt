@@ -1,1 +1,0 @@
-{user_name} and {father_name} review a tournament scoreboard showing {user_name} scored 20 points in round 1 and 15 points in round 2. What is the total score across both rounds?

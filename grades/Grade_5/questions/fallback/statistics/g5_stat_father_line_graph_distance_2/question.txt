@@ -1,1 +1,0 @@
-{user_name} and {father_name} check a hiking graph: 6 km at 10:00 am and 19 km at 2:00 pm. How far did they hike between 10:00 am and 2:00 pm?

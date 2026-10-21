@@ -1,1 +1,0 @@
-{user_name} and {mother_name} review a weekly reading log table. It shows {user_name} read 12 pages on Monday and 18 pages on Tuesday. How many pages were read on Tuesday?

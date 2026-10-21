@@ -1,1 +1,0 @@
-{user_name} and {father_name} check a winter weather station reading -3 °C in the evening. If the temperature drops by 4 degrees overnight, what is the new temperature?

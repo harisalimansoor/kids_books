@@ -1,1 +1,0 @@
-{user_name} scores 45 points in a family board game with {grandfather_name}. How many more points does {user_name} need to reach 100 points?

@@ -1,1 +1,0 @@
-{user_name} and {sibling_name} plot a treasure chest on a map starting at origin (0,0) by moving 4 units right and 3 units up. What are its coordinates (x, y)?

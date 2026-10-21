@@ -1,1 +1,0 @@
-{user_name} buys a fun pencil for 45p and pays with a £1 coin (100p). How much change does {user_name} receive with {mother_name}?

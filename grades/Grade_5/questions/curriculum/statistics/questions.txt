@@ -1,8 +1,0 @@
-1. Look at the picture! {user_name} and {grandmother_name} are looking at this together. A table shows the distances cycled by four pupils over a weekend: Amir: Saturday 14 km, Sunday 18 km Beth: Saturday 19 km, Sunday 15 km Charlie: Saturday 12 km, Sunday 23 km Daisy: Saturday 16 km, Sunday 21 km What is the difference between the total distance cycled by Daisy and the total distance cycled by Beth?
-
-2. Look at the picture! {user_name} and {mother_name} are looking at this together. A fruit stall records the mass of apples sold each day: Monday: 34.5 kg Tuesday: 42.8 kg Wednesday: 29.6 kg Thursday: 51.4 kg Friday: 48.7 kg What is the total mass of apples sold from Monday to Wednesday?
-
-3. Look at the picture! {user_name} and {mother_name} are looking at this together. A swimming pool records attendance across four public sessions on Saturday: Session 1: 124 swimmers Session 2: 186 swimmers Session 3: 215 swimmers Session 4: 95 swimmers The maximum capacity for each session is 250 swimmers. How many more swimmers in total could have attended across all 4 sessions?
-
-4. Look at the picture! {user_name} and {father_name} are looking at this together. The table shows the choices of after-school clubs for 85 Year 5 pupils: Art Club: 15 Boys, ? Girls (Total: 32) Drama Club: ? Boys, 14 Girls (Total: 27) Chess Club: 16 Boys, 10 Girls (Total: 26) How many boys in total attend an after-school club?
-

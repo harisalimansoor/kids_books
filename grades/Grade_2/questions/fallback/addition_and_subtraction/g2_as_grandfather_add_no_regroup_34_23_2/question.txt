@@ -1,1 +1,0 @@
-{user_name} and {grandfather_name} are picking orchard apples. {user_name} picks 42 red apples, and {grandfather_name} picks 25 green apples. How many apples did they pick altogether?
