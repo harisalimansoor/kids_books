@@ -1,0 +1,9 @@
+title: Making Garden Paths with Mother
+question_text:
+{user_name} and {mother_name} arrange 8 stepping stones equally along 2 garden paths. How many stepping stones will be on each path?
+options:
+A) 3
+B) 4
+C) 2
+image_prompt:
+Show {user_name} and {mother_name} arranging exactly 8 stepping stones along 2 separate garden paths, with exactly 4 stones on each path. No extra stepping stones, text, letters, or numbers.

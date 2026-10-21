@@ -1,0 +1,9 @@
+title: Painting Animal Masks with Sister
+question_text:
+{user_name} helps {sister_name} paint animal masks. Each of 3 masks has 2 eye holes. How many eye holes are there altogether?
+options:
+A) 6
+B) 5
+C) 8
+image_prompt:
+Show {user_name} and {sister_name} painting exactly 3 animal masks. Each mask must have exactly 2 clearly visible eye holes. Show exactly 6 eye holes in total. No extra masks or eye holes, and no text, letters, or numbers.

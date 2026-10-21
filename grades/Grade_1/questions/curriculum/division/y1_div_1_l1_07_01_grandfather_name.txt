@@ -1,0 +1,9 @@
+title: Organizing Toy Boats with Grandfather
+question_text:
+{user_name} and {grandfather_name} place 8 toy boats equally into 2 water trays. How many toy boats will be in each tray?
+options:
+A) 4
+B) 3
+C) 2
+image_prompt:
+Show {user_name} and {grandfather_name} placing exactly 8 toy boats equally into 2 shallow water trays, with exactly 4 boats in each tray. No extra boats, props, text, letters, or numbers.

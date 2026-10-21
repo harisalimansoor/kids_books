@@ -1,0 +1,9 @@
+title: Arranging Medals with Brother
+question_text:
+{user_name} helps {brother_name} arrange medals for a sports display. They hang 3 medals on each of 2 ribbons. How many medals do they hang altogether?
+options:
+A) 6
+B) 4
+C) 9
+image_prompt:
+Show {user_name} and {brother_name} arranging exactly 2 display ribbons. Each ribbon must hold exactly 3 clearly visible medals. Show exactly 6 medals in total. No extra ribbons or medals, and no text, letters, or numbers.

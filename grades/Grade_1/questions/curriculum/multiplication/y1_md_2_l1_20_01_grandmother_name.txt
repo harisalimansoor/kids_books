@@ -1,0 +1,9 @@
+title: Making Paper Puppets with Grandma
+question_text:
+{user_name} helps {grandmother_name} make paper puppets. Each of 3 puppets has 2 paper eyes. How many paper eyes do they use altogether?
+options:
+A) 6
+B) 5
+C) 9
+image_prompt:
+Show {user_name} and {grandmother_name} making exactly 3 simple paper puppets. Each puppet must have exactly 2 separate, clearly visible paper eyes. Show exactly 6 paper eyes in total. No extra puppets or eyes, and no text, letters, or numbers.

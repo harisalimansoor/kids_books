@@ -1,0 +1,9 @@
+title: Painting Ladybug Crafts with Mom
+question_text:
+{user_name} helps {mother_name} paint ladybug crafts. They paint 3 black spots on each of 2 ladybugs. How many black spots do they paint altogether?
+options:
+A) 5
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {mother_name} painting exactly 2 large ladybug crafts. Each ladybug must have exactly 3 clearly visible black spots on its wings. Show exactly 6 black spots in total. No extra spots or ladybugs, and no text, letters, or numbers.
