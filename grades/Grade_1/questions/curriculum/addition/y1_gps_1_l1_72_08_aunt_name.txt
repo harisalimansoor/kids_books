@@ -1,0 +1,9 @@
+title: Sewing Buttons with Aunt
+question_text:
+During their sewing session, {user_name} stitches 3 buttons onto a fabric hoop, and {aunt_name} sews 4 buttons onto another hoop. How many buttons have they sewn altogether?
+options:
+A) 7
+B) 1
+C) 13
+image_prompt:
+Illustrate a cozy sewing corner where {user_name} and {aunt_name} are working on circular fabric embroidery hoops placed on a craft table. The child is carefully sewing buttons onto the first hoop, while Aunt sits nearby stitching a button onto her own fabric. The child's hoop must contain EXACTLY 3 large, colorful buttons sewn onto the fabric. Aunt's hoop must contain EXACTLY 4 large, colorful buttons sewn onto the fabric. Arrange the buttons with sufficient space between them so each individual button can be identified and counted easily. Their hands, needles, and threads should support the sewing activity without covering any buttons. The hoops should remain separate and fully visible. A small amount of thread or folded fabric may decorate the workspace, but there must be NO loose buttons, spare buttons, additional hoops with buttons, or other button-shaped objects anywhere in the scene. Do not make the characters pose for the camera. No text, letters, numbers, labels, or written answers.

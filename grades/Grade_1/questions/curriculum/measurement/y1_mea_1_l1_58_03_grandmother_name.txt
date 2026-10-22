@@ -1,0 +1,9 @@
+title: Measuring Water for a Birdbath with Grandmother
+question_text:
+{user_name} and {grandmother_name} want to measure water before filling a birdbath. Which tool should they use to measure how much water they have?
+options:
+A) A measuring jug
+B) A ruler
+C) A weighing scale
+image_prompt:
+Show {user_name} and {grandmother_name} using exactly 1 measuring jug to measure water beside exactly 1 birdbath. The jug must be clearly used to measure the water. No extra jugs, measuring tools, props, text, letters, or numbers.

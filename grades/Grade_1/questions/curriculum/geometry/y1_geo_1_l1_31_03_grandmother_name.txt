@@ -1,0 +1,9 @@
+title: Cutting Sandwiches with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} cut a sandwich into a triangle. The sandwich piece has 3 straight sides. Which 2D shape is the sandwich piece?
+options:
+A) Circle
+B) Triangle
+C) Rectangle
+image_prompt:
+Show {user_name} helping {grandmother_name} cut exactly 1 sandwich into a clearly triangular piece. Make the sandwich piece have exactly 3 straight sides and 3 corners. No extra sandwiches, food items, objects, props, text, letters, or numbers.

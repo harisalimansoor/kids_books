@@ -1,0 +1,9 @@
+title: Preparing Hand Puppets with Brother
+question_text:
+{user_name} and {brother_name} arrange 6 hand puppets equally across 3 puppet stages. How many hand puppets will be on each stage?
+options:
+A) 4
+B) 3
+C) 2
+image_prompt:
+Show {user_name} and {brother_name} arranging exactly 6 hand puppets equally across 3 separate small puppet stages, with exactly 2 puppets on each stage. No additional puppets, characters, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Finding the Next Number with Sister
+question_text:
+{user_name} and {sister_name} count forward from 39. Which number comes just after 39?
+options:
+A) 38
+B) 40
+C) 41
+image_prompt:
+Show {user_name} and {sister_name} looking at exactly 3 blank counting cards arranged in a row. No printed numbers, letters, extra cards, or other text.

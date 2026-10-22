@@ -1,0 +1,9 @@
+title: Sharing Paintbrushes with Uncle
+question_text:
+{user_name} and {uncle_name} divide 4 paintbrushes equally between 2 art holders. How many paintbrushes will go in each holder?
+options:
+A) 1
+B) 3
+C) 2
+image_prompt:
+Show {user_name} and {uncle_name} placing exactly 4 paintbrushes equally into 2 art holders, with exactly 2 paintbrushes in each holder. No extra paintbrushes, props, text, letters, or numbers.

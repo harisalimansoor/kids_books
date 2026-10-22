@@ -1,0 +1,9 @@
+title: Sharing Party Hats with Father
+question_text:
+{user_name} and {father_name} arrange 6 party hats equally in 3 costume bins. How many party hats will be in each bin?
+options:
+A) 4
+B) 2
+C) 3
+image_prompt:
+Show {user_name} and {father_name} placing exactly 6 party hats equally into 3 separate costume bins, with exactly 2 hats in each bin. No extra hats, text, letters, or numbers.

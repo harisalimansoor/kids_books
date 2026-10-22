@@ -1,0 +1,9 @@
+title: Measuring a Wooden Sign with Sister
+question_text:
+{user_name} and {sister_name} want to measure the length of a small wooden sign in centimetres. Which tool should they use?
+options:
+A) A weighing scale
+B) A measuring jug
+C) A ruler
+image_prompt:
+Show {user_name} and {sister_name} measuring exactly 1 small wooden sign with exactly 1 ruler placed straight along its longer edge. No extra signs, rulers, props, text, letters, or numbers.

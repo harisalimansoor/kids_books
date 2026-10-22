@@ -1,0 +1,9 @@
+title: Playing Badminton with Sister
+question_text:
+{user_name} has 7 badminton shuttlecocks. {sister_name} takes 2 shuttlecocks for practice. How many remain with {user_name}?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} practising badminton with {sister_name}. Sister takes 2 shuttlecocks from a group of 7. Show exactly 5 shuttlecocks with the child and 2 with Sister. No extra shuttlecocks, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Making Paper Boats with Grandfather
+question_text:
+{user_name} makes 7 paper boats with {grandfather_name}. Grandfather places 3 boats in a box. How many paper boats remain outside the box?
+options:
+A) 5
+B) 3
+C) 4
+image_prompt:
+Show {user_name} making paper boats with {grandfather_name}. Grandfather puts 3 boats from a group of 7 into a box. Show exactly 4 paper boats outside the box and 3 inside. No extra boats, text, letters, or numbers.

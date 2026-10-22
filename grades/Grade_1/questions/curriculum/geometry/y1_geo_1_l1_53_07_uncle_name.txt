@@ -1,0 +1,9 @@
+title: Solving a Shape Puzzle with Uncle
+question_text:
+{user_name} is helping {uncle_name} solve a shape puzzle. They turn a triangular puzzle piece upside down. What shape is the piece still?
+options:
+A) Square
+B) Rectangle
+C) Triangle
+image_prompt:
+Show {user_name} helping {uncle_name} examine exactly 1 triangular puzzle piece turned upside down, with its point facing down and its flat side at the top. Make its 3 straight sides and 3 corners clearly visible. No extra puzzle pieces, objects, props, text, letters, or numbers.

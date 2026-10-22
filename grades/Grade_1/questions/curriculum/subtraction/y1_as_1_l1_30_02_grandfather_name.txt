@@ -1,0 +1,9 @@
+title: Setting the Table with Grandfather
+question_text:
+{user_name} places 7 spoons on the table. {grandfather_name} puts 3 spoons into a drawer. How many spoons remain on the table?
+options:
+A) 4
+B) 5
+C) 3
+image_prompt:
+Show {user_name} setting a table with {grandfather_name}. Grandfather puts 3 spoons from a group of 7 into a drawer. Show exactly 4 spoons remaining on the table and 3 inside the drawer. No extra spoons, text, letters, or numbers.

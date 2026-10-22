@@ -1,0 +1,9 @@
+title: Sharing Toy Animals with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} arrange toy animals. They share 6 toy animals equally between 2 baskets. What fraction of all the toy animals is in one basket?
+options:
+A) One half
+B) One whole
+C) One quarter
+image_prompt:
+Show {user_name} helping {grandmother_name} share exactly 6 toy animals equally between 2 baskets, with exactly 3 toy animals in each basket. No extra toy animals, baskets, props, people, text, letters or numbers.

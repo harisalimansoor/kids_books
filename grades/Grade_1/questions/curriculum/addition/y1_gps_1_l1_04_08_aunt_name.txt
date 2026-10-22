@@ -1,0 +1,9 @@
+title: Baking Cookies with Aunt
+question_text:
+{user_name} and {aunt_name} are baking cookies in the kitchen. {user_name} bakes 5 cookies, and {aunt_name} bakes 3 cookies. How many cookies did they bake in total?
+options:
+A) 5
+B) 7
+C) 8
+image_prompt:
+Show {user_name} preparing exactly 5 cookies and {aunt_name} preparing exactly 3 cookies. Show exactly 8 cookies in total on a baking tray. No extra cookies, text, letters, or numbers.

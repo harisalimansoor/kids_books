@@ -1,0 +1,9 @@
+title: Preparing Toy Helicopters with Father
+question_text:
+{user_name} helps {father_name} prepare toy helicopters. Each of 3 helicopters has 2 landing skids. How many landing skids do the helicopters have altogether?
+options:
+A) 6
+B) 5
+C) 8
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 3 toy helicopters. Each helicopter must have exactly 2 clearly visible landing skids. Show exactly 6 skids in total. No extra helicopters or skids, and no text, letters, or numbers.

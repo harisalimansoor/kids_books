@@ -1,0 +1,9 @@
+title: Reading the Clock with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} read an analogue clock. They see the minute hand pointing to 12 and the hour hand pointing to 7. What time does the clock show?
+options:
+A) 7 o'clock
+B) 12 o'clock
+C) 5 o'clock
+image_prompt:
+Show {user_name} helping {grandfather_name} read exactly one analogue clock. The minute hand points straight up, and the shorter hour hand points directly to 7. No numerals, text, letters, extra hands or extra clocks.

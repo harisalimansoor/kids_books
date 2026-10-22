@@ -1,0 +1,9 @@
+title: Displaying Postcards with Father
+question_text:
+{user_name} and {father_name} arrange 8 blank postcards equally on 2 display boards. How many postcards will be on each board?
+options:
+A) 3
+B) 2
+C) 4
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 8 blank postcards equally on 2 separate display boards, with exactly 4 postcards on each board. Postcards must have no writing or symbols. No extra postcards, text, letters, or numbers.

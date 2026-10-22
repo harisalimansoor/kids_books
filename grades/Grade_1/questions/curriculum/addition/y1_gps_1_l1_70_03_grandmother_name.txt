@@ -1,0 +1,9 @@
+title: Making Caramel Apples with Grandmother
+question_text:
+{user_name} makes 3 caramel apples, while {grandmother_name} prepares 4 more. How many caramel apples have they made altogether?
+options:
+A) 1
+B) 7
+C) 17
+image_prompt:
+Show {user_name} dipping apples in caramel at a kitchen workstation while {grandmother_name} decorates finished caramel apples nearby. Include EXACTLY 3 caramel apples in the child's work area and 4 in the aunt's area. Keep all 7 apples separate and countable, with no extra apples.

@@ -1,0 +1,9 @@
+title: Reading Stories with Sister
+question_text:
+{user_name} and {sister_name} are reading storybooks. {user_name} reads 2 storybooks, and {sister_name} reads 4 storybooks. How many storybooks did they read in total?
+options:
+A) 6
+B) 5
+C) 7
+image_prompt:
+Show {user_name} reading exactly 2 storybooks and {sister_name} reading exactly 4 storybooks. Show exactly 6 storybooks in total. No extra books, text, letters, or numbers.

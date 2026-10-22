@@ -1,0 +1,9 @@
+title: Hanging Lanterns with Father
+question_text:
+For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {father_name} hangs 3 along another. How many lanterns have they hung altogether?
+options:
+A) 6
+B) 0
+C) 13
+image_prompt:
+Depict a joyful garden-decorating scene in the late afternoon. {user_name} stands beside a low, secure step stool, fastening colorful paper lanterns onto a horizontal string. Nearby, {father_name} adjusts the spacing of lanterns on a second string stretched between two garden posts. The child's string must have EXACTLY 3 round paper lanterns, and Father's string must have EXACTLY 3 round paper lanterns, making 6 lanterns in total. Each lantern must hang separately from its string, with its complete rounded shape visible and no overlaps. Use attractive varied colors and softly glowing paper textures, but keep the lanterns themselves clearly countable. The characters should be engaged in decorating the garden, looking toward the strings rather than at the viewer. No additional lanterns on trees, fences, tables, or in the background. Avoid fairy lights, decorative bulbs, or extra hanging ornaments that resemble lanterns. No text, letters, numbers, labels, or written answers.

@@ -1,0 +1,9 @@
+title: Erasing Stars with Sister
+question_text:
+{user_name} draws 8 stars on a paper. {sister_name} erases 3 stars. How many stars are left?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} drawing stars while {sister_name} erases 3 stars from a paper that originally had 8 stars. Show exactly 5 intact stars and 3 stars being erased. No extra stars, text, letters, or numbers.

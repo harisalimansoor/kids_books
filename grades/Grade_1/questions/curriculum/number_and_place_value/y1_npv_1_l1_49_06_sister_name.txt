@@ -1,0 +1,9 @@
+title: Finding Tens in a Number with Sister
+question_text:
+{user_name} helps {sister_name} show 38 using bundles of sticks. What does the digit 3 represent in 38?
+options:
+A) 3 ones
+B) 3 tens
+C) 8 tens
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 38 sticks: 3 bundles of 10 sticks each and 8 loose sticks. Keep the bundles and loose sticks clearly separated. No extra sticks or bundles, and no text, letters, or numbers.

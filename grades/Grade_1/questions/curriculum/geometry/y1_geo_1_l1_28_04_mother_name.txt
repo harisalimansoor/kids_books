@@ -1,0 +1,9 @@
+title: Moving a Toy Lift with Mother
+question_text:
+{user_name} is helping {mother_name} play with a toy lift. The lift is moving from the top of its shaft towards the bottom. Which direction is the lift moving?
+options:
+A) Up
+B) Down
+C) Forwards
+image_prompt:
+Show {user_name} helping {mother_name} observe exactly 1 toy lift cabin inside a simple vertical lift shaft. Show the cabin near the top and a clear downward-pointing arrow beside it to show its movement towards the bottom. No duplicate lift cabins, extra objects, props, text, letters, or numbers.

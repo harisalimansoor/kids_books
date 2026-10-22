@@ -1,0 +1,9 @@
+title: Organizing Toy Dinosaurs with Grandmother
+question_text:
+{user_name} arranges 5 toy dinosaurs on a shelf, and {grandmother_name} places 3 more on another shelf. How many toy dinosaurs have they arranged altogether?
+options:
+A) 2
+B) 16
+C) 8
+image_prompt:
+Show {user_name} arranging toy dinosaurs on a wooden shelf while {grandmother_name} organizes his collection on a separate shelf. Include EXACTLY 5 toy dinosaurs on the child's shelf and 3 on the brother's, all clearly visible, with no extra dinosaurs.

@@ -1,0 +1,9 @@
+title: Sorting One-Digit and Two-Digit Numbers with Grandmother
+question_text:
+{user_name} and {grandmother_name} sort number cards. Which of these numbers has two digits?
+options:
+A) 8
+B) 5
+C) 26
+image_prompt:
+Show {user_name} and {grandmother_name} sorting exactly 3 blank cards on a table. No printed numbers, letters, extra cards, or other text.

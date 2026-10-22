@@ -1,0 +1,9 @@
+title: Storing Toy Airplanes with Sister
+question_text:
+{user_name} and {sister_name} put 6 toy airplanes equally into 2 airplane hangars. How many toy airplanes will be in each hangar?
+options:
+A) 2
+B) 3
+C) 4
+image_prompt:
+Show {user_name} and {sister_name} storing exactly 6 toy airplanes equally inside 2 separate airplane hangars, with exactly 3 airplanes in each hangar. No extra airplanes, props, text, letters, or numbers.

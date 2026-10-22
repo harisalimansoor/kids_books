@@ -1,0 +1,9 @@
+title: Bundling Sticks with Uncle
+question_text:
+{user_name} helps {uncle_name} arrange 42 sticks into 4 bundles of 10 sticks and 2 loose sticks. How many tens are in 42?
+options:
+A) 2
+B) 4
+C) 42
+image_prompt:
+Show {user_name} and {uncle_name} arranging exactly 42 sticks: 4 separate bundles of 10 sticks each and 2 loose sticks. Keep all sticks visible and countable. No extra sticks or bundles, and no text, letters, or numbers.

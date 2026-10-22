@@ -1,0 +1,9 @@
+title: Measuring a Ribbon with Aunt
+question_text:
+{user_name} and {aunt_name} are measuring a ribbon using paper clips. The ribbon is as long as 5 paper clips placed end to end. How many paper clips long is the ribbon?
+options:
+A) 3 paper clips
+B) 7 paper clips
+C) 5 paper clips
+image_prompt:
+Show {user_name} and {aunt_name} measuring exactly 1 ribbon with exactly 5 identical paper clips placed end to end along its length. No extra paper clips, rulers, props, text, letters, or numbers.

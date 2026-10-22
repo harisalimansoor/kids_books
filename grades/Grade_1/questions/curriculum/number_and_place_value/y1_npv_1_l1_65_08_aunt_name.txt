@@ -1,0 +1,9 @@
+title: Finding the Number Between with Aunt
+question_text:
+{user_name} and {aunt_name} arrange three numbers in counting order: 21, __, 23. Which number belongs in the middle?
+options:
+A) 20
+B) 22
+C) 24
+image_prompt:
+Show {user_name} and {aunt_name} looking at exactly 3 blank cards arranged in a row, with the middle card highlighted. No printed numbers, letters, extra cards, or other text.

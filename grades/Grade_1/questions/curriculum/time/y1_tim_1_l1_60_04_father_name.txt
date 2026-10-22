@@ -1,0 +1,9 @@
+title: Preparing a Fishing Bag with Father
+question_text:
+{user_name} is helping {father_name} prepare a fishing bag. They pack their sandwiches before leaving home for the lake. What do they do before leaving home?
+options:
+A) Pack their sandwiches
+B) Catch fish at the lake
+C) Return home after fishing
+image_prompt:
+Show {user_name} helping {father_name} pack exactly two sandwiches into one fishing bag before leaving home. No extra sandwiches, bags, people, text, letters or numbers.

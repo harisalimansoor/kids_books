@@ -1,0 +1,9 @@
+title: Matching Number Names with Father
+question_text:
+{user_name} helps {father_name} identify the number 41. Which number name matches 41?
+options:
+A) Fourteen
+B) Forty-one
+C) Forty-four
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 41 small buttons: 4 groups of 10 buttons each and 1 extra button. Keep every button visible and countable. No extra buttons, and no text, letters, or numbers.

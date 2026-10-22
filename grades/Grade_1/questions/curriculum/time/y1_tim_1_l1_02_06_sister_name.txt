@@ -1,0 +1,9 @@
+title: Finding a Month with Sister
+question_text:
+{user_name} is helping {sister_name} arrange the months of the year. They find March and look for the month that comes next. Which month comes after March?
+options:
+A) February
+B) January
+C) April
+image_prompt:
+Show {user_name} helping {sister_name} arrange exactly 3 blank calendar pages in sequence. No text, letters, numbers, extra pages or extra objects.

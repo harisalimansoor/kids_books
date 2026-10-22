@@ -1,0 +1,9 @@
+title: Decorating a Cake with Uncle
+question_text:
+{user_name} is helping {uncle_name} decorate a round cake. They divide one cake into 2 equal parts and decorate one part with strawberries. What fraction of the cake has strawberries?
+options:
+A) One quarter
+B) One whole
+C) One half
+image_prompt:
+Show {user_name} helping {uncle_name} decorate exactly one round cake divided into 2 equal-sized parts, with strawberries on exactly one half. No extra cakes, strawberries, objects, props, people, text, letters or numbers.

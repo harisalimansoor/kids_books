@@ -1,0 +1,9 @@
+title: Measuring a Doormat with Father
+question_text:
+{user_name} and {father_name} measure a doormat using identical wooden blocks. The doormat is exactly as wide as 6 blocks placed side by side. How many blocks wide is the doormat?
+options:
+A) 4 blocks
+B) 6 blocks
+C) 8 blocks
+image_prompt:
+Show {user_name} and {father_name} measuring exactly 1 doormat using exactly 6 identical wooden blocks placed edge to edge across its width. No extra blocks, measuring tools, props, text, letters, or numbers.

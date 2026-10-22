@@ -1,0 +1,9 @@
+title: Racing Toy Trains with Sister
+question_text:
+{user_name} and {sister_name} place toy trains in counting order. Which number comes just after 29?
+options:
+A) 28
+B) 30
+C) 31
+image_prompt:
+Show {user_name} and {sister_name} playing with exactly 3 toy trains arranged in a row. No extra trains, and no text, letters, or numbers.

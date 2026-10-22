@@ -1,0 +1,9 @@
+title: Exploring a Cube with Sister
+question_text:
+{user_name} is helping {sister_name} explore solid shapes. They examine 1 block with 6 equal square faces. Which 3D shape is the block?
+options:
+A) Sphere
+B) Cube
+C) Pyramid
+image_prompt:
+Show {user_name} helping {sister_name} examine exactly 1 solid cube-shaped block. Make its square faces, equal edges and corners clearly visible. No extra blocks, objects, props, text, letters, or numbers.

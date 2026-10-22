@@ -1,0 +1,9 @@
+title: Flying a Kite with Father
+question_text:
+{user_name} is helping {father_name} fly a kite. A cloud is directly above the kite. What is above the kite?
+options:
+A) The cloud
+B) The kite
+C) The ground
+image_prompt:
+Show {user_name} helping {father_name} fly exactly 1 kite outdoors. Place exactly 1 cloud directly above the kite, with clear space between them. Show the kite lower than the cloud. No extra kites, clouds, objects, props, text, letters, or numbers.

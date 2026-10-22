@@ -1,0 +1,9 @@
+title: Sorting Soft Balls with Grandmother
+question_text:
+{user_name} and {grandmother_name} share 9 soft balls equally among 3 floor hoops. How many balls will be inside each hoop?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {grandmother_name} arranging exactly 9 soft balls equally inside 3 separate floor hoops, with exactly 3 balls in each hoop. No extra balls, props, text, letters, or numbers.

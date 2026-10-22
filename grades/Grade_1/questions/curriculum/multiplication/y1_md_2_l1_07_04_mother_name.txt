@@ -1,0 +1,9 @@
+title: Arranging Picture Frames with Mother
+question_text:
+{user_name} helps {mother_name} arrange picture frames. They place 2 frames on each of 3 shelves. How many frames do they place altogether?
+options:
+A) 8
+B) 6
+C) 5
+image_prompt:
+Show {user_name} and {mother_name} arranging exactly 3 shelves, with exactly 2 picture frames on each shelf. Show exactly 6 frames in total. No extra frames, shelves, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Arranging Tool Handles with Mother
+question_text:
+{user_name} helps {mother_name} count 35 tool handles. If 35 has 3 tens and 5 ones, how many ones does it have?
+options:
+A) 3
+B) 35
+C) 5
+image_prompt:
+Show {user_name} and {mother_name} arranging exactly 35 plain wooden handles: 3 groups of 10 handles each and 5 separate handles. Keep all handles visible and countable. No extra handles or tools, and no text, letters, or numbers.

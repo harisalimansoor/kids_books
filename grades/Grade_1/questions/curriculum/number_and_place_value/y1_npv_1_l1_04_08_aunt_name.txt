@@ -1,0 +1,9 @@
+title: Finding the Number Before with Aunt
+question_text:
+{user_name} helps {aunt_name} arrange number cards in counting order. Which number comes just before 25?
+options:
+A) 26
+B) 24
+C) 23
+image_prompt:
+Show {user_name} and {aunt_name} arranging exactly 3 blank cards in a row, with one card between the other two. No printed numbers, letters, extra cards, or other text.

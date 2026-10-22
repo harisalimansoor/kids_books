@@ -1,0 +1,9 @@
+title: Washing an Orange with Aunt
+question_text:
+{user_name} is helping {aunt_name} wash an orange. The orange is round all over and has no corners or straight edges. Which 3D shape does the orange look like?
+options:
+A) Cube
+B) Cuboid
+C) Sphere
+image_prompt:
+Show {user_name} helping {aunt_name} wash exactly 1 round orange. Make the orange clearly spherical, with a curved surface and no corners or straight edges. No extra fruit, objects, props, text, letters, or numbers.

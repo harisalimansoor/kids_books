@@ -1,0 +1,9 @@
+title: Flying a Toy Helicopter with Grandmother
+question_text:
+{user_name} has 8 toy helicopters. {grandmother_name} takes 3 helicopters to his room. How many toy helicopters remain with {user_name}?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} playing with {grandmother_name}. Grandmother takes 3 toy helicopters from a group of 8. Show exactly 5 toy helicopters with the child and 3 with Grandmother. No extra helicopters, text, letters, or numbers.

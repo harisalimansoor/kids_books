@@ -1,0 +1,9 @@
+title: Exploring Underwater Tanks with Uncle
+question_text:
+{user_name} and {uncle_name} place 8 toy submarines equally into 2 underwater display tanks. How many toy submarines will be in each tank?
+options:
+A) 4
+B) 2
+C) 3
+image_prompt:
+Show {user_name} and {uncle_name} placing exactly 8 toy submarines equally into 2 separate underwater display tanks, with exactly 4 submarines in each tank. No extra submarines, text, letters, or numbers.

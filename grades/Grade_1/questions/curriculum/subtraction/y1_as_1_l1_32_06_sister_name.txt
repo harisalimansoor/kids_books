@@ -1,0 +1,9 @@
+title: Making Lemonade with Sister
+question_text:
+{user_name} and {sister_name} have 7 lemons. Sister uses 2 lemons to make lemonade. How many lemons are left?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} making lemonade with {sister_name}. Sister uses 2 lemons from a group of 7. Show exactly 5 whole lemons remaining in a bowl and 2 cut lemons beside the jug. No extra lemons, text, letters, or numbers.

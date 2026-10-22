@@ -1,0 +1,9 @@
+title: Washing Toy Boats with Mother
+question_text:
+{user_name} and {mother_name} wash toy boats. They wash 3 toy boats each in 2 tubs. How many toy boats do they wash altogether?
+options:
+A) 6
+B) 5
+C) 9
+image_prompt:
+Show {user_name} and {mother_name} washing exactly 2 tubs, each containing exactly 3 toy boats. Show exactly 6 toy boats in total. No extra boats, tubs, text, letters, or numbers.

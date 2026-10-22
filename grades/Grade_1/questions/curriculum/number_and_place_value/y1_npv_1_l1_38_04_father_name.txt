@@ -1,0 +1,9 @@
+title: Counting Buttons in Tens with Father
+question_text:
+{user_name} helps {father_name} arrange 4 groups of 10 buttons and 8 extra buttons. What number do the buttons show altogether?
+options:
+A) 48
+B) 84
+C) 40
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 48 buttons: 4 groups of 10 buttons each and 8 extra buttons. Keep every button visible and countable. No extra buttons, and no text, letters, or numbers.

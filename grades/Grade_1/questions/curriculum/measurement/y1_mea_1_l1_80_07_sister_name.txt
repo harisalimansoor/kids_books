@@ -1,0 +1,9 @@
+title: Measuring a Sewing Table with Sister
+question_text:
+{user_name} and {sister_name} want to measure the length of a sewing table. Which tool should they use?
+options:
+A) A measuring jug
+B) A measuring tape
+C) A weighing scale
+image_prompt:
+Show {user_name} and {sister_name} measuring exactly 1 sewing table with exactly 1 measuring tape placed straight along its length. No extra tables, measuring tools, props, text, letters, or numbers.

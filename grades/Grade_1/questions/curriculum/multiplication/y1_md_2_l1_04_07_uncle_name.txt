@@ -1,0 +1,9 @@
+title: Making Clay Pots with Uncle
+question_text:
+{user_name} and {uncle_name} make clay pots. They make 3 pots each on 2 small work mats. How many clay pots do they make altogether?
+options:
+A) 5
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {uncle_name} making exactly 2 groups of 3 clay pots, with each group on one work mat. Show exactly 6 pots in total. No extra pots, text, letters, or numbers

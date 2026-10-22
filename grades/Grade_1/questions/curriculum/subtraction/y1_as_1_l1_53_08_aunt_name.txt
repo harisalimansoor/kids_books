@@ -1,0 +1,9 @@
+title: Building a Robot with Aunt
+question_text:
+{user_name} has 9 toy robot parts. {aunt_name} uses 4 parts to build a robot. How many unused parts remain?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} building a toy robot with {aunt_name}. Aunt uses 4 parts from a group of 9. Show exactly 5 unused parts on the table and 4 incorporated into the robot. No extra parts, text, letters, or numbers.

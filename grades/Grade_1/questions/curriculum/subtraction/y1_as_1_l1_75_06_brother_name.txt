@@ -1,0 +1,9 @@
+title: Playing with Finger Puppets and Brother
+question_text:
+{user_name} has 8 finger puppets. {brother_name} puts 3 puppets into a puppet bag. How many puppets remain outside the bag?
+options:
+A) 4
+B) 5
+C) 6
+image_prompt:
+Show {user_name} playing with finger puppets beside {brother_name}. Brother puts 3 puppets from a group of 8 into a bag. Show exactly 5 puppets outside and 3 inside the bag. No extra puppets, text, letters, or numbers.

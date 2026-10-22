@@ -1,0 +1,9 @@
+title: Picking Apples with Brother
+question_text:
+{user_name} collects 7 apples in a basket. {brother_name} takes 2 apples from the basket. How many apples remain in the basket?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} collecting apples while {brother_name} takes 2 apples from a basket. Show exactly 5 apples remaining in the basket and 2 apples with Brother. No other visible apples, text, letters, or numbers.

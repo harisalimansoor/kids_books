@@ -1,0 +1,9 @@
+title: Comparing Reading and Playing Time with Sister
+question_text:
+{user_name} is helping {sister_name} compare two activities. They spend 15 minutes reading a comic book and 1 hour playing football. Which activity takes longer?
+options:
+A) Reading a comic book
+B) Playing football
+C) Both take the same time
+image_prompt:
+Show {user_name} helping {sister_name} compare reading one comic book with playing football. Include one comic book and one football. No text, letters, numbers, duplicate people or extra objects.

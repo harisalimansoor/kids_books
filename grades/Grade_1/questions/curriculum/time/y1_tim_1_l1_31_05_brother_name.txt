@@ -1,0 +1,9 @@
+title: Planning a Picnic with Brother
+question_text:
+{user_name} is helping {brother_name} plan a picnic. They check the calendar and see that today is Friday. Which day comes tomorrow?
+options:
+A) Thursday
+B) Saturday
+C) Sunday
+image_prompt:
+Show {user_name} helping {brother_name} look at a calendar together. Show exactly two people and one blank calendar. No text, letters, numbers or extra objects.

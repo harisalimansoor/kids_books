@@ -1,0 +1,9 @@
+title: Organizing Pencils with Uncle
+question_text:
+{user_name} helps {uncle_name} arrange 3 groups of 10 pencils and 4 extra pencils. What number do the pencils show altogether?
+options:
+A) 34
+B) 43
+C) 14
+image_prompt:
+Show {user_name} and {uncle_name} arranging exactly 34 pencils: 3 separate groups of 10 pencils each and 4 extra pencils. Keep every pencil visible and countable. No extra pencils, and no text, letters, or numbers.

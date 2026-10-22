@@ -1,0 +1,9 @@
+title: Organizing Garden Trowels with Grandfather
+question_text:
+{user_name} and {grandfather_name} share 6 garden trowels equally among 3 garden beds. How many trowels will be beside each garden bed?
+options:
+A) 3
+B) 4
+C) 2
+image_prompt:
+Show {user_name} and {grandfather_name} distributing exactly 6 garden trowels equally among 3 separate garden beds, with exactly 2 trowels beside each bed. No extra trowels, text, letters, or numbers.

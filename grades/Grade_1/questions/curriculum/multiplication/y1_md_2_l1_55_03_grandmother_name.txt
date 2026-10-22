@@ -1,0 +1,9 @@
+title: Making Paper Lanterns with Grandmother
+question_text:
+{user_name} helps {grandmother_name} make paper lanterns. Each of 3 lanterns has 2 handles. How many handles do the lanterns have altogether?
+options:
+A) 9
+B) 6
+C) 5
+image_prompt:
+Show {user_name} and {grandmother_name} making exactly 3 paper lanterns. Each lantern must have exactly 2 clearly visible handles. Show exactly 6 handles in total. No extra lanterns or handles, and no text, letters, or numbers.

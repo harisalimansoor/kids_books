@@ -1,0 +1,9 @@
+title: Rolling a Die with Mother
+question_text:
+{user_name} is helping {mother_name} play a board game. They roll 1 die with 6 equal square faces. Which 3D shape does the die match?
+options:
+A) Sphere
+B) Cube
+C) Cuboid
+image_prompt:
+Show {user_name} helping {mother_name} play a board game with exactly 1 solid cube-shaped die. Make its equal square faces, straight edges and corners clearly visible. Keep the die plain, without dots or markings. No extra dice, objects, props, game boards, text, letters, or numbers.

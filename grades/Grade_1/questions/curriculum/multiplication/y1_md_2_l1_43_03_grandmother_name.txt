@@ -1,0 +1,9 @@
+title: Arranging Toy Dinosaurs with Grandmother
+question_text:
+{user_name} and {grandmother_name} arrange toy dinosaurs in two play enclosures. They put 3 dinosaurs in each enclosure. How many dinosaurs do they arrange altogether?
+options:
+A) 5
+B) 8
+C) 6
+image_prompt:
+Show {user_name} and {grandmother_name} arranging exactly 2 toy dinosaur enclosures. Each enclosure must contain exactly 3 clearly visible toy dinosaurs. Show exactly 6 dinosaurs in total. No extra dinosaurs or enclosures, and no text, letters, or numbers.

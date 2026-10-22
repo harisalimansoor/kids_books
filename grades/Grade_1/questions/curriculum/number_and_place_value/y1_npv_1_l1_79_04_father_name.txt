@@ -1,0 +1,9 @@
+title: Counting Origami Butterflies with Father
+question_text:
+{user_name} helps {father_name} count 44 paper butterflies. Which number name matches 44?
+options:
+A) Forty-four
+B) Forty-one
+C) Fourteen
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 44 paper butterflies: 4 groups of 10 butterflies each and 4 extra butterflies. Keep every butterfly visible and countable. No extra butterflies, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Feeding Rabbits with Brother
+question_text:
+{user_name} helps {brother_name} feed rabbits. Each of 2 rabbits gets 3 carrot pieces. How many carrot pieces do the rabbits get altogether?
+options:
+A) 5
+B) 3
+C) 6
+image_prompt:
+Show {user_name} and {brother_name} feeding exactly 2 rabbits. Each rabbit must have exactly 3 carrot pieces. Show exactly 6 carrot pieces in total. No extra rabbits, carrots, text, letters, or numbers.

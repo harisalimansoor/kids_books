@@ -1,0 +1,9 @@
+title: Building Sandcastles with Aunt
+question_text:
+{user_name} and {aunt_name} have made 2 sandcastles. One sandcastle is taller than the other. Which sandcastle is taller?
+options:
+A) The smaller sandcastle
+B) Both sandcastles are the same height
+C) The taller sandcastle
+image_prompt:
+Show {user_name} and {aunt_name} beside exactly 2 sandcastles, one clearly taller than the other. No extra sandcastles, props, text, letters, or numbers.

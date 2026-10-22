@@ -1,0 +1,9 @@
+title: Building Cardboard Tunnels with Grandfather
+question_text:
+{user_name} helps {grandfather_name} build cardboard tunnels for toy cars. Each of 2 tunnels has 4 supporting arches. How many arches do the tunnels have altogether?
+options:
+A) 6
+B) 8
+C) 9
+image_prompt:
+Show {user_name} and {grandfather_name} building exactly 2 cardboard tunnels. Each tunnel must have exactly 4 separate, clearly visible supporting arches. Show exactly 8 arches in total. No extra tunnels or arches, and no text, letters, or numbers.

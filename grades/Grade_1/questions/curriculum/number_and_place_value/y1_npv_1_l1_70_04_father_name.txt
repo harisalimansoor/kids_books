@@ -1,0 +1,9 @@
+title: Finding the Smaller Number with Father
+question_text:
+{user_name} helps {father_name} compare 16 and 19. Which number is smaller?
+options:
+A) 19
+B) 16
+C) Both numbers are equal
+image_prompt:
+Show {user_name} and {father_name} comparing exactly 2 groups of objects: one group of 16 identical buttons and another group of 19 identical buttons. Keep all buttons visible and countable. No extra buttons, and no text, letters, or numbers.

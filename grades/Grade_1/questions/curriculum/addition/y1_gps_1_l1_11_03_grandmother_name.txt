@@ -1,0 +1,9 @@
+title: Decorating Cupcakes with Grandmother
+question_text:
+{user_name} and {grandmother_name} are decorating cupcakes. {user_name} decorates 4 cupcakes, and {grandmother_name} decorates 2 cupcakes. How many cupcakes did they decorate in total?
+options:
+A) 2
+B) 6
+C) 14
+image_prompt:
+Make 4 cupcakes in front of {user_name} and 2 cupcakes in front of {grandmother_name}

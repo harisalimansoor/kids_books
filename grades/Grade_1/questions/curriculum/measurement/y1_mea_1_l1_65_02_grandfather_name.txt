@@ -1,0 +1,9 @@
+title: Measuring a Wooden Plank with Grandfather
+question_text:
+{user_name} and {grandfather_name} are measuring a wooden plank. The plank is 3 metres long. Which unit is used to measure the length of the plank?
+options:
+A) Kilograms
+B) Litres
+C) Metres
+image_prompt:
+Show {user_name} and {grandfather_name} measuring exactly 1 wooden plank with exactly 1 measuring tape placed straight along its length. No extra planks, measuring tools, props, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Collecting Rocks with Sister
+question_text:
+{user_name} collects 8 interesting rocks. {sister_name} places 3 rocks in his display box. How many rocks remain with {user_name}?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} collecting rocks with {sister_name}. Sister puts 3 rocks from a group of 8 into a display box. Show exactly 5 rocks with the child and 3 inside the box. No extra rocks, text, letters, or numbers.

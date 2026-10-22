@@ -1,0 +1,9 @@
+title: Collecting Tennis Balls with Uncle
+question_text:
+After their tennis game, {user_name} collects 5 tennis balls, while {uncle_name} gathers 2 more. How many tennis balls have they collected altogether?
+options:
+A) 3
+B) 15
+C) 7
+image_prompt:
+Show {user_name} picking up tennis balls from the court while {uncle_name} places his collected balls in a basket. Include EXACTLY 5 tennis balls in the child's group and 2 in Uncle's group, with no extra balls.

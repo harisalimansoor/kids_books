@@ -1,0 +1,9 @@
+title: Blowing Soap Bubbles with Uncle
+question_text:
+{user_name} is helping {uncle_name} blow a soap bubble. The bubble is round all over and has no corners or straight edges. Which 3D shape does the bubble look like?
+options:
+A) Cube
+B) Sphere
+C) Cuboid
+image_prompt:
+Show {user_name} helping {uncle_name} blow exactly 1 large, round soap bubble. Make the bubble clearly spherical, with a curved surface and no corners or straight edges. Show no other bubbles. No extra objects, props, text, letters, or numbers.

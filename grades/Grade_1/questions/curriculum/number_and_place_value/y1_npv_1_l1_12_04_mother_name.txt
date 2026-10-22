@@ -1,0 +1,9 @@
+title: Sorting Yarn Balls with Mother
+question_text:
+{user_name} helps {mother_name} arrange 38 yarn balls into 3 groups of 10 and 8 loose balls. How many ones are in 38?
+options:
+A) 3
+B) 8
+C) 38
+image_prompt:
+Show {user_name} and {mother_name} arranging exactly 38 yarn balls: 3 groups of 10 balls each and 8 loose balls. Keep all balls visible and countable. No extra yarn balls, and no text, letters, or numbers.

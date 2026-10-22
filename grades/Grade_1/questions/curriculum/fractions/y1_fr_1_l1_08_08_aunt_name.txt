@@ -1,0 +1,9 @@
+title: Sharing an Orange with Aunt
+question_text:
+{user_name} is helping {aunt_name} cut an orange for a snack. They cut one orange into 4 equal pieces. What fraction of the orange is one piece?
+options:
+A) One half
+B) One quarter
+C) One whole
+image_prompt:
+Show {user_name} helping {aunt_name} cut exactly one orange into 4 equal-sized pieces. Make all 4 pieces clearly equal. No extra fruit, food, objects, props, people, text, letters or numbers.

@@ -1,0 +1,9 @@
+title: Charging Toy Robots with Grandfather
+question_text:
+{user_name} and {grandfather_name} place 8 toy robots equally on 2 charging mats. How many robots will be on each mat?
+options:
+A) 3
+B) 2
+C) 4
+image_prompt:
+Show {user_name} and {grandfather_name} placing exactly 8 toy robots equally on 2 separate charging mats, with exactly 4 robots on each mat. No extra robots, text, letters, or numbers.

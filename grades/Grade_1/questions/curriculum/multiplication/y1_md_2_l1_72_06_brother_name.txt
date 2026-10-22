@@ -1,0 +1,9 @@
+title: Sorting Domino Tiles with Brother
+question_text:
+{user_name} helps {brother_name} organize domino tiles. They arrange 4 tiles in each of 2 rows. How many domino tiles do they arrange altogether?
+options:
+A) 6
+B) 10
+C) 8
+image_prompt:
+Show {user_name} and {brother_name} arranging exactly 2 rows of domino tiles, with exactly 4 blank domino tiles in each row. Show exactly 8 tiles in total. Tiles must have no dots, numbers, or markings. No extra tiles, text, or letters.

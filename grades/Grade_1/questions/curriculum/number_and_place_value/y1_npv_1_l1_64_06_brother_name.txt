@@ -1,0 +1,9 @@
+title: Finding the Next Number with Brother
+question_text:
+{user_name} helps {brother_name} complete a counting sequence: 44, 45, __. Which number comes next?
+options:
+A) 43
+B) 46
+C) 47
+image_prompt:
+Show {user_name} and {brother_name} looking at exactly 3 blank cards arranged in a row, with the third card highlighted as the next position. No printed numbers, letters, extra cards, or other text.

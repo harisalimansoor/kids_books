@@ -1,0 +1,9 @@
+title: Comparing Fruit Baskets with Grandmother
+question_text:
+{user_name} helps {grandmother_name} compare 37 oranges in one basket and 31 oranges in another. Which basket has more oranges?
+options:
+A) The basket with 31 oranges
+B) The basket with 37 oranges
+C) Both baskets have the same number
+image_prompt:
+Show {user_name} and {grandmother_name} comparing exactly 2 baskets. One basket contains exactly 37 oranges, and the other contains exactly 31 oranges. Keep every orange visible and countable. No extra oranges or baskets, and no text, letters, or numbers.

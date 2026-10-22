@@ -1,0 +1,9 @@
+title: Sharing Pears with Aunt
+question_text:
+{user_name} is helping {aunt_name} share pears between two baskets. They divide 4 pears equally between the 2 baskets. What fraction of all the pears is in one basket?
+options:
+A) One quarter
+B) One half
+C) One whole
+image_prompt:
+Show {user_name} helping {aunt_name} divide exactly 4 pears equally between 2 baskets, with 2 pears in each basket. No extra pears, baskets, objects, props, people, text, letters or numbers.

@@ -1,0 +1,9 @@
+title: Packing Toy Parachutes with Grandmother
+question_text:
+{user_name} and {grandmother_name} put 8 toy parachutes equally into 2 toy chests. How many toy parachutes will be in each chest?
+options:
+A) 2
+B) 3
+C) 4
+image_prompt:
+Show {user_name} and {grandmother_name} placing exactly 8 toy parachutes equally into 2 separate open toy chests, with exactly 4 parachutes in each chest. No extra parachutes, text, letters, or numbers.

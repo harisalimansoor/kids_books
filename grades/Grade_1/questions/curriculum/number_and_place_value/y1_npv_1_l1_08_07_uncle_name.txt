@@ -1,0 +1,9 @@
+title: Ordering Number Cards with Uncle
+question_text:
+{user_name} helps {uncle_name} arrange three numbers from smallest to largest. Which number should come first: 16, 9, or 21?
+options:
+A) 21
+B) 16
+C) 9
+image_prompt:
+Show {user_name} and {uncle_name} arranging exactly 3 blank cards from left to right. No printed numbers, letters, extra cards, or other text.

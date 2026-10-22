@@ -1,0 +1,9 @@
+title: Building a Sandcastle with Uncle
+question_text:
+{user_name} makes 7 sand towers for a sandcastle. {uncle_name} knocks down 2 towers. How many sand towers are still standing?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} building a sandcastle with {uncle_name}. Uncle knocks down 2 towers from a group of 7. Show exactly 5 sand towers standing and 2 collapsed piles of sand. No extra towers, text, letters, or numbers.

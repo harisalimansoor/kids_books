@@ -1,0 +1,9 @@
+title: Weighing Toy Car Collections with Grandfather
+question_text:
+{user_name} and {grandfather_name} are weighing 2 collections of toy cars. One collection weighs 1 kilogram, and the other weighs 3 kilograms. Which collection is heavier?
+options:
+A) The collection that weighs 3 kilograms
+B) The collection that weighs 1 kilogram
+C) Both collections weigh the same
+image_prompt:
+Show {user_name} and {grandfather_name} comparing exactly 2 separate collections of toy cars on a suitable weighing scale. One collection must clearly weigh more than the other. No extra toy cars outside the 2 collections, no extra scales, props, text, letters, or numbers.

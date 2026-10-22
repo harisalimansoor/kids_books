@@ -1,0 +1,9 @@
+title: Playing Bowling with Uncle
+question_text:
+{user_name} sets up 8 bowling pins. {uncle_name} knocks down 3 pins. How many bowling pins are still standing?
+options:
+A) 3
+B) 5
+C) 4
+image_prompt:
+Show {user_name} and {uncle_name} playing indoor bowling. Uncle knocks down 3 pins from a group of 8. Show exactly 5 pins standing and 3 lying down. No extra pins, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Comparing Bookmarks with Uncle
+question_text:
+{user_name} and {uncle_name} are comparing 2 bookmarks. One bookmark is 15 cm long, and the other is 12 cm long. Which bookmark is longer?
+options:
+A) The bookmark that is 12 cm long
+B) The bookmark that is 15 cm long
+C) Both bookmarks are the same length
+image_prompt:
+Show {user_name} and {uncle_name} comparing exactly 2 bookmarks placed straight side by side. One bookmark must be visibly longer than the other. No extra bookmarks, books, props, text, letters, or numbers.

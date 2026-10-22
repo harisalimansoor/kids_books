@@ -1,0 +1,9 @@
+title: Comparing Paper Parts with Uncle
+question_text:
+{user_name} is helping {uncle_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Are these parts both halves?
+options:
+A) Yes, because there are 2 parts
+B) No, because the parts are unequal
+C) Yes, because the parts are equal
+image_prompt:
+Show {user_name} helping {uncle_name} divide exactly one rectangular sheet of paper into 2 unequal parts. Make one part clearly larger than the other. No extra paper, objects, props, people, text, letters or numbers.

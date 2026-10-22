@@ -1,0 +1,9 @@
+title: Arranging Coasters with Sister
+question_text:
+{user_name} is helping {sister_name} arrange a square coaster on the table. They turn it so one corner points up and it looks like a diamond. What shape is the coaster still?
+options:
+A) Rectangle
+B) Square
+C) Triangle
+image_prompt:
+Show {user_name} helping {sister_name} examine exactly 1 square coaster rotated so one corner points up and the opposite corner points down. Make all 4 equal sides and 4 corners clearly visible. No extra coasters, objects, props, text, letters, or numbers.

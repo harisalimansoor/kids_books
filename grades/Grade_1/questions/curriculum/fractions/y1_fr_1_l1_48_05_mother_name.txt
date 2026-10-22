@@ -1,0 +1,9 @@
+title: Sorting Toy Robots with Mother
+question_text:
+{user_name} is helping {mother_name} organise toy robots. They arrange exactly 4 toy robots into 4 equal groups. What fraction of all the robots is in one group?
+options:
+A) One whole
+B) One quarter
+C) One half
+image_prompt:
+Show {user_name} helping {mother_name} arrange exactly 4 toy robots into 4 separate, equal groups, with exactly 1 robot in each group. No additional robots, objects, props or people. No text, letters or numbers.

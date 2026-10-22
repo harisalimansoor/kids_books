@@ -1,0 +1,9 @@
+title: Turning a Paper Arrow with Uncle
+question_text:
+{user_name} is helping {uncle_name} practise directions using a paper arrow. The arrow starts by pointing right. They turn it one quarter turn anticlockwise. Which direction does the arrow face now?
+options:
+A) Down
+B) Up
+C) Left
+image_prompt:
+Show {user_name} helping {uncle_name} examine exactly 2 paper arrow diagrams side by side. In the first diagram, the arrow points straight right. In the second diagram, the arrow points straight up, showing a quarter turn anticlockwise from the starting direction. Make both directions clear and accurate. No extra arrows, diagrams, objects, props, text, letters, or numbers.

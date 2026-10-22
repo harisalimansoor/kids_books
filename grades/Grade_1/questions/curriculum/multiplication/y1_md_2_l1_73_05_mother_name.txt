@@ -1,0 +1,9 @@
+title: Blowing Bubbles with Mother
+question_text:
+{user_name} blows bubbles with {mother_name}. They make 3 bubbles with each of 2 bubble wands. How many bubbles do they make altogether?
+options:
+A) 6
+B) 5
+C) 9
+image_prompt:
+Show {user_name} and {mother_name} using exactly 2 bubble wands. Show exactly 3 separate bubbles coming from each wand, making exactly 6 bubbles in total. No extra bubbles or wands, and no text, letters, or numbers.

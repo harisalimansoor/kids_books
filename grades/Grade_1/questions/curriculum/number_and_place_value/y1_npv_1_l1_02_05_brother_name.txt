@@ -1,0 +1,9 @@
+title: Finding Tens with Brother
+question_text:
+{user_name} and {brother_name} arrange 27 toy blocks into 2 groups of 10 and 7 loose blocks. How many tens are there in 27?
+options:
+A) 7
+B) 2
+C) 27
+image_prompt:
+Show {user_name} and {brother_name} arranging exactly 27 blocks: 2 groups of 10 blocks each and 7 loose blocks. Keep all blocks visible and countable. No extra blocks, and no text, letters, or numbers.

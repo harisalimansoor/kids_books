@@ -80,3 +80,563 @@
 {user_name} helps {aunt_name} arrange the numbers 13, 28, and 35 from smallest to largest. Which number should come second?
 {user_name} helps {aunt_name} count 44 paper butterflies. Which number name matches 44?
 {user_name} and {aunt_name} arrange 3 groups of 10 pinwheels and 8 extra pinwheels. What number do the pinwheels show altogether?
+{user_name} helps {grandmother_name} count 3 groups of 10 blocks and 4 extra blocks. What number do the blocks show altogether?
+{user_name} helps {father_name} count 3 groups of 10 blocks and 4 extra blocks. What number do the blocks show altogether?
+{user_name} helps {mother_name} count 3 groups of 10 blocks and 4 extra blocks. What number do the blocks show altogether?
+{user_name} helps {brother_name} count 3 groups of 10 blocks and 4 extra blocks. What number do the blocks show altogether?
+{user_name} helps {sister_name} count 3 groups of 10 blocks and 4 extra blocks. What number do the blocks show altogether?
+{user_name} helps {uncle_name} count 3 groups of 10 blocks and 4 extra blocks. What number do the blocks show altogether?
+{user_name} helps {aunt_name} count 3 groups of 10 blocks and 4 extra blocks. What number do the blocks show altogether?
+{user_name} and {grandmother_name} arrange 27 toy blocks into 2 groups of 10 and 7 loose blocks. How many tens are there in 27?
+{user_name} and {father_name} arrange 27 toy blocks into 2 groups of 10 and 7 loose blocks. How many tens are there in 27?
+{user_name} and {mother_name} arrange 27 toy blocks into 2 groups of 10 and 7 loose blocks. How many tens are there in 27?
+{user_name} and {brother_name} arrange 27 toy blocks into 2 groups of 10 and 7 loose blocks. How many tens are there in 27?
+{user_name} and {sister_name} arrange 27 toy blocks into 2 groups of 10 and 7 loose blocks. How many tens are there in 27?
+{user_name} and {uncle_name} arrange 27 toy blocks into 2 groups of 10 and 7 loose blocks. How many tens are there in 27?
+{user_name} and {aunt_name} arrange 27 toy blocks into 2 groups of 10 and 7 loose blocks. How many tens are there in 27?
+{user_name} helps {grandmother_name} arrange 36 buttons into 3 groups of 10 and 6 loose buttons. How many ones are in 36?
+{user_name} helps {father_name} arrange 36 buttons into 3 groups of 10 and 6 loose buttons. How many ones are in 36?
+{user_name} helps {mother_name} arrange 36 buttons into 3 groups of 10 and 6 loose buttons. How many ones are in 36?
+{user_name} helps {brother_name} arrange 36 buttons into 3 groups of 10 and 6 loose buttons. How many ones are in 36?
+{user_name} helps {sister_name} arrange 36 buttons into 3 groups of 10 and 6 loose buttons. How many ones are in 36?
+{user_name} helps {uncle_name} arrange 36 buttons into 3 groups of 10 and 6 loose buttons. How many ones are in 36?
+{user_name} helps {aunt_name} arrange 36 buttons into 3 groups of 10 and 6 loose buttons. How many ones are in 36?
+{user_name} helps {grandmother_name} arrange number cards in counting order. Which number comes just before 25?
+{user_name} helps {father_name} arrange number cards in counting order. Which number comes just before 25?
+{user_name} helps {mother_name} arrange number cards in counting order. Which number comes just before 25?
+{user_name} helps {brother_name} arrange number cards in counting order. Which number comes just before 25?
+{user_name} helps {sister_name} arrange number cards in counting order. Which number comes just before 25?
+{user_name} helps {uncle_name} arrange number cards in counting order. Which number comes just before 25?
+{user_name} helps {aunt_name} arrange number cards in counting order. Which number comes just before 25?
+{user_name} and {grandmother_name} count forward from 18. Which number comes just after 18?
+{user_name} and {father_name} count forward from 18. Which number comes just after 18?
+{user_name} and {mother_name} count forward from 18. Which number comes just after 18?
+{user_name} and {brother_name} count forward from 18. Which number comes just after 18?
+{user_name} and {sister_name} count forward from 18. Which number comes just after 18?
+{user_name} and {uncle_name} count forward from 18. Which number comes just after 18?
+{user_name} and {aunt_name} count forward from 18. Which number comes just after 18?
+{user_name} helps {grandmother_name} complete the counting sequence: 31, 32, __, 34. Which number belongs in the empty space?
+{user_name} helps {father_name} complete the counting sequence: 31, 32, __, 34. Which number belongs in the empty space?
+{user_name} helps {mother_name} complete the counting sequence: 31, 32, __, 34. Which number belongs in the empty space?
+{user_name} helps {brother_name} complete the counting sequence: 31, 32, __, 34. Which number belongs in the empty space?
+{user_name} helps {sister_name} complete the counting sequence: 31, 32, __, 34. Which number belongs in the empty space?
+{user_name} helps {uncle_name} complete the counting sequence: 31, 32, __, 34. Which number belongs in the empty space?
+{user_name} helps {aunt_name} complete the counting sequence: 31, 32, __, 34. Which number belongs in the empty space?
+{user_name} and {grandmother_name} have 28 toy cars in one collection and 32 in another. Which collection has more toy cars?
+{user_name} and {father_name} have 28 toy cars in one collection and 32 in another. Which collection has more toy cars?
+{user_name} and {mother_name} have 28 toy cars in one collection and 32 in another. Which collection has more toy cars?
+{user_name} and {brother_name} have 28 toy cars in one collection and 32 in another. Which collection has more toy cars?
+{user_name} and {sister_name} have 28 toy cars in one collection and 32 in another. Which collection has more toy cars?
+{user_name} and {uncle_name} have 28 toy cars in one collection and 32 in another. Which collection has more toy cars?
+{user_name} and {aunt_name} have 28 toy cars in one collection and 32 in another. Which collection has more toy cars?
+{user_name} helps {grandmother_name} arrange three numbers from smallest to largest. Which number should come first: 16, 9, or 21?
+{user_name} helps {father_name} arrange three numbers from smallest to largest. Which number should come first: 16, 9, or 21?
+{user_name} helps {mother_name} arrange three numbers from smallest to largest. Which number should come first: 16, 9, or 21?
+{user_name} helps {brother_name} arrange three numbers from smallest to largest. Which number should come first: 16, 9, or 21?
+{user_name} helps {sister_name} arrange three numbers from smallest to largest. Which number should come first: 16, 9, or 21?
+{user_name} helps {uncle_name} arrange three numbers from smallest to largest. Which number should come first: 16, 9, or 21?
+{user_name} helps {aunt_name} arrange three numbers from smallest to largest. Which number should come first: 16, 9, or 21?
+{user_name} helps {grandmother_name} make a number with 4 tens and 2 ones. Which number do they make?
+{user_name} helps {father_name} make a number with 4 tens and 2 ones. Which number do they make?
+{user_name} helps {mother_name} make a number with 4 tens and 2 ones. Which number do they make?
+{user_name} helps {brother_name} make a number with 4 tens and 2 ones. Which number do they make?
+{user_name} helps {sister_name} make a number with 4 tens and 2 ones. Which number do they make?
+{user_name} helps {uncle_name} make a number with 4 tens and 2 ones. Which number do they make?
+{user_name} helps {aunt_name} make a number with 4 tens and 2 ones. Which number do they make?
+{user_name} and {grandmother_name} count 35 beads. Which number name matches 35?
+{user_name} and {father_name} count 35 beads. Which number name matches 35?
+{user_name} and {mother_name} count 35 beads. Which number name matches 35?
+{user_name} and {brother_name} count 35 beads. Which number name matches 35?
+{user_name} and {sister_name} count 35 beads. Which number name matches 35?
+{user_name} and {uncle_name} count 35 beads. Which number name matches 35?
+{user_name} and {aunt_name} count 35 beads. Which number name matches 35?
+{user_name} helps {grandfather_name} arrange 2 groups of 10 buttons and 5 extra buttons. What number do the buttons show altogether?
+{user_name} helps {father_name} arrange 2 groups of 10 buttons and 5 extra buttons. What number do the buttons show altogether?
+{user_name} helps {mother_name} arrange 2 groups of 10 buttons and 5 extra buttons. What number do the buttons show altogether?
+{user_name} helps {brother_name} arrange 2 groups of 10 buttons and 5 extra buttons. What number do the buttons show altogether?
+{user_name} helps {sister_name} arrange 2 groups of 10 buttons and 5 extra buttons. What number do the buttons show altogether?
+{user_name} helps {uncle_name} arrange 2 groups of 10 buttons and 5 extra buttons. What number do the buttons show altogether?
+{user_name} helps {aunt_name} arrange 2 groups of 10 buttons and 5 extra buttons. What number do the buttons show altogether?
+{user_name} helps {grandfather_name} arrange 38 yarn balls into 3 groups of 10 and 8 loose balls. How many ones are in 38?
+{user_name} helps {father_name} arrange 38 yarn balls into 3 groups of 10 and 8 loose balls. How many ones are in 38?
+{user_name} helps {mother_name} arrange 38 yarn balls into 3 groups of 10 and 8 loose balls. How many ones are in 38?
+{user_name} helps {brother_name} arrange 38 yarn balls into 3 groups of 10 and 8 loose balls. How many ones are in 38?
+{user_name} helps {sister_name} arrange 38 yarn balls into 3 groups of 10 and 8 loose balls. How many ones are in 38?
+{user_name} helps {uncle_name} arrange 38 yarn balls into 3 groups of 10 and 8 loose balls. How many ones are in 38?
+{user_name} helps {aunt_name} arrange 38 yarn balls into 3 groups of 10 and 8 loose balls. How many ones are in 38?
+{user_name} helps {grandfather_name} arrange 4 tens and 1 one using small flowerpots. Which number do they show?
+{user_name} helps {father_name} arrange 4 tens and 1 one using small flowerpots. Which number do they show?
+{user_name} helps {mother_name} arrange 4 tens and 1 one using small flowerpots. Which number do they show?
+{user_name} helps {brother_name} arrange 4 tens and 1 one using small flowerpots. Which number do they show?
+{user_name} helps {sister_name} arrange 4 tens and 1 one using small flowerpots. Which number do they show?
+{user_name} helps {uncle_name} arrange 4 tens and 1 one using small flowerpots. Which number do they show?
+{user_name} helps {aunt_name} arrange 4 tens and 1 one using small flowerpots. Which number do they show?
+{user_name} helps {grandfather_name} complete this counting sequence: 22, 23, __, 25. Which number is missing?
+{user_name} helps {father_name} complete this counting sequence: 22, 23, __, 25. Which number is missing?
+{user_name} helps {mother_name} complete this counting sequence: 22, 23, __, 25. Which number is missing?
+{user_name} helps {brother_name} complete this counting sequence: 22, 23, __, 25. Which number is missing?
+{user_name} helps {sister_name} complete this counting sequence: 22, 23, __, 25. Which number is missing?
+{user_name} helps {uncle_name} complete this counting sequence: 22, 23, __, 25. Which number is missing?
+{user_name} helps {aunt_name} complete this counting sequence: 22, 23, __, 25. Which number is missing?
+{user_name} and {grandfather_name} arrange 17 apples in a basket. Which number comes just before 17?
+{user_name} and {father_name} arrange 17 apples in a basket. Which number comes just before 17?
+{user_name} and {mother_name} arrange 17 apples in a basket. Which number comes just before 17?
+{user_name} and {brother_name} arrange 17 apples in a basket. Which number comes just before 17?
+{user_name} and {sister_name} arrange 17 apples in a basket. Which number comes just before 17?
+{user_name} and {uncle_name} arrange 17 apples in a basket. Which number comes just before 17?
+{user_name} and {aunt_name} arrange 17 apples in a basket. Which number comes just before 17?
+{user_name} helps {grandfather_name} compare 26 knitting needles in one box and 19 in another. Which box has fewer needles?
+{user_name} helps {father_name} compare 26 knitting needles in one box and 19 in another. Which box has fewer needles?
+{user_name} helps {mother_name} compare 26 knitting needles in one box and 19 in another. Which box has fewer needles?
+{user_name} helps {brother_name} compare 26 knitting needles in one box and 19 in another. Which box has fewer needles?
+{user_name} helps {sister_name} compare 26 knitting needles in one box and 19 in another. Which box has fewer needles?
+{user_name} helps {uncle_name} compare 26 knitting needles in one box and 19 in another. Which box has fewer needles?
+{user_name} helps {aunt_name} compare 26 knitting needles in one box and 19 in another. Which box has fewer needles?
+{user_name} helps {grandfather_name} arrange the numbers 12, 29, and 18 from smallest to largest. Which number comes last?
+{user_name} helps {father_name} arrange the numbers 12, 29, and 18 from smallest to largest. Which number comes last?
+{user_name} helps {mother_name} arrange the numbers 12, 29, and 18 from smallest to largest. Which number comes last?
+{user_name} helps {brother_name} arrange the numbers 12, 29, and 18 from smallest to largest. Which number comes last?
+{user_name} helps {sister_name} arrange the numbers 12, 29, and 18 from smallest to largest. Which number comes last?
+{user_name} helps {uncle_name} arrange the numbers 12, 29, and 18 from smallest to largest. Which number comes last?
+{user_name} helps {aunt_name} arrange the numbers 12, 29, and 18 from smallest to largest. Which number comes last?
+{user_name} helps {grandfather_name} arrange 3 groups of 10 teacups and 6 extra teacups. What number do the teacups show altogether?
+{user_name} helps {father_name} arrange 3 groups of 10 teacups and 6 extra teacups. What number do the teacups show altogether?
+{user_name} helps {mother_name} arrange 3 groups of 10 teacups and 6 extra teacups. What number do the teacups show altogether?
+{user_name} helps {brother_name} arrange 3 groups of 10 teacups and 6 extra teacups. What number do the teacups show altogether?
+{user_name} helps {sister_name} arrange 3 groups of 10 teacups and 6 extra teacups. What number do the teacups show altogether?
+{user_name} helps {uncle_name} arrange 3 groups of 10 teacups and 6 extra teacups. What number do the teacups show altogether?
+{user_name} helps {aunt_name} arrange 3 groups of 10 teacups and 6 extra teacups. What number do the teacups show altogether?
+{user_name} and {grandfather_name} compare the numbers 34 and 43. Which number is greater?
+{user_name} and {father_name} compare the numbers 34 and 43. Which number is greater?
+{user_name} and {mother_name} compare the numbers 34 and 43. Which number is greater?
+{user_name} and {brother_name} compare the numbers 34 and 43. Which number is greater?
+{user_name} and {sister_name} compare the numbers 34 and 43. Which number is greater?
+{user_name} and {uncle_name} compare the numbers 34 and 43. Which number is greater?
+{user_name} and {aunt_name} compare the numbers 34 and 43. Which number is greater?
+{user_name} helps {grandfather_name} count 47 buttons. Which number name matches 47?
+{user_name} helps {father_name} count 47 buttons. Which number name matches 47?
+{user_name} helps {mother_name} count 47 buttons. Which number name matches 47?
+{user_name} helps {brother_name} count 47 buttons. Which number name matches 47?
+{user_name} helps {sister_name} count 47 buttons. Which number name matches 47?
+{user_name} helps {uncle_name} count 47 buttons. Which number name matches 47?
+{user_name} helps {aunt_name} count 47 buttons. Which number name matches 47?
+{user_name} helps {grandfather_name} arrange 2 groups of 10 footballs and 7 extra footballs. What number do the footballs show altogether?
+{user_name} helps {grandmother_name} arrange 2 groups of 10 footballs and 7 extra footballs. What number do the footballs show altogether?
+{user_name} helps {mother_name} arrange 2 groups of 10 footballs and 7 extra footballs. What number do the footballs show altogether?
+{user_name} helps {brother_name} arrange 2 groups of 10 footballs and 7 extra footballs. What number do the footballs show altogether?
+{user_name} helps {sister_name} arrange 2 groups of 10 footballs and 7 extra footballs. What number do the footballs show altogether?
+{user_name} helps {uncle_name} arrange 2 groups of 10 footballs and 7 extra footballs. What number do the footballs show altogether?
+{user_name} helps {aunt_name} arrange 2 groups of 10 footballs and 7 extra footballs. What number do the footballs show altogether?
+{user_name} helps {grandfather_name} arrange 46 nuts into 4 groups of 10 and 6 loose nuts. How many tens are in 46?
+{user_name} helps {grandmother_name} arrange 46 nuts into 4 groups of 10 and 6 loose nuts. How many tens are in 46?
+{user_name} helps {mother_name} arrange 46 nuts into 4 groups of 10 and 6 loose nuts. How many tens are in 46?
+{user_name} helps {brother_name} arrange 46 nuts into 4 groups of 10 and 6 loose nuts. How many tens are in 46?
+{user_name} helps {sister_name} arrange 46 nuts into 4 groups of 10 and 6 loose nuts. How many tens are in 46?
+{user_name} helps {uncle_name} arrange 46 nuts into 4 groups of 10 and 6 loose nuts. How many tens are in 46?
+{user_name} helps {aunt_name} arrange 46 nuts into 4 groups of 10 and 6 loose nuts. How many tens are in 46?
+{user_name} helps {grandfather_name} count 35 tool handles. If 35 has 3 tens and 5 ones, how many ones does it have?
+{user_name} helps {grandmother_name} count 35 tool handles. If 35 has 3 tens and 5 ones, how many ones does it have?
+{user_name} helps {mother_name} count 35 tool handles. If 35 has 3 tens and 5 ones, how many ones does it have?
+{user_name} helps {brother_name} count 35 tool handles. If 35 has 3 tens and 5 ones, how many ones does it have?
+{user_name} helps {sister_name} count 35 tool handles. If 35 has 3 tens and 5 ones, how many ones does it have?
+{user_name} helps {uncle_name} count 35 tool handles. If 35 has 3 tens and 5 ones, how many ones does it have?
+{user_name} helps {aunt_name} count 35 tool handles. If 35 has 3 tens and 5 ones, how many ones does it have?
+{user_name} and {grandfather_name} count forward from 39. Which number comes just after 39?
+{user_name} and {grandmother_name} count forward from 39. Which number comes just after 39?
+{user_name} and {mother_name} count forward from 39. Which number comes just after 39?
+{user_name} and {brother_name} count forward from 39. Which number comes just after 39?
+{user_name} and {sister_name} count forward from 39. Which number comes just after 39?
+{user_name} and {uncle_name} count forward from 39. Which number comes just after 39?
+{user_name} and {aunt_name} count forward from 39. Which number comes just after 39?
+{user_name} helps {grandfather_name} complete this counting sequence: 41, 42, __, 44. Which number is missing?
+{user_name} helps {grandmother_name} complete this counting sequence: 41, 42, __, 44. Which number is missing?
+{user_name} helps {mother_name} complete this counting sequence: 41, 42, __, 44. Which number is missing?
+{user_name} helps {brother_name} complete this counting sequence: 41, 42, __, 44. Which number is missing?
+{user_name} helps {sister_name} complete this counting sequence: 41, 42, __, 44. Which number is missing?
+{user_name} helps {uncle_name} complete this counting sequence: 41, 42, __, 44. Which number is missing?
+{user_name} helps {aunt_name} complete this counting sequence: 41, 42, __, 44. Which number is missing?
+{user_name} and {grandfather_name} compare 24 building blocks in one group and 42 in another. Which group has fewer blocks?
+{user_name} and {grandmother_name} compare 24 building blocks in one group and 42 in another. Which group has fewer blocks?
+{user_name} and {mother_name} compare 24 building blocks in one group and 42 in another. Which group has fewer blocks?
+{user_name} and {brother_name} compare 24 building blocks in one group and 42 in another. Which group has fewer blocks?
+{user_name} and {sister_name} compare 24 building blocks in one group and 42 in another. Which group has fewer blocks?
+{user_name} and {uncle_name} compare 24 building blocks in one group and 42 in another. Which group has fewer blocks?
+{user_name} and {aunt_name} compare 24 building blocks in one group and 42 in another. Which group has fewer blocks?
+{user_name} helps {grandfather_name} arrange the numbers 17, 31, and 26 from smallest to largest. Which number should come first?
+{user_name} helps {grandmother_name} arrange the numbers 17, 31, and 26 from smallest to largest. Which number should come first?
+{user_name} helps {mother_name} arrange the numbers 17, 31, and 26 from smallest to largest. Which number should come first?
+{user_name} helps {brother_name} arrange the numbers 17, 31, and 26 from smallest to largest. Which number should come first?
+{user_name} helps {sister_name} arrange the numbers 17, 31, and 26 from smallest to largest. Which number should come first?
+{user_name} helps {uncle_name} arrange the numbers 17, 31, and 26 from smallest to largest. Which number should come first?
+{user_name} helps {aunt_name} arrange the numbers 17, 31, and 26 from smallest to largest. Which number should come first?
+{user_name} helps {grandfather_name} arrange 4 groups of 10 bolts and 3 extra bolts. What number do the bolts show altogether?
+{user_name} helps {grandmother_name} arrange 4 groups of 10 bolts and 3 extra bolts. What number do the bolts show altogether?
+{user_name} helps {mother_name} arrange 4 groups of 10 bolts and 3 extra bolts. What number do the bolts show altogether?
+{user_name} helps {brother_name} arrange 4 groups of 10 bolts and 3 extra bolts. What number do the bolts show altogether?
+{user_name} helps {sister_name} arrange 4 groups of 10 bolts and 3 extra bolts. What number do the bolts show altogether?
+{user_name} helps {uncle_name} arrange 4 groups of 10 bolts and 3 extra bolts. What number do the bolts show altogether?
+{user_name} helps {aunt_name} arrange 4 groups of 10 bolts and 3 extra bolts. What number do the bolts show altogether?
+{user_name} helps {grandfather_name} identify the number 28. Which number name matches 28?
+{user_name} helps {grandmother_name} identify the number 28. Which number name matches 28?
+{user_name} helps {mother_name} identify the number 28. Which number name matches 28?
+{user_name} helps {brother_name} identify the number 28. Which number name matches 28?
+{user_name} helps {sister_name} identify the number 28. Which number name matches 28?
+{user_name} helps {uncle_name} identify the number 28. Which number name matches 28?
+{user_name} helps {aunt_name} identify the number 28. Which number name matches 28?
+{user_name} helps {grandfather_name} show 32 using tens and ones. Which description matches 32?
+{user_name} helps {grandmother_name} show 32 using tens and ones. Which description matches 32?
+{user_name} helps {mother_name} show 32 using tens and ones. Which description matches 32?
+{user_name} helps {brother_name} show 32 using tens and ones. Which description matches 32?
+{user_name} helps {sister_name} show 32 using tens and ones. Which description matches 32?
+{user_name} helps {uncle_name} show 32 using tens and ones. Which description matches 32?
+{user_name} helps {aunt_name} show 32 using tens and ones. Which description matches 32?
+{user_name} helps {grandfather_name} arrange 4 groups of 10 seashells and 5 extra seashells. What number do the seashells show altogether?
+{user_name} helps {grandmother_name} arrange 4 groups of 10 seashells and 5 extra seashells. What number do the seashells show altogether?
+{user_name} helps {father_name} arrange 4 groups of 10 seashells and 5 extra seashells. What number do the seashells show altogether?
+{user_name} helps {brother_name} arrange 4 groups of 10 seashells and 5 extra seashells. What number do the seashells show altogether?
+{user_name} helps {sister_name} arrange 4 groups of 10 seashells and 5 extra seashells. What number do the seashells show altogether?
+{user_name} helps {uncle_name} arrange 4 groups of 10 seashells and 5 extra seashells. What number do the seashells show altogether?
+{user_name} helps {aunt_name} arrange 4 groups of 10 seashells and 5 extra seashells. What number do the seashells show altogether?
+{user_name} helps {grandfather_name} arrange 29 beads into 2 groups of 10 and 9 loose beads. How many ones are in 29?
+{user_name} helps {grandmother_name} arrange 29 beads into 2 groups of 10 and 9 loose beads. How many ones are in 29?
+{user_name} helps {father_name} arrange 29 beads into 2 groups of 10 and 9 loose beads. How many ones are in 29?
+{user_name} helps {brother_name} arrange 29 beads into 2 groups of 10 and 9 loose beads. How many ones are in 29?
+{user_name} helps {sister_name} arrange 29 beads into 2 groups of 10 and 9 loose beads. How many ones are in 29?
+{user_name} helps {uncle_name} arrange 29 beads into 2 groups of 10 and 9 loose beads. How many ones are in 29?
+{user_name} helps {aunt_name} arrange 29 beads into 2 groups of 10 and 9 loose beads. How many ones are in 29?
+{user_name} helps {grandfather_name} pack 3 groups of 10 cupcakes and 2 extra cupcakes. What number do the cupcakes show altogether?
+{user_name} helps {grandmother_name} pack 3 groups of 10 cupcakes and 2 extra cupcakes. What number do the cupcakes show altogether?
+{user_name} helps {father_name} pack 3 groups of 10 cupcakes and 2 extra cupcakes. What number do the cupcakes show altogether?
+{user_name} helps {brother_name} pack 3 groups of 10 cupcakes and 2 extra cupcakes. What number do the cupcakes show altogether?
+{user_name} helps {sister_name} pack 3 groups of 10 cupcakes and 2 extra cupcakes. What number do the cupcakes show altogether?
+{user_name} helps {uncle_name} pack 3 groups of 10 cupcakes and 2 extra cupcakes. What number do the cupcakes show altogether?
+{user_name} helps {aunt_name} pack 3 groups of 10 cupcakes and 2 extra cupcakes. What number do the cupcakes show altogether?
+{user_name} helps {grandfather_name} count backward by looking at numbers near 36. Which number comes just before 36?
+{user_name} helps {grandmother_name} count backward by looking at numbers near 36. Which number comes just before 36?
+{user_name} helps {father_name} count backward by looking at numbers near 36. Which number comes just before 36?
+{user_name} helps {brother_name} count backward by looking at numbers near 36. Which number comes just before 36?
+{user_name} helps {sister_name} count backward by looking at numbers near 36. Which number comes just before 36?
+{user_name} helps {uncle_name} count backward by looking at numbers near 36. Which number comes just before 36?
+{user_name} helps {aunt_name} count backward by looking at numbers near 36. Which number comes just before 36?
+{user_name} and {grandfather_name} complete this counting sequence: 26, 27, 28, __, 30. Which number is missing?
+{user_name} and {grandmother_name} complete this counting sequence: 26, 27, 28, __, 30. Which number is missing?
+{user_name} and {father_name} complete this counting sequence: 26, 27, 28, __, 30. Which number is missing?
+{user_name} and {brother_name} complete this counting sequence: 26, 27, 28, __, 30. Which number is missing?
+{user_name} and {sister_name} complete this counting sequence: 26, 27, 28, __, 30. Which number is missing?
+{user_name} and {uncle_name} complete this counting sequence: 26, 27, 28, __, 30. Which number is missing?
+{user_name} and {aunt_name} complete this counting sequence: 26, 27, 28, __, 30. Which number is missing?
+{user_name} helps {grandfather_name} compare 37 oranges in one basket and 31 oranges in another. Which basket has more oranges?
+{user_name} helps {grandmother_name} compare 37 oranges in one basket and 31 oranges in another. Which basket has more oranges?
+{user_name} helps {father_name} compare 37 oranges in one basket and 31 oranges in another. Which basket has more oranges?
+{user_name} helps {brother_name} compare 37 oranges in one basket and 31 oranges in another. Which basket has more oranges?
+{user_name} helps {sister_name} compare 37 oranges in one basket and 31 oranges in another. Which basket has more oranges?
+{user_name} helps {uncle_name} compare 37 oranges in one basket and 31 oranges in another. Which basket has more oranges?
+{user_name} helps {aunt_name} compare 37 oranges in one basket and 31 oranges in another. Which basket has more oranges?
+{user_name} helps {grandfather_name} arrange 14, 39, and 22 from smallest to largest. Which number should come last?
+{user_name} helps {grandmother_name} arrange 14, 39, and 22 from smallest to largest. Which number should come last?
+{user_name} helps {father_name} arrange 14, 39, and 22 from smallest to largest. Which number should come last?
+{user_name} helps {brother_name} arrange 14, 39, and 22 from smallest to largest. Which number should come last?
+{user_name} helps {sister_name} arrange 14, 39, and 22 from smallest to largest. Which number should come last?
+{user_name} helps {uncle_name} arrange 14, 39, and 22 from smallest to largest. Which number should come last?
+{user_name} helps {aunt_name} arrange 14, 39, and 22 from smallest to largest. Which number should come last?
+{user_name} helps {grandfather_name} arrange 4 groups of 10 buttons and 8 extra buttons. What number do the buttons show altogether?
+{user_name} helps {grandmother_name} arrange 4 groups of 10 buttons and 8 extra buttons. What number do the buttons show altogether?
+{user_name} helps {father_name} arrange 4 groups of 10 buttons and 8 extra buttons. What number do the buttons show altogether?
+{user_name} helps {brother_name} arrange 4 groups of 10 buttons and 8 extra buttons. What number do the buttons show altogether?
+{user_name} helps {sister_name} arrange 4 groups of 10 buttons and 8 extra buttons. What number do the buttons show altogether?
+{user_name} helps {uncle_name} arrange 4 groups of 10 buttons and 8 extra buttons. What number do the buttons show altogether?
+{user_name} helps {aunt_name} arrange 4 groups of 10 buttons and 8 extra buttons. What number do the buttons show altogether?
+{user_name} helps {grandfather_name} show the number 26 using tens and ones. Which description matches 26?
+{user_name} helps {grandmother_name} show the number 26 using tens and ones. Which description matches 26?
+{user_name} helps {father_name} show the number 26 using tens and ones. Which description matches 26?
+{user_name} helps {brother_name} show the number 26 using tens and ones. Which description matches 26?
+{user_name} helps {sister_name} show the number 26 using tens and ones. Which description matches 26?
+{user_name} helps {uncle_name} show the number 26 using tens and ones. Which description matches 26?
+{user_name} helps {aunt_name} show the number 26 using tens and ones. Which description matches 26?
+{user_name} helps {grandfather_name} identify the number 41. Which number name matches 41?
+{user_name} helps {grandmother_name} identify the number 41. Which number name matches 41?
+{user_name} helps {father_name} identify the number 41. Which number name matches 41?
+{user_name} helps {brother_name} identify the number 41. Which number name matches 41?
+{user_name} helps {sister_name} identify the number 41. Which number name matches 41?
+{user_name} helps {uncle_name} identify the number 41. Which number name matches 41?
+{user_name} helps {aunt_name} identify the number 41. Which number name matches 41?
+{user_name} and {grandfather_name} arrange 3 groups of 10 toy dinosaurs and 6 extra dinosaurs. What number do the dinosaurs show altogether?
+{user_name} and {grandmother_name} arrange 3 groups of 10 toy dinosaurs and 6 extra dinosaurs. What number do the dinosaurs show altogether?
+{user_name} and {father_name} arrange 3 groups of 10 toy dinosaurs and 6 extra dinosaurs. What number do the dinosaurs show altogether?
+{user_name} and {mother_name} arrange 3 groups of 10 toy dinosaurs and 6 extra dinosaurs. What number do the dinosaurs show altogether?
+{user_name} and {sister_name} arrange 3 groups of 10 toy dinosaurs and 6 extra dinosaurs. What number do the dinosaurs show altogether?
+{user_name} and {uncle_name} arrange 3 groups of 10 toy dinosaurs and 6 extra dinosaurs. What number do the dinosaurs show altogether?
+{user_name} and {aunt_name} arrange 3 groups of 10 toy dinosaurs and 6 extra dinosaurs. What number do the dinosaurs show altogether?
+{user_name} helps {grandfather_name} arrange 42 sticks into 4 bundles of 10 sticks and 2 loose sticks. How many tens are in 42?
+{user_name} helps {grandmother_name} arrange 42 sticks into 4 bundles of 10 sticks and 2 loose sticks. How many tens are in 42?
+{user_name} helps {father_name} arrange 42 sticks into 4 bundles of 10 sticks and 2 loose sticks. How many tens are in 42?
+{user_name} helps {mother_name} arrange 42 sticks into 4 bundles of 10 sticks and 2 loose sticks. How many tens are in 42?
+{user_name} helps {sister_name} arrange 42 sticks into 4 bundles of 10 sticks and 2 loose sticks. How many tens are in 42?
+{user_name} helps {uncle_name} arrange 42 sticks into 4 bundles of 10 sticks and 2 loose sticks. How many tens are in 42?
+{user_name} helps {aunt_name} arrange 42 sticks into 4 bundles of 10 sticks and 2 loose sticks. How many tens are in 42?
+{user_name} and {grandfather_name} make a number using 2 tens and 8 ones with toy blocks. Which number do they make?
+{user_name} and {grandmother_name} make a number using 2 tens and 8 ones with toy blocks. Which number do they make?
+{user_name} and {father_name} make a number using 2 tens and 8 ones with toy blocks. Which number do they make?
+{user_name} and {mother_name} make a number using 2 tens and 8 ones with toy blocks. Which number do they make?
+{user_name} and {sister_name} make a number using 2 tens and 8 ones with toy blocks. Which number do they make?
+{user_name} and {uncle_name} make a number using 2 tens and 8 ones with toy blocks. Which number do they make?
+{user_name} and {aunt_name} make a number using 2 tens and 8 ones with toy blocks. Which number do they make?
+{user_name} and {grandfather_name} follow a counting path: 15, 16, __, 18. Which number is missing?
+{user_name} and {grandmother_name} follow a counting path: 15, 16, __, 18. Which number is missing?
+{user_name} and {father_name} follow a counting path: 15, 16, __, 18. Which number is missing?
+{user_name} and {mother_name} follow a counting path: 15, 16, __, 18. Which number is missing?
+{user_name} and {sister_name} follow a counting path: 15, 16, __, 18. Which number is missing?
+{user_name} and {uncle_name} follow a counting path: 15, 16, __, 18. Which number is missing?
+{user_name} and {aunt_name} follow a counting path: 15, 16, __, 18. Which number is missing?
+{user_name} and {grandfather_name} place toy trains in counting order. Which number comes just after 29?
+{user_name} and {grandmother_name} place toy trains in counting order. Which number comes just after 29?
+{user_name} and {father_name} place toy trains in counting order. Which number comes just after 29?
+{user_name} and {mother_name} place toy trains in counting order. Which number comes just after 29?
+{user_name} and {sister_name} place toy trains in counting order. Which number comes just after 29?
+{user_name} and {uncle_name} place toy trains in counting order. Which number comes just after 29?
+{user_name} and {aunt_name} place toy trains in counting order. Which number comes just after 29?
+{user_name} and {grandfather_name} compare 34 marbles in one collection and 43 marbles in another. Which collection has fewer marbles?
+{user_name} and {grandmother_name} compare 34 marbles in one collection and 43 marbles in another. Which collection has fewer marbles?
+{user_name} and {father_name} compare 34 marbles in one collection and 43 marbles in another. Which collection has fewer marbles?
+{user_name} and {mother_name} compare 34 marbles in one collection and 43 marbles in another. Which collection has fewer marbles?
+{user_name} and {sister_name} compare 34 marbles in one collection and 43 marbles in another. Which collection has fewer marbles?
+{user_name} and {uncle_name} compare 34 marbles in one collection and 43 marbles in another. Which collection has fewer marbles?
+{user_name} and {aunt_name} compare 34 marbles in one collection and 43 marbles in another. Which collection has fewer marbles?
+{user_name} helps {grandfather_name} arrange the numbers 12, 27, and 19 from smallest to largest. Which number should come last?
+{user_name} helps {grandmother_name} arrange the numbers 12, 27, and 19 from smallest to largest. Which number should come last?
+{user_name} helps {father_name} arrange the numbers 12, 27, and 19 from smallest to largest. Which number should come last?
+{user_name} helps {mother_name} arrange the numbers 12, 27, and 19 from smallest to largest. Which number should come last?
+{user_name} helps {sister_name} arrange the numbers 12, 27, and 19 from smallest to largest. Which number should come last?
+{user_name} helps {uncle_name} arrange the numbers 12, 27, and 19 from smallest to largest. Which number should come last?
+{user_name} helps {aunt_name} arrange the numbers 12, 27, and 19 from smallest to largest. Which number should come last?
+{user_name} and {grandfather_name} count 46 toy beads. Which number name matches 46?
+{user_name} and {grandmother_name} count 46 toy beads. Which number name matches 46?
+{user_name} and {father_name} count 46 toy beads. Which number name matches 46?
+{user_name} and {mother_name} count 46 toy beads. Which number name matches 46?
+{user_name} and {sister_name} count 46 toy beads. Which number name matches 46?
+{user_name} and {uncle_name} count 46 toy beads. Which number name matches 46?
+{user_name} and {aunt_name} count 46 toy beads. Which number name matches 46?
+{user_name} helps {grandfather_name} show 38 using bundles of sticks. What does the digit 3 represent in 38?
+{user_name} helps {grandmother_name} show 38 using bundles of sticks. What does the digit 3 represent in 38?
+{user_name} helps {father_name} show 38 using bundles of sticks. What does the digit 3 represent in 38?
+{user_name} helps {mother_name} show 38 using bundles of sticks. What does the digit 3 represent in 38?
+{user_name} helps {sister_name} show 38 using bundles of sticks. What does the digit 3 represent in 38?
+{user_name} helps {uncle_name} show 38 using bundles of sticks. What does the digit 3 represent in 38?
+{user_name} helps {aunt_name} show 38 using bundles of sticks. What does the digit 3 represent in 38?
+{user_name} and {grandfather_name} sort number cards. Which of these numbers has two digits?
+{user_name} and {grandmother_name} sort number cards. Which of these numbers has two digits?
+{user_name} and {father_name} sort number cards. Which of these numbers has two digits?
+{user_name} and {mother_name} sort number cards. Which of these numbers has two digits?
+{user_name} and {sister_name} sort number cards. Which of these numbers has two digits?
+{user_name} and {uncle_name} sort number cards. Which of these numbers has two digits?
+{user_name} and {aunt_name} sort number cards. Which of these numbers has two digits?
+{user_name} helps {grandfather_name} arrange 3 groups of 10 pencils and 4 extra pencils. What number do the pencils show altogether?
+{user_name} helps {grandmother_name} arrange 3 groups of 10 pencils and 4 extra pencils. What number do the pencils show altogether?
+{user_name} helps {father_name} arrange 3 groups of 10 pencils and 4 extra pencils. What number do the pencils show altogether?
+{user_name} helps {mother_name} arrange 3 groups of 10 pencils and 4 extra pencils. What number do the pencils show altogether?
+{user_name} helps {brother_name} arrange 3 groups of 10 pencils and 4 extra pencils. What number do the pencils show altogether?
+{user_name} helps {uncle_name} arrange 3 groups of 10 pencils and 4 extra pencils. What number do the pencils show altogether?
+{user_name} helps {aunt_name} arrange 3 groups of 10 pencils and 4 extra pencils. What number do the pencils show altogether?
+{user_name} helps {grandfather_name} arrange 27 paper clips into 2 groups of 10 and 7 loose paper clips. How many ones are in 27?
+{user_name} helps {grandmother_name} arrange 27 paper clips into 2 groups of 10 and 7 loose paper clips. How many ones are in 27?
+{user_name} helps {father_name} arrange 27 paper clips into 2 groups of 10 and 7 loose paper clips. How many ones are in 27?
+{user_name} helps {mother_name} arrange 27 paper clips into 2 groups of 10 and 7 loose paper clips. How many ones are in 27?
+{user_name} helps {brother_name} arrange 27 paper clips into 2 groups of 10 and 7 loose paper clips. How many ones are in 27?
+{user_name} helps {uncle_name} arrange 27 paper clips into 2 groups of 10 and 7 loose paper clips. How many ones are in 27?
+{user_name} helps {aunt_name} arrange 27 paper clips into 2 groups of 10 and 7 loose paper clips. How many ones are in 27?
+{user_name} and {grandfather_name} arrange 4 groups of 10 toy robots and 2 extra robots. What number do the robots show altogether?
+{user_name} and {grandmother_name} arrange 4 groups of 10 toy robots and 2 extra robots. What number do the robots show altogether?
+{user_name} and {father_name} arrange 4 groups of 10 toy robots and 2 extra robots. What number do the robots show altogether?
+{user_name} and {mother_name} arrange 4 groups of 10 toy robots and 2 extra robots. What number do the robots show altogether?
+{user_name} and {brother_name} arrange 4 groups of 10 toy robots and 2 extra robots. What number do the robots show altogether?
+{user_name} and {uncle_name} arrange 4 groups of 10 toy robots and 2 extra robots. What number do the robots show altogether?
+{user_name} and {aunt_name} arrange 4 groups of 10 toy robots and 2 extra robots. What number do the robots show altogether?
+{user_name} and {grandfather_name} follow a number path while counting. Which number comes just before 40?
+{user_name} and {grandmother_name} follow a number path while counting. Which number comes just before 40?
+{user_name} and {father_name} follow a number path while counting. Which number comes just before 40?
+{user_name} and {mother_name} follow a number path while counting. Which number comes just before 40?
+{user_name} and {brother_name} follow a number path while counting. Which number comes just before 40?
+{user_name} and {uncle_name} follow a number path while counting. Which number comes just before 40?
+{user_name} and {aunt_name} follow a number path while counting. Which number comes just before 40?
+{user_name} helps {grandfather_name} complete this counting sequence: 30, 31, __, 33. Which number is missing?
+{user_name} helps {grandmother_name} complete this counting sequence: 30, 31, __, 33. Which number is missing?
+{user_name} helps {father_name} complete this counting sequence: 30, 31, __, 33. Which number is missing?
+{user_name} helps {mother_name} complete this counting sequence: 30, 31, __, 33. Which number is missing?
+{user_name} helps {brother_name} complete this counting sequence: 30, 31, __, 33. Which number is missing?
+{user_name} helps {uncle_name} complete this counting sequence: 30, 31, __, 33. Which number is missing?
+{user_name} helps {aunt_name} complete this counting sequence: 30, 31, __, 33. Which number is missing?
+{user_name} and {grandfather_name} compare 18 clothespins in one basket and 28 clothespins in another basket. Which basket has fewer clothespins?
+{user_name} and {grandmother_name} compare 18 clothespins in one basket and 28 clothespins in another basket. Which basket has fewer clothespins?
+{user_name} and {father_name} compare 18 clothespins in one basket and 28 clothespins in another basket. Which basket has fewer clothespins?
+{user_name} and {mother_name} compare 18 clothespins in one basket and 28 clothespins in another basket. Which basket has fewer clothespins?
+{user_name} and {brother_name} compare 18 clothespins in one basket and 28 clothespins in another basket. Which basket has fewer clothespins?
+{user_name} and {uncle_name} compare 18 clothespins in one basket and 28 clothespins in another basket. Which basket has fewer clothespins?
+{user_name} and {aunt_name} compare 18 clothespins in one basket and 28 clothespins in another basket. Which basket has fewer clothespins?
+{user_name} helps {grandfather_name} arrange the numbers 14, 26, and 37 from smallest to largest. Which number should come last?
+{user_name} helps {grandmother_name} arrange the numbers 14, 26, and 37 from smallest to largest. Which number should come last?
+{user_name} helps {father_name} arrange the numbers 14, 26, and 37 from smallest to largest. Which number should come last?
+{user_name} helps {mother_name} arrange the numbers 14, 26, and 37 from smallest to largest. Which number should come last?
+{user_name} helps {brother_name} arrange the numbers 14, 26, and 37 from smallest to largest. Which number should come last?
+{user_name} helps {uncle_name} arrange the numbers 14, 26, and 37 from smallest to largest. Which number should come last?
+{user_name} helps {aunt_name} arrange the numbers 14, 26, and 37 from smallest to largest. Which number should come last?
+{user_name} helps {grandfather_name} arrange 45 craft beads into 4 groups of 10 and 5 loose beads. What does the digit 4 represent in 45?
+{user_name} helps {grandmother_name} arrange 45 craft beads into 4 groups of 10 and 5 loose beads. What does the digit 4 represent in 45?
+{user_name} helps {father_name} arrange 45 craft beads into 4 groups of 10 and 5 loose beads. What does the digit 4 represent in 45?
+{user_name} helps {mother_name} arrange 45 craft beads into 4 groups of 10 and 5 loose beads. What does the digit 4 represent in 45?
+{user_name} helps {brother_name} arrange 45 craft beads into 4 groups of 10 and 5 loose beads. What does the digit 4 represent in 45?
+{user_name} helps {uncle_name} arrange 45 craft beads into 4 groups of 10 and 5 loose beads. What does the digit 4 represent in 45?
+{user_name} helps {aunt_name} arrange 45 craft beads into 4 groups of 10 and 5 loose beads. What does the digit 4 represent in 45?
+{user_name} and {grandfather_name} look at the number 32. Which number name matches 32?
+{user_name} and {grandmother_name} look at the number 32. Which number name matches 32?
+{user_name} and {father_name} look at the number 32. Which number name matches 32?
+{user_name} and {mother_name} look at the number 32. Which number name matches 32?
+{user_name} and {brother_name} look at the number 32. Which number name matches 32?
+{user_name} and {uncle_name} look at the number 32. Which number name matches 32?
+{user_name} and {aunt_name} look at the number 32. Which number name matches 32?
+{user_name} helps {grandfather_name} sort the numbers 9, 16, and 7. Which number has two digits?
+{user_name} helps {grandmother_name} sort the numbers 9, 16, and 7. Which number has two digits?
+{user_name} helps {father_name} sort the numbers 9, 16, and 7. Which number has two digits?
+{user_name} helps {mother_name} sort the numbers 9, 16, and 7. Which number has two digits?
+{user_name} helps {brother_name} sort the numbers 9, 16, and 7. Which number has two digits?
+{user_name} helps {uncle_name} sort the numbers 9, 16, and 7. Which number has two digits?
+{user_name} helps {aunt_name} sort the numbers 9, 16, and 7. Which number has two digits?
+{user_name} helps {grandfather_name} arrange 4 groups of 10 toy trucks and 3 extra trucks. What number do the trucks show altogether?
+{user_name} helps {grandmother_name} arrange 4 groups of 10 toy trucks and 3 extra trucks. What number do the trucks show altogether?
+{user_name} helps {father_name} arrange 4 groups of 10 toy trucks and 3 extra trucks. What number do the trucks show altogether?
+{user_name} helps {mother_name} arrange 4 groups of 10 toy trucks and 3 extra trucks. What number do the trucks show altogether?
+{user_name} helps {brother_name} arrange 4 groups of 10 toy trucks and 3 extra trucks. What number do the trucks show altogether?
+{user_name} helps {sister_name} arrange 4 groups of 10 toy trucks and 3 extra trucks. What number do the trucks show altogether?
+{user_name} helps {aunt_name} arrange 4 groups of 10 toy trucks and 3 extra trucks. What number do the trucks show altogether?
+{user_name} helps {grandfather_name} arrange 35 wooden beads into 3 groups of 10 and 5 loose beads. How many tens are in 35?
+{user_name} helps {grandmother_name} arrange 35 wooden beads into 3 groups of 10 and 5 loose beads. How many tens are in 35?
+{user_name} helps {father_name} arrange 35 wooden beads into 3 groups of 10 and 5 loose beads. How many tens are in 35?
+{user_name} helps {mother_name} arrange 35 wooden beads into 3 groups of 10 and 5 loose beads. How many tens are in 35?
+{user_name} helps {brother_name} arrange 35 wooden beads into 3 groups of 10 and 5 loose beads. How many tens are in 35?
+{user_name} helps {sister_name} arrange 35 wooden beads into 3 groups of 10 and 5 loose beads. How many tens are in 35?
+{user_name} helps {aunt_name} arrange 35 wooden beads into 3 groups of 10 and 5 loose beads. How many tens are in 35?
+{user_name} and {grandfather_name} arrange 2 tens and 9 ones using small seed packets. Which number do they show?
+{user_name} and {grandmother_name} arrange 2 tens and 9 ones using small seed packets. Which number do they show?
+{user_name} and {father_name} arrange 2 tens and 9 ones using small seed packets. Which number do they show?
+{user_name} and {mother_name} arrange 2 tens and 9 ones using small seed packets. Which number do they show?
+{user_name} and {brother_name} arrange 2 tens and 9 ones using small seed packets. Which number do they show?
+{user_name} and {sister_name} arrange 2 tens and 9 ones using small seed packets. Which number do they show?
+{user_name} and {aunt_name} arrange 2 tens and 9 ones using small seed packets. Which number do they show?
+{user_name} helps {grandfather_name} complete a counting sequence: 44, 45, __. Which number comes next?
+{user_name} helps {grandmother_name} complete a counting sequence: 44, 45, __. Which number comes next?
+{user_name} helps {father_name} complete a counting sequence: 44, 45, __. Which number comes next?
+{user_name} helps {mother_name} complete a counting sequence: 44, 45, __. Which number comes next?
+{user_name} helps {brother_name} complete a counting sequence: 44, 45, __. Which number comes next?
+{user_name} helps {sister_name} complete a counting sequence: 44, 45, __. Which number comes next?
+{user_name} helps {aunt_name} complete a counting sequence: 44, 45, __. Which number comes next?
+{user_name} and {grandfather_name} arrange three numbers in counting order: 21, __, 23. Which number belongs in the middle?
+{user_name} and {grandmother_name} arrange three numbers in counting order: 21, __, 23. Which number belongs in the middle?
+{user_name} and {father_name} arrange three numbers in counting order: 21, __, 23. Which number belongs in the middle?
+{user_name} and {mother_name} arrange three numbers in counting order: 21, __, 23. Which number belongs in the middle?
+{user_name} and {brother_name} arrange three numbers in counting order: 21, __, 23. Which number belongs in the middle?
+{user_name} and {sister_name} arrange three numbers in counting order: 21, __, 23. Which number belongs in the middle?
+{user_name} and {aunt_name} arrange three numbers in counting order: 21, __, 23. Which number belongs in the middle?
+{user_name} and {grandfather_name} compare 39 seashells in one collection and 29 seashells in another. Which collection has more seashells?
+{user_name} and {grandmother_name} compare 39 seashells in one collection and 29 seashells in another. Which collection has more seashells?
+{user_name} and {father_name} compare 39 seashells in one collection and 29 seashells in another. Which collection has more seashells?
+{user_name} and {mother_name} compare 39 seashells in one collection and 29 seashells in another. Which collection has more seashells?
+{user_name} and {brother_name} compare 39 seashells in one collection and 29 seashells in another. Which collection has more seashells?
+{user_name} and {sister_name} compare 39 seashells in one collection and 29 seashells in another. Which collection has more seashells?
+{user_name} and {aunt_name} compare 39 seashells in one collection and 29 seashells in another. Which collection has more seashells?
+{user_name} helps {grandfather_name} arrange the numbers 18, 42, and 27 from smallest to largest. Which number should come first?
+{user_name} helps {grandmother_name} arrange the numbers 18, 42, and 27 from smallest to largest. Which number should come first?
+{user_name} helps {father_name} arrange the numbers 18, 42, and 27 from smallest to largest. Which number should come first?
+{user_name} helps {mother_name} arrange the numbers 18, 42, and 27 from smallest to largest. Which number should come first?
+{user_name} helps {brother_name} arrange the numbers 18, 42, and 27 from smallest to largest. Which number should come first?
+{user_name} helps {sister_name} arrange the numbers 18, 42, and 27 from smallest to largest. Which number should come first?
+{user_name} helps {aunt_name} arrange the numbers 18, 42, and 27 from smallest to largest. Which number should come first?
+{user_name} helps {grandfather_name} represent 47 using bundles of sticks. What does the digit 7 represent in 47?
+{user_name} helps {grandmother_name} represent 47 using bundles of sticks. What does the digit 7 represent in 47?
+{user_name} helps {father_name} represent 47 using bundles of sticks. What does the digit 7 represent in 47?
+{user_name} helps {mother_name} represent 47 using bundles of sticks. What does the digit 7 represent in 47?
+{user_name} helps {brother_name} represent 47 using bundles of sticks. What does the digit 7 represent in 47?
+{user_name} helps {sister_name} represent 47 using bundles of sticks. What does the digit 7 represent in 47?
+{user_name} helps {aunt_name} represent 47 using bundles of sticks. What does the digit 7 represent in 47?
+{user_name} and {grandfather_name} identify the number 24. Which number name matches 24?
+{user_name} and {grandmother_name} identify the number 24. Which number name matches 24?
+{user_name} and {father_name} identify the number 24. Which number name matches 24?
+{user_name} and {mother_name} identify the number 24. Which number name matches 24?
+{user_name} and {brother_name} identify the number 24. Which number name matches 24?
+{user_name} and {sister_name} identify the number 24. Which number name matches 24?
+{user_name} and {aunt_name} identify the number 24. Which number name matches 24?
+{user_name} helps {grandfather_name} compare 16 and 19. Which number is smaller?
+{user_name} helps {grandmother_name} compare 16 and 19. Which number is smaller?
+{user_name} helps {father_name} compare 16 and 19. Which number is smaller?
+{user_name} helps {mother_name} compare 16 and 19. Which number is smaller?
+{user_name} helps {brother_name} compare 16 and 19. Which number is smaller?
+{user_name} helps {sister_name} compare 16 and 19. Which number is smaller?
+{user_name} helps {aunt_name} compare 16 and 19. Which number is smaller?
+{user_name} helps {grandfather_name} arrange 2 groups of 10 greeting cards and 6 extra cards. What number do the cards show altogether?
+{user_name} helps {grandmother_name} arrange 2 groups of 10 greeting cards and 6 extra cards. What number do the cards show altogether?
+{user_name} helps {father_name} arrange 2 groups of 10 greeting cards and 6 extra cards. What number do the cards show altogether?
+{user_name} helps {mother_name} arrange 2 groups of 10 greeting cards and 6 extra cards. What number do the cards show altogether?
+{user_name} helps {brother_name} arrange 2 groups of 10 greeting cards and 6 extra cards. What number do the cards show altogether?
+{user_name} helps {sister_name} arrange 2 groups of 10 greeting cards and 6 extra cards. What number do the cards show altogether?
+{user_name} helps {uncle_name} arrange 2 groups of 10 greeting cards and 6 extra cards. What number do the cards show altogether?
+{user_name} helps {grandfather_name} arrange 39 ribbons into 3 groups of 10 and 9 loose ribbons. How many tens are in 39?
+{user_name} helps {grandmother_name} arrange 39 ribbons into 3 groups of 10 and 9 loose ribbons. How many tens are in 39?
+{user_name} helps {father_name} arrange 39 ribbons into 3 groups of 10 and 9 loose ribbons. How many tens are in 39?
+{user_name} helps {mother_name} arrange 39 ribbons into 3 groups of 10 and 9 loose ribbons. How many tens are in 39?
+{user_name} helps {brother_name} arrange 39 ribbons into 3 groups of 10 and 9 loose ribbons. How many tens are in 39?
+{user_name} helps {sister_name} arrange 39 ribbons into 3 groups of 10 and 9 loose ribbons. How many tens are in 39?
+{user_name} helps {uncle_name} arrange 39 ribbons into 3 groups of 10 and 9 loose ribbons. How many tens are in 39?
+{user_name} and {grandfather_name} arrange 4 groups of 10 feathers and 1 extra feather. What number do the feathers show altogether?
+{user_name} and {grandmother_name} arrange 4 groups of 10 feathers and 1 extra feather. What number do the feathers show altogether?
+{user_name} and {father_name} arrange 4 groups of 10 feathers and 1 extra feather. What number do the feathers show altogether?
+{user_name} and {mother_name} arrange 4 groups of 10 feathers and 1 extra feather. What number do the feathers show altogether?
+{user_name} and {brother_name} arrange 4 groups of 10 feathers and 1 extra feather. What number do the feathers show altogether?
+{user_name} and {sister_name} arrange 4 groups of 10 feathers and 1 extra feather. What number do the feathers show altogether?
+{user_name} and {uncle_name} arrange 4 groups of 10 feathers and 1 extra feather. What number do the feathers show altogether?
+{user_name} helps {grandfather_name} arrange 27 paper hearts into 2 groups of 10 and 7 separate hearts. How many ones are in 27?
+{user_name} helps {grandmother_name} arrange 27 paper hearts into 2 groups of 10 and 7 separate hearts. How many ones are in 27?
+{user_name} helps {father_name} arrange 27 paper hearts into 2 groups of 10 and 7 separate hearts. How many ones are in 27?
+{user_name} helps {mother_name} arrange 27 paper hearts into 2 groups of 10 and 7 separate hearts. How many ones are in 27?
+{user_name} helps {brother_name} arrange 27 paper hearts into 2 groups of 10 and 7 separate hearts. How many ones are in 27?
+{user_name} helps {sister_name} arrange 27 paper hearts into 2 groups of 10 and 7 separate hearts. How many ones are in 27?
+{user_name} helps {uncle_name} arrange 27 paper hearts into 2 groups of 10 and 7 separate hearts. How many ones are in 27?
+{user_name} and {grandfather_name} walk along a garden path while counting. Which number comes just after 34?
+{user_name} and {grandmother_name} walk along a garden path while counting. Which number comes just after 34?
+{user_name} and {father_name} walk along a garden path while counting. Which number comes just after 34?
+{user_name} and {mother_name} walk along a garden path while counting. Which number comes just after 34?
+{user_name} and {brother_name} walk along a garden path while counting. Which number comes just after 34?
+{user_name} and {sister_name} walk along a garden path while counting. Which number comes just after 34?
+{user_name} and {uncle_name} walk along a garden path while counting. Which number comes just after 34?
+{user_name} helps {grandfather_name} complete this counting sequence: 16, 17, __, 19. Which number is missing?
+{user_name} helps {grandmother_name} complete this counting sequence: 16, 17, __, 19. Which number is missing?
+{user_name} helps {father_name} complete this counting sequence: 16, 17, __, 19. Which number is missing?
+{user_name} helps {mother_name} complete this counting sequence: 16, 17, __, 19. Which number is missing?
+{user_name} helps {brother_name} complete this counting sequence: 16, 17, __, 19. Which number is missing?
+{user_name} helps {sister_name} complete this counting sequence: 16, 17, __, 19. Which number is missing?
+{user_name} helps {uncle_name} complete this counting sequence: 16, 17, __, 19. Which number is missing?
+{user_name} and {grandfather_name} compare 24 stamps in one collection and 42 stamps in another. Which collection has fewer stamps?
+{user_name} and {grandmother_name} compare 24 stamps in one collection and 42 stamps in another. Which collection has fewer stamps?
+{user_name} and {father_name} compare 24 stamps in one collection and 42 stamps in another. Which collection has fewer stamps?
+{user_name} and {mother_name} compare 24 stamps in one collection and 42 stamps in another. Which collection has fewer stamps?
+{user_name} and {brother_name} compare 24 stamps in one collection and 42 stamps in another. Which collection has fewer stamps?
+{user_name} and {sister_name} compare 24 stamps in one collection and 42 stamps in another. Which collection has fewer stamps?
+{user_name} and {uncle_name} compare 24 stamps in one collection and 42 stamps in another. Which collection has fewer stamps?
+{user_name} helps {grandfather_name} arrange the numbers 13, 28, and 35 from smallest to largest. Which number should come second?
+{user_name} helps {grandmother_name} arrange the numbers 13, 28, and 35 from smallest to largest. Which number should come second?
+{user_name} helps {father_name} arrange the numbers 13, 28, and 35 from smallest to largest. Which number should come second?
+{user_name} helps {mother_name} arrange the numbers 13, 28, and 35 from smallest to largest. Which number should come second?
+{user_name} helps {brother_name} arrange the numbers 13, 28, and 35 from smallest to largest. Which number should come second?
+{user_name} helps {sister_name} arrange the numbers 13, 28, and 35 from smallest to largest. Which number should come second?
+{user_name} helps {uncle_name} arrange the numbers 13, 28, and 35 from smallest to largest. Which number should come second?
+{user_name} helps {grandfather_name} count 44 paper butterflies. Which number name matches 44?
+{user_name} helps {grandmother_name} count 44 paper butterflies. Which number name matches 44?
+{user_name} helps {father_name} count 44 paper butterflies. Which number name matches 44?
+{user_name} helps {mother_name} count 44 paper butterflies. Which number name matches 44?
+{user_name} helps {brother_name} count 44 paper butterflies. Which number name matches 44?
+{user_name} helps {sister_name} count 44 paper butterflies. Which number name matches 44?
+{user_name} helps {uncle_name} count 44 paper butterflies. Which number name matches 44?
+{user_name} and {grandfather_name} arrange 3 groups of 10 pinwheels and 8 extra pinwheels. What number do the pinwheels show altogether?
+{user_name} and {grandmother_name} arrange 3 groups of 10 pinwheels and 8 extra pinwheels. What number do the pinwheels show altogether?
+{user_name} and {father_name} arrange 3 groups of 10 pinwheels and 8 extra pinwheels. What number do the pinwheels show altogether?
+{user_name} and {mother_name} arrange 3 groups of 10 pinwheels and 8 extra pinwheels. What number do the pinwheels show altogether?
+{user_name} and {brother_name} arrange 3 groups of 10 pinwheels and 8 extra pinwheels. What number do the pinwheels show altogether?
+{user_name} and {sister_name} arrange 3 groups of 10 pinwheels and 8 extra pinwheels. What number do the pinwheels show altogether?
+{user_name} and {uncle_name} arrange 3 groups of 10 pinwheels and 8 extra pinwheels. What number do the pinwheels show altogether?

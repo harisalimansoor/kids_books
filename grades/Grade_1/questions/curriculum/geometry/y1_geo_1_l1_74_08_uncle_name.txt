@@ -1,0 +1,9 @@
+title: Hanging a Mirror with Uncle
+question_text:
+{user_name} is helping {uncle_name} hang a mirror in the hallway. The mirror has 2 long sides and 2 short sides. Which 2D shape matches the mirror's outline?
+options:
+A) Circle
+B) Rectangle
+C) Triangle
+image_prompt:
+Show {user_name} helping {uncle_name} hang exactly 1 plain rectangular mirror on a wall. Make its 2 long sides and 2 short sides clearly visible. Keep the mirror free of reflections containing extra people or objects. No extra mirrors, objects, props, text, letters, or numbers.

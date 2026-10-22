@@ -1,0 +1,9 @@
+title: Building Toy Robots with Sister
+question_text:
+{user_name} assembles 3 toy robots, while {sister_name} builds 2 more. How many toy robots have they built altogether?
+options:
+A) 1
+B) 5
+C) 13
+image_prompt:
+Show {user_name} assembling toy robots at a workbench while {sister_name} connects robot parts nearby. Include EXACTLY 3 completed toy robots in the child's area and 2 in the uncle's area, with no extra robots.

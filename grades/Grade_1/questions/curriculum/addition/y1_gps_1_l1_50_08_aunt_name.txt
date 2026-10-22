@@ -1,0 +1,9 @@
+title: Arranging Toy Trains with Aunt
+question_text:
+{user_name} places 2 wooden toy trains on a track, while {aunt_name} adds 4 more. How many toy trains have they arranged altogether?
+options:
+A) 14
+B) 6
+C) 2
+image_prompt:
+Show {user_name} positioning wooden toy trains on a playroom track while {aunt_name} connects another section of track. Include EXACTLY 2 complete toy trains in the child's area and 4 in the uncle's, with no extra trains.

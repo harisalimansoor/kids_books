@@ -1,0 +1,9 @@
+title: Packing Paper Lanterns with Grandmother
+question_text:
+{user_name} and {grandmother_name} pack 8 paper lanterns equally into 2 storage crates. How many lanterns will be in each crate?
+options:
+A) 3
+B) 4
+C) 2
+image_prompt:
+Show {user_name} and {grandmother_name} packing exactly 8 paper lanterns equally into 2 open storage crates, with exactly 4 lanterns in each crate. No extra lanterns, text, letters, or numbers.

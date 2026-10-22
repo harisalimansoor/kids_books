@@ -1,0 +1,9 @@
+title: Watching Fish with Grandmother
+question_text:
+{user_name} visits an aquarium with {grandmother_name}. They see 2 fish in each of 3 small fish tanks. How many fish do they see altogether?
+options:
+A) 4
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {grandmother_name} looking at exactly 3 separate small fish tanks. Each tank must contain exactly 2 clearly visible fish. Show exactly 6 fish in total. No extra fish or tanks, and no text, letters, or numbers.

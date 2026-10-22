@@ -1,0 +1,9 @@
+title: Driving a Toy Car Through a Tunnel
+question_text:
+{user_name} is helping {sister_name} play with a toy car. They push the car into a toy tunnel until the whole car is inside. Where is the car?
+options:
+A) Outside the tunnel
+B) Behind the tunnel
+C) Inside the tunnel
+image_prompt:
+Show {user_name} helping {sister_name} play with exactly 1 toy car and exactly 1 toy tunnel. Place the whole car completely inside the tunnel, with no part of the car sticking out. No extra cars, tunnels, objects, props, text, letters, or numbers.

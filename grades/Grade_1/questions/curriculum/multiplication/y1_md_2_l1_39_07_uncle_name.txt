@@ -1,0 +1,9 @@
+title: Wrapping Gifts with Uncle
+question_text:
+{user_name} helps {uncle_name} wrap birthday gifts. They use 2 ribbon bows on each of 3 gift boxes. How many ribbon bows do they use altogether?
+options:
+A) 9
+B) 4
+C) 6
+image_prompt:
+Show {user_name} and {uncle_name} decorating exactly 3 gift boxes. Each box must have exactly 2 separate, clearly visible ribbon bows. Show exactly 6 bows in total. No extra boxes or bows, and no text, letters, or numbers.

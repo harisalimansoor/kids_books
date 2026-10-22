@@ -1,0 +1,9 @@
+title: Using Toy Cameras with Uncle
+question_text:
+{user_name} and {uncle_name} distribute 6 toy cameras equally among 3 photography stations. How many toy cameras will be at each station?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {uncle_name} distributing exactly 6 toy cameras equally among 3 separate photography stations, with exactly 2 cameras at each station. No extra cameras, text, letters, or numbers.

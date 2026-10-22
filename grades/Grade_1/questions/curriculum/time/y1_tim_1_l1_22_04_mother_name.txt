@@ -1,0 +1,9 @@
+title: Finding a Winter Month with Mother
+question_text:
+{user_name} is helping {mother_name} arrange the months of the year. They find December on the calendar and look for the month immediately before it. Which month comes before December?
+options:
+A) November
+B) January
+C) February
+image_prompt:
+Show {user_name} helping {mother_name} arrange exactly 3 blank calendar pages in sequence. The pages must visually represent consecutive months without any writing. No text, letters, numbers, extra pages or unnecessary objects.

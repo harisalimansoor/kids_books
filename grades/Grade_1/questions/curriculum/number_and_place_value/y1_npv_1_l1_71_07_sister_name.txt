@@ -1,0 +1,9 @@
+title: Arranging Greeting Cards with Sister
+question_text:
+{user_name} helps {sister_name} arrange 2 groups of 10 greeting cards and 6 extra cards. What number do the cards show altogether?
+options:
+A) 26
+B) 62
+C) 16
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 26 blank greeting cards: 2 separate groups of 10 cards each and 6 extra cards. Keep every card visible and countable. No extra cards, and no text, letters, or numbers.

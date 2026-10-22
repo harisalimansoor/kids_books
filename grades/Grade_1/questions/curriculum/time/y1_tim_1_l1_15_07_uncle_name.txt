@@ -1,0 +1,9 @@
+title: Reading an O'Clock with Uncle
+question_text:
+{user_name} is helping {uncle_name} read an analogue clock. They see the minute hand pointing to 12 and the hour hand pointing to 4. What time does the clock show?
+options:
+A) 4 o'clock
+B) 12 o'clock
+C) 7 o'clock
+image_prompt:
+Show {user_name} helping {uncle_name} read exactly one analogue clock. The minute hand must point straight up, and the shorter hour hand must point directly to the 4 position. No numerals, text, letters, extra hands or extra clocks.

@@ -1,0 +1,9 @@
+title: Sending a Birthday Card with Aunt
+question_text:
+{user_name} is helping {aunt_name} send a birthday card. They put the card inside an envelope before placing a stamp on it. What do they do first?
+options:
+A) Place a stamp on the envelope
+B) Put the card inside the envelope
+C) Post the envelope
+image_prompt:
+Show {user_name} helping {aunt_name} prepare one birthday card for posting. Show the card being placed inside one envelope before a stamp is added. No text, letters, numbers, duplicate cards or extra envelopes.

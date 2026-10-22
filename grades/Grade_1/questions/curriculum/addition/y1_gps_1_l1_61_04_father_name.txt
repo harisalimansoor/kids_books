@@ -1,0 +1,9 @@
+title: Arranging Sunflowers with Father
+question_text:
+{user_name} arranges 3 yellow sunflowers in a vase, while {father_name} arranges 2 in another vase. How many sunflowers have they arranged altogether?
+options:
+A) 1
+B) 5
+C) 13
+image_prompt:
+Show {user_name} arranging flowers at a table while {father_name} trims stems beside another vase. Include EXACTLY 3 yellow sunflowers in the child's vase and 2 in the aunt's vase. Keep all 5 flower heads clearly visible, with no extra sunflowers anywhere.

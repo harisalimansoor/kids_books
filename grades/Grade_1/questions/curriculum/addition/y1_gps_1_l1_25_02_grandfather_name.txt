@@ -1,0 +1,9 @@
+title: Painting Birdhouses with Grandfather
+question_text:
+{user_name} paints 3 wooden birdhouses, while {grandfather_name} decorates 3 more. How many birdhouses have they painted altogether?
+options:
+A) 0
+B) 13
+C) 6
+image_prompt:
+Show {user_name} painting a wooden birdhouse with a brush while {grandfather_name} adds colorful details to another. Include EXACTLY 3 birdhouses in the child's group and 3 in Grandfather's group, with no extra birdhouses.

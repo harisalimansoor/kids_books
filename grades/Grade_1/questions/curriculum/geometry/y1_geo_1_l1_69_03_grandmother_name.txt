@@ -1,0 +1,9 @@
+title: Launching a Toy Rocket with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} launch a toy rocket along a straight vertical track. The rocket moves from the bottom towards the top. Which direction is the rocket moving?
+options:
+A) Down
+B) Left
+C) Up
+image_prompt:
+Show {user_name} helping {grandmother_name} launch exactly 1 toy rocket along 1 straight vertical track. Show the rocket moving upwards from the bottom towards the top, with 1 clear upward-pointing arrow beside it. No extra rockets, tracks, objects, props, text, letters, or numbers.

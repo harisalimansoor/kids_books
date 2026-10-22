@@ -1,0 +1,9 @@
+title: Comparing Party Hats with Grandmother
+question_text:
+{user_name} and {grandmother_name} are comparing 2 party hats. One hat is 16 cm tall, and the other is 12 cm tall. Which hat is shorter?
+options:
+A) The hat that is 16 cm tall
+B) Both hats are the same height
+C) The hat that is 12 cm tall
+image_prompt:
+Show {user_name} and {grandmother_name} comparing exactly 2 party hats standing upright side by side. One hat must be visibly shorter than the other. No extra hats, props, text, letters, or numbers.

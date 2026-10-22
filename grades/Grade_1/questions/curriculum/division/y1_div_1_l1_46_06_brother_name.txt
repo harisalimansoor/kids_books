@@ -1,0 +1,9 @@
+title: Sorting Yo-Yos with Brother
+question_text:
+{user_name} and {brother_name} put 4 yo-yos equally into 2 toy drawers. How many yo-yos will be in each drawer?
+options:
+A) 2
+B) 1
+C) 3
+image_prompt:
+Show {user_name} and {brother_name} placing exactly 4 yo-yos equally into 2 open toy drawers, with exactly 2 yo-yos in each drawer. No extra yo-yos, text, letters, or numbers.

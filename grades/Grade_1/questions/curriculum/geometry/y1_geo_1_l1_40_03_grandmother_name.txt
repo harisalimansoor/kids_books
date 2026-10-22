@@ -1,0 +1,9 @@
+title: Turning an Arrow with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} practise turns using a paper arrow. The arrow starts by pointing up. {grandmother_name} turns it three-quarter turn clockwise. Which direction does the arrow face now?
+options:
+A) Right
+B) Left
+C) Down
+image_prompt:
+Show {user_name} helping {grandmother_name} examine exactly 2 simple arrow diagrams side by side. In the first diagram, the arrow points straight up. In the second diagram, the arrow points straight left, showing the result of a three-quarter turn clockwise from the starting direction. Make both directions clear and accurate. No extra arrows, diagrams, objects, props, text, letters, or numbers.

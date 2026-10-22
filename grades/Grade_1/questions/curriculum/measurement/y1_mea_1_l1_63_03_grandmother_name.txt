@@ -1,0 +1,9 @@
+title: Weighing Potato Sacks with Grandmother
+question_text:
+{user_name} and {grandmother_name} are comparing 2 sacks of potatoes. One sack weighs 2 kilograms, and the other weighs 4 kilograms. Which sack is heavier?
+options:
+A) The sack that weighs 4 kilograms
+B) The sack that weighs 2 kilograms
+C) Both sacks weigh the same
+image_prompt:
+Show {user_name} and {grandmother_name} comparing exactly 2 sacks of potatoes on a suitable balance scale. The side with the heavier sack must be lower. No extra sacks, scales, props, text, letters, or numbers.

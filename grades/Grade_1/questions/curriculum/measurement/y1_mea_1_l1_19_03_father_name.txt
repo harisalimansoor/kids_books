@@ -1,0 +1,9 @@
+title: Measuring a Tablecloth with Father
+question_text:
+{user_name} and {father_name} want to measure the length of a tablecloth. Which tool should they use?
+options:
+A) A weighing scale
+B) A measuring jug
+C) A measuring tape
+image_prompt:
+Show {user_name} and {father_name} measuring exactly 1 tablecloth with exactly 1 measuring tape laid along its length. No extra tablecloths, measuring tools, props, text, letters, or numbers.

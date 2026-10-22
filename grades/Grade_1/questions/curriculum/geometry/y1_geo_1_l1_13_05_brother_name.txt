@@ -1,0 +1,9 @@
+title: Sewing a Quilt with Brother
+question_text:
+{user_name} is helping {brother_name} sew a quilt. They prepare 1 fabric patch with 4 equal straight sides and 4 corners. Which 2D shape is the patch?
+options:
+A) Rectangle
+B) Circle
+C) Square
+image_prompt:
+Show {user_name} helping {brother_name} sew exactly 1 clearly visible square fabric patch onto a plain quilt. Make all 4 sides equal and all 4 corners clear. Keep the rest of the quilt plain, without additional patches or patterns. No extra objects, props, text, letters, or numbers.

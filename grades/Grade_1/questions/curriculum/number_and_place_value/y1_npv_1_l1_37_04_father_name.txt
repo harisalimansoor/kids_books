@@ -1,0 +1,9 @@
+title: Ordering Number Cards with Father
+question_text:
+{user_name} helps {father_name} arrange 14, 39, and 22 from smallest to largest. Which number should come last?
+options:
+A) 14
+B) 22
+C) 39
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 3 blank cards in a row. No printed numbers, letters, extra cards, or other text.

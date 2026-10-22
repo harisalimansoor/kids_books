@@ -1,0 +1,9 @@
+title: Colouring a Circle with Aunt
+question_text:
+{user_name} is helping {aunt_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+options:
+A) One half
+B) One whole
+C) One quarter
+image_prompt:
+Show {user_name} helping {aunt_name} colour exactly one of 2 equal-sized parts of a single circle blue. Leave the other part uncoloured. No extra shapes, objects, props, people, text, letters or numbers.

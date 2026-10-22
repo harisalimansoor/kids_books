@@ -1,0 +1,9 @@
+title: Sharing Apples with Aunt
+question_text:
+{user_name} is helping {aunt_name} share apples between two baskets. They divide 6 apples equally between 2 baskets. What fraction of all the apples is in each basket?
+options:
+A) One quarter
+B) One whole
+C) One half
+image_prompt:
+Show {user_name} helping {aunt_name} share exactly 6 apples equally between exactly 2 baskets, with 3 apples in each basket. No extra apples, baskets, objects, props, people, text, letters or numbers.

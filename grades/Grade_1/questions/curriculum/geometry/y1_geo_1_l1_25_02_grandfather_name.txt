@@ -1,0 +1,9 @@
+title: Packing Lunch with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} pack a lunchbox. The lunchbox has rectangular faces and is longer than it is wide. Which 3D shape does the lunchbox match?
+options:
+A) Cuboid
+B) Sphere
+C) Pyramid
+image_prompt:
+Show {user_name} helping {grandfather_name} examine exactly 1 closed, plain lunchbox shaped like a cuboid. Make its flat rectangular faces and longer-than-wide shape clearly visible. No extra lunchboxes, food items, objects, props, labels, text, letters, or numbers.

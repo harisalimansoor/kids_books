@@ -1,0 +1,9 @@
+title: Playing Mini Golf with Uncle
+question_text:
+{user_name} and {uncle_name} prepare a mini-golf game. They place 2 golf balls at each of 3 starting spots. How many golf balls do they place altogether?
+options:
+A) 8
+B) 5
+C) 6
+image_prompt:
+Show {user_name} and {uncle_name} preparing exactly 3 clearly separated mini-golf starting spots. Place exactly 2 golf balls at each spot. Show exactly 6 golf balls in total. No extra golf balls or starting spots, and no text, letters, or numbers.

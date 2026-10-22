@@ -1,0 +1,9 @@
+title: Knitting Wool Balls with Mother
+question_text:
+{mother_name} has 6 balls of wool. She gives 2 balls to {user_name}. How many balls of wool does Mother have left?
+options:
+A) 3
+B) 4
+C) 5
+image_prompt:
+Show {mother_name} knitting beside {user_name}. Mother gives 2 wool balls to the child. Show exactly 4 wool balls with Mother and 2 with the child. No extra wool balls, text, letters, or numbers.

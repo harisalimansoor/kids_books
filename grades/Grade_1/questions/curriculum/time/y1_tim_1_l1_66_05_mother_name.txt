@@ -1,0 +1,9 @@
+title: Reading Half Past Eight with Mother
+question_text:
+{user_name} is helping {mother_name} check the time before their baking activity. They see the minute hand pointing to 6 and the hour hand halfway between 8 and 9. What time does the clock show?
+options:
+A) Half past 9
+B) 8 o'clock
+C) Half past 8
+image_prompt:
+Show {user_name} helping {mother_name} read exactly one analogue clock. The minute hand must point straight down to the 6 position, and the shorter hour hand must sit halfway between 8 and 9. No numerals, text, letters, extra hands or extra clocks.

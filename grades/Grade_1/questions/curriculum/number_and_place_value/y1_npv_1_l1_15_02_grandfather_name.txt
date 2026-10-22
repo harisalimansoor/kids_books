@@ -1,0 +1,9 @@
+title: Counting Apples with Grandfather
+question_text:
+{user_name} and {grandfather_name} arrange 17 apples in a basket. Which number comes just before 17?
+options:
+A) 18
+B) 15
+C) 16
+image_prompt:
+Show {user_name} and {grandfather_name} arranging exactly 17 apples in 1 basket. Keep all apples visible and countable. No extra apples or baskets, and no text, letters, or numbers.

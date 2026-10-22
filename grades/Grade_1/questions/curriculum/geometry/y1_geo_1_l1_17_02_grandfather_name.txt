@@ -1,0 +1,9 @@
+title: Making Soap with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} examine a rectangular bar of soap. It has rectangular faces and is longer than it is wide. Which 3D shape matches the bar of soap?
+options:
+A) Cuboid
+B) Sphere
+C) Cube
+image_prompt:
+Show {user_name} helping {grandfather_name} examine exactly 1 plain rectangular bar of soap shaped like a cuboid. Make its rectangular faces and longer-than-wide shape clearly visible. No wrapping, labels, extra soap bars, objects, props, text, letters, or numbers.

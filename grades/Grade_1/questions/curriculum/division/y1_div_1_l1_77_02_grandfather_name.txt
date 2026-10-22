@@ -1,0 +1,9 @@
+title: Arranging Ice Cream Cones with Grandfather
+question_text:
+{user_name} and {grandfather_name} arrange 6 ice cream cones equally in 3 serving holders. How many ice cream cones will be in each holder?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {grandfather_name} placing exactly 6 ice cream cones equally into 3 separate serving holders, with exactly 2 cones in each holder. No extra cones, text, letters, or numbers.

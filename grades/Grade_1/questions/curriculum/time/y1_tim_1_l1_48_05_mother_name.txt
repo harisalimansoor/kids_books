@@ -1,0 +1,9 @@
+title: Planning Activities with Mother
+question_text:
+{user_name} is helping {mother_name} plan their afternoon. They start swimming at 3 o'clock and visit their grandparents at 5 o'clock. Which activity happens earlier?
+options:
+A) Visiting their grandparents
+B) Starting swimming
+C) Both happen at the same time
+image_prompt:
+Show {user_name} helping {mother_name} compare two activities in order: swimming first and visiting their grandparents later. Show one swimming scene and one family-visit scene. No text, letters, numbers or extra scenes.

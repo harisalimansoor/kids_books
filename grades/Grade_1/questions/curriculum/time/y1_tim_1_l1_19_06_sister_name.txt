@@ -1,0 +1,9 @@
+title: Planning an Afternoon Walk with Sister
+question_text:
+{user_name} is helping {sister_name} plan their daily routine. They eat lunch first and go for a walk before dinner. At what time of day do they go for the walk?
+options:
+A) In the afternoon
+B) In the morning
+C) At night
+image_prompt:
+Show {user_name} helping {sister_name} go for a walk outdoors in the afternoon, with the sun still visible in the sky. Include exactly two people and a simple walking path. No text, letters, numbers or unnecessary objects.

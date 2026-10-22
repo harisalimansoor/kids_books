@@ -1,0 +1,9 @@
+title: Sharing Toy Blocks with Aunt
+question_text:
+{user_name} is helping {aunt_name} build a tower with toy blocks. They share 8 blocks equally between 2 building spaces. What fraction of all the blocks is in one space?
+options:
+A) One whole
+B) One quarter
+C) One half
+image_prompt:
+Show {user_name} helping {aunt_name} divide exactly 8 toy blocks equally between 2 separate building spaces, with exactly 4 blocks in each space. No extra blocks, spaces, props, people, text, letters or numbers.

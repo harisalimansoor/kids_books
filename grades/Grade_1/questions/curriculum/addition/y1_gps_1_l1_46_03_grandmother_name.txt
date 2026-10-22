@@ -1,0 +1,9 @@
+title: Making Party Hats with Grandmother
+question_text:
+{user_name} decorates 5 cone-shaped party hats, while {grandmother_name} finishes decorating 2 more. How many party hats have they decorated altogether?
+options:
+A) 3
+B) 7
+C) 15
+image_prompt:
+Show {user_name} adding colorful decorations to party hats while {grandmother_name} attaches pom-poms to his finished hats. Include EXACTLY 5 hats in the child's area and 2 in the uncle's area, with no extra hats.

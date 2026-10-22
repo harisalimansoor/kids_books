@@ -1,0 +1,9 @@
+title: Packing Up After School with Sister
+question_text:
+{user_name} is helping {sister_name} organise their daily routine. They finish their school lessons and pack their school bag in the afternoon. When do they pack the school bag?
+options:
+A) At night
+B) In the morning
+C) In the afternoon
+image_prompt:
+Show {user_name} helping {sister_name} pack one school bag after school in the afternoon. Use daylight and a clear home setting. Include exactly two people and one school bag. No text, letters, numbers or extra bags.

@@ -1,0 +1,9 @@
+title: Decorating a Picture Frame with Father
+question_text:
+{user_name} has 9 decorative buttons. {father_name} glues 4 buttons onto a picture frame. How many buttons remain unused?
+options:
+A) 5
+B) 6
+C) 4
+image_prompt:
+Show {user_name} decorating a picture frame with {father_name}. Father glues 4 buttons from a group of 9 onto the frame. Show exactly 5 loose buttons and 4 attached to the frame. No extra buttons, text, letters, or numbers.

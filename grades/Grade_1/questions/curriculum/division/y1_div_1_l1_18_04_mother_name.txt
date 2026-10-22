@@ -1,0 +1,9 @@
+title: Arranging Storybooks with Mother
+question_text:
+{user_name} and {mother_name} arrange 4 storybooks equally on 2 small reading shelves. How many storybooks will be on each shelf?
+options:
+A) 3
+B) 1
+C) 2
+image_prompt:
+Show {user_name} and {mother_name} arranging exactly 4 closed storybooks equally on 2 separate small shelves, with exactly 2 books on each shelf. No extra books, props, visible text, letters, or numbers.

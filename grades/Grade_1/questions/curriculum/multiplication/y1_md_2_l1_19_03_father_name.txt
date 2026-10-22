@@ -1,0 +1,9 @@
+title: Decorating Mini Trees with Father
+question_text:
+{user_name} helps {father_name} decorate mini trees. They hang 3 ornaments on each of 2 trees. How many ornaments do they hang altogether?
+options:
+A) 5
+B) 6
+C) 9
+image_prompt:
+Show {user_name} and {father_name} decorating exactly 2 small decorative trees. Each tree must have exactly 3 clearly visible ornaments. Show exactly 6 ornaments in total. No extra trees or ornaments, and no text, letters, or numbers.

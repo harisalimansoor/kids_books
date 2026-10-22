@@ -1,0 +1,9 @@
+title: Setting Up Traffic Practice with Sister
+question_text:
+{user_name} and {sister_name} divide 9 small traffic cones equally among 3 practice lanes. How many cones will be in each lane?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {sister_name} placing exactly 9 small traffic cones in 3 separate practice lanes, with exactly 3 cones in each lane. No extra cones, text, letters, or numbers.

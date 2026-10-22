@@ -1,0 +1,9 @@
+title: Sharing an Orange with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+options:
+A) One half
+B) One whole
+C) One quarter
+image_prompt:
+Show {user_name} helping {grandmother_name} share exactly one orange cut into 2 equal-sized parts, with each person receiving exactly one part. No extra oranges, fruit, props, people, text, letters or numbers.

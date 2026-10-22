@@ -1,0 +1,9 @@
+title: Displaying Kites with Aunt
+question_text:
+{user_name} and {aunt_name} arrange 6 colourful kites equally on 2 display walls. How many kites will be on each wall?
+options:
+A) 2
+B) 3
+C) 4
+image_prompt:
+Show {user_name} and {aunt_name} arranging exactly 6 colourful kites equally on 2 display walls, with exactly 3 kites on each wall. No extra kites, text, letters, or numbers.

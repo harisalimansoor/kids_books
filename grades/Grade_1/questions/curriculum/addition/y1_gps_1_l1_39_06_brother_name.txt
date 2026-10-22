@@ -1,0 +1,9 @@
+title: Baking Muffins with Brother
+question_text:
+{user_name} bakes 3 blueberry muffins, and {brother_name} bakes 4 more. How many muffins have they baked altogether?
+options:
+A) 17
+B) 7
+C) 1
+image_prompt:
+Show {user_name} placing blueberry muffins on a cooling rack while {brother_name} decorates her freshly baked muffins. Include EXACTLY 3 muffins in the child's group and 4 in the sister's group, with no extra muffins.

@@ -1,0 +1,9 @@
+title: Showing Expanded Numbers with Aunt
+question_text:
+{user_name} helps {aunt_name} show 32 using tens and ones. Which description matches 32?
+options:
+A) 3 tens and 2 ones
+B) 2 tens and 3 ones
+C) 3 tens and 0 ones
+image_prompt:
+Show {user_name} and {aunt_name} arranging exactly 32 blocks: 3 groups of 10 blocks each and 2 separate blocks. Keep every block visible and countable. No extra blocks, and no text, letters, or numbers.

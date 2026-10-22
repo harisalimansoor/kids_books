@@ -1,0 +1,9 @@
+title: Carrying Gift Bags with Grandmother
+question_text:
+While preparing gifts, {user_name} decorates 4 paper gift bags, and {grandmother_name} ties ribbons on 4 more. How many gift bags have they prepared altogether?
+options:
+A) 8
+B) 0
+C) 16
+image_prompt:
+Show {user_name} decorating gift bags at a craft table while {grandmother_name} ties ribbons on another group. Arrange EXACTLY 4 colorful gift bags in the child's work area and 4 in the aunt's area. All 8 bags must be distinct, with no extra bags.

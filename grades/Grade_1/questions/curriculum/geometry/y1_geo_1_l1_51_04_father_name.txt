@@ -1,0 +1,9 @@
+title: Finding a Triangle Road Sign
+question_text:
+{user_name} is helping {father_name} identify road signs. They see a sign with 3 straight sides and 3 corners. Which 2D shape matches the sign?
+options:
+A) Circle
+B) Triangle
+C) Rectangle
+image_prompt:
+Show {user_name} helping {father_name} examine exactly 1 plain triangular road sign. Make its 3 straight sides and 3 corners clearly visible. Do not include any symbols, writing or labels on the sign. No extra signs, objects, props, text, letters, or numbers.

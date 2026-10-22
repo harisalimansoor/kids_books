@@ -1,0 +1,9 @@
+title: Planting Flowers with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} plant flowers in a garden bed. They divide one rectangular garden bed into 2 equal sections and plant 4 flowers in one section. What fraction of the garden bed has flowers?
+options:
+A) One half
+B) One whole
+C) One quarter
+image_prompt:
+Show {user_name} helping {grandfather_name} plant exactly 4 flowers in one section of a rectangular garden bed divided into 2 equal-sized sections. Leave the other section empty. No extra flowers, plants, objects, props, people, text, letters or numbers.

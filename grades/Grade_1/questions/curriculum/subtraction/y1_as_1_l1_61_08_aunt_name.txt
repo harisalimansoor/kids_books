@@ -1,0 +1,9 @@
+title: Washing a Bicycle with Aunt
+question_text:
+{user_name} has 8 cleaning brushes. {aunt_name} takes 3 brushes to clean his bicycle. How many brushes remain with {user_name}?
+options:
+A) 4
+B) 3
+C) 5
+image_prompt:
+Show {user_name} cleaning a bicycle with {aunt_name}. Aunt takes 3 brushes from a group of 8. Show exactly 5 brushes with the child and 3 with Aunt. No extra brushes, text, letters, or numbers.

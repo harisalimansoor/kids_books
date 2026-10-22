@@ -1,0 +1,9 @@
+title: Weighing Birdseed with Grandfather
+question_text:
+{user_name} and {grandfather_name} want to find the weight of a bag of birdseed. Which tool should they use?
+options:
+A) A measuring tape
+B) A weighing scale
+C) A measuring jug
+image_prompt:
+Show {user_name} and {grandfather_name} placing exactly 1 bag of birdseed on exactly 1 weighing scale. No extra bags, measuring tools, props, text, letters, or numbers.

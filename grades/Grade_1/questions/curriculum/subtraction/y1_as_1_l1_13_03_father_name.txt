@@ -1,0 +1,9 @@
+title: Feeding Ducks with Father
+question_text:
+{user_name} sees 9 ducks near a pond. {father_name} watches as 4 ducks swim away. How many ducks remain near the pond?
+options:
+A) 4
+B) 6
+C) 5
+image_prompt:
+Show {user_name} and {father_name} watching ducks beside a pond. Show exactly 5 ducks remaining near the pond and 4 swimming away. No additional ducks, text, letters, or numbers.

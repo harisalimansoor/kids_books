@@ -1,0 +1,9 @@
+title: Comparing Juice Jugs with Sister
+question_text:
+{user_name} and {sister_name} are comparing 2 juice jugs. One jug can hold 1 litre of juice, and the other can hold 2 litres. Which jug can hold more juice?
+options:
+A) The jug that holds 1 litre
+B) The jug that holds 2 litres
+C) Both jugs hold the same amount
+image_prompt:
+Show {user_name} and {sister_name} comparing exactly 2 empty juice jugs with clearly different capacities. One jug must visibly be larger than the other. No extra jugs, props, text, letters, or numbers.

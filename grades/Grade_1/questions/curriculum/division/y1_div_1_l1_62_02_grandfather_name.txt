@@ -1,0 +1,9 @@
+title: Setting Up Toy Shops with Grandfather
+question_text:
+{user_name} and {grandfather_name} place 8 toy cash registers equally on 2 pretend shop counters. How many toy cash registers will be on each counter?
+options:
+A) 3
+B) 4
+C) 2
+image_prompt:
+Show {user_name} and {grandfather_name} placing exactly 8 toy cash registers equally on 2 pretend shop counters, with exactly 4 registers on each counter. No extra registers, text, letters, or numbers.

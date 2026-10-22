@@ -1,0 +1,9 @@
+title: Choosing a Doormat with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} choose a doormat. The mat has 2 long sides and 2 short sides. Which 2D shape matches the mat's outline?
+options:
+A) Circle
+B) Square
+C) Rectangle
+image_prompt:
+Show {user_name} helping {grandfather_name} look at exactly 1 plain rectangular doormat. Make its 2 long sides and 2 short sides clearly visible. No extra mats, objects, props, patterns, text, letters, or numbers.

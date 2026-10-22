@@ -1,0 +1,9 @@
+title: Planning a Fishing Trip with Sister
+question_text:
+{user_name} is helping {sister_name} plan a fishing trip. They arrive at the lake at 8 o'clock and begin fishing at 10 o'clock. Which event happens earlier?
+options:
+A) Beginning to fish
+B) Arriving at the lake
+C) Both events happen at the same time
+image_prompt:
+Show {user_name} helping {sister_name} compare two scenes in order: arriving at a lake first, then fishing beside it. Include one fishing rod. No text, letters, numbers or extra people.

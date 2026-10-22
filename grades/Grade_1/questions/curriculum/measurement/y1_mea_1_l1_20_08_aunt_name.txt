@@ -1,0 +1,9 @@
+title: Checking Equal Weights with Aunt
+question_text:
+{user_name} and {aunt_name} place 2 identical-size clay balls on a balance scale. Both sides stay level. What does this tell them?
+options:
+A) One clay ball is heavier
+B) Both clay balls weigh the same
+C) One clay ball is much lighter
+image_prompt:
+Show {user_name} and {aunt_name} observing exactly 2 identical-size clay balls, one on each side of a balanced weighing scale. Both sides must remain level. No extra clay balls, scales, props, text, letters, or numbers.

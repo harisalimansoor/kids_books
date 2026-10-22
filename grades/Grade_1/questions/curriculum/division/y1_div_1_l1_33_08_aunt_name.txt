@@ -1,0 +1,9 @@
+title: Feeding Rabbits with Aunt
+question_text:
+{user_name} and {aunt_name} divide 6 carrots equally among 3 rabbit bowls. How many carrots will be in each bowl?
+options:
+A) 2
+B) 3
+C) 4
+image_prompt:
+Show {user_name} and {aunt_name} placing exactly 6 carrots equally into 3 rabbit bowls, with exactly 2 carrots in each bowl. No extra carrots, text, letters, or numbers.

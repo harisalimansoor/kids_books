@@ -1,0 +1,9 @@
+title: Exploring with Toy Binoculars
+question_text:
+{user_name} and {sister_name} use toy binoculars to explore the garden. Each of 3 binoculars has 2 round lenses. How many lenses do the binoculars have altogether?
+options:
+A) 5
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {sister_name} examining exactly 3 toy binoculars. Each pair of binoculars must have exactly 2 clearly visible round lenses. Show exactly 6 lenses in total. No extra binoculars or lenses, and no text, letters, or numbers.

@@ -80,3 +80,563 @@
 {user_name} is helping {aunt_name} tidy the bedroom. They place 1 scarf completely inside an open wardrobe. Where is the scarf?
 {user_name} is helping {aunt_name} tidy the living room. They place 1 bag behind a chair. Where is the bag?
 {user_name} is helping {aunt_name} learn about turns using a toy windmill. One blade starts by pointing up. They turn the windmill one quarter turn clockwise. Which direction does that blade point now?
+{user_name} is helping {grandmother_name} sort shape cards. They have 1 circle, 1 triangle and 1 square. Which shape has 3 straight sides?
+{user_name} is helping {father_name} sort shape cards. They have 1 circle, 1 triangle and 1 square. Which shape has 3 straight sides?
+{user_name} is helping {mother_name} sort shape cards. They have 1 circle, 1 triangle and 1 square. Which shape has 3 straight sides?
+{user_name} is helping {brother_name} sort shape cards. They have 1 circle, 1 triangle and 1 square. Which shape has 3 straight sides?
+{user_name} is helping {sister_name} sort shape cards. They have 1 circle, 1 triangle and 1 square. Which shape has 3 straight sides?
+{user_name} is helping {uncle_name} sort shape cards. They have 1 circle, 1 triangle and 1 square. Which shape has 3 straight sides?
+{user_name} is helping {aunt_name} sort shape cards. They have 1 circle, 1 triangle and 1 square. Which shape has 3 straight sides?
+{user_name} is helping {grandmother_name} turn a square tile. They turn it onto one corner so it looks like a diamond. What shape is the tile still?
+{user_name} is helping {father_name} turn a square tile. They turn it onto one corner so it looks like a diamond. What shape is the tile still?
+{user_name} is helping {mother_name} turn a square tile. They turn it onto one corner so it looks like a diamond. What shape is the tile still?
+{user_name} is helping {brother_name} turn a square tile. They turn it onto one corner so it looks like a diamond. What shape is the tile still?
+{user_name} is helping {sister_name} turn a square tile. They turn it onto one corner so it looks like a diamond. What shape is the tile still?
+{user_name} is helping {uncle_name} turn a square tile. They turn it onto one corner so it looks like a diamond. What shape is the tile still?
+{user_name} is helping {aunt_name} turn a square tile. They turn it onto one corner so it looks like a diamond. What shape is the tile still?
+{user_name} is helping {grandmother_name} choose a storybook. They look at the front cover of 1 closed book. Which 2D shape matches the front cover?
+{user_name} is helping {father_name} choose a storybook. They look at the front cover of 1 closed book. Which 2D shape matches the front cover?
+{user_name} is helping {mother_name} choose a storybook. They look at the front cover of 1 closed book. Which 2D shape matches the front cover?
+{user_name} is helping {brother_name} choose a storybook. They look at the front cover of 1 closed book. Which 2D shape matches the front cover?
+{user_name} is helping {sister_name} choose a storybook. They look at the front cover of 1 closed book. Which 2D shape matches the front cover?
+{user_name} is helping {uncle_name} choose a storybook. They look at the front cover of 1 closed book. Which 2D shape matches the front cover?
+{user_name} is helping {aunt_name} choose a storybook. They look at the front cover of 1 closed book. Which 2D shape matches the front cover?
+{user_name} is helping {grandmother_name} arrange shape cards. They place the triangle above the circle and the square beside them. Which shape is directly below the triangle?
+{user_name} is helping {father_name} arrange shape cards. They place the triangle above the circle and the square beside them. Which shape is directly below the triangle?
+{user_name} is helping {mother_name} arrange shape cards. They place the triangle above the circle and the square beside them. Which shape is directly below the triangle?
+{user_name} is helping {brother_name} arrange shape cards. They place the triangle above the circle and the square beside them. Which shape is directly below the triangle?
+{user_name} is helping {sister_name} arrange shape cards. They place the triangle above the circle and the square beside them. Which shape is directly below the triangle?
+{user_name} is helping {uncle_name} arrange shape cards. They place the triangle above the circle and the square beside them. Which shape is directly below the triangle?
+{user_name} is helping {aunt_name} arrange shape cards. They place the triangle above the circle and the square beside them. Which shape is directly below the triangle?
+{user_name} is helping {grandmother_name} explore solid shapes. They examine 1 block with 6 equal square faces. Which 3D shape is the block?
+{user_name} is helping {father_name} explore solid shapes. They examine 1 block with 6 equal square faces. Which 3D shape is the block?
+{user_name} is helping {mother_name} explore solid shapes. They examine 1 block with 6 equal square faces. Which 3D shape is the block?
+{user_name} is helping {brother_name} explore solid shapes. They examine 1 block with 6 equal square faces. Which 3D shape is the block?
+{user_name} is helping {sister_name} explore solid shapes. They examine 1 block with 6 equal square faces. Which 3D shape is the block?
+{user_name} is helping {uncle_name} explore solid shapes. They examine 1 block with 6 equal square faces. Which 3D shape is the block?
+{user_name} is helping {aunt_name} explore solid shapes. They examine 1 block with 6 equal square faces. Which 3D shape is the block?
+{user_name} is helping {grandmother_name} identify solid shapes. They examine 1 round ball with a curved surface and no corners. Which 3D shape matches the ball?
+{user_name} is helping {father_name} identify solid shapes. They examine 1 round ball with a curved surface and no corners. Which 3D shape matches the ball?
+{user_name} is helping {mother_name} identify solid shapes. They examine 1 round ball with a curved surface and no corners. Which 3D shape matches the ball?
+{user_name} is helping {brother_name} identify solid shapes. They examine 1 round ball with a curved surface and no corners. Which 3D shape matches the ball?
+{user_name} is helping {sister_name} identify solid shapes. They examine 1 round ball with a curved surface and no corners. Which 3D shape matches the ball?
+{user_name} is helping {uncle_name} identify solid shapes. They examine 1 round ball with a curved surface and no corners. Which 3D shape matches the ball?
+{user_name} is helping {aunt_name} identify solid shapes. They examine 1 round ball with a curved surface and no corners. Which 3D shape matches the ball?
+{user_name} is helping {grandmother_name} pack a parcel. They have 1 box with rectangular faces that is longer than it is wide. Which 3D shape matches the parcel?
+{user_name} is helping {father_name} pack a parcel. They have 1 box with rectangular faces that is longer than it is wide. Which 3D shape matches the parcel?
+{user_name} is helping {mother_name} pack a parcel. They have 1 box with rectangular faces that is longer than it is wide. Which 3D shape matches the parcel?
+{user_name} is helping {brother_name} pack a parcel. They have 1 box with rectangular faces that is longer than it is wide. Which 3D shape matches the parcel?
+{user_name} is helping {sister_name} pack a parcel. They have 1 box with rectangular faces that is longer than it is wide. Which 3D shape matches the parcel?
+{user_name} is helping {uncle_name} pack a parcel. They have 1 box with rectangular faces that is longer than it is wide. Which 3D shape matches the parcel?
+{user_name} is helping {aunt_name} pack a parcel. They have 1 box with rectangular faces that is longer than it is wide. Which 3D shape matches the parcel?
+{user_name} is helping {grandmother_name} identify a solid shape. They examine 1 model with a square base and triangular faces that meet at one point. Which 3D shape is the model?
+{user_name} is helping {father_name} identify a solid shape. They examine 1 model with a square base and triangular faces that meet at one point. Which 3D shape is the model?
+{user_name} is helping {mother_name} identify a solid shape. They examine 1 model with a square base and triangular faces that meet at one point. Which 3D shape is the model?
+{user_name} is helping {brother_name} identify a solid shape. They examine 1 model with a square base and triangular faces that meet at one point. Which 3D shape is the model?
+{user_name} is helping {sister_name} identify a solid shape. They examine 1 model with a square base and triangular faces that meet at one point. Which 3D shape is the model?
+{user_name} is helping {uncle_name} identify a solid shape. They examine 1 model with a square base and triangular faces that meet at one point. Which 3D shape is the model?
+{user_name} is helping {aunt_name} identify a solid shape. They examine 1 model with a square base and triangular faces that meet at one point. Which 3D shape is the model?
+{user_name} is helping {grandmother_name} put solid shapes away. They place 1 cube inside a box and leave 1 sphere outside the box. Which shape is outside the box?
+{user_name} is helping {father_name} put solid shapes away. They place 1 cube inside a box and leave 1 sphere outside the box. Which shape is outside the box?
+{user_name} is helping {mother_name} put solid shapes away. They place 1 cube inside a box and leave 1 sphere outside the box. Which shape is outside the box?
+{user_name} is helping {brother_name} put solid shapes away. They place 1 cube inside a box and leave 1 sphere outside the box. Which shape is outside the box?
+{user_name} is helping {sister_name} put solid shapes away. They place 1 cube inside a box and leave 1 sphere outside the box. Which shape is outside the box?
+{user_name} is helping {uncle_name} put solid shapes away. They place 1 cube inside a box and leave 1 sphere outside the box. Which shape is outside the box?
+{user_name} is helping {aunt_name} put solid shapes away. They place 1 cube inside a box and leave 1 sphere outside the box. Which shape is outside the box?
+{user_name} is helping {grandmother_name} practise directions. They start with a pointer facing up and turn it one quarter turn clockwise. Which direction does the pointer face now?
+{user_name} is helping {father_name} practise directions. They start with a pointer facing up and turn it one quarter turn clockwise. Which direction does the pointer face now?
+{user_name} is helping {mother_name} practise directions. They start with a pointer facing up and turn it one quarter turn clockwise. Which direction does the pointer face now?
+{user_name} is helping {brother_name} practise directions. They start with a pointer facing up and turn it one quarter turn clockwise. Which direction does the pointer face now?
+{user_name} is helping {sister_name} practise directions. They start with a pointer facing up and turn it one quarter turn clockwise. Which direction does the pointer face now?
+{user_name} is helping {uncle_name} practise directions. They start with a pointer facing up and turn it one quarter turn clockwise. Which direction does the pointer face now?
+{user_name} is helping {aunt_name} practise directions. They start with a pointer facing up and turn it one quarter turn clockwise. Which direction does the pointer face now?
+{user_name} is helping {grandfather_name} bake biscuits. They make 1 circle biscuit, 1 triangle biscuit and 1 square biscuit. Which biscuit has 3 straight sides?
+{user_name} is helping {father_name} bake biscuits. They make 1 circle biscuit, 1 triangle biscuit and 1 square biscuit. Which biscuit has 3 straight sides?
+{user_name} is helping {mother_name} bake biscuits. They make 1 circle biscuit, 1 triangle biscuit and 1 square biscuit. Which biscuit has 3 straight sides?
+{user_name} is helping {brother_name} bake biscuits. They make 1 circle biscuit, 1 triangle biscuit and 1 square biscuit. Which biscuit has 3 straight sides?
+{user_name} is helping {sister_name} bake biscuits. They make 1 circle biscuit, 1 triangle biscuit and 1 square biscuit. Which biscuit has 3 straight sides?
+{user_name} is helping {uncle_name} bake biscuits. They make 1 circle biscuit, 1 triangle biscuit and 1 square biscuit. Which biscuit has 3 straight sides?
+{user_name} is helping {aunt_name} bake biscuits. They make 1 circle biscuit, 1 triangle biscuit and 1 square biscuit. Which biscuit has 3 straight sides?
+{user_name} is helping {grandfather_name} look at a round wall clock. The clock face has no corners. Which 2D shape matches the clock face?
+{user_name} is helping {father_name} look at a round wall clock. The clock face has no corners. Which 2D shape matches the clock face?
+{user_name} is helping {mother_name} look at a round wall clock. The clock face has no corners. Which 2D shape matches the clock face?
+{user_name} is helping {brother_name} look at a round wall clock. The clock face has no corners. Which 2D shape matches the clock face?
+{user_name} is helping {sister_name} look at a round wall clock. The clock face has no corners. Which 2D shape matches the clock face?
+{user_name} is helping {uncle_name} look at a round wall clock. The clock face has no corners. Which 2D shape matches the clock face?
+{user_name} is helping {aunt_name} look at a round wall clock. The clock face has no corners. Which 2D shape matches the clock face?
+{user_name} is helping {grandfather_name} sew a quilt. They prepare 1 fabric patch with 4 equal straight sides and 4 corners. Which 2D shape is the patch?
+{user_name} is helping {father_name} sew a quilt. They prepare 1 fabric patch with 4 equal straight sides and 4 corners. Which 2D shape is the patch?
+{user_name} is helping {mother_name} sew a quilt. They prepare 1 fabric patch with 4 equal straight sides and 4 corners. Which 2D shape is the patch?
+{user_name} is helping {brother_name} sew a quilt. They prepare 1 fabric patch with 4 equal straight sides and 4 corners. Which 2D shape is the patch?
+{user_name} is helping {sister_name} sew a quilt. They prepare 1 fabric patch with 4 equal straight sides and 4 corners. Which 2D shape is the patch?
+{user_name} is helping {uncle_name} sew a quilt. They prepare 1 fabric patch with 4 equal straight sides and 4 corners. Which 2D shape is the patch?
+{user_name} is helping {aunt_name} sew a quilt. They prepare 1 fabric patch with 4 equal straight sides and 4 corners. Which 2D shape is the patch?
+{user_name} is helping {grandfather_name} clean a window. The window pane has 2 long sides and 2 short sides. Which 2D shape matches the window pane?
+{user_name} is helping {father_name} clean a window. The window pane has 2 long sides and 2 short sides. Which 2D shape matches the window pane?
+{user_name} is helping {mother_name} clean a window. The window pane has 2 long sides and 2 short sides. Which 2D shape matches the window pane?
+{user_name} is helping {brother_name} clean a window. The window pane has 2 long sides and 2 short sides. Which 2D shape matches the window pane?
+{user_name} is helping {sister_name} clean a window. The window pane has 2 long sides and 2 short sides. Which 2D shape matches the window pane?
+{user_name} is helping {uncle_name} clean a window. The window pane has 2 long sides and 2 short sides. Which 2D shape matches the window pane?
+{user_name} is helping {aunt_name} clean a window. The window pane has 2 long sides and 2 short sides. Which 2D shape matches the window pane?
+{user_name} is helping {grandfather_name} wash an orange. The orange is round all over and has no corners or straight edges. Which 3D shape does the orange look like?
+{user_name} is helping {father_name} wash an orange. The orange is round all over and has no corners or straight edges. Which 3D shape does the orange look like?
+{user_name} is helping {mother_name} wash an orange. The orange is round all over and has no corners or straight edges. Which 3D shape does the orange look like?
+{user_name} is helping {brother_name} wash an orange. The orange is round all over and has no corners or straight edges. Which 3D shape does the orange look like?
+{user_name} is helping {sister_name} wash an orange. The orange is round all over and has no corners or straight edges. Which 3D shape does the orange look like?
+{user_name} is helping {uncle_name} wash an orange. The orange is round all over and has no corners or straight edges. Which 3D shape does the orange look like?
+{user_name} is helping {aunt_name} wash an orange. The orange is round all over and has no corners or straight edges. Which 3D shape does the orange look like?
+{user_name} is helping {grandfather_name} prepare tea. They look at 1 sugar cube with 6 equal square faces. Which 3D shape is the sugar cube?
+{user_name} is helping {father_name} prepare tea. They look at 1 sugar cube with 6 equal square faces. Which 3D shape is the sugar cube?
+{user_name} is helping {mother_name} prepare tea. They look at 1 sugar cube with 6 equal square faces. Which 3D shape is the sugar cube?
+{user_name} is helping {brother_name} prepare tea. They look at 1 sugar cube with 6 equal square faces. Which 3D shape is the sugar cube?
+{user_name} is helping {sister_name} prepare tea. They look at 1 sugar cube with 6 equal square faces. Which 3D shape is the sugar cube?
+{user_name} is helping {uncle_name} prepare tea. They look at 1 sugar cube with 6 equal square faces. Which 3D shape is the sugar cube?
+{user_name} is helping {aunt_name} prepare tea. They look at 1 sugar cube with 6 equal square faces. Which 3D shape is the sugar cube?
+{user_name} is helping {grandfather_name} examine a rectangular bar of soap. It has rectangular faces and is longer than it is wide. Which 3D shape matches the bar of soap?
+{user_name} is helping {father_name} examine a rectangular bar of soap. It has rectangular faces and is longer than it is wide. Which 3D shape matches the bar of soap?
+{user_name} is helping {mother_name} examine a rectangular bar of soap. It has rectangular faces and is longer than it is wide. Which 3D shape matches the bar of soap?
+{user_name} is helping {brother_name} examine a rectangular bar of soap. It has rectangular faces and is longer than it is wide. Which 3D shape matches the bar of soap?
+{user_name} is helping {sister_name} examine a rectangular bar of soap. It has rectangular faces and is longer than it is wide. Which 3D shape matches the bar of soap?
+{user_name} is helping {uncle_name} examine a rectangular bar of soap. It has rectangular faces and is longer than it is wide. Which 3D shape matches the bar of soap?
+{user_name} is helping {aunt_name} examine a rectangular bar of soap. It has rectangular faces and is longer than it is wide. Which 3D shape matches the bar of soap?
+{user_name} is helping {grandfather_name} shape a sand tower. It has a square base and 4 triangular faces that meet at one point. Which 3D shape are they making?
+{user_name} is helping {father_name} shape a sand tower. It has a square base and 4 triangular faces that meet at one point. Which 3D shape are they making?
+{user_name} is helping {mother_name} shape a sand tower. It has a square base and 4 triangular faces that meet at one point. Which 3D shape are they making?
+{user_name} is helping {brother_name} shape a sand tower. It has a square base and 4 triangular faces that meet at one point. Which 3D shape are they making?
+{user_name} is helping {sister_name} shape a sand tower. It has a square base and 4 triangular faces that meet at one point. Which 3D shape are they making?
+{user_name} is helping {uncle_name} shape a sand tower. It has a square base and 4 triangular faces that meet at one point. Which 3D shape are they making?
+{user_name} is helping {aunt_name} shape a sand tower. It has a square base and 4 triangular faces that meet at one point. Which 3D shape are they making?
+{user_name} is helping {grandfather_name} arrange the garden. They place 1 watering can to the left of 1 flowerpot. Which object is on the left?
+{user_name} is helping {father_name} arrange the garden. They place 1 watering can to the left of 1 flowerpot. Which object is on the left?
+{user_name} is helping {mother_name} arrange the garden. They place 1 watering can to the left of 1 flowerpot. Which object is on the left?
+{user_name} is helping {brother_name} arrange the garden. They place 1 watering can to the left of 1 flowerpot. Which object is on the left?
+{user_name} is helping {sister_name} arrange the garden. They place 1 watering can to the left of 1 flowerpot. Which object is on the left?
+{user_name} is helping {uncle_name} arrange the garden. They place 1 watering can to the left of 1 flowerpot. Which object is on the left?
+{user_name} is helping {aunt_name} arrange the garden. They place 1 watering can to the left of 1 flowerpot. Which object is on the left?
+{user_name} is helping {grandfather_name} practise a dance. They start by facing the garden gate and then make a half turn. Which way will they face after the half turn?
+{user_name} is helping {father_name} practise a dance. They start by facing the garden gate and then make a half turn. Which way will they face after the half turn?
+{user_name} is helping {mother_name} practise a dance. They start by facing the garden gate and then make a half turn. Which way will they face after the half turn?
+{user_name} is helping {brother_name} practise a dance. They start by facing the garden gate and then make a half turn. Which way will they face after the half turn?
+{user_name} is helping {sister_name} practise a dance. They start by facing the garden gate and then make a half turn. Which way will they face after the half turn?
+{user_name} is helping {uncle_name} practise a dance. They start by facing the garden gate and then make a half turn. Which way will they face after the half turn?
+{user_name} is helping {aunt_name} practise a dance. They start by facing the garden gate and then make a half turn. Which way will they face after the half turn?
+{user_name} is helping {grandfather_name} make a toy boat. They add 1 triangular sail to the boat. Which 2D shape is the sail?
+{user_name} is helping {grandmother_name} make a toy boat. They add 1 triangular sail to the boat. Which 2D shape is the sail?
+{user_name} is helping {mother_name} make a toy boat. They add 1 triangular sail to the boat. Which 2D shape is the sail?
+{user_name} is helping {brother_name} make a toy boat. They add 1 triangular sail to the boat. Which 2D shape is the sail?
+{user_name} is helping {sister_name} make a toy boat. They add 1 triangular sail to the boat. Which 2D shape is the sail?
+{user_name} is helping {uncle_name} make a toy boat. They add 1 triangular sail to the boat. Which 2D shape is the sail?
+{user_name} is helping {aunt_name} make a toy boat. They add 1 triangular sail to the boat. Which 2D shape is the sail?
+{user_name} is helping {grandfather_name} choose a doormat. The mat has 2 long sides and 2 short sides. Which 2D shape matches the mat's outline?
+{user_name} is helping {grandmother_name} choose a doormat. The mat has 2 long sides and 2 short sides. Which 2D shape matches the mat's outline?
+{user_name} is helping {mother_name} choose a doormat. The mat has 2 long sides and 2 short sides. Which 2D shape matches the mat's outline?
+{user_name} is helping {brother_name} choose a doormat. The mat has 2 long sides and 2 short sides. Which 2D shape matches the mat's outline?
+{user_name} is helping {sister_name} choose a doormat. The mat has 2 long sides and 2 short sides. Which 2D shape matches the mat's outline?
+{user_name} is helping {uncle_name} choose a doormat. The mat has 2 long sides and 2 short sides. Which 2D shape matches the mat's outline?
+{user_name} is helping {aunt_name} choose a doormat. The mat has 2 long sides and 2 short sides. Which 2D shape matches the mat's outline?
+{user_name} is helping {grandfather_name} play a board game. They roll 1 die with 6 equal square faces. Which 3D shape does the die match?
+{user_name} is helping {grandmother_name} play a board game. They roll 1 die with 6 equal square faces. Which 3D shape does the die match?
+{user_name} is helping {mother_name} play a board game. They roll 1 die with 6 equal square faces. Which 3D shape does the die match?
+{user_name} is helping {brother_name} play a board game. They roll 1 die with 6 equal square faces. Which 3D shape does the die match?
+{user_name} is helping {sister_name} play a board game. They roll 1 die with 6 equal square faces. Which 3D shape does the die match?
+{user_name} is helping {uncle_name} play a board game. They roll 1 die with 6 equal square faces. Which 3D shape does the die match?
+{user_name} is helping {aunt_name} play a board game. They roll 1 die with 6 equal square faces. Which 3D shape does the die match?
+{user_name} is helping {grandfather_name} examine a glass marble. The marble is round all over and has no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {grandmother_name} examine a glass marble. The marble is round all over and has no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {mother_name} examine a glass marble. The marble is round all over and has no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {brother_name} examine a glass marble. The marble is round all over and has no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {sister_name} examine a glass marble. The marble is round all over and has no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {uncle_name} examine a glass marble. The marble is round all over and has no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {aunt_name} examine a glass marble. The marble is round all over and has no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {grandfather_name} pack a lunchbox. The lunchbox has rectangular faces and is longer than it is wide. Which 3D shape does the lunchbox match?
+{user_name} is helping {grandmother_name} pack a lunchbox. The lunchbox has rectangular faces and is longer than it is wide. Which 3D shape does the lunchbox match?
+{user_name} is helping {mother_name} pack a lunchbox. The lunchbox has rectangular faces and is longer than it is wide. Which 3D shape does the lunchbox match?
+{user_name} is helping {brother_name} pack a lunchbox. The lunchbox has rectangular faces and is longer than it is wide. Which 3D shape does the lunchbox match?
+{user_name} is helping {sister_name} pack a lunchbox. The lunchbox has rectangular faces and is longer than it is wide. Which 3D shape does the lunchbox match?
+{user_name} is helping {uncle_name} pack a lunchbox. The lunchbox has rectangular faces and is longer than it is wide. Which 3D shape does the lunchbox match?
+{user_name} is helping {aunt_name} pack a lunchbox. The lunchbox has rectangular faces and is longer than it is wide. Which 3D shape does the lunchbox match?
+{user_name} is helping {grandfather_name} tidy the garden. They find 1 football under a garden bench. Where is the football?
+{user_name} is helping {grandmother_name} tidy the garden. They find 1 football under a garden bench. Where is the football?
+{user_name} is helping {mother_name} tidy the garden. They find 1 football under a garden bench. Where is the football?
+{user_name} is helping {brother_name} tidy the garden. They find 1 football under a garden bench. Where is the football?
+{user_name} is helping {sister_name} tidy the garden. They find 1 football under a garden bench. Where is the football?
+{user_name} is helping {uncle_name} tidy the garden. They find 1 football under a garden bench. Where is the football?
+{user_name} is helping {aunt_name} tidy the garden. They find 1 football under a garden bench. Where is the football?
+{user_name} is helping {grandfather_name} park toy vehicles. They place 1 red toy car near a toy garage and 1 blue toy bus far away from the garage. Which vehicle is near the garage?
+{user_name} is helping {grandmother_name} park toy vehicles. They place 1 red toy car near a toy garage and 1 blue toy bus far away from the garage. Which vehicle is near the garage?
+{user_name} is helping {mother_name} park toy vehicles. They place 1 red toy car near a toy garage and 1 blue toy bus far away from the garage. Which vehicle is near the garage?
+{user_name} is helping {brother_name} park toy vehicles. They place 1 red toy car near a toy garage and 1 blue toy bus far away from the garage. Which vehicle is near the garage?
+{user_name} is helping {sister_name} park toy vehicles. They place 1 red toy car near a toy garage and 1 blue toy bus far away from the garage. Which vehicle is near the garage?
+{user_name} is helping {uncle_name} park toy vehicles. They place 1 red toy car near a toy garage and 1 blue toy bus far away from the garage. Which vehicle is near the garage?
+{user_name} is helping {aunt_name} park toy vehicles. They place 1 red toy car near a toy garage and 1 blue toy bus far away from the garage. Which vehicle is near the garage?
+{user_name} is helping {grandfather_name} play with a toy lift. The lift is moving from the top of its shaft towards the bottom. Which direction is the lift moving?
+{user_name} is helping {grandmother_name} play with a toy lift. The lift is moving from the top of its shaft towards the bottom. Which direction is the lift moving?
+{user_name} is helping {mother_name} play with a toy lift. The lift is moving from the top of its shaft towards the bottom. Which direction is the lift moving?
+{user_name} is helping {brother_name} play with a toy lift. The lift is moving from the top of its shaft towards the bottom. Which direction is the lift moving?
+{user_name} is helping {sister_name} play with a toy lift. The lift is moving from the top of its shaft towards the bottom. Which direction is the lift moving?
+{user_name} is helping {uncle_name} play with a toy lift. The lift is moving from the top of its shaft towards the bottom. Which direction is the lift moving?
+{user_name} is helping {aunt_name} play with a toy lift. The lift is moving from the top of its shaft towards the bottom. Which direction is the lift moving?
+{user_name} is helping {grandfather_name} play with a toy car on a straight track. The car faces right, and {grandfather_name} moves it backwards. Which direction does the car move?
+{user_name} is helping {grandmother_name} play with a toy car on a straight track. The car faces right, and {grandmother_name} moves it backwards. Which direction does the car move?
+{user_name} is helping {mother_name} play with a toy car on a straight track. The car faces right, and {mother_name} moves it backwards. Which direction does the car move?
+{user_name} is helping {brother_name} play with a toy car on a straight track. The car faces right, and {brother_name} moves it backwards. Which direction does the car move?
+{user_name} is helping {sister_name} play with a toy car on a straight track. The car faces right, and {sister_name} moves it backwards. Which direction does the car move?
+{user_name} is helping {uncle_name} play with a toy car on a straight track. The car faces right, and {uncle_name} moves it backwards. Which direction does the car move?
+{user_name} is helping {aunt_name} play with a toy car on a straight track. The car faces right, and {aunt_name} moves it backwards. Which direction does the car move?
+{user_name} is helping {grandfather_name} play with a toy car on a turntable. The car starts facing right. {grandfather_name} turns it one whole turn clockwise. Which direction does the car face at the end?
+{user_name} is helping {grandmother_name} play with a toy car on a turntable. The car starts facing right. {grandmother_name} turns it one whole turn clockwise. Which direction does the car face at the end?
+{user_name} is helping {mother_name} play with a toy car on a turntable. The car starts facing right. {mother_name} turns it one whole turn clockwise. Which direction does the car face at the end?
+{user_name} is helping {brother_name} play with a toy car on a turntable. The car starts facing right. {brother_name} turns it one whole turn clockwise. Which direction does the car face at the end?
+{user_name} is helping {sister_name} play with a toy car on a turntable. The car starts facing right. {sister_name} turns it one whole turn clockwise. Which direction does the car face at the end?
+{user_name} is helping {uncle_name} play with a toy car on a turntable. The car starts facing right. {uncle_name} turns it one whole turn clockwise. Which direction does the car face at the end?
+{user_name} is helping {aunt_name} play with a toy car on a turntable. The car starts facing right. {aunt_name} turns it one whole turn clockwise. Which direction does the car face at the end?
+{user_name} is helping {grandfather_name} cut a sandwich into a triangle. The sandwich piece has 3 straight sides. Which 2D shape is the sandwich piece?
+{user_name} is helping {grandmother_name} cut a sandwich into a triangle. The sandwich piece has 3 straight sides. Which 2D shape is the sandwich piece?
+{user_name} is helping {father_name} cut a sandwich into a triangle. The sandwich piece has 3 straight sides. Which 2D shape is the sandwich piece?
+{user_name} is helping {brother_name} cut a sandwich into a triangle. The sandwich piece has 3 straight sides. Which 2D shape is the sandwich piece?
+{user_name} is helping {sister_name} cut a sandwich into a triangle. The sandwich piece has 3 straight sides. Which 2D shape is the sandwich piece?
+{user_name} is helping {uncle_name} cut a sandwich into a triangle. The sandwich piece has 3 straight sides. Which 2D shape is the sandwich piece?
+{user_name} is helping {aunt_name} cut a sandwich into a triangle. The sandwich piece has 3 straight sides. Which 2D shape is the sandwich piece?
+{user_name} is helping {grandfather_name} arrange a square coaster on the table. They turn it so one corner points up and it looks like a diamond. What shape is the coaster still?
+{user_name} is helping {grandmother_name} arrange a square coaster on the table. They turn it so one corner points up and it looks like a diamond. What shape is the coaster still?
+{user_name} is helping {father_name} arrange a square coaster on the table. They turn it so one corner points up and it looks like a diamond. What shape is the coaster still?
+{user_name} is helping {brother_name} arrange a square coaster on the table. They turn it so one corner points up and it looks like a diamond. What shape is the coaster still?
+{user_name} is helping {sister_name} arrange a square coaster on the table. They turn it so one corner points up and it looks like a diamond. What shape is the coaster still?
+{user_name} is helping {uncle_name} arrange a square coaster on the table. They turn it so one corner points up and it looks like a diamond. What shape is the coaster still?
+{user_name} is helping {aunt_name} arrange a square coaster on the table. They turn it so one corner points up and it looks like a diamond. What shape is the coaster still?
+{user_name} is helping {grandfather_name} prepare a letter for posting. They look at a closed envelope with 2 long sides and 2 short sides. Which 2D shape matches the envelope?
+{user_name} is helping {grandmother_name} prepare a letter for posting. They look at a closed envelope with 2 long sides and 2 short sides. Which 2D shape matches the envelope?
+{user_name} is helping {father_name} prepare a letter for posting. They look at a closed envelope with 2 long sides and 2 short sides. Which 2D shape matches the envelope?
+{user_name} is helping {brother_name} prepare a letter for posting. They look at a closed envelope with 2 long sides and 2 short sides. Which 2D shape matches the envelope?
+{user_name} is helping {sister_name} prepare a letter for posting. They look at a closed envelope with 2 long sides and 2 short sides. Which 2D shape matches the envelope?
+{user_name} is helping {uncle_name} prepare a letter for posting. They look at a closed envelope with 2 long sides and 2 short sides. Which 2D shape matches the envelope?
+{user_name} is helping {aunt_name} prepare a letter for posting. They look at a closed envelope with 2 long sides and 2 short sides. Which 2D shape matches the envelope?
+{user_name} is helping {grandfather_name} set the table for lunch. They place a round plate on the table. Which 2D shape matches the plate when viewed from above?
+{user_name} is helping {grandmother_name} set the table for lunch. They place a round plate on the table. Which 2D shape matches the plate when viewed from above?
+{user_name} is helping {father_name} set the table for lunch. They place a round plate on the table. Which 2D shape matches the plate when viewed from above?
+{user_name} is helping {brother_name} set the table for lunch. They place a round plate on the table. Which 2D shape matches the plate when viewed from above?
+{user_name} is helping {sister_name} set the table for lunch. They place a round plate on the table. Which 2D shape matches the plate when viewed from above?
+{user_name} is helping {uncle_name} set the table for lunch. They place a round plate on the table. Which 2D shape matches the plate when viewed from above?
+{user_name} is helping {aunt_name} set the table for lunch. They place a round plate on the table. Which 2D shape matches the plate when viewed from above?
+{user_name} is helping {grandfather_name} blow a soap bubble. The bubble is round all over and has no corners or straight edges. Which 3D shape does the bubble look like?
+{user_name} is helping {grandmother_name} blow a soap bubble. The bubble is round all over and has no corners or straight edges. Which 3D shape does the bubble look like?
+{user_name} is helping {father_name} blow a soap bubble. The bubble is round all over and has no corners or straight edges. Which 3D shape does the bubble look like?
+{user_name} is helping {brother_name} blow a soap bubble. The bubble is round all over and has no corners or straight edges. Which 3D shape does the bubble look like?
+{user_name} is helping {sister_name} blow a soap bubble. The bubble is round all over and has no corners or straight edges. Which 3D shape does the bubble look like?
+{user_name} is helping {uncle_name} blow a soap bubble. The bubble is round all over and has no corners or straight edges. Which 3D shape does the bubble look like?
+{user_name} is helping {aunt_name} blow a soap bubble. The bubble is round all over and has no corners or straight edges. Which 3D shape does the bubble look like?
+{user_name} is helping {grandfather_name} cool a drink with an ice cube. The ice cube has 6 equal square faces. Which 3D shape does the ice cube match?
+{user_name} is helping {grandmother_name} cool a drink with an ice cube. The ice cube has 6 equal square faces. Which 3D shape does the ice cube match?
+{user_name} is helping {father_name} cool a drink with an ice cube. The ice cube has 6 equal square faces. Which 3D shape does the ice cube match?
+{user_name} is helping {brother_name} cool a drink with an ice cube. The ice cube has 6 equal square faces. Which 3D shape does the ice cube match?
+{user_name} is helping {sister_name} cool a drink with an ice cube. The ice cube has 6 equal square faces. Which 3D shape does the ice cube match?
+{user_name} is helping {uncle_name} cool a drink with an ice cube. The ice cube has 6 equal square faces. Which 3D shape does the ice cube match?
+{user_name} is helping {aunt_name} cool a drink with an ice cube. The ice cube has 6 equal square faces. Which 3D shape does the ice cube match?
+{user_name} is helping {grandfather_name} put away a cereal box. The box has rectangular faces and is longer than it is wide. Which 3D shape matches the cereal box?
+{user_name} is helping {grandmother_name} put away a cereal box. The box has rectangular faces and is longer than it is wide. Which 3D shape matches the cereal box?
+{user_name} is helping {father_name} put away a cereal box. The box has rectangular faces and is longer than it is wide. Which 3D shape matches the cereal box?
+{user_name} is helping {brother_name} put away a cereal box. The box has rectangular faces and is longer than it is wide. Which 3D shape matches the cereal box?
+{user_name} is helping {sister_name} put away a cereal box. The box has rectangular faces and is longer than it is wide. Which 3D shape matches the cereal box?
+{user_name} is helping {uncle_name} put away a cereal box. The box has rectangular faces and is longer than it is wide. Which 3D shape matches the cereal box?
+{user_name} is helping {aunt_name} put away a cereal box. The box has rectangular faces and is longer than it is wide. Which 3D shape matches the cereal box?
+{user_name} is helping {grandfather_name} place a solid decoration on a shelf. The decoration has a square base and triangular faces that meet at one point. Which 3D shape is the decoration?
+{user_name} is helping {grandmother_name} place a solid decoration on a shelf. The decoration has a square base and triangular faces that meet at one point. Which 3D shape is the decoration?
+{user_name} is helping {father_name} place a solid decoration on a shelf. The decoration has a square base and triangular faces that meet at one point. Which 3D shape is the decoration?
+{user_name} is helping {brother_name} place a solid decoration on a shelf. The decoration has a square base and triangular faces that meet at one point. Which 3D shape is the decoration?
+{user_name} is helping {sister_name} place a solid decoration on a shelf. The decoration has a square base and triangular faces that meet at one point. Which 3D shape is the decoration?
+{user_name} is helping {uncle_name} place a solid decoration on a shelf. The decoration has a square base and triangular faces that meet at one point. Which 3D shape is the decoration?
+{user_name} is helping {aunt_name} place a solid decoration on a shelf. The decoration has a square base and triangular faces that meet at one point. Which 3D shape is the decoration?
+{user_name} is helping {grandfather_name} arrange a doll in front of a curtain. Where is the doll?
+{user_name} is helping {grandmother_name} arrange a doll in front of a curtain. Where is the doll?
+{user_name} is helping {father_name} arrange a doll in front of a curtain. Where is the doll?
+{user_name} is helping {brother_name} arrange a doll in front of a curtain. Where is the doll?
+{user_name} is helping {sister_name} arrange a doll in front of a curtain. Where is the doll?
+{user_name} is helping {uncle_name} arrange a doll in front of a curtain. Where is the doll?
+{user_name} is helping {aunt_name} arrange a doll in front of a curtain. Where is the doll?
+{user_name} is helping {grandfather_name} practise turns using a paper arrow. The arrow starts by pointing up. {grandfather_name} turns it three-quarter turn clockwise. Which direction does the arrow face now?
+{user_name} is helping {grandmother_name} practise turns using a paper arrow. The arrow starts by pointing up. {grandmother_name} turns it three-quarter turn clockwise. Which direction does the arrow face now?
+{user_name} is helping {father_name} practise turns using a paper arrow. The arrow starts by pointing up. {father_name} turns it three-quarter turn clockwise. Which direction does the arrow face now?
+{user_name} is helping {brother_name} practise turns using a paper arrow. The arrow starts by pointing up. {brother_name} turns it three-quarter turn clockwise. Which direction does the arrow face now?
+{user_name} is helping {sister_name} practise turns using a paper arrow. The arrow starts by pointing up. {sister_name} turns it three-quarter turn clockwise. Which direction does the arrow face now?
+{user_name} is helping {uncle_name} practise turns using a paper arrow. The arrow starts by pointing up. {uncle_name} turns it three-quarter turn clockwise. Which direction does the arrow face now?
+{user_name} is helping {aunt_name} practise turns using a paper arrow. The arrow starts by pointing up. {aunt_name} turns it three-quarter turn clockwise. Which direction does the arrow face now?
+{user_name} is helping {grandfather_name} draw shapes with chalk. They draw a circle, a triangle and a square. Which shape has 4 equal straight sides?
+{user_name} is helping {grandmother_name} draw shapes with chalk. They draw a circle, a triangle and a square. Which shape has 4 equal straight sides?
+{user_name} is helping {father_name} draw shapes with chalk. They draw a circle, a triangle and a square. Which shape has 4 equal straight sides?
+{user_name} is helping {mother_name} draw shapes with chalk. They draw a circle, a triangle and a square. Which shape has 4 equal straight sides?
+{user_name} is helping {sister_name} draw shapes with chalk. They draw a circle, a triangle and a square. Which shape has 4 equal straight sides?
+{user_name} is helping {uncle_name} draw shapes with chalk. They draw a circle, a triangle and a square. Which shape has 4 equal straight sides?
+{user_name} is helping {aunt_name} draw shapes with chalk. They draw a circle, a triangle and a square. Which shape has 4 equal straight sides?
+{user_name} is helping {grandfather_name} make a small paper flag for a kite. The flag has 3 straight sides and 3 corners. Which 2D shape is the flag?
+{user_name} is helping {grandmother_name} make a small paper flag for a kite. The flag has 3 straight sides and 3 corners. Which 2D shape is the flag?
+{user_name} is helping {father_name} make a small paper flag for a kite. The flag has 3 straight sides and 3 corners. Which 2D shape is the flag?
+{user_name} is helping {mother_name} make a small paper flag for a kite. The flag has 3 straight sides and 3 corners. Which 2D shape is the flag?
+{user_name} is helping {sister_name} make a small paper flag for a kite. The flag has 3 straight sides and 3 corners. Which 2D shape is the flag?
+{user_name} is helping {uncle_name} make a small paper flag for a kite. The flag has 3 straight sides and 3 corners. Which 2D shape is the flag?
+{user_name} is helping {aunt_name} make a small paper flag for a kite. The flag has 3 straight sides and 3 corners. Which 2D shape is the flag?
+{user_name} is helping {grandfather_name} attach a carriage to a toy train. The carriage has rectangular faces and is longer than it is tall. Which 3D shape does the carriage look like?
+{user_name} is helping {grandmother_name} attach a carriage to a toy train. The carriage has rectangular faces and is longer than it is tall. Which 3D shape does the carriage look like?
+{user_name} is helping {father_name} attach a carriage to a toy train. The carriage has rectangular faces and is longer than it is tall. Which 3D shape does the carriage look like?
+{user_name} is helping {mother_name} attach a carriage to a toy train. The carriage has rectangular faces and is longer than it is tall. Which 3D shape does the carriage look like?
+{user_name} is helping {sister_name} attach a carriage to a toy train. The carriage has rectangular faces and is longer than it is tall. Which 3D shape does the carriage look like?
+{user_name} is helping {uncle_name} attach a carriage to a toy train. The carriage has rectangular faces and is longer than it is tall. Which 3D shape does the carriage look like?
+{user_name} is helping {aunt_name} attach a carriage to a toy train. The carriage has rectangular faces and is longer than it is tall. Which 3D shape does the carriage look like?
+{user_name} is helping {grandfather_name} build a toy robot. The robot has a head with 6 equal square faces. Which 3D shape matches the robot's head?
+{user_name} is helping {grandmother_name} build a toy robot. The robot has a head with 6 equal square faces. Which 3D shape matches the robot's head?
+{user_name} is helping {father_name} build a toy robot. The robot has a head with 6 equal square faces. Which 3D shape matches the robot's head?
+{user_name} is helping {mother_name} build a toy robot. The robot has a head with 6 equal square faces. Which 3D shape matches the robot's head?
+{user_name} is helping {sister_name} build a toy robot. The robot has a head with 6 equal square faces. Which 3D shape matches the robot's head?
+{user_name} is helping {uncle_name} build a toy robot. The robot has a head with 6 equal square faces. Which 3D shape matches the robot's head?
+{user_name} is helping {aunt_name} build a toy robot. The robot has a head with 6 equal square faces. Which 3D shape matches the robot's head?
+{user_name} is helping {grandfather_name} explore a model planet. The model is round all over and has no corners or straight edges. Which 3D shape does the model planet match?
+{user_name} is helping {grandmother_name} explore a model planet. The model is round all over and has no corners or straight edges. Which 3D shape does the model planet match?
+{user_name} is helping {father_name} explore a model planet. The model is round all over and has no corners or straight edges. Which 3D shape does the model planet match?
+{user_name} is helping {mother_name} explore a model planet. The model is round all over and has no corners or straight edges. Which 3D shape does the model planet match?
+{user_name} is helping {sister_name} explore a model planet. The model is round all over and has no corners or straight edges. Which 3D shape does the model planet match?
+{user_name} is helping {uncle_name} explore a model planet. The model is round all over and has no corners or straight edges. Which 3D shape does the model planet match?
+{user_name} is helping {aunt_name} explore a model planet. The model is round all over and has no corners or straight edges. Which 3D shape does the model planet match?
+{user_name} is helping {grandfather_name} arrange toy dinosaurs in a play garden. They place 1 toy dinosaur between 2 toy trees. Where is the dinosaur?
+{user_name} is helping {grandmother_name} arrange toy dinosaurs in a play garden. They place 1 toy dinosaur between 2 toy trees. Where is the dinosaur?
+{user_name} is helping {father_name} arrange toy dinosaurs in a play garden. They place 1 toy dinosaur between 2 toy trees. Where is the dinosaur?
+{user_name} is helping {mother_name} arrange toy dinosaurs in a play garden. They place 1 toy dinosaur between 2 toy trees. Where is the dinosaur?
+{user_name} is helping {sister_name} arrange toy dinosaurs in a play garden. They place 1 toy dinosaur between 2 toy trees. Where is the dinosaur?
+{user_name} is helping {uncle_name} arrange toy dinosaurs in a play garden. They place 1 toy dinosaur between 2 toy trees. Where is the dinosaur?
+{user_name} is helping {aunt_name} arrange toy dinosaurs in a play garden. They place 1 toy dinosaur between 2 toy trees. Where is the dinosaur?
+{user_name} is helping {grandfather_name} play with a toy car. They push the car into a toy tunnel until the whole car is inside. Where is the car?
+{user_name} is helping {grandmother_name} play with a toy car. They push the car into a toy tunnel until the whole car is inside. Where is the car?
+{user_name} is helping {father_name} play with a toy car. They push the car into a toy tunnel until the whole car is inside. Where is the car?
+{user_name} is helping {mother_name} play with a toy car. They push the car into a toy tunnel until the whole car is inside. Where is the car?
+{user_name} is helping {sister_name} play with a toy car. They push the car into a toy tunnel until the whole car is inside. Where is the car?
+{user_name} is helping {uncle_name} play with a toy car. They push the car into a toy tunnel until the whole car is inside. Where is the car?
+{user_name} is helping {aunt_name} play with a toy car. They push the car into a toy tunnel until the whole car is inside. Where is the car?
+{user_name} is helping {grandfather_name} turn a toy astronaut. The astronaut starts facing left. {grandfather_name} turns it one quarter turn clockwise. Which direction does the astronaut face now?
+{user_name} is helping {grandmother_name} turn a toy astronaut. The astronaut starts facing left. {grandmother_name} turns it one quarter turn clockwise. Which direction does the astronaut face now?
+{user_name} is helping {father_name} turn a toy astronaut. The astronaut starts facing left. {father_name} turns it one quarter turn clockwise. Which direction does the astronaut face now?
+{user_name} is helping {mother_name} turn a toy astronaut. The astronaut starts facing left. {mother_name} turns it one quarter turn clockwise. Which direction does the astronaut face now?
+{user_name} is helping {sister_name} turn a toy astronaut. The astronaut starts facing left. {sister_name} turns it one quarter turn clockwise. Which direction does the astronaut face now?
+{user_name} is helping {uncle_name} turn a toy astronaut. The astronaut starts facing left. {uncle_name} turns it one quarter turn clockwise. Which direction does the astronaut face now?
+{user_name} is helping {aunt_name} turn a toy astronaut. The astronaut starts facing left. {aunt_name} turns it one quarter turn clockwise. Which direction does the astronaut face now?
+{user_name} is helping {grandfather_name} move a toy skateboard along the floor. They push it to the left. In which direction does the skateboard move?
+{user_name} is helping {grandmother_name} move a toy skateboard along the floor. They push it to the left. In which direction does the skateboard move?
+{user_name} is helping {father_name} move a toy skateboard along the floor. They push it to the left. In which direction does the skateboard move?
+{user_name} is helping {mother_name} move a toy skateboard along the floor. They push it to the left. In which direction does the skateboard move?
+{user_name} is helping {sister_name} move a toy skateboard along the floor. They push it to the left. In which direction does the skateboard move?
+{user_name} is helping {uncle_name} move a toy skateboard along the floor. They push it to the left. In which direction does the skateboard move?
+{user_name} is helping {aunt_name} move a toy skateboard along the floor. They push it to the left. In which direction does the skateboard move?
+{user_name} is helping {grandfather_name} arrange toy vehicles. They place 1 toy plane on a shelf directly above 1 toy garage. Where is the toy plane in relation to the garage?
+{user_name} is helping {grandmother_name} arrange toy vehicles. They place 1 toy plane on a shelf directly above 1 toy garage. Where is the toy plane in relation to the garage?
+{user_name} is helping {father_name} arrange toy vehicles. They place 1 toy plane on a shelf directly above 1 toy garage. Where is the toy plane in relation to the garage?
+{user_name} is helping {mother_name} arrange toy vehicles. They place 1 toy plane on a shelf directly above 1 toy garage. Where is the toy plane in relation to the garage?
+{user_name} is helping {sister_name} arrange toy vehicles. They place 1 toy plane on a shelf directly above 1 toy garage. Where is the toy plane in relation to the garage?
+{user_name} is helping {uncle_name} arrange toy vehicles. They place 1 toy plane on a shelf directly above 1 toy garage. Where is the toy plane in relation to the garage?
+{user_name} is helping {aunt_name} arrange toy vehicles. They place 1 toy plane on a shelf directly above 1 toy garage. Where is the toy plane in relation to the garage?
+{user_name} is helping {grandfather_name} identify road signs. They see a sign with 3 straight sides and 3 corners. Which 2D shape matches the sign?
+{user_name} is helping {grandmother_name} identify road signs. They see a sign with 3 straight sides and 3 corners. Which 2D shape matches the sign?
+{user_name} is helping {father_name} identify road signs. They see a sign with 3 straight sides and 3 corners. Which 2D shape matches the sign?
+{user_name} is helping {mother_name} identify road signs. They see a sign with 3 straight sides and 3 corners. Which 2D shape matches the sign?
+{user_name} is helping {brother_name} identify road signs. They see a sign with 3 straight sides and 3 corners. Which 2D shape matches the sign?
+{user_name} is helping {uncle_name} identify road signs. They see a sign with 3 straight sides and 3 corners. Which 2D shape matches the sign?
+{user_name} is helping {aunt_name} identify road signs. They see a sign with 3 straight sides and 3 corners. Which 2D shape matches the sign?
+{user_name} is helping {grandfather_name} choose a tablet. They look at its screen, which has 2 long sides and 2 short sides. Which 2D shape matches the screen?
+{user_name} is helping {grandmother_name} choose a tablet. They look at its screen, which has 2 long sides and 2 short sides. Which 2D shape matches the screen?
+{user_name} is helping {father_name} choose a tablet. They look at its screen, which has 2 long sides and 2 short sides. Which 2D shape matches the screen?
+{user_name} is helping {mother_name} choose a tablet. They look at its screen, which has 2 long sides and 2 short sides. Which 2D shape matches the screen?
+{user_name} is helping {brother_name} choose a tablet. They look at its screen, which has 2 long sides and 2 short sides. Which 2D shape matches the screen?
+{user_name} is helping {uncle_name} choose a tablet. They look at its screen, which has 2 long sides and 2 short sides. Which 2D shape matches the screen?
+{user_name} is helping {aunt_name} choose a tablet. They look at its screen, which has 2 long sides and 2 short sides. Which 2D shape matches the screen?
+{user_name} is helping {grandfather_name} solve a shape puzzle. They turn a triangular puzzle piece upside down. What shape is the piece still?
+{user_name} is helping {grandmother_name} solve a shape puzzle. They turn a triangular puzzle piece upside down. What shape is the piece still?
+{user_name} is helping {father_name} solve a shape puzzle. They turn a triangular puzzle piece upside down. What shape is the piece still?
+{user_name} is helping {mother_name} solve a shape puzzle. They turn a triangular puzzle piece upside down. What shape is the piece still?
+{user_name} is helping {brother_name} solve a shape puzzle. They turn a triangular puzzle piece upside down. What shape is the piece still?
+{user_name} is helping {uncle_name} solve a shape puzzle. They turn a triangular puzzle piece upside down. What shape is the piece still?
+{user_name} is helping {aunt_name} solve a shape puzzle. They turn a triangular puzzle piece upside down. What shape is the piece still?
+{user_name} is helping {grandfather_name} wrap a present. They have 1 gift box with 6 equal square faces. Which 3D shape matches the gift box?
+{user_name} is helping {grandmother_name} wrap a present. They have 1 gift box with 6 equal square faces. Which 3D shape matches the gift box?
+{user_name} is helping {father_name} wrap a present. They have 1 gift box with 6 equal square faces. Which 3D shape matches the gift box?
+{user_name} is helping {mother_name} wrap a present. They have 1 gift box with 6 equal square faces. Which 3D shape matches the gift box?
+{user_name} is helping {brother_name} wrap a present. They have 1 gift box with 6 equal square faces. Which 3D shape matches the gift box?
+{user_name} is helping {uncle_name} wrap a present. They have 1 gift box with 6 equal square faces. Which 3D shape matches the gift box?
+{user_name} is helping {aunt_name} wrap a present. They have 1 gift box with 6 equal square faces. Which 3D shape matches the gift box?
+{user_name} is helping {grandfather_name} make a necklace. They choose 1 round bead that is curved all over and has no corners or straight edges. Which 3D shape does the bead match?
+{user_name} is helping {grandmother_name} make a necklace. They choose 1 round bead that is curved all over and has no corners or straight edges. Which 3D shape does the bead match?
+{user_name} is helping {father_name} make a necklace. They choose 1 round bead that is curved all over and has no corners or straight edges. Which 3D shape does the bead match?
+{user_name} is helping {mother_name} make a necklace. They choose 1 round bead that is curved all over and has no corners or straight edges. Which 3D shape does the bead match?
+{user_name} is helping {brother_name} make a necklace. They choose 1 round bead that is curved all over and has no corners or straight edges. Which 3D shape does the bead match?
+{user_name} is helping {uncle_name} make a necklace. They choose 1 round bead that is curved all over and has no corners or straight edges. Which 3D shape does the bead match?
+{user_name} is helping {aunt_name} make a necklace. They choose 1 round bead that is curved all over and has no corners or straight edges. Which 3D shape does the bead match?
+{user_name} is helping {grandfather_name} fly a kite. A cloud is directly above the kite. What is above the kite?
+{user_name} is helping {grandmother_name} fly a kite. A cloud is directly above the kite. What is above the kite?
+{user_name} is helping {father_name} fly a kite. A cloud is directly above the kite. What is above the kite?
+{user_name} is helping {mother_name} fly a kite. A cloud is directly above the kite. What is above the kite?
+{user_name} is helping {brother_name} fly a kite. A cloud is directly above the kite. What is above the kite?
+{user_name} is helping {uncle_name} fly a kite. A cloud is directly above the kite. What is above the kite?
+{user_name} is helping {aunt_name} fly a kite. A cloud is directly above the kite. What is above the kite?
+{user_name} is helping {grandfather_name} find a toy dog. The toy dog is hidden behind a garden gate. Where is the toy dog?
+{user_name} is helping {grandmother_name} find a toy dog. The toy dog is hidden behind a garden gate. Where is the toy dog?
+{user_name} is helping {father_name} find a toy dog. The toy dog is hidden behind a garden gate. Where is the toy dog?
+{user_name} is helping {mother_name} find a toy dog. The toy dog is hidden behind a garden gate. Where is the toy dog?
+{user_name} is helping {brother_name} find a toy dog. The toy dog is hidden behind a garden gate. Where is the toy dog?
+{user_name} is helping {uncle_name} find a toy dog. The toy dog is hidden behind a garden gate. Where is the toy dog?
+{user_name} is helping {aunt_name} find a toy dog. The toy dog is hidden behind a garden gate. Where is the toy dog?
+{user_name} is helping {grandfather_name} play with a bead and a string loop. They place the bead inside the closed loop. Where is the bead?
+{user_name} is helping {grandmother_name} play with a bead and a string loop. They place the bead inside the closed loop. Where is the bead?
+{user_name} is helping {father_name} play with a bead and a string loop. They place the bead inside the closed loop. Where is the bead?
+{user_name} is helping {mother_name} play with a bead and a string loop. They place the bead inside the closed loop. Where is the bead?
+{user_name} is helping {brother_name} play with a bead and a string loop. They place the bead inside the closed loop. Where is the bead?
+{user_name} is helping {uncle_name} play with a bead and a string loop. They place the bead inside the closed loop. Where is the bead?
+{user_name} is helping {aunt_name} play with a bead and a string loop. They place the bead inside the closed loop. Where is the bead?
+{user_name} is helping {grandfather_name} practise directions using a paper arrow. The arrow starts by pointing right. They turn it one quarter turn anticlockwise. Which direction does the arrow face now?
+{user_name} is helping {grandmother_name} practise directions using a paper arrow. The arrow starts by pointing right. They turn it one quarter turn anticlockwise. Which direction does the arrow face now?
+{user_name} is helping {father_name} practise directions using a paper arrow. The arrow starts by pointing right. They turn it one quarter turn anticlockwise. Which direction does the arrow face now?
+{user_name} is helping {mother_name} practise directions using a paper arrow. The arrow starts by pointing right. They turn it one quarter turn anticlockwise. Which direction does the arrow face now?
+{user_name} is helping {brother_name} practise directions using a paper arrow. The arrow starts by pointing right. They turn it one quarter turn anticlockwise. Which direction does the arrow face now?
+{user_name} is helping {uncle_name} practise directions using a paper arrow. The arrow starts by pointing right. They turn it one quarter turn anticlockwise. Which direction does the arrow face now?
+{user_name} is helping {aunt_name} practise directions using a paper arrow. The arrow starts by pointing right. They turn it one quarter turn anticlockwise. Which direction does the arrow face now?
+{user_name} is helping {grandfather_name} move a toy boat across a pretend pond. The boat is facing right, and they move it forwards in the direction it is facing. Which way does the boat move?
+{user_name} is helping {grandmother_name} move a toy boat across a pretend pond. The boat is facing right, and they move it forwards in the direction it is facing. Which way does the boat move?
+{user_name} is helping {father_name} move a toy boat across a pretend pond. The boat is facing right, and they move it forwards in the direction it is facing. Which way does the boat move?
+{user_name} is helping {mother_name} move a toy boat across a pretend pond. The boat is facing right, and they move it forwards in the direction it is facing. Which way does the boat move?
+{user_name} is helping {brother_name} move a toy boat across a pretend pond. The boat is facing right, and they move it forwards in the direction it is facing. Which way does the boat move?
+{user_name} is helping {uncle_name} move a toy boat across a pretend pond. The boat is facing right, and they move it forwards in the direction it is facing. Which way does the boat move?
+{user_name} is helping {aunt_name} move a toy boat across a pretend pond. The boat is facing right, and they move it forwards in the direction it is facing. Which way does the boat move?
+{user_name} is helping {grandfather_name} compare two triangular decorations. One is small and points up, while the other is large and points sideways. What 2D shape are both decorations?
+{user_name} is helping {grandmother_name} compare two triangular decorations. One is small and points up, while the other is large and points sideways. What 2D shape are both decorations?
+{user_name} is helping {father_name} compare two triangular decorations. One is small and points up, while the other is large and points sideways. What 2D shape are both decorations?
+{user_name} is helping {mother_name} compare two triangular decorations. One is small and points up, while the other is large and points sideways. What 2D shape are both decorations?
+{user_name} is helping {brother_name} compare two triangular decorations. One is small and points up, while the other is large and points sideways. What 2D shape are both decorations?
+{user_name} is helping {sister_name} compare two triangular decorations. One is small and points up, while the other is large and points sideways. What 2D shape are both decorations?
+{user_name} is helping {aunt_name} compare two triangular decorations. One is small and points up, while the other is large and points sideways. What 2D shape are both decorations?
+{user_name} is helping {grandfather_name} arrange a postcard. They turn the rectangular postcard upright so its long sides point up and down. What 2D shape is the postcard still?
+{user_name} is helping {grandmother_name} arrange a postcard. They turn the rectangular postcard upright so its long sides point up and down. What 2D shape is the postcard still?
+{user_name} is helping {father_name} arrange a postcard. They turn the rectangular postcard upright so its long sides point up and down. What 2D shape is the postcard still?
+{user_name} is helping {mother_name} arrange a postcard. They turn the rectangular postcard upright so its long sides point up and down. What 2D shape is the postcard still?
+{user_name} is helping {brother_name} arrange a postcard. They turn the rectangular postcard upright so its long sides point up and down. What 2D shape is the postcard still?
+{user_name} is helping {sister_name} arrange a postcard. They turn the rectangular postcard upright so its long sides point up and down. What 2D shape is the postcard still?
+{user_name} is helping {aunt_name} arrange a postcard. They turn the rectangular postcard upright so its long sides point up and down. What 2D shape is the postcard still?
+{user_name} is helping {grandfather_name} hang a round hoop on a wall. When they look at the hoop from the front, what 2D shape does its outline make?
+{user_name} is helping {grandmother_name} hang a round hoop on a wall. When they look at the hoop from the front, what 2D shape does its outline make?
+{user_name} is helping {father_name} hang a round hoop on a wall. When they look at the hoop from the front, what 2D shape does its outline make?
+{user_name} is helping {mother_name} hang a round hoop on a wall. When they look at the hoop from the front, what 2D shape does its outline make?
+{user_name} is helping {brother_name} hang a round hoop on a wall. When they look at the hoop from the front, what 2D shape does its outline make?
+{user_name} is helping {sister_name} hang a round hoop on a wall. When they look at the hoop from the front, what 2D shape does its outline make?
+{user_name} is helping {aunt_name} hang a round hoop on a wall. When they look at the hoop from the front, what 2D shape does its outline make?
+{user_name} is helping {grandfather_name} organise a toolbox. The toolbox has flat rectangular faces and is longer than it is wide. Which 3D shape does the toolbox match?
+{user_name} is helping {grandmother_name} organise a toolbox. The toolbox has flat rectangular faces and is longer than it is wide. Which 3D shape does the toolbox match?
+{user_name} is helping {father_name} organise a toolbox. The toolbox has flat rectangular faces and is longer than it is wide. Which 3D shape does the toolbox match?
+{user_name} is helping {mother_name} organise a toolbox. The toolbox has flat rectangular faces and is longer than it is wide. Which 3D shape does the toolbox match?
+{user_name} is helping {brother_name} organise a toolbox. The toolbox has flat rectangular faces and is longer than it is wide. Which 3D shape does the toolbox match?
+{user_name} is helping {sister_name} organise a toolbox. The toolbox has flat rectangular faces and is longer than it is wide. Which 3D shape does the toolbox match?
+{user_name} is helping {aunt_name} organise a toolbox. The toolbox has flat rectangular faces and is longer than it is wide. Which 3D shape does the toolbox match?
+{user_name} is helping {grandfather_name} decorate the garden. They place a round garden ornament on the ground. The ornament has a curved surface and no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {grandmother_name} decorate the garden. They place a round garden ornament on the ground. The ornament has a curved surface and no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {father_name} decorate the garden. They place a round garden ornament on the ground. The ornament has a curved surface and no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {mother_name} decorate the garden. They place a round garden ornament on the ground. The ornament has a curved surface and no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {brother_name} decorate the garden. They place a round garden ornament on the ground. The ornament has a curved surface and no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {sister_name} decorate the garden. They place a round garden ornament on the ground. The ornament has a curved surface and no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {aunt_name} decorate the garden. They place a round garden ornament on the ground. The ornament has a curved surface and no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {grandfather_name} pitch a pyramid-shaped tent. The tent has a square base and 4 triangular faces that meet at one point. Which 3D shape does the tent match?
+{user_name} is helping {grandmother_name} pitch a pyramid-shaped tent. The tent has a square base and 4 triangular faces that meet at one point. Which 3D shape does the tent match?
+{user_name} is helping {father_name} pitch a pyramid-shaped tent. The tent has a square base and 4 triangular faces that meet at one point. Which 3D shape does the tent match?
+{user_name} is helping {mother_name} pitch a pyramid-shaped tent. The tent has a square base and 4 triangular faces that meet at one point. Which 3D shape does the tent match?
+{user_name} is helping {brother_name} pitch a pyramid-shaped tent. The tent has a square base and 4 triangular faces that meet at one point. Which 3D shape does the tent match?
+{user_name} is helping {sister_name} pitch a pyramid-shaped tent. The tent has a square base and 4 triangular faces that meet at one point. Which 3D shape does the tent match?
+{user_name} is helping {aunt_name} pitch a pyramid-shaped tent. The tent has a square base and 4 triangular faces that meet at one point. Which 3D shape does the tent match?
+{user_name} is helping {grandfather_name} prepare to paint. They place a paintbrush near a paint pot and a ruler far away from the paint pot. Which object is near the paint pot?
+{user_name} is helping {grandmother_name} prepare to paint. They place a paintbrush near a paint pot and a ruler far away from the paint pot. Which object is near the paint pot?
+{user_name} is helping {father_name} prepare to paint. They place a paintbrush near a paint pot and a ruler far away from the paint pot. Which object is near the paint pot?
+{user_name} is helping {mother_name} prepare to paint. They place a paintbrush near a paint pot and a ruler far away from the paint pot. Which object is near the paint pot?
+{user_name} is helping {brother_name} prepare to paint. They place a paintbrush near a paint pot and a ruler far away from the paint pot. Which object is near the paint pot?
+{user_name} is helping {sister_name} prepare to paint. They place a paintbrush near a paint pot and a ruler far away from the paint pot. Which object is near the paint pot?
+{user_name} is helping {aunt_name} prepare to paint. They place a paintbrush near a paint pot and a ruler far away from the paint pot. Which object is near the paint pot?
+{user_name} is helping {grandfather_name} tidy a room. They place an umbrella directly below a wall shelf. Where is the umbrella?
+{user_name} is helping {grandmother_name} tidy a room. They place an umbrella directly below a wall shelf. Where is the umbrella?
+{user_name} is helping {father_name} tidy a room. They place an umbrella directly below a wall shelf. Where is the umbrella?
+{user_name} is helping {mother_name} tidy a room. They place an umbrella directly below a wall shelf. Where is the umbrella?
+{user_name} is helping {brother_name} tidy a room. They place an umbrella directly below a wall shelf. Where is the umbrella?
+{user_name} is helping {sister_name} tidy a room. They place an umbrella directly below a wall shelf. Where is the umbrella?
+{user_name} is helping {aunt_name} tidy a room. They place an umbrella directly below a wall shelf. Where is the umbrella?
+{user_name} is helping {grandfather_name} launch a toy rocket along a straight vertical track. The rocket moves from the bottom towards the top. Which direction is the rocket moving?
+{user_name} is helping {grandmother_name} launch a toy rocket along a straight vertical track. The rocket moves from the bottom towards the top. Which direction is the rocket moving?
+{user_name} is helping {father_name} launch a toy rocket along a straight vertical track. The rocket moves from the bottom towards the top. Which direction is the rocket moving?
+{user_name} is helping {mother_name} launch a toy rocket along a straight vertical track. The rocket moves from the bottom towards the top. Which direction is the rocket moving?
+{user_name} is helping {brother_name} launch a toy rocket along a straight vertical track. The rocket moves from the bottom towards the top. Which direction is the rocket moving?
+{user_name} is helping {sister_name} launch a toy rocket along a straight vertical track. The rocket moves from the bottom towards the top. Which direction is the rocket moving?
+{user_name} is helping {aunt_name} launch a toy rocket along a straight vertical track. The rocket moves from the bottom towards the top. Which direction is the rocket moving?
+{user_name} is helping {grandfather_name} practise turns with a toy robot. The robot starts facing left. {grandfather_name} turns it one quarter turn anticlockwise. Which direction does the robot face now?
+{user_name} is helping {grandmother_name} practise turns with a toy robot. The robot starts facing left. {grandmother_name} turns it one quarter turn anticlockwise. Which direction does the robot face now?
+{user_name} is helping {father_name} practise turns with a toy robot. The robot starts facing left. {father_name} turns it one quarter turn anticlockwise. Which direction does the robot face now?
+{user_name} is helping {mother_name} practise turns with a toy robot. The robot starts facing left. {mother_name} turns it one quarter turn anticlockwise. Which direction does the robot face now?
+{user_name} is helping {brother_name} practise turns with a toy robot. The robot starts facing left. {brother_name} turns it one quarter turn anticlockwise. Which direction does the robot face now?
+{user_name} is helping {sister_name} practise turns with a toy robot. The robot starts facing left. {sister_name} turns it one quarter turn anticlockwise. Which direction does the robot face now?
+{user_name} is helping {aunt_name} practise turns with a toy robot. The robot starts facing left. {aunt_name} turns it one quarter turn anticlockwise. Which direction does the robot face now?
+{user_name} is helping {grandfather_name} make a birdhouse. The roof panel has 3 straight sides and 3 corners. Which 2D shape is the roof panel?
+{user_name} is helping {grandmother_name} make a birdhouse. The roof panel has 3 straight sides and 3 corners. Which 2D shape is the roof panel?
+{user_name} is helping {father_name} make a birdhouse. The roof panel has 3 straight sides and 3 corners. Which 2D shape is the roof panel?
+{user_name} is helping {mother_name} make a birdhouse. The roof panel has 3 straight sides and 3 corners. Which 2D shape is the roof panel?
+{user_name} is helping {brother_name} make a birdhouse. The roof panel has 3 straight sides and 3 corners. Which 2D shape is the roof panel?
+{user_name} is helping {sister_name} make a birdhouse. The roof panel has 3 straight sides and 3 corners. Which 2D shape is the roof panel?
+{user_name} is helping {uncle_name} make a birdhouse. The roof panel has 3 straight sides and 3 corners. Which 2D shape is the roof panel?
+{user_name} is helping {grandfather_name} choose a button for a coat. The button has a round outline with no corners. Which 2D shape matches the front of the button?
+{user_name} is helping {grandmother_name} choose a button for a coat. The button has a round outline with no corners. Which 2D shape matches the front of the button?
+{user_name} is helping {father_name} choose a button for a coat. The button has a round outline with no corners. Which 2D shape matches the front of the button?
+{user_name} is helping {mother_name} choose a button for a coat. The button has a round outline with no corners. Which 2D shape matches the front of the button?
+{user_name} is helping {brother_name} choose a button for a coat. The button has a round outline with no corners. Which 2D shape matches the front of the button?
+{user_name} is helping {sister_name} choose a button for a coat. The button has a round outline with no corners. Which 2D shape matches the front of the button?
+{user_name} is helping {uncle_name} choose a button for a coat. The button has a round outline with no corners. Which 2D shape matches the front of the button?
+{user_name} is helping {grandfather_name} fold a handkerchief. The handkerchief has 4 equal straight sides and 4 corners. Which 2D shape is it?
+{user_name} is helping {grandmother_name} fold a handkerchief. The handkerchief has 4 equal straight sides and 4 corners. Which 2D shape is it?
+{user_name} is helping {father_name} fold a handkerchief. The handkerchief has 4 equal straight sides and 4 corners. Which 2D shape is it?
+{user_name} is helping {mother_name} fold a handkerchief. The handkerchief has 4 equal straight sides and 4 corners. Which 2D shape is it?
+{user_name} is helping {brother_name} fold a handkerchief. The handkerchief has 4 equal straight sides and 4 corners. Which 2D shape is it?
+{user_name} is helping {sister_name} fold a handkerchief. The handkerchief has 4 equal straight sides and 4 corners. Which 2D shape is it?
+{user_name} is helping {uncle_name} fold a handkerchief. The handkerchief has 4 equal straight sides and 4 corners. Which 2D shape is it?
+{user_name} is helping {grandfather_name} hang a mirror in the hallway. The mirror has 2 long sides and 2 short sides. Which 2D shape matches the mirror's outline?
+{user_name} is helping {grandmother_name} hang a mirror in the hallway. The mirror has 2 long sides and 2 short sides. Which 2D shape matches the mirror's outline?
+{user_name} is helping {father_name} hang a mirror in the hallway. The mirror has 2 long sides and 2 short sides. Which 2D shape matches the mirror's outline?
+{user_name} is helping {mother_name} hang a mirror in the hallway. The mirror has 2 long sides and 2 short sides. Which 2D shape matches the mirror's outline?
+{user_name} is helping {brother_name} hang a mirror in the hallway. The mirror has 2 long sides and 2 short sides. Which 2D shape matches the mirror's outline?
+{user_name} is helping {sister_name} hang a mirror in the hallway. The mirror has 2 long sides and 2 short sides. Which 2D shape matches the mirror's outline?
+{user_name} is helping {uncle_name} hang a mirror in the hallway. The mirror has 2 long sides and 2 short sides. Which 2D shape matches the mirror's outline?
+{user_name} is helping {grandfather_name} pack a suitcase. The suitcase has flat rectangular faces and is longer than it is wide. Which 3D shape does the suitcase match?
+{user_name} is helping {grandmother_name} pack a suitcase. The suitcase has flat rectangular faces and is longer than it is wide. Which 3D shape does the suitcase match?
+{user_name} is helping {father_name} pack a suitcase. The suitcase has flat rectangular faces and is longer than it is wide. Which 3D shape does the suitcase match?
+{user_name} is helping {mother_name} pack a suitcase. The suitcase has flat rectangular faces and is longer than it is wide. Which 3D shape does the suitcase match?
+{user_name} is helping {brother_name} pack a suitcase. The suitcase has flat rectangular faces and is longer than it is wide. Which 3D shape does the suitcase match?
+{user_name} is helping {sister_name} pack a suitcase. The suitcase has flat rectangular faces and is longer than it is wide. Which 3D shape does the suitcase match?
+{user_name} is helping {uncle_name} pack a suitcase. The suitcase has flat rectangular faces and is longer than it is wide. Which 3D shape does the suitcase match?
+{user_name} is helping {grandfather_name} blow up a balloon. The balloon is round all over and has no corners or straight edges. Which 3D shape does the balloon match?
+{user_name} is helping {grandmother_name} blow up a balloon. The balloon is round all over and has no corners or straight edges. Which 3D shape does the balloon match?
+{user_name} is helping {father_name} blow up a balloon. The balloon is round all over and has no corners or straight edges. Which 3D shape does the balloon match?
+{user_name} is helping {mother_name} blow up a balloon. The balloon is round all over and has no corners or straight edges. Which 3D shape does the balloon match?
+{user_name} is helping {brother_name} blow up a balloon. The balloon is round all over and has no corners or straight edges. Which 3D shape does the balloon match?
+{user_name} is helping {sister_name} blow up a balloon. The balloon is round all over and has no corners or straight edges. Which 3D shape does the balloon match?
+{user_name} is helping {uncle_name} blow up a balloon. The balloon is round all over and has no corners or straight edges. Which 3D shape does the balloon match?
+{user_name} is helping {grandfather_name} make a solid pyramid pendant. The pendant has a square base and triangular faces that meet at one point. Which 3D shape is the pendant?
+{user_name} is helping {grandmother_name} make a solid pyramid pendant. The pendant has a square base and triangular faces that meet at one point. Which 3D shape is the pendant?
+{user_name} is helping {father_name} make a solid pyramid pendant. The pendant has a square base and triangular faces that meet at one point. Which 3D shape is the pendant?
+{user_name} is helping {mother_name} make a solid pyramid pendant. The pendant has a square base and triangular faces that meet at one point. Which 3D shape is the pendant?
+{user_name} is helping {brother_name} make a solid pyramid pendant. The pendant has a square base and triangular faces that meet at one point. Which 3D shape is the pendant?
+{user_name} is helping {sister_name} make a solid pyramid pendant. The pendant has a square base and triangular faces that meet at one point. Which 3D shape is the pendant?
+{user_name} is helping {uncle_name} make a solid pyramid pendant. The pendant has a square base and triangular faces that meet at one point. Which 3D shape is the pendant?
+{user_name} is helping {grandfather_name} tidy the bedroom. They place 1 scarf completely inside an open wardrobe. Where is the scarf?
+{user_name} is helping {grandmother_name} tidy the bedroom. They place 1 scarf completely inside an open wardrobe. Where is the scarf?
+{user_name} is helping {father_name} tidy the bedroom. They place 1 scarf completely inside an open wardrobe. Where is the scarf?
+{user_name} is helping {mother_name} tidy the bedroom. They place 1 scarf completely inside an open wardrobe. Where is the scarf?
+{user_name} is helping {brother_name} tidy the bedroom. They place 1 scarf completely inside an open wardrobe. Where is the scarf?
+{user_name} is helping {sister_name} tidy the bedroom. They place 1 scarf completely inside an open wardrobe. Where is the scarf?
+{user_name} is helping {uncle_name} tidy the bedroom. They place 1 scarf completely inside an open wardrobe. Where is the scarf?
+{user_name} is helping {grandfather_name} tidy the living room. They place 1 bag behind a chair. Where is the bag?
+{user_name} is helping {grandmother_name} tidy the living room. They place 1 bag behind a chair. Where is the bag?
+{user_name} is helping {father_name} tidy the living room. They place 1 bag behind a chair. Where is the bag?
+{user_name} is helping {mother_name} tidy the living room. They place 1 bag behind a chair. Where is the bag?
+{user_name} is helping {brother_name} tidy the living room. They place 1 bag behind a chair. Where is the bag?
+{user_name} is helping {sister_name} tidy the living room. They place 1 bag behind a chair. Where is the bag?
+{user_name} is helping {uncle_name} tidy the living room. They place 1 bag behind a chair. Where is the bag?
+{user_name} is helping {grandfather_name} learn about turns using a toy windmill. One blade starts by pointing up. They turn the windmill one quarter turn clockwise. Which direction does that blade point now?
+{user_name} is helping {grandmother_name} learn about turns using a toy windmill. One blade starts by pointing up. They turn the windmill one quarter turn clockwise. Which direction does that blade point now?
+{user_name} is helping {father_name} learn about turns using a toy windmill. One blade starts by pointing up. They turn the windmill one quarter turn clockwise. Which direction does that blade point now?
+{user_name} is helping {mother_name} learn about turns using a toy windmill. One blade starts by pointing up. They turn the windmill one quarter turn clockwise. Which direction does that blade point now?
+{user_name} is helping {brother_name} learn about turns using a toy windmill. One blade starts by pointing up. They turn the windmill one quarter turn clockwise. Which direction does that blade point now?
+{user_name} is helping {sister_name} learn about turns using a toy windmill. One blade starts by pointing up. They turn the windmill one quarter turn clockwise. Which direction does that blade point now?
+{user_name} is helping {uncle_name} learn about turns using a toy windmill. One blade starts by pointing up. They turn the windmill one quarter turn clockwise. Which direction does that blade point now?

@@ -1,0 +1,9 @@
+title: Picking Strawberries with Grandmother
+question_text:
+{user_name} and {grandmother_name} are picking fresh strawberries. {user_name} picks 6 strawberries, and {grandmother_name} picks 2 strawberries. How many strawberries did they pick in total?
+options:
+A) 8
+B) 4
+C) 19
+image_prompt:
+Make 6 strawberries in front of {user_name} and 2 strawberries in front of {grandmother_name}.

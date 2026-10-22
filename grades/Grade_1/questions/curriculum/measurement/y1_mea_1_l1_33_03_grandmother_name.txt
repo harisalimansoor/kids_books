@@ -1,0 +1,9 @@
+title: Weighing Parcels with Grandmother
+question_text:
+{user_name} and {grandmother_name} are weighing 2 parcels. One parcel weighs 3 kilograms, and the other weighs 5 kilograms. Which parcel is heavier?
+options:
+A) The parcel that weighs 3 kilograms
+B) Both parcels weigh the same
+C) The parcel that weighs 5 kilograms
+image_prompt:
+Show {user_name} and {grandmother_name} comparing exactly 2 parcels on a suitable balance scale. The side holding the heavier parcel must be lower. No extra parcels, scales, props, text, letters, or numbers.

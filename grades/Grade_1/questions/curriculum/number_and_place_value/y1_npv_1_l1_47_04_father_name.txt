@@ -1,0 +1,9 @@
+title: Ordering Race Cars with Father
+question_text:
+{user_name} helps {father_name} arrange the numbers 12, 27, and 19 from smallest to largest. Which number should come last?
+options:
+A) 19
+B) 27
+C) 12
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 3 blank cards in a row. No printed numbers, letters, extra cards, or other text.

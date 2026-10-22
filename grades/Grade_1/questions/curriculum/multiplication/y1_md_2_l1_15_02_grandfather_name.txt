@@ -1,0 +1,9 @@
+title: Organizing Storybooks with Grandfather
+question_text:
+{user_name} helps {grandfather_name} organize storybooks. They place 3 books on each of 2 reading mats. How many books do they place altogether?
+options:
+A) 4
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {grandfather_name} arranging exactly 2 reading mats, with exactly 3 closed storybooks on each mat. Show exactly 6 books in total. Book covers must be blank, with no extra books, text, letters, or numbers.

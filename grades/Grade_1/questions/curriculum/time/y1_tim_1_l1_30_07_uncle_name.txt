@@ -1,0 +1,9 @@
+title: Cleaning Football Boots with Uncle
+question_text:
+{user_name} is helping {uncle_name} clean their muddy football boots after a match. They remove the mud from the boots before putting them away. What do they do before putting the boots away?
+options:
+A) Clean the muddy boots
+B) Put the boots away
+C) Start another football match
+image_prompt:
+Show {user_name} helping {uncle_name} clean exactly one pair of muddy football boots before putting them away. Clearly show the cleaning step first. No extra boots, duplicate people, text, letters or numbers.

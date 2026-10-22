@@ -1,0 +1,9 @@
+title: Measuring a Cupboard with Father
+question_text:
+{user_name} and {father_name} are measuring a cupboard. The cupboard is 2 metres tall. Which unit is used to measure the cupboard's height?
+options:
+A) Litres
+B) Metres
+C) Kilograms
+image_prompt:
+Show {user_name} and {father_name} measuring exactly 1 cupboard vertically with exactly 1 measuring tape extending from the floor to the top of the cupboard. No extra measuring tools, props, text, letters, or numbers.

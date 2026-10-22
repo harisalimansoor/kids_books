@@ -1,0 +1,9 @@
+title: Measuring Cooking Oil with Sister
+question_text:
+{user_name} and {sister_name} have a container that holds 1 litre of cooking oil. Which unit tells them how much oil the container can hold?
+options:
+A) Centimetres
+B) Kilograms
+C) Litres
+image_prompt:
+Show {user_name} and {sister_name} beside exactly 1 container of cooking oil. Make the container the clear focus of a lesson about liquid capacity. No extra containers, props, text, letters, or numbers.

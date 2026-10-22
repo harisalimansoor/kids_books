@@ -1,0 +1,9 @@
+title: Folding Towels with Mother
+question_text:
+{user_name} helps {mother_name} fold clean towels. They put 3 folded towels in each of 2 baskets. How many towels do they put away altogether?
+options:
+A) 6
+B) 4
+C) 9
+image_prompt:
+Show {user_name} and {mother_name} arranging exactly 2 baskets. Each basket must contain exactly 3 clearly separate folded towels. Show exactly 6 towels in total. No extra towels, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Measuring Flour with Father
+question_text:
+{user_name} and {father_name} have a bag of flour that weighs 2 kilograms. Which unit is used to measure the weight of the flour?
+options:
+A) Metres
+B) Kilograms
+C) Litres
+image_prompt:
+Show {user_name} and {father_name} weighing exactly 1 bag of flour on exactly 1 weighing scale. No extra bags, measuring tools, props, text, letters, or numbers.

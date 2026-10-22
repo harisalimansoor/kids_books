@@ -1,0 +1,9 @@
+title: Arranging Balloons with Uncle
+question_text:
+{user_name} has 8 balloons. {uncle_name} ties 3 balloons to a chair for a party. How many balloons remain with {user_name}?
+options:
+A) 4
+B) 6
+C) 5
+image_prompt:
+Show {user_name} decorating for a party with {uncle_name}. Uncle ties 3 balloons to a chair from a group of 8. Show exactly 5 balloons with the child and 3 tied to the chair. No extra balloons, text, letters, or numbers.

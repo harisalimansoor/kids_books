@@ -1,0 +1,9 @@
+title: Packing Suitcases for a Trip with Aunt
+question_text:
+{user_name} helps {aunt_name} prepare suitcases for a trip. Each of 3 suitcases has 2 visible handles. How many handles do the suitcases have altogether?
+options:
+A) 6
+B) 4
+C) 8
+image_prompt:
+Show {user_name} and {aunt_name} preparing exactly 3 suitcases. Each suitcase must have exactly 2 clearly visible handles. Show exactly 6 handles in total. No extra suitcases or handles, and no text, letters, or numbers.

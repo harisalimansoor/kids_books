@@ -1,0 +1,9 @@
+title: Wrapping a Present with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} wrap a present. They have 1 gift box with 6 equal square faces. Which 3D shape matches the gift box?
+options:
+A) Sphere
+B) Cube
+C) Pyramid
+image_prompt:
+Show {user_name} helping {grandfather_name} examine exactly 1 solid cube-shaped gift box. Make its 6 equal square faces, straight edges and corners clearly visible. Keep the box plain and unwrapped so its shape is easy to recognise. No extra boxes, ribbons, objects, props, text, letters, or numbers.

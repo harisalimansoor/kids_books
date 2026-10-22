@@ -1,0 +1,9 @@
+title: Picking Pears with Aunt
+question_text:
+After gathering pears, {user_name} rinses 5 green pears while {aunt_name} cleans 3 more for their harvest. How many pears have they collected altogether?
+options:
+A) 8
+B) 2
+C) 16
+image_prompt:
+Create a fresh outdoor harvest scene at a rustic orchard washing station. {user_name} is rinsing a small batch of green pears in a shallow basin, while {aunt_name} gently wipes her own pears beside a wooden work surface. Place the child's EXACTLY 5 whole green pears together in one shallow wooden bowl, and Aunt's EXACTLY 3 whole green pears in a separate bowl. The eight pears must be large enough to recognize, fully visible, and arranged so that none overlap or disappear behind the bowl edges. Show the characters focused on cleaning and preparing their harvest rather than posing with fruit. Use soft daylight, subtle orchard greenery, and natural wooden textures to create a cheerful countryside atmosphere. Do not add pears on trees, loose pears on the ground, fruit in baskets, extra fruit in hands, or additional bowls containing fruit. The image must contain exactly 8 countable pears in total. No text, letters, numbers, labels, or written answers.

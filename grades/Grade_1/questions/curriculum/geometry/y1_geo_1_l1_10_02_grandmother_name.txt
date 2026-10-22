@@ -1,0 +1,9 @@
+title: Turning a Pointer with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} practise directions. They start with a pointer facing up and turn it one quarter turn clockwise. Which direction does the pointer face now?
+options:
+A) Up
+B) Right
+C) Down
+image_prompt:
+Show {user_name} helping {grandmother_name} examine exactly 2 pointer diagrams side by side. In the first diagram, the pointer faces straight up. In the second diagram, the pointer faces straight right, showing a quarter turn clockwise. Make both directions clear. No extra diagrams, objects, props, text, letters, or numbers.

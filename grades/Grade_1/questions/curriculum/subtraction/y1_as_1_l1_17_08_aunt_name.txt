@@ -1,0 +1,9 @@
+title: Arranging Books with Aunt
+question_text:
+{user_name} places 9 books on a shelf. {aunt_name} moves 4 books to another shelf. How many books remain on the first shelf?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} arranging books with {aunt_name}. Aunt moves 4 books from a shelf of 9 to another shelf. Show exactly 5 books on the first shelf and 4 on the second. No extra books, text, letters, or numbers.

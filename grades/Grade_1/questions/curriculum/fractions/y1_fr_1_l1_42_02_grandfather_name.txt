@@ -1,0 +1,9 @@
+title: Cutting Craft Felt with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} cut a square piece of craft felt. They divide the square into 4 equal parts. What fraction of the felt is each part?
+options:
+A) One whole
+B) One half
+C) One quarter
+image_prompt:
+Show {user_name} helping {grandfather_name} divide exactly one square piece of craft felt into 4 clearly visible, equal-sized parts. No additional felt pieces, objects, props or people. No text, letters or numbers.

@@ -1,0 +1,9 @@
+title: Sharing Grapes with Uncle
+question_text:
+{user_name} is helping {uncle_name} share grapes for a snack. They divide exactly 8 grapes equally between 2 bowls. What fraction of all the grapes is in one bowl?
+options:
+A) One quarter
+B) One whole
+C) One half
+image_prompt:
+Show {user_name} helping {uncle_name} divide exactly 8 grapes equally between 2 bowls, with exactly 4 grapes in each bowl. No extra grapes, bowls, objects, props, people, text, letters or numbers.

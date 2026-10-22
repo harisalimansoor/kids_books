@@ -1,0 +1,9 @@
+title: Decorating a Model Rocket with Brother
+question_text:
+{user_name} has 9 paper fins for a model rocket. {brother_name} attaches 4 fins to the rocket. How many fins remain unattached?
+options:
+A) 4
+B) 6
+C) 5
+image_prompt:
+Show {user_name} decorating a model rocket with {brother_name}. Brother attaches 4 paper fins from a group of 9. Show exactly 5 unattached fins on the table and 4 attached to the rocket. No extra fins, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Making Fruit Ice Pops with Father
+question_text:
+{user_name} prepares 6 fruit ice pops. {father_name} puts 2 ice pops into the freezer basket. How many ice pops remain outside the basket?
+options:
+A) 3
+B) 5
+C) 4
+image_prompt:
+Show {user_name} preparing fruit ice pops with {father_name}. Father places 2 ice pops from a group of 6 into a freezer basket. Show exactly 4 outside the basket and 2 inside. No extra ice pops, text, letters, or numbers.

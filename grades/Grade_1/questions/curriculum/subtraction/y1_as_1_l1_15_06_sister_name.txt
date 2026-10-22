@@ -1,0 +1,9 @@
+title: Picking Oranges with Sister
+question_text:
+{user_name} picks 8 oranges with {sister_name}. Sister takes 3 oranges to the kitchen. How many oranges remain in the basket?
+options:
+A) 5
+B) 6
+C) 4
+image_prompt:
+Show {user_name} picking oranges with {sister_name}. Sister takes 3 oranges from a basket of 8. Show exactly 5 oranges remaining in the basket and 3 with Sister. No extra oranges, text, letters, or numbers.

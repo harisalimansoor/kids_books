@@ -1,0 +1,9 @@
+title: Counting Nuts and Bolts with Mother
+question_text:
+{user_name} helps {mother_name} arrange 4 groups of 10 bolts and 3 extra bolts. What number do the bolts show altogether?
+options:
+A) 43
+B) 34
+C) 40
+image_prompt:
+Show {user_name} and {mother_name} arranging exactly 43 bolts: 4 groups of 10 bolts each and 3 extra bolts. Keep all bolts visible and countable. No extra bolts, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Serving Watermelon with Uncle
+question_text:
+At a summer picnic, {user_name} arranges 5 watermelon slices on a platter, and {uncle_name} prepares another platter with 4 slices. How many watermelon slices are there altogether?
+options:
+A) 1
+B) 19
+C) 9
+image_prompt:
+Show {user_name} arranging watermelon slices on a picnic table while {uncle_name} sets out a second platter. Include EXACTLY 5 triangular watermelon slices on the child's platter and 4 on the aunt's. All 9 slices must be visible and separate, with no extra watermelon slices.

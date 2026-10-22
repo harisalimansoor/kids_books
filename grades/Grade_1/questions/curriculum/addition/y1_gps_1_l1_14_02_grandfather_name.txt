@@ -1,0 +1,9 @@
+title: Washing Plates with Grandfather
+question_text:
+{user_name} and {grandfather_name} are washing plates after dinner. {user_name} washes 3 plates, and {grandfather_name} washes 5 plates. How many plates did they wash in total?
+options:
+A) 2
+B) 16
+C) 8
+image_prompt:
+Make 3 plates in front of {user_name} and 5 plates in front of {grandfather_name}.

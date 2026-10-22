@@ -1,0 +1,9 @@
+title: Decorating a Shelf with Uncle
+question_text:
+{user_name} is helping {uncle_name} place a solid decoration on a shelf. The decoration has a square base and triangular faces that meet at one point. Which 3D shape is the decoration?
+options:
+A) Pyramid
+B) Cube
+C) Sphere
+image_prompt:
+Show {user_name} helping {uncle_name} place exactly 1 solid square-based pyramid decoration on a plain shelf. Make its square base and 4 triangular faces meeting at one pointed top clearly visible. No other decorations, objects, props, text, letters, or numbers.

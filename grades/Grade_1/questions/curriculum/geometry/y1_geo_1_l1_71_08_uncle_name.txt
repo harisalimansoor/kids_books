@@ -1,0 +1,9 @@
+title: Making a Birdhouse with Uncle
+question_text:
+{user_name} is helping {uncle_name} make a birdhouse. The roof panel has 3 straight sides and 3 corners. Which 2D shape is the roof panel?
+options:
+A) Triangle
+B) Circle
+C) Rectangle
+image_prompt:
+Show {user_name} helping {uncle_name} make exactly 1 birdhouse with exactly 1 clearly triangular roof panel. Make the roof panel's 3 straight sides and 3 corners easy to see. No extra birdhouses, birds, objects, props, text, letters, or numbers.

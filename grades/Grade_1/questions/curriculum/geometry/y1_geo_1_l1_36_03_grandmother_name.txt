@@ -1,0 +1,9 @@
+title: Cooling a Drink with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} cool a drink with an ice cube. The ice cube has 6 equal square faces. Which 3D shape does the ice cube match?
+options:
+A) Cube
+B) Sphere
+C) Pyramid
+image_prompt:
+Show {user_name} helping {grandmother_name} hold exactly 1 clear ice cube beside exactly 1 plain drinking glass. Make the ice cube's flat square faces, equal edges and corners clearly visible. Show no other ice cubes or drinks. No extra objects, props, text, letters, or numbers.

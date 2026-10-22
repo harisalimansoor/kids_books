@@ -1,0 +1,9 @@
+title: Completing a Leaf Collection with Father
+question_text:
+{user_name} helps {father_name} complete this counting sequence: 30, 31, __, 33. Which number is missing?
+options:
+A) 32
+B) 34
+C) 29
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 4 large leaves in a row, with a clear gap at the third position to show a missing item. No extra leaves, and no text, letters, or numbers.

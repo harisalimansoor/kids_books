@@ -1,0 +1,9 @@
+title: Folding Clothes with Grandmother
+question_text:
+{user_name} has 9 clean towels. {grandmother_name} puts 4 towels into a cupboard. How many towels remain outside the cupboard?
+options:
+A) 3
+B) 5
+C) 4
+image_prompt:
+Show {user_name} folding towels with {grandmother_name}. Grandmother puts 4 towels from a group of 9 into a cupboard. Show exactly 5 towels outside and 4 inside the cupboard. No extra towels, text, letters, or numbers.

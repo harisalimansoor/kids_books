@@ -1,0 +1,9 @@
+title: Measuring a Book with Mother
+question_text:
+{user_name} and {mother_name} are measuring a book with a ruler. The book is 8 centimetres long. Which unit are they using to measure its length?
+options:
+A) Kilograms
+B) Centimetres
+C) Litres
+image_prompt:
+Show {user_name} and {mother_name} measuring exactly 1 book with exactly 1 ruler placed straight along the book's longer edge. No extra books, rulers, props, text, letters, or numbers.

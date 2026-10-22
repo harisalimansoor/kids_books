@@ -1,0 +1,9 @@
+title: Blowing Up a Balloon with Uncle
+question_text:
+{user_name} is helping {uncle_name} blow up a balloon. The balloon is round all over and has no corners or straight edges. Which 3D shape does the balloon match?
+options:
+A) Sphere
+B) Cube
+C) Cuboid
+image_prompt:
+Show {user_name} helping {uncle_name} hold exactly 1 inflated, round balloon. Make the balloon clearly spherical, with a curved surface and no corners or straight edges. No extra balloons, objects, props, text, letters, or numbers.

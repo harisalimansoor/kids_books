@@ -1,0 +1,9 @@
+title: Arranging Toy Trains with Sister
+question_text:
+{user_name} is helping {sister_name} arrange toy trains on a play mat. They arrange exactly 8 toy trains into 2 equal rows. What fraction of all the toy trains is in one row?
+options:
+A) One half
+B) One quarter
+C) One whole
+image_prompt:
+Show {user_name} helping {sister_name} arrange exactly 8 toy trains into 2 equal rows, with exactly 4 trains in each row. No extra trains, tracks, objects, props, people, text, letters or numbers.

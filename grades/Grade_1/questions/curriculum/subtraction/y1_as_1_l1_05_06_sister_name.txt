@@ -1,0 +1,9 @@
+title: Planting Flowers with Sister
+question_text:
+{user_name} has 8 flowers in a garden bed. {sister_name} moves 3 flowers into another pot. How many flowers remain in the garden bed?
+options:
+A) 5
+B) 6
+C) 4
+image_prompt:
+Show {user_name} gardening with {sister_name}. Sister moves 3 flowers from a garden bed into a separate pot. Show exactly 5 flowers remaining in the garden bed and 3 in the pot. No extra visible flowers, text, letters, or numbers.

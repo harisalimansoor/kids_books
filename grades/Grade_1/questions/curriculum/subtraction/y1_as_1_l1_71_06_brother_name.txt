@@ -1,0 +1,9 @@
+title: Making Bracelets with Brother
+question_text:
+{user_name} has 8 bracelet charms. {brother_name} uses 3 charms to make a bracelet. How many unused charms remain?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} making a bracelet with {brother_name}. Brother uses 3 charms from a group of 8. Show exactly 5 loose charms on the table and 3 on the bracelet. No extra charms, text, letters, or numbers.

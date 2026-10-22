@@ -1,0 +1,9 @@
+title: Building a Toy Robot with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} build a toy robot. The robot has a head with 6 equal square faces. Which 3D shape matches the robot's head?
+options:
+A) Cube
+B) Sphere
+C) Pyramid
+image_prompt:
+Show {user_name} helping {grandmother_name} assemble exactly 1 toy robot with a clearly cube-shaped head. Make the head's flat square faces, straight edges and corners easy to see. Do not add another robot or a separate head. No extra objects, props, text, letters, or numbers.

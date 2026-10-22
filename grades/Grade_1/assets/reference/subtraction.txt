@@ -80,3 +80,563 @@
 {user_name} folds 6 paper fans. {aunt_name} gives 2 fans to guests. How many paper fans remain with {user_name}?
 {user_name} has 8 toy cubes. {aunt_name} places 3 cubes on a balance scale. How many toy cubes remain beside the scale?
 {user_name} has 7 small bells for a wind chime. {aunt_name} attaches 3 bells to the wind chime. How many bells remain unattached?
+{user_name} draws 8 stars on a paper. {grandmother_name} erases 3 stars. How many stars are left?
+{user_name} draws 8 stars on a paper. {father_name} erases 3 stars. How many stars are left?
+{user_name} draws 8 stars on a paper. {mother_name} erases 3 stars. How many stars are left?
+{user_name} draws 8 stars on a paper. {brother_name} erases 3 stars. How many stars are left?
+{user_name} draws 8 stars on a paper. {sister_name} erases 3 stars. How many stars are left?
+{user_name} draws 8 stars on a paper. {uncle_name} erases 3 stars. How many stars are left?
+{user_name} draws 8 stars on a paper. {aunt_name} erases 3 stars. How many stars are left?
+{user_name} collects 7 apples in a basket. {grandmother_name} takes 2 apples from the basket. How many apples remain in the basket?
+{user_name} collects 7 apples in a basket. {father_name} takes 2 apples from the basket. How many apples remain in the basket?
+{user_name} collects 7 apples in a basket. {mother_name} takes 2 apples from the basket. How many apples remain in the basket?
+{user_name} collects 7 apples in a basket. {brother_name} takes 2 apples from the basket. How many apples remain in the basket?
+{user_name} collects 7 apples in a basket. {sister_name} takes 2 apples from the basket. How many apples remain in the basket?
+{user_name} collects 7 apples in a basket. {uncle_name} takes 2 apples from the basket. How many apples remain in the basket?
+{user_name} collects 7 apples in a basket. {aunt_name} takes 2 apples from the basket. How many apples remain in the basket?
+{user_name} has 9 toy cars on the floor. {grandmother_name} puts 4 cars into a toy garage. How many toy cars remain on the floor?
+{user_name} has 9 toy cars on the floor. {father_name} puts 4 cars into a toy garage. How many toy cars remain on the floor?
+{user_name} has 9 toy cars on the floor. {mother_name} puts 4 cars into a toy garage. How many toy cars remain on the floor?
+{user_name} has 9 toy cars on the floor. {brother_name} puts 4 cars into a toy garage. How many toy cars remain on the floor?
+{user_name} has 9 toy cars on the floor. {sister_name} puts 4 cars into a toy garage. How many toy cars remain on the floor?
+{user_name} has 9 toy cars on the floor. {uncle_name} puts 4 cars into a toy garage. How many toy cars remain on the floor?
+{user_name} has 9 toy cars on the floor. {aunt_name} puts 4 cars into a toy garage. How many toy cars remain on the floor?
+{user_name} has 6 biscuits on a plate. {grandmother_name} takes 2 biscuits for his own plate. How many biscuits remain on {user_name}'s plate?
+{user_name} has 6 biscuits on a plate. {father_name} takes 2 biscuits for his own plate. How many biscuits remain on {user_name}'s plate?
+{user_name} has 6 biscuits on a plate. {mother_name} takes 2 biscuits for his own plate. How many biscuits remain on {user_name}'s plate?
+{user_name} has 6 biscuits on a plate. {brother_name} takes 2 biscuits for his own plate. How many biscuits remain on {user_name}'s plate?
+{user_name} has 6 biscuits on a plate. {sister_name} takes 2 biscuits for his own plate. How many biscuits remain on {user_name}'s plate?
+{user_name} has 6 biscuits on a plate. {uncle_name} takes 2 biscuits for his own plate. How many biscuits remain on {user_name}'s plate?
+{user_name} has 6 biscuits on a plate. {aunt_name} takes 2 biscuits for his own plate. How many biscuits remain on {user_name}'s plate?
+{user_name} has 8 flowers in a garden bed. {grandmother_name} moves 3 flowers into another pot. How many flowers remain in the garden bed?
+{user_name} has 8 flowers in a garden bed. {father_name} moves 3 flowers into another pot. How many flowers remain in the garden bed?
+{user_name} has 8 flowers in a garden bed. {mother_name} moves 3 flowers into another pot. How many flowers remain in the garden bed?
+{user_name} has 8 flowers in a garden bed. {brother_name} moves 3 flowers into another pot. How many flowers remain in the garden bed?
+{user_name} has 8 flowers in a garden bed. {sister_name} moves 3 flowers into another pot. How many flowers remain in the garden bed?
+{user_name} has 8 flowers in a garden bed. {uncle_name} moves 3 flowers into another pot. How many flowers remain in the garden bed?
+{user_name} has 8 flowers in a garden bed. {aunt_name} moves 3 flowers into another pot. How many flowers remain in the garden bed?
+{user_name} collects 7 seashells in a bucket. {grandmother_name} takes 2 seashells and places them on a display tray. How many seashells remain in the bucket?
+{user_name} collects 7 seashells in a bucket. {father_name} takes 2 seashells and places them on a display tray. How many seashells remain in the bucket?
+{user_name} collects 7 seashells in a bucket. {mother_name} takes 2 seashells and places them on a display tray. How many seashells remain in the bucket?
+{user_name} collects 7 seashells in a bucket. {brother_name} takes 2 seashells and places them on a display tray. How many seashells remain in the bucket?
+{user_name} collects 7 seashells in a bucket. {sister_name} takes 2 seashells and places them on a display tray. How many seashells remain in the bucket?
+{user_name} collects 7 seashells in a bucket. {uncle_name} takes 2 seashells and places them on a display tray. How many seashells remain in the bucket?
+{user_name} collects 7 seashells in a bucket. {aunt_name} takes 2 seashells and places them on a display tray. How many seashells remain in the bucket?
+{user_name} builds a tower using 8 blocks. {grandmother_name} removes 3 blocks from the tower. How many blocks remain in the tower?
+{user_name} builds a tower using 8 blocks. {father_name} removes 3 blocks from the tower. How many blocks remain in the tower?
+{user_name} builds a tower using 8 blocks. {mother_name} removes 3 blocks from the tower. How many blocks remain in the tower?
+{user_name} builds a tower using 8 blocks. {brother_name} removes 3 blocks from the tower. How many blocks remain in the tower?
+{user_name} builds a tower using 8 blocks. {sister_name} removes 3 blocks from the tower. How many blocks remain in the tower?
+{user_name} builds a tower using 8 blocks. {uncle_name} removes 3 blocks from the tower. How many blocks remain in the tower?
+{user_name} builds a tower using 8 blocks. {aunt_name} removes 3 blocks from the tower. How many blocks remain in the tower?
+{user_name} hangs 6 socks on a clothesline. {grandmother_name} takes down 2 socks. How many socks remain on the clothesline?
+{user_name} hangs 6 socks on a clothesline. {father_name} takes down 2 socks. How many socks remain on the clothesline?
+{user_name} hangs 6 socks on a clothesline. {mother_name} takes down 2 socks. How many socks remain on the clothesline?
+{user_name} hangs 6 socks on a clothesline. {brother_name} takes down 2 socks. How many socks remain on the clothesline?
+{user_name} hangs 6 socks on a clothesline. {sister_name} takes down 2 socks. How many socks remain on the clothesline?
+{user_name} hangs 6 socks on a clothesline. {uncle_name} takes down 2 socks. How many socks remain on the clothesline?
+{user_name} hangs 6 socks on a clothesline. {aunt_name} takes down 2 socks. How many socks remain on the clothesline?
+{user_name} sees 9 fallen leaves on a path. {grandmother_name} sweeps 4 leaves into a dustpan. How many leaves remain on the path?
+{user_name} sees 9 fallen leaves on a path. {father_name} sweeps 4 leaves into a dustpan. How many leaves remain on the path?
+{user_name} sees 9 fallen leaves on a path. {mother_name} sweeps 4 leaves into a dustpan. How many leaves remain on the path?
+{user_name} sees 9 fallen leaves on a path. {brother_name} sweeps 4 leaves into a dustpan. How many leaves remain on the path?
+{user_name} sees 9 fallen leaves on a path. {sister_name} sweeps 4 leaves into a dustpan. How many leaves remain on the path?
+{user_name} sees 9 fallen leaves on a path. {uncle_name} sweeps 4 leaves into a dustpan. How many leaves remain on the path?
+{user_name} sees 9 fallen leaves on a path. {aunt_name} sweeps 4 leaves into a dustpan. How many leaves remain on the path?
+{user_name} places 8 cups on a table. {grandmother_name} puts 3 cups into a kitchen cabinet. How many cups remain on the table?
+{user_name} places 8 cups on a table. {father_name} puts 3 cups into a kitchen cabinet. How many cups remain on the table?
+{user_name} places 8 cups on a table. {mother_name} puts 3 cups into a kitchen cabinet. How many cups remain on the table?
+{user_name} places 8 cups on a table. {brother_name} puts 3 cups into a kitchen cabinet. How many cups remain on the table?
+{user_name} places 8 cups on a table. {sister_name} puts 3 cups into a kitchen cabinet. How many cups remain on the table?
+{user_name} places 8 cups on a table. {uncle_name} puts 3 cups into a kitchen cabinet. How many cups remain on the table?
+{user_name} places 8 cups on a table. {aunt_name} puts 3 cups into a kitchen cabinet. How many cups remain on the table?
+{user_name} bakes 8 cookies with {grandfather_name}. Grandfather takes 3 cookies from the tray. How many cookies remain on the tray?
+{user_name} bakes 8 cookies with {father_name}. Father takes 3 cookies from the tray. How many cookies remain on the tray?
+{user_name} bakes 8 cookies with {mother_name}. Mother takes 3 cookies from the tray. How many cookies remain on the tray?
+{user_name} bakes 8 cookies with {brother_name}. Brother takes 3 cookies from the tray. How many cookies remain on the tray?
+{user_name} bakes 8 cookies with {sister_name}. Sister takes 3 cookies from the tray. How many cookies remain on the tray?
+{user_name} bakes 8 cookies with {uncle_name}. Uncle takes 3 cookies from the tray. How many cookies remain on the tray?
+{user_name} bakes 8 cookies with {aunt_name}. Aunt takes 3 cookies from the tray. How many cookies remain on the tray?
+{user_name} has 7 small plants. {grandfather_name} moves 2 plants to another shelf. How many plants remain on the first shelf?
+{user_name} has 7 small plants. {father_name} moves 2 plants to another shelf. How many plants remain on the first shelf?
+{user_name} has 7 small plants. {mother_name} moves 2 plants to another shelf. How many plants remain on the first shelf?
+{user_name} has 7 small plants. {brother_name} moves 2 plants to another shelf. How many plants remain on the first shelf?
+{user_name} has 7 small plants. {sister_name} moves 2 plants to another shelf. How many plants remain on the first shelf?
+{user_name} has 7 small plants. {uncle_name} moves 2 plants to another shelf. How many plants remain on the first shelf?
+{user_name} has 7 small plants. {aunt_name} moves 2 plants to another shelf. How many plants remain on the first shelf?
+{user_name} sees 9 ducks near a pond. {grandfather_name} watches as 4 ducks swim away. How many ducks remain near the pond?
+{user_name} sees 9 ducks near a pond. {father_name} watches as 4 ducks swim away. How many ducks remain near the pond?
+{user_name} sees 9 ducks near a pond. {mother_name} watches as 4 ducks swim away. How many ducks remain near the pond?
+{user_name} sees 9 ducks near a pond. {brother_name} watches as 4 ducks swim away. How many ducks remain near the pond?
+{user_name} sees 9 ducks near a pond. {sister_name} watches as 4 ducks swim away. How many ducks remain near the pond?
+{user_name} sees 9 ducks near a pond. {uncle_name} watches as 4 ducks swim away. How many ducks remain near the pond?
+{user_name} sees 9 ducks near a pond. {aunt_name} watches as 4 ducks swim away. How many ducks remain near the pond?
+{grandfather_name} has 6 balls of wool. She gives 2 balls to {user_name}. How many balls of wool does Grandfather have left?
+{father_name} has 6 balls of wool. She gives 2 balls to {user_name}. How many balls of wool does Father have left?
+{mother_name} has 6 balls of wool. She gives 2 balls to {user_name}. How many balls of wool does Mother have left?
+{brother_name} has 6 balls of wool. She gives 2 balls to {user_name}. How many balls of wool does Brother have left?
+{sister_name} has 6 balls of wool. She gives 2 balls to {user_name}. How many balls of wool does Sister have left?
+{uncle_name} has 6 balls of wool. She gives 2 balls to {user_name}. How many balls of wool does Uncle have left?
+{aunt_name} has 6 balls of wool. She gives 2 balls to {user_name}. How many balls of wool does Aunt have left?
+{user_name} picks 8 oranges with {grandfather_name}. Grandfather takes 3 oranges to the kitchen. How many oranges remain in the basket?
+{user_name} picks 8 oranges with {father_name}. Father takes 3 oranges to the kitchen. How many oranges remain in the basket?
+{user_name} picks 8 oranges with {mother_name}. Mother takes 3 oranges to the kitchen. How many oranges remain in the basket?
+{user_name} picks 8 oranges with {brother_name}. Brother takes 3 oranges to the kitchen. How many oranges remain in the basket?
+{user_name} picks 8 oranges with {sister_name}. Sister takes 3 oranges to the kitchen. How many oranges remain in the basket?
+{user_name} picks 8 oranges with {uncle_name}. Uncle takes 3 oranges to the kitchen. How many oranges remain in the basket?
+{user_name} picks 8 oranges with {aunt_name}. Aunt takes 3 oranges to the kitchen. How many oranges remain in the basket?
+{user_name} puts 7 carrots in a basket for the rabbits. {grandfather_name} uses 2 carrots to feed them. How many carrots remain in the basket?
+{user_name} puts 7 carrots in a basket for the rabbits. {father_name} uses 2 carrots to feed them. How many carrots remain in the basket?
+{user_name} puts 7 carrots in a basket for the rabbits. {mother_name} uses 2 carrots to feed them. How many carrots remain in the basket?
+{user_name} puts 7 carrots in a basket for the rabbits. {brother_name} uses 2 carrots to feed them. How many carrots remain in the basket?
+{user_name} puts 7 carrots in a basket for the rabbits. {sister_name} uses 2 carrots to feed them. How many carrots remain in the basket?
+{user_name} puts 7 carrots in a basket for the rabbits. {uncle_name} uses 2 carrots to feed them. How many carrots remain in the basket?
+{user_name} puts 7 carrots in a basket for the rabbits. {aunt_name} uses 2 carrots to feed them. How many carrots remain in the basket?
+{user_name} places 9 books on a shelf. {grandfather_name} moves 4 books to another shelf. How many books remain on the first shelf?
+{user_name} places 9 books on a shelf. {father_name} moves 4 books to another shelf. How many books remain on the first shelf?
+{user_name} places 9 books on a shelf. {mother_name} moves 4 books to another shelf. How many books remain on the first shelf?
+{user_name} places 9 books on a shelf. {brother_name} moves 4 books to another shelf. How many books remain on the first shelf?
+{user_name} places 9 books on a shelf. {sister_name} moves 4 books to another shelf. How many books remain on the first shelf?
+{user_name} places 9 books on a shelf. {uncle_name} moves 4 books to another shelf. How many books remain on the first shelf?
+{user_name} places 9 books on a shelf. {aunt_name} moves 4 books to another shelf. How many books remain on the first shelf?
+{user_name} has 6 toy plates. {grandfather_name} washes 2 plates and puts them away. How many toy plates are still waiting to be washed?
+{user_name} has 6 toy plates. {father_name} washes 2 plates and puts them away. How many toy plates are still waiting to be washed?
+{user_name} has 6 toy plates. {mother_name} washes 2 plates and puts them away. How many toy plates are still waiting to be washed?
+{user_name} has 6 toy plates. {brother_name} washes 2 plates and puts them away. How many toy plates are still waiting to be washed?
+{user_name} has 6 toy plates. {sister_name} washes 2 plates and puts them away. How many toy plates are still waiting to be washed?
+{user_name} has 6 toy plates. {uncle_name} washes 2 plates and puts them away. How many toy plates are still waiting to be washed?
+{user_name} has 6 toy plates. {aunt_name} washes 2 plates and puts them away. How many toy plates are still waiting to be washed?
+{user_name} finds 8 eggs in a basket. {grandfather_name} takes 3 eggs to the kitchen. How many eggs remain in the basket?
+{user_name} finds 8 eggs in a basket. {father_name} takes 3 eggs to the kitchen. How many eggs remain in the basket?
+{user_name} finds 8 eggs in a basket. {mother_name} takes 3 eggs to the kitchen. How many eggs remain in the basket?
+{user_name} finds 8 eggs in a basket. {brother_name} takes 3 eggs to the kitchen. How many eggs remain in the basket?
+{user_name} finds 8 eggs in a basket. {sister_name} takes 3 eggs to the kitchen. How many eggs remain in the basket?
+{user_name} finds 8 eggs in a basket. {uncle_name} takes 3 eggs to the kitchen. How many eggs remain in the basket?
+{user_name} finds 8 eggs in a basket. {aunt_name} takes 3 eggs to the kitchen. How many eggs remain in the basket?
+{user_name} makes 7 paper boats with {grandfather_name}. Grandfather places 3 boats in a box. How many paper boats remain outside the box?
+{user_name} makes 7 paper boats with {father_name}. Father places 3 boats in a box. How many paper boats remain outside the box?
+{user_name} makes 7 paper boats with {mother_name}. Mother places 3 boats in a box. How many paper boats remain outside the box?
+{user_name} makes 7 paper boats with {brother_name}. Brother places 3 boats in a box. How many paper boats remain outside the box?
+{user_name} makes 7 paper boats with {sister_name}. Sister places 3 boats in a box. How many paper boats remain outside the box?
+{user_name} makes 7 paper boats with {uncle_name}. Uncle places 3 boats in a box. How many paper boats remain outside the box?
+{user_name} makes 7 paper boats with {aunt_name}. Aunt places 3 boats in a box. How many paper boats remain outside the box?
+{user_name} has 8 footballs. {grandfather_name} takes 3 footballs to the garage. How many footballs remain?
+{user_name} has 8 footballs. {grandmother_name} takes 3 footballs to the garage. How many footballs remain?
+{user_name} has 8 footballs. {mother_name} takes 3 footballs to the garage. How many footballs remain?
+{user_name} has 8 footballs. {brother_name} takes 3 footballs to the garage. How many footballs remain?
+{user_name} has 8 footballs. {sister_name} takes 3 footballs to the garage. How many footballs remain?
+{user_name} has 8 footballs. {uncle_name} takes 3 footballs to the garage. How many footballs remain?
+{user_name} has 8 footballs. {aunt_name} takes 3 footballs to the garage. How many footballs remain?
+{user_name} and {grandfather_name} have 7 sponges. Grandfather takes 2 sponges to wash the car. How many sponges remain?
+{user_name} and {grandmother_name} have 7 sponges. Grandmother takes 2 sponges to wash the car. How many sponges remain?
+{user_name} and {mother_name} have 7 sponges. Mother takes 2 sponges to wash the car. How many sponges remain?
+{user_name} and {brother_name} have 7 sponges. Brother takes 2 sponges to wash the car. How many sponges remain?
+{user_name} and {sister_name} have 7 sponges. Sister takes 2 sponges to wash the car. How many sponges remain?
+{user_name} and {uncle_name} have 7 sponges. Uncle takes 2 sponges to wash the car. How many sponges remain?
+{user_name} and {aunt_name} have 7 sponges. Aunt takes 2 sponges to wash the car. How many sponges remain?
+{user_name} has 6 kites. {grandfather_name} gives 2 kites to another child. How many kites remain?
+{user_name} has 6 kites. {grandmother_name} gives 2 kites to another child. How many kites remain?
+{user_name} has 6 kites. {mother_name} gives 2 kites to another child. How many kites remain?
+{user_name} has 6 kites. {brother_name} gives 2 kites to another child. How many kites remain?
+{user_name} has 6 kites. {sister_name} gives 2 kites to another child. How many kites remain?
+{user_name} has 6 kites. {uncle_name} gives 2 kites to another child. How many kites remain?
+{user_name} has 6 kites. {aunt_name} gives 2 kites to another child. How many kites remain?
+{user_name} and {grandfather_name} have 9 wooden pieces for a birdhouse. Grandfather uses 4 pieces. How many wooden pieces are left unused?
+{user_name} and {grandmother_name} have 9 wooden pieces for a birdhouse. Grandmother uses 4 pieces. How many wooden pieces are left unused?
+{user_name} and {mother_name} have 9 wooden pieces for a birdhouse. Mother uses 4 pieces. How many wooden pieces are left unused?
+{user_name} and {brother_name} have 9 wooden pieces for a birdhouse. Brother uses 4 pieces. How many wooden pieces are left unused?
+{user_name} and {sister_name} have 9 wooden pieces for a birdhouse. Sister uses 4 pieces. How many wooden pieces are left unused?
+{user_name} and {uncle_name} have 9 wooden pieces for a birdhouse. Uncle uses 4 pieces. How many wooden pieces are left unused?
+{user_name} and {aunt_name} have 9 wooden pieces for a birdhouse. Aunt uses 4 pieces. How many wooden pieces are left unused?
+{user_name} has 8 fish-food pellets. {grandfather_name} drops 3 pellets into the aquarium. How many pellets remain outside the aquarium?
+{user_name} has 8 fish-food pellets. {grandmother_name} drops 3 pellets into the aquarium. How many pellets remain outside the aquarium?
+{user_name} has 8 fish-food pellets. {mother_name} drops 3 pellets into the aquarium. How many pellets remain outside the aquarium?
+{user_name} has 8 fish-food pellets. {brother_name} drops 3 pellets into the aquarium. How many pellets remain outside the aquarium?
+{user_name} has 8 fish-food pellets. {sister_name} drops 3 pellets into the aquarium. How many pellets remain outside the aquarium?
+{user_name} has 8 fish-food pellets. {uncle_name} drops 3 pellets into the aquarium. How many pellets remain outside the aquarium?
+{user_name} has 8 fish-food pellets. {aunt_name} drops 3 pellets into the aquarium. How many pellets remain outside the aquarium?
+{user_name} packs 7 sandwiches for a picnic. {grandfather_name} takes 2 sandwiches for lunch. How many sandwiches remain in the lunchbox?
+{user_name} packs 7 sandwiches for a picnic. {grandmother_name} takes 2 sandwiches for lunch. How many sandwiches remain in the lunchbox?
+{user_name} packs 7 sandwiches for a picnic. {mother_name} takes 2 sandwiches for lunch. How many sandwiches remain in the lunchbox?
+{user_name} packs 7 sandwiches for a picnic. {brother_name} takes 2 sandwiches for lunch. How many sandwiches remain in the lunchbox?
+{user_name} packs 7 sandwiches for a picnic. {sister_name} takes 2 sandwiches for lunch. How many sandwiches remain in the lunchbox?
+{user_name} packs 7 sandwiches for a picnic. {uncle_name} takes 2 sandwiches for lunch. How many sandwiches remain in the lunchbox?
+{user_name} packs 7 sandwiches for a picnic. {aunt_name} takes 2 sandwiches for lunch. How many sandwiches remain in the lunchbox?
+{user_name} has 9 flowerpots to paint. {grandfather_name} finishes painting 4 pots. How many pots are still unpainted?
+{user_name} has 9 flowerpots to paint. {grandmother_name} finishes painting 4 pots. How many pots are still unpainted?
+{user_name} has 9 flowerpots to paint. {mother_name} finishes painting 4 pots. How many pots are still unpainted?
+{user_name} has 9 flowerpots to paint. {brother_name} finishes painting 4 pots. How many pots are still unpainted?
+{user_name} has 9 flowerpots to paint. {sister_name} finishes painting 4 pots. How many pots are still unpainted?
+{user_name} has 9 flowerpots to paint. {uncle_name} finishes painting 4 pots. How many pots are still unpainted?
+{user_name} has 9 flowerpots to paint. {aunt_name} finishes painting 4 pots. How many pots are still unpainted?
+{user_name} sees 6 butterflies in a garden. {grandfather_name} watches as 2 butterflies fly away. How many butterflies remain in the garden?
+{user_name} sees 6 butterflies in a garden. {grandmother_name} watches as 2 butterflies fly away. How many butterflies remain in the garden?
+{user_name} sees 6 butterflies in a garden. {mother_name} watches as 2 butterflies fly away. How many butterflies remain in the garden?
+{user_name} sees 6 butterflies in a garden. {brother_name} watches as 2 butterflies fly away. How many butterflies remain in the garden?
+{user_name} sees 6 butterflies in a garden. {sister_name} watches as 2 butterflies fly away. How many butterflies remain in the garden?
+{user_name} sees 6 butterflies in a garden. {uncle_name} watches as 2 butterflies fly away. How many butterflies remain in the garden?
+{user_name} sees 6 butterflies in a garden. {aunt_name} watches as 2 butterflies fly away. How many butterflies remain in the garden?
+{grandfather_name} has 8 toy tools. {user_name} puts 3 tools into a toolbox. How many toy tools remain outside the toolbox?
+{grandmother_name} has 8 toy tools. {user_name} puts 3 tools into a toolbox. How many toy tools remain outside the toolbox?
+{mother_name} has 8 toy tools. {user_name} puts 3 tools into a toolbox. How many toy tools remain outside the toolbox?
+{brother_name} has 8 toy tools. {user_name} puts 3 tools into a toolbox. How many toy tools remain outside the toolbox?
+{sister_name} has 8 toy tools. {user_name} puts 3 tools into a toolbox. How many toy tools remain outside the toolbox?
+{uncle_name} has 8 toy tools. {user_name} puts 3 tools into a toolbox. How many toy tools remain outside the toolbox?
+{aunt_name} has 8 toy tools. {user_name} puts 3 tools into a toolbox. How many toy tools remain outside the toolbox?
+{user_name} places 7 spoons on the table. {grandfather_name} puts 3 spoons into a drawer. How many spoons remain on the table?
+{user_name} places 7 spoons on the table. {grandmother_name} puts 3 spoons into a drawer. How many spoons remain on the table?
+{user_name} places 7 spoons on the table. {mother_name} puts 3 spoons into a drawer. How many spoons remain on the table?
+{user_name} places 7 spoons on the table. {brother_name} puts 3 spoons into a drawer. How many spoons remain on the table?
+{user_name} places 7 spoons on the table. {sister_name} puts 3 spoons into a drawer. How many spoons remain on the table?
+{user_name} places 7 spoons on the table. {uncle_name} puts 3 spoons into a drawer. How many spoons remain on the table?
+{user_name} places 7 spoons on the table. {aunt_name} puts 3 spoons into a drawer. How many spoons remain on the table?
+{user_name} has 8 crayons. {grandfather_name} takes 3 crayons to color her own picture. How many crayons remain with {user_name}?
+{user_name} has 8 crayons. {grandmother_name} takes 3 crayons to color her own picture. How many crayons remain with {user_name}?
+{user_name} has 8 crayons. {father_name} takes 3 crayons to color her own picture. How many crayons remain with {user_name}?
+{user_name} has 8 crayons. {brother_name} takes 3 crayons to color her own picture. How many crayons remain with {user_name}?
+{user_name} has 8 crayons. {sister_name} takes 3 crayons to color her own picture. How many crayons remain with {user_name}?
+{user_name} has 8 crayons. {uncle_name} takes 3 crayons to color her own picture. How many crayons remain with {user_name}?
+{user_name} has 8 crayons. {aunt_name} takes 3 crayons to color her own picture. How many crayons remain with {user_name}?
+{user_name} and {grandfather_name} have 7 lemons. Grandfather uses 2 lemons to make lemonade. How many lemons are left?
+{user_name} and {grandmother_name} have 7 lemons. Grandmother uses 2 lemons to make lemonade. How many lemons are left?
+{user_name} and {father_name} have 7 lemons. Father uses 2 lemons to make lemonade. How many lemons are left?
+{user_name} and {brother_name} have 7 lemons. Brother uses 2 lemons to make lemonade. How many lemons are left?
+{user_name} and {sister_name} have 7 lemons. Sister uses 2 lemons to make lemonade. How many lemons are left?
+{user_name} and {uncle_name} have 7 lemons. Uncle uses 2 lemons to make lemonade. How many lemons are left?
+{user_name} and {aunt_name} have 7 lemons. Aunt uses 2 lemons to make lemonade. How many lemons are left?
+{user_name} has 9 clean towels. {grandfather_name} puts 4 towels into a cupboard. How many towels remain outside the cupboard?
+{user_name} has 9 clean towels. {grandmother_name} puts 4 towels into a cupboard. How many towels remain outside the cupboard?
+{user_name} has 9 clean towels. {father_name} puts 4 towels into a cupboard. How many towels remain outside the cupboard?
+{user_name} has 9 clean towels. {brother_name} puts 4 towels into a cupboard. How many towels remain outside the cupboard?
+{user_name} has 9 clean towels. {sister_name} puts 4 towels into a cupboard. How many towels remain outside the cupboard?
+{user_name} has 9 clean towels. {uncle_name} puts 4 towels into a cupboard. How many towels remain outside the cupboard?
+{user_name} has 9 clean towels. {aunt_name} puts 4 towels into a cupboard. How many towels remain outside the cupboard?
+{user_name} puts 6 apples in the sink. {grandfather_name} washes 2 apples and places them in a bowl. How many apples remain in the sink?
+{user_name} puts 6 apples in the sink. {grandmother_name} washes 2 apples and places them in a bowl. How many apples remain in the sink?
+{user_name} puts 6 apples in the sink. {father_name} washes 2 apples and places them in a bowl. How many apples remain in the sink?
+{user_name} puts 6 apples in the sink. {brother_name} washes 2 apples and places them in a bowl. How many apples remain in the sink?
+{user_name} puts 6 apples in the sink. {sister_name} washes 2 apples and places them in a bowl. How many apples remain in the sink?
+{user_name} puts 6 apples in the sink. {uncle_name} washes 2 apples and places them in a bowl. How many apples remain in the sink?
+{user_name} puts 6 apples in the sink. {aunt_name} washes 2 apples and places them in a bowl. How many apples remain in the sink?
+{user_name} has 8 cupcakes. {grandfather_name} puts 3 cupcakes on a serving plate. How many cupcakes remain on the baking tray?
+{user_name} has 8 cupcakes. {grandmother_name} puts 3 cupcakes on a serving plate. How many cupcakes remain on the baking tray?
+{user_name} has 8 cupcakes. {father_name} puts 3 cupcakes on a serving plate. How many cupcakes remain on the baking tray?
+{user_name} has 8 cupcakes. {brother_name} puts 3 cupcakes on a serving plate. How many cupcakes remain on the baking tray?
+{user_name} has 8 cupcakes. {sister_name} puts 3 cupcakes on a serving plate. How many cupcakes remain on the baking tray?
+{user_name} has 8 cupcakes. {uncle_name} puts 3 cupcakes on a serving plate. How many cupcakes remain on the baking tray?
+{user_name} has 8 cupcakes. {aunt_name} puts 3 cupcakes on a serving plate. How many cupcakes remain on the baking tray?
+{user_name} makes 7 paper flowers. {grandfather_name} gives 3 flowers to a friend. How many paper flowers remain with {user_name}?
+{user_name} makes 7 paper flowers. {grandmother_name} gives 3 flowers to a friend. How many paper flowers remain with {user_name}?
+{user_name} makes 7 paper flowers. {father_name} gives 3 flowers to a friend. How many paper flowers remain with {user_name}?
+{user_name} makes 7 paper flowers. {brother_name} gives 3 flowers to a friend. How many paper flowers remain with {user_name}?
+{user_name} makes 7 paper flowers. {sister_name} gives 3 flowers to a friend. How many paper flowers remain with {user_name}?
+{user_name} makes 7 paper flowers. {uncle_name} gives 3 flowers to a friend. How many paper flowers remain with {user_name}?
+{user_name} makes 7 paper flowers. {aunt_name} gives 3 flowers to a friend. How many paper flowers remain with {user_name}?
+{user_name} puts 9 birdseed scoops in a small bowl. {grandfather_name} uses 4 scoops to feed the birds. How many scoops remain in the bowl?
+{user_name} puts 9 birdseed scoops in a small bowl. {grandmother_name} uses 4 scoops to feed the birds. How many scoops remain in the bowl?
+{user_name} puts 9 birdseed scoops in a small bowl. {father_name} uses 4 scoops to feed the birds. How many scoops remain in the bowl?
+{user_name} puts 9 birdseed scoops in a small bowl. {brother_name} uses 4 scoops to feed the birds. How many scoops remain in the bowl?
+{user_name} puts 9 birdseed scoops in a small bowl. {sister_name} uses 4 scoops to feed the birds. How many scoops remain in the bowl?
+{user_name} puts 9 birdseed scoops in a small bowl. {uncle_name} uses 4 scoops to feed the birds. How many scoops remain in the bowl?
+{user_name} puts 9 birdseed scoops in a small bowl. {aunt_name} uses 4 scoops to feed the birds. How many scoops remain in the bowl?
+{user_name} has 6 notebooks. {grandfather_name} puts 2 notebooks into the schoolbag. How many notebooks remain outside the schoolbag?
+{user_name} has 6 notebooks. {grandmother_name} puts 2 notebooks into the schoolbag. How many notebooks remain outside the schoolbag?
+{user_name} has 6 notebooks. {father_name} puts 2 notebooks into the schoolbag. How many notebooks remain outside the schoolbag?
+{user_name} has 6 notebooks. {brother_name} puts 2 notebooks into the schoolbag. How many notebooks remain outside the schoolbag?
+{user_name} has 6 notebooks. {sister_name} puts 2 notebooks into the schoolbag. How many notebooks remain outside the schoolbag?
+{user_name} has 6 notebooks. {uncle_name} puts 2 notebooks into the schoolbag. How many notebooks remain outside the schoolbag?
+{user_name} has 6 notebooks. {aunt_name} puts 2 notebooks into the schoolbag. How many notebooks remain outside the schoolbag?
+{user_name} has 8 balloons. {grandfather_name} ties 3 balloons to a chair for a party. How many balloons remain with {user_name}?
+{user_name} has 8 balloons. {grandmother_name} ties 3 balloons to a chair for a party. How many balloons remain with {user_name}?
+{user_name} has 8 balloons. {father_name} ties 3 balloons to a chair for a party. How many balloons remain with {user_name}?
+{user_name} has 8 balloons. {brother_name} ties 3 balloons to a chair for a party. How many balloons remain with {user_name}?
+{user_name} has 8 balloons. {sister_name} ties 3 balloons to a chair for a party. How many balloons remain with {user_name}?
+{user_name} has 8 balloons. {uncle_name} ties 3 balloons to a chair for a party. How many balloons remain with {user_name}?
+{user_name} has 8 balloons. {aunt_name} ties 3 balloons to a chair for a party. How many balloons remain with {user_name}?
+{user_name} has 7 puzzle pieces on a table. {grandfather_name} puts 3 pieces into a box. How many puzzle pieces remain on the table?
+{user_name} has 7 puzzle pieces on a table. {grandmother_name} puts 3 pieces into a box. How many puzzle pieces remain on the table?
+{user_name} has 7 puzzle pieces on a table. {father_name} puts 3 pieces into a box. How many puzzle pieces remain on the table?
+{user_name} has 7 puzzle pieces on a table. {brother_name} puts 3 pieces into a box. How many puzzle pieces remain on the table?
+{user_name} has 7 puzzle pieces on a table. {sister_name} puts 3 pieces into a box. How many puzzle pieces remain on the table?
+{user_name} has 7 puzzle pieces on a table. {uncle_name} puts 3 pieces into a box. How many puzzle pieces remain on the table?
+{user_name} has 7 puzzle pieces on a table. {aunt_name} puts 3 pieces into a box. How many puzzle pieces remain on the table?
+{user_name} has 8 toy bones. {grandfather_name} gives 3 bones to a toy dinosaur. How many toy bones remain?
+{user_name} has 8 toy bones. {grandmother_name} gives 3 bones to a toy dinosaur. How many toy bones remain?
+{user_name} has 8 toy bones. {father_name} gives 3 bones to a toy dinosaur. How many toy bones remain?
+{user_name} has 8 toy bones. {mother_name} gives 3 bones to a toy dinosaur. How many toy bones remain?
+{user_name} has 8 toy bones. {brother_name} gives 3 bones to a toy dinosaur. How many toy bones remain?
+{user_name} has 8 toy bones. {uncle_name} gives 3 bones to a toy dinosaur. How many toy bones remain?
+{user_name} has 8 toy bones. {aunt_name} gives 3 bones to a toy dinosaur. How many toy bones remain?
+{user_name} has 7 golf balls. {grandfather_name} hits 2 balls into a mini-golf hole. How many golf balls remain outside the hole?
+{user_name} has 7 golf balls. {grandmother_name} hits 2 balls into a mini-golf hole. How many golf balls remain outside the hole?
+{user_name} has 7 golf balls. {father_name} hits 2 balls into a mini-golf hole. How many golf balls remain outside the hole?
+{user_name} has 7 golf balls. {mother_name} hits 2 balls into a mini-golf hole. How many golf balls remain outside the hole?
+{user_name} has 7 golf balls. {brother_name} hits 2 balls into a mini-golf hole. How many golf balls remain outside the hole?
+{user_name} has 7 golf balls. {uncle_name} hits 2 balls into a mini-golf hole. How many golf balls remain outside the hole?
+{user_name} has 7 golf balls. {aunt_name} hits 2 balls into a mini-golf hole. How many golf balls remain outside the hole?
+{user_name} has 9 colorful beads. {grandfather_name} uses 4 beads to make a necklace. How many unused beads remain?
+{user_name} has 9 colorful beads. {grandmother_name} uses 4 beads to make a necklace. How many unused beads remain?
+{user_name} has 9 colorful beads. {father_name} uses 4 beads to make a necklace. How many unused beads remain?
+{user_name} has 9 colorful beads. {mother_name} uses 4 beads to make a necklace. How many unused beads remain?
+{user_name} has 9 colorful beads. {brother_name} uses 4 beads to make a necklace. How many unused beads remain?
+{user_name} has 9 colorful beads. {uncle_name} uses 4 beads to make a necklace. How many unused beads remain?
+{user_name} has 9 colorful beads. {aunt_name} uses 4 beads to make a necklace. How many unused beads remain?
+{user_name} sets up 8 bowling pins. {grandfather_name} knocks down 3 pins. How many bowling pins are still standing?
+{user_name} sets up 8 bowling pins. {grandmother_name} knocks down 3 pins. How many bowling pins are still standing?
+{user_name} sets up 8 bowling pins. {father_name} knocks down 3 pins. How many bowling pins are still standing?
+{user_name} sets up 8 bowling pins. {mother_name} knocks down 3 pins. How many bowling pins are still standing?
+{user_name} sets up 8 bowling pins. {brother_name} knocks down 3 pins. How many bowling pins are still standing?
+{user_name} sets up 8 bowling pins. {uncle_name} knocks down 3 pins. How many bowling pins are still standing?
+{user_name} sets up 8 bowling pins. {aunt_name} knocks down 3 pins. How many bowling pins are still standing?
+{user_name} places 6 tiny chairs in a dollhouse. {grandfather_name} moves 2 chairs into another room. How many chairs remain in the first room?
+{user_name} places 6 tiny chairs in a dollhouse. {grandmother_name} moves 2 chairs into another room. How many chairs remain in the first room?
+{user_name} places 6 tiny chairs in a dollhouse. {father_name} moves 2 chairs into another room. How many chairs remain in the first room?
+{user_name} places 6 tiny chairs in a dollhouse. {mother_name} moves 2 chairs into another room. How many chairs remain in the first room?
+{user_name} places 6 tiny chairs in a dollhouse. {brother_name} moves 2 chairs into another room. How many chairs remain in the first room?
+{user_name} places 6 tiny chairs in a dollhouse. {uncle_name} moves 2 chairs into another room. How many chairs remain in the first room?
+{user_name} places 6 tiny chairs in a dollhouse. {aunt_name} moves 2 chairs into another room. How many chairs remain in the first room?
+{user_name} has 9 toy train carriages. {grandfather_name} removes 3 carriages from the train. How many carriages remain connected to the train?
+{user_name} has 9 toy train carriages. {grandmother_name} removes 3 carriages from the train. How many carriages remain connected to the train?
+{user_name} has 9 toy train carriages. {father_name} removes 3 carriages from the train. How many carriages remain connected to the train?
+{user_name} has 9 toy train carriages. {mother_name} removes 3 carriages from the train. How many carriages remain connected to the train?
+{user_name} has 9 toy train carriages. {brother_name} removes 3 carriages from the train. How many carriages remain connected to the train?
+{user_name} has 9 toy train carriages. {uncle_name} removes 3 carriages from the train. How many carriages remain connected to the train?
+{user_name} has 9 toy train carriages. {aunt_name} removes 3 carriages from the train. How many carriages remain connected to the train?
+{user_name} makes 7 animal shadow puppets from paper. {grandfather_name} puts 3 puppets away. How many puppets remain on the table?
+{user_name} makes 7 animal shadow puppets from paper. {grandmother_name} puts 3 puppets away. How many puppets remain on the table?
+{user_name} makes 7 animal shadow puppets from paper. {father_name} puts 3 puppets away. How many puppets remain on the table?
+{user_name} makes 7 animal shadow puppets from paper. {mother_name} puts 3 puppets away. How many puppets remain on the table?
+{user_name} makes 7 animal shadow puppets from paper. {brother_name} puts 3 puppets away. How many puppets remain on the table?
+{user_name} makes 7 animal shadow puppets from paper. {uncle_name} puts 3 puppets away. How many puppets remain on the table?
+{user_name} makes 7 animal shadow puppets from paper. {aunt_name} puts 3 puppets away. How many puppets remain on the table?
+{user_name} has 8 rings for a ring-toss game. {grandfather_name} throws 3 rings onto a peg. How many rings remain in {user_name}'s hand?
+{user_name} has 8 rings for a ring-toss game. {grandmother_name} throws 3 rings onto a peg. How many rings remain in {user_name}'s hand?
+{user_name} has 8 rings for a ring-toss game. {father_name} throws 3 rings onto a peg. How many rings remain in {user_name}'s hand?
+{user_name} has 8 rings for a ring-toss game. {mother_name} throws 3 rings onto a peg. How many rings remain in {user_name}'s hand?
+{user_name} has 8 rings for a ring-toss game. {brother_name} throws 3 rings onto a peg. How many rings remain in {user_name}'s hand?
+{user_name} has 8 rings for a ring-toss game. {uncle_name} throws 3 rings onto a peg. How many rings remain in {user_name}'s hand?
+{user_name} has 8 rings for a ring-toss game. {aunt_name} throws 3 rings onto a peg. How many rings remain in {user_name}'s hand?
+{user_name} makes 7 sand towers for a sandcastle. {grandfather_name} knocks down 2 towers. How many sand towers are still standing?
+{user_name} makes 7 sand towers for a sandcastle. {grandmother_name} knocks down 2 towers. How many sand towers are still standing?
+{user_name} makes 7 sand towers for a sandcastle. {father_name} knocks down 2 towers. How many sand towers are still standing?
+{user_name} makes 7 sand towers for a sandcastle. {mother_name} knocks down 2 towers. How many sand towers are still standing?
+{user_name} makes 7 sand towers for a sandcastle. {brother_name} knocks down 2 towers. How many sand towers are still standing?
+{user_name} makes 7 sand towers for a sandcastle. {uncle_name} knocks down 2 towers. How many sand towers are still standing?
+{user_name} makes 7 sand towers for a sandcastle. {aunt_name} knocks down 2 towers. How many sand towers are still standing?
+{user_name} has 8 picture cards. {grandfather_name} matches and removes 4 cards from the game. How many cards remain unmatched?
+{user_name} has 8 picture cards. {grandmother_name} matches and removes 4 cards from the game. How many cards remain unmatched?
+{user_name} has 8 picture cards. {father_name} matches and removes 4 cards from the game. How many cards remain unmatched?
+{user_name} has 8 picture cards. {mother_name} matches and removes 4 cards from the game. How many cards remain unmatched?
+{user_name} has 8 picture cards. {brother_name} matches and removes 4 cards from the game. How many cards remain unmatched?
+{user_name} has 8 picture cards. {uncle_name} matches and removes 4 cards from the game. How many cards remain unmatched?
+{user_name} has 8 picture cards. {aunt_name} matches and removes 4 cards from the game. How many cards remain unmatched?
+{user_name} has 8 toy helicopters. {grandfather_name} takes 3 helicopters to his room. How many toy helicopters remain with {user_name}?
+{user_name} has 8 toy helicopters. {grandmother_name} takes 3 helicopters to his room. How many toy helicopters remain with {user_name}?
+{user_name} has 8 toy helicopters. {father_name} takes 3 helicopters to his room. How many toy helicopters remain with {user_name}?
+{user_name} has 8 toy helicopters. {mother_name} takes 3 helicopters to his room. How many toy helicopters remain with {user_name}?
+{user_name} has 8 toy helicopters. {sister_name} takes 3 helicopters to his room. How many toy helicopters remain with {user_name}?
+{user_name} has 8 toy helicopters. {uncle_name} takes 3 helicopters to his room. How many toy helicopters remain with {user_name}?
+{user_name} has 8 toy helicopters. {aunt_name} takes 3 helicopters to his room. How many toy helicopters remain with {user_name}?
+{user_name} has 7 table-tennis balls. {grandfather_name} takes 2 balls to practise serving. How many balls remain with {user_name}?
+{user_name} has 7 table-tennis balls. {grandmother_name} takes 2 balls to practise serving. How many balls remain with {user_name}?
+{user_name} has 7 table-tennis balls. {father_name} takes 2 balls to practise serving. How many balls remain with {user_name}?
+{user_name} has 7 table-tennis balls. {mother_name} takes 2 balls to practise serving. How many balls remain with {user_name}?
+{user_name} has 7 table-tennis balls. {sister_name} takes 2 balls to practise serving. How many balls remain with {user_name}?
+{user_name} has 7 table-tennis balls. {uncle_name} takes 2 balls to practise serving. How many balls remain with {user_name}?
+{user_name} has 7 table-tennis balls. {aunt_name} takes 2 balls to practise serving. How many balls remain with {user_name}?
+{user_name} has 9 toy robot parts. {grandfather_name} uses 4 parts to build a robot. How many unused parts remain?
+{user_name} has 9 toy robot parts. {grandmother_name} uses 4 parts to build a robot. How many unused parts remain?
+{user_name} has 9 toy robot parts. {father_name} uses 4 parts to build a robot. How many unused parts remain?
+{user_name} has 9 toy robot parts. {mother_name} uses 4 parts to build a robot. How many unused parts remain?
+{user_name} has 9 toy robot parts. {sister_name} uses 4 parts to build a robot. How many unused parts remain?
+{user_name} has 9 toy robot parts. {uncle_name} uses 4 parts to build a robot. How many unused parts remain?
+{user_name} has 9 toy robot parts. {aunt_name} uses 4 parts to build a robot. How many unused parts remain?
+{user_name} has 6 small toy drums. {grandfather_name} puts 2 drums away in a cupboard. How many drums remain outside?
+{user_name} has 6 small toy drums. {grandmother_name} puts 2 drums away in a cupboard. How many drums remain outside?
+{user_name} has 6 small toy drums. {father_name} puts 2 drums away in a cupboard. How many drums remain outside?
+{user_name} has 6 small toy drums. {mother_name} puts 2 drums away in a cupboard. How many drums remain outside?
+{user_name} has 6 small toy drums. {sister_name} puts 2 drums away in a cupboard. How many drums remain outside?
+{user_name} has 6 small toy drums. {uncle_name} puts 2 drums away in a cupboard. How many drums remain outside?
+{user_name} has 6 small toy drums. {aunt_name} puts 2 drums away in a cupboard. How many drums remain outside?
+{user_name} has 8 marbles. {grandfather_name} rolls 3 marbles into a small game hole. How many marbles remain outside the hole?
+{user_name} has 8 marbles. {grandmother_name} rolls 3 marbles into a small game hole. How many marbles remain outside the hole?
+{user_name} has 8 marbles. {father_name} rolls 3 marbles into a small game hole. How many marbles remain outside the hole?
+{user_name} has 8 marbles. {mother_name} rolls 3 marbles into a small game hole. How many marbles remain outside the hole?
+{user_name} has 8 marbles. {sister_name} rolls 3 marbles into a small game hole. How many marbles remain outside the hole?
+{user_name} has 8 marbles. {uncle_name} rolls 3 marbles into a small game hole. How many marbles remain outside the hole?
+{user_name} has 8 marbles. {aunt_name} rolls 3 marbles into a small game hole. How many marbles remain outside the hole?
+{user_name} folds 7 paper airplanes. {grandfather_name} launches 3 airplanes across the room. How many paper airplanes remain on the table?
+{user_name} folds 7 paper airplanes. {grandmother_name} launches 3 airplanes across the room. How many paper airplanes remain on the table?
+{user_name} folds 7 paper airplanes. {father_name} launches 3 airplanes across the room. How many paper airplanes remain on the table?
+{user_name} folds 7 paper airplanes. {mother_name} launches 3 airplanes across the room. How many paper airplanes remain on the table?
+{user_name} folds 7 paper airplanes. {sister_name} launches 3 airplanes across the room. How many paper airplanes remain on the table?
+{user_name} folds 7 paper airplanes. {uncle_name} launches 3 airplanes across the room. How many paper airplanes remain on the table?
+{user_name} folds 7 paper airplanes. {aunt_name} launches 3 airplanes across the room. How many paper airplanes remain on the table?
+{user_name} has 9 toy dinosaurs. {grandfather_name} places 4 dinosaurs inside a toy cave. How many dinosaurs remain outside the cave?
+{user_name} has 9 toy dinosaurs. {grandmother_name} places 4 dinosaurs inside a toy cave. How many dinosaurs remain outside the cave?
+{user_name} has 9 toy dinosaurs. {father_name} places 4 dinosaurs inside a toy cave. How many dinosaurs remain outside the cave?
+{user_name} has 9 toy dinosaurs. {mother_name} places 4 dinosaurs inside a toy cave. How many dinosaurs remain outside the cave?
+{user_name} has 9 toy dinosaurs. {sister_name} places 4 dinosaurs inside a toy cave. How many dinosaurs remain outside the cave?
+{user_name} has 9 toy dinosaurs. {uncle_name} places 4 dinosaurs inside a toy cave. How many dinosaurs remain outside the cave?
+{user_name} has 9 toy dinosaurs. {aunt_name} places 4 dinosaurs inside a toy cave. How many dinosaurs remain outside the cave?
+{user_name} has 7 magnetic toy fish. {grandfather_name} catches 2 fish with a toy fishing rod. How many fish remain in the pond?
+{user_name} has 7 magnetic toy fish. {grandmother_name} catches 2 fish with a toy fishing rod. How many fish remain in the pond?
+{user_name} has 7 magnetic toy fish. {father_name} catches 2 fish with a toy fishing rod. How many fish remain in the pond?
+{user_name} has 7 magnetic toy fish. {mother_name} catches 2 fish with a toy fishing rod. How many fish remain in the pond?
+{user_name} has 7 magnetic toy fish. {sister_name} catches 2 fish with a toy fishing rod. How many fish remain in the pond?
+{user_name} has 7 magnetic toy fish. {uncle_name} catches 2 fish with a toy fishing rod. How many fish remain in the pond?
+{user_name} has 7 magnetic toy fish. {aunt_name} catches 2 fish with a toy fishing rod. How many fish remain in the pond?
+{user_name} has 8 toy boats in a water tub. {grandfather_name} removes 3 boats from the tub. How many toy boats remain in the tub?
+{user_name} has 8 toy boats in a water tub. {grandmother_name} removes 3 boats from the tub. How many toy boats remain in the tub?
+{user_name} has 8 toy boats in a water tub. {father_name} removes 3 boats from the tub. How many toy boats remain in the tub?
+{user_name} has 8 toy boats in a water tub. {mother_name} removes 3 boats from the tub. How many toy boats remain in the tub?
+{user_name} has 8 toy boats in a water tub. {sister_name} removes 3 boats from the tub. How many toy boats remain in the tub?
+{user_name} has 8 toy boats in a water tub. {uncle_name} removes 3 boats from the tub. How many toy boats remain in the tub?
+{user_name} has 8 toy boats in a water tub. {aunt_name} removes 3 boats from the tub. How many toy boats remain in the tub?
+{user_name} has 6 small basketballs. {grandfather_name} throws 2 balls into a mini basketball hoop. How many basketballs remain outside the hoop?
+{user_name} has 6 small basketballs. {grandmother_name} throws 2 balls into a mini basketball hoop. How many basketballs remain outside the hoop?
+{user_name} has 6 small basketballs. {father_name} throws 2 balls into a mini basketball hoop. How many basketballs remain outside the hoop?
+{user_name} has 6 small basketballs. {mother_name} throws 2 balls into a mini basketball hoop. How many basketballs remain outside the hoop?
+{user_name} has 6 small basketballs. {sister_name} throws 2 balls into a mini basketball hoop. How many basketballs remain outside the hoop?
+{user_name} has 6 small basketballs. {uncle_name} throws 2 balls into a mini basketball hoop. How many basketballs remain outside the hoop?
+{user_name} has 6 small basketballs. {aunt_name} throws 2 balls into a mini basketball hoop. How many basketballs remain outside the hoop?
+{user_name} has 8 cleaning brushes. {grandfather_name} takes 3 brushes to clean his bicycle. How many brushes remain with {user_name}?
+{user_name} has 8 cleaning brushes. {grandmother_name} takes 3 brushes to clean his bicycle. How many brushes remain with {user_name}?
+{user_name} has 8 cleaning brushes. {father_name} takes 3 brushes to clean his bicycle. How many brushes remain with {user_name}?
+{user_name} has 8 cleaning brushes. {mother_name} takes 3 brushes to clean his bicycle. How many brushes remain with {user_name}?
+{user_name} has 8 cleaning brushes. {brother_name} takes 3 brushes to clean his bicycle. How many brushes remain with {user_name}?
+{user_name} has 8 cleaning brushes. {sister_name} takes 3 brushes to clean his bicycle. How many brushes remain with {user_name}?
+{user_name} has 8 cleaning brushes. {aunt_name} takes 3 brushes to clean his bicycle. How many brushes remain with {user_name}?
+{user_name} has 9 chess pieces. {grandfather_name} removes 4 captured pieces from the board. How many chess pieces remain on the board?
+{user_name} has 9 chess pieces. {grandmother_name} removes 4 captured pieces from the board. How many chess pieces remain on the board?
+{user_name} has 9 chess pieces. {father_name} removes 4 captured pieces from the board. How many chess pieces remain on the board?
+{user_name} has 9 chess pieces. {mother_name} removes 4 captured pieces from the board. How many chess pieces remain on the board?
+{user_name} has 9 chess pieces. {brother_name} removes 4 captured pieces from the board. How many chess pieces remain on the board?
+{user_name} has 9 chess pieces. {sister_name} removes 4 captured pieces from the board. How many chess pieces remain on the board?
+{user_name} has 9 chess pieces. {aunt_name} removes 4 captured pieces from the board. How many chess pieces remain on the board?
+{user_name} makes 7 small clay pots. {grandfather_name} takes 2 pots to decorate a shelf. How many pots remain with {user_name}?
+{user_name} makes 7 small clay pots. {grandmother_name} takes 2 pots to decorate a shelf. How many pots remain with {user_name}?
+{user_name} makes 7 small clay pots. {father_name} takes 2 pots to decorate a shelf. How many pots remain with {user_name}?
+{user_name} makes 7 small clay pots. {mother_name} takes 2 pots to decorate a shelf. How many pots remain with {user_name}?
+{user_name} makes 7 small clay pots. {brother_name} takes 2 pots to decorate a shelf. How many pots remain with {user_name}?
+{user_name} makes 7 small clay pots. {sister_name} takes 2 pots to decorate a shelf. How many pots remain with {user_name}?
+{user_name} makes 7 small clay pots. {aunt_name} takes 2 pots to decorate a shelf. How many pots remain with {user_name}?
+{user_name} has 6 shoes to polish. {grandfather_name} polishes 2 shoes. How many shoes are still waiting to be polished?
+{user_name} has 6 shoes to polish. {grandmother_name} polishes 2 shoes. How many shoes are still waiting to be polished?
+{user_name} has 6 shoes to polish. {father_name} polishes 2 shoes. How many shoes are still waiting to be polished?
+{user_name} has 6 shoes to polish. {mother_name} polishes 2 shoes. How many shoes are still waiting to be polished?
+{user_name} has 6 shoes to polish. {brother_name} polishes 2 shoes. How many shoes are still waiting to be polished?
+{user_name} has 6 shoes to polish. {sister_name} polishes 2 shoes. How many shoes are still waiting to be polished?
+{user_name} has 6 shoes to polish. {aunt_name} polishes 2 shoes. How many shoes are still waiting to be polished?
+{user_name} collects 8 interesting rocks. {grandfather_name} places 3 rocks in his display box. How many rocks remain with {user_name}?
+{user_name} collects 8 interesting rocks. {grandmother_name} places 3 rocks in his display box. How many rocks remain with {user_name}?
+{user_name} collects 8 interesting rocks. {father_name} places 3 rocks in his display box. How many rocks remain with {user_name}?
+{user_name} collects 8 interesting rocks. {mother_name} places 3 rocks in his display box. How many rocks remain with {user_name}?
+{user_name} collects 8 interesting rocks. {brother_name} places 3 rocks in his display box. How many rocks remain with {user_name}?
+{user_name} collects 8 interesting rocks. {sister_name} places 3 rocks in his display box. How many rocks remain with {user_name}?
+{user_name} collects 8 interesting rocks. {aunt_name} places 3 rocks in his display box. How many rocks remain with {user_name}?
+{user_name} has 7 magic cards. {grandfather_name} uses 3 cards for a magic trick. How many cards remain with {user_name}?
+{user_name} has 7 magic cards. {grandmother_name} uses 3 cards for a magic trick. How many cards remain with {user_name}?
+{user_name} has 7 magic cards. {father_name} uses 3 cards for a magic trick. How many cards remain with {user_name}?
+{user_name} has 7 magic cards. {mother_name} uses 3 cards for a magic trick. How many cards remain with {user_name}?
+{user_name} has 7 magic cards. {brother_name} uses 3 cards for a magic trick. How many cards remain with {user_name}?
+{user_name} has 7 magic cards. {sister_name} uses 3 cards for a magic trick. How many cards remain with {user_name}?
+{user_name} has 7 magic cards. {aunt_name} uses 3 cards for a magic trick. How many cards remain with {user_name}?
+{user_name} has 6 star stickers for a telescope activity. {grandfather_name} uses 2 stickers on his notebook. How many stickers remain with {user_name}?
+{user_name} has 6 star stickers for a telescope activity. {grandmother_name} uses 2 stickers on his notebook. How many stickers remain with {user_name}?
+{user_name} has 6 star stickers for a telescope activity. {father_name} uses 2 stickers on his notebook. How many stickers remain with {user_name}?
+{user_name} has 6 star stickers for a telescope activity. {mother_name} uses 2 stickers on his notebook. How many stickers remain with {user_name}?
+{user_name} has 6 star stickers for a telescope activity. {brother_name} uses 2 stickers on his notebook. How many stickers remain with {user_name}?
+{user_name} has 6 star stickers for a telescope activity. {sister_name} uses 2 stickers on his notebook. How many stickers remain with {user_name}?
+{user_name} has 6 star stickers for a telescope activity. {aunt_name} uses 2 stickers on his notebook. How many stickers remain with {user_name}?
+{user_name} has 8 yo-yos. {grandfather_name} gives 3 yo-yos to his friends. How many yo-yos remain with {user_name}?
+{user_name} has 8 yo-yos. {grandmother_name} gives 3 yo-yos to his friends. How many yo-yos remain with {user_name}?
+{user_name} has 8 yo-yos. {father_name} gives 3 yo-yos to his friends. How many yo-yos remain with {user_name}?
+{user_name} has 8 yo-yos. {mother_name} gives 3 yo-yos to his friends. How many yo-yos remain with {user_name}?
+{user_name} has 8 yo-yos. {brother_name} gives 3 yo-yos to his friends. How many yo-yos remain with {user_name}?
+{user_name} has 8 yo-yos. {sister_name} gives 3 yo-yos to his friends. How many yo-yos remain with {user_name}?
+{user_name} has 8 yo-yos. {aunt_name} gives 3 yo-yos to his friends. How many yo-yos remain with {user_name}?
+{user_name} has 9 paper fins for a model rocket. {grandfather_name} attaches 4 fins to the rocket. How many fins remain unattached?
+{user_name} has 9 paper fins for a model rocket. {grandmother_name} attaches 4 fins to the rocket. How many fins remain unattached?
+{user_name} has 9 paper fins for a model rocket. {father_name} attaches 4 fins to the rocket. How many fins remain unattached?
+{user_name} has 9 paper fins for a model rocket. {mother_name} attaches 4 fins to the rocket. How many fins remain unattached?
+{user_name} has 9 paper fins for a model rocket. {brother_name} attaches 4 fins to the rocket. How many fins remain unattached?
+{user_name} has 9 paper fins for a model rocket. {sister_name} attaches 4 fins to the rocket. How many fins remain unattached?
+{user_name} has 9 paper fins for a model rocket. {aunt_name} attaches 4 fins to the rocket. How many fins remain unattached?
+{user_name} has 7 beanbags. {grandfather_name} throws 3 beanbags into a target bucket. How many beanbags remain outside the bucket?
+{user_name} has 7 beanbags. {grandmother_name} throws 3 beanbags into a target bucket. How many beanbags remain outside the bucket?
+{user_name} has 7 beanbags. {father_name} throws 3 beanbags into a target bucket. How many beanbags remain outside the bucket?
+{user_name} has 7 beanbags. {mother_name} throws 3 beanbags into a target bucket. How many beanbags remain outside the bucket?
+{user_name} has 7 beanbags. {brother_name} throws 3 beanbags into a target bucket. How many beanbags remain outside the bucket?
+{user_name} has 7 beanbags. {sister_name} throws 3 beanbags into a target bucket. How many beanbags remain outside the bucket?
+{user_name} has 7 beanbags. {aunt_name} throws 3 beanbags into a target bucket. How many beanbags remain outside the bucket?
+{user_name} has 8 bracelet charms. {grandfather_name} uses 3 charms to make a bracelet. How many unused charms remain?
+{user_name} has 8 bracelet charms. {grandmother_name} uses 3 charms to make a bracelet. How many unused charms remain?
+{user_name} has 8 bracelet charms. {father_name} uses 3 charms to make a bracelet. How many unused charms remain?
+{user_name} has 8 bracelet charms. {mother_name} uses 3 charms to make a bracelet. How many unused charms remain?
+{user_name} has 8 bracelet charms. {brother_name} uses 3 charms to make a bracelet. How many unused charms remain?
+{user_name} has 8 bracelet charms. {sister_name} uses 3 charms to make a bracelet. How many unused charms remain?
+{user_name} has 8 bracelet charms. {uncle_name} uses 3 charms to make a bracelet. How many unused charms remain?
+{user_name} has 7 badminton shuttlecocks. {grandfather_name} takes 2 shuttlecocks for practice. How many remain with {user_name}?
+{user_name} has 7 badminton shuttlecocks. {grandmother_name} takes 2 shuttlecocks for practice. How many remain with {user_name}?
+{user_name} has 7 badminton shuttlecocks. {father_name} takes 2 shuttlecocks for practice. How many remain with {user_name}?
+{user_name} has 7 badminton shuttlecocks. {mother_name} takes 2 shuttlecocks for practice. How many remain with {user_name}?
+{user_name} has 7 badminton shuttlecocks. {brother_name} takes 2 shuttlecocks for practice. How many remain with {user_name}?
+{user_name} has 7 badminton shuttlecocks. {sister_name} takes 2 shuttlecocks for practice. How many remain with {user_name}?
+{user_name} has 7 badminton shuttlecocks. {uncle_name} takes 2 shuttlecocks for practice. How many remain with {user_name}?
+{user_name} has 9 decorative buttons. {grandfather_name} glues 4 buttons onto a picture frame. How many buttons remain unused?
+{user_name} has 9 decorative buttons. {grandmother_name} glues 4 buttons onto a picture frame. How many buttons remain unused?
+{user_name} has 9 decorative buttons. {father_name} glues 4 buttons onto a picture frame. How many buttons remain unused?
+{user_name} has 9 decorative buttons. {mother_name} glues 4 buttons onto a picture frame. How many buttons remain unused?
+{user_name} has 9 decorative buttons. {brother_name} glues 4 buttons onto a picture frame. How many buttons remain unused?
+{user_name} has 9 decorative buttons. {sister_name} glues 4 buttons onto a picture frame. How many buttons remain unused?
+{user_name} has 9 decorative buttons. {uncle_name} glues 4 buttons onto a picture frame. How many buttons remain unused?
+{user_name} prepares 6 fruit ice pops. {grandfather_name} puts 2 ice pops into the freezer basket. How many ice pops remain outside the basket?
+{user_name} prepares 6 fruit ice pops. {grandmother_name} puts 2 ice pops into the freezer basket. How many ice pops remain outside the basket?
+{user_name} prepares 6 fruit ice pops. {father_name} puts 2 ice pops into the freezer basket. How many ice pops remain outside the basket?
+{user_name} prepares 6 fruit ice pops. {mother_name} puts 2 ice pops into the freezer basket. How many ice pops remain outside the basket?
+{user_name} prepares 6 fruit ice pops. {brother_name} puts 2 ice pops into the freezer basket. How many ice pops remain outside the basket?
+{user_name} prepares 6 fruit ice pops. {sister_name} puts 2 ice pops into the freezer basket. How many ice pops remain outside the basket?
+{user_name} prepares 6 fruit ice pops. {uncle_name} puts 2 ice pops into the freezer basket. How many ice pops remain outside the basket?
+{user_name} has 8 finger puppets. {grandfather_name} puts 3 puppets into a puppet bag. How many puppets remain outside the bag?
+{user_name} has 8 finger puppets. {grandmother_name} puts 3 puppets into a puppet bag. How many puppets remain outside the bag?
+{user_name} has 8 finger puppets. {father_name} puts 3 puppets into a puppet bag. How many puppets remain outside the bag?
+{user_name} has 8 finger puppets. {mother_name} puts 3 puppets into a puppet bag. How many puppets remain outside the bag?
+{user_name} has 8 finger puppets. {brother_name} puts 3 puppets into a puppet bag. How many puppets remain outside the bag?
+{user_name} has 8 finger puppets. {sister_name} puts 3 puppets into a puppet bag. How many puppets remain outside the bag?
+{user_name} has 8 finger puppets. {uncle_name} puts 3 puppets into a puppet bag. How many puppets remain outside the bag?
+{user_name} has 7 colored mosaic tiles. {grandfather_name} places 3 tiles onto a small art board. How many tiles remain unused?
+{user_name} has 7 colored mosaic tiles. {grandmother_name} places 3 tiles onto a small art board. How many tiles remain unused?
+{user_name} has 7 colored mosaic tiles. {father_name} places 3 tiles onto a small art board. How many tiles remain unused?
+{user_name} has 7 colored mosaic tiles. {mother_name} places 3 tiles onto a small art board. How many tiles remain unused?
+{user_name} has 7 colored mosaic tiles. {brother_name} places 3 tiles onto a small art board. How many tiles remain unused?
+{user_name} has 7 colored mosaic tiles. {sister_name} places 3 tiles onto a small art board. How many tiles remain unused?
+{user_name} has 7 colored mosaic tiles. {uncle_name} places 3 tiles onto a small art board. How many tiles remain unused?
+{user_name} has 9 small tambourines. {grandfather_name} gives 4 tambourines to a music group. How many tambourines remain?
+{user_name} has 9 small tambourines. {grandmother_name} gives 4 tambourines to a music group. How many tambourines remain?
+{user_name} has 9 small tambourines. {father_name} gives 4 tambourines to a music group. How many tambourines remain?
+{user_name} has 9 small tambourines. {mother_name} gives 4 tambourines to a music group. How many tambourines remain?
+{user_name} has 9 small tambourines. {brother_name} gives 4 tambourines to a music group. How many tambourines remain?
+{user_name} has 9 small tambourines. {sister_name} gives 4 tambourines to a music group. How many tambourines remain?
+{user_name} has 9 small tambourines. {uncle_name} gives 4 tambourines to a music group. How many tambourines remain?
+{user_name} folds 6 paper fans. {grandfather_name} gives 2 fans to guests. How many paper fans remain with {user_name}?
+{user_name} folds 6 paper fans. {grandmother_name} gives 2 fans to guests. How many paper fans remain with {user_name}?
+{user_name} folds 6 paper fans. {father_name} gives 2 fans to guests. How many paper fans remain with {user_name}?
+{user_name} folds 6 paper fans. {mother_name} gives 2 fans to guests. How many paper fans remain with {user_name}?
+{user_name} folds 6 paper fans. {brother_name} gives 2 fans to guests. How many paper fans remain with {user_name}?
+{user_name} folds 6 paper fans. {sister_name} gives 2 fans to guests. How many paper fans remain with {user_name}?
+{user_name} folds 6 paper fans. {uncle_name} gives 2 fans to guests. How many paper fans remain with {user_name}?
+{user_name} has 8 toy cubes. {grandfather_name} places 3 cubes on a balance scale. How many toy cubes remain beside the scale?
+{user_name} has 8 toy cubes. {grandmother_name} places 3 cubes on a balance scale. How many toy cubes remain beside the scale?
+{user_name} has 8 toy cubes. {father_name} places 3 cubes on a balance scale. How many toy cubes remain beside the scale?
+{user_name} has 8 toy cubes. {mother_name} places 3 cubes on a balance scale. How many toy cubes remain beside the scale?
+{user_name} has 8 toy cubes. {brother_name} places 3 cubes on a balance scale. How many toy cubes remain beside the scale?
+{user_name} has 8 toy cubes. {sister_name} places 3 cubes on a balance scale. How many toy cubes remain beside the scale?
+{user_name} has 8 toy cubes. {uncle_name} places 3 cubes on a balance scale. How many toy cubes remain beside the scale?
+{user_name} has 7 small bells for a wind chime. {grandfather_name} attaches 3 bells to the wind chime. How many bells remain unattached?
+{user_name} has 7 small bells for a wind chime. {grandmother_name} attaches 3 bells to the wind chime. How many bells remain unattached?
+{user_name} has 7 small bells for a wind chime. {father_name} attaches 3 bells to the wind chime. How many bells remain unattached?
+{user_name} has 7 small bells for a wind chime. {mother_name} attaches 3 bells to the wind chime. How many bells remain unattached?
+{user_name} has 7 small bells for a wind chime. {brother_name} attaches 3 bells to the wind chime. How many bells remain unattached?
+{user_name} has 7 small bells for a wind chime. {sister_name} attaches 3 bells to the wind chime. How many bells remain unattached?
+{user_name} has 7 small bells for a wind chime. {uncle_name} attaches 3 bells to the wind chime. How many bells remain unattached?

@@ -1,0 +1,9 @@
+title: Building a Dinosaur Collection with Sister
+question_text:
+{user_name} and {sister_name} arrange 3 groups of 10 toy dinosaurs and 6 extra dinosaurs. What number do the dinosaurs show altogether?
+options:
+A) 36
+B) 63
+C) 30
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 36 toy dinosaurs: 3 groups of 10 dinosaurs each and 6 extra dinosaurs. Keep every dinosaur visible and countable. No extra dinosaurs, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Playing Football with Mother
+question_text:
+{user_name} has 8 footballs. {mother_name} takes 3 footballs to the garage. How many footballs remain?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} playing with {mother_name}. Mother takes 3 footballs from a group of 8. Show exactly 5 footballs remaining with the child and 3 with Mother. No extra footballs, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Creating Puzzle Pictures with Father
+question_text:
+{user_name} helps {father_name} complete picture puzzles. They place 4 puzzle pieces on each of 2 small puzzle boards. How many puzzle pieces do they place altogether?
+options:
+A) 8
+B) 6
+C) 10
+image_prompt:
+Show {user_name} and {father_name} working on exactly 2 small puzzle boards. Each board must contain exactly 4 clearly separate puzzle pieces. Show exactly 8 pieces in total. No extra boards or pieces, and no text, letters, or numbers.

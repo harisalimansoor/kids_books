@@ -1,0 +1,9 @@
+title: Cutting a Cucumber with Sister
+question_text:
+{user_name} is helping {sister_name} prepare a cucumber for lunch. They cut one cucumber into 4 equal slices. What fraction of the cucumber is one slice?
+options:
+A) One half
+B) One quarter
+C) One whole
+image_prompt:
+Show {user_name} helping {sister_name} cut exactly one cucumber into 4 equal-sized slices. Make all 4 slices clearly equal in size. No extra cucumbers, food, objects, props, people, text, letters or numbers.

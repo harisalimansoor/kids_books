@@ -1,0 +1,9 @@
+title: Setting Half Past Six with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} check the time before their evening activity. They see the minute hand pointing to 6 and the hour hand halfway between 6 and 7. What time does the clock show?
+options:
+A) Half past 7
+B) 6 o'clock
+C) Half past 6
+image_prompt:
+Show {user_name} helping {grandmother_name} read exactly one analogue clock. The minute hand must point straight down to the 6 position, and the shorter hour hand must be halfway between 6 and 7. No numerals, text, letters, extra hands or extra clocks.

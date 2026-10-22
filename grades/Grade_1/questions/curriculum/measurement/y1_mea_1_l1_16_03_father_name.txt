@@ -1,0 +1,9 @@
+title: Measuring a Leaf with Father
+question_text:
+{user_name} and {father_name} measure a leaf with a ruler. The leaf is 5 centimetres long. Which unit is used to measure the leaf's length?
+options:
+A) Centimetres
+B) Kilograms
+C) Litres
+image_prompt:
+Show {user_name} and {father_name} measuring exactly 1 leaf with exactly 1 ruler placed along the leaf's length. No extra leaves, rulers, props, text, letters, or numbers.

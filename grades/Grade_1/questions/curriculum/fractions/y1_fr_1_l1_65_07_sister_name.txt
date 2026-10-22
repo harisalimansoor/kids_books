@@ -1,0 +1,9 @@
+title: Sharing a Biscuit with Sister
+question_text:
+{user_name} is helping {sister_name} break a round biscuit into pieces. They break one biscuit into 2 parts of different sizes. Can both parts be called halves?
+options:
+A) Yes, because there are 2 parts
+B) No, because the parts are unequal
+C) Yes, because the parts are equal
+image_prompt:
+Show {user_name} helping {sister_name} break exactly one round biscuit into 2 clearly unequal pieces, with one piece visibly larger than the other. No extra biscuits, food, objects, props, people, text, letters or numbers.

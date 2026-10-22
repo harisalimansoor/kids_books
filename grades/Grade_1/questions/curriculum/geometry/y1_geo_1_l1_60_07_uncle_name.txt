@@ -1,0 +1,9 @@
+title: Moving a Toy Boat with Uncle
+question_text:
+{user_name} is helping {uncle_name} move a toy boat across a pretend pond. The boat is facing right, and they move it forwards in the direction it is facing. Which way does the boat move?
+options:
+A) Left
+B) Right
+C) Backwards
+image_prompt:
+Show {user_name} helping {uncle_name} move exactly 1 toy boat towards the right across a simple pretend pond. The front of the boat must face right, with a clear arrow pointing right to show its forward movement. No extra boats, arrows, objects, props, text, letters, or numbers.

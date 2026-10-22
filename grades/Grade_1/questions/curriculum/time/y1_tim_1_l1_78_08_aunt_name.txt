@@ -1,0 +1,9 @@
+title: Planning a Cinema Visit with Aunt
+question_text:
+{user_name} is helping {aunt_name} plan a cinema visit. They arrive at the cinema at 2 o'clock and the film starts at 3 o'clock. Which event happens earlier?
+options:
+A) The film starts
+B) Arriving at the cinema
+C) Both happen at the same time
+image_prompt:
+Show {user_name} helping {aunt_name} compare two events in order: arriving outside a cinema first and watching a film inside later. Include exactly two people in each scene. No text, letters, numbers or extra scenes.

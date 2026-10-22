@@ -1,0 +1,9 @@
+title: Placing Books in Order with Uncle
+question_text:
+{user_name} helps {uncle_name} arrange the numbers 12, 29, and 18 from smallest to largest. Which number comes last?
+options:
+A) 12
+B) 18
+C) 29
+image_prompt:
+Show {user_name} and {uncle_name} arranging exactly 3 blank cards in a row. No printed numbers, letters, extra cards, or other text.

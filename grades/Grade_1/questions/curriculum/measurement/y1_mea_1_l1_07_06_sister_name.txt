@@ -1,0 +1,9 @@
+title: Weighing Oranges with Sister
+question_text:
+{user_name} and {sister_name} want to find the weight of a bag of oranges in kilograms. Which tool should they use?
+options:
+A) A weighing scale
+B) A measuring jug
+C) A ruler
+image_prompt:
+Show {user_name} and {sister_name} weighing exactly 1 bag of oranges on exactly 1 weighing scale. No extra bags, tools, props, text, letters, or numbers.

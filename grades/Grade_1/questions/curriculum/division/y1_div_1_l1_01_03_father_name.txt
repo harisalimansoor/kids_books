@@ -1,0 +1,9 @@
+title: Sharing Apples with Father
+question_text:
+{user_name} and {father_name} are sharing 6 apples equally between 2 plates. How many apples will be on each plate?
+options:
+A) 3
+B) 4
+C) 2
+image_prompt:
+Show {user_name} and {father_name} sharing exactly 6 apples equally between 2 plates, with exactly 3 apples on each plate. No extra apples, props, text, letters, or numbers.

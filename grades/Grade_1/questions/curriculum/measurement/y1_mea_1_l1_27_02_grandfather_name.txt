@@ -1,0 +1,9 @@
+title: Measuring a Crayon with Grandfather
+question_text:
+{user_name} and {grandfather_name} measure a crayon with a ruler. The crayon is 6 centimetres long. Which unit are they using to measure the crayon?
+options:
+A) Centimetres
+B) Kilograms
+C) Litres
+image_prompt:
+Show {user_name} and {grandfather_name} measuring exactly 1 crayon with exactly 1 ruler placed straight along the crayon's length. No extra crayons, rulers, props, text, letters, or numbers.

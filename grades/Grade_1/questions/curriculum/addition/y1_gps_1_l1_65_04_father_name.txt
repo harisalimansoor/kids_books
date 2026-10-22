@@ -1,0 +1,9 @@
+title: Knitting Time with Father
+question_text:
+Before knitting, {user_name} sorts 4 balls of wool, and {father_name} organizes 2 more. How many balls of wool do they have altogether?
+options:
+A) 6
+B) 2
+C) 14
+image_prompt:
+Show {user_name} sorting colorful wool balls at a knitting table while {father_name} prepares yarn for her knitting. Place EXACTLY 4 yarn balls in the child's wooden bowl and 2 in the aunt's bowl. Keep all 6 distinct, with no extra yarn balls.

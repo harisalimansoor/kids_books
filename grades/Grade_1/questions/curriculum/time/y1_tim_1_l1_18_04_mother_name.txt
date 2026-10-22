@@ -1,0 +1,9 @@
+title: Remembering Yesterday and Tomorrow with Mother
+question_text:
+{user_name} is helping {mother_name} remember their activities. They baked a cake yesterday, watered the plants today and will visit the park tomorrow. Which activity will they do tomorrow?
+options:
+A) Baking a cake
+B) Watering the plants
+C) Visiting the park
+image_prompt:
+Show {user_name} helping {mother_name} look at exactly 3 picture cards in order. Show baking a cake on the first card, watering plants on the second and visiting a park on the third. No text, letters, numbers or extra cards.

@@ -1,0 +1,9 @@
+title: Playing with a String Loop
+question_text:
+{user_name} is helping {mother_name} play with a bead and a string loop. They place the bead inside the closed loop. Where is the bead?
+options:
+A) Outside the loop
+B) Behind the loop
+C) Inside the loop
+image_prompt:
+Show {user_name} helping {mother_name} arrange exactly 1 bead inside exactly 1 closed loop of string, viewed from above. Keep the bead completely within the boundary of the loop. Make the loop closed and the bead clearly visible. No extra beads, loops, objects, props, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Sorting Pencils with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} sort pencils for school. They arrange 8 pencils into 4 equal groups. What fraction of all the pencils is in one group?
+options:
+A) One quarter
+B) One half
+C) One whole
+image_prompt:
+Show {user_name} helping {grandfather_name} arrange exactly 8 pencils into 4 separate, equal groups, with exactly 2 pencils in each group. No extra pencils, objects, props, people, text, letters or numbers.

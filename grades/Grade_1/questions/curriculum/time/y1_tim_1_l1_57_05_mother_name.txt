@@ -1,0 +1,9 @@
+title: Comparing Journey Times with Mother
+question_text:
+{user_name} is helping {mother_name} compare two journeys. They spend 1 hour cycling to a nearby park and 3 hours travelling by train to visit another town. Which journey takes longer?
+options:
+A) Cycling to the nearby park
+B) Travelling by train to another town
+C) Both journeys take the same time
+image_prompt:
+Show {user_name} helping {mother_name} compare two journeys in separate scenes: cycling towards a nearby park and travelling by train towards another town. Include exactly two people in each scene, one bicycle and one train. No text, letters, numbers or extra vehicles.

@@ -1,0 +1,9 @@
+title: Completing a Counting Row with Brother
+question_text:
+{user_name} and {brother_name} complete this counting sequence: 26, 27, 28, __, 30. Which number is missing?
+options:
+A) 29
+B) 31
+C) 25
+image_prompt:
+Show {user_name} and {brother_name} looking at exactly 5 blank cards in a row. Highlight the fourth card as the missing place. No printed numbers, letters, extra cards, or other text.

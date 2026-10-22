@@ -1,0 +1,9 @@
+title: Cutting an Apple with Aunt
+question_text:
+{user_name} is helping {aunt_name} prepare an apple for a snack. They cut one apple into 2 equal parts. What fraction of the apple is each part?
+options:
+A) One half
+B) One whole
+C) One quarter
+image_prompt:
+Show {user_name} helping {aunt_name} cut exactly one apple into 2 equal-sized parts. No extra apples, fruit, objects, props, people, text, letters or numbers.

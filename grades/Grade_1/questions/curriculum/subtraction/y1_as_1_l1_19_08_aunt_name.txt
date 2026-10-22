@@ -1,0 +1,9 @@
+title: Collecting Eggs with Aunt
+question_text:
+{user_name} finds 8 eggs in a basket. {aunt_name} takes 3 eggs to the kitchen. How many eggs remain in the basket?
+options:
+A) 4
+B) 5
+C) 6
+image_prompt:
+Show {user_name} collecting eggs with {aunt_name}. Aunt takes 3 eggs from a basket of 8. Show exactly 5 eggs remaining in the basket and 3 with Aunt. No extra eggs, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Washing the Car with Sister
+question_text:
+{user_name} and {sister_name} have 7 sponges. Sister takes 2 sponges to wash the car. How many sponges remain?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} helping {sister_name} wash a car. Sister takes 2 sponges from a group of 7. Show exactly 5 sponges remaining with the child and 2 with Sister. No extra sponges, text, letters, or numbers.

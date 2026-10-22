@@ -1,0 +1,9 @@
+title: Folding a Handkerchief with Father
+question_text:
+{user_name} is helping {father_name} fold a handkerchief. The handkerchief has 4 equal straight sides and 4 corners. Which 2D shape is it?
+options:
+A) Rectangle
+B) Triangle
+C) Square
+image_prompt:
+Show {user_name} helping {father_name} hold exactly 1 unfolded square handkerchief. Make all 4 equal sides and 4 corners clearly visible. Keep the fabric plain, without patterns or writing. No extra handkerchiefs, objects, props, text, letters, or numbers.

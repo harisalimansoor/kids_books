@@ -1,0 +1,9 @@
+title: Folding Picnic Blankets with Father
+question_text:
+{user_name} and {father_name} fold 6 picnic blankets equally into 3 picnic areas. How many blankets will be in each area?
+options:
+A) 4
+B) 2
+C) 3
+image_prompt:
+Show {user_name} and {father_name} placing exactly 6 folded picnic blankets equally across 3 separate picnic areas, with exactly 2 blankets in each area. No extra blankets, text, letters, or numbers.

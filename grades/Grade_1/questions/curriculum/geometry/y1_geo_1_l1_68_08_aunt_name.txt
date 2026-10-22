@@ -1,0 +1,9 @@
+title: Putting an Umbrella Below a Shelf
+question_text:
+{user_name} is helping {aunt_name} tidy a room. They place an umbrella directly below a wall shelf. Where is the umbrella?
+options:
+A) Above the shelf
+B) Below the shelf
+C) On top of the shelf
+image_prompt:
+Show {user_name} helping {aunt_name} place exactly 1 closed umbrella directly below exactly 1 wall shelf. Keep the umbrella entirely beneath the shelf with a clear gap between them. No extra umbrellas, shelves, objects, props, text, letters, or numbers.

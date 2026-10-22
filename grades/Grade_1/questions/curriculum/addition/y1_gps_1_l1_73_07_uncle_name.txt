@@ -1,0 +1,9 @@
+title: Knitting Mittens with Uncle
+question_text:
+After their knitting session, {user_name} has completed 2 wool mittens, and {uncle_name} has knitted 2 more. How many mittens have they made in total?
+options:
+A) 0
+B) 4
+C) 12
+image_prompt:
+Create a warm, inviting knitting scene in which {user_name} and {uncle_name} sit at a comfortable craft table. Two finished knitted mittens belonging to the child lie flat on a small mat while the child carefully checks their stitching. Beside Uncle, her own two finished mittens are arranged neatly as she examines a seam with a sewing needle. The child's side must contain EXACTLY 2 complete wool mittens, and Uncle's side must contain EXACTLY 2 complete wool mittens, making 4 mittens altogether. Every mitten must have a clearly recognizable mitten shape, with its thumb visible, and must be separated from the other mittens rather than stacked or hidden. Use different gentle wool colors and realistic knitted textures to make the four items easy to distinguish. Knitting needles and a modest ball of yarn may appear as supporting craft materials, but no unfinished mitten, mitten-shaped yarn, extra gloves, or additional knitted mittens may appear. Avoid placing the finished mittens in either character's hands. No text, letters, numbers, labels, or written answers.

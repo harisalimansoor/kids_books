@@ -1,0 +1,9 @@
+title: Playing with Dinosaurs with Mother
+question_text:
+{user_name} is helping {mother_name} organise toy dinosaurs. They put half of their 6 toy dinosaurs into a toy box. How many toy dinosaurs do they put in the box?
+options:
+A) 2 dinosaurs
+B) 4 dinosaurs
+C) 3 dinosaurs
+image_prompt:
+Show {user_name} helping {mother_name} organise exactly 6 toy dinosaurs, with exactly 3 dinosaurs inside one toy box and 3 outside it. No additional dinosaurs, boxes, objects, props or people. No text, letters or numbers.

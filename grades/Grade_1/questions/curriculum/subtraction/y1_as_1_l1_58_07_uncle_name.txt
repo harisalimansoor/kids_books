@@ -1,0 +1,9 @@
+title: Playing a Magnetic Fishing Game with Uncle
+question_text:
+{user_name} has 7 magnetic toy fish. {uncle_name} catches 2 fish with a toy fishing rod. How many fish remain in the pond?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} playing a magnetic fishing game with {uncle_name}. Uncle catches 2 toy fish from a pond containing 7. Show exactly 5 fish remaining in the pond and 2 held by Uncle. No extra fish, text, letters, or numbers.

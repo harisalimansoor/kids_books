@@ -1,0 +1,9 @@
+title: Measuring a Garden Walk with Sister
+question_text:
+{user_name} and {sister_name} measure a short garden walk by counting their steps. It takes exactly 6 steps to reach the gate. How many steps long is the walk?
+options:
+A) 4 steps
+B) 8 steps
+C) 6 steps
+image_prompt:
+Show {user_name} and {sister_name} walking along a short garden path toward one gate, demonstrating that the path is measured in steps. Show a clear walking path. No extra people, gates, props, text, letters, or numbers.

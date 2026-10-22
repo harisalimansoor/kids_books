@@ -1,0 +1,9 @@
+title: Finding the Number Name with Sister
+question_text:
+{user_name} and {sister_name} count 35 beads. Which number name matches 35?
+options:
+A) Thirty-five
+B) Fifty-three
+C) Twenty-five
+image_prompt:
+Show {user_name} and {sister_name} counting exactly 35 beads arranged in 3 groups of 10 and 5 loose beads. Keep all beads visible and countable. No extra beads, and no text, letters, or numbers.

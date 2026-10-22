@@ -1,0 +1,9 @@
+title: Morning Routine with Father
+question_text:
+{user_name} is helping {father_name} follow a morning routine. They wake up and eat breakfast before starting the day. Which activity usually happens in the morning?
+options:
+A) Eating breakfast
+B) Going to sleep at night
+C) Looking at stars before bed
+image_prompt:
+Show {user_name} helping {father_name} eat breakfast in a bright morning setting. Include exactly two people and one breakfast setting for each person. No text, letters, numbers or unnecessary objects.

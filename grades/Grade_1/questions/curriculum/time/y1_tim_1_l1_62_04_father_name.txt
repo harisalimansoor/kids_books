@@ -1,0 +1,9 @@
+title: Planning a Summer Picnic with Father
+question_text:
+{user_name} is helping {father_name} plan a summer picnic. They find August on the calendar and want to know which month comes just before it. Which month comes before August?
+options:
+A) July
+B) September
+C) October
+image_prompt:
+Show {user_name} helping {father_name} arrange exactly three blank calendar pages in sequence. No text, letters, numbers or extra calendar pages.

@@ -1,0 +1,9 @@
+title: Preparing Orange Bowls with Aunt
+question_text:
+{user_name} helps {aunt_name} prepare orange slices for a snack. They put 4 orange slices in each of 2 bowls. How many orange slices do they use altogether?
+options:
+A) 6
+B) 10
+C) 8
+image_prompt:
+Show {user_name} and {aunt_name} preparing exactly 2 small bowls. Each bowl must contain exactly 4 clearly visible orange slices. Show exactly 8 slices in total. No extra bowls or orange slices, and no text, letters, or numbers.

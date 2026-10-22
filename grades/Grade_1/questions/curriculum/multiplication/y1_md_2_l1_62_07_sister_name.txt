@@ -1,0 +1,9 @@
+title: Setting Up a Road Course with Sister
+question_text:
+{user_name} helps {sister_name} set up a mini road course. They place 3 traffic cones in each of 2 lanes. How many traffic cones do they use altogether?
+options:
+A) 4
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {sister_name} setting up exactly 2 separate road-course lanes. Each lane must contain exactly 3 traffic cones. Show exactly 6 cones in total. No extra cones, and no text, letters, or numbers.

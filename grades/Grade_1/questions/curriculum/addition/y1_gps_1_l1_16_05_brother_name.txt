@@ -1,0 +1,9 @@
+title: Picking Strawberries with Brother
+question_text:
+{user_name} and {brother_name} are picking fresh strawberries. {user_name} picks 6 strawberries, and {brother_name} picks 2 strawberries. How many strawberries did they pick in total?
+options:
+A) 8
+B) 4
+C) 19
+image_prompt:
+Make 6 strawberries in front of {user_name} and 2 strawberries in front of {brother_name}.

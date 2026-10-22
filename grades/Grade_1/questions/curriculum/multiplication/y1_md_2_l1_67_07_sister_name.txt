@@ -1,0 +1,9 @@
+title: Sorting Toy Hammers with Sister
+question_text:
+{user_name} helps {sister_name} organize toy tools. They put 2 toy hammers in each of 3 toolboxes. How many toy hammers do they put away altogether?
+options:
+A) 7
+B) 6
+C) 5
+image_prompt:
+Show {user_name} and {sister_name} organizing exactly 3 open toolboxes. Each toolbox must contain exactly 2 clearly visible toy hammers. Show exactly 6 hammers in total. No extra toolboxes or hammers, and no text, letters, or numbers.

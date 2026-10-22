@@ -1,0 +1,9 @@
+title: Feeding Birds with Father
+question_text:
+{user_name} and {father_name} are feeding birds in the park. {user_name} feeds 6 birds, and {father_name} feeds 2 birds. How many birds did they feed in total?
+options:
+A) 8
+B) 11
+C) 9
+image_prompt:
+Show {user_name} feeding exactly 6 birds and {father_name} feeding exactly 2 different birds in a park. Show exactly 8 birds in total, clearly separated into groups of 6 and 2. No extra birds, text, letters, or numbers.

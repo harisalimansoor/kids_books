@@ -1,0 +1,9 @@
+title: Painting Rocks with Sister
+question_text:
+{user_name} and {sister_name} are painting smooth rocks. {user_name} paints 4 rocks, and {sister_name} paints 5 rocks. How many rocks did they paint in total?
+options:
+A) 9
+B) 8
+C) 7
+image_prompt:
+Show {user_name} painting exactly 4 smooth rocks and {sister_name} painting exactly 5 smooth rocks. Show exactly 9 rocks in total. No extra rocks, text, letters, or numbers.

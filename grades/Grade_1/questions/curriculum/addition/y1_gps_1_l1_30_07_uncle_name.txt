@@ -1,0 +1,9 @@
+title: Stacking Comic Books with Uncle
+question_text:
+{user_name} stacks 4 comic books on a table, while {uncle_name} stacks 3 more. How many comic books have they stacked altogether?
+options:
+A) 17
+B) 7
+C) 1
+image_prompt:
+Show {user_name} arranging comic books into a neat stack while {uncle_name} places books on a separate stack nearby. Include EXACTLY 4 comic books in the child's group and 3 in Uncle's group, with no extra books.

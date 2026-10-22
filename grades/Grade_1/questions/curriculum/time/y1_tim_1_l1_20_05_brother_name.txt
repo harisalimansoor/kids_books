@@ -1,0 +1,9 @@
+title: Following a Bedtime Routine with Brother
+question_text:
+{user_name} is helping {brother_name} follow an evening routine. They eat dinner in the evening and brush their teeth before going to bed at night. What do they do after dinner?
+options:
+A) Eat breakfast
+B) Brush their teeth
+C) Go for a morning walk
+image_prompt:
+Show {user_name} helping {brother_name} follow a bedtime routine. Clearly show brushing teeth after dinner and before bedtime, with a simple bathroom scene and a separate bedtime scene. No text, letters, numbers, duplicate people or unnecessary objects.

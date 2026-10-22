@@ -1,0 +1,9 @@
+title: Finding the Bigger Number with Sister
+question_text:
+{user_name} and {sister_name} compare the numbers 34 and 43. Which number is greater?
+options:
+A) 34
+B) 43
+C) Both numbers are equal
+image_prompt:
+Show {user_name} and {sister_name} comparing exactly 2 groups of blocks: one group with 34 blocks and another with 43 blocks. Keep every block visible and countable. No extra blocks, and no text, letters, or numbers.

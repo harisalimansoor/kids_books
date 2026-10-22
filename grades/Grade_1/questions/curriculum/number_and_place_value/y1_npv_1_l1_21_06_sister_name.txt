@@ -1,0 +1,9 @@
+title: Counting Footballs with Sister
+question_text:
+{user_name} helps {sister_name} arrange 2 groups of 10 footballs and 7 extra footballs. What number do the footballs show altogether?
+options:
+A) 27
+B) 72
+C) 17
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 27 footballs: 2 groups of 10 footballs each and 7 extra footballs. Keep every football visible and countable. No extra footballs, and no text, letters, or numbers.

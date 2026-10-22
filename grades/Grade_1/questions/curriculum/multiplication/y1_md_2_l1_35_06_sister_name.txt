@@ -1,0 +1,9 @@
+title: Planting Seeds with Sister
+question_text:
+{user_name} helps {sister_name} plant seeds. They put 3 seeds in each of 2 small pots. How many seeds do they plant altogether?
+options:
+A) 5
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {sister_name} planting seeds in exactly 2 small pots. Each pot must have exactly 3 clearly visible seeds on the soil surface. Show exactly 6 seeds in total. No extra pots or seeds, and no text, letters, or numbers.

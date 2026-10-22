@@ -1,0 +1,9 @@
+title: Comparing Trip Times with Father
+question_text:
+{user_name} is helping {father_name} compare the time spent on two activities. They spend 1 hour at a swimming lesson and 3 hours on a seaside trip. Which activity takes longer?
+options:
+A) The swimming lesson
+B) The seaside trip
+C) Both take the same time
+image_prompt:
+Show {user_name} helping {father_name} compare two activities in separate scenes: a swimming lesson and a seaside trip. Show a swimming pool in the first scene and a beach in the second. No text, letters, numbers or extra people.

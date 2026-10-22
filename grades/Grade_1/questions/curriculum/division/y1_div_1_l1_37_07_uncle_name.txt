@@ -1,0 +1,9 @@
+title: Building Birdhouse Posts with Uncle
+question_text:
+{user_name} and {uncle_name} attach 6 small birdhouses equally to 3 garden posts. How many birdhouses will be on each post?
+options:
+A) 3
+B) 2
+C) 4
+image_prompt:
+Show {user_name} and {uncle_name} attaching exactly 6 small birdhouses equally to 3 separate garden posts, with exactly 2 birdhouses on each post. No extra birdhouses, text, letters, or numbers.

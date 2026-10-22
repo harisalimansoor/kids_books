@@ -1,0 +1,9 @@
+title: Sorting Crayons with Grandfather
+question_text:
+{user_name} sorts 6 wax crayons by color, while {grandfather_name} organizes 3 more. How many crayons have they sorted altogether?
+options:
+A) 3
+B) 18
+C) 9
+image_prompt:
+Show {user_name} sorting crayons into color groups while {grandfather_name} lines hers up neatly on the desk. Include EXACTLY 6 crayons in the child's group and 3 in the sister's group, with no extra crayons.

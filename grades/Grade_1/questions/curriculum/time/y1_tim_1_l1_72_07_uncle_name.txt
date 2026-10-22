@@ -1,0 +1,9 @@
+title: Finding the Next Month with Uncle
+question_text:
+{user_name} is helping {uncle_name} plan a summer holiday. They find May on the calendar and look for the month that comes next. Which month comes after May?
+options:
+A) April
+B) July
+C) June
+image_prompt:
+Show {user_name} helping {uncle_name} arrange exactly 3 blank calendar pages in sequence. No text, letters, numbers, extra pages or extra objects.

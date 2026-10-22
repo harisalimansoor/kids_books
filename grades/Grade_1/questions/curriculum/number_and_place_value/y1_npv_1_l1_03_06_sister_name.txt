@@ -1,0 +1,9 @@
+title: Counting Ones with Sister
+question_text:
+{user_name} helps {sister_name} arrange 36 buttons into 3 groups of 10 and 6 loose buttons. How many ones are in 36?
+options:
+A) 3
+B) 10
+C) 6
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 36 buttons: 3 groups of 10 buttons each and 6 loose buttons. Keep all buttons visible and countable. No extra buttons, and no text, letters, or numbers.

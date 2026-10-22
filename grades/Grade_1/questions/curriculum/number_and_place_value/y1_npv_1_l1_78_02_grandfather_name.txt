@@ -1,0 +1,9 @@
+title: Arranging Paper Fans with Grandfather
+question_text:
+{user_name} helps {grandfather_name} arrange the numbers 13, 28, and 35 from smallest to largest. Which number should come second?
+options:
+A) 35
+B) 13
+C) 28
+image_prompt:
+Show {user_name} and {grandfather_name} arranging exactly 3 paper fans from left to right. Keep all 3 fans clearly separate. No extra fans, and no text, letters, or numbers.

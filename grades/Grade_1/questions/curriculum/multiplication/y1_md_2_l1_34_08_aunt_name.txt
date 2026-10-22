@@ -1,0 +1,9 @@
+title: Matching Socks with Aunt
+question_text:
+{user_name} helps {aunt_name} match clean socks. They make 3 pairs of socks. How many individual socks do they have altogether?
+options:
+A) 6
+B) 3
+C) 9
+image_prompt:
+Show {user_name} and {aunt_name} matching exactly 3 pairs of socks. Each pair must contain exactly 2 separate socks. Show exactly 6 individual socks in total. No extra socks or pairs, and no text, letters, or numbers.

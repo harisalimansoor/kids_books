@@ -1,0 +1,9 @@
+title: Comparing Step Stools with Father
+question_text:
+{user_name} and {father_name} are comparing 2 step stools. One stool is 25 cm tall, and the other is 30 cm tall. Which stool is shorter?
+options:
+A) The stool that is 30 cm tall
+B) Both stools are the same height
+C) The stool that is 25 cm tall
+image_prompt:
+Show {user_name} and {father_name} comparing exactly 2 step stools standing side by side. One stool must be clearly shorter than the other. No extra stools, props, text, letters, or numbers.

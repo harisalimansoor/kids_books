@@ -1,0 +1,9 @@
+title: Potting Plants with Sister
+question_text:
+{user_name} plants 6 small cacti in separate pots, while {sister_name} prepares 3 more potted cacti. How many cactus pots have they prepared altogether?
+options:
+A) 3
+B) 18
+C) 9
+image_prompt:
+Show {user_name} potting small cacti at a gardening table while {sister_name} waters her finished plants nearby. Include EXACTLY 6 potted cacti in the child's area and 3 in the aunt's area. Keep all 9 pots visible, with no additional plants or pots.

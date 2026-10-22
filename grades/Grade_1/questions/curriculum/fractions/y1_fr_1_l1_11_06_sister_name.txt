@@ -1,0 +1,9 @@
+title: Sharing a Sandwich with Sister
+question_text:
+{user_name} is helping {sister_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+options:
+A) One whole
+B) One half
+C) One quarter
+image_prompt:
+Show {user_name} helping {sister_name} share exactly one sandwich cut into 2 equal-sized parts. No extra sandwiches, objects, props, people, text, letters or numbers.

@@ -1,0 +1,9 @@
+title: Packing Footballs with Aunt
+question_text:
+{user_name} helps {aunt_name} pack footballs for practice. They put 2 footballs in each of 3 sports bags. How many footballs do they pack altogether?
+options:
+A) 6
+B) 5
+C) 8
+image_prompt:
+Show {user_name} and {aunt_name} packing exactly 3 sports bags. Each bag must contain exactly 2 clearly visible footballs. Show exactly 6 footballs in total. No extra bags, footballs, text, letters, or numbers.

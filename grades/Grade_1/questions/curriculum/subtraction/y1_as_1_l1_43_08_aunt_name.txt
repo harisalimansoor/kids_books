@@ -1,0 +1,9 @@
+title: Making a Necklace with Aunt
+question_text:
+{user_name} has 9 colorful beads. {aunt_name} uses 4 beads to make a necklace. How many unused beads remain?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} making a necklace with {aunt_name}. Aunt uses 4 beads from a group of 9. Show exactly 5 loose beads on the table and 4 beads on the necklace. No extra beads, text, letters, or numbers.

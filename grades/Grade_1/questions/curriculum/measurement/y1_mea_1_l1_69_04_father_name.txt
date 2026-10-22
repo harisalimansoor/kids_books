@@ -1,0 +1,9 @@
+title: Measuring a Picnic Basket with Father
+question_text:
+{user_name} and {father_name} measure the width of a picnic basket using identical craft sticks. The basket is exactly as wide as 4 craft sticks placed side by side. How many craft sticks wide is the basket?
+options:
+A) 4 craft sticks
+B) 6 craft sticks
+C) 2 craft sticks
+image_prompt:
+Show {user_name} and {father_name} measuring exactly 1 picnic basket using exactly 4 identical craft sticks placed edge to edge across its width. No extra craft sticks, baskets, props, text, letters, or numbers.

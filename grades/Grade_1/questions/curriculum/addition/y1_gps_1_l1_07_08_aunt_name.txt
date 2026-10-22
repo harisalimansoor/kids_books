@@ -1,0 +1,9 @@
+title: Making Paper Boats with Aunt
+question_text:
+{user_name} and {aunt_name} are folding paper boats. {user_name} folds 2 paper boats, and {aunt_name} folds 3 paper boats. How many paper boats did they fold in total?
+options:
+A) 7
+B) 5
+C) 9
+image_prompt:
+Show {user_name} folding exactly 2 paper boats and {aunt_name} folding exactly 3 paper boats. Show exactly 5 paper boats in total. No extra boats, text, letters, or numbers.

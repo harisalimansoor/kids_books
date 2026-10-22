@@ -1,0 +1,9 @@
+title: Counting Shells with Uncle
+question_text:
+{user_name} helps {uncle_name} arrange 4 groups of 10 seashells and 5 extra seashells. What number do the seashells show altogether?
+options:
+A) 45
+B) 54
+C) 15
+image_prompt:
+Show {user_name} and {uncle_name} arranging exactly 45 seashells: 4 groups of 10 shells each and 5 extra shells. Keep every shell visible and countable. No extra shells, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Filling Bird Feeders with Aunt
+question_text:
+{user_name} helps {aunt_name} fill bird feeders. They put 2 scoops of birdseed into each of 2 feeders. How many scoops do they use altogether?
+options:
+A) 4
+B) 3
+C) 6
+image_prompt:
+Show {user_name} and {aunt_name} filling exactly 2 bird feeders. Each feeder contains exactly 2 visible scoops of birdseed. Represent exactly 4 scoops in total. No extra feeders, scoops, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Learning Half Past with Sister
+question_text:
+{user_name} is helping {sister_name} read a clock before lunch. They see the minute hand pointing to 6 and the hour hand halfway between 9 and 10. What time does the clock show?
+options:
+A) Half past 10
+B) Half past 9
+C) 9 o'clock
+image_prompt:
+Show {user_name} helping {sister_name} read exactly one analogue clock. The minute hand points straight down to the 6 position, and the shorter hour hand sits halfway between 9 and 10. No numerals, text, letters, extra hands or extra clocks.

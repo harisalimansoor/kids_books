@@ -1,0 +1,9 @@
+title: Setting Up Mini Bowling with Brother
+question_text:
+{user_name} and {brother_name} set up mini bowling pins. They arrange 2 pins in each of 4 small groups. How many pins do they arrange altogether?
+options:
+A) 8
+B) 6
+C) 10
+image_prompt:
+Show {user_name} and {brother_name} arranging exactly 4 separate groups of 2 mini bowling pins. Show exactly 8 pins in total. No extra pins, text, letters, or numbers.

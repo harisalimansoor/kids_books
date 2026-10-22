@@ -1,0 +1,9 @@
+title: Building Toy Airplanes with Aunt
+question_text:
+{user_name} assembles 2 toy airplanes, while {aunt_name} builds 3 more. How many toy airplanes have they built altogether?
+options:
+A) 5
+B) 1
+C) 12
+image_prompt:
+Show {user_name} attaching a wing to a toy airplane while {aunt_name} assembles another at a worktable. Include EXACTLY 2 completed toy airplanes in the child's group and 3 in Aunt's group, with no extra airplanes.

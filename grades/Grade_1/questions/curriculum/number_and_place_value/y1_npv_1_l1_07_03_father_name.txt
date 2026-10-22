@@ -1,0 +1,9 @@
+title: Comparing Toy Cars with Father
+question_text:
+{user_name} and {father_name} have 28 toy cars in one collection and 32 in another. Which collection has more toy cars?
+options:
+A) The collection with 28 cars
+B) The collection with 32 cars
+C) Both collections have the same number
+image_prompt:
+Show {user_name} and {father_name} comparing exactly 2 separate collections of toy cars. One collection has exactly 28 cars, and the other has exactly 32 cars. Keep all cars visible and countable. No extra cars, and no text, letters, or numbers.

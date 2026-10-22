@@ -1,0 +1,9 @@
+title: Arranging Shape Cards with Father
+question_text:
+{user_name} is helping {father_name} arrange shape cards. They place the triangle above the circle and the square beside them. Which shape is directly below the triangle?
+options:
+A) Circle
+B) Square
+C) Rectangle
+image_prompt:
+Show {user_name} helping {father_name} arrange exactly 3 shape cards: 1 triangle at the top, 1 circle directly below the triangle, and 1 square beside them. Make every position clear. No extra shapes, objects, props, text, letters, or numbers.

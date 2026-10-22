@@ -1,0 +1,9 @@
+title: Planning a Walk with Father
+question_text:
+{user_name} is helping {father_name} plan their daily activities. They go for a walk before eating lunch. Which activity happens earlier?
+options:
+A) Eating lunch
+B) Going for a walk
+C) Going to bed at night
+image_prompt:
+Show {user_name} helping {father_name} follow two activities in order: going for a walk first and eating lunch afterwards. Make the sequence visually clear. No text, letters, numbers or extra scenes.

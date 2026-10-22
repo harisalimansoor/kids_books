@@ -1,0 +1,9 @@
+title: Sorting Socks with Grandmother
+question_text:
+{user_name} and {grandmother_name} sort 8 socks equally into 2 laundry baskets. How many socks will be in each basket?
+options:
+A) 4
+B) 2
+C) 3
+image_prompt:
+Show {user_name} and {grandmother_name} sorting exactly 8 socks equally into 2 laundry baskets, with exactly 4 socks in each basket. No extra socks, props, text, letters, or numbers.

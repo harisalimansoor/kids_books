@@ -1,0 +1,9 @@
+title: Making Numbers with Uncle
+question_text:
+{user_name} helps {uncle_name} make a number with 4 tens and 2 ones. Which number do they make?
+options:
+A) 24
+B) 42
+C) 40
+image_prompt:
+Show {user_name} and {uncle_name} arranging exactly 42 blocks: 4 separate groups of 10 blocks each and 2 loose blocks. Keep all blocks visible and countable. No extra blocks, and no text, letters, or numbers.

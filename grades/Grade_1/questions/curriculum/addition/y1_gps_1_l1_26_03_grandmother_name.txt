@@ -1,0 +1,9 @@
+title: Sharpening Pencils with Grandmother
+question_text:
+{user_name} sharpens 6 colored pencils, and {grandmother_name} sharpens 3 more. How many pencils have they sharpened altogether?
+options:
+A) 9
+B) 3
+C) 18
+image_prompt:
+Show {user_name} sharpening colored pencils with a pencil sharpener while {grandmother_name} sorts the sharpened pencils by color. Include EXACTLY 6 pencils in the child's group and 3 in Grandmother's group, with no extra pencils.

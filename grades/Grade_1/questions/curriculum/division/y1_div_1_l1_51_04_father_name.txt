@@ -1,0 +1,9 @@
+title: Hanging Skipping Ropes with Father
+question_text:
+{user_name} and {father_name} hang 6 skipping ropes equally on 2 playground racks. How many skipping ropes will be on each rack?
+options:
+A) 2
+B) 3
+C) 4
+image_prompt:
+Show {user_name} and {father_name} hanging exactly 6 skipping ropes equally on 2 playground racks, with exactly 3 ropes on each rack. No extra ropes, text, letters, or numbers.

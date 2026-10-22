@@ -1,0 +1,9 @@
+title: Filling Seed Packets with Sister
+question_text:
+{user_name} and {sister_name} arrange 2 tens and 9 ones using small seed packets. Which number do they show?
+options:
+A) 92
+B) 20
+C) 29
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 29 small seed packets: 2 groups of 10 packets each and 9 separate packets. Keep all packets visible and countable. No extra packets, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Choosing a Tablet with Uncle
+question_text:
+{user_name} is helping {uncle_name} choose a tablet. They look at its screen, which has 2 long sides and 2 short sides. Which 2D shape matches the screen?
+options:
+A) Rectangle
+B) Triangle
+C) Circle
+image_prompt:
+Show {user_name} helping {uncle_name} examine exactly 1 tablet with a clearly rectangular screen. Make its 2 longer sides and 2 shorter sides easy to see. Keep the screen blank and switched off. No extra tablets, objects, props, icons, text, letters, or numbers.

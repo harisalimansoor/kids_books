@@ -1,0 +1,9 @@
+title: Making Kites with Grandmother
+question_text:
+{user_name} crafts 2 paper kites, and {grandmother_name} makes 2 more. How many kites have they made altogether?
+options:
+A) 12
+B) 4
+C) 1
+image_prompt:
+Show {user_name} attaching a tail to a paper kite while {grandmother_name} assembles another kite at a craft table. Include EXACTLY 2 completed kites in the child's group and 2 in Grandmother's group, with no extra kites.

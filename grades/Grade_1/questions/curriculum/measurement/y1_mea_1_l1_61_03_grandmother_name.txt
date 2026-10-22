@@ -1,0 +1,9 @@
+title: Comparing Model Rockets with Grandmother
+question_text:
+{user_name} and {grandmother_name} are comparing 2 model rockets. One rocket is 18 cm long, and the other is 14 cm long. Which rocket is longer?
+options:
+A) The rocket that is 14 cm long
+B) The rocket that is 18 cm long
+C) Both rockets are the same length
+image_prompt:
+Show {user_name} and {grandmother_name} comparing exactly 2 model rockets placed side by side. One rocket must be visibly longer than the other. No extra rockets, props, text, letters, or numbers.

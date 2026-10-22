@@ -1,0 +1,9 @@
+title: Sorting Colour Pencils with Grandmother
+question_text:
+{user_name} helps {grandmother_name} sort colour pencils. They put 3 pencils in each of 2 cups. How many pencils do they put in the cups altogether?
+options:
+A) 5
+B) 6
+C) 4
+image_prompt:
+Show {user_name} and {grandmother_name} sorting exactly 2 cups, each containing exactly 3 visible colour pencils. Show exactly 6 pencils in total. No extra pencils, cups, text, letters, or numbers.

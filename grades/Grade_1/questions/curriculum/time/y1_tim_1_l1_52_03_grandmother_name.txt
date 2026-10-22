@@ -1,0 +1,9 @@
+title: Planning a Spring Garden with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} plan a spring garden. They find February on the calendar and look for the month that comes next. Which month comes after February?
+options:
+A) January
+B) April
+C) March
+image_prompt:
+Show {user_name} helping {grandmother_name} look at exactly three blank calendar pages arranged in sequence. No text, letters, numbers, extra pages or unnecessary objects.

@@ -1,0 +1,9 @@
+title: Sewing Coat Buttons with Mother
+question_text:
+{user_name} helps {mother_name} sew buttons onto coats. Each of 2 coats needs 4 buttons. How many buttons do they need altogether?
+options:
+A) 6
+B) 10
+C) 8
+image_prompt:
+Show {user_name} and {mother_name} sewing buttons onto exactly 2 coats. Each coat must have exactly 4 clearly visible buttons. Show exactly 8 buttons in total. No extra coats or buttons, and no text, letters, or numbers.

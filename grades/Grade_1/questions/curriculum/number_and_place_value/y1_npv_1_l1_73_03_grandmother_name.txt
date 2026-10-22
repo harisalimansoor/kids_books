@@ -1,0 +1,9 @@
+title: Counting Feathers with Grandmother
+question_text:
+{user_name} and {grandmother_name} arrange 4 groups of 10 feathers and 1 extra feather. What number do the feathers show altogether?
+options:
+A) 14
+B) 41
+C) 40
+image_prompt:
+Show {user_name} and {grandmother_name} arranging exactly 41 feathers: 4 separate groups of 10 feathers each and 1 extra feather. Keep every feather visible and countable. No extra feathers, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Fixing Doll Prams with Aunt
+question_text:
+{user_name} helps {aunt_name} fix doll prams. Each of 2 prams has 4 wheels. How many wheels do the prams have altogether?
+options:
+A) 6
+B) 4
+C) 8
+image_prompt:
+Show {user_name} and {aunt_name} examining exactly 2 doll prams. Each pram must have exactly 4 visible wheels. Show exactly 8 wheels in total. No extra prams, wheels, text, letters, or numbers.

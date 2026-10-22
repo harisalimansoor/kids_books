@@ -1,0 +1,9 @@
+title: Arranging Model Planets with Brother
+question_text:
+{user_name} and {brother_name} arrange 8 model planets equally on 2 space display boards. How many model planets will be on each board?
+options:
+A) 4
+B) 3
+C) 2
+image_prompt:
+Show {user_name} and {brother_name} arranging exactly 8 colourful model planets equally across 2 separate space display boards, with exactly 4 planets on each board. No extra planets, text, letters, or numbers.

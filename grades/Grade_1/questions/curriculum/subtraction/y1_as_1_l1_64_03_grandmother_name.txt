@@ -1,0 +1,9 @@
+title: Polishing Shoes with Grandmother
+question_text:
+{user_name} has 6 shoes to polish. {grandmother_name} polishes 2 shoes. How many shoes are still waiting to be polished?
+options:
+A) 3
+B) 4
+C) 5
+image_prompt:
+Show {user_name} polishing shoes with {grandmother_name}. Grandmother polishes 2 shoes from a group of 6. Show exactly 4 unpolished shoes and 2 polished shoes. No extra shoes, text, letters, or numbers.

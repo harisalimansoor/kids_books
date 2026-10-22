@@ -1,0 +1,9 @@
+title: Playing Table Tennis with Grandfather
+question_text:
+{user_name} has 7 table-tennis balls. {grandfather_name} takes 2 balls to practise serving. How many balls remain with {user_name}?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} playing table tennis with {grandfather_name}. Grandfather takes 2 balls from a group of 7. Show exactly 5 balls with the child and 2 with Grandfather. No extra balls, text, letters, or numbers.

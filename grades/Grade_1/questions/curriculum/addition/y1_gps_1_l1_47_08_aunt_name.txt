@@ -1,0 +1,9 @@
+title: Lining Up Soccer Balls with Aunt
+question_text:
+On the grassy field, {user_name} arranges 4 soccer balls, and {aunt_name} lines up 4 more. How many soccer balls have they arranged altogether?
+options:
+A) 8
+B) 0
+C) 16
+image_prompt:
+Show {user_name} rolling soccer balls into a neat line while {aunt_name} positions another line nearby. Include EXACTLY 4 soccer balls in each group, 8 in total, with no extra balls.

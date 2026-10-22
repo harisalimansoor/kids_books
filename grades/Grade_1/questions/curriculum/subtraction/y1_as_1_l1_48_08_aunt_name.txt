@@ -1,0 +1,9 @@
+title: Playing Ring Toss with Aunt
+question_text:
+{user_name} has 8 rings for a ring-toss game. {aunt_name} throws 3 rings onto a peg. How many rings remain in {user_name}'s hand?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} playing ring toss with {aunt_name}. Aunt throws 3 rings onto a peg from a group of 8. Show exactly 5 rings in the child's hand and 3 around the peg. No extra rings, text, letters, or numbers.

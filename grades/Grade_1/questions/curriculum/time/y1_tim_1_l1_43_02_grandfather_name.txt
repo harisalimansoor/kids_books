@@ -1,0 +1,9 @@
+title: Making a Paper Aeroplane with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} make a paper aeroplane. They fold the paper before flying the aeroplane across the room. What do they do first?
+options:
+A) Fly the aeroplane
+B) Fold the paper
+C) Pick up the aeroplane
+image_prompt:
+Show {user_name} helping {grandfather_name} fold one sheet of paper to make one paper aeroplane before flying it. Show the folding step first and the flying step second. No extra paper aeroplanes, text, letters or numbers.

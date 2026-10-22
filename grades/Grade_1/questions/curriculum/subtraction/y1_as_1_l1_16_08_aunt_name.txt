@@ -1,0 +1,9 @@
+title: Feeding Rabbits with Aunt
+question_text:
+{user_name} puts 7 carrots in a basket for the rabbits. {aunt_name} uses 2 carrots to feed them. How many carrots remain in the basket?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} helping {aunt_name} feed rabbits. Aunt uses 2 carrots from a basket of 7. Show exactly 5 carrots in the basket and 2 being fed to the rabbits. No extra carrots, text, letters, or numbers.

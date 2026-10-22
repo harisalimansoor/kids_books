@@ -1,0 +1,9 @@
+title: Sorting Puzzle Pieces with Grandmother
+question_text:
+{user_name} has 7 puzzle pieces on a table. {grandmother_name} puts 3 pieces into a box. How many puzzle pieces remain on the table?
+options:
+A) 4
+B) 3
+C) 5
+image_prompt:
+Show {user_name} solving a puzzle with {grandmother_name}. Grandmother puts 3 loose puzzle pieces from a group of 7 into a box. Show exactly 4 loose pieces remaining on the table and 3 inside the box. No extra pieces, text, letters, or numbers.

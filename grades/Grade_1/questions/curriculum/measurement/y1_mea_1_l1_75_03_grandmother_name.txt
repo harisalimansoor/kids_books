@@ -1,0 +1,9 @@
+title: Measuring an Art Poster with Grandmother
+question_text:
+{user_name} and {grandmother_name} are measuring the width of an art poster using identical sticky notes. The poster is exactly as wide as 5 sticky notes placed side by side. How many sticky notes wide is the poster?
+options:
+A) 4 sticky notes
+B) 6 sticky notes
+C) 5 sticky notes
+image_prompt:
+Show {user_name} and {grandmother_name} measuring exactly 1 art poster using exactly 5 identical sticky notes placed edge to edge across its width. No extra sticky notes, posters, props, text, letters, or numbers.

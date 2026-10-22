@@ -1,0 +1,9 @@
+title: Picking Oranges with Sister
+question_text:
+During their orchard visit, {user_name} gathers 5 oranges, while {sister_name} collects 4 more. How many oranges have they picked in total?
+options:
+A) 1
+B) 19
+C) 9
+image_prompt:
+Show {user_name} picking oranges from a low tree branch while {sister_name} sorts the harvest into a basket. Include EXACTLY 5 oranges in the child's collection and 4 in the uncle's, with no other visible oranges.

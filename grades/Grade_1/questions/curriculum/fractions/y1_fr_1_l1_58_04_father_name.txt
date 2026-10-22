@@ -1,0 +1,9 @@
+title: Comparing Paper Parts with Father
+question_text:
+{user_name} is helping {father_name} cut a paper rectangle. They divide one rectangle into 2 parts of different sizes. Can both parts be called halves?
+options:
+A) Yes, because there are 2 parts
+B) No, because the parts are unequal
+C) Yes, because the parts are equal
+image_prompt:
+Show {user_name} helping {father_name} divide exactly one rectangular sheet of paper into 2 unequal parts, with one part clearly larger than the other. No extra paper, props, people, text, letters or numbers.

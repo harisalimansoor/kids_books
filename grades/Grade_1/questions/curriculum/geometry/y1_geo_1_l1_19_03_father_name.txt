@@ -1,0 +1,9 @@
+title: Arranging the Watering Can with Father
+question_text:
+{user_name} is helping {father_name} arrange the garden. They place 1 watering can to the left of 1 flowerpot. Which object is on the left?
+options:
+A) Flowerpot
+B) Watering can
+C) Both objects
+image_prompt:
+Show {user_name} helping {father_name} arrange exactly 1 watering can on the left and exactly 1 flowerpot on the right. Keep both objects side by side in a clear horizontal arrangement. Make the watering can unmistakably left of the flowerpot. No extra pots, watering cans, objects, props, text, letters, or numbers.

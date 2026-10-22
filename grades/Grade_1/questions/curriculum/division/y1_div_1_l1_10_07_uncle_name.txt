@@ -1,0 +1,9 @@
+title: Sorting Buttons with Uncle
+question_text:
+{user_name} and {uncle_name} divide 6 buttons equally between 2 sewing trays. How many buttons will be in each tray?
+options:
+A) 4
+B) 3
+C) 2
+image_prompt:
+Show {user_name} and {uncle_name} sorting exactly 6 buttons equally between 2 sewing trays, with exactly 3 buttons in each tray. No extra buttons, props, text, letters, or numbers.

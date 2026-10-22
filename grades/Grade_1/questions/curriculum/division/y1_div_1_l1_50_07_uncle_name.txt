@@ -1,0 +1,9 @@
+title: Arranging Snow Globes with Uncle
+question_text:
+{user_name} and {uncle_name} place 4 snow globes equally on 2 window ledges. How many snow globes will be on each ledge?
+options:
+A) 1
+B) 3
+C) 2
+image_prompt:
+Show {user_name} and {uncle_name} placing exactly 4 snow globes equally on 2 separate window ledges, with exactly 2 snow globes on each ledge. No extra snow globes, text, letters, or numbers.

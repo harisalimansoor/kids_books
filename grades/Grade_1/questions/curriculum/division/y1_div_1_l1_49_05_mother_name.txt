@@ -1,0 +1,9 @@
+title: Organizing Sketch Pads with Mother
+question_text:
+{user_name} and {mother_name} distribute 6 small sketch pads equally among 3 art caddies. How many sketch pads will be in each caddy?
+options:
+A) 2
+B) 3
+C) 4
+image_prompt:
+Show {user_name} and {mother_name} placing exactly 6 small sketch pads equally into 3 separate art caddies, with exactly 2 sketch pads in each caddy. No extra pads, text, letters, or numbers.

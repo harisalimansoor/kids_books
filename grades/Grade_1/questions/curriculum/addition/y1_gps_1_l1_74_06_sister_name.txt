@@ -1,0 +1,9 @@
+title: Baking Cinnamon Rolls with Sister
+question_text:
+In the kitchen, {user_name} arranges 3 cinnamon rolls on a baking tray. {sister_name} prepares another tray with 2 rolls. How many cinnamon rolls are there altogether?
+options:
+A) 1
+B) 15
+C) 5
+image_prompt:
+Depict an active home-baking scene in a bright kitchen. {user_name} is arranging freshly baked cinnamon rolls on a flat tray beside a cooling rack, while {sister_name} carefully brushes icing over the cinnamon rolls on a second tray. The child's tray must contain EXACTLY 3 cinnamon rolls, and Sister's tray must contain EXACTLY 2 cinnamon rolls. All five pastries must be clearly visible, with recognizable spiral patterns and enough space between them to count individually. Keep the two trays separate, with no rolls concealed underneath another pastry or hidden behind hands. The child's activity should feel different from Sister's: the child is arranging the pastries while Sister decorates hers. Kitchen utensils, a mixing bowl, or a small icing brush may be included, provided they do not resemble additional pastries. No cinnamon rolls on the cooling rack, inside an oven, on plates, or elsewhere in the background. No text, letters, numbers, labels, or written answers.

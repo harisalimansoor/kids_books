@@ -1,0 +1,9 @@
+title: Organizing Juggling Clubs with Sister
+question_text:
+{user_name} and {sister_name} distribute 6 juggling clubs equally among 3 circus racks. How many juggling clubs will be on each rack?
+options:
+A) 3
+B) 2
+C) 4
+image_prompt:
+Show {user_name} and {sister_name} placing exactly 6 juggling clubs equally on 3 separate circus racks, with exactly 2 clubs on each rack. No extra clubs, text, letters, or numbers.

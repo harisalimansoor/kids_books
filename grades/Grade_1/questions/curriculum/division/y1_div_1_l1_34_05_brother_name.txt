@@ -1,0 +1,9 @@
+title: Packing Swimming Goggles with Brother
+question_text:
+{user_name} and {brother_name} pack 8 swimming goggles equally into 2 swim bags. How many swimming goggles will be in each bag?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {brother_name} packing exactly 8 separate pairs of swimming goggles? No. Corrected image_prompt: Show {user_name} and {brother_name} packing exactly 8 individual swimming goggles equally into 2 open swim bags, with exactly 4 goggles in each bag. No extra goggles, text, letters, or numbers.

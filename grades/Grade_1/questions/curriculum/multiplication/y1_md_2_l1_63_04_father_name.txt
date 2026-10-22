@@ -1,0 +1,9 @@
+title: Pitching Camping Tents with Father
+question_text:
+{user_name} helps {father_name} pitch camping tents. Each of 2 tents needs 4 tent pegs. How many tent pegs do they need altogether?
+options:
+A) 6
+B) 8
+C) 5
+image_prompt:
+Show {user_name} and {father_name} setting up exactly 2 camping tents. Each tent must have exactly 4 clearly visible tent pegs securing it to the ground. Show exactly 8 pegs in total. No extra tents or pegs, and no text, letters, or numbers.

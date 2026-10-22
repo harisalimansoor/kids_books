@@ -1,0 +1,9 @@
+title: Planning Sports Day with Sister
+question_text:
+{user_name} is helping {sister_name} plan their school sports day. They watch the running race at 10 o'clock and the long jump at 12 o'clock. Which event happens earlier?
+options:
+A) The long jump
+B) The running race
+C) Both events happen at the same time
+image_prompt:
+Show {user_name} helping {sister_name} compare two school sports events: a running race and a long jump. Include exactly one running-race scene and one long-jump scene. No text, letters, numbers, clocks or extra event scenes.

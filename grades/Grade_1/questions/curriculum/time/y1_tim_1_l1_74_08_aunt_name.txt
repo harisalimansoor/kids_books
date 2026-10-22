@@ -1,0 +1,9 @@
+title: Choosing the Right Time to Play with Aunt
+question_text:
+{user_name} is helping {aunt_name} plan their daily routine. They eat lunch after the morning has ended and before the evening begins. When do they usually eat lunch?
+options:
+A) In the afternoon
+B) At night
+C) In the morning
+image_prompt:
+Show {user_name} helping {aunt_name} eat lunch at a table in bright afternoon daylight. Include exactly two people and the necessary lunch items. No text, letters, numbers or extra objects.

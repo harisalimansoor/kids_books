@@ -1,0 +1,9 @@
+title: Measuring a Toolbox with Sister
+question_text:
+{user_name} and {sister_name} want to measure the weight of a toolbox. The toolbox weighs 3 kilograms. Which unit tells them its weight?
+options:
+A) Kilograms
+B) Centimetres
+C) Litres
+image_prompt:
+Show {user_name} and {sister_name} weighing exactly 1 toolbox on exactly 1 weighing scale. No extra toolboxes, scales, props, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Learning Half Past with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} read a clock before their afternoon activity. They see the minute hand pointing to 6 and the hour hand halfway between 2 and 3. What time does the clock show?
+options:
+A) Half past 3
+B) 2 o'clock
+C) Half past 2
+image_prompt:
+Show {user_name} helping {grandfather_name} read exactly one analogue clock. The minute hand must point straight down to the 6 position, and the shorter hour hand must sit halfway between 2 and 3. No numerals, text, letters, extra hands or extra clocks.

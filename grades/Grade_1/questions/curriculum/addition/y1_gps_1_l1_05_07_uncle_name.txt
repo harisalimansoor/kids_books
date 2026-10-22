@@ -1,0 +1,9 @@
+title: Fishing with Uncle
+question_text:
+{user_name} and {uncle_name} are catching fish at the pond. {user_name} catches 3 fish, and {uncle_name} catches 3 fish. How many fish did they catch in total?
+options:
+A) 10
+B) 6
+C) 9
+image_prompt:
+Show {user_name} catching exactly 3 fish and {uncle_name} catching exactly 3 fish at a pond. Show exactly 6 fish in total, clearly separated into two groups of 3. No extra fish, text, letters, or numbers.

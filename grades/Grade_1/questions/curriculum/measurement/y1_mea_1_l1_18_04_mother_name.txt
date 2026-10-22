@@ -1,0 +1,9 @@
+title: Filling a Birdbath with Mother
+question_text:
+{user_name} and {mother_name} are filling a birdbath with water. The birdbath is empty at first. What happens to the amount of water as they pour water into it?
+options:
+A) The amount of water increases
+B) The amount of water disappears
+C) The birdbath becomes smaller
+image_prompt:
+Show {user_name} and {mother_name} pouring water into one empty birdbath. Clearly show water entering and collecting in the birdbath. No extra birdbaths, containers, props, text, letters, or numbers.

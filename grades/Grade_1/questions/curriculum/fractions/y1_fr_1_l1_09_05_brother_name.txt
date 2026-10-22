@@ -1,0 +1,9 @@
+title: Comparing Paper Pieces with Brother
+question_text:
+{user_name} is helping {brother_name} divide a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can the 2 parts both be called halves?
+options:
+A) Yes, because there are 2 parts
+B) No, because the parts are unequal
+C) Yes, because each part is a quarter
+image_prompt:
+Show {user_name} helping {brother_name} divide exactly one rectangular sheet of paper into 2 unequal parts. Make one part clearly larger than the other. No extra paper, objects, props, people, text, letters or numbers.

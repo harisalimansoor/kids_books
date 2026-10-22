@@ -1,0 +1,9 @@
+title: Decorating Notebooks with Uncle
+question_text:
+{user_name} helps {uncle_name} decorate notebooks. They stick 3 animal stickers on each of 2 notebooks. How many stickers do they use altogether?
+options:
+A) 6
+B) 5
+C) 9
+image_prompt:
+Show {user_name} and {uncle_name} decorating exactly 2 closed, blank notebooks. Each notebook must have exactly 3 clearly visible animal stickers. Show exactly 6 stickers in total. No extra notebooks or stickers, and no text, letters, or numbers.

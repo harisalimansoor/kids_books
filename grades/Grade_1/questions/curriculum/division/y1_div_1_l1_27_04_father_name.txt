@@ -1,0 +1,9 @@
+title: Decorating Party Arches with Father
+question_text:
+{user_name} and {father_name} divide 8 paper streamers equally between 2 party arches. How many streamers will decorate each arch?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {father_name} decorating 2 separate party arches with exactly 8 paper streamers in total, with exactly 4 streamers on each arch. No extra streamers, text, letters, or numbers.

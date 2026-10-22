@@ -1,0 +1,9 @@
+title: Counting Buttons with Grandfather
+question_text:
+{user_name} helps {grandfather_name} arrange 2 groups of 10 buttons and 5 extra buttons. What number do the buttons show altogether?
+options:
+A) 25
+B) 52
+C) 15
+image_prompt:
+Show {user_name} and {grandfather_name} arranging exactly 25 buttons: 2 groups of 10 buttons each and 5 extra buttons. Keep all buttons visible and countable. No extra buttons, and no text, letters, or numbers.

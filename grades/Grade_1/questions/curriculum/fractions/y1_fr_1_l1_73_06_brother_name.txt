@@ -1,0 +1,9 @@
+title: Sharing Plums with Brother
+question_text:
+{user_name} is helping {brother_name} share plums for a snack. They divide 6 plums equally between 2 bowls. What fraction of all the plums is in one bowl?
+options:
+A) One quarter
+B) One whole
+C) One half
+image_prompt:
+Show {user_name} helping {brother_name} divide exactly 6 plums equally between 2 bowls, with exactly 3 plums in each bowl. No extra plums, bowls, objects, props, people, text, letters or numbers.

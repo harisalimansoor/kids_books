@@ -1,0 +1,9 @@
+title: Putting Stickers with Sister
+question_text:
+{user_name} decorates a drawing board with 5 dinosaur stickers, while {sister_name} decorates another with 3. How many stickers have they used altogether?
+options:
+A) 2
+B) 8
+C) 15
+image_prompt:
+Show {user_name} pressing dinosaur stickers onto a drawing board while {sister_name} decorates a separate board. Include EXACTLY 5 stickers on the child's board and 3 on the brother's, with no extra stickers.

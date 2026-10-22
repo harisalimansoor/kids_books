@@ -1,0 +1,9 @@
+title: Counting Wooden Beads with Grandfather
+question_text:
+{user_name} helps {grandfather_name} arrange 35 wooden beads into 3 groups of 10 and 5 loose beads. How many tens are in 35?
+options:
+A) 5
+B) 3
+C) 35
+image_prompt:
+Show {user_name} and {grandfather_name} arranging exactly 35 wooden beads: 3 groups of 10 beads each and 5 loose beads. Keep all beads visible and countable. No extra beads, and no text, letters, or numbers.

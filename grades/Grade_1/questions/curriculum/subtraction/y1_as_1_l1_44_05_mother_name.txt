@@ -1,0 +1,9 @@
+title: Playing Bowling with Mother
+question_text:
+{user_name} sets up 8 bowling pins. {mother_name} knocks down 3 pins. How many bowling pins are still standing?
+options:
+A) 3
+B) 5
+C) 4
+image_prompt:
+Show {user_name} and {mother_name} playing indoor bowling. Mother knocks down 3 pins from a group of 8. Show exactly 5 pins standing and 3 lying down. No extra pins, text, letters, or numbers.

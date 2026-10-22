@@ -1,0 +1,9 @@
+title: Finding the Number Before with Aunt
+question_text:
+{user_name} helps {aunt_name} count backward by looking at numbers near 36. Which number comes just before 36?
+options:
+A) 37
+B) 35
+C) 34
+image_prompt:
+Show {user_name} and {aunt_name} looking at exactly 3 blank counting cards arranged in a row. No printed numbers, letters, extra cards, or other text.

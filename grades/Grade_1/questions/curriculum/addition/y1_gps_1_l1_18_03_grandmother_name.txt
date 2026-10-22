@@ -1,0 +1,9 @@
+title: Wrapping Gifts with Grandmother
+question_text:
+{user_name} and {grandmother_name} are wrapping birthday gifts. {user_name} wraps 2 gifts, and {grandmother_name} wraps 2 gifts. How many gifts did they wrap in total?
+options:
+A) 10
+B) 4
+C) 1
+image_prompt:
+Make 2 wrapped gifts in front of {user_name} and 2 wrapped gifts in front of {grandmother_name}.

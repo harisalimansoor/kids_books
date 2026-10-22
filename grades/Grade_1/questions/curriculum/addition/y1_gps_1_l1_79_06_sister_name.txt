@@ -1,0 +1,9 @@
+title: Decorating Hand Fans with Sister
+question_text:
+At their craft table, {user_name} decorates 5 paper hand fans, while {sister_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
+options:
+A) 3
+B) 7
+C) 15
+image_prompt:
+Create a colorful paper-craft scene with {user_name} painting patterns onto open paper hand fans spread across a worktable. {sister_name} sits at the other end, attaching decorative tassels to her completed fans. Place EXACTLY 5 open hand fans in the child's work area and EXACTLY 2 open hand fans in Sister's area. All seven fans must have distinct, recognizable fan shapes, visible ribs, and fully spread paper sections. The child may be painting one of the five fans already included in the count; do not introduce a separate extra fan for the painting action. Sister's hands and tassels must not cover or obscure either of her two fans. Use varied cheerful colors and tasteful painted patterns without creating fan-shaped objects elsewhere in the illustration. Brushes, paint pots, thread, and a few craft supplies are acceptable, but no additional fans, folded fans, or fan-shaped decorations. No text, letters, numbers, labels, or written answers.

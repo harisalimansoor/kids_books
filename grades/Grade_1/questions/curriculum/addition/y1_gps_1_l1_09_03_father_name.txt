@@ -1,0 +1,9 @@
+title: Collecting Stamps with Father
+question_text:
+{user_name} and {father_name} are pasting stamps into an album. {user_name} pastes 5 stamps, and {father_name} pastes 2 stamps. How many stamps did they paste in total?
+options:
+A) 7
+B) 6
+C) 8
+image_prompt:
+Show {user_name} pasting exactly 5 stamps into a stamp album and {father_name} pasting exactly 2 stamps into the same album. Show exactly 7 stamps in total. No extra stamps, text, letters, or numbers.

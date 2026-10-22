@@ -1,0 +1,9 @@
+title: Scooping Ice Cream with Sister
+question_text:
+{user_name} prepares 3 ice cream cones, and {sister_name} prepares 5 more. How many ice cream cones have they made altogether?
+options:
+A) 2
+B) 15
+C) 8
+image_prompt:
+Show {user_name} scooping ice cream into a cone while {sister_name} adds scoops to another batch. Include EXACTLY 3 completed ice cream cones in the child's group and 5 in Sister's group, with no extra cones.

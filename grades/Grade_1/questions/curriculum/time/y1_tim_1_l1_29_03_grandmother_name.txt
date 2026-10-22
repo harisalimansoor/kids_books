@@ -1,0 +1,9 @@
+title: Remembering a Day at the Beach with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} remember their family activities. They built a sandcastle yesterday, made a paper aeroplane today and will go cycling tomorrow. What did they do yesterday?
+options:
+A) Go cycling
+B) Make a paper aeroplane
+C) Build a sandcastle
+image_prompt:
+Show {user_name} helping {grandmother_name} look at exactly 3 picture cards in order. Show building a sandcastle on the first, making a paper aeroplane on the second and cycling on the third. No text, letters, numbers or extra cards.

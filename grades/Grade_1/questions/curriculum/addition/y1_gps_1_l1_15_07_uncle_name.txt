@@ -1,0 +1,9 @@
+title: Folding Shirts with Uncle
+question_text:
+{user_name} and {uncle_name} are folding clean shirts. {user_name} folds 4 shirts, and {uncle_name} folds 3 shirts. How many shirts did they fold in total?
+options:
+A) 13
+B) 7
+C) 1
+image_prompt:
+Make 4 folded shirts in front of {user_name} and 3 folded shirts in front of {uncle_name}.

@@ -1,0 +1,9 @@
+title: Examining a Marble with Mother
+question_text:
+{user_name} is helping {mother_name} examine a glass marble. The marble is round all over and has no corners or straight edges. Which 3D shape does it match?
+options:
+A) Cube
+B) Cuboid
+C) Sphere
+image_prompt:
+Show {user_name} helping {mother_name} examine exactly 1 round glass marble. Make it clearly spherical, with a smooth curved surface and no corners or straight edges. No extra marbles, objects, props, text, letters, or numbers.

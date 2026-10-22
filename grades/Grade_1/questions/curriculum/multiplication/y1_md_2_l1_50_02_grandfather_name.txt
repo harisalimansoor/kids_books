@@ -1,0 +1,9 @@
+title: Filling Treasure Chests with Grandfather
+question_text:
+{user_name} and {grandfather_name} play a treasure hunt. They put 3 toy gold coins in each of 3 small treasure chests. How many toy gold coins do they use altogether?
+options:
+A) 6
+B) 9
+C) 8
+image_prompt:
+Show {user_name} and {grandfather_name} filling exactly 3 small open treasure chests. Each chest must contain exactly 3 clearly visible toy gold coins. Show exactly 9 coins in total. No extra chests or coins, and no text, letters, or numbers.

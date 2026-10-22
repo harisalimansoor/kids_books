@@ -1,0 +1,9 @@
+title: Flying Kites with Brother
+question_text:
+{user_name} has 6 kites. {brother_name} gives 2 kites to another child. How many kites remain?
+options:
+A) 3
+B) 5
+C) 4
+image_prompt:
+Show {user_name} flying a kite with {brother_name}. Brother gives 2 kites from a group of 6 to another child. Show exactly 4 kites remaining with the main child and 2 with the other child. No extra kites, text, letters, or numbers.

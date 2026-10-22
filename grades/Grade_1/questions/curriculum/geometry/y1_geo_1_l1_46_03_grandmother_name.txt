@@ -1,0 +1,9 @@
+title: Placing a Dinosaur Between Trees
+question_text:
+{user_name} is helping {grandmother_name} arrange toy dinosaurs in a play garden. They place 1 toy dinosaur between 2 toy trees. Where is the dinosaur?
+options:
+A) Behind the trees
+B) Between the trees
+C) In front of both trees
+image_prompt:
+Show {user_name} helping {grandmother_name} arrange exactly 1 toy dinosaur between exactly 2 toy trees. Place 1 tree on the left and 1 tree on the right, with the dinosaur clearly in the space between them. No extra dinosaurs, trees, objects, props, text, letters, or numbers.

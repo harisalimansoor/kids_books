@@ -1,0 +1,9 @@
+title: Comparing a Brick and a Scarf with Uncle
+question_text:
+{user_name} and {uncle_name} are comparing a brick and a scarf. The brick is heavier than the scarf. Which object is lighter?
+options:
+A) The brick
+B) Both objects weigh the same
+C) The scarf
+image_prompt:
+Show {user_name} and {uncle_name} comparing exactly 1 brick and exactly 1 scarf. Make the brick look solid and the scarf soft and lightweight. No extra bricks, scarves, props, text, letters, or numbers.

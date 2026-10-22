@@ -1,0 +1,9 @@
+title: Comparing Building Blocks with Sister
+question_text:
+{user_name} and {sister_name} compare 24 building blocks in one group and 42 in another. Which group has fewer blocks?
+options:
+A) The group with 42 blocks
+B) The group with 24 blocks
+C) Both groups have the same number
+image_prompt:
+Show {user_name} and {sister_name} comparing exactly 2 groups of blocks: 24 blocks in one group and 42 blocks in the other. Keep every block visible and countable. No extra blocks, and no text, letters, or numbers.

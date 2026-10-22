@@ -1,0 +1,9 @@
+title: Finding the Next Month with Father
+question_text:
+{user_name} is helping {father_name} arrange the months of the year. They find June on the calendar and look for the month that comes next. Which month comes after June?
+options:
+A) July
+B) May
+C) December
+image_prompt:
+Show {user_name} helping {father_name} arrange exactly 3 blank calendar pages in sequence. No writing, letters, numbers, extra pages or extra objects.

@@ -80,3 +80,563 @@
 {user_name} and {aunt_name} divide 8 blank envelopes equally among 2 mail trays. How many envelopes will be in each tray?
 {user_name} and {aunt_name} fold 6 picnic blankets equally into 3 picnic areas. How many blankets will be in each area?
 {user_name} and {aunt_name} place 4 small music boxes equally on 2 display shelves. How many music boxes will be on each shelf?
+{user_name} and {grandmother_name} are sharing 6 apples equally between 2 plates. How many apples will be on each plate?
+{user_name} and {father_name} are sharing 6 apples equally between 2 plates. How many apples will be on each plate?
+{user_name} and {mother_name} are sharing 6 apples equally between 2 plates. How many apples will be on each plate?
+{user_name} and {brother_name} are sharing 6 apples equally between 2 plates. How many apples will be on each plate?
+{user_name} and {sister_name} are sharing 6 apples equally between 2 plates. How many apples will be on each plate?
+{user_name} and {uncle_name} are sharing 6 apples equally between 2 plates. How many apples will be on each plate?
+{user_name} and {aunt_name} are sharing 6 apples equally between 2 plates. How many apples will be on each plate?
+{user_name} and {grandmother_name} are putting 8 crayons equally into 2 crayon cups. How many crayons will be in each cup?
+{user_name} and {father_name} are putting 8 crayons equally into 2 crayon cups. How many crayons will be in each cup?
+{user_name} and {mother_name} are putting 8 crayons equally into 2 crayon cups. How many crayons will be in each cup?
+{user_name} and {brother_name} are putting 8 crayons equally into 2 crayon cups. How many crayons will be in each cup?
+{user_name} and {sister_name} are putting 8 crayons equally into 2 crayon cups. How many crayons will be in each cup?
+{user_name} and {uncle_name} are putting 8 crayons equally into 2 crayon cups. How many crayons will be in each cup?
+{user_name} and {aunt_name} are putting 8 crayons equally into 2 crayon cups. How many crayons will be in each cup?
+{user_name} and {grandmother_name} have collected 6 seashells. They divide them equally among 3 small jars. How many seashells go into each jar?
+{user_name} and {father_name} have collected 6 seashells. They divide them equally among 3 small jars. How many seashells go into each jar?
+{user_name} and {mother_name} have collected 6 seashells. They divide them equally among 3 small jars. How many seashells go into each jar?
+{user_name} and {brother_name} have collected 6 seashells. They divide them equally among 3 small jars. How many seashells go into each jar?
+{user_name} and {sister_name} have collected 6 seashells. They divide them equally among 3 small jars. How many seashells go into each jar?
+{user_name} and {uncle_name} have collected 6 seashells. They divide them equally among 3 small jars. How many seashells go into each jar?
+{user_name} and {aunt_name} have collected 6 seashells. They divide them equally among 3 small jars. How many seashells go into each jar?
+{user_name} and {grandmother_name} arrange 9 flowers equally in 3 vases. How many flowers will be in each vase?
+{user_name} and {father_name} arrange 9 flowers equally in 3 vases. How many flowers will be in each vase?
+{user_name} and {mother_name} arrange 9 flowers equally in 3 vases. How many flowers will be in each vase?
+{user_name} and {brother_name} arrange 9 flowers equally in 3 vases. How many flowers will be in each vase?
+{user_name} and {sister_name} arrange 9 flowers equally in 3 vases. How many flowers will be in each vase?
+{user_name} and {uncle_name} arrange 9 flowers equally in 3 vases. How many flowers will be in each vase?
+{user_name} and {aunt_name} arrange 9 flowers equally in 3 vases. How many flowers will be in each vase?
+{user_name} and {grandmother_name} sort 8 socks equally into 2 laundry baskets. How many socks will be in each basket?
+{user_name} and {father_name} sort 8 socks equally into 2 laundry baskets. How many socks will be in each basket?
+{user_name} and {mother_name} sort 8 socks equally into 2 laundry baskets. How many socks will be in each basket?
+{user_name} and {brother_name} sort 8 socks equally into 2 laundry baskets. How many socks will be in each basket?
+{user_name} and {sister_name} sort 8 socks equally into 2 laundry baskets. How many socks will be in each basket?
+{user_name} and {uncle_name} sort 8 socks equally into 2 laundry baskets. How many socks will be in each basket?
+{user_name} and {aunt_name} sort 8 socks equally into 2 laundry baskets. How many socks will be in each basket?
+{user_name} and {grandmother_name} use 6 wooden blocks to build 3 equal towers. How many blocks will be in each tower?
+{user_name} and {father_name} use 6 wooden blocks to build 3 equal towers. How many blocks will be in each tower?
+{user_name} and {mother_name} use 6 wooden blocks to build 3 equal towers. How many blocks will be in each tower?
+{user_name} and {brother_name} use 6 wooden blocks to build 3 equal towers. How many blocks will be in each tower?
+{user_name} and {sister_name} use 6 wooden blocks to build 3 equal towers. How many blocks will be in each tower?
+{user_name} and {uncle_name} use 6 wooden blocks to build 3 equal towers. How many blocks will be in each tower?
+{user_name} and {aunt_name} use 6 wooden blocks to build 3 equal towers. How many blocks will be in each tower?
+{user_name} and {grandmother_name} place 8 toy boats equally into 2 water trays. How many toy boats will be in each tray?
+{user_name} and {father_name} place 8 toy boats equally into 2 water trays. How many toy boats will be in each tray?
+{user_name} and {mother_name} place 8 toy boats equally into 2 water trays. How many toy boats will be in each tray?
+{user_name} and {brother_name} place 8 toy boats equally into 2 water trays. How many toy boats will be in each tray?
+{user_name} and {sister_name} place 8 toy boats equally into 2 water trays. How many toy boats will be in each tray?
+{user_name} and {uncle_name} place 8 toy boats equally into 2 water trays. How many toy boats will be in each tray?
+{user_name} and {aunt_name} place 8 toy boats equally into 2 water trays. How many toy boats will be in each tray?
+{user_name} and {grandmother_name} divide 4 paintbrushes equally between 2 art holders. How many paintbrushes will go in each holder?
+{user_name} and {father_name} divide 4 paintbrushes equally between 2 art holders. How many paintbrushes will go in each holder?
+{user_name} and {mother_name} divide 4 paintbrushes equally between 2 art holders. How many paintbrushes will go in each holder?
+{user_name} and {brother_name} divide 4 paintbrushes equally between 2 art holders. How many paintbrushes will go in each holder?
+{user_name} and {sister_name} divide 4 paintbrushes equally between 2 art holders. How many paintbrushes will go in each holder?
+{user_name} and {uncle_name} divide 4 paintbrushes equally between 2 art holders. How many paintbrushes will go in each holder?
+{user_name} and {aunt_name} divide 4 paintbrushes equally between 2 art holders. How many paintbrushes will go in each holder?
+{user_name} and {grandmother_name} share 9 soft balls equally among 3 floor hoops. How many balls will be inside each hoop?
+{user_name} and {father_name} share 9 soft balls equally among 3 floor hoops. How many balls will be inside each hoop?
+{user_name} and {mother_name} share 9 soft balls equally among 3 floor hoops. How many balls will be inside each hoop?
+{user_name} and {brother_name} share 9 soft balls equally among 3 floor hoops. How many balls will be inside each hoop?
+{user_name} and {sister_name} share 9 soft balls equally among 3 floor hoops. How many balls will be inside each hoop?
+{user_name} and {uncle_name} share 9 soft balls equally among 3 floor hoops. How many balls will be inside each hoop?
+{user_name} and {aunt_name} share 9 soft balls equally among 3 floor hoops. How many balls will be inside each hoop?
+{user_name} and {grandmother_name} divide 6 buttons equally between 2 sewing trays. How many buttons will be in each tray?
+{user_name} and {father_name} divide 6 buttons equally between 2 sewing trays. How many buttons will be in each tray?
+{user_name} and {mother_name} divide 6 buttons equally between 2 sewing trays. How many buttons will be in each tray?
+{user_name} and {brother_name} divide 6 buttons equally between 2 sewing trays. How many buttons will be in each tray?
+{user_name} and {sister_name} divide 6 buttons equally between 2 sewing trays. How many buttons will be in each tray?
+{user_name} and {uncle_name} divide 6 buttons equally between 2 sewing trays. How many buttons will be in each tray?
+{user_name} and {aunt_name} divide 6 buttons equally between 2 sewing trays. How many buttons will be in each tray?
+{user_name} and {grandfather_name} place 6 toy dinosaurs equally into 3 dinosaur caves. How many toy dinosaurs will be in each cave?
+{user_name} and {father_name} place 6 toy dinosaurs equally into 3 dinosaur caves. How many toy dinosaurs will be in each cave?
+{user_name} and {mother_name} place 6 toy dinosaurs equally into 3 dinosaur caves. How many toy dinosaurs will be in each cave?
+{user_name} and {brother_name} place 6 toy dinosaurs equally into 3 dinosaur caves. How many toy dinosaurs will be in each cave?
+{user_name} and {sister_name} place 6 toy dinosaurs equally into 3 dinosaur caves. How many toy dinosaurs will be in each cave?
+{user_name} and {uncle_name} place 6 toy dinosaurs equally into 3 dinosaur caves. How many toy dinosaurs will be in each cave?
+{user_name} and {aunt_name} place 6 toy dinosaurs equally into 3 dinosaur caves. How many toy dinosaurs will be in each cave?
+{user_name} and {grandfather_name} put 8 large puzzle pieces equally into 2 sorting trays. How many puzzle pieces will be in each tray?
+{user_name} and {father_name} put 8 large puzzle pieces equally into 2 sorting trays. How many puzzle pieces will be in each tray?
+{user_name} and {mother_name} put 8 large puzzle pieces equally into 2 sorting trays. How many puzzle pieces will be in each tray?
+{user_name} and {brother_name} put 8 large puzzle pieces equally into 2 sorting trays. How many puzzle pieces will be in each tray?
+{user_name} and {sister_name} put 8 large puzzle pieces equally into 2 sorting trays. How many puzzle pieces will be in each tray?
+{user_name} and {uncle_name} put 8 large puzzle pieces equally into 2 sorting trays. How many puzzle pieces will be in each tray?
+{user_name} and {aunt_name} put 8 large puzzle pieces equally into 2 sorting trays. How many puzzle pieces will be in each tray?
+{user_name} and {grandfather_name} park 4 toy trains equally inside 2 toy garages. How many toy trains will be inside each garage?
+{user_name} and {father_name} park 4 toy trains equally inside 2 toy garages. How many toy trains will be inside each garage?
+{user_name} and {mother_name} park 4 toy trains equally inside 2 toy garages. How many toy trains will be inside each garage?
+{user_name} and {brother_name} park 4 toy trains equally inside 2 toy garages. How many toy trains will be inside each garage?
+{user_name} and {sister_name} park 4 toy trains equally inside 2 toy garages. How many toy trains will be inside each garage?
+{user_name} and {uncle_name} park 4 toy trains equally inside 2 toy garages. How many toy trains will be inside each garage?
+{user_name} and {aunt_name} park 4 toy trains equally inside 2 toy garages. How many toy trains will be inside each garage?
+{user_name} and {grandfather_name} hang 6 colourful scarves equally on 3 wall hooks. How many scarves will hang on each hook?
+{user_name} and {father_name} hang 6 colourful scarves equally on 3 wall hooks. How many scarves will hang on each hook?
+{user_name} and {mother_name} hang 6 colourful scarves equally on 3 wall hooks. How many scarves will hang on each hook?
+{user_name} and {brother_name} hang 6 colourful scarves equally on 3 wall hooks. How many scarves will hang on each hook?
+{user_name} and {sister_name} hang 6 colourful scarves equally on 3 wall hooks. How many scarves will hang on each hook?
+{user_name} and {uncle_name} hang 6 colourful scarves equally on 3 wall hooks. How many scarves will hang on each hook?
+{user_name} and {aunt_name} hang 6 colourful scarves equally on 3 wall hooks. How many scarves will hang on each hook?
+{user_name} and {grandfather_name} place 8 toy bugs equally into 2 observation boxes. How many toy bugs will be in each box?
+{user_name} and {father_name} place 8 toy bugs equally into 2 observation boxes. How many toy bugs will be in each box?
+{user_name} and {mother_name} place 8 toy bugs equally into 2 observation boxes. How many toy bugs will be in each box?
+{user_name} and {brother_name} place 8 toy bugs equally into 2 observation boxes. How many toy bugs will be in each box?
+{user_name} and {sister_name} place 8 toy bugs equally into 2 observation boxes. How many toy bugs will be in each box?
+{user_name} and {uncle_name} place 8 toy bugs equally into 2 observation boxes. How many toy bugs will be in each box?
+{user_name} and {aunt_name} place 8 toy bugs equally into 2 observation boxes. How many toy bugs will be in each box?
+{user_name} and {grandfather_name} share 9 toy frogs equally among 3 small pretend ponds. How many toy frogs will be in each pond?
+{user_name} and {father_name} share 9 toy frogs equally among 3 small pretend ponds. How many toy frogs will be in each pond?
+{user_name} and {mother_name} share 9 toy frogs equally among 3 small pretend ponds. How many toy frogs will be in each pond?
+{user_name} and {brother_name} share 9 toy frogs equally among 3 small pretend ponds. How many toy frogs will be in each pond?
+{user_name} and {sister_name} share 9 toy frogs equally among 3 small pretend ponds. How many toy frogs will be in each pond?
+{user_name} and {uncle_name} share 9 toy frogs equally among 3 small pretend ponds. How many toy frogs will be in each pond?
+{user_name} and {aunt_name} share 9 toy frogs equally among 3 small pretend ponds. How many toy frogs will be in each pond?
+{user_name} and {grandfather_name} put 6 toy airplanes equally into 2 airplane hangars. How many toy airplanes will be in each hangar?
+{user_name} and {father_name} put 6 toy airplanes equally into 2 airplane hangars. How many toy airplanes will be in each hangar?
+{user_name} and {mother_name} put 6 toy airplanes equally into 2 airplane hangars. How many toy airplanes will be in each hangar?
+{user_name} and {brother_name} put 6 toy airplanes equally into 2 airplane hangars. How many toy airplanes will be in each hangar?
+{user_name} and {sister_name} put 6 toy airplanes equally into 2 airplane hangars. How many toy airplanes will be in each hangar?
+{user_name} and {uncle_name} put 6 toy airplanes equally into 2 airplane hangars. How many toy airplanes will be in each hangar?
+{user_name} and {aunt_name} put 6 toy airplanes equally into 2 airplane hangars. How many toy airplanes will be in each hangar?
+{user_name} and {grandfather_name} arrange 4 storybooks equally on 2 small reading shelves. How many storybooks will be on each shelf?
+{user_name} and {father_name} arrange 4 storybooks equally on 2 small reading shelves. How many storybooks will be on each shelf?
+{user_name} and {mother_name} arrange 4 storybooks equally on 2 small reading shelves. How many storybooks will be on each shelf?
+{user_name} and {brother_name} arrange 4 storybooks equally on 2 small reading shelves. How many storybooks will be on each shelf?
+{user_name} and {sister_name} arrange 4 storybooks equally on 2 small reading shelves. How many storybooks will be on each shelf?
+{user_name} and {uncle_name} arrange 4 storybooks equally on 2 small reading shelves. How many storybooks will be on each shelf?
+{user_name} and {aunt_name} arrange 4 storybooks equally on 2 small reading shelves. How many storybooks will be on each shelf?
+{user_name} and {grandfather_name} distribute 6 hand bells equally among 3 music stands. How many hand bells will be at each stand?
+{user_name} and {father_name} distribute 6 hand bells equally among 3 music stands. How many hand bells will be at each stand?
+{user_name} and {mother_name} distribute 6 hand bells equally among 3 music stands. How many hand bells will be at each stand?
+{user_name} and {brother_name} distribute 6 hand bells equally among 3 music stands. How many hand bells will be at each stand?
+{user_name} and {sister_name} distribute 6 hand bells equally among 3 music stands. How many hand bells will be at each stand?
+{user_name} and {uncle_name} distribute 6 hand bells equally among 3 music stands. How many hand bells will be at each stand?
+{user_name} and {aunt_name} distribute 6 hand bells equally among 3 music stands. How many hand bells will be at each stand?
+{user_name} and {grandfather_name} place 8 paper pinwheels equally into 2 garden holders. How many pinwheels will be in each holder?
+{user_name} and {father_name} place 8 paper pinwheels equally into 2 garden holders. How many pinwheels will be in each holder?
+{user_name} and {mother_name} place 8 paper pinwheels equally into 2 garden holders. How many pinwheels will be in each holder?
+{user_name} and {brother_name} place 8 paper pinwheels equally into 2 garden holders. How many pinwheels will be in each holder?
+{user_name} and {sister_name} place 8 paper pinwheels equally into 2 garden holders. How many pinwheels will be in each holder?
+{user_name} and {uncle_name} place 8 paper pinwheels equally into 2 garden holders. How many pinwheels will be in each holder?
+{user_name} and {aunt_name} place 8 paper pinwheels equally into 2 garden holders. How many pinwheels will be in each holder?
+{user_name} and {grandfather_name} place 6 yoga mats equally in 2 exercise areas. How many yoga mats will be in each area?
+{user_name} and {grandmother_name} place 6 yoga mats equally in 2 exercise areas. How many yoga mats will be in each area?
+{user_name} and {father_name} place 6 yoga mats equally in 2 exercise areas. How many yoga mats will be in each area?
+{user_name} and {brother_name} place 6 yoga mats equally in 2 exercise areas. How many yoga mats will be in each area?
+{user_name} and {sister_name} place 6 yoga mats equally in 2 exercise areas. How many yoga mats will be in each area?
+{user_name} and {uncle_name} place 6 yoga mats equally in 2 exercise areas. How many yoga mats will be in each area?
+{user_name} and {aunt_name} place 6 yoga mats equally in 2 exercise areas. How many yoga mats will be in each area?
+{user_name} and {grandfather_name} divide 8 paper cupcake liners equally between 2 muffin tins. How many liners will be in each tin?
+{user_name} and {grandmother_name} divide 8 paper cupcake liners equally between 2 muffin tins. How many liners will be in each tin?
+{user_name} and {father_name} divide 8 paper cupcake liners equally between 2 muffin tins. How many liners will be in each tin?
+{user_name} and {brother_name} divide 8 paper cupcake liners equally between 2 muffin tins. How many liners will be in each tin?
+{user_name} and {sister_name} divide 8 paper cupcake liners equally between 2 muffin tins. How many liners will be in each tin?
+{user_name} and {uncle_name} divide 8 paper cupcake liners equally between 2 muffin tins. How many liners will be in each tin?
+{user_name} and {aunt_name} divide 8 paper cupcake liners equally between 2 muffin tins. How many liners will be in each tin?
+{user_name} and {grandfather_name} distribute 6 toy cameras equally among 3 photography stations. How many toy cameras will be at each station?
+{user_name} and {grandmother_name} distribute 6 toy cameras equally among 3 photography stations. How many toy cameras will be at each station?
+{user_name} and {father_name} distribute 6 toy cameras equally among 3 photography stations. How many toy cameras will be at each station?
+{user_name} and {brother_name} distribute 6 toy cameras equally among 3 photography stations. How many toy cameras will be at each station?
+{user_name} and {sister_name} distribute 6 toy cameras equally among 3 photography stations. How many toy cameras will be at each station?
+{user_name} and {uncle_name} distribute 6 toy cameras equally among 3 photography stations. How many toy cameras will be at each station?
+{user_name} and {aunt_name} distribute 6 toy cameras equally among 3 photography stations. How many toy cameras will be at each station?
+{user_name} and {grandfather_name} arrange 8 stepping stones equally along 2 garden paths. How many stepping stones will be on each path?
+{user_name} and {grandmother_name} arrange 8 stepping stones equally along 2 garden paths. How many stepping stones will be on each path?
+{user_name} and {father_name} arrange 8 stepping stones equally along 2 garden paths. How many stepping stones will be on each path?
+{user_name} and {brother_name} arrange 8 stepping stones equally along 2 garden paths. How many stepping stones will be on each path?
+{user_name} and {sister_name} arrange 8 stepping stones equally along 2 garden paths. How many stepping stones will be on each path?
+{user_name} and {uncle_name} arrange 8 stepping stones equally along 2 garden paths. How many stepping stones will be on each path?
+{user_name} and {aunt_name} arrange 8 stepping stones equally along 2 garden paths. How many stepping stones will be on each path?
+{user_name} and {grandfather_name} divide 9 small traffic cones equally among 3 practice lanes. How many cones will be in each lane?
+{user_name} and {grandmother_name} divide 9 small traffic cones equally among 3 practice lanes. How many cones will be in each lane?
+{user_name} and {father_name} divide 9 small traffic cones equally among 3 practice lanes. How many cones will be in each lane?
+{user_name} and {brother_name} divide 9 small traffic cones equally among 3 practice lanes. How many cones will be in each lane?
+{user_name} and {sister_name} divide 9 small traffic cones equally among 3 practice lanes. How many cones will be in each lane?
+{user_name} and {uncle_name} divide 9 small traffic cones equally among 3 practice lanes. How many cones will be in each lane?
+{user_name} and {aunt_name} divide 9 small traffic cones equally among 3 practice lanes. How many cones will be in each lane?
+{user_name} and {grandfather_name} place 4 hand mirrors equally at 2 pretend hair styling stations. How many mirrors will be at each station?
+{user_name} and {grandmother_name} place 4 hand mirrors equally at 2 pretend hair styling stations. How many mirrors will be at each station?
+{user_name} and {father_name} place 4 hand mirrors equally at 2 pretend hair styling stations. How many mirrors will be at each station?
+{user_name} and {brother_name} place 4 hand mirrors equally at 2 pretend hair styling stations. How many mirrors will be at each station?
+{user_name} and {sister_name} place 4 hand mirrors equally at 2 pretend hair styling stations. How many mirrors will be at each station?
+{user_name} and {uncle_name} place 4 hand mirrors equally at 2 pretend hair styling stations. How many mirrors will be at each station?
+{user_name} and {aunt_name} place 4 hand mirrors equally at 2 pretend hair styling stations. How many mirrors will be at each station?
+{user_name} and {grandfather_name} divide 8 paper streamers equally between 2 party arches. How many streamers will decorate each arch?
+{user_name} and {grandmother_name} divide 8 paper streamers equally between 2 party arches. How many streamers will decorate each arch?
+{user_name} and {father_name} divide 8 paper streamers equally between 2 party arches. How many streamers will decorate each arch?
+{user_name} and {brother_name} divide 8 paper streamers equally between 2 party arches. How many streamers will decorate each arch?
+{user_name} and {sister_name} divide 8 paper streamers equally between 2 party arches. How many streamers will decorate each arch?
+{user_name} and {uncle_name} divide 8 paper streamers equally between 2 party arches. How many streamers will decorate each arch?
+{user_name} and {aunt_name} divide 8 paper streamers equally between 2 party arches. How many streamers will decorate each arch?
+{user_name} and {grandfather_name} share 6 garden trowels equally among 3 garden beds. How many trowels will be beside each garden bed?
+{user_name} and {grandmother_name} share 6 garden trowels equally among 3 garden beds. How many trowels will be beside each garden bed?
+{user_name} and {father_name} share 6 garden trowels equally among 3 garden beds. How many trowels will be beside each garden bed?
+{user_name} and {brother_name} share 6 garden trowels equally among 3 garden beds. How many trowels will be beside each garden bed?
+{user_name} and {sister_name} share 6 garden trowels equally among 3 garden beds. How many trowels will be beside each garden bed?
+{user_name} and {uncle_name} share 6 garden trowels equally among 3 garden beds. How many trowels will be beside each garden bed?
+{user_name} and {aunt_name} share 6 garden trowels equally among 3 garden beds. How many trowels will be beside each garden bed?
+{user_name} and {grandfather_name} arrange 8 model planets equally on 2 space display boards. How many model planets will be on each board?
+{user_name} and {grandmother_name} arrange 8 model planets equally on 2 space display boards. How many model planets will be on each board?
+{user_name} and {father_name} arrange 8 model planets equally on 2 space display boards. How many model planets will be on each board?
+{user_name} and {brother_name} arrange 8 model planets equally on 2 space display boards. How many model planets will be on each board?
+{user_name} and {sister_name} arrange 8 model planets equally on 2 space display boards. How many model planets will be on each board?
+{user_name} and {uncle_name} arrange 8 model planets equally on 2 space display boards. How many model planets will be on each board?
+{user_name} and {aunt_name} arrange 8 model planets equally on 2 space display boards. How many model planets will be on each board?
+{user_name} and {grandfather_name} divide 6 umbrellas equally among 3 umbrella stands. How many umbrellas will be in each stand?
+{user_name} and {grandmother_name} divide 6 umbrellas equally among 3 umbrella stands. How many umbrellas will be in each stand?
+{user_name} and {father_name} divide 6 umbrellas equally among 3 umbrella stands. How many umbrellas will be in each stand?
+{user_name} and {brother_name} divide 6 umbrellas equally among 3 umbrella stands. How many umbrellas will be in each stand?
+{user_name} and {sister_name} divide 6 umbrellas equally among 3 umbrella stands. How many umbrellas will be in each stand?
+{user_name} and {uncle_name} divide 6 umbrellas equally among 3 umbrella stands. How many umbrellas will be in each stand?
+{user_name} and {aunt_name} divide 6 umbrellas equally among 3 umbrella stands. How many umbrellas will be in each stand?
+{user_name} and {grandfather_name} arrange 6 colourful kites equally on 2 display walls. How many kites will be on each wall?
+{user_name} and {grandmother_name} arrange 6 colourful kites equally on 2 display walls. How many kites will be on each wall?
+{user_name} and {mother_name} arrange 6 colourful kites equally on 2 display walls. How many kites will be on each wall?
+{user_name} and {brother_name} arrange 6 colourful kites equally on 2 display walls. How many kites will be on each wall?
+{user_name} and {sister_name} arrange 6 colourful kites equally on 2 display walls. How many kites will be on each wall?
+{user_name} and {uncle_name} arrange 6 colourful kites equally on 2 display walls. How many kites will be on each wall?
+{user_name} and {aunt_name} arrange 6 colourful kites equally on 2 display walls. How many kites will be on each wall?
+{user_name} and {grandfather_name} place 8 toy robots equally on 2 charging mats. How many robots will be on each mat?
+{user_name} and {grandmother_name} place 8 toy robots equally on 2 charging mats. How many robots will be on each mat?
+{user_name} and {mother_name} place 8 toy robots equally on 2 charging mats. How many robots will be on each mat?
+{user_name} and {brother_name} place 8 toy robots equally on 2 charging mats. How many robots will be on each mat?
+{user_name} and {sister_name} place 8 toy robots equally on 2 charging mats. How many robots will be on each mat?
+{user_name} and {uncle_name} place 8 toy robots equally on 2 charging mats. How many robots will be on each mat?
+{user_name} and {aunt_name} place 8 toy robots equally on 2 charging mats. How many robots will be on each mat?
+{user_name} and {grandfather_name} divide 6 carrots equally among 3 rabbit bowls. How many carrots will be in each bowl?
+{user_name} and {grandmother_name} divide 6 carrots equally among 3 rabbit bowls. How many carrots will be in each bowl?
+{user_name} and {mother_name} divide 6 carrots equally among 3 rabbit bowls. How many carrots will be in each bowl?
+{user_name} and {brother_name} divide 6 carrots equally among 3 rabbit bowls. How many carrots will be in each bowl?
+{user_name} and {sister_name} divide 6 carrots equally among 3 rabbit bowls. How many carrots will be in each bowl?
+{user_name} and {uncle_name} divide 6 carrots equally among 3 rabbit bowls. How many carrots will be in each bowl?
+{user_name} and {aunt_name} divide 6 carrots equally among 3 rabbit bowls. How many carrots will be in each bowl?
+{user_name} and {grandfather_name} pack 8 swimming goggles equally into 2 swim bags. How many swimming goggles will be in each bag?
+{user_name} and {grandmother_name} pack 8 swimming goggles equally into 2 swim bags. How many swimming goggles will be in each bag?
+{user_name} and {mother_name} pack 8 swimming goggles equally into 2 swim bags. How many swimming goggles will be in each bag?
+{user_name} and {brother_name} pack 8 swimming goggles equally into 2 swim bags. How many swimming goggles will be in each bag?
+{user_name} and {sister_name} pack 8 swimming goggles equally into 2 swim bags. How many swimming goggles will be in each bag?
+{user_name} and {uncle_name} pack 8 swimming goggles equally into 2 swim bags. How many swimming goggles will be in each bag?
+{user_name} and {aunt_name} pack 8 swimming goggles equally into 2 swim bags. How many swimming goggles will be in each bag?
+{user_name} and {grandfather_name} distribute 9 safety helmets equally among 3 lockers. How many helmets will be in each locker?
+{user_name} and {grandmother_name} distribute 9 safety helmets equally among 3 lockers. How many helmets will be in each locker?
+{user_name} and {mother_name} distribute 9 safety helmets equally among 3 lockers. How many helmets will be in each locker?
+{user_name} and {brother_name} distribute 9 safety helmets equally among 3 lockers. How many helmets will be in each locker?
+{user_name} and {sister_name} distribute 9 safety helmets equally among 3 lockers. How many helmets will be in each locker?
+{user_name} and {uncle_name} distribute 9 safety helmets equally among 3 lockers. How many helmets will be in each locker?
+{user_name} and {aunt_name} distribute 9 safety helmets equally among 3 lockers. How many helmets will be in each locker?
+{user_name} and {grandfather_name} arrange 4 toy drums equally on 2 music mats. How many toy drums will be on each mat?
+{user_name} and {grandmother_name} arrange 4 toy drums equally on 2 music mats. How many toy drums will be on each mat?
+{user_name} and {mother_name} arrange 4 toy drums equally on 2 music mats. How many toy drums will be on each mat?
+{user_name} and {brother_name} arrange 4 toy drums equally on 2 music mats. How many toy drums will be on each mat?
+{user_name} and {sister_name} arrange 4 toy drums equally on 2 music mats. How many toy drums will be on each mat?
+{user_name} and {uncle_name} arrange 4 toy drums equally on 2 music mats. How many toy drums will be on each mat?
+{user_name} and {aunt_name} arrange 4 toy drums equally on 2 music mats. How many toy drums will be on each mat?
+{user_name} and {grandfather_name} attach 6 small birdhouses equally to 3 garden posts. How many birdhouses will be on each post?
+{user_name} and {grandmother_name} attach 6 small birdhouses equally to 3 garden posts. How many birdhouses will be on each post?
+{user_name} and {mother_name} attach 6 small birdhouses equally to 3 garden posts. How many birdhouses will be on each post?
+{user_name} and {brother_name} attach 6 small birdhouses equally to 3 garden posts. How many birdhouses will be on each post?
+{user_name} and {sister_name} attach 6 small birdhouses equally to 3 garden posts. How many birdhouses will be on each post?
+{user_name} and {uncle_name} attach 6 small birdhouses equally to 3 garden posts. How many birdhouses will be on each post?
+{user_name} and {aunt_name} attach 6 small birdhouses equally to 3 garden posts. How many birdhouses will be on each post?
+{user_name} and {grandfather_name} divide 8 paper fans equally between 2 display baskets. How many paper fans will be in each basket?
+{user_name} and {grandmother_name} divide 8 paper fans equally between 2 display baskets. How many paper fans will be in each basket?
+{user_name} and {mother_name} divide 8 paper fans equally between 2 display baskets. How many paper fans will be in each basket?
+{user_name} and {brother_name} divide 8 paper fans equally between 2 display baskets. How many paper fans will be in each basket?
+{user_name} and {sister_name} divide 8 paper fans equally between 2 display baskets. How many paper fans will be in each basket?
+{user_name} and {uncle_name} divide 8 paper fans equally between 2 display baskets. How many paper fans will be in each basket?
+{user_name} and {aunt_name} divide 8 paper fans equally between 2 display baskets. How many paper fans will be in each basket?
+{user_name} and {grandfather_name} place 4 toy microscopes equally on 2 science tables. How many microscopes will be on each table?
+{user_name} and {grandmother_name} place 4 toy microscopes equally on 2 science tables. How many microscopes will be on each table?
+{user_name} and {mother_name} place 4 toy microscopes equally on 2 science tables. How many microscopes will be on each table?
+{user_name} and {brother_name} place 4 toy microscopes equally on 2 science tables. How many microscopes will be on each table?
+{user_name} and {sister_name} place 4 toy microscopes equally on 2 science tables. How many microscopes will be on each table?
+{user_name} and {uncle_name} place 4 toy microscopes equally on 2 science tables. How many microscopes will be on each table?
+{user_name} and {aunt_name} place 4 toy microscopes equally on 2 science tables. How many microscopes will be on each table?
+{user_name} and {grandfather_name} distribute 6 toy binoculars equally among 3 explorer backpacks. How many binoculars will go in each backpack?
+{user_name} and {grandmother_name} distribute 6 toy binoculars equally among 3 explorer backpacks. How many binoculars will go in each backpack?
+{user_name} and {mother_name} distribute 6 toy binoculars equally among 3 explorer backpacks. How many binoculars will go in each backpack?
+{user_name} and {brother_name} distribute 6 toy binoculars equally among 3 explorer backpacks. How many binoculars will go in each backpack?
+{user_name} and {sister_name} distribute 6 toy binoculars equally among 3 explorer backpacks. How many binoculars will go in each backpack?
+{user_name} and {uncle_name} distribute 6 toy binoculars equally among 3 explorer backpacks. How many binoculars will go in each backpack?
+{user_name} and {aunt_name} distribute 6 toy binoculars equally among 3 explorer backpacks. How many binoculars will go in each backpack?
+{user_name} and {grandfather_name} place 6 hair ribbons equally into 2 accessory boxes. How many hair ribbons will be in each box?
+{user_name} and {grandmother_name} place 6 hair ribbons equally into 2 accessory boxes. How many hair ribbons will be in each box?
+{user_name} and {father_name} place 6 hair ribbons equally into 2 accessory boxes. How many hair ribbons will be in each box?
+{user_name} and {mother_name} place 6 hair ribbons equally into 2 accessory boxes. How many hair ribbons will be in each box?
+{user_name} and {brother_name} place 6 hair ribbons equally into 2 accessory boxes. How many hair ribbons will be in each box?
+{user_name} and {uncle_name} place 6 hair ribbons equally into 2 accessory boxes. How many hair ribbons will be in each box?
+{user_name} and {aunt_name} place 6 hair ribbons equally into 2 accessory boxes. How many hair ribbons will be in each box?
+{user_name} and {grandfather_name} arrange 8 measuring spoons equally in 2 kitchen drawers. How many spoons will be in each drawer?
+{user_name} and {grandmother_name} arrange 8 measuring spoons equally in 2 kitchen drawers. How many spoons will be in each drawer?
+{user_name} and {father_name} arrange 8 measuring spoons equally in 2 kitchen drawers. How many spoons will be in each drawer?
+{user_name} and {mother_name} arrange 8 measuring spoons equally in 2 kitchen drawers. How many spoons will be in each drawer?
+{user_name} and {brother_name} arrange 8 measuring spoons equally in 2 kitchen drawers. How many spoons will be in each drawer?
+{user_name} and {uncle_name} arrange 8 measuring spoons equally in 2 kitchen drawers. How many spoons will be in each drawer?
+{user_name} and {aunt_name} arrange 8 measuring spoons equally in 2 kitchen drawers. How many spoons will be in each drawer?
+{user_name} and {grandfather_name} place 6 magic wands equally into 3 wand stands. How many wands will be in each stand?
+{user_name} and {grandmother_name} place 6 magic wands equally into 3 wand stands. How many wands will be in each stand?
+{user_name} and {father_name} place 6 magic wands equally into 3 wand stands. How many wands will be in each stand?
+{user_name} and {mother_name} place 6 magic wands equally into 3 wand stands. How many wands will be in each stand?
+{user_name} and {brother_name} place 6 magic wands equally into 3 wand stands. How many wands will be in each stand?
+{user_name} and {uncle_name} place 6 magic wands equally into 3 wand stands. How many wands will be in each stand?
+{user_name} and {aunt_name} place 6 magic wands equally into 3 wand stands. How many wands will be in each stand?
+{user_name} and {grandfather_name} pack 8 paper lanterns equally into 2 storage crates. How many lanterns will be in each crate?
+{user_name} and {grandmother_name} pack 8 paper lanterns equally into 2 storage crates. How many lanterns will be in each crate?
+{user_name} and {father_name} pack 8 paper lanterns equally into 2 storage crates. How many lanterns will be in each crate?
+{user_name} and {mother_name} pack 8 paper lanterns equally into 2 storage crates. How many lanterns will be in each crate?
+{user_name} and {brother_name} pack 8 paper lanterns equally into 2 storage crates. How many lanterns will be in each crate?
+{user_name} and {uncle_name} pack 8 paper lanterns equally into 2 storage crates. How many lanterns will be in each crate?
+{user_name} and {aunt_name} pack 8 paper lanterns equally into 2 storage crates. How many lanterns will be in each crate?
+{user_name} and {grandfather_name} distribute 9 toy turtles equally among 3 pretend habitats. How many toy turtles will be in each habitat?
+{user_name} and {grandmother_name} distribute 9 toy turtles equally among 3 pretend habitats. How many toy turtles will be in each habitat?
+{user_name} and {father_name} distribute 9 toy turtles equally among 3 pretend habitats. How many toy turtles will be in each habitat?
+{user_name} and {mother_name} distribute 9 toy turtles equally among 3 pretend habitats. How many toy turtles will be in each habitat?
+{user_name} and {brother_name} distribute 9 toy turtles equally among 3 pretend habitats. How many toy turtles will be in each habitat?
+{user_name} and {uncle_name} distribute 9 toy turtles equally among 3 pretend habitats. How many toy turtles will be in each habitat?
+{user_name} and {aunt_name} distribute 9 toy turtles equally among 3 pretend habitats. How many toy turtles will be in each habitat?
+{user_name} and {grandfather_name} put 4 yo-yos equally into 2 toy drawers. How many yo-yos will be in each drawer?
+{user_name} and {grandmother_name} put 4 yo-yos equally into 2 toy drawers. How many yo-yos will be in each drawer?
+{user_name} and {father_name} put 4 yo-yos equally into 2 toy drawers. How many yo-yos will be in each drawer?
+{user_name} and {mother_name} put 4 yo-yos equally into 2 toy drawers. How many yo-yos will be in each drawer?
+{user_name} and {brother_name} put 4 yo-yos equally into 2 toy drawers. How many yo-yos will be in each drawer?
+{user_name} and {uncle_name} put 4 yo-yos equally into 2 toy drawers. How many yo-yos will be in each drawer?
+{user_name} and {aunt_name} put 4 yo-yos equally into 2 toy drawers. How many yo-yos will be in each drawer?
+{user_name} and {grandfather_name} arrange 6 party hats equally in 3 costume bins. How many party hats will be in each bin?
+{user_name} and {grandmother_name} arrange 6 party hats equally in 3 costume bins. How many party hats will be in each bin?
+{user_name} and {father_name} arrange 6 party hats equally in 3 costume bins. How many party hats will be in each bin?
+{user_name} and {mother_name} arrange 6 party hats equally in 3 costume bins. How many party hats will be in each bin?
+{user_name} and {brother_name} arrange 6 party hats equally in 3 costume bins. How many party hats will be in each bin?
+{user_name} and {uncle_name} arrange 6 party hats equally in 3 costume bins. How many party hats will be in each bin?
+{user_name} and {aunt_name} arrange 6 party hats equally in 3 costume bins. How many party hats will be in each bin?
+{user_name} and {grandfather_name} arrange 8 blank postcards equally on 2 display boards. How many postcards will be on each board?
+{user_name} and {grandmother_name} arrange 8 blank postcards equally on 2 display boards. How many postcards will be on each board?
+{user_name} and {father_name} arrange 8 blank postcards equally on 2 display boards. How many postcards will be on each board?
+{user_name} and {mother_name} arrange 8 blank postcards equally on 2 display boards. How many postcards will be on each board?
+{user_name} and {brother_name} arrange 8 blank postcards equally on 2 display boards. How many postcards will be on each board?
+{user_name} and {uncle_name} arrange 8 blank postcards equally on 2 display boards. How many postcards will be on each board?
+{user_name} and {aunt_name} arrange 8 blank postcards equally on 2 display boards. How many postcards will be on each board?
+{user_name} and {grandfather_name} distribute 6 small sketch pads equally among 3 art caddies. How many sketch pads will be in each caddy?
+{user_name} and {grandmother_name} distribute 6 small sketch pads equally among 3 art caddies. How many sketch pads will be in each caddy?
+{user_name} and {father_name} distribute 6 small sketch pads equally among 3 art caddies. How many sketch pads will be in each caddy?
+{user_name} and {mother_name} distribute 6 small sketch pads equally among 3 art caddies. How many sketch pads will be in each caddy?
+{user_name} and {brother_name} distribute 6 small sketch pads equally among 3 art caddies. How many sketch pads will be in each caddy?
+{user_name} and {uncle_name} distribute 6 small sketch pads equally among 3 art caddies. How many sketch pads will be in each caddy?
+{user_name} and {aunt_name} distribute 6 small sketch pads equally among 3 art caddies. How many sketch pads will be in each caddy?
+{user_name} and {grandfather_name} place 4 snow globes equally on 2 window ledges. How many snow globes will be on each ledge?
+{user_name} and {grandmother_name} place 4 snow globes equally on 2 window ledges. How many snow globes will be on each ledge?
+{user_name} and {father_name} place 4 snow globes equally on 2 window ledges. How many snow globes will be on each ledge?
+{user_name} and {mother_name} place 4 snow globes equally on 2 window ledges. How many snow globes will be on each ledge?
+{user_name} and {brother_name} place 4 snow globes equally on 2 window ledges. How many snow globes will be on each ledge?
+{user_name} and {uncle_name} place 4 snow globes equally on 2 window ledges. How many snow globes will be on each ledge?
+{user_name} and {aunt_name} place 4 snow globes equally on 2 window ledges. How many snow globes will be on each ledge?
+{user_name} and {grandfather_name} hang 6 skipping ropes equally on 2 playground racks. How many skipping ropes will be on each rack?
+{user_name} and {grandmother_name} hang 6 skipping ropes equally on 2 playground racks. How many skipping ropes will be on each rack?
+{user_name} and {father_name} hang 6 skipping ropes equally on 2 playground racks. How many skipping ropes will be on each rack?
+{user_name} and {mother_name} hang 6 skipping ropes equally on 2 playground racks. How many skipping ropes will be on each rack?
+{user_name} and {sister_name} hang 6 skipping ropes equally on 2 playground racks. How many skipping ropes will be on each rack?
+{user_name} and {uncle_name} hang 6 skipping ropes equally on 2 playground racks. How many skipping ropes will be on each rack?
+{user_name} and {aunt_name} hang 6 skipping ropes equally on 2 playground racks. How many skipping ropes will be on each rack?
+{user_name} and {grandfather_name} place 8 toy submarines equally into 2 underwater display tanks. How many toy submarines will be in each tank?
+{user_name} and {grandmother_name} place 8 toy submarines equally into 2 underwater display tanks. How many toy submarines will be in each tank?
+{user_name} and {father_name} place 8 toy submarines equally into 2 underwater display tanks. How many toy submarines will be in each tank?
+{user_name} and {mother_name} place 8 toy submarines equally into 2 underwater display tanks. How many toy submarines will be in each tank?
+{user_name} and {sister_name} place 8 toy submarines equally into 2 underwater display tanks. How many toy submarines will be in each tank?
+{user_name} and {uncle_name} place 8 toy submarines equally into 2 underwater display tanks. How many toy submarines will be in each tank?
+{user_name} and {aunt_name} place 8 toy submarines equally into 2 underwater display tanks. How many toy submarines will be in each tank?
+{user_name} and {grandfather_name} divide 6 chess pawns equally among 3 small game cups. How many chess pawns will be in each cup?
+{user_name} and {grandmother_name} divide 6 chess pawns equally among 3 small game cups. How many chess pawns will be in each cup?
+{user_name} and {father_name} divide 6 chess pawns equally among 3 small game cups. How many chess pawns will be in each cup?
+{user_name} and {mother_name} divide 6 chess pawns equally among 3 small game cups. How many chess pawns will be in each cup?
+{user_name} and {sister_name} divide 6 chess pawns equally among 3 small game cups. How many chess pawns will be in each cup?
+{user_name} and {uncle_name} divide 6 chess pawns equally among 3 small game cups. How many chess pawns will be in each cup?
+{user_name} and {aunt_name} divide 6 chess pawns equally among 3 small game cups. How many chess pawns will be in each cup?
+{user_name} and {grandfather_name} place 4 skateboards equally on 2 storage racks. How many skateboards will be on each rack?
+{user_name} and {grandmother_name} place 4 skateboards equally on 2 storage racks. How many skateboards will be on each rack?
+{user_name} and {father_name} place 4 skateboards equally on 2 storage racks. How many skateboards will be on each rack?
+{user_name} and {mother_name} place 4 skateboards equally on 2 storage racks. How many skateboards will be on each rack?
+{user_name} and {sister_name} place 4 skateboards equally on 2 storage racks. How many skateboards will be on each rack?
+{user_name} and {uncle_name} place 4 skateboards equally on 2 storage racks. How many skateboards will be on each rack?
+{user_name} and {aunt_name} place 4 skateboards equally on 2 storage racks. How many skateboards will be on each rack?
+{user_name} and {grandfather_name} distribute 9 seed packets equally among 3 garden organizers. How many seed packets will be in each organizer?
+{user_name} and {grandmother_name} distribute 9 seed packets equally among 3 garden organizers. How many seed packets will be in each organizer?
+{user_name} and {father_name} distribute 9 seed packets equally among 3 garden organizers. How many seed packets will be in each organizer?
+{user_name} and {mother_name} distribute 9 seed packets equally among 3 garden organizers. How many seed packets will be in each organizer?
+{user_name} and {sister_name} distribute 9 seed packets equally among 3 garden organizers. How many seed packets will be in each organizer?
+{user_name} and {uncle_name} distribute 9 seed packets equally among 3 garden organizers. How many seed packets will be in each organizer?
+{user_name} and {aunt_name} distribute 9 seed packets equally among 3 garden organizers. How many seed packets will be in each organizer?
+{user_name} and {grandfather_name} pack 8 water bottles equally into 2 sports crates. How many water bottles will be in each crate?
+{user_name} and {grandmother_name} pack 8 water bottles equally into 2 sports crates. How many water bottles will be in each crate?
+{user_name} and {father_name} pack 8 water bottles equally into 2 sports crates. How many water bottles will be in each crate?
+{user_name} and {mother_name} pack 8 water bottles equally into 2 sports crates. How many water bottles will be in each crate?
+{user_name} and {sister_name} pack 8 water bottles equally into 2 sports crates. How many water bottles will be in each crate?
+{user_name} and {uncle_name} pack 8 water bottles equally into 2 sports crates. How many water bottles will be in each crate?
+{user_name} and {aunt_name} pack 8 water bottles equally into 2 sports crates. How many water bottles will be in each crate?
+{user_name} and {grandfather_name} arrange 6 award medals equally on 3 display hooks. How many medals will be on each hook?
+{user_name} and {grandmother_name} arrange 6 award medals equally on 3 display hooks. How many medals will be on each hook?
+{user_name} and {father_name} arrange 6 award medals equally on 3 display hooks. How many medals will be on each hook?
+{user_name} and {mother_name} arrange 6 award medals equally on 3 display hooks. How many medals will be on each hook?
+{user_name} and {sister_name} arrange 6 award medals equally on 3 display hooks. How many medals will be on each hook?
+{user_name} and {uncle_name} arrange 6 award medals equally on 3 display hooks. How many medals will be on each hook?
+{user_name} and {aunt_name} arrange 6 award medals equally on 3 display hooks. How many medals will be on each hook?
+{user_name} and {grandfather_name} put 8 toy parachutes equally into 2 toy chests. How many toy parachutes will be in each chest?
+{user_name} and {grandmother_name} put 8 toy parachutes equally into 2 toy chests. How many toy parachutes will be in each chest?
+{user_name} and {father_name} put 8 toy parachutes equally into 2 toy chests. How many toy parachutes will be in each chest?
+{user_name} and {mother_name} put 8 toy parachutes equally into 2 toy chests. How many toy parachutes will be in each chest?
+{user_name} and {sister_name} put 8 toy parachutes equally into 2 toy chests. How many toy parachutes will be in each chest?
+{user_name} and {uncle_name} put 8 toy parachutes equally into 2 toy chests. How many toy parachutes will be in each chest?
+{user_name} and {aunt_name} put 8 toy parachutes equally into 2 toy chests. How many toy parachutes will be in each chest?
+{user_name} and {grandfather_name} share 6 walkie-talkies equally among 3 communication stations. How many walkie-talkies will be at each station?
+{user_name} and {grandmother_name} share 6 walkie-talkies equally among 3 communication stations. How many walkie-talkies will be at each station?
+{user_name} and {father_name} share 6 walkie-talkies equally among 3 communication stations. How many walkie-talkies will be at each station?
+{user_name} and {mother_name} share 6 walkie-talkies equally among 3 communication stations. How many walkie-talkies will be at each station?
+{user_name} and {sister_name} share 6 walkie-talkies equally among 3 communication stations. How many walkie-talkies will be at each station?
+{user_name} and {uncle_name} share 6 walkie-talkies equally among 3 communication stations. How many walkie-talkies will be at each station?
+{user_name} and {aunt_name} share 6 walkie-talkies equally among 3 communication stations. How many walkie-talkies will be at each station?
+{user_name} and {grandfather_name} arrange 4 table tennis paddles equally on 2 paddle stands. How many paddles will be on each stand?
+{user_name} and {grandmother_name} arrange 4 table tennis paddles equally on 2 paddle stands. How many paddles will be on each stand?
+{user_name} and {father_name} arrange 4 table tennis paddles equally on 2 paddle stands. How many paddles will be on each stand?
+{user_name} and {mother_name} arrange 4 table tennis paddles equally on 2 paddle stands. How many paddles will be on each stand?
+{user_name} and {sister_name} arrange 4 table tennis paddles equally on 2 paddle stands. How many paddles will be on each stand?
+{user_name} and {uncle_name} arrange 4 table tennis paddles equally on 2 paddle stands. How many paddles will be on each stand?
+{user_name} and {aunt_name} arrange 4 table tennis paddles equally on 2 paddle stands. How many paddles will be on each stand?
+{user_name} and {grandfather_name} hang 6 wind chimes equally on 2 porch hooks. How many wind chimes will be on each hook?
+{user_name} and {grandmother_name} hang 6 wind chimes equally on 2 porch hooks. How many wind chimes will be on each hook?
+{user_name} and {father_name} hang 6 wind chimes equally on 2 porch hooks. How many wind chimes will be on each hook?
+{user_name} and {mother_name} hang 6 wind chimes equally on 2 porch hooks. How many wind chimes will be on each hook?
+{user_name} and {brother_name} hang 6 wind chimes equally on 2 porch hooks. How many wind chimes will be on each hook?
+{user_name} and {sister_name} hang 6 wind chimes equally on 2 porch hooks. How many wind chimes will be on each hook?
+{user_name} and {aunt_name} hang 6 wind chimes equally on 2 porch hooks. How many wind chimes will be on each hook?
+{user_name} and {grandfather_name} place 8 toy cash registers equally on 2 pretend shop counters. How many toy cash registers will be on each counter?
+{user_name} and {grandmother_name} place 8 toy cash registers equally on 2 pretend shop counters. How many toy cash registers will be on each counter?
+{user_name} and {father_name} place 8 toy cash registers equally on 2 pretend shop counters. How many toy cash registers will be on each counter?
+{user_name} and {mother_name} place 8 toy cash registers equally on 2 pretend shop counters. How many toy cash registers will be on each counter?
+{user_name} and {brother_name} place 8 toy cash registers equally on 2 pretend shop counters. How many toy cash registers will be on each counter?
+{user_name} and {sister_name} place 8 toy cash registers equally on 2 pretend shop counters. How many toy cash registers will be on each counter?
+{user_name} and {aunt_name} place 8 toy cash registers equally on 2 pretend shop counters. How many toy cash registers will be on each counter?
+{user_name} and {grandfather_name} distribute 6 toy knight shields equally among 3 castle displays. How many shields will be in each display?
+{user_name} and {grandmother_name} distribute 6 toy knight shields equally among 3 castle displays. How many shields will be in each display?
+{user_name} and {father_name} distribute 6 toy knight shields equally among 3 castle displays. How many shields will be in each display?
+{user_name} and {mother_name} distribute 6 toy knight shields equally among 3 castle displays. How many shields will be in each display?
+{user_name} and {brother_name} distribute 6 toy knight shields equally among 3 castle displays. How many shields will be in each display?
+{user_name} and {sister_name} distribute 6 toy knight shields equally among 3 castle displays. How many shields will be in each display?
+{user_name} and {aunt_name} distribute 6 toy knight shields equally among 3 castle displays. How many shields will be in each display?
+{user_name} and {grandfather_name} pack 8 pairs of earmuffs equally into 2 winter storage baskets. How many pairs of earmuffs will be in each basket?
+{user_name} and {grandmother_name} pack 8 pairs of earmuffs equally into 2 winter storage baskets. How many pairs of earmuffs will be in each basket?
+{user_name} and {father_name} pack 8 pairs of earmuffs equally into 2 winter storage baskets. How many pairs of earmuffs will be in each basket?
+{user_name} and {mother_name} pack 8 pairs of earmuffs equally into 2 winter storage baskets. How many pairs of earmuffs will be in each basket?
+{user_name} and {brother_name} pack 8 pairs of earmuffs equally into 2 winter storage baskets. How many pairs of earmuffs will be in each basket?
+{user_name} and {sister_name} pack 8 pairs of earmuffs equally into 2 winter storage baskets. How many pairs of earmuffs will be in each basket?
+{user_name} and {aunt_name} pack 8 pairs of earmuffs equally into 2 winter storage baskets. How many pairs of earmuffs will be in each basket?
+{user_name} and {grandfather_name} place 9 plain road safety signs equally at 3 practice stations. How many signs will be at each station?
+{user_name} and {grandmother_name} place 9 plain road safety signs equally at 3 practice stations. How many signs will be at each station?
+{user_name} and {father_name} place 9 plain road safety signs equally at 3 practice stations. How many signs will be at each station?
+{user_name} and {mother_name} place 9 plain road safety signs equally at 3 practice stations. How many signs will be at each station?
+{user_name} and {brother_name} place 9 plain road safety signs equally at 3 practice stations. How many signs will be at each station?
+{user_name} and {sister_name} place 9 plain road safety signs equally at 3 practice stations. How many signs will be at each station?
+{user_name} and {aunt_name} place 9 plain road safety signs equally at 3 practice stations. How many signs will be at each station?
+{user_name} and {grandfather_name} put 4 harmonicas equally into 2 musical instrument cases. How many harmonicas will be in each case?
+{user_name} and {grandmother_name} put 4 harmonicas equally into 2 musical instrument cases. How many harmonicas will be in each case?
+{user_name} and {father_name} put 4 harmonicas equally into 2 musical instrument cases. How many harmonicas will be in each case?
+{user_name} and {mother_name} put 4 harmonicas equally into 2 musical instrument cases. How many harmonicas will be in each case?
+{user_name} and {brother_name} put 4 harmonicas equally into 2 musical instrument cases. How many harmonicas will be in each case?
+{user_name} and {sister_name} put 4 harmonicas equally into 2 musical instrument cases. How many harmonicas will be in each case?
+{user_name} and {aunt_name} put 4 harmonicas equally into 2 musical instrument cases. How many harmonicas will be in each case?
+{user_name} and {grandfather_name} distribute 6 juggling clubs equally among 3 circus racks. How many juggling clubs will be on each rack?
+{user_name} and {grandmother_name} distribute 6 juggling clubs equally among 3 circus racks. How many juggling clubs will be on each rack?
+{user_name} and {father_name} distribute 6 juggling clubs equally among 3 circus racks. How many juggling clubs will be on each rack?
+{user_name} and {mother_name} distribute 6 juggling clubs equally among 3 circus racks. How many juggling clubs will be on each rack?
+{user_name} and {brother_name} distribute 6 juggling clubs equally among 3 circus racks. How many juggling clubs will be on each rack?
+{user_name} and {sister_name} distribute 6 juggling clubs equally among 3 circus racks. How many juggling clubs will be on each rack?
+{user_name} and {aunt_name} distribute 6 juggling clubs equally among 3 circus racks. How many juggling clubs will be on each rack?
+{user_name} and {grandfather_name} pack 8 travel pillows equally into 2 suitcases. How many travel pillows will be in each suitcase?
+{user_name} and {grandmother_name} pack 8 travel pillows equally into 2 suitcases. How many travel pillows will be in each suitcase?
+{user_name} and {father_name} pack 8 travel pillows equally into 2 suitcases. How many travel pillows will be in each suitcase?
+{user_name} and {mother_name} pack 8 travel pillows equally into 2 suitcases. How many travel pillows will be in each suitcase?
+{user_name} and {brother_name} pack 8 travel pillows equally into 2 suitcases. How many travel pillows will be in each suitcase?
+{user_name} and {sister_name} pack 8 travel pillows equally into 2 suitcases. How many travel pillows will be in each suitcase?
+{user_name} and {aunt_name} pack 8 travel pillows equally into 2 suitcases. How many travel pillows will be in each suitcase?
+{user_name} and {grandfather_name} distribute 6 toy construction cranes equally among 3 building sites. How many toy cranes will be at each site?
+{user_name} and {grandmother_name} distribute 6 toy construction cranes equally among 3 building sites. How many toy cranes will be at each site?
+{user_name} and {father_name} distribute 6 toy construction cranes equally among 3 building sites. How many toy cranes will be at each site?
+{user_name} and {mother_name} distribute 6 toy construction cranes equally among 3 building sites. How many toy cranes will be at each site?
+{user_name} and {brother_name} distribute 6 toy construction cranes equally among 3 building sites. How many toy cranes will be at each site?
+{user_name} and {sister_name} distribute 6 toy construction cranes equally among 3 building sites. How many toy cranes will be at each site?
+{user_name} and {aunt_name} distribute 6 toy construction cranes equally among 3 building sites. How many toy cranes will be at each site?
+{user_name} and {grandfather_name} distribute 6 pairs of scuba flippers equally among 3 beach lockers. How many pairs of flippers will be in each locker?
+{user_name} and {grandmother_name} distribute 6 pairs of scuba flippers equally among 3 beach lockers. How many pairs of flippers will be in each locker?
+{user_name} and {father_name} distribute 6 pairs of scuba flippers equally among 3 beach lockers. How many pairs of flippers will be in each locker?
+{user_name} and {mother_name} distribute 6 pairs of scuba flippers equally among 3 beach lockers. How many pairs of flippers will be in each locker?
+{user_name} and {brother_name} distribute 6 pairs of scuba flippers equally among 3 beach lockers. How many pairs of flippers will be in each locker?
+{user_name} and {sister_name} distribute 6 pairs of scuba flippers equally among 3 beach lockers. How many pairs of flippers will be in each locker?
+{user_name} and {aunt_name} distribute 6 pairs of scuba flippers equally among 3 beach lockers. How many pairs of flippers will be in each locker?
+{user_name} and {grandfather_name} place 6 bath sponges equally into 2 bath caddies. How many bath sponges will be in each caddy?
+{user_name} and {grandmother_name} place 6 bath sponges equally into 2 bath caddies. How many bath sponges will be in each caddy?
+{user_name} and {father_name} place 6 bath sponges equally into 2 bath caddies. How many bath sponges will be in each caddy?
+{user_name} and {mother_name} place 6 bath sponges equally into 2 bath caddies. How many bath sponges will be in each caddy?
+{user_name} and {brother_name} place 6 bath sponges equally into 2 bath caddies. How many bath sponges will be in each caddy?
+{user_name} and {sister_name} place 6 bath sponges equally into 2 bath caddies. How many bath sponges will be in each caddy?
+{user_name} and {uncle_name} place 6 bath sponges equally into 2 bath caddies. How many bath sponges will be in each caddy?
+{user_name} and {grandfather_name} arrange 8 cookies equally on 2 cooling racks. How many cookies will be on each rack?
+{user_name} and {grandmother_name} arrange 8 cookies equally on 2 cooling racks. How many cookies will be on each rack?
+{user_name} and {father_name} arrange 8 cookies equally on 2 cooling racks. How many cookies will be on each rack?
+{user_name} and {mother_name} arrange 8 cookies equally on 2 cooling racks. How many cookies will be on each rack?
+{user_name} and {brother_name} arrange 8 cookies equally on 2 cooling racks. How many cookies will be on each rack?
+{user_name} and {sister_name} arrange 8 cookies equally on 2 cooling racks. How many cookies will be on each rack?
+{user_name} and {uncle_name} arrange 8 cookies equally on 2 cooling racks. How many cookies will be on each rack?
+{user_name} and {grandfather_name} arrange 6 hand puppets equally across 3 puppet stages. How many hand puppets will be on each stage?
+{user_name} and {grandmother_name} arrange 6 hand puppets equally across 3 puppet stages. How many hand puppets will be on each stage?
+{user_name} and {father_name} arrange 6 hand puppets equally across 3 puppet stages. How many hand puppets will be on each stage?
+{user_name} and {mother_name} arrange 6 hand puppets equally across 3 puppet stages. How many hand puppets will be on each stage?
+{user_name} and {brother_name} arrange 6 hand puppets equally across 3 puppet stages. How many hand puppets will be on each stage?
+{user_name} and {sister_name} arrange 6 hand puppets equally across 3 puppet stages. How many hand puppets will be on each stage?
+{user_name} and {uncle_name} arrange 6 hand puppets equally across 3 puppet stages. How many hand puppets will be on each stage?
+{user_name} and {grandfather_name} distribute 8 butterfly nets equally between 2 nature exploration groups. How many butterfly nets will each group receive?
+{user_name} and {grandmother_name} distribute 8 butterfly nets equally between 2 nature exploration groups. How many butterfly nets will each group receive?
+{user_name} and {father_name} distribute 8 butterfly nets equally between 2 nature exploration groups. How many butterfly nets will each group receive?
+{user_name} and {mother_name} distribute 8 butterfly nets equally between 2 nature exploration groups. How many butterfly nets will each group receive?
+{user_name} and {brother_name} distribute 8 butterfly nets equally between 2 nature exploration groups. How many butterfly nets will each group receive?
+{user_name} and {sister_name} distribute 8 butterfly nets equally between 2 nature exploration groups. How many butterfly nets will each group receive?
+{user_name} and {uncle_name} distribute 8 butterfly nets equally between 2 nature exploration groups. How many butterfly nets will each group receive?
+{user_name} and {grandfather_name} share 9 small clay figures equally among 3 modelling mats. How many clay figures will be on each mat?
+{user_name} and {grandmother_name} share 9 small clay figures equally among 3 modelling mats. How many clay figures will be on each mat?
+{user_name} and {father_name} share 9 small clay figures equally among 3 modelling mats. How many clay figures will be on each mat?
+{user_name} and {mother_name} share 9 small clay figures equally among 3 modelling mats. How many clay figures will be on each mat?
+{user_name} and {brother_name} share 9 small clay figures equally among 3 modelling mats. How many clay figures will be on each mat?
+{user_name} and {sister_name} share 9 small clay figures equally among 3 modelling mats. How many clay figures will be on each mat?
+{user_name} and {uncle_name} share 9 small clay figures equally among 3 modelling mats. How many clay figures will be on each mat?
+{user_name} and {grandfather_name} place 4 bubble machines equally in 2 play areas. How many bubble machines will be in each area?
+{user_name} and {grandmother_name} place 4 bubble machines equally in 2 play areas. How many bubble machines will be in each area?
+{user_name} and {father_name} place 4 bubble machines equally in 2 play areas. How many bubble machines will be in each area?
+{user_name} and {mother_name} place 4 bubble machines equally in 2 play areas. How many bubble machines will be in each area?
+{user_name} and {brother_name} place 4 bubble machines equally in 2 play areas. How many bubble machines will be in each area?
+{user_name} and {sister_name} place 4 bubble machines equally in 2 play areas. How many bubble machines will be in each area?
+{user_name} and {uncle_name} place 4 bubble machines equally in 2 play areas. How many bubble machines will be in each area?
+{user_name} and {grandfather_name} arrange 6 ice cream cones equally in 3 serving holders. How many ice cream cones will be in each holder?
+{user_name} and {grandmother_name} arrange 6 ice cream cones equally in 3 serving holders. How many ice cream cones will be in each holder?
+{user_name} and {father_name} arrange 6 ice cream cones equally in 3 serving holders. How many ice cream cones will be in each holder?
+{user_name} and {mother_name} arrange 6 ice cream cones equally in 3 serving holders. How many ice cream cones will be in each holder?
+{user_name} and {brother_name} arrange 6 ice cream cones equally in 3 serving holders. How many ice cream cones will be in each holder?
+{user_name} and {sister_name} arrange 6 ice cream cones equally in 3 serving holders. How many ice cream cones will be in each holder?
+{user_name} and {uncle_name} arrange 6 ice cream cones equally in 3 serving holders. How many ice cream cones will be in each holder?
+{user_name} and {grandfather_name} divide 8 blank envelopes equally among 2 mail trays. How many envelopes will be in each tray?
+{user_name} and {grandmother_name} divide 8 blank envelopes equally among 2 mail trays. How many envelopes will be in each tray?
+{user_name} and {father_name} divide 8 blank envelopes equally among 2 mail trays. How many envelopes will be in each tray?
+{user_name} and {mother_name} divide 8 blank envelopes equally among 2 mail trays. How many envelopes will be in each tray?
+{user_name} and {brother_name} divide 8 blank envelopes equally among 2 mail trays. How many envelopes will be in each tray?
+{user_name} and {sister_name} divide 8 blank envelopes equally among 2 mail trays. How many envelopes will be in each tray?
+{user_name} and {uncle_name} divide 8 blank envelopes equally among 2 mail trays. How many envelopes will be in each tray?
+{user_name} and {grandfather_name} fold 6 picnic blankets equally into 3 picnic areas. How many blankets will be in each area?
+{user_name} and {grandmother_name} fold 6 picnic blankets equally into 3 picnic areas. How many blankets will be in each area?
+{user_name} and {father_name} fold 6 picnic blankets equally into 3 picnic areas. How many blankets will be in each area?
+{user_name} and {mother_name} fold 6 picnic blankets equally into 3 picnic areas. How many blankets will be in each area?
+{user_name} and {brother_name} fold 6 picnic blankets equally into 3 picnic areas. How many blankets will be in each area?
+{user_name} and {sister_name} fold 6 picnic blankets equally into 3 picnic areas. How many blankets will be in each area?
+{user_name} and {uncle_name} fold 6 picnic blankets equally into 3 picnic areas. How many blankets will be in each area?
+{user_name} and {grandfather_name} place 4 small music boxes equally on 2 display shelves. How many music boxes will be on each shelf?
+{user_name} and {grandmother_name} place 4 small music boxes equally on 2 display shelves. How many music boxes will be on each shelf?
+{user_name} and {father_name} place 4 small music boxes equally on 2 display shelves. How many music boxes will be on each shelf?
+{user_name} and {mother_name} place 4 small music boxes equally on 2 display shelves. How many music boxes will be on each shelf?
+{user_name} and {brother_name} place 4 small music boxes equally on 2 display shelves. How many music boxes will be on each shelf?
+{user_name} and {sister_name} place 4 small music boxes equally on 2 display shelves. How many music boxes will be on each shelf?
+{user_name} and {uncle_name} place 4 small music boxes equally on 2 display shelves. How many music boxes will be on each shelf?

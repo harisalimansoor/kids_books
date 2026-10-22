@@ -1,0 +1,9 @@
+title: Making Pancakes with Aunt
+question_text:
+{user_name} prepares 4 pancakes for breakfast, and {aunt_name} makes 4 more. How many pancakes have they made altogether?
+options:
+A) 8
+B) 0
+C) 16
+image_prompt:
+Show {user_name} flipping a pancake in the kitchen while {aunt_name} arranges finished pancakes on a plate. Include EXACTLY 4 pancakes in the child's group and 4 in Aunt's group, with no additional pancakes.

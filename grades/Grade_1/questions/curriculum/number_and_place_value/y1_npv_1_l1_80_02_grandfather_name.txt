@@ -1,0 +1,9 @@
+title: Making Pinwheels with Grandfather
+question_text:
+{user_name} and {grandfather_name} arrange 3 groups of 10 pinwheels and 8 extra pinwheels. What number do the pinwheels show altogether?
+options:
+A) 83
+B) 30
+C) 38
+image_prompt:
+Show {user_name} and {grandfather_name} arranging exactly 38 pinwheels: 3 separate groups of 10 pinwheels each and 8 extra pinwheels. Keep every pinwheel visible and countable. No extra pinwheels, and no text, letters, or numbers.

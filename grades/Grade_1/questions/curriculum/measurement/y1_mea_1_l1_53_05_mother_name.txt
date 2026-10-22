@@ -1,0 +1,9 @@
+title: Comparing Gift Baskets with Mother
+question_text:
+{user_name} and {mother_name} are comparing 2 gift baskets. One basket weighs 2 kilograms, and the other weighs 4 kilograms. Which basket is heavier?
+options:
+A) The basket that weighs 4 kilograms
+B) The basket that weighs 2 kilograms
+C) Both baskets weigh the same
+image_prompt:
+Show {user_name} and {mother_name} comparing exactly 2 gift baskets on a suitable balance scale. The side with the heavier basket must be lower. No extra baskets, scales, props, text, letters, or numbers.

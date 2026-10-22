@@ -1,0 +1,9 @@
+title: Setting Up Toy Trains with Brother
+question_text:
+{user_name} helps {brother_name} set up toy trains. Each of 2 trains has 3 carriages. How many carriages do the trains have altogether?
+options:
+A) 5
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {brother_name} arranging exactly 2 toy trains. Each train must have exactly 3 separate carriages behind its engine. Show exactly 6 carriages in total. No extra trains or carriages, and no text, letters, or numbers.

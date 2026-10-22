@@ -1,0 +1,9 @@
+title: Decorating Paper Crowns with Father
+question_text:
+{user_name} helps {father_name} decorate paper crowns. They stick 2 stars on each of 3 crowns. How many stars do they use altogether?
+options:
+A) 6
+B) 5
+C) 8
+image_prompt:
+Show {user_name} and {father_name} decorating exactly 3 paper crowns. Each crown must have exactly 2 clearly visible star stickers. Show exactly 6 stars in total. No extra crowns or stars, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Playing with a Ball and Sister
+question_text:
+{user_name} is helping {sister_name} identify solid shapes. They examine 1 round ball with a curved surface and no corners. Which 3D shape matches the ball?
+options:
+A) Cuboid
+B) Pyramid
+C) Sphere
+image_prompt:
+Show {user_name} helping {sister_name} examine exactly 1 round ball. Make the ball clearly spherical, with a smooth curved surface and no corners or straight edges. No extra balls, objects, props, text, letters, or numbers.

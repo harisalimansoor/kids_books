@@ -1,0 +1,9 @@
+title: Reading Ten O'Clock with Brother
+question_text:
+{user_name} is helping {brother_name} read an analogue clock before a train journey. They see the minute hand pointing to 12 and the hour hand pointing to 10. What time does the clock show?
+options:
+A) 10 o'clock
+B) 12 o'clock
+C) 2 o'clock
+image_prompt:
+Show {user_name} helping {brother_name} read exactly one analogue clock. The minute hand points straight up, and the shorter hour hand points directly to the 10 position. No numerals, text, letters, extra hands or extra clocks.

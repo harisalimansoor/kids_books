@@ -1,0 +1,9 @@
+title: Sorting Chess Pawns with Father
+question_text:
+{user_name} and {father_name} divide 6 chess pawns equally among 3 small game cups. How many chess pawns will be in each cup?
+options:
+A) 4
+B) 2
+C) 3
+image_prompt:
+Show {user_name} and {father_name} placing exactly 6 chess pawns equally into 3 separate game cups, with exactly 2 pawns in each cup. No extra pawns, text, letters, or numbers.

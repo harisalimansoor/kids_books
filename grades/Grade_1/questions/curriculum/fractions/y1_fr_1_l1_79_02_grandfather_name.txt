@@ -1,0 +1,9 @@
+title: Sharing Toy Blocks with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} organise toy blocks. They arrange 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+options:
+A) One quarter
+B) One half
+C) One whole
+image_prompt:
+Show {user_name} helping {grandfather_name} arrange exactly 8 toy blocks into 4 separate, equal groups, with exactly 2 blocks in each group. No extra blocks, objects, props, people, text, letters or numbers.

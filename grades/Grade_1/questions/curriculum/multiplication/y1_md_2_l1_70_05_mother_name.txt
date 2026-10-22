@@ -1,0 +1,9 @@
+title: Arranging Yo-Yos with Mother
+question_text:
+{user_name} helps {mother_name} arrange yo-yos for a play activity. They place 3 yo-yos in each of 3 display sections. How many yo-yos do they arrange altogether?
+options:
+A) 6
+B) 8
+C) 9
+image_prompt:
+Show {user_name} and {mother_name} arranging exactly 3 separate display sections. Each section must contain exactly 3 clearly visible yo-yos. Show exactly 9 yo-yos in total. No extra display sections or yo-yos, and no text, letters, or numbers.

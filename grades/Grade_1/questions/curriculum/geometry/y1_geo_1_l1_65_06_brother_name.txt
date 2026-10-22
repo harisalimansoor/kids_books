@@ -1,0 +1,9 @@
+title: Decorating the Garden with Brother
+question_text:
+{user_name} is helping {brother_name} decorate the garden. They place a round garden ornament on the ground. The ornament has a curved surface and no corners or straight edges. Which 3D shape does it match?
+options:
+A) Cube
+B) Cuboid
+C) Sphere
+image_prompt:
+Show {user_name} helping {brother_name} place exactly 1 plain spherical garden ornament on the ground. Make it clearly round all over, with a curved surface and no corners or straight edges. No extra ornaments, objects, props, text, letters, or numbers.

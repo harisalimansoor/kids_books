@@ -1,0 +1,9 @@
+title: Building a Toy Car with Sister
+question_text:
+{user_name} is helping {sister_name} build a toy car. They attach the wheels before pushing the car along the floor. What do they do first?
+options:
+A) Push the car
+B) Attach the wheels
+C) Put the car away
+image_prompt:
+Show {user_name} helping {sister_name} attach exactly 4 wheels to one toy car before pushing it. Show the assembly step clearly. No extra cars, wheels, text, letters or numbers.

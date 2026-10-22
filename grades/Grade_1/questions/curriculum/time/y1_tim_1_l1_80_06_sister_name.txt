@@ -1,0 +1,9 @@
+title: Getting Ready for Bed with Sister
+question_text:
+{user_name} is helping {sister_name} follow a bedtime routine. They brush their teeth before getting into bed at night. What do they do before going to bed?
+options:
+A) Brush their teeth
+B) Eat lunch
+C) Play football outside
+image_prompt:
+Show {user_name} helping {sister_name} brush their teeth at a bathroom sink before bedtime. Include exactly two people, one sink and one toothbrush for each person. No text, letters, numbers or unnecessary objects.

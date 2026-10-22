@@ -1,0 +1,9 @@
+title: Sharing Biscuits with Sister
+question_text:
+{user_name} has 6 biscuits on a plate. {sister_name} takes 2 biscuits for his own plate. How many biscuits remain on {user_name}'s plate?
+options:
+A) 3
+B) 5
+C) 4
+image_prompt:
+Show {user_name} sharing biscuits with {sister_name}. Show exactly 4 biscuits on the child's plate and 2 biscuits on Sister's plate. No other biscuits, text, letters, or numbers.

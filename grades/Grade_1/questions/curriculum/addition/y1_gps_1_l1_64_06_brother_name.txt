@@ -1,0 +1,9 @@
+title: Collecting Eggs with Brother
+question_text:
+{user_name} collects 5 eggs for the farm basket, while {brother_name} gathers 3 eggs for another basket. How many eggs have they collected altogether?
+options:
+A) 2
+B) 8
+C) 15
+image_prompt:
+Show {user_name} carefully arranging eggs in a wicker basket at a farm table while {brother_name} sorts eggs beside them. Include EXACTLY 5 whole white eggs in the child's basket and 3 in the aunt's basket. All 8 eggs must be visible, with no extra eggs in the scene.

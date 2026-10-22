@@ -1,0 +1,9 @@
+title: Playing a Balance Scale Game with Uncle
+question_text:
+{user_name} has 8 toy cubes. {uncle_name} places 3 cubes on a balance scale. How many toy cubes remain beside the scale?
+options:
+A) 5
+B) 6
+C) 4
+image_prompt:
+Show {user_name} playing with a balance scale alongside {uncle_name}. Uncle places 3 cubes from a group of 8 onto the scale. Show exactly 5 cubes beside the scale and 3 on its pan. No extra cubes, text, letters, or numbers.

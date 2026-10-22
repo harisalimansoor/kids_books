@@ -1,0 +1,9 @@
+title: Measuring a Toy Train with Father
+question_text:
+{user_name} and {father_name} are comparing 2 toy trains. One train is longer than the other. Which train is longer?
+options:
+A) The shorter train
+B) The longer train
+C) Both trains are the same length
+image_prompt:
+Show {user_name} and {father_name} comparing exactly 2 toy trains side by side, with one clearly longer than the other. No extra trains, props, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Building Towers with Brother
+question_text:
+{user_name} and {brother_name} are building toy towers. {user_name} builds 3 toy towers, and {brother_name} builds 4 toy towers. How many toy towers did they build in total?
+options:
+A) 1
+B) 18
+C) 7
+image_prompt:
+Show {user_name} building exactly 3 separate toy towers and {brother_name} building exactly 4 separate toy towers. Show exactly 7 towers in total. No extra towers, text, letters, or numbers.

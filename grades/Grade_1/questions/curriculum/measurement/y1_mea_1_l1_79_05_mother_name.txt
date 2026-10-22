@@ -1,0 +1,9 @@
+title: Measuring a Garden Ladder with Mother
+question_text:
+{user_name} and {mother_name} are comparing 2 garden ladders. One ladder is 150 cm tall, and the other is 180 cm tall. Which ladder is taller?
+options:
+A) The ladder that is 150 cm tall
+B) The ladder that is 180 cm tall
+C) Both ladders are the same height
+image_prompt:
+Show {user_name} and {mother_name} comparing exactly 2 garden ladders standing upright side by side. One ladder must be clearly taller than the other. No extra ladders, props, text, letters, or numbers.

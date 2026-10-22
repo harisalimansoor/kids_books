@@ -1,0 +1,9 @@
+title: Making a Paper Fan with Grandfather
+question_text:
+{user_name} folds 6 paper fans. {grandfather_name} gives 2 fans to guests. How many paper fans remain with {user_name}?
+options:
+A) 5
+B) 3
+C) 4
+image_prompt:
+Show {user_name} making paper fans with {grandfather_name}. Grandfather gives 2 fans from a group of 6 to guests. Show exactly 4 fans with the child and 2 with the guests. No extra fans, text, letters, or numbers.

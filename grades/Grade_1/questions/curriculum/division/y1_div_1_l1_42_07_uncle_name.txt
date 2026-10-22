@@ -1,0 +1,9 @@
+title: Organizing Measuring Spoons with Uncle
+question_text:
+{user_name} and {uncle_name} arrange 8 measuring spoons equally in 2 kitchen drawers. How many spoons will be in each drawer?
+options:
+A) 4
+B) 3
+C) 2
+image_prompt:
+Show {user_name} and {uncle_name} arranging exactly 8 measuring spoons equally in 2 open kitchen drawers, with exactly 4 spoons in each drawer. No extra spoons, text, letters, or numbers.

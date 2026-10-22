@@ -1,0 +1,9 @@
+title: Collecting Seashells with Brother
+question_text:
+{user_name} finds 4 seashells on the beach, while {brother_name} discovers 3 more. How many seashells have they collected altogether?
+options:
+A) 1
+B) 14
+C) 7
+image_prompt:
+Show {user_name} searching the sand for seashells while {brother_name} rinses her collected shells in a small bucket. Include EXACTLY 4 seashells in the child's collection and 3 in the sister's, with no extra shells visible.

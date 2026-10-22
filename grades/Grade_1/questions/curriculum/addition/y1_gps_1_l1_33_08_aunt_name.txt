@@ -1,0 +1,9 @@
+title: Decorating Donuts with Aunt
+question_text:
+{user_name} decorates 3 glazed donuts with sprinkles, and {aunt_name} decorates 3 more. How many donuts have they decorated altogether?
+options:
+A) 0
+B) 6
+C) 13
+image_prompt:
+Show {user_name} adding sprinkles to donuts while {aunt_name} spreads icing on another batch. Include EXACTLY 3 donuts in the child's group and 3 in the sister's group, with no extra donuts.

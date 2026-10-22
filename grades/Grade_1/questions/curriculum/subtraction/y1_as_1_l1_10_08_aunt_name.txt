@@ -1,0 +1,9 @@
+title: Arranging Cups with Aunt
+question_text:
+{user_name} places 8 cups on a table. {aunt_name} puts 3 cups into a kitchen cabinet. How many cups remain on the table?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} arranging cups while {aunt_name} puts 3 cups into a kitchen cabinet. Show exactly 5 cups remaining on the table and 3 inside the cabinet. No extra cups, text, letters, or numbers.

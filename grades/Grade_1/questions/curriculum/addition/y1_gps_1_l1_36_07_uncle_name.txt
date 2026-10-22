@@ -1,0 +1,9 @@
+title: Painting Clay Pots with Uncle
+question_text:
+{user_name} paints 5 small clay pots, while {uncle_name} decorates 3 more. How many clay pots have they painted altogether?
+options:
+A) 2
+B) 8
+C) 15
+image_prompt:
+Show {user_name} painting clay pots with a brush while {uncle_name} adds colorful patterns to hers. Include EXACTLY 5 pots in the child's group and 3 in the sister's group, with no extra pots.

@@ -1,0 +1,9 @@
+title: Ordering Toy Boats with Brother
+question_text:
+{user_name} helps {brother_name} arrange the numbers 18, 42, and 27 from smallest to largest. Which number should come first?
+options:
+A) 42
+B) 18
+C) 27
+image_prompt:
+Show {user_name} and {brother_name} arranging exactly 3 blank cards from left to right. No printed numbers, letters, extra cards, or other text.

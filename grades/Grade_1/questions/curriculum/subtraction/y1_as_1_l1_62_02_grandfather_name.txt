@@ -1,0 +1,9 @@
+title: Playing Chess with Grandfather
+question_text:
+{user_name} has 9 chess pieces. {grandfather_name} removes 4 captured pieces from the board. How many chess pieces remain on the board?
+options:
+A) 5
+B) 6
+C) 4
+image_prompt:
+Show {user_name} playing chess with {grandfather_name}. Grandfather removes 4 pieces from a group of 9. Show exactly 5 pieces remaining on the chessboard and 4 captured pieces beside it. No extra pieces, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Making Paper Airplanes with Mother
+question_text:
+{user_name} and {mother_name} make paper airplanes. Each of 3 airplanes has 2 wings. How many wings do the airplanes have altogether?
+options:
+A) 5
+B) 6
+C) 9
+image_prompt:
+Show {user_name} and {mother_name} making exactly 3 paper airplanes. Each airplane must have exactly 2 clearly visible wings. Show exactly 6 wings in total. No extra airplanes, wings, text, letters, or numbers.

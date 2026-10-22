@@ -1,0 +1,9 @@
+title: Hanging a Hoop with Brother
+question_text:
+{user_name} is helping {brother_name} hang a round hoop on a wall. When they look at the hoop from the front, what 2D shape does its outline make?
+options:
+A) Circle
+B) Square
+C) Triangle
+image_prompt:
+Show {user_name} helping {brother_name} hang exactly 1 large, round hoop on a plain wall. View the hoop directly from the front so its circular outline is clear. Show exactly 1 hoop with no objects inside it. No extra hoops, objects, props, text, letters, or numbers.

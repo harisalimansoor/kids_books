@@ -1,0 +1,9 @@
+title: Remembering Yesterday with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} remember their activities. They flew a kite yesterday, painted a picture today and will ride their bicycles tomorrow. What will they do tomorrow?
+options:
+A) Fly a kite
+B) Paint a picture
+C) Ride their bicycles
+image_prompt:
+Show {user_name} helping {grandfather_name} look at exactly 3 picture cards in sequence. Show flying a kite on the first, painting a picture on the second and riding bicycles on the third. No text, letters, numbers or extra cards.

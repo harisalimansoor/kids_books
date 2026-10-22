@@ -1,0 +1,9 @@
+title: Making Cheese Sandwiches with Grandmother
+question_text:
+{user_name} helps {grandmother_name} make sandwiches. They put 2 cheese slices in each of 3 sandwiches. How many cheese slices do they use altogether?
+options:
+A) 4
+B) 8
+C) 6
+image_prompt:
+Show {user_name} and {grandmother_name} making exactly 3 sandwiches. Each sandwich must contain exactly 2 visible cheese slices. Show exactly 6 cheese slices in total. No extra cheese slices, text, letters, or numbers.

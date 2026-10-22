@@ -1,0 +1,9 @@
+title: Building a Block Tower with Sister
+question_text:
+{user_name} builds a tower using 8 blocks. {sister_name} removes 3 blocks from the tower. How many blocks remain in the tower?
+options:
+A) 5
+B) 6
+C) 4
+image_prompt:
+Show {user_name} building a colorful block tower with {sister_name}. Show exactly 5 blocks remaining in the tower and 3 removed blocks beside Sister. No extra blocks, text, letters, or numbers.

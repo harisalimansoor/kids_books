@@ -1,0 +1,9 @@
+title: Making Fruit Salad with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} make a fruit salad. They wash the strawberries before cutting them into pieces. What do they do first?
+options:
+A) Cut the strawberries
+B) Eat the fruit salad
+C) Wash the strawberries
+image_prompt:
+Show {user_name} helping {grandmother_name} wash exactly four strawberries in a bowl of water before cutting them. Include one bowl and four strawberries only. No extra fruit, text, letters or numbers.

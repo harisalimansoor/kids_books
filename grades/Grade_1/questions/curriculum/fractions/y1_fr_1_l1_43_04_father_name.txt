@@ -1,0 +1,9 @@
+title: Collecting Seashells with Father
+question_text:
+{user_name} is helping {father_name} collect seashells at the beach. They share exactly 8 seashells equally between 2 buckets. What fraction of all the seashells is in one bucket?
+options:
+A) One half
+B) One quarter
+C) One whole
+image_prompt:
+Show {user_name} helping {father_name} share exactly 8 seashells equally between 2 buckets, with exactly 4 seashells in each bucket. No additional shells, buckets, objects, props or people. No text, letters or numbers.

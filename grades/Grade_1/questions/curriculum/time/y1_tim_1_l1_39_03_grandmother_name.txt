@@ -1,0 +1,9 @@
+title: Remembering Yesterday with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} remember their daily activities. They baked a cake yesterday, planted seeds today and will visit the park tomorrow. What did they do yesterday?
+options:
+A) Visit the park
+B) Plant seeds
+C) Bake a cake
+image_prompt:
+Show {user_name} helping {grandmother_name} look at exactly three picture cards in order. Show baking a cake on the first card, planting seeds on the second and visiting a park on the third. No text, letters, numbers or extra cards.

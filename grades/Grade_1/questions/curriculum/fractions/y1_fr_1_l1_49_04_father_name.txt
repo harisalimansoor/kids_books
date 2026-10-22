@@ -1,0 +1,9 @@
+title: Sorting Socks with Father
+question_text:
+{user_name} is helping {father_name} put socks away. They share exactly 8 socks equally between 2 drawers. What fraction of all the socks is in one drawer?
+options:
+A) One whole
+B) One quarter
+C) One half
+image_prompt:
+Show {user_name} helping {father_name} sort exactly 8 socks equally between 2 open drawers, with exactly 4 socks in each drawer. No additional socks, drawers, objects, props or people. No text, letters or numbers.

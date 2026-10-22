@@ -1,0 +1,9 @@
+title: Feeding a Toy Dinosaur with Grandmother
+question_text:
+{user_name} has 8 toy bones. {grandmother_name} gives 3 bones to a toy dinosaur. How many toy bones remain?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} playing with {grandmother_name} and a toy dinosaur. Grandmother gives 3 toy bones from a group of 8 to the dinosaur. Show exactly 5 bones remaining and 3 beside the dinosaur. No extra bones, text, letters, or numbers.

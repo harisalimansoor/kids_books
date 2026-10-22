@@ -1,0 +1,9 @@
+title: Parking Skateboards with Grandmother
+question_text:
+{user_name} and {grandmother_name} place 4 skateboards equally on 2 storage racks. How many skateboards will be on each rack?
+options:
+A) 1
+B) 3
+C) 2
+image_prompt:
+Show {user_name} and {grandmother_name} placing exactly 4 skateboards equally on 2 separate storage racks, with exactly 2 skateboards on each rack. No extra skateboards, text, letters, or numbers.

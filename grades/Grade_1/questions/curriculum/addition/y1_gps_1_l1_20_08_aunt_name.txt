@@ -1,0 +1,9 @@
+title: Pouring Juice with Aunt
+question_text:
+{user_name} and {aunt_name} are pouring glasses of orange juice. {user_name} pours 4 glasses, and {aunt_name} pours 5 glasses. How many glasses did they pour in total?
+options:
+A) 1
+B) 18
+C) 9
+image_prompt:
+Make 4 glasses of orange juice in front of {user_name} and 5 glasses of orange juice in front of {aunt_name}.

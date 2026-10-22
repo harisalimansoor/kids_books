@@ -1,0 +1,9 @@
+title: Practising a Half Turn with Mother
+question_text:
+{user_name} is helping {mother_name} practise a dance. They start by facing the garden gate and then make a half turn. Which way will they face after the half turn?
+options:
+A) Towards the garden gate
+B) Away from the garden gate
+C) Towards the sky
+image_prompt:
+Show {user_name} and {mother_name} after completing a half turn during a dance. They must be facing away from exactly 1 garden gate, with their backs towards the gate and their faces looking in the opposite direction. Include a simple curved turning arrow without any labels or numbers. Show each person only once. No extra people, objects, props, text, letters, or numbers.

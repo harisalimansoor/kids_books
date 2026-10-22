@@ -1,0 +1,9 @@
+title: Packing Bookmarks with Father
+question_text:
+{user_name} helps {father_name} pack bookmarks for a reading activity. They place 3 bookmarks in each of 2 envelopes. How many bookmarks do they pack altogether?
+options:
+A) 5
+B) 8
+C) 6
+image_prompt:
+Show {user_name} and {father_name} packing exactly 2 open, plain envelopes. Each envelope must contain exactly 3 clearly visible bookmarks. Show exactly 6 bookmarks in total. All envelopes and bookmarks must be blank, with no extra objects, text, letters, or numbers.

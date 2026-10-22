@@ -1,0 +1,9 @@
+title: Arranging Toy Trucks with Grandfather
+question_text:
+{user_name} helps {grandfather_name} arrange 4 groups of 10 toy trucks and 3 extra trucks. What number do the trucks show altogether?
+options:
+A) 43
+B) 34
+C) 13
+image_prompt:
+Show {user_name} and {grandfather_name} arranging exactly 43 toy trucks: 4 groups of 10 trucks each and 3 extra trucks. Keep every truck visible and countable. No extra trucks, and no text, letters, or numbers.

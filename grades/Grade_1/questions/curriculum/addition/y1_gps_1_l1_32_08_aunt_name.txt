@@ -1,0 +1,9 @@
+title: Arranging Teddy Bears with Aunt
+question_text:
+{user_name} places 2 teddy bears on a playroom rug, while {aunt_name} adds 3 more. How many teddy bears have they arranged altogether?
+options:
+A) 5
+B) 1
+C) 12
+image_prompt:
+Show {user_name} arranging teddy bears on a rug while {aunt_name} positions hers in a neat row. Include EXACTLY 2 teddy bears in the child's group and 3 in the sister's group, with no extra teddy bears.

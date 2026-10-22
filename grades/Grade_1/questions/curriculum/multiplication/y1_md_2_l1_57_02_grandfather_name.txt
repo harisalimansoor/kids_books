@@ -1,0 +1,9 @@
+title: Playing with Toy Bicycles with Grandfather
+question_text:
+{user_name} helps {grandfather_name} arrange toy bicycles. Each of 3 bicycles has 2 pedals. How many pedals do the bicycles have altogether?
+options:
+A) 5
+B) 9
+C) 6
+image_prompt:
+Show {user_name} and {grandfather_name} arranging exactly 3 toy bicycles. Each bicycle must have exactly 2 clearly visible pedals. Show exactly 6 pedals in total. No extra bicycles or pedals, and no text, letters, or numbers.

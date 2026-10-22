@@ -1,0 +1,9 @@
+title: Reading Six O'Clock with Aunt
+question_text:
+{user_name} is helping {aunt_name} read an analogue clock before dinner. They see the minute hand pointing to 12 and the hour hand pointing to 6. What time does the clock show?
+options:
+A) 12 o'clock
+B) 3 o'clock
+C) 6 o'clock
+image_prompt:
+Show {user_name} helping {aunt_name} read exactly one analogue clock. The minute hand points straight up, and the shorter hour hand points directly down to 6. No numerals, text, letters, extra hands or extra clocks.

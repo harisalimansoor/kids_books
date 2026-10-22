@@ -1,0 +1,9 @@
+title: Arranging Sports Bottles with Mother
+question_text:
+{user_name} helps {mother_name} arrange the numbers 17, 31, and 26 from smallest to largest. Which number should come first?
+options:
+A) 31
+B) 26
+C) 17
+image_prompt:
+Show {user_name} and {mother_name} arranging exactly 3 blank cards from left to right. No printed numbers, letters, extra cards, or other text.

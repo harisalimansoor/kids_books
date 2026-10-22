@@ -1,0 +1,9 @@
+title: Learning Days of the Week with Brother
+question_text:
+{user_name} is helping {brother_name} arrange the days of the week. They know today is Wednesday and want to find the next day. Which day comes after Wednesday?
+options:
+A) Tuesday
+B) Thursday
+C) Sunday
+image_prompt:
+Show {user_name} helping {brother_name} arrange exactly 3 blank weekday cards in the correct order. No writing, letters, numbers, extra cards or extra objects.

@@ -1,0 +1,9 @@
+title: Placing Toy Cranes with Brother
+question_text:
+{user_name} and {brother_name} distribute 6 toy construction cranes equally among 3 building sites. How many toy cranes will be at each site?
+options:
+A) 3
+B) 4
+C) 2
+image_prompt:
+Show {user_name} and {brother_name} placing exactly 6 toy construction cranes equally among 3 separate building sites, with exactly 2 cranes at each site. No extra cranes, text, letters, or numbers.

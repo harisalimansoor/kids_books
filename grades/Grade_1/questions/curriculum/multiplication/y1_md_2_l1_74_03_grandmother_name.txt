@@ -1,0 +1,9 @@
+title: Painting Toy Turtles with Grandmother
+question_text:
+{user_name} helps {grandmother_name} paint toy turtles. They paint 3 colourful spots on each of 2 turtles. How many spots do they paint altogether?
+options:
+A) 5
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {grandmother_name} painting exactly 2 toy turtles. Each turtle must have exactly 3 clearly visible painted spots on its shell. Show exactly 6 spots in total. No extra turtles or spots, and no text, letters, or numbers.

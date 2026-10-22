@@ -1,0 +1,9 @@
+title: Naming Numbers with Uncle
+question_text:
+{user_name} helps {uncle_name} count 47 buttons. Which number name matches 47?
+options:
+A) Forty-seven
+B) Seventy-four
+C) Forty-two
+image_prompt:
+Show {user_name} and {uncle_name} counting exactly 47 buttons arranged in 4 groups of 10 and 7 loose buttons. Keep all buttons visible and countable. No extra buttons, and no text, letters, or numbers.

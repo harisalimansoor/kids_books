@@ -1,0 +1,9 @@
+title: Sharing Biscuits with Uncle
+question_text:
+{user_name} is helping {uncle_name} prepare biscuits for a snack. They divide 10 biscuits equally between 2 plates. How many biscuits are on each plate?
+options:
+A) 5 biscuits
+B) 2 biscuits
+C) 4 biscuits
+image_prompt:
+Show {user_name} helping {uncle_name} divide exactly 10 biscuits equally between 2 plates, with exactly 5 biscuits on each plate. No extra biscuits, plates, food, props, people, text, letters or numbers.

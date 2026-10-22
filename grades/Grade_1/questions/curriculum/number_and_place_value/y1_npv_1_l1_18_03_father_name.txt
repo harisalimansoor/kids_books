@@ -1,0 +1,9 @@
+title: Counting Teacups with Father
+question_text:
+{user_name} helps {father_name} arrange 3 groups of 10 teacups and 6 extra teacups. What number do the teacups show altogether?
+options:
+A) 36
+B) 63
+C) 30
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 36 teacups: 3 groups of 10 teacups each and 6 extra teacups. Keep every teacup visible and countable. No extra teacups, and no text, letters, or numbers.

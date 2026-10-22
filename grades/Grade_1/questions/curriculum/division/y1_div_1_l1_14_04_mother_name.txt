@@ -1,0 +1,9 @@
+title: Hanging Scarves with Mother
+question_text:
+{user_name} and {mother_name} hang 6 colourful scarves equally on 3 wall hooks. How many scarves will hang on each hook?
+options:
+A) 3
+B) 2
+C) 4
+image_prompt:
+Show {user_name} and {mother_name} hanging exactly 6 scarves equally on 3 separate wall hooks, with exactly 2 scarves on each hook. No extra scarves, hooks, props, text, letters, or numbers.

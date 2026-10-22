@@ -1,0 +1,9 @@
+title: Choosing the Right Time to Play with Aunt
+question_text:
+{user_name} is helping {aunt_name} plan their daily routine. They eat breakfast after waking up and before leaving for school. When do they usually eat breakfast?
+options:
+A) At night
+B) In the morning
+C) In the evening
+image_prompt:
+Show {user_name} helping {aunt_name} eat breakfast at a table in bright morning sunlight. Include exactly two people and the necessary breakfast items. No text, letters, numbers or unnecessary objects.

@@ -1,0 +1,9 @@
+title: Finding Shapes with Mother
+question_text:
+{user_name} is helping {mother_name} sort shape cards. They have 1 circle, 1 triangle and 1 square. Which shape has 3 straight sides?
+options:
+A) Circle
+B) Triangle
+C) Square
+image_prompt:
+Show {user_name} helping {mother_name} sort exactly 3 shape cards: 1 circle, 1 triangle and 1 square. Make all 3 shapes clearly visible. No extra shapes, objects, props, text, letters, or numbers.

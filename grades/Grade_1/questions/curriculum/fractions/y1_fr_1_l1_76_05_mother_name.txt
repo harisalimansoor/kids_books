@@ -1,0 +1,9 @@
+title: Cutting a Ribbon with Mother
+question_text:
+{user_name} is helping {mother_name} prepare a ribbon for a gift. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+options:
+A) One quarter
+B) One whole
+C) One half
+image_prompt:
+Show {user_name} helping {mother_name} cut exactly one ribbon into 2 equal-length pieces. Make both pieces clearly the same length. No extra ribbons, gifts, objects, props, people, text, letters or numbers.

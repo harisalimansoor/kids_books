@@ -1,0 +1,9 @@
+title: Lining Up Toy Cars with Brother
+question_text:
+{user_name} arranges 3 toy cars on a race track, while {brother_name} adds 2 more. How many toy cars have they lined up altogether?
+options:
+A) 1
+B) 5
+C) 14
+image_prompt:
+Show {user_name} racing toy cars along a small track while {brother_name} arranges cars at the starting line. Include EXACTLY 3 toy cars in the child's group and 2 in Brother's group, with no extra cars.

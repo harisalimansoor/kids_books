@@ -1,0 +1,9 @@
+title: Finding Missing Numbers with Uncle
+question_text:
+{user_name} helps {uncle_name} complete this counting sequence: 22, 23, __, 25. Which number is missing?
+options:
+A) 24
+B) 26
+C) 21
+image_prompt:
+Show {user_name} and {uncle_name} looking at exactly 4 blank cards arranged in a row. Highlight the third card as the missing place. No printed numbers, letters, extra cards, or other text.

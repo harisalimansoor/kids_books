@@ -1,0 +1,9 @@
+title: Decorating Cupcakes with Brother
+question_text:
+{user_name} has 8 cupcakes. {brother_name} puts 3 cupcakes on a serving plate. How many cupcakes remain on the baking tray?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} decorating cupcakes with {brother_name}. Brother moves 3 cupcakes from a tray of 8 to a serving plate. Show exactly 5 cupcakes on the tray and 3 on the plate. No extra cupcakes, text, letters, or numbers.

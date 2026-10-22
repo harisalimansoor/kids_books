@@ -1,0 +1,9 @@
+title: Cooling Cookies with Brother
+question_text:
+{user_name} and {brother_name} arrange 8 cookies equally on 2 cooling racks. How many cookies will be on each rack?
+options:
+A) 4
+B) 2
+C) 3
+image_prompt:
+Show {user_name} and {brother_name} arranging exactly 8 cookies equally on 2 separate cooling racks, with exactly 4 cookies on each rack. Show only the specified people, cookies, and racks. No extra cookies, text, letters, or numbers.

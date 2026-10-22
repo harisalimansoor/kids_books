@@ -1,0 +1,9 @@
+title: Setting Picnic Places with Aunt
+question_text:
+{user_name} helps {aunt_name} set up a picnic. They place 4 spoons beside each of 2 picnic plates. How many spoons do they place altogether?
+options:
+A) 8
+B) 6
+C) 4
+image_prompt:
+Show {user_name} and {aunt_name} setting up exactly 2 picnic plates. Place exactly 4 separate spoons beside each plate. Show exactly 8 spoons in total. No extra plates or spoons, and no text, letters, or numbers.

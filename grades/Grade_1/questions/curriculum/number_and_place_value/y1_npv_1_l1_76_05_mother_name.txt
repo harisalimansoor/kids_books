@@ -1,0 +1,9 @@
+title: Completing a Counting Trail with Mother
+question_text:
+{user_name} helps {mother_name} complete this counting sequence: 16, 17, __, 19. Which number is missing?
+options:
+A) 18
+B) 20
+C) 15
+image_prompt:
+Show {user_name} and {mother_name} looking at exactly 4 stepping stones in a straight trail. Leave a clear gap at the third position to show the missing place. No extra stones, and no text, letters, or numbers.

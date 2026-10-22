@@ -1,0 +1,9 @@
+title: Painting with Father
+question_text:
+{user_name} is helping {father_name} prepare to paint. They place a paintbrush near a paint pot and a ruler far away from the paint pot. Which object is near the paint pot?
+options:
+A) Ruler
+B) Paintbrush
+C) Both objects
+image_prompt:
+Show {user_name} helping {father_name} arrange exactly 1 paint pot, 1 paintbrush and 1 ruler. Place the paintbrush close to the paint pot and the ruler clearly far away. Make the difference between near and far unmistakable. No extra tools, objects, props, text, letters, or numbers.

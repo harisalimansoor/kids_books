@@ -1,0 +1,9 @@
+title: Arranging Magic Wands with Brother
+question_text:
+{user_name} and {brother_name} place 6 magic wands equally into 3 wand stands. How many wands will be in each stand?
+options:
+A) 4
+B) 3
+C) 2
+image_prompt:
+Show {user_name} and {brother_name} placing exactly 6 magic wands equally into 3 separate wand stands, with exactly 2 wands in each stand. No extra wands, text, letters, or numbers.

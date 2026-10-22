@@ -1,0 +1,9 @@
+title: Planting with Father
+question_text:
+{user_name} and {father_name} are planting flowers in the garden. {user_name} plants 3 flowers, and {father_name} plants 2 flowers. How many flowers did they plant in total?
+options:
+A) 4
+B) 5
+C) 6
+image_prompt:
+Show {user_name} planting exactly 3 flowers and {father_name} planting exactly 2 flowers in a garden. Show exactly 5 flowers in total. No extra flowers, text, letters, or numbers.

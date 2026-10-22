@@ -1,0 +1,9 @@
+title: Decorating Umbrellas with Mother
+question_text:
+{user_name} helps {mother_name} decorate umbrellas. They add 3 colourful patches to each of 2 umbrellas. How many patches do they use altogether?
+options:
+A) 5
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {mother_name} decorating exactly 2 umbrellas. Each umbrella must have exactly 3 clearly visible patches. Show exactly 6 patches in total. No extra umbrellas or patches, and no text, letters, or numbers.

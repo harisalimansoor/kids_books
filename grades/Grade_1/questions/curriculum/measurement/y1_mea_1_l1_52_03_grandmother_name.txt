@@ -1,0 +1,9 @@
+title: Comparing Paper Windmills with Grandmother
+question_text:
+{user_name} and {grandmother_name} are comparing 2 paper windmills. One windmill is 18 cm tall, and the other is 14 cm tall. Which windmill is taller?
+options:
+A) The windmill that is 14 cm tall
+B) Both windmills are the same height
+C) The windmill that is 18 cm tall
+image_prompt:
+Show {user_name} and {grandmother_name} comparing exactly 2 paper windmills standing upright side by side. One windmill must be visibly taller than the other. No extra windmills, props, text, letters, or numbers.

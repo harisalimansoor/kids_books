@@ -1,0 +1,9 @@
+title: Picking Apples with Mother
+question_text:
+{user_name} and {mother_name} are picking apples from a tree. {user_name} picks 4 apples, and {mother_name} picks 3 apples. How many apples did they pick in total?
+options:
+A) 3
+B) 6
+C) 7
+image_prompt:
+Show {user_name} holding exactly 4 picked apples and {mother_name} holding exactly 3 picked apples. Show exactly 7 apples in total. No extra apples, text, letters, or numbers.

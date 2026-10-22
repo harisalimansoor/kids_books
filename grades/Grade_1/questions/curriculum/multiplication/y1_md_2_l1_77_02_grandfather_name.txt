@@ -1,0 +1,9 @@
+title: Making Paper Chains with Grandfather
+question_text:
+{user_name} helps {grandfather_name} make paper chains. They use 3 paper loops for each of 2 short chains. How many paper loops do they use altogether?
+options:
+A) 5
+B) 9
+C) 6
+image_prompt:
+Show {user_name} and {grandfather_name} making exactly 2 separate short paper chains. Each chain must contain exactly 3 clearly distinguishable paper loops. Show exactly 6 loops in total. No extra chains or loops, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Filling Watering Cans with Grandfather
+question_text:
+{user_name} and {grandfather_name} are comparing 2 identical watering cans. One watering can is full of water, and the other is half-full. Which watering can has more water?
+options:
+A) The half-full watering can
+B) The full watering can
+C) Both watering cans have the same amount of water
+image_prompt:
+Show {user_name} and {grandfather_name} comparing exactly 2 identical transparent watering cans, one completely full of water and the other half-full. Make both water levels clearly visible. No extra watering cans, props, text, letters, or numbers.

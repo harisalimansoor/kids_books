@@ -80,3 +80,541 @@
 {user_name} is helping {aunt_name} cut a round cake. They cut the cake into 2 parts of different sizes. Can both parts be called halves?
 {user_name} is helping {aunt_name} organise toy blocks. They arrange 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
 {user_name} is helping {aunt_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {grandmother_name} share a pizza. They cut one round pizza into 2 equal parts. What fraction of the pizza is one part?
+{user_name} is helping {father_name} share a pizza. They cut one round pizza into 2 equal parts. What fraction of the pizza is one part?
+{user_name} is helping {mother_name} share a pizza. They cut one round pizza into 2 equal parts. What fraction of the pizza is one part?
+{user_name} is helping {brother_name} share a pizza. They cut one round pizza into 2 equal parts. What fraction of the pizza is one part?
+{user_name} is helping {sister_name} share a pizza. They cut one round pizza into 2 equal parts. What fraction of the pizza is one part?
+{user_name} is helping {uncle_name} share a pizza. They cut one round pizza into 2 equal parts. What fraction of the pizza is one part?
+{user_name} is helping {aunt_name} share a pizza. They cut one round pizza into 2 equal parts. What fraction of the pizza is one part?
+{user_name} is helping {grandmother_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {mother_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {brother_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {sister_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {uncle_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {aunt_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {grandmother_name} share apples between two baskets. They divide 6 apples equally between 2 baskets. What fraction of all the apples is in each basket?
+{user_name} is helping {father_name} share apples between two baskets. They divide 6 apples equally between 2 baskets. What fraction of all the apples is in each basket?
+{user_name} is helping {mother_name} share apples between two baskets. They divide 6 apples equally between 2 baskets. What fraction of all the apples is in each basket?
+{user_name} is helping {brother_name} share apples between two baskets. They divide 6 apples equally between 2 baskets. What fraction of all the apples is in each basket?
+{user_name} is helping {sister_name} share apples between two baskets. They divide 6 apples equally between 2 baskets. What fraction of all the apples is in each basket?
+{user_name} is helping {uncle_name} share apples between two baskets. They divide 6 apples equally between 2 baskets. What fraction of all the apples is in each basket?
+{user_name} is helping {aunt_name} share apples between two baskets. They divide 6 apples equally between 2 baskets. What fraction of all the apples is in each basket?
+{user_name} is helping {grandmother_name} colour a paper circle. They colour one of its 2 equal parts blue. What fraction of the circle is blue?
+{user_name} is helping {father_name} colour a paper circle. They colour one of its 2 equal parts blue. What fraction of the circle is blue?
+{user_name} is helping {mother_name} colour a paper circle. They colour one of its 2 equal parts blue. What fraction of the circle is blue?
+{user_name} is helping {brother_name} colour a paper circle. They colour one of its 2 equal parts blue. What fraction of the circle is blue?
+{user_name} is helping {sister_name} colour a paper circle. They colour one of its 2 equal parts blue. What fraction of the circle is blue?
+{user_name} is helping {uncle_name} colour a paper circle. They colour one of its 2 equal parts blue. What fraction of the circle is blue?
+{user_name} is helping {aunt_name} colour a paper circle. They colour one of its 2 equal parts blue. What fraction of the circle is blue?
+{user_name} is helping {grandmother_name} cut a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {father_name} cut a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {mother_name} cut a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {brother_name} cut a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {sister_name} cut a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {uncle_name} cut a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {aunt_name} cut a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {grandmother_name} arrange toy cars. They arrange 8 toy cars into 2 equal rows. What fraction of all the cars is in one row?
+{user_name} is helping {father_name} arrange toy cars. They arrange 8 toy cars into 2 equal rows. What fraction of all the cars is in one row?
+{user_name} is helping {mother_name} arrange toy cars. They arrange 8 toy cars into 2 equal rows. What fraction of all the cars is in one row?
+{user_name} is helping {brother_name} arrange toy cars. They arrange 8 toy cars into 2 equal rows. What fraction of all the cars is in one row?
+{user_name} is helping {sister_name} arrange toy cars. They arrange 8 toy cars into 2 equal rows. What fraction of all the cars is in one row?
+{user_name} is helping {uncle_name} arrange toy cars. They arrange 8 toy cars into 2 equal rows. What fraction of all the cars is in one row?
+{user_name} is helping {aunt_name} arrange toy cars. They arrange 8 toy cars into 2 equal rows. What fraction of all the cars is in one row?
+{user_name} is helping {grandmother_name} plant flowers in a garden bed. They divide one rectangular flower bed into 2 equal sections and plant 3 flowers in one section. What fraction of the flower bed has flowers?
+{user_name} is helping {father_name} plant flowers in a garden bed. They divide one rectangular flower bed into 2 equal sections and plant 3 flowers in one section. What fraction of the flower bed has flowers?
+{user_name} is helping {mother_name} plant flowers in a garden bed. They divide one rectangular flower bed into 2 equal sections and plant 3 flowers in one section. What fraction of the flower bed has flowers?
+{user_name} is helping {brother_name} plant flowers in a garden bed. They divide one rectangular flower bed into 2 equal sections and plant 3 flowers in one section. What fraction of the flower bed has flowers?
+{user_name} is helping {sister_name} plant flowers in a garden bed. They divide one rectangular flower bed into 2 equal sections and plant 3 flowers in one section. What fraction of the flower bed has flowers?
+{user_name} is helping {uncle_name} plant flowers in a garden bed. They divide one rectangular flower bed into 2 equal sections and plant 3 flowers in one section. What fraction of the flower bed has flowers?
+{user_name} is helping {aunt_name} plant flowers in a garden bed. They divide one rectangular flower bed into 2 equal sections and plant 3 flowers in one section. What fraction of the flower bed has flowers?
+{user_name} is helping {grandmother_name} cut an orange for a snack. They cut one orange into 4 equal pieces. What fraction of the orange is one piece?
+{user_name} is helping {father_name} cut an orange for a snack. They cut one orange into 4 equal pieces. What fraction of the orange is one piece?
+{user_name} is helping {mother_name} cut an orange for a snack. They cut one orange into 4 equal pieces. What fraction of the orange is one piece?
+{user_name} is helping {brother_name} cut an orange for a snack. They cut one orange into 4 equal pieces. What fraction of the orange is one piece?
+{user_name} is helping {sister_name} cut an orange for a snack. They cut one orange into 4 equal pieces. What fraction of the orange is one piece?
+{user_name} is helping {uncle_name} cut an orange for a snack. They cut one orange into 4 equal pieces. What fraction of the orange is one piece?
+{user_name} is helping {aunt_name} cut an orange for a snack. They cut one orange into 4 equal pieces. What fraction of the orange is one piece?
+{user_name} is helping {grandmother_name} divide a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can the 2 parts both be called halves?
+{user_name} is helping {father_name} divide a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can the 2 parts both be called halves?
+{user_name} is helping {mother_name} divide a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can the 2 parts both be called halves?
+{user_name} is helping {brother_name} divide a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can the 2 parts both be called halves?
+{user_name} is helping {sister_name} divide a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can the 2 parts both be called halves?
+{user_name} is helping {uncle_name} divide a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can the 2 parts both be called halves?
+{user_name} is helping {aunt_name} divide a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can the 2 parts both be called halves?
+{user_name} is helping {grandmother_name} sort building blocks into groups. They arrange 8 building blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {father_name} sort building blocks into groups. They arrange 8 building blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {mother_name} sort building blocks into groups. They arrange 8 building blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {brother_name} sort building blocks into groups. They arrange 8 building blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {sister_name} sort building blocks into groups. They arrange 8 building blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {uncle_name} sort building blocks into groups. They arrange 8 building blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {aunt_name} sort building blocks into groups. They arrange 8 building blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {grandfather_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {mother_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {brother_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {uncle_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {grandfather_name} prepare an apple for a snack. They cut one apple into 2 equal parts. What fraction of the apple is each part?
+{user_name} is helping {father_name} prepare an apple for a snack. They cut one apple into 2 equal parts. What fraction of the apple is each part?
+{user_name} is helping {mother_name} prepare an apple for a snack. They cut one apple into 2 equal parts. What fraction of the apple is each part?
+{user_name} is helping {brother_name} prepare an apple for a snack. They cut one apple into 2 equal parts. What fraction of the apple is each part?
+{user_name} is helping {sister_name} prepare an apple for a snack. They cut one apple into 2 equal parts. What fraction of the apple is each part?
+{user_name} is helping {uncle_name} prepare an apple for a snack. They cut one apple into 2 equal parts. What fraction of the apple is each part?
+{user_name} is helping {aunt_name} prepare an apple for a snack. They cut one apple into 2 equal parts. What fraction of the apple is each part?
+{user_name} is helping {grandfather_name} colour a circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {father_name} colour a circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {mother_name} colour a circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {brother_name} colour a circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {sister_name} colour a circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {uncle_name} colour a circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {aunt_name} colour a circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {grandfather_name} share strawberries between two plates. They divide 6 strawberries equally between the 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {father_name} share strawberries between two plates. They divide 6 strawberries equally between the 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {mother_name} share strawberries between two plates. They divide 6 strawberries equally between the 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {brother_name} share strawberries between two plates. They divide 6 strawberries equally between the 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {sister_name} share strawberries between two plates. They divide 6 strawberries equally between the 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {uncle_name} share strawberries between two plates. They divide 6 strawberries equally between the 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {aunt_name} share strawberries between two plates. They divide 6 strawberries equally between the 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {grandfather_name} fold a square napkin. They fold the napkin into 2 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {father_name} fold a square napkin. They fold the napkin into 2 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {mother_name} fold a square napkin. They fold the napkin into 2 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {brother_name} fold a square napkin. They fold the napkin into 2 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {sister_name} fold a square napkin. They fold the napkin into 2 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {uncle_name} fold a square napkin. They fold the napkin into 2 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {aunt_name} fold a square napkin. They fold the napkin into 2 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {grandfather_name} plant flowers in a garden bed. They divide one rectangular garden bed into 2 equal sections and plant 4 flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {father_name} plant flowers in a garden bed. They divide one rectangular garden bed into 2 equal sections and plant 4 flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {mother_name} plant flowers in a garden bed. They divide one rectangular garden bed into 2 equal sections and plant 4 flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {brother_name} plant flowers in a garden bed. They divide one rectangular garden bed into 2 equal sections and plant 4 flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {sister_name} plant flowers in a garden bed. They divide one rectangular garden bed into 2 equal sections and plant 4 flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {uncle_name} plant flowers in a garden bed. They divide one rectangular garden bed into 2 equal sections and plant 4 flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {aunt_name} plant flowers in a garden bed. They divide one rectangular garden bed into 2 equal sections and plant 4 flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {grandfather_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Are these parts both halves?
+{user_name} is helping {father_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Are these parts both halves?
+{user_name} is helping {mother_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Are these parts both halves?
+{user_name} is helping {brother_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Are these parts both halves?
+{user_name} is helping {sister_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Are these parts both halves?
+{user_name} is helping {uncle_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Are these parts both halves?
+{user_name} is helping {aunt_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Are these parts both halves?
+{user_name} is helping {grandfather_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is one piece?
+{user_name} is helping {father_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is one piece?
+{user_name} is helping {mother_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is one piece?
+{user_name} is helping {brother_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is one piece?
+{user_name} is helping {sister_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is one piece?
+{user_name} is helping {uncle_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is one piece?
+{user_name} is helping {aunt_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is one piece?
+{user_name} is helping {grandfather_name} arrange buttons for a craft. They arrange 8 buttons into 2 equal rows. What fraction of all the buttons is in one row?
+{user_name} is helping {father_name} arrange buttons for a craft. They arrange 8 buttons into 2 equal rows. What fraction of all the buttons is in one row?
+{user_name} is helping {mother_name} arrange buttons for a craft. They arrange 8 buttons into 2 equal rows. What fraction of all the buttons is in one row?
+{user_name} is helping {brother_name} arrange buttons for a craft. They arrange 8 buttons into 2 equal rows. What fraction of all the buttons is in one row?
+{user_name} is helping {sister_name} arrange buttons for a craft. They arrange 8 buttons into 2 equal rows. What fraction of all the buttons is in one row?
+{user_name} is helping {uncle_name} arrange buttons for a craft. They arrange 8 buttons into 2 equal rows. What fraction of all the buttons is in one row?
+{user_name} is helping {aunt_name} arrange buttons for a craft. They arrange 8 buttons into 2 equal rows. What fraction of all the buttons is in one row?
+{user_name} is helping {grandfather_name} share pears between two baskets. They divide 4 pears equally between the 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {father_name} share pears between two baskets. They divide 4 pears equally between the 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {mother_name} share pears between two baskets. They divide 4 pears equally between the 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {brother_name} share pears between two baskets. They divide 4 pears equally between the 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {sister_name} share pears between two baskets. They divide 4 pears equally between the 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {uncle_name} share pears between two baskets. They divide 4 pears equally between the 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {aunt_name} share pears between two baskets. They divide 4 pears equally between the 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {grandfather_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {mother_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {brother_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {uncle_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {grandfather_name} prepare a pizza for dinner. They divide one round pizza into 4 equal parts. What fraction of the pizza is each part?
+{user_name} is helping {grandmother_name} prepare a pizza for dinner. They divide one round pizza into 4 equal parts. What fraction of the pizza is each part?
+{user_name} is helping {mother_name} prepare a pizza for dinner. They divide one round pizza into 4 equal parts. What fraction of the pizza is each part?
+{user_name} is helping {brother_name} prepare a pizza for dinner. They divide one round pizza into 4 equal parts. What fraction of the pizza is each part?
+{user_name} is helping {sister_name} prepare a pizza for dinner. They divide one round pizza into 4 equal parts. What fraction of the pizza is each part?
+{user_name} is helping {uncle_name} prepare a pizza for dinner. They divide one round pizza into 4 equal parts. What fraction of the pizza is each part?
+{user_name} is helping {aunt_name} prepare a pizza for dinner. They divide one round pizza into 4 equal parts. What fraction of the pizza is each part?
+{user_name} is helping {grandfather_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {grandmother_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {brother_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {sister_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {uncle_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {aunt_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {grandfather_name} share apples between two baskets. They divide 8 apples equally between the 2 baskets. What fraction of all the apples is in one basket?
+{user_name} is helping {grandmother_name} share apples between two baskets. They divide 8 apples equally between the 2 baskets. What fraction of all the apples is in one basket?
+{user_name} is helping {mother_name} share apples between two baskets. They divide 8 apples equally between the 2 baskets. What fraction of all the apples is in one basket?
+{user_name} is helping {brother_name} share apples between two baskets. They divide 8 apples equally between the 2 baskets. What fraction of all the apples is in one basket?
+{user_name} is helping {sister_name} share apples between two baskets. They divide 8 apples equally between the 2 baskets. What fraction of all the apples is in one basket?
+{user_name} is helping {uncle_name} share apples between two baskets. They divide 8 apples equally between the 2 baskets. What fraction of all the apples is in one basket?
+{user_name} is helping {aunt_name} share apples between two baskets. They divide 8 apples equally between the 2 baskets. What fraction of all the apples is in one basket?
+{user_name} is helping {grandmother_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {mother_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {brother_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {sister_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {uncle_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {aunt_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+{user_name} is helping {grandfather_name} prepare strawberries for a snack. They share 6 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {grandmother_name} prepare strawberries for a snack. They share 6 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {mother_name} prepare strawberries for a snack. They share 6 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {brother_name} prepare strawberries for a snack. They share 6 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {sister_name} prepare strawberries for a snack. They share 6 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {uncle_name} prepare strawberries for a snack. They share 6 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {aunt_name} prepare strawberries for a snack. They share 6 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {grandfather_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {grandmother_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {brother_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {sister_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {uncle_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {aunt_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {grandfather_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is each part?
+{user_name} is helping {grandmother_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is each part?
+{user_name} is helping {mother_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is each part?
+{user_name} is helping {brother_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is each part?
+{user_name} is helping {sister_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is each part?
+{user_name} is helping {uncle_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is each part?
+{user_name} is helping {aunt_name} prepare a pancake for breakfast. They cut one round pancake into 2 equal parts. What fraction of the pancake is each part?
+{user_name} is helping {grandfather_name} sort building blocks. They arrange exactly 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {grandmother_name} sort building blocks. They arrange exactly 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {mother_name} sort building blocks. They arrange exactly 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {brother_name} sort building blocks. They arrange exactly 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {sister_name} sort building blocks. They arrange exactly 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {uncle_name} sort building blocks. They arrange exactly 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {aunt_name} sort building blocks. They arrange exactly 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {grandfather_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to {grandfather_name}. What fraction of the orange does {grandfather_name} receive?
+{user_name} is helping {grandmother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to {grandmother_name}. What fraction of the orange does {grandmother_name} receive?
+{user_name} is helping {mother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to {mother_name}. What fraction of the orange does {mother_name} receive?
+{user_name} is helping {brother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to {brother_name}. What fraction of the orange does {brother_name} receive?
+{user_name} is helping {sister_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to {sister_name}. What fraction of the orange does {sister_name} receive?
+{user_name} is helping {uncle_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to {uncle_name}. What fraction of the orange does {uncle_name} receive?
+{user_name} is helping {aunt_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to {aunt_name}. What fraction of the orange does {aunt_name} receive?
+{user_name} is helping {grandfather_name} prepare toast for breakfast. They cut one slice of toast into 2 equal parts. What fraction of the toast is one part?
+{user_name} is helping {grandmother_name} prepare toast for breakfast. They cut one slice of toast into 2 equal parts. What fraction of the toast is one part?
+{user_name} is helping {father_name} prepare toast for breakfast. They cut one slice of toast into 2 equal parts. What fraction of the toast is one part?
+{user_name} is helping {brother_name} prepare toast for breakfast. They cut one slice of toast into 2 equal parts. What fraction of the toast is one part?
+{user_name} is helping {sister_name} prepare toast for breakfast. They cut one slice of toast into 2 equal parts. What fraction of the toast is one part?
+{user_name} is helping {uncle_name} prepare toast for breakfast. They cut one slice of toast into 2 equal parts. What fraction of the toast is one part?
+{user_name} is helping {aunt_name} prepare toast for breakfast. They cut one slice of toast into 2 equal parts. What fraction of the toast is one part?
+{user_name} is helping {grandfather_name} fold a square napkin. They divide the napkin into 4 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {grandmother_name} fold a square napkin. They divide the napkin into 4 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {father_name} fold a square napkin. They divide the napkin into 4 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {brother_name} fold a square napkin. They divide the napkin into 4 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {sister_name} fold a square napkin. They divide the napkin into 4 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {uncle_name} fold a square napkin. They divide the napkin into 4 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {aunt_name} fold a square napkin. They divide the napkin into 4 equal parts. What fraction of the napkin is each part?
+{user_name} is helping {grandfather_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {grandmother_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {brother_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {sister_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {uncle_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {aunt_name} colour a paper circle. They divide one circle into 2 equal parts and colour one part blue. What fraction of the circle is blue?
+{user_name} is helping {grandfather_name} share grapes for a snack. They divide exactly 8 grapes equally between 2 bowls. What fraction of all the grapes is in one bowl?
+{user_name} is helping {grandmother_name} share grapes for a snack. They divide exactly 8 grapes equally between 2 bowls. What fraction of all the grapes is in one bowl?
+{user_name} is helping {father_name} share grapes for a snack. They divide exactly 8 grapes equally between 2 bowls. What fraction of all the grapes is in one bowl?
+{user_name} is helping {brother_name} share grapes for a snack. They divide exactly 8 grapes equally between 2 bowls. What fraction of all the grapes is in one bowl?
+{user_name} is helping {sister_name} share grapes for a snack. They divide exactly 8 grapes equally between 2 bowls. What fraction of all the grapes is in one bowl?
+{user_name} is helping {uncle_name} share grapes for a snack. They divide exactly 8 grapes equally between 2 bowls. What fraction of all the grapes is in one bowl?
+{user_name} is helping {aunt_name} share grapes for a snack. They divide exactly 8 grapes equally between 2 bowls. What fraction of all the grapes is in one bowl?
+{user_name} is helping {grandfather_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {grandmother_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {brother_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {sister_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {uncle_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {aunt_name} cut a sheet of paper. They divide one rectangular sheet into 2 parts of different sizes. Can these 2 parts both be called halves?
+{user_name} is helping {grandfather_name} decorate a round cake. They divide one cake into 2 equal parts and decorate one part with strawberries. What fraction of the cake has strawberries?
+{user_name} is helping {grandmother_name} decorate a round cake. They divide one cake into 2 equal parts and decorate one part with strawberries. What fraction of the cake has strawberries?
+{user_name} is helping {father_name} decorate a round cake. They divide one cake into 2 equal parts and decorate one part with strawberries. What fraction of the cake has strawberries?
+{user_name} is helping {brother_name} decorate a round cake. They divide one cake into 2 equal parts and decorate one part with strawberries. What fraction of the cake has strawberries?
+{user_name} is helping {sister_name} decorate a round cake. They divide one cake into 2 equal parts and decorate one part with strawberries. What fraction of the cake has strawberries?
+{user_name} is helping {uncle_name} decorate a round cake. They divide one cake into 2 equal parts and decorate one part with strawberries. What fraction of the cake has strawberries?
+{user_name} is helping {aunt_name} decorate a round cake. They divide one cake into 2 equal parts and decorate one part with strawberries. What fraction of the cake has strawberries?
+{user_name} is helping {grandfather_name} sort pencils for school. They arrange 8 pencils into 4 equal groups. What fraction of all the pencils is in one group?
+{user_name} is helping {grandmother_name} sort pencils for school. They arrange 8 pencils into 4 equal groups. What fraction of all the pencils is in one group?
+{user_name} is helping {father_name} sort pencils for school. They arrange 8 pencils into 4 equal groups. What fraction of all the pencils is in one group?
+{user_name} is helping {brother_name} sort pencils for school. They arrange 8 pencils into 4 equal groups. What fraction of all the pencils is in one group?
+{user_name} is helping {sister_name} sort pencils for school. They arrange 8 pencils into 4 equal groups. What fraction of all the pencils is in one group?
+{user_name} is helping {uncle_name} sort pencils for school. They arrange 8 pencils into 4 equal groups. What fraction of all the pencils is in one group?
+{user_name} is helping {aunt_name} sort pencils for school. They arrange 8 pencils into 4 equal groups. What fraction of all the pencils is in one group?
+{user_name} is helping {grandfather_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to Grandfather. What fraction of the orange does Grandfather receive?
+{user_name} is helping {grandmother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to Grandmother. What fraction of the orange does Grandmother receive?
+{user_name} is helping {father_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to Father. What fraction of the orange does Father receive?
+{user_name} is helping {brother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to Brother. What fraction of the orange does Brother receive?
+{user_name} is helping {sister_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to Sister. What fraction of the orange does Sister receive?
+{user_name} is helping {uncle_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to Uncle. What fraction of the orange does Uncle receive?
+{user_name} is helping {aunt_name} prepare an orange for a snack. They cut one orange into 2 equal parts and give one part to Aunt. What fraction of the orange does Aunt receive?
+\ {user_name} is helping {grandfather_name} share biscuits for tea. They divide 4 biscuits equally between 2 plates. How many biscuits are on each plate?
+\ {user_name} is helping {grandmother_name} share biscuits for tea. They divide 4 biscuits equally between 2 plates. How many biscuits are on each plate?
+\ {user_name} is helping {father_name} share biscuits for tea. They divide 4 biscuits equally between 2 plates. How many biscuits are on each plate?
+\ {user_name} is helping {brother_name} share biscuits for tea. They divide 4 biscuits equally between 2 plates. How many biscuits are on each plate?
+\ {user_name} is helping {sister_name} share biscuits for tea. They divide 4 biscuits equally between 2 plates. How many biscuits are on each plate?
+\ {user_name} is helping {uncle_name} share biscuits for tea. They divide 4 biscuits equally between 2 plates. How many biscuits are on each plate?
+\ {user_name} is helping {aunt_name} share biscuits for tea. They divide 4 biscuits equally between 2 plates. How many biscuits are on each plate?
+{user_name} is helping {grandfather_name} plant flowers in a garden bed. They divide one rectangular garden bed into 4 equal sections and plant flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {grandmother_name} plant flowers in a garden bed. They divide one rectangular garden bed into 4 equal sections and plant flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {father_name} plant flowers in a garden bed. They divide one rectangular garden bed into 4 equal sections and plant flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {brother_name} plant flowers in a garden bed. They divide one rectangular garden bed into 4 equal sections and plant flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {sister_name} plant flowers in a garden bed. They divide one rectangular garden bed into 4 equal sections and plant flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {uncle_name} plant flowers in a garden bed. They divide one rectangular garden bed into 4 equal sections and plant flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {aunt_name} plant flowers in a garden bed. They divide one rectangular garden bed into 4 equal sections and plant flowers in one section. What fraction of the garden bed has flowers?
+{user_name} is helping {grandfather_name} share a chocolate bar. They break one chocolate bar into 2 equal parts. What fraction of the chocolate bar is one part?
+{user_name} is helping {grandmother_name} share a chocolate bar. They break one chocolate bar into 2 equal parts. What fraction of the chocolate bar is one part?
+{user_name} is helping {father_name} share a chocolate bar. They break one chocolate bar into 2 equal parts. What fraction of the chocolate bar is one part?
+{user_name} is helping {mother_name} share a chocolate bar. They break one chocolate bar into 2 equal parts. What fraction of the chocolate bar is one part?
+{user_name} is helping {sister_name} share a chocolate bar. They break one chocolate bar into 2 equal parts. What fraction of the chocolate bar is one part?
+{user_name} is helping {uncle_name} share a chocolate bar. They break one chocolate bar into 2 equal parts. What fraction of the chocolate bar is one part?
+{user_name} is helping {aunt_name} share a chocolate bar. They break one chocolate bar into 2 equal parts. What fraction of the chocolate bar is one part?
+{user_name} is helping {grandfather_name} cut a square piece of craft felt. They divide the square into 4 equal parts. What fraction of the felt is each part?
+{user_name} is helping {grandmother_name} cut a square piece of craft felt. They divide the square into 4 equal parts. What fraction of the felt is each part?
+{user_name} is helping {father_name} cut a square piece of craft felt. They divide the square into 4 equal parts. What fraction of the felt is each part?
+{user_name} is helping {mother_name} cut a square piece of craft felt. They divide the square into 4 equal parts. What fraction of the felt is each part?
+{user_name} is helping {sister_name} cut a square piece of craft felt. They divide the square into 4 equal parts. What fraction of the felt is each part?
+{user_name} is helping {uncle_name} cut a square piece of craft felt. They divide the square into 4 equal parts. What fraction of the felt is each part?
+{user_name} is helping {aunt_name} cut a square piece of craft felt. They divide the square into 4 equal parts. What fraction of the felt is each part?
+{user_name} is helping {grandfather_name} collect seashells at the beach. They share exactly 8 seashells equally between 2 buckets. What fraction of all the seashells is in one bucket?
+{user_name} is helping {grandmother_name} collect seashells at the beach. They share exactly 8 seashells equally between 2 buckets. What fraction of all the seashells is in one bucket?
+{user_name} is helping {father_name} collect seashells at the beach. They share exactly 8 seashells equally between 2 buckets. What fraction of all the seashells is in one bucket?
+{user_name} is helping {mother_name} collect seashells at the beach. They share exactly 8 seashells equally between 2 buckets. What fraction of all the seashells is in one bucket?
+{user_name} is helping {sister_name} collect seashells at the beach. They share exactly 8 seashells equally between 2 buckets. What fraction of all the seashells is in one bucket?
+{user_name} is helping {uncle_name} collect seashells at the beach. They share exactly 8 seashells equally between 2 buckets. What fraction of all the seashells is in one bucket?
+{user_name} is helping {aunt_name} collect seashells at the beach. They share exactly 8 seashells equally between 2 buckets. What fraction of all the seashells is in one bucket?
+{user_name} is helping {grandfather_name} organise toy dinosaurs. They put half of their 6 toy dinosaurs into a toy box. How many toy dinosaurs do they put in the box?
+{user_name} is helping {grandmother_name} organise toy dinosaurs. They put half of their 6 toy dinosaurs into a toy box. How many toy dinosaurs do they put in the box?
+{user_name} is helping {father_name} organise toy dinosaurs. They put half of their 6 toy dinosaurs into a toy box. How many toy dinosaurs do they put in the box?
+{user_name} is helping {mother_name} organise toy dinosaurs. They put half of their 6 toy dinosaurs into a toy box. How many toy dinosaurs do they put in the box?
+{user_name} is helping {sister_name} organise toy dinosaurs. They put half of their 6 toy dinosaurs into a toy box. How many toy dinosaurs do they put in the box?
+{user_name} is helping {uncle_name} organise toy dinosaurs. They put half of their 6 toy dinosaurs into a toy box. How many toy dinosaurs do they put in the box?
+{user_name} is helping {aunt_name} organise toy dinosaurs. They put half of their 6 toy dinosaurs into a toy box. How many toy dinosaurs do they put in the box?
+{user_name} is helping {grandfather_name} divide a piece of playdough. They split it into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {grandmother_name} divide a piece of playdough. They split it into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {father_name} divide a piece of playdough. They split it into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {mother_name} divide a piece of playdough. They split it into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {sister_name} divide a piece of playdough. They split it into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {uncle_name} divide a piece of playdough. They split it into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {aunt_name} divide a piece of playdough. They split it into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {grandfather_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {grandmother_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {father_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {mother_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {sister_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {aunt_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {grandfather_name} prepare a watermelon for a picnic. They cut one watermelon into 4 equal slices. What fraction of the watermelon is one slice?
+{user_name} is helping {grandmother_name} prepare a watermelon for a picnic. They cut one watermelon into 4 equal slices. What fraction of the watermelon is one slice?
+{user_name} is helping {father_name} prepare a watermelon for a picnic. They cut one watermelon into 4 equal slices. What fraction of the watermelon is one slice?
+{user_name} is helping {mother_name} prepare a watermelon for a picnic. They cut one watermelon into 4 equal slices. What fraction of the watermelon is one slice?
+{user_name} is helping {sister_name} prepare a watermelon for a picnic. They cut one watermelon into 4 equal slices. What fraction of the watermelon is one slice?
+{user_name} is helping {uncle_name} prepare a watermelon for a picnic. They cut one watermelon into 4 equal slices. What fraction of the watermelon is one slice?
+{user_name} is helping {aunt_name} prepare a watermelon for a picnic. They cut one watermelon into 4 equal slices. What fraction of the watermelon is one slice?
+{user_name} is helping {grandfather_name} organise toy robots. They arrange exactly 4 toy robots into 4 equal groups. What fraction of all the robots is in one group?
+{user_name} is helping {grandmother_name} organise toy robots. They arrange exactly 4 toy robots into 4 equal groups. What fraction of all the robots is in one group?
+{user_name} is helping {father_name} organise toy robots. They arrange exactly 4 toy robots into 4 equal groups. What fraction of all the robots is in one group?
+{user_name} is helping {mother_name} organise toy robots. They arrange exactly 4 toy robots into 4 equal groups. What fraction of all the robots is in one group?
+{user_name} is helping {sister_name} organise toy robots. They arrange exactly 4 toy robots into 4 equal groups. What fraction of all the robots is in one group?
+{user_name} is helping {uncle_name} organise toy robots. They arrange exactly 4 toy robots into 4 equal groups. What fraction of all the robots is in one group?
+{user_name} is helping {aunt_name} organise toy robots. They arrange exactly 4 toy robots into 4 equal groups. What fraction of all the robots is in one group?
+{user_name} is helping {grandfather_name} put socks away. They share exactly 8 socks equally between 2 drawers. What fraction of all the socks is in one drawer?
+{user_name} is helping {grandmother_name} put socks away. They share exactly 8 socks equally between 2 drawers. What fraction of all the socks is in one drawer?
+{user_name} is helping {father_name} put socks away. They share exactly 8 socks equally between 2 drawers. What fraction of all the socks is in one drawer?
+{user_name} is helping {mother_name} put socks away. They share exactly 8 socks equally between 2 drawers. What fraction of all the socks is in one drawer?
+{user_name} is helping {sister_name} put socks away. They share exactly 8 socks equally between 2 drawers. What fraction of all the socks is in one drawer?
+{user_name} is helping {uncle_name} put socks away. They share exactly 8 socks equally between 2 drawers. What fraction of all the socks is in one drawer?
+{user_name} is helping {aunt_name} put socks away. They share exactly 8 socks equally between 2 drawers. What fraction of all the socks is in one drawer?
+{user_name} is helping {grandfather_name} organise crayons for drawing. They divide 4 crayons equally between 4 children’s drawing spaces, with 1 crayon in each space. What fraction of all the crayons is in one space?
+{user_name} is helping {grandmother_name} organise crayons for drawing. They divide 4 crayons equally between 4 children’s drawing spaces, with 1 crayon in each space. What fraction of all the crayons is in one space?
+{user_name} is helping {father_name} organise crayons for drawing. They divide 4 crayons equally between 4 children’s drawing spaces, with 1 crayon in each space. What fraction of all the crayons is in one space?
+{user_name} is helping {mother_name} organise crayons for drawing. They divide 4 crayons equally between 4 children’s drawing spaces, with 1 crayon in each space. What fraction of all the crayons is in one space?
+{user_name} is helping {sister_name} organise crayons for drawing. They divide 4 crayons equally between 4 children’s drawing spaces, with 1 crayon in each space. What fraction of all the crayons is in one space?
+{user_name} is helping {uncle_name} organise crayons for drawing. They divide 4 crayons equally between 4 children’s drawing spaces, with 1 crayon in each space. What fraction of all the crayons is in one space?
+{user_name} is helping {aunt_name} organise crayons for drawing. They divide 4 crayons equally between 4 children’s drawing spaces, with 1 crayon in each space. What fraction of all the crayons is in one space?
+{user_name} is helping {grandfather_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {mother_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {brother_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {uncle_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {grandfather_name} colour a butterfly picture. They divide the butterfly into 2 equal parts and colour one part pink. What fraction of the butterfly is pink?
+{user_name} is helping {grandmother_name} colour a butterfly picture. They divide the butterfly into 2 equal parts and colour one part pink. What fraction of the butterfly is pink?
+{user_name} is helping {father_name} colour a butterfly picture. They divide the butterfly into 2 equal parts and colour one part pink. What fraction of the butterfly is pink?
+{user_name} is helping {mother_name} colour a butterfly picture. They divide the butterfly into 2 equal parts and colour one part pink. What fraction of the butterfly is pink?
+{user_name} is helping {brother_name} colour a butterfly picture. They divide the butterfly into 2 equal parts and colour one part pink. What fraction of the butterfly is pink?
+{user_name} is helping {uncle_name} colour a butterfly picture. They divide the butterfly into 2 equal parts and colour one part pink. What fraction of the butterfly is pink?
+{user_name} is helping {aunt_name} colour a butterfly picture. They divide the butterfly into 2 equal parts and colour one part pink. What fraction of the butterfly is pink?
+{user_name} is helping {grandfather_name} share strawberries for a snack. They divide 8 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {grandmother_name} share strawberries for a snack. They divide 8 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {father_name} share strawberries for a snack. They divide 8 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {mother_name} share strawberries for a snack. They divide 8 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {brother_name} share strawberries for a snack. They divide 8 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {uncle_name} share strawberries for a snack. They divide 8 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {aunt_name} share strawberries for a snack. They divide 8 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+{user_name} is helping {grandfather_name} make a paper heart. They fold one heart-shaped piece of paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {grandmother_name} make a paper heart. They fold one heart-shaped piece of paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {father_name} make a paper heart. They fold one heart-shaped piece of paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {mother_name} make a paper heart. They fold one heart-shaped piece of paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {brother_name} make a paper heart. They fold one heart-shaped piece of paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {uncle_name} make a paper heart. They fold one heart-shaped piece of paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {aunt_name} make a paper heart. They fold one heart-shaped piece of paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {grandfather_name} arrange toy animals. They share 6 toy animals equally between 2 baskets. What fraction of all the toy animals is in one basket?
+{user_name} is helping {grandmother_name} arrange toy animals. They share 6 toy animals equally between 2 baskets. What fraction of all the toy animals is in one basket?
+{user_name} is helping {father_name} arrange toy animals. They share 6 toy animals equally between 2 baskets. What fraction of all the toy animals is in one basket?
+{user_name} is helping {mother_name} arrange toy animals. They share 6 toy animals equally between 2 baskets. What fraction of all the toy animals is in one basket?
+{user_name} is helping {brother_name} arrange toy animals. They share 6 toy animals equally between 2 baskets. What fraction of all the toy animals is in one basket?
+{user_name} is helping {uncle_name} arrange toy animals. They share 6 toy animals equally between 2 baskets. What fraction of all the toy animals is in one basket?
+{user_name} is helping {aunt_name} arrange toy animals. They share 6 toy animals equally between 2 baskets. What fraction of all the toy animals is in one basket?
+{user_name} is helping {grandfather_name} make decorations with a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {grandmother_name} make decorations with a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {father_name} make decorations with a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {mother_name} make decorations with a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {brother_name} make decorations with a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {uncle_name} make decorations with a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {aunt_name} make decorations with a ribbon. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {grandfather_name} prepare biscuits for a snack. They divide 10 biscuits equally between 2 plates. How many biscuits are on each plate?
+{user_name} is helping {grandmother_name} prepare biscuits for a snack. They divide 10 biscuits equally between 2 plates. How many biscuits are on each plate?
+{user_name} is helping {father_name} prepare biscuits for a snack. They divide 10 biscuits equally between 2 plates. How many biscuits are on each plate?
+{user_name} is helping {mother_name} prepare biscuits for a snack. They divide 10 biscuits equally between 2 plates. How many biscuits are on each plate?
+{user_name} is helping {brother_name} prepare biscuits for a snack. They divide 10 biscuits equally between 2 plates. How many biscuits are on each plate?
+{user_name} is helping {uncle_name} prepare biscuits for a snack. They divide 10 biscuits equally between 2 plates. How many biscuits are on each plate?
+{user_name} is helping {aunt_name} prepare biscuits for a snack. They divide 10 biscuits equally between 2 plates. How many biscuits are on each plate?
+{user_name} is helping {grandfather_name} cut a paper rectangle. They divide one rectangle into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {grandmother_name} cut a paper rectangle. They divide one rectangle into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {father_name} cut a paper rectangle. They divide one rectangle into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {mother_name} cut a paper rectangle. They divide one rectangle into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {brother_name} cut a paper rectangle. They divide one rectangle into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {uncle_name} cut a paper rectangle. They divide one rectangle into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {aunt_name} cut a paper rectangle. They divide one rectangle into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {grandfather_name} build a tower with toy blocks. They share 8 blocks equally between 2 building spaces. What fraction of all the blocks is in one space?
+{user_name} is helping {grandmother_name} build a tower with toy blocks. They share 8 blocks equally between 2 building spaces. What fraction of all the blocks is in one space?
+{user_name} is helping {father_name} build a tower with toy blocks. They share 8 blocks equally between 2 building spaces. What fraction of all the blocks is in one space?
+{user_name} is helping {mother_name} build a tower with toy blocks. They share 8 blocks equally between 2 building spaces. What fraction of all the blocks is in one space?
+{user_name} is helping {brother_name} build a tower with toy blocks. They share 8 blocks equally between 2 building spaces. What fraction of all the blocks is in one space?
+{user_name} is helping {uncle_name} build a tower with toy blocks. They share 8 blocks equally between 2 building spaces. What fraction of all the blocks is in one space?
+{user_name} is helping {aunt_name} build a tower with toy blocks. They share 8 blocks equally between 2 building spaces. What fraction of all the blocks is in one space?
+{user_name} is helping {grandfather_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {grandmother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {father_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {mother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {brother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {uncle_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {grandfather_name} share a flatbread. They cut one round flatbread into 2 equal parts. What fraction of the flatbread is one part?
+{user_name} is helping {grandmother_name} share a flatbread. They cut one round flatbread into 2 equal parts. What fraction of the flatbread is one part?
+{user_name} is helping {father_name} share a flatbread. They cut one round flatbread into 2 equal parts. What fraction of the flatbread is one part?
+{user_name} is helping {mother_name} share a flatbread. They cut one round flatbread into 2 equal parts. What fraction of the flatbread is one part?
+{user_name} is helping {brother_name} share a flatbread. They cut one round flatbread into 2 equal parts. What fraction of the flatbread is one part?
+{user_name} is helping {sister_name} share a flatbread. They cut one round flatbread into 2 equal parts. What fraction of the flatbread is one part?
+{user_name} is helping {aunt_name} share a flatbread. They cut one round flatbread into 2 equal parts. What fraction of the flatbread is one part?
+{user_name} is helping {grandfather_name} prepare fabric for a craft. They divide one square piece of fabric into 4 equal parts. What fraction of the fabric is each part?
+{user_name} is helping {grandmother_name} prepare fabric for a craft. They divide one square piece of fabric into 4 equal parts. What fraction of the fabric is each part?
+{user_name} is helping {father_name} prepare fabric for a craft. They divide one square piece of fabric into 4 equal parts. What fraction of the fabric is each part?
+{user_name} is helping {mother_name} prepare fabric for a craft. They divide one square piece of fabric into 4 equal parts. What fraction of the fabric is each part?
+{user_name} is helping {brother_name} prepare fabric for a craft. They divide one square piece of fabric into 4 equal parts. What fraction of the fabric is each part?
+{user_name} is helping {sister_name} prepare fabric for a craft. They divide one square piece of fabric into 4 equal parts. What fraction of the fabric is each part?
+{user_name} is helping {aunt_name} prepare fabric for a craft. They divide one square piece of fabric into 4 equal parts. What fraction of the fabric is each part?
+{user_name} is helping {grandfather_name} arrange toy trains on a play mat. They arrange exactly 8 toy trains into 2 equal rows. What fraction of all the toy trains is in one row?
+{user_name} is helping {grandmother_name} arrange toy trains on a play mat. They arrange exactly 8 toy trains into 2 equal rows. What fraction of all the toy trains is in one row?
+{user_name} is helping {father_name} arrange toy trains on a play mat. They arrange exactly 8 toy trains into 2 equal rows. What fraction of all the toy trains is in one row?
+{user_name} is helping {mother_name} arrange toy trains on a play mat. They arrange exactly 8 toy trains into 2 equal rows. What fraction of all the toy trains is in one row?
+{user_name} is helping {brother_name} arrange toy trains on a play mat. They arrange exactly 8 toy trains into 2 equal rows. What fraction of all the toy trains is in one row?
+{user_name} is helping {sister_name} arrange toy trains on a play mat. They arrange exactly 8 toy trains into 2 equal rows. What fraction of all the toy trains is in one row?
+{user_name} is helping {aunt_name} arrange toy trains on a play mat. They arrange exactly 8 toy trains into 2 equal rows. What fraction of all the toy trains is in one row?
+{user_name} is helping {grandfather_name} paint a toy sailboat. They divide its triangular sail into 2 equal parts and paint one part red. What fraction of the sail is red?
+{user_name} is helping {grandmother_name} paint a toy sailboat. They divide its triangular sail into 2 equal parts and paint one part red. What fraction of the sail is red?
+{user_name} is helping {father_name} paint a toy sailboat. They divide its triangular sail into 2 equal parts and paint one part red. What fraction of the sail is red?
+{user_name} is helping {mother_name} paint a toy sailboat. They divide its triangular sail into 2 equal parts and paint one part red. What fraction of the sail is red?
+{user_name} is helping {brother_name} paint a toy sailboat. They divide its triangular sail into 2 equal parts and paint one part red. What fraction of the sail is red?
+{user_name} is helping {sister_name} paint a toy sailboat. They divide its triangular sail into 2 equal parts and paint one part red. What fraction of the sail is red?
+{user_name} is helping {aunt_name} paint a toy sailboat. They divide its triangular sail into 2 equal parts and paint one part red. What fraction of the sail is red?
+{user_name} is helping {grandfather_name} break a round biscuit into pieces. They break one biscuit into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {grandmother_name} break a round biscuit into pieces. They break one biscuit into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {father_name} break a round biscuit into pieces. They break one biscuit into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {mother_name} break a round biscuit into pieces. They break one biscuit into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {brother_name} break a round biscuit into pieces. They break one biscuit into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {sister_name} break a round biscuit into pieces. They break one biscuit into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {aunt_name} break a round biscuit into pieces. They break one biscuit into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {grandfather_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {grandmother_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {father_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {mother_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {sister_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {aunt_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+{user_name} is helping {grandfather_name} organise toy aeroplanes. They divide exactly 6 toy aeroplanes equally between 2 boxes. What fraction of all the toy aeroplanes is in one box?
+{user_name} is helping {grandmother_name} organise toy aeroplanes. They divide exactly 6 toy aeroplanes equally between 2 boxes. What fraction of all the toy aeroplanes is in one box?
+{user_name} is helping {father_name} organise toy aeroplanes. They divide exactly 6 toy aeroplanes equally between 2 boxes. What fraction of all the toy aeroplanes is in one box?
+{user_name} is helping {mother_name} organise toy aeroplanes. They divide exactly 6 toy aeroplanes equally between 2 boxes. What fraction of all the toy aeroplanes is in one box?
+{user_name} is helping {brother_name} organise toy aeroplanes. They divide exactly 6 toy aeroplanes equally between 2 boxes. What fraction of all the toy aeroplanes is in one box?
+{user_name} is helping {sister_name} organise toy aeroplanes. They divide exactly 6 toy aeroplanes equally between 2 boxes. What fraction of all the toy aeroplanes is in one box?
+{user_name} is helping {aunt_name} organise toy aeroplanes. They divide exactly 6 toy aeroplanes equally between 2 boxes. What fraction of all the toy aeroplanes is in one box?
+{user_name} is helping {grandfather_name} prepare a cucumber for lunch. They cut one cucumber into 4 equal slices. What fraction of the cucumber is one slice?
+{user_name} is helping {grandmother_name} prepare a cucumber for lunch. They cut one cucumber into 4 equal slices. What fraction of the cucumber is one slice?
+{user_name} is helping {father_name} prepare a cucumber for lunch. They cut one cucumber into 4 equal slices. What fraction of the cucumber is one slice?
+{user_name} is helping {mother_name} prepare a cucumber for lunch. They cut one cucumber into 4 equal slices. What fraction of the cucumber is one slice?
+{user_name} is helping {brother_name} prepare a cucumber for lunch. They cut one cucumber into 4 equal slices. What fraction of the cucumber is one slice?
+{user_name} is helping {sister_name} prepare a cucumber for lunch. They cut one cucumber into 4 equal slices. What fraction of the cucumber is one slice?
+{user_name} is helping {aunt_name} prepare a cucumber for lunch. They cut one cucumber into 4 equal slices. What fraction of the cucumber is one slice?
+{user_name} is helping {grandfather_name} sort pebbles for a garden activity. They divide exactly 8 pebbles equally between 2 trays. What fraction of all the pebbles is on one tray?
+{user_name} is helping {grandmother_name} sort pebbles for a garden activity. They divide exactly 8 pebbles equally between 2 trays. What fraction of all the pebbles is on one tray?
+{user_name} is helping {father_name} sort pebbles for a garden activity. They divide exactly 8 pebbles equally between 2 trays. What fraction of all the pebbles is on one tray?
+{user_name} is helping {mother_name} sort pebbles for a garden activity. They divide exactly 8 pebbles equally between 2 trays. What fraction of all the pebbles is on one tray?
+{user_name} is helping {brother_name} sort pebbles for a garden activity. They divide exactly 8 pebbles equally between 2 trays. What fraction of all the pebbles is on one tray?
+{user_name} is helping {sister_name} sort pebbles for a garden activity. They divide exactly 8 pebbles equally between 2 trays. What fraction of all the pebbles is on one tray?
+{user_name} is helping {aunt_name} sort pebbles for a garden activity. They divide exactly 8 pebbles equally between 2 trays. What fraction of all the pebbles is on one tray?
+{user_name} is helping {grandfather_name} sort pears for a fruit basket. They have exactly 8 pears and put one half into a basket. How many pears do they put in the basket?
+{user_name} is helping {grandmother_name} sort pears for a fruit basket. They have exactly 8 pears and put one half into a basket. How many pears do they put in the basket?
+{user_name} is helping {father_name} sort pears for a fruit basket. They have exactly 8 pears and put one half into a basket. How many pears do they put in the basket?
+{user_name} is helping {mother_name} sort pears for a fruit basket. They have exactly 8 pears and put one half into a basket. How many pears do they put in the basket?
+{user_name} is helping {brother_name} sort pears for a fruit basket. They have exactly 8 pears and put one half into a basket. How many pears do they put in the basket?
+{user_name} is helping {sister_name} sort pears for a fruit basket. They have exactly 8 pears and put one half into a basket. How many pears do they put in the basket?
+{user_name} is helping {aunt_name} sort pears for a fruit basket. They have exactly 8 pears and put one half into a basket. How many pears do they put in the basket?
+{user_name} is helping {grandfather_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {mother_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {brother_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {uncle_name} share a sandwich. They cut one sandwich into 2 equal parts. What fraction of the sandwich is one part?
+{user_name} is helping {grandfather_name} decorate a square card. They divide the square into 4 equal parts and colour one part pink. What fraction of the square is pink?
+{user_name} is helping {grandmother_name} decorate a square card. They divide the square into 4 equal parts and colour one part pink. What fraction of the square is pink?
+{user_name} is helping {father_name} decorate a square card. They divide the square into 4 equal parts and colour one part pink. What fraction of the square is pink?
+{user_name} is helping {mother_name} decorate a square card. They divide the square into 4 equal parts and colour one part pink. What fraction of the square is pink?
+{user_name} is helping {brother_name} decorate a square card. They divide the square into 4 equal parts and colour one part pink. What fraction of the square is pink?
+{user_name} is helping {sister_name} decorate a square card. They divide the square into 4 equal parts and colour one part pink. What fraction of the square is pink?
+{user_name} is helping {uncle_name} decorate a square card. They divide the square into 4 equal parts and colour one part pink. What fraction of the square is pink?
+{user_name} is helping {grandfather_name} share plums for a snack. They divide 6 plums equally between 2 bowls. What fraction of all the plums is in one bowl?
+{user_name} is helping {grandmother_name} share plums for a snack. They divide 6 plums equally between 2 bowls. What fraction of all the plums is in one bowl?
+{user_name} is helping {father_name} share plums for a snack. They divide 6 plums equally between 2 bowls. What fraction of all the plums is in one bowl?
+{user_name} is helping {mother_name} share plums for a snack. They divide 6 plums equally between 2 bowls. What fraction of all the plums is in one bowl?
+{user_name} is helping {brother_name} share plums for a snack. They divide 6 plums equally between 2 bowls. What fraction of all the plums is in one bowl?
+{user_name} is helping {sister_name} share plums for a snack. They divide 6 plums equally between 2 bowls. What fraction of all the plums is in one bowl?
+{user_name} is helping {uncle_name} share plums for a snack. They divide 6 plums equally between 2 bowls. What fraction of all the plums is in one bowl?
+{user_name} is helping {grandfather_name} fold a square sheet of paper. They fold the paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {grandmother_name} fold a square sheet of paper. They fold the paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {father_name} fold a square sheet of paper. They fold the paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {mother_name} fold a square sheet of paper. They fold the paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {brother_name} fold a square sheet of paper. They fold the paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {sister_name} fold a square sheet of paper. They fold the paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {uncle_name} fold a square sheet of paper. They fold the paper into 2 equal parts. What fraction of the paper is each part?
+{user_name} is helping {grandfather_name} share cupcakes at a family picnic. They divide 8 cupcakes equally between 2 plates. What fraction of all the cupcakes is on one plate?
+{user_name} is helping {grandmother_name} share cupcakes at a family picnic. They divide 8 cupcakes equally between 2 plates. What fraction of all the cupcakes is on one plate?
+{user_name} is helping {father_name} share cupcakes at a family picnic. They divide 8 cupcakes equally between 2 plates. What fraction of all the cupcakes is on one plate?
+{user_name} is helping {mother_name} share cupcakes at a family picnic. They divide 8 cupcakes equally between 2 plates. What fraction of all the cupcakes is on one plate?
+{user_name} is helping {brother_name} share cupcakes at a family picnic. They divide 8 cupcakes equally between 2 plates. What fraction of all the cupcakes is on one plate?
+{user_name} is helping {sister_name} share cupcakes at a family picnic. They divide 8 cupcakes equally between 2 plates. What fraction of all the cupcakes is on one plate?
+{user_name} is helping {uncle_name} share cupcakes at a family picnic. They divide 8 cupcakes equally between 2 plates. What fraction of all the cupcakes is on one plate?
+{user_name} is helping {grandfather_name} prepare a ribbon for a gift. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {grandmother_name} prepare a ribbon for a gift. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {father_name} prepare a ribbon for a gift. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {mother_name} prepare a ribbon for a gift. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {brother_name} prepare a ribbon for a gift. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {sister_name} prepare a ribbon for a gift. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {uncle_name} prepare a ribbon for a gift. They cut one ribbon into 2 equal-length pieces. What fraction of the original ribbon is each piece?
+{user_name} is helping {grandfather_name} arrange pears in baskets. They divide 4 pears equally between 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {grandmother_name} arrange pears in baskets. They divide 4 pears equally between 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {father_name} arrange pears in baskets. They divide 4 pears equally between 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {mother_name} arrange pears in baskets. They divide 4 pears equally between 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {brother_name} arrange pears in baskets. They divide 4 pears equally between 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {sister_name} arrange pears in baskets. They divide 4 pears equally between 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {uncle_name} arrange pears in baskets. They divide 4 pears equally between 2 baskets. What fraction of all the pears is in one basket?
+{user_name} is helping {grandfather_name} cut a round cake. They cut the cake into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {grandmother_name} cut a round cake. They cut the cake into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {father_name} cut a round cake. They cut the cake into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {mother_name} cut a round cake. They cut the cake into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {brother_name} cut a round cake. They cut the cake into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {sister_name} cut a round cake. They cut the cake into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {uncle_name} cut a round cake. They cut the cake into 2 parts of different sizes. Can both parts be called halves?
+{user_name} is helping {grandfather_name} organise toy blocks. They arrange 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {grandmother_name} organise toy blocks. They arrange 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {father_name} organise toy blocks. They arrange 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {mother_name} organise toy blocks. They arrange 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {brother_name} organise toy blocks. They arrange 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {sister_name} organise toy blocks. They arrange 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {uncle_name} organise toy blocks. They arrange 8 blocks into 4 equal groups. What fraction of all the blocks is in one group?
+{user_name} is helping {grandfather_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {grandmother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {father_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {mother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {brother_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?
+{user_name} is helping {uncle_name} prepare an orange for a snack. They cut one orange into 2 equal parts and share it equally. What fraction of the orange does each person receive?

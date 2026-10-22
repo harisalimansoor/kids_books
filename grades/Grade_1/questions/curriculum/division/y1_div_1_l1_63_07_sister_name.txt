@@ -1,0 +1,9 @@
+title: Arranging Knight Shields with Sister
+question_text:
+{user_name} and {sister_name} distribute 6 toy knight shields equally among 3 castle displays. How many shields will be in each display?
+options:
+A) 4
+B) 2
+C) 3
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 6 toy knight shields equally among 3 separate castle displays, with exactly 2 shields in each display. No extra shields, text, letters, or numbers.

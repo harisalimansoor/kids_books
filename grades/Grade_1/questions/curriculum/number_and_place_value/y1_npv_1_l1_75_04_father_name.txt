@@ -1,0 +1,9 @@
+title: Walking Along a Garden Path with Father
+question_text:
+{user_name} and {father_name} walk along a garden path while counting. Which number comes just after 34?
+options:
+A) 33
+B) 35
+C) 36
+image_prompt:
+Show {user_name} and {father_name} walking along a garden path with exactly 3 stepping stones arranged in a row. Highlight the last stone as the next step. No extra stepping stones, and no text, letters, or numbers.

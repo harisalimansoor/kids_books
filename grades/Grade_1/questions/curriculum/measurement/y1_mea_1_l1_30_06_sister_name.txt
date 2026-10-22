@@ -1,0 +1,9 @@
+title: Measuring a Shirt Sleeve with Sister
+question_text:
+{user_name} and {sister_name} want to measure the length of a shirt sleeve. Which tool should they use?
+options:
+A) A weighing scale
+B) A measuring tape
+C) A measuring jug
+image_prompt:
+Show {user_name} and {sister_name} measuring the sleeve of exactly 1 shirt using exactly 1 measuring tape placed along the sleeve. No extra shirts, measuring tools, props, text, letters, or numbers.

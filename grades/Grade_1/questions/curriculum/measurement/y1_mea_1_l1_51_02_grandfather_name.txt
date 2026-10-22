@@ -1,0 +1,9 @@
+title: Comparing Skipping Ropes with Grandfather
+question_text:
+{user_name} and {grandfather_name} are comparing 2 skipping ropes. One rope is 120 cm long, and the other is 90 cm long. Which rope is shorter?
+options:
+A) The rope that is 120 cm long
+B) The rope that is 90 cm long
+C) Both ropes are the same length
+image_prompt:
+Show {user_name} and {grandfather_name} comparing exactly 2 skipping ropes laid straight side by side. One rope must be visibly shorter than the other. No extra ropes, props, text, letters, or numbers.

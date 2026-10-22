@@ -1,0 +1,9 @@
+title: Turning a Square Tile with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} turn a square tile. They turn it onto one corner so it looks like a diamond. What shape is the tile still?
+options:
+A) Square
+B) Triangle
+C) Circle
+image_prompt:
+Show {user_name} helping {grandmother_name} examine exactly 1 square tile rotated so one corner points up and the opposite corner points down. Make all 4 equal sides clearly visible. No extra tiles, objects, props, text, letters, or numbers.

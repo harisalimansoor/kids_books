@@ -1,0 +1,9 @@
+title: Buying Cotton Candy with Father
+question_text:
+At the fair, {user_name} buys 2 cotton candy cones, and {father_name} buys 2 more. How many cotton candy cones have they bought altogether?
+options:
+A) 0
+B) 12
+C) 4
+image_prompt:
+Show {user_name} receiving cotton candy at a colorful fair stall while {father_name} chooses her own cones. Include EXACTLY 2 pink cotton candy cones for each person, 4 in total, all clearly separated. No extra cotton candy cones.

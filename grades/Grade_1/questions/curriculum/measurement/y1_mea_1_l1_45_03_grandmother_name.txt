@@ -1,0 +1,9 @@
+title: Measuring a Toy Track with Grandmother
+question_text:
+{user_name} and {grandmother_name} are measuring a toy race track using identical measuring strips. The track is exactly as long as 7 strips placed end to end. How many strips long is the track?
+options:
+A) 5 strips
+B) 6 strips
+C) 7 strips
+image_prompt:
+Show {user_name} and {grandmother_name} measuring exactly 1 straight toy race track with exactly 7 identical strips placed end to end along its length. No extra strips, tracks, props, text, letters, or numbers.

@@ -80,3 +80,563 @@ In the kitchen, {user_name} fills 5 glass jars with strawberry jam while {grandm
 For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {grandmother_name} hangs 3 along another. How many lanterns have they hung altogether?
 At their craft table, {user_name} decorates 5 paper hand fans, while {grandmother_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
 During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {grandmother_name} gathers 3 into another. How many plums have they collected in total?
+{user_name} and {grandmother_name} are reading storybooks. {user_name} reads 2 storybooks, and {grandmother_name} reads 4 storybooks. How many storybooks did they read in total?
+{user_name} and {father_name} are reading storybooks. {user_name} reads 2 storybooks, and {father_name} reads 4 storybooks. How many storybooks did they read in total?
+{user_name} and {mother_name} are reading storybooks. {user_name} reads 2 storybooks, and {mother_name} reads 4 storybooks. How many storybooks did they read in total?
+{user_name} and {brother_name} are reading storybooks. {user_name} reads 2 storybooks, and {brother_name} reads 4 storybooks. How many storybooks did they read in total?
+{user_name} and {sister_name} are reading storybooks. {user_name} reads 2 storybooks, and {sister_name} reads 4 storybooks. How many storybooks did they read in total?
+{user_name} and {uncle_name} are reading storybooks. {user_name} reads 2 storybooks, and {uncle_name} reads 4 storybooks. How many storybooks did they read in total?
+{user_name} and {aunt_name} are reading storybooks. {user_name} reads 2 storybooks, and {aunt_name} reads 4 storybooks. How many storybooks did they read in total?
+{user_name} and {grandmother_name} are planting flowers in the garden. {user_name} plants 3 flowers, and {grandmother_name} plants 2 flowers. How many flowers did they plant in total?
+{user_name} and {father_name} are planting flowers in the garden. {user_name} plants 3 flowers, and {father_name} plants 2 flowers. How many flowers did they plant in total?
+{user_name} and {mother_name} are planting flowers in the garden. {user_name} plants 3 flowers, and {mother_name} plants 2 flowers. How many flowers did they plant in total?
+{user_name} and {brother_name} are planting flowers in the garden. {user_name} plants 3 flowers, and {brother_name} plants 2 flowers. How many flowers did they plant in total?
+{user_name} and {sister_name} are planting flowers in the garden. {user_name} plants 3 flowers, and {sister_name} plants 2 flowers. How many flowers did they plant in total?
+{user_name} and {uncle_name} are planting flowers in the garden. {user_name} plants 3 flowers, and {uncle_name} plants 2 flowers. How many flowers did they plant in total?
+{user_name} and {aunt_name} are planting flowers in the garden. {user_name} plants 3 flowers, and {aunt_name} plants 2 flowers. How many flowers did they plant in total?
+{user_name} and {grandmother_name} are picking apples from a tree. {user_name} picks 4 apples, and {grandmother_name} picks 3 apples. How many apples did they pick in total?
+{user_name} and {father_name} are picking apples from a tree. {user_name} picks 4 apples, and {father_name} picks 3 apples. How many apples did they pick in total?
+{user_name} and {mother_name} are picking apples from a tree. {user_name} picks 4 apples, and {mother_name} picks 3 apples. How many apples did they pick in total?
+{user_name} and {brother_name} are picking apples from a tree. {user_name} picks 4 apples, and {brother_name} picks 3 apples. How many apples did they pick in total?
+{user_name} and {sister_name} are picking apples from a tree. {user_name} picks 4 apples, and {sister_name} picks 3 apples. How many apples did they pick in total?
+{user_name} and {uncle_name} are picking apples from a tree. {user_name} picks 4 apples, and {uncle_name} picks 3 apples. How many apples did they pick in total?
+{user_name} and {aunt_name} are picking apples from a tree. {user_name} picks 4 apples, and {aunt_name} picks 3 apples. How many apples did they pick in total?
+{user_name} and {grandmother_name} are baking cookies in the kitchen. {user_name} bakes 5 cookies, and {grandmother_name} bakes 3 cookies. How many cookies did they bake in total?
+{user_name} and {father_name} are baking cookies in the kitchen. {user_name} bakes 5 cookies, and {father_name} bakes 3 cookies. How many cookies did they bake in total?
+{user_name} and {mother_name} are baking cookies in the kitchen. {user_name} bakes 5 cookies, and {mother_name} bakes 3 cookies. How many cookies did they bake in total?
+{user_name} and {brother_name} are baking cookies in the kitchen. {user_name} bakes 5 cookies, and {brother_name} bakes 3 cookies. How many cookies did they bake in total?
+{user_name} and {sister_name} are baking cookies in the kitchen. {user_name} bakes 5 cookies, and {sister_name} bakes 3 cookies. How many cookies did they bake in total?
+{user_name} and {uncle_name} are baking cookies in the kitchen. {user_name} bakes 5 cookies, and {uncle_name} bakes 3 cookies. How many cookies did they bake in total?
+{user_name} and {aunt_name} are baking cookies in the kitchen. {user_name} bakes 5 cookies, and {aunt_name} bakes 3 cookies. How many cookies did they bake in total?
+{user_name} and {grandmother_name} are catching fish at the pond. {user_name} catches 3 fish, and {grandmother_name} catches 3 fish. How many fish did they catch in total?
+{user_name} and {father_name} are catching fish at the pond. {user_name} catches 3 fish, and {father_name} catches 3 fish. How many fish did they catch in total?
+{user_name} and {mother_name} are catching fish at the pond. {user_name} catches 3 fish, and {mother_name} catches 3 fish. How many fish did they catch in total?
+{user_name} and {brother_name} are catching fish at the pond. {user_name} catches 3 fish, and {brother_name} catches 3 fish. How many fish did they catch in total?
+{user_name} and {sister_name} are catching fish at the pond. {user_name} catches 3 fish, and {sister_name} catches 3 fish. How many fish did they catch in total?
+{user_name} and {uncle_name} are catching fish at the pond. {user_name} catches 3 fish, and {uncle_name} catches 3 fish. How many fish did they catch in total?
+{user_name} and {aunt_name} are catching fish at the pond. {user_name} catches 3 fish, and {aunt_name} catches 3 fish. How many fish did they catch in total?
+{user_name} and {grandmother_name} are painting smooth rocks. {user_name} paints 4 rocks, and {grandmother_name} paints 5 rocks. How many rocks did they paint in total?
+{user_name} and {father_name} are painting smooth rocks. {user_name} paints 4 rocks, and {father_name} paints 5 rocks. How many rocks did they paint in total?
+{user_name} and {mother_name} are painting smooth rocks. {user_name} paints 4 rocks, and {mother_name} paints 5 rocks. How many rocks did they paint in total?
+{user_name} and {brother_name} are painting smooth rocks. {user_name} paints 4 rocks, and {brother_name} paints 5 rocks. How many rocks did they paint in total?
+{user_name} and {sister_name} are painting smooth rocks. {user_name} paints 4 rocks, and {sister_name} paints 5 rocks. How many rocks did they paint in total?
+{user_name} and {uncle_name} are painting smooth rocks. {user_name} paints 4 rocks, and {uncle_name} paints 5 rocks. How many rocks did they paint in total?
+{user_name} and {aunt_name} are painting smooth rocks. {user_name} paints 4 rocks, and {aunt_name} paints 5 rocks. How many rocks did they paint in total?
+{user_name} and {grandmother_name} are folding paper boats. {user_name} folds 2 paper boats, and {grandmother_name} folds 3 paper boats. How many paper boats did they fold in total?
+{user_name} and {father_name} are folding paper boats. {user_name} folds 2 paper boats, and {father_name} folds 3 paper boats. How many paper boats did they fold in total?
+{user_name} and {mother_name} are folding paper boats. {user_name} folds 2 paper boats, and {mother_name} folds 3 paper boats. How many paper boats did they fold in total?
+{user_name} and {brother_name} are folding paper boats. {user_name} folds 2 paper boats, and {brother_name} folds 3 paper boats. How many paper boats did they fold in total?
+{user_name} and {sister_name} are folding paper boats. {user_name} folds 2 paper boats, and {sister_name} folds 3 paper boats. How many paper boats did they fold in total?
+{user_name} and {uncle_name} are folding paper boats. {user_name} folds 2 paper boats, and {uncle_name} folds 3 paper boats. How many paper boats did they fold in total?
+{user_name} and {aunt_name} are folding paper boats. {user_name} folds 2 paper boats, and {aunt_name} folds 3 paper boats. How many paper boats did they fold in total?
+{user_name} and {grandmother_name} are feeding birds in the park. {user_name} feeds 6 birds, and {grandmother_name} feeds 2 birds. How many birds did they feed in total?
+{user_name} and {father_name} are feeding birds in the park. {user_name} feeds 6 birds, and {father_name} feeds 2 birds. How many birds did they feed in total?
+{user_name} and {mother_name} are feeding birds in the park. {user_name} feeds 6 birds, and {mother_name} feeds 2 birds. How many birds did they feed in total?
+{user_name} and {brother_name} are feeding birds in the park. {user_name} feeds 6 birds, and {brother_name} feeds 2 birds. How many birds did they feed in total?
+{user_name} and {sister_name} are feeding birds in the park. {user_name} feeds 6 birds, and {sister_name} feeds 2 birds. How many birds did they feed in total?
+{user_name} and {uncle_name} are feeding birds in the park. {user_name} feeds 6 birds, and {uncle_name} feeds 2 birds. How many birds did they feed in total?
+{user_name} and {aunt_name} are feeding birds in the park. {user_name} feeds 6 birds, and {aunt_name} feeds 2 birds. How many birds did they feed in total?
+{user_name} and {grandmother_name} are pasting stamps into an album. {user_name} pastes 5 stamps, and {grandmother_name} pastes 2 stamps. How many stamps did they paste in total?
+{user_name} and {father_name} are pasting stamps into an album. {user_name} pastes 5 stamps, and {father_name} pastes 2 stamps. How many stamps did they paste in total?
+{user_name} and {mother_name} are pasting stamps into an album. {user_name} pastes 5 stamps, and {mother_name} pastes 2 stamps. How many stamps did they paste in total?
+{user_name} and {brother_name} are pasting stamps into an album. {user_name} pastes 5 stamps, and {brother_name} pastes 2 stamps. How many stamps did they paste in total?
+{user_name} and {sister_name} are pasting stamps into an album. {user_name} pastes 5 stamps, and {sister_name} pastes 2 stamps. How many stamps did they paste in total?
+{user_name} and {uncle_name} are pasting stamps into an album. {user_name} pastes 5 stamps, and {uncle_name} pastes 2 stamps. How many stamps did they paste in total?
+{user_name} and {aunt_name} are pasting stamps into an album. {user_name} pastes 5 stamps, and {aunt_name} pastes 2 stamps. How many stamps did they paste in total?
+{user_name} and {grandmother_name} are building toy towers. {user_name} builds 3 toy towers, and {grandmother_name} builds 4 toy towers. How many toy towers did they build in total?
+{user_name} and {father_name} are building toy towers. {user_name} builds 3 toy towers, and {father_name} builds 4 toy towers. How many toy towers did they build in total?
+{user_name} and {mother_name} are building toy towers. {user_name} builds 3 toy towers, and {mother_name} builds 4 toy towers. How many toy towers did they build in total?
+{user_name} and {brother_name} are building toy towers. {user_name} builds 3 toy towers, and {brother_name} builds 4 toy towers. How many toy towers did they build in total?
+{user_name} and {sister_name} are building toy towers. {user_name} builds 3 toy towers, and {sister_name} builds 4 toy towers. How many toy towers did they build in total?
+{user_name} and {uncle_name} are building toy towers. {user_name} builds 3 toy towers, and {uncle_name} builds 4 toy towers. How many toy towers did they build in total?
+{user_name} and {aunt_name} are building toy towers. {user_name} builds 3 toy towers, and {aunt_name} builds 4 toy towers. How many toy towers did they build in total?
+{user_name} and {grandfather_name} are decorating cupcakes. {user_name} decorates 4 cupcakes, and {grandfather_name} decorates 2 cupcakes. How many cupcakes did they decorate in total?
+{user_name} and {grandmother_name} are decorating cupcakes. {user_name} decorates 4 cupcakes, and {grandmother_name} decorates 2 cupcakes. How many cupcakes did they decorate in total?
+{user_name} and {father_name} are decorating cupcakes. {user_name} decorates 4 cupcakes, and {father_name} decorates 2 cupcakes. How many cupcakes did they decorate in total?
+{user_name} and {brother_name} are decorating cupcakes. {user_name} decorates 4 cupcakes, and {brother_name} decorates 2 cupcakes. How many cupcakes did they decorate in total?
+{user_name} and {sister_name} are decorating cupcakes. {user_name} decorates 4 cupcakes, and {sister_name} decorates 2 cupcakes. How many cupcakes did they decorate in total?
+{user_name} and {uncle_name} are decorating cupcakes. {user_name} decorates 4 cupcakes, and {uncle_name} decorates 2 cupcakes. How many cupcakes did they decorate in total?
+{user_name} and {aunt_name} are decorating cupcakes. {user_name} decorates 4 cupcakes, and {aunt_name} decorates 2 cupcakes. How many cupcakes did they decorate in total?
+{user_name} and {grandfather_name} are making sandwiches for a picnic. {user_name} makes 2 sandwiches, and {grandfather_name} makes 3 sandwiches. How many sandwiches did they make in total?
+{user_name} and {grandmother_name} are making sandwiches for a picnic. {user_name} makes 2 sandwiches, and {grandmother_name} makes 3 sandwiches. How many sandwiches did they make in total?
+{user_name} and {father_name} are making sandwiches for a picnic. {user_name} makes 2 sandwiches, and {father_name} makes 3 sandwiches. How many sandwiches did they make in total?
+{user_name} and {brother_name} are making sandwiches for a picnic. {user_name} makes 2 sandwiches, and {brother_name} makes 3 sandwiches. How many sandwiches did they make in total?
+{user_name} and {sister_name} are making sandwiches for a picnic. {user_name} makes 2 sandwiches, and {sister_name} makes 3 sandwiches. How many sandwiches did they make in total?
+{user_name} and {uncle_name} are making sandwiches for a picnic. {user_name} makes 2 sandwiches, and {uncle_name} makes 3 sandwiches. How many sandwiches did they make in total?
+{user_name} and {aunt_name} are making sandwiches for a picnic. {user_name} makes 2 sandwiches, and {aunt_name} makes 3 sandwiches. How many sandwiches did they make in total?
+{user_name} and {grandfather_name} are buying colorful balloons. {user_name} buys 5 balloons, and {grandfather_name} buys 4 balloons. How many balloons did they buy in total?
+{user_name} and {grandmother_name} are buying colorful balloons. {user_name} buys 5 balloons, and {grandmother_name} buys 4 balloons. How many balloons did they buy in total?
+{user_name} and {father_name} are buying colorful balloons. {user_name} buys 5 balloons, and {father_name} buys 4 balloons. How many balloons did they buy in total?
+{user_name} and {brother_name} are buying colorful balloons. {user_name} buys 5 balloons, and {brother_name} buys 4 balloons. How many balloons did they buy in total?
+{user_name} and {sister_name} are buying colorful balloons. {user_name} buys 5 balloons, and {sister_name} buys 4 balloons. How many balloons did they buy in total?
+{user_name} and {uncle_name} are buying colorful balloons. {user_name} buys 5 balloons, and {uncle_name} buys 4 balloons. How many balloons did they buy in total?
+{user_name} and {aunt_name} are buying colorful balloons. {user_name} buys 5 balloons, and {aunt_name} buys 4 balloons. How many balloons did they buy in total?
+{user_name} and {grandfather_name} are washing plates after dinner. {user_name} washes 3 plates, and {grandfather_name} washes 5 plates. How many plates did they wash in total?
+{user_name} and {grandmother_name} are washing plates after dinner. {user_name} washes 3 plates, and {grandmother_name} washes 5 plates. How many plates did they wash in total?
+{user_name} and {father_name} are washing plates after dinner. {user_name} washes 3 plates, and {father_name} washes 5 plates. How many plates did they wash in total?
+{user_name} and {brother_name} are washing plates after dinner. {user_name} washes 3 plates, and {brother_name} washes 5 plates. How many plates did they wash in total?
+{user_name} and {sister_name} are washing plates after dinner. {user_name} washes 3 plates, and {sister_name} washes 5 plates. How many plates did they wash in total?
+{user_name} and {uncle_name} are washing plates after dinner. {user_name} washes 3 plates, and {uncle_name} washes 5 plates. How many plates did they wash in total?
+{user_name} and {aunt_name} are washing plates after dinner. {user_name} washes 3 plates, and {aunt_name} washes 5 plates. How many plates did they wash in total?
+{user_name} and {grandfather_name} are folding clean shirts. {user_name} folds 4 shirts, and {grandfather_name} folds 3 shirts. How many shirts did they fold in total?
+{user_name} and {grandmother_name} are folding clean shirts. {user_name} folds 4 shirts, and {grandmother_name} folds 3 shirts. How many shirts did they fold in total?
+{user_name} and {father_name} are folding clean shirts. {user_name} folds 4 shirts, and {father_name} folds 3 shirts. How many shirts did they fold in total?
+{user_name} and {brother_name} are folding clean shirts. {user_name} folds 4 shirts, and {brother_name} folds 3 shirts. How many shirts did they fold in total?
+{user_name} and {sister_name} are folding clean shirts. {user_name} folds 4 shirts, and {sister_name} folds 3 shirts. How many shirts did they fold in total?
+{user_name} and {uncle_name} are folding clean shirts. {user_name} folds 4 shirts, and {uncle_name} folds 3 shirts. How many shirts did they fold in total?
+{user_name} and {aunt_name} are folding clean shirts. {user_name} folds 4 shirts, and {aunt_name} folds 3 shirts. How many shirts did they fold in total?
+{user_name} and {grandfather_name} are picking fresh strawberries. {user_name} picks 6 strawberries, and {grandfather_name} picks 2 strawberries. How many strawberries did they pick in total?
+{user_name} and {grandmother_name} are picking fresh strawberries. {user_name} picks 6 strawberries, and {grandmother_name} picks 2 strawberries. How many strawberries did they pick in total?
+{user_name} and {father_name} are picking fresh strawberries. {user_name} picks 6 strawberries, and {father_name} picks 2 strawberries. How many strawberries did they pick in total?
+{user_name} and {brother_name} are picking fresh strawberries. {user_name} picks 6 strawberries, and {brother_name} picks 2 strawberries. How many strawberries did they pick in total?
+{user_name} and {sister_name} are picking fresh strawberries. {user_name} picks 6 strawberries, and {sister_name} picks 2 strawberries. How many strawberries did they pick in total?
+{user_name} and {uncle_name} are picking fresh strawberries. {user_name} picks 6 strawberries, and {uncle_name} picks 2 strawberries. How many strawberries did they pick in total?
+{user_name} and {aunt_name} are picking fresh strawberries. {user_name} picks 6 strawberries, and {aunt_name} picks 2 strawberries. How many strawberries did they pick in total?
+{user_name} and {grandfather_name} are blowing soap bubbles in the yard. {user_name} blows 3 bubbles, and {grandfather_name} blows 3 bubbles. How many bubbles did they blow in total?
+{user_name} and {grandmother_name} are blowing soap bubbles in the yard. {user_name} blows 3 bubbles, and {grandmother_name} blows 3 bubbles. How many bubbles did they blow in total?
+{user_name} and {father_name} are blowing soap bubbles in the yard. {user_name} blows 3 bubbles, and {father_name} blows 3 bubbles. How many bubbles did they blow in total?
+{user_name} and {brother_name} are blowing soap bubbles in the yard. {user_name} blows 3 bubbles, and {brother_name} blows 3 bubbles. How many bubbles did they blow in total?
+{user_name} and {sister_name} are blowing soap bubbles in the yard. {user_name} blows 3 bubbles, and {sister_name} blows 3 bubbles. How many bubbles did they blow in total?
+{user_name} and {uncle_name} are blowing soap bubbles in the yard. {user_name} blows 3 bubbles, and {uncle_name} blows 3 bubbles. How many bubbles did they blow in total?
+{user_name} and {aunt_name} are blowing soap bubbles in the yard. {user_name} blows 3 bubbles, and {aunt_name} blows 3 bubbles. How many bubbles did they blow in total?
+{user_name} and {grandfather_name} are wrapping birthday gifts. {user_name} wraps 2 gifts, and {grandfather_name} wraps 2 gifts. How many gifts did they wrap in total?
+{user_name} and {grandmother_name} are wrapping birthday gifts. {user_name} wraps 2 gifts, and {grandmother_name} wraps 2 gifts. How many gifts did they wrap in total?
+{user_name} and {father_name} are wrapping birthday gifts. {user_name} wraps 2 gifts, and {father_name} wraps 2 gifts. How many gifts did they wrap in total?
+{user_name} and {brother_name} are wrapping birthday gifts. {user_name} wraps 2 gifts, and {brother_name} wraps 2 gifts. How many gifts did they wrap in total?
+{user_name} and {sister_name} are wrapping birthday gifts. {user_name} wraps 2 gifts, and {sister_name} wraps 2 gifts. How many gifts did they wrap in total?
+{user_name} and {uncle_name} are wrapping birthday gifts. {user_name} wraps 2 gifts, and {uncle_name} wraps 2 gifts. How many gifts did they wrap in total?
+{user_name} and {aunt_name} are wrapping birthday gifts. {user_name} wraps 2 gifts, and {aunt_name} wraps 2 gifts. How many gifts did they wrap in total?
+{user_name} and {grandfather_name} are making bead bracelets. {user_name} makes 5 bracelets, and {grandfather_name} makes 2 bracelets. How many bracelets did they make in total?
+{user_name} and {grandmother_name} are making bead bracelets. {user_name} makes 5 bracelets, and {grandmother_name} makes 2 bracelets. How many bracelets did they make in total?
+{user_name} and {father_name} are making bead bracelets. {user_name} makes 5 bracelets, and {father_name} makes 2 bracelets. How many bracelets did they make in total?
+{user_name} and {brother_name} are making bead bracelets. {user_name} makes 5 bracelets, and {brother_name} makes 2 bracelets. How many bracelets did they make in total?
+{user_name} and {sister_name} are making bead bracelets. {user_name} makes 5 bracelets, and {sister_name} makes 2 bracelets. How many bracelets did they make in total?
+{user_name} and {uncle_name} are making bead bracelets. {user_name} makes 5 bracelets, and {uncle_name} makes 2 bracelets. How many bracelets did they make in total?
+{user_name} and {aunt_name} are making bead bracelets. {user_name} makes 5 bracelets, and {aunt_name} makes 2 bracelets. How many bracelets did they make in total?
+{user_name} and {grandfather_name} are pouring glasses of orange juice. {user_name} pours 4 glasses, and {grandfather_name} pours 5 glasses. How many glasses did they pour in total?
+{user_name} and {grandmother_name} are pouring glasses of orange juice. {user_name} pours 4 glasses, and {grandmother_name} pours 5 glasses. How many glasses did they pour in total?
+{user_name} and {father_name} are pouring glasses of orange juice. {user_name} pours 4 glasses, and {father_name} pours 5 glasses. How many glasses did they pour in total?
+{user_name} and {brother_name} are pouring glasses of orange juice. {user_name} pours 4 glasses, and {brother_name} pours 5 glasses. How many glasses did they pour in total?
+{user_name} and {sister_name} are pouring glasses of orange juice. {user_name} pours 4 glasses, and {sister_name} pours 5 glasses. How many glasses did they pour in total?
+{user_name} and {uncle_name} are pouring glasses of orange juice. {user_name} pours 4 glasses, and {uncle_name} pours 5 glasses. How many glasses did they pour in total?
+{user_name} and {aunt_name} are pouring glasses of orange juice. {user_name} pours 4 glasses, and {aunt_name} pours 5 glasses. How many glasses did they pour in total?
+{user_name} arranges 3 toy cars on a race track, while {grandfather_name} adds 2 more. How many toy cars have they lined up altogether?
+{user_name} arranges 3 toy cars on a race track, while {grandmother_name} adds 2 more. How many toy cars have they lined up altogether?
+{user_name} arranges 3 toy cars on a race track, while {mother_name} adds 2 more. How many toy cars have they lined up altogether?
+{user_name} arranges 3 toy cars on a race track, while {brother_name} adds 2 more. How many toy cars have they lined up altogether?
+{user_name} arranges 3 toy cars on a race track, while {sister_name} adds 2 more. How many toy cars have they lined up altogether?
+{user_name} arranges 3 toy cars on a race track, while {uncle_name} adds 2 more. How many toy cars have they lined up altogether?
+{user_name} arranges 3 toy cars on a race track, while {aunt_name} adds 2 more. How many toy cars have they lined up altogether?
+{user_name} prepares 4 pancakes for breakfast, and {grandfather_name} makes 4 more. How many pancakes have they made altogether?
+{user_name} prepares 4 pancakes for breakfast, and {grandmother_name} makes 4 more. How many pancakes have they made altogether?
+{user_name} prepares 4 pancakes for breakfast, and {mother_name} makes 4 more. How many pancakes have they made altogether?
+{user_name} prepares 4 pancakes for breakfast, and {brother_name} makes 4 more. How many pancakes have they made altogether?
+{user_name} prepares 4 pancakes for breakfast, and {sister_name} makes 4 more. How many pancakes have they made altogether?
+{user_name} prepares 4 pancakes for breakfast, and {uncle_name} makes 4 more. How many pancakes have they made altogether?
+{user_name} prepares 4 pancakes for breakfast, and {aunt_name} makes 4 more. How many pancakes have they made altogether?
+After their tennis game, {user_name} collects 5 tennis balls, while {grandfather_name} gathers 2 more. How many tennis balls have they collected altogether?
+After their tennis game, {user_name} collects 5 tennis balls, while {grandmother_name} gathers 2 more. How many tennis balls have they collected altogether?
+After their tennis game, {user_name} collects 5 tennis balls, while {mother_name} gathers 2 more. How many tennis balls have they collected altogether?
+After their tennis game, {user_name} collects 5 tennis balls, while {brother_name} gathers 2 more. How many tennis balls have they collected altogether?
+After their tennis game, {user_name} collects 5 tennis balls, while {sister_name} gathers 2 more. How many tennis balls have they collected altogether?
+After their tennis game, {user_name} collects 5 tennis balls, while {uncle_name} gathers 2 more. How many tennis balls have they collected altogether?
+After their tennis game, {user_name} collects 5 tennis balls, while {aunt_name} gathers 2 more. How many tennis balls have they collected altogether?
+{user_name} crafts 2 paper kites, and {grandfather_name} makes 2 more. How many kites have they made altogether?
+{user_name} crafts 2 paper kites, and {grandmother_name} makes 2 more. How many kites have they made altogether?
+{user_name} crafts 2 paper kites, and {mother_name} makes 2 more. How many kites have they made altogether?
+{user_name} crafts 2 paper kites, and {brother_name} makes 2 more. How many kites have they made altogether?
+{user_name} crafts 2 paper kites, and {sister_name} makes 2 more. How many kites have they made altogether?
+{user_name} crafts 2 paper kites, and {uncle_name} makes 2 more. How many kites have they made altogether?
+{user_name} crafts 2 paper kites, and {aunt_name} makes 2 more. How many kites have they made altogether?
+{user_name} paints 3 wooden birdhouses, while {grandfather_name} decorates 3 more. How many birdhouses have they painted altogether?
+{user_name} paints 3 wooden birdhouses, while {grandmother_name} decorates 3 more. How many birdhouses have they painted altogether?
+{user_name} paints 3 wooden birdhouses, while {mother_name} decorates 3 more. How many birdhouses have they painted altogether?
+{user_name} paints 3 wooden birdhouses, while {brother_name} decorates 3 more. How many birdhouses have they painted altogether?
+{user_name} paints 3 wooden birdhouses, while {sister_name} decorates 3 more. How many birdhouses have they painted altogether?
+{user_name} paints 3 wooden birdhouses, while {uncle_name} decorates 3 more. How many birdhouses have they painted altogether?
+{user_name} paints 3 wooden birdhouses, while {aunt_name} decorates 3 more. How many birdhouses have they painted altogether?
+{user_name} sharpens 6 colored pencils, and {grandfather_name} sharpens 3 more. How many pencils have they sharpened altogether?
+{user_name} sharpens 6 colored pencils, and {grandmother_name} sharpens 3 more. How many pencils have they sharpened altogether?
+{user_name} sharpens 6 colored pencils, and {mother_name} sharpens 3 more. How many pencils have they sharpened altogether?
+{user_name} sharpens 6 colored pencils, and {brother_name} sharpens 3 more. How many pencils have they sharpened altogether?
+{user_name} sharpens 6 colored pencils, and {sister_name} sharpens 3 more. How many pencils have they sharpened altogether?
+{user_name} sharpens 6 colored pencils, and {uncle_name} sharpens 3 more. How many pencils have they sharpened altogether?
+{user_name} sharpens 6 colored pencils, and {aunt_name} sharpens 3 more. How many pencils have they sharpened altogether?
+During a woodland walk, {user_name} finds 4 pinecones, while {grandfather_name} discovers 2 more. How many pinecones have they found altogether?
+During a woodland walk, {user_name} finds 4 pinecones, while {grandmother_name} discovers 2 more. How many pinecones have they found altogether?
+During a woodland walk, {user_name} finds 4 pinecones, while {mother_name} discovers 2 more. How many pinecones have they found altogether?
+During a woodland walk, {user_name} finds 4 pinecones, while {brother_name} discovers 2 more. How many pinecones have they found altogether?
+During a woodland walk, {user_name} finds 4 pinecones, while {sister_name} discovers 2 more. How many pinecones have they found altogether?
+During a woodland walk, {user_name} finds 4 pinecones, while {uncle_name} discovers 2 more. How many pinecones have they found altogether?
+During a woodland walk, {user_name} finds 4 pinecones, while {aunt_name} discovers 2 more. How many pinecones have they found altogether?
+{user_name} assembles 2 toy airplanes, while {grandfather_name} builds 3 more. How many toy airplanes have they built altogether?
+{user_name} assembles 2 toy airplanes, while {grandmother_name} builds 3 more. How many toy airplanes have they built altogether?
+{user_name} assembles 2 toy airplanes, while {mother_name} builds 3 more. How many toy airplanes have they built altogether?
+{user_name} assembles 2 toy airplanes, while {brother_name} builds 3 more. How many toy airplanes have they built altogether?
+{user_name} assembles 2 toy airplanes, while {sister_name} builds 3 more. How many toy airplanes have they built altogether?
+{user_name} assembles 2 toy airplanes, while {uncle_name} builds 3 more. How many toy airplanes have they built altogether?
+{user_name} assembles 2 toy airplanes, while {aunt_name} builds 3 more. How many toy airplanes have they built altogether?
+{user_name} prepares 3 ice cream cones, and {grandfather_name} prepares 5 more. How many ice cream cones have they made altogether?
+{user_name} prepares 3 ice cream cones, and {grandmother_name} prepares 5 more. How many ice cream cones have they made altogether?
+{user_name} prepares 3 ice cream cones, and {mother_name} prepares 5 more. How many ice cream cones have they made altogether?
+{user_name} prepares 3 ice cream cones, and {brother_name} prepares 5 more. How many ice cream cones have they made altogether?
+{user_name} prepares 3 ice cream cones, and {sister_name} prepares 5 more. How many ice cream cones have they made altogether?
+{user_name} prepares 3 ice cream cones, and {uncle_name} prepares 5 more. How many ice cream cones have they made altogether?
+{user_name} prepares 3 ice cream cones, and {aunt_name} prepares 5 more. How many ice cream cones have they made altogether?
+{user_name} stacks 4 comic books on a table, while {grandfather_name} stacks 3 more. How many comic books have they stacked altogether?
+{user_name} stacks 4 comic books on a table, while {grandmother_name} stacks 3 more. How many comic books have they stacked altogether?
+{user_name} stacks 4 comic books on a table, while {mother_name} stacks 3 more. How many comic books have they stacked altogether?
+{user_name} stacks 4 comic books on a table, while {brother_name} stacks 3 more. How many comic books have they stacked altogether?
+{user_name} stacks 4 comic books on a table, while {sister_name} stacks 3 more. How many comic books have they stacked altogether?
+{user_name} stacks 4 comic books on a table, while {uncle_name} stacks 3 more. How many comic books have they stacked altogether?
+{user_name} stacks 4 comic books on a table, while {aunt_name} stacks 3 more. How many comic books have they stacked altogether?
+{user_name} finds 4 seashells on the beach, while {grandfather_name} discovers 3 more. How many seashells have they collected altogether?
+{user_name} finds 4 seashells on the beach, while {grandmother_name} discovers 3 more. How many seashells have they collected altogether?
+{user_name} finds 4 seashells on the beach, while {father_name} discovers 3 more. How many seashells have they collected altogether?
+{user_name} finds 4 seashells on the beach, while {mother_name} discovers 3 more. How many seashells have they collected altogether?
+{user_name} finds 4 seashells on the beach, while {brother_name} discovers 3 more. How many seashells have they collected altogether?
+{user_name} finds 4 seashells on the beach, while {uncle_name} discovers 3 more. How many seashells have they collected altogether?
+{user_name} finds 4 seashells on the beach, while {aunt_name} discovers 3 more. How many seashells have they collected altogether?
+{user_name} places 2 teddy bears on a playroom rug, while {grandfather_name} adds 3 more. How many teddy bears have they arranged altogether?
+{user_name} places 2 teddy bears on a playroom rug, while {grandmother_name} adds 3 more. How many teddy bears have they arranged altogether?
+{user_name} places 2 teddy bears on a playroom rug, while {father_name} adds 3 more. How many teddy bears have they arranged altogether?
+{user_name} places 2 teddy bears on a playroom rug, while {mother_name} adds 3 more. How many teddy bears have they arranged altogether?
+{user_name} places 2 teddy bears on a playroom rug, while {brother_name} adds 3 more. How many teddy bears have they arranged altogether?
+{user_name} places 2 teddy bears on a playroom rug, while {uncle_name} adds 3 more. How many teddy bears have they arranged altogether?
+{user_name} places 2 teddy bears on a playroom rug, while {aunt_name} adds 3 more. How many teddy bears have they arranged altogether?
+{user_name} decorates 3 glazed donuts with sprinkles, and {grandfather_name} decorates 3 more. How many donuts have they decorated altogether?
+{user_name} decorates 3 glazed donuts with sprinkles, and {grandmother_name} decorates 3 more. How many donuts have they decorated altogether?
+{user_name} decorates 3 glazed donuts with sprinkles, and {father_name} decorates 3 more. How many donuts have they decorated altogether?
+{user_name} decorates 3 glazed donuts with sprinkles, and {mother_name} decorates 3 more. How many donuts have they decorated altogether?
+{user_name} decorates 3 glazed donuts with sprinkles, and {brother_name} decorates 3 more. How many donuts have they decorated altogether?
+{user_name} decorates 3 glazed donuts with sprinkles, and {uncle_name} decorates 3 more. How many donuts have they decorated altogether?
+{user_name} decorates 3 glazed donuts with sprinkles, and {aunt_name} decorates 3 more. How many donuts have they decorated altogether?
+{user_name} folds 5 paper stars for decorations, while {grandfather_name} folds 4 more. How many paper stars have they folded altogether?
+{user_name} folds 5 paper stars for decorations, while {grandmother_name} folds 4 more. How many paper stars have they folded altogether?
+{user_name} folds 5 paper stars for decorations, while {father_name} folds 4 more. How many paper stars have they folded altogether?
+{user_name} folds 5 paper stars for decorations, while {mother_name} folds 4 more. How many paper stars have they folded altogether?
+{user_name} folds 5 paper stars for decorations, while {brother_name} folds 4 more. How many paper stars have they folded altogether?
+{user_name} folds 5 paper stars for decorations, while {uncle_name} folds 4 more. How many paper stars have they folded altogether?
+{user_name} folds 5 paper stars for decorations, while {aunt_name} folds 4 more. How many paper stars have they folded altogether?
+{user_name} creates 2 greeting cards, and {grandfather_name} makes 2 more. How many greeting cards have they made altogether?
+{user_name} creates 2 greeting cards, and {grandmother_name} makes 2 more. How many greeting cards have they made altogether?
+{user_name} creates 2 greeting cards, and {father_name} makes 2 more. How many greeting cards have they made altogether?
+{user_name} creates 2 greeting cards, and {mother_name} makes 2 more. How many greeting cards have they made altogether?
+{user_name} creates 2 greeting cards, and {brother_name} makes 2 more. How many greeting cards have they made altogether?
+{user_name} creates 2 greeting cards, and {uncle_name} makes 2 more. How many greeting cards have they made altogether?
+{user_name} creates 2 greeting cards, and {aunt_name} makes 2 more. How many greeting cards have they made altogether?
+{user_name} paints 5 small clay pots, while {grandfather_name} decorates 3 more. How many clay pots have they painted altogether?
+{user_name} paints 5 small clay pots, while {grandmother_name} decorates 3 more. How many clay pots have they painted altogether?
+{user_name} paints 5 small clay pots, while {father_name} decorates 3 more. How many clay pots have they painted altogether?
+{user_name} paints 5 small clay pots, while {mother_name} decorates 3 more. How many clay pots have they painted altogether?
+{user_name} paints 5 small clay pots, while {brother_name} decorates 3 more. How many clay pots have they painted altogether?
+{user_name} paints 5 small clay pots, while {uncle_name} decorates 3 more. How many clay pots have they painted altogether?
+{user_name} paints 5 small clay pots, while {aunt_name} decorates 3 more. How many clay pots have they painted altogether?
+{user_name} ties 4 silk ribbon bows, and {grandfather_name} ties 2 more. How many ribbon bows have they made altogether?
+{user_name} ties 4 silk ribbon bows, and {grandmother_name} ties 2 more. How many ribbon bows have they made altogether?
+{user_name} ties 4 silk ribbon bows, and {father_name} ties 2 more. How many ribbon bows have they made altogether?
+{user_name} ties 4 silk ribbon bows, and {mother_name} ties 2 more. How many ribbon bows have they made altogether?
+{user_name} ties 4 silk ribbon bows, and {brother_name} ties 2 more. How many ribbon bows have they made altogether?
+{user_name} ties 4 silk ribbon bows, and {uncle_name} ties 2 more. How many ribbon bows have they made altogether?
+{user_name} ties 4 silk ribbon bows, and {aunt_name} ties 2 more. How many ribbon bows have they made altogether?
+{user_name} sorts 6 wax crayons by color, while {grandfather_name} organizes 3 more. How many crayons have they sorted altogether?
+{user_name} sorts 6 wax crayons by color, while {grandmother_name} organizes 3 more. How many crayons have they sorted altogether?
+{user_name} sorts 6 wax crayons by color, while {father_name} organizes 3 more. How many crayons have they sorted altogether?
+{user_name} sorts 6 wax crayons by color, while {mother_name} organizes 3 more. How many crayons have they sorted altogether?
+{user_name} sorts 6 wax crayons by color, while {brother_name} organizes 3 more. How many crayons have they sorted altogether?
+{user_name} sorts 6 wax crayons by color, while {uncle_name} organizes 3 more. How many crayons have they sorted altogether?
+{user_name} sorts 6 wax crayons by color, while {aunt_name} organizes 3 more. How many crayons have they sorted altogether?
+{user_name} bakes 3 blueberry muffins, and {grandfather_name} bakes 4 more. How many muffins have they baked altogether?
+{user_name} bakes 3 blueberry muffins, and {grandmother_name} bakes 4 more. How many muffins have they baked altogether?
+{user_name} bakes 3 blueberry muffins, and {father_name} bakes 4 more. How many muffins have they baked altogether?
+{user_name} bakes 3 blueberry muffins, and {mother_name} bakes 4 more. How many muffins have they baked altogether?
+{user_name} bakes 3 blueberry muffins, and {brother_name} bakes 4 more. How many muffins have they baked altogether?
+{user_name} bakes 3 blueberry muffins, and {uncle_name} bakes 4 more. How many muffins have they baked altogether?
+{user_name} bakes 3 blueberry muffins, and {aunt_name} bakes 4 more. How many muffins have they baked altogether?
+{user_name} assembles 5 colorful paper pinwheels, while {grandfather_name} makes 3 more. How many pinwheels have they made altogether?
+{user_name} assembles 5 colorful paper pinwheels, while {grandmother_name} makes 3 more. How many pinwheels have they made altogether?
+{user_name} assembles 5 colorful paper pinwheels, while {father_name} makes 3 more. How many pinwheels have they made altogether?
+{user_name} assembles 5 colorful paper pinwheels, while {mother_name} makes 3 more. How many pinwheels have they made altogether?
+{user_name} assembles 5 colorful paper pinwheels, while {brother_name} makes 3 more. How many pinwheels have they made altogether?
+{user_name} assembles 5 colorful paper pinwheels, while {uncle_name} makes 3 more. How many pinwheels have they made altogether?
+{user_name} assembles 5 colorful paper pinwheels, while {aunt_name} makes 3 more. How many pinwheels have they made altogether?
+{user_name} assembles 3 toy robots, while {grandfather_name} builds 2 more. How many toy robots have they built altogether?
+{user_name} assembles 3 toy robots, while {grandmother_name} builds 2 more. How many toy robots have they built altogether?
+{user_name} assembles 3 toy robots, while {father_name} builds 2 more. How many toy robots have they built altogether?
+{user_name} assembles 3 toy robots, while {mother_name} builds 2 more. How many toy robots have they built altogether?
+{user_name} assembles 3 toy robots, while {brother_name} builds 2 more. How many toy robots have they built altogether?
+{user_name} assembles 3 toy robots, while {sister_name} builds 2 more. How many toy robots have they built altogether?
+{user_name} assembles 3 toy robots, while {aunt_name} builds 2 more. How many toy robots have they built altogether?
+Beside the campfire, {user_name} roasts 4 marshmallows, and {grandfather_name} roasts 3 more. How many marshmallows are they roasting altogether?
+Beside the campfire, {user_name} roasts 4 marshmallows, and {grandmother_name} roasts 3 more. How many marshmallows are they roasting altogether?
+Beside the campfire, {user_name} roasts 4 marshmallows, and {father_name} roasts 3 more. How many marshmallows are they roasting altogether?
+Beside the campfire, {user_name} roasts 4 marshmallows, and {mother_name} roasts 3 more. How many marshmallows are they roasting altogether?
+Beside the campfire, {user_name} roasts 4 marshmallows, and {brother_name} roasts 3 more. How many marshmallows are they roasting altogether?
+Beside the campfire, {user_name} roasts 4 marshmallows, and {sister_name} roasts 3 more. How many marshmallows are they roasting altogether?
+Beside the campfire, {user_name} roasts 4 marshmallows, and {aunt_name} roasts 3 more. How many marshmallows are they roasting altogether?
+At the campsite, {user_name} positions 3 lanterns around the tent, while {grandfather_name} sets up 5 more. How many lanterns have they set up altogether?
+At the campsite, {user_name} positions 3 lanterns around the tent, while {grandmother_name} sets up 5 more. How many lanterns have they set up altogether?
+At the campsite, {user_name} positions 3 lanterns around the tent, while {father_name} sets up 5 more. How many lanterns have they set up altogether?
+At the campsite, {user_name} positions 3 lanterns around the tent, while {mother_name} sets up 5 more. How many lanterns have they set up altogether?
+At the campsite, {user_name} positions 3 lanterns around the tent, while {brother_name} sets up 5 more. How many lanterns have they set up altogether?
+At the campsite, {user_name} positions 3 lanterns around the tent, while {sister_name} sets up 5 more. How many lanterns have they set up altogether?
+At the campsite, {user_name} positions 3 lanterns around the tent, while {aunt_name} sets up 5 more. How many lanterns have they set up altogether?
+{user_name} fills 2 popsicle molds with fruit juice, and {grandfather_name} prepares 2 more. How many popsicles are they making altogether?
+{user_name} fills 2 popsicle molds with fruit juice, and {grandmother_name} prepares 2 more. How many popsicles are they making altogether?
+{user_name} fills 2 popsicle molds with fruit juice, and {father_name} prepares 2 more. How many popsicles are they making altogether?
+{user_name} fills 2 popsicle molds with fruit juice, and {mother_name} prepares 2 more. How many popsicles are they making altogether?
+{user_name} fills 2 popsicle molds with fruit juice, and {brother_name} prepares 2 more. How many popsicles are they making altogether?
+{user_name} fills 2 popsicle molds with fruit juice, and {sister_name} prepares 2 more. How many popsicles are they making altogether?
+{user_name} fills 2 popsicle molds with fruit juice, and {aunt_name} prepares 2 more. How many popsicles are they making altogether?
+During their orchard visit, {user_name} gathers 5 oranges, while {grandfather_name} collects 4 more. How many oranges have they picked in total?
+During their orchard visit, {user_name} gathers 5 oranges, while {grandmother_name} collects 4 more. How many oranges have they picked in total?
+During their orchard visit, {user_name} gathers 5 oranges, while {father_name} collects 4 more. How many oranges have they picked in total?
+During their orchard visit, {user_name} gathers 5 oranges, while {mother_name} collects 4 more. How many oranges have they picked in total?
+During their orchard visit, {user_name} gathers 5 oranges, while {brother_name} collects 4 more. How many oranges have they picked in total?
+During their orchard visit, {user_name} gathers 5 oranges, while {sister_name} collects 4 more. How many oranges have they picked in total?
+During their orchard visit, {user_name} gathers 5 oranges, while {aunt_name} collects 4 more. How many oranges have they picked in total?
+{user_name} decorates 5 cone-shaped party hats, while {grandfather_name} finishes decorating 2 more. How many party hats have they decorated altogether?
+{user_name} decorates 5 cone-shaped party hats, while {grandmother_name} finishes decorating 2 more. How many party hats have they decorated altogether?
+{user_name} decorates 5 cone-shaped party hats, while {father_name} finishes decorating 2 more. How many party hats have they decorated altogether?
+{user_name} decorates 5 cone-shaped party hats, while {mother_name} finishes decorating 2 more. How many party hats have they decorated altogether?
+{user_name} decorates 5 cone-shaped party hats, while {brother_name} finishes decorating 2 more. How many party hats have they decorated altogether?
+{user_name} decorates 5 cone-shaped party hats, while {sister_name} finishes decorating 2 more. How many party hats have they decorated altogether?
+{user_name} decorates 5 cone-shaped party hats, while {aunt_name} finishes decorating 2 more. How many party hats have they decorated altogether?
+On the grassy field, {user_name} arranges 4 soccer balls, and {grandfather_name} lines up 4 more. How many soccer balls have they arranged altogether?
+On the grassy field, {user_name} arranges 4 soccer balls, and {grandmother_name} lines up 4 more. How many soccer balls have they arranged altogether?
+On the grassy field, {user_name} arranges 4 soccer balls, and {father_name} lines up 4 more. How many soccer balls have they arranged altogether?
+On the grassy field, {user_name} arranges 4 soccer balls, and {mother_name} lines up 4 more. How many soccer balls have they arranged altogether?
+On the grassy field, {user_name} arranges 4 soccer balls, and {brother_name} lines up 4 more. How many soccer balls have they arranged altogether?
+On the grassy field, {user_name} arranges 4 soccer balls, and {sister_name} lines up 4 more. How many soccer balls have they arranged altogether?
+On the grassy field, {user_name} arranges 4 soccer balls, and {aunt_name} lines up 4 more. How many soccer balls have they arranged altogether?
+In the kitchen, {user_name} fills 3 crispy taco shells, while {grandfather_name} prepares 3 more. How many tacos have they made altogether?
+In the kitchen, {user_name} fills 3 crispy taco shells, while {grandmother_name} prepares 3 more. How many tacos have they made altogether?
+In the kitchen, {user_name} fills 3 crispy taco shells, while {father_name} prepares 3 more. How many tacos have they made altogether?
+In the kitchen, {user_name} fills 3 crispy taco shells, while {mother_name} prepares 3 more. How many tacos have they made altogether?
+In the kitchen, {user_name} fills 3 crispy taco shells, while {brother_name} prepares 3 more. How many tacos have they made altogether?
+In the kitchen, {user_name} fills 3 crispy taco shells, while {sister_name} prepares 3 more. How many tacos have they made altogether?
+In the kitchen, {user_name} fills 3 crispy taco shells, while {aunt_name} prepares 3 more. How many tacos have they made altogether?
+Under an oak tree, {user_name} gathers 6 acorns, and {grandfather_name} finds 3 more. How many acorns have they collected altogether?
+Under an oak tree, {user_name} gathers 6 acorns, and {grandmother_name} finds 3 more. How many acorns have they collected altogether?
+Under an oak tree, {user_name} gathers 6 acorns, and {father_name} finds 3 more. How many acorns have they collected altogether?
+Under an oak tree, {user_name} gathers 6 acorns, and {mother_name} finds 3 more. How many acorns have they collected altogether?
+Under an oak tree, {user_name} gathers 6 acorns, and {brother_name} finds 3 more. How many acorns have they collected altogether?
+Under an oak tree, {user_name} gathers 6 acorns, and {sister_name} finds 3 more. How many acorns have they collected altogether?
+Under an oak tree, {user_name} gathers 6 acorns, and {aunt_name} finds 3 more. How many acorns have they collected altogether?
+{user_name} places 2 wooden toy trains on a track, while {grandfather_name} adds 4 more. How many toy trains have they arranged altogether?
+{user_name} places 2 wooden toy trains on a track, while {grandmother_name} adds 4 more. How many toy trains have they arranged altogether?
+{user_name} places 2 wooden toy trains on a track, while {father_name} adds 4 more. How many toy trains have they arranged altogether?
+{user_name} places 2 wooden toy trains on a track, while {mother_name} adds 4 more. How many toy trains have they arranged altogether?
+{user_name} places 2 wooden toy trains on a track, while {brother_name} adds 4 more. How many toy trains have they arranged altogether?
+{user_name} places 2 wooden toy trains on a track, while {sister_name} adds 4 more. How many toy trains have they arranged altogether?
+{user_name} places 2 wooden toy trains on a track, while {aunt_name} adds 4 more. How many toy trains have they arranged altogether?
+In the garden, {user_name} catches 4 butterflies with a net, while {grandfather_name} catches 2. How many butterflies did they catch altogether?
+In the garden, {user_name} catches 4 butterflies with a net, while {grandmother_name} catches 2. How many butterflies did they catch altogether?
+In the garden, {user_name} catches 4 butterflies with a net, while {father_name} catches 2. How many butterflies did they catch altogether?
+In the garden, {user_name} catches 4 butterflies with a net, while {mother_name} catches 2. How many butterflies did they catch altogether?
+In the garden, {user_name} catches 4 butterflies with a net, while {sister_name} catches 2. How many butterflies did they catch altogether?
+In the garden, {user_name} catches 4 butterflies with a net, while {uncle_name} catches 2. How many butterflies did they catch altogether?
+In the garden, {user_name} catches 4 butterflies with a net, while {aunt_name} catches 2. How many butterflies did they catch altogether?
+{user_name} has 2 swirl lollipops to share, and {grandfather_name} brings 3 more. How many lollipops do they have altogether?
+{user_name} has 2 swirl lollipops to share, and {grandmother_name} brings 3 more. How many lollipops do they have altogether?
+{user_name} has 2 swirl lollipops to share, and {father_name} brings 3 more. How many lollipops do they have altogether?
+{user_name} has 2 swirl lollipops to share, and {mother_name} brings 3 more. How many lollipops do they have altogether?
+{user_name} has 2 swirl lollipops to share, and {sister_name} brings 3 more. How many lollipops do they have altogether?
+{user_name} has 2 swirl lollipops to share, and {uncle_name} brings 3 more. How many lollipops do they have altogether?
+{user_name} has 2 swirl lollipops to share, and {aunt_name} brings 3 more. How many lollipops do they have altogether?
+{user_name} decorates a drawing board with 5 dinosaur stickers, while {grandfather_name} decorates another with 3. How many stickers have they used altogether?
+{user_name} decorates a drawing board with 5 dinosaur stickers, while {grandmother_name} decorates another with 3. How many stickers have they used altogether?
+{user_name} decorates a drawing board with 5 dinosaur stickers, while {father_name} decorates another with 3. How many stickers have they used altogether?
+{user_name} decorates a drawing board with 5 dinosaur stickers, while {mother_name} decorates another with 3. How many stickers have they used altogether?
+{user_name} decorates a drawing board with 5 dinosaur stickers, while {sister_name} decorates another with 3. How many stickers have they used altogether?
+{user_name} decorates a drawing board with 5 dinosaur stickers, while {uncle_name} decorates another with 3. How many stickers have they used altogether?
+{user_name} decorates a drawing board with 5 dinosaur stickers, while {aunt_name} decorates another with 3. How many stickers have they used altogether?
+At the library, {user_name} places 3 books onto a reading table, and {grandfather_name} adds 4 more. How many books have they placed altogether?
+At the library, {user_name} places 3 books onto a reading table, and {grandmother_name} adds 4 more. How many books have they placed altogether?
+At the library, {user_name} places 3 books onto a reading table, and {father_name} adds 4 more. How many books have they placed altogether?
+At the library, {user_name} places 3 books onto a reading table, and {mother_name} adds 4 more. How many books have they placed altogether?
+At the library, {user_name} places 3 books onto a reading table, and {sister_name} adds 4 more. How many books have they placed altogether?
+At the library, {user_name} places 3 books onto a reading table, and {uncle_name} adds 4 more. How many books have they placed altogether?
+At the library, {user_name} places 3 books onto a reading table, and {aunt_name} adds 4 more. How many books have they placed altogether?
+{user_name} drops 6 colorful marbles into a jar, and {grandfather_name} puts 3 into his own jar. How many marbles have they collected altogether?
+{user_name} drops 6 colorful marbles into a jar, and {grandmother_name} puts 3 into his own jar. How many marbles have they collected altogether?
+{user_name} drops 6 colorful marbles into a jar, and {father_name} puts 3 into his own jar. How many marbles have they collected altogether?
+{user_name} drops 6 colorful marbles into a jar, and {mother_name} puts 3 into his own jar. How many marbles have they collected altogether?
+{user_name} drops 6 colorful marbles into a jar, and {sister_name} puts 3 into his own jar. How many marbles have they collected altogether?
+{user_name} drops 6 colorful marbles into a jar, and {uncle_name} puts 3 into his own jar. How many marbles have they collected altogether?
+{user_name} drops 6 colorful marbles into a jar, and {aunt_name} puts 3 into his own jar. How many marbles have they collected altogether?
+At the park, {user_name} brings 2 frisbees for a game, and {grandfather_name} brings 2 more. How many frisbees do they have altogether?
+At the park, {user_name} brings 2 frisbees for a game, and {grandmother_name} brings 2 more. How many frisbees do they have altogether?
+At the park, {user_name} brings 2 frisbees for a game, and {father_name} brings 2 more. How many frisbees do they have altogether?
+At the park, {user_name} brings 2 frisbees for a game, and {mother_name} brings 2 more. How many frisbees do they have altogether?
+At the park, {user_name} brings 2 frisbees for a game, and {sister_name} brings 2 more. How many frisbees do they have altogether?
+At the park, {user_name} brings 2 frisbees for a game, and {uncle_name} brings 2 more. How many frisbees do they have altogether?
+At the park, {user_name} brings 2 frisbees for a game, and {aunt_name} brings 2 more. How many frisbees do they have altogether?
+In the vegetable garden, {user_name} harvests 5 carrots, and {grandfather_name} pulls out 4 more. How many carrots have they harvested altogether?
+In the vegetable garden, {user_name} harvests 5 carrots, and {grandmother_name} pulls out 4 more. How many carrots have they harvested altogether?
+In the vegetable garden, {user_name} harvests 5 carrots, and {father_name} pulls out 4 more. How many carrots have they harvested altogether?
+In the vegetable garden, {user_name} harvests 5 carrots, and {mother_name} pulls out 4 more. How many carrots have they harvested altogether?
+In the vegetable garden, {user_name} harvests 5 carrots, and {sister_name} pulls out 4 more. How many carrots have they harvested altogether?
+In the vegetable garden, {user_name} harvests 5 carrots, and {uncle_name} pulls out 4 more. How many carrots have they harvested altogether?
+In the vegetable garden, {user_name} harvests 5 carrots, and {aunt_name} pulls out 4 more. How many carrots have they harvested altogether?
+During art class, {user_name} selects 4 paintbrushes, and {grandfather_name} selects 3. How many paintbrushes have they selected altogether?
+During art class, {user_name} selects 4 paintbrushes, and {grandmother_name} selects 3. How many paintbrushes have they selected altogether?
+During art class, {user_name} selects 4 paintbrushes, and {father_name} selects 3. How many paintbrushes have they selected altogether?
+During art class, {user_name} selects 4 paintbrushes, and {mother_name} selects 3. How many paintbrushes have they selected altogether?
+During art class, {user_name} selects 4 paintbrushes, and {sister_name} selects 3. How many paintbrushes have they selected altogether?
+During art class, {user_name} selects 4 paintbrushes, and {uncle_name} selects 3. How many paintbrushes have they selected altogether?
+During art class, {user_name} selects 4 paintbrushes, and {aunt_name} selects 3. How many paintbrushes have they selected altogether?
+{user_name} floats 3 yellow rubber ducks in a water tub, while {grandfather_name} floats 3 ducks in another tub. How many rubber ducks are floating altogether?
+{user_name} floats 3 yellow rubber ducks in a water tub, while {grandmother_name} floats 3 ducks in another tub. How many rubber ducks are floating altogether?
+{user_name} floats 3 yellow rubber ducks in a water tub, while {father_name} floats 3 ducks in another tub. How many rubber ducks are floating altogether?
+{user_name} floats 3 yellow rubber ducks in a water tub, while {mother_name} floats 3 ducks in another tub. How many rubber ducks are floating altogether?
+{user_name} floats 3 yellow rubber ducks in a water tub, while {sister_name} floats 3 ducks in another tub. How many rubber ducks are floating altogether?
+{user_name} floats 3 yellow rubber ducks in a water tub, while {uncle_name} floats 3 ducks in another tub. How many rubber ducks are floating altogether?
+{user_name} floats 3 yellow rubber ducks in a water tub, while {aunt_name} floats 3 ducks in another tub. How many rubber ducks are floating altogether?
+{user_name} arranges 5 toy dinosaurs on a shelf, and {grandfather_name} places 3 more on another shelf. How many toy dinosaurs have they arranged altogether?
+{user_name} arranges 5 toy dinosaurs on a shelf, and {grandmother_name} places 3 more on another shelf. How many toy dinosaurs have they arranged altogether?
+{user_name} arranges 5 toy dinosaurs on a shelf, and {father_name} places 3 more on another shelf. How many toy dinosaurs have they arranged altogether?
+{user_name} arranges 5 toy dinosaurs on a shelf, and {mother_name} places 3 more on another shelf. How many toy dinosaurs have they arranged altogether?
+{user_name} arranges 5 toy dinosaurs on a shelf, and {sister_name} places 3 more on another shelf. How many toy dinosaurs have they arranged altogether?
+{user_name} arranges 5 toy dinosaurs on a shelf, and {uncle_name} places 3 more on another shelf. How many toy dinosaurs have they arranged altogether?
+{user_name} arranges 5 toy dinosaurs on a shelf, and {aunt_name} places 3 more on another shelf. How many toy dinosaurs have they arranged altogether?
+{user_name} arranges 3 yellow sunflowers in a vase, while {grandfather_name} arranges 2 in another vase. How many sunflowers have they arranged altogether?
+{user_name} arranges 3 yellow sunflowers in a vase, while {grandmother_name} arranges 2 in another vase. How many sunflowers have they arranged altogether?
+{user_name} arranges 3 yellow sunflowers in a vase, while {father_name} arranges 2 in another vase. How many sunflowers have they arranged altogether?
+{user_name} arranges 3 yellow sunflowers in a vase, while {mother_name} arranges 2 in another vase. How many sunflowers have they arranged altogether?
+{user_name} arranges 3 yellow sunflowers in a vase, while {brother_name} arranges 2 in another vase. How many sunflowers have they arranged altogether?
+{user_name} arranges 3 yellow sunflowers in a vase, while {sister_name} arranges 2 in another vase. How many sunflowers have they arranged altogether?
+{user_name} arranges 3 yellow sunflowers in a vase, while {uncle_name} arranges 2 in another vase. How many sunflowers have they arranged altogether?
+At the bakery, {user_name} prepares 4 pretzels, and {grandfather_name} prepares 3 more. How many pretzels have they prepared in total?
+At the bakery, {user_name} prepares 4 pretzels, and {grandmother_name} prepares 3 more. How many pretzels have they prepared in total?
+At the bakery, {user_name} prepares 4 pretzels, and {father_name} prepares 3 more. How many pretzels have they prepared in total?
+At the bakery, {user_name} prepares 4 pretzels, and {mother_name} prepares 3 more. How many pretzels have they prepared in total?
+At the bakery, {user_name} prepares 4 pretzels, and {brother_name} prepares 3 more. How many pretzels have they prepared in total?
+At the bakery, {user_name} prepares 4 pretzels, and {sister_name} prepares 3 more. How many pretzels have they prepared in total?
+At the bakery, {user_name} prepares 4 pretzels, and {uncle_name} prepares 3 more. How many pretzels have they prepared in total?
+At the fair, {user_name} buys 2 cotton candy cones, and {grandfather_name} buys 2 more. How many cotton candy cones have they bought altogether?
+At the fair, {user_name} buys 2 cotton candy cones, and {grandmother_name} buys 2 more. How many cotton candy cones have they bought altogether?
+At the fair, {user_name} buys 2 cotton candy cones, and {father_name} buys 2 more. How many cotton candy cones have they bought altogether?
+At the fair, {user_name} buys 2 cotton candy cones, and {mother_name} buys 2 more. How many cotton candy cones have they bought altogether?
+At the fair, {user_name} buys 2 cotton candy cones, and {brother_name} buys 2 more. How many cotton candy cones have they bought altogether?
+At the fair, {user_name} buys 2 cotton candy cones, and {sister_name} buys 2 more. How many cotton candy cones have they bought altogether?
+At the fair, {user_name} buys 2 cotton candy cones, and {uncle_name} buys 2 more. How many cotton candy cones have they bought altogether?
+{user_name} collects 5 eggs for the farm basket, while {grandfather_name} gathers 3 eggs for another basket. How many eggs have they collected altogether?
+{user_name} collects 5 eggs for the farm basket, while {grandmother_name} gathers 3 eggs for another basket. How many eggs have they collected altogether?
+{user_name} collects 5 eggs for the farm basket, while {father_name} gathers 3 eggs for another basket. How many eggs have they collected altogether?
+{user_name} collects 5 eggs for the farm basket, while {mother_name} gathers 3 eggs for another basket. How many eggs have they collected altogether?
+{user_name} collects 5 eggs for the farm basket, while {brother_name} gathers 3 eggs for another basket. How many eggs have they collected altogether?
+{user_name} collects 5 eggs for the farm basket, while {sister_name} gathers 3 eggs for another basket. How many eggs have they collected altogether?
+{user_name} collects 5 eggs for the farm basket, while {uncle_name} gathers 3 eggs for another basket. How many eggs have they collected altogether?
+Before knitting, {user_name} sorts 4 balls of wool, and {grandfather_name} organizes 2 more. How many balls of wool do they have altogether?
+Before knitting, {user_name} sorts 4 balls of wool, and {grandmother_name} organizes 2 more. How many balls of wool do they have altogether?
+Before knitting, {user_name} sorts 4 balls of wool, and {father_name} organizes 2 more. How many balls of wool do they have altogether?
+Before knitting, {user_name} sorts 4 balls of wool, and {mother_name} organizes 2 more. How many balls of wool do they have altogether?
+Before knitting, {user_name} sorts 4 balls of wool, and {brother_name} organizes 2 more. How many balls of wool do they have altogether?
+Before knitting, {user_name} sorts 4 balls of wool, and {sister_name} organizes 2 more. How many balls of wool do they have altogether?
+Before knitting, {user_name} sorts 4 balls of wool, and {uncle_name} organizes 2 more. How many balls of wool do they have altogether?
+At a summer picnic, {user_name} arranges 5 watermelon slices on a platter, and {grandfather_name} prepares another platter with 4 slices. How many watermelon slices are there altogether?
+At a summer picnic, {user_name} arranges 5 watermelon slices on a platter, and {grandmother_name} prepares another platter with 4 slices. How many watermelon slices are there altogether?
+At a summer picnic, {user_name} arranges 5 watermelon slices on a platter, and {father_name} prepares another platter with 4 slices. How many watermelon slices are there altogether?
+At a summer picnic, {user_name} arranges 5 watermelon slices on a platter, and {mother_name} prepares another platter with 4 slices. How many watermelon slices are there altogether?
+At a summer picnic, {user_name} arranges 5 watermelon slices on a platter, and {brother_name} prepares another platter with 4 slices. How many watermelon slices are there altogether?
+At a summer picnic, {user_name} arranges 5 watermelon slices on a platter, and {sister_name} prepares another platter with 4 slices. How many watermelon slices are there altogether?
+At a summer picnic, {user_name} arranges 5 watermelon slices on a platter, and {uncle_name} prepares another platter with 4 slices. How many watermelon slices are there altogether?
+In the garden, {user_name} observes 3 ladybugs in a clear viewing jar, and {grandfather_name} observes 3 in another jar. How many ladybugs are they observing altogether?
+In the garden, {user_name} observes 3 ladybugs in a clear viewing jar, and {grandmother_name} observes 3 in another jar. How many ladybugs are they observing altogether?
+In the garden, {user_name} observes 3 ladybugs in a clear viewing jar, and {father_name} observes 3 in another jar. How many ladybugs are they observing altogether?
+In the garden, {user_name} observes 3 ladybugs in a clear viewing jar, and {mother_name} observes 3 in another jar. How many ladybugs are they observing altogether?
+In the garden, {user_name} observes 3 ladybugs in a clear viewing jar, and {brother_name} observes 3 in another jar. How many ladybugs are they observing altogether?
+In the garden, {user_name} observes 3 ladybugs in a clear viewing jar, and {sister_name} observes 3 in another jar. How many ladybugs are they observing altogether?
+In the garden, {user_name} observes 3 ladybugs in a clear viewing jar, and {uncle_name} observes 3 in another jar. How many ladybugs are they observing altogether?
+While preparing gifts, {user_name} decorates 4 paper gift bags, and {grandfather_name} ties ribbons on 4 more. How many gift bags have they prepared altogether?
+While preparing gifts, {user_name} decorates 4 paper gift bags, and {grandmother_name} ties ribbons on 4 more. How many gift bags have they prepared altogether?
+While preparing gifts, {user_name} decorates 4 paper gift bags, and {father_name} ties ribbons on 4 more. How many gift bags have they prepared altogether?
+While preparing gifts, {user_name} decorates 4 paper gift bags, and {mother_name} ties ribbons on 4 more. How many gift bags have they prepared altogether?
+While preparing gifts, {user_name} decorates 4 paper gift bags, and {brother_name} ties ribbons on 4 more. How many gift bags have they prepared altogether?
+While preparing gifts, {user_name} decorates 4 paper gift bags, and {sister_name} ties ribbons on 4 more. How many gift bags have they prepared altogether?
+While preparing gifts, {user_name} decorates 4 paper gift bags, and {uncle_name} ties ribbons on 4 more. How many gift bags have they prepared altogether?
+{user_name} plants 6 small cacti in separate pots, while {grandfather_name} prepares 3 more potted cacti. How many cactus pots have they prepared altogether?
+{user_name} plants 6 small cacti in separate pots, while {grandmother_name} prepares 3 more potted cacti. How many cactus pots have they prepared altogether?
+{user_name} plants 6 small cacti in separate pots, while {father_name} prepares 3 more potted cacti. How many cactus pots have they prepared altogether?
+{user_name} plants 6 small cacti in separate pots, while {mother_name} prepares 3 more potted cacti. How many cactus pots have they prepared altogether?
+{user_name} plants 6 small cacti in separate pots, while {brother_name} prepares 3 more potted cacti. How many cactus pots have they prepared altogether?
+{user_name} plants 6 small cacti in separate pots, while {sister_name} prepares 3 more potted cacti. How many cactus pots have they prepared altogether?
+{user_name} plants 6 small cacti in separate pots, while {uncle_name} prepares 3 more potted cacti. How many cactus pots have they prepared altogether?
+{user_name} makes 3 caramel apples, while {grandfather_name} prepares 4 more. How many caramel apples have they made altogether?
+{user_name} makes 3 caramel apples, while {grandmother_name} prepares 4 more. How many caramel apples have they made altogether?
+{user_name} makes 3 caramel apples, while {father_name} prepares 4 more. How many caramel apples have they made altogether?
+{user_name} makes 3 caramel apples, while {mother_name} prepares 4 more. How many caramel apples have they made altogether?
+{user_name} makes 3 caramel apples, while {brother_name} prepares 4 more. How many caramel apples have they made altogether?
+{user_name} makes 3 caramel apples, while {sister_name} prepares 4 more. How many caramel apples have they made altogether?
+{user_name} makes 3 caramel apples, while {uncle_name} prepares 4 more. How many caramel apples have they made altogether?
+At the art table, {user_name} draws 4 rectangles on a drawing board while {grandfather_name} adds 2 rectangles to her own board. How many rectangles have they drawn altogether?
+At the art table, {user_name} draws 4 rectangles on a drawing board while {father_name} adds 2 rectangles to her own board. How many rectangles have they drawn altogether?
+At the art table, {user_name} draws 4 rectangles on a drawing board while {mother_name} adds 2 rectangles to her own board. How many rectangles have they drawn altogether?
+At the art table, {user_name} draws 4 rectangles on a drawing board while {brother_name} adds 2 rectangles to her own board. How many rectangles have they drawn altogether?
+At the art table, {user_name} draws 4 rectangles on a drawing board while {sister_name} adds 2 rectangles to her own board. How many rectangles have they drawn altogether?
+At the art table, {user_name} draws 4 rectangles on a drawing board while {uncle_name} adds 2 rectangles to her own board. How many rectangles have they drawn altogether?
+At the art table, {user_name} draws 4 rectangles on a drawing board while {aunt_name} adds 2 rectangles to her own board. How many rectangles have they drawn altogether?
+During their sewing session, {user_name} stitches 3 buttons onto a fabric hoop, and {grandfather_name} sews 4 buttons onto another hoop. How many buttons have they sewn altogether?
+During their sewing session, {user_name} stitches 3 buttons onto a fabric hoop, and {father_name} sews 4 buttons onto another hoop. How many buttons have they sewn altogether?
+During their sewing session, {user_name} stitches 3 buttons onto a fabric hoop, and {mother_name} sews 4 buttons onto another hoop. How many buttons have they sewn altogether?
+During their sewing session, {user_name} stitches 3 buttons onto a fabric hoop, and {brother_name} sews 4 buttons onto another hoop. How many buttons have they sewn altogether?
+During their sewing session, {user_name} stitches 3 buttons onto a fabric hoop, and {sister_name} sews 4 buttons onto another hoop. How many buttons have they sewn altogether?
+During their sewing session, {user_name} stitches 3 buttons onto a fabric hoop, and {uncle_name} sews 4 buttons onto another hoop. How many buttons have they sewn altogether?
+During their sewing session, {user_name} stitches 3 buttons onto a fabric hoop, and {aunt_name} sews 4 buttons onto another hoop. How many buttons have they sewn altogether?
+After their knitting session, {user_name} has completed 2 wool mittens, and {grandfather_name} has knitted 2 more. How many mittens have they made in total?
+After their knitting session, {user_name} has completed 2 wool mittens, and {father_name} has knitted 2 more. How many mittens have they made in total?
+After their knitting session, {user_name} has completed 2 wool mittens, and {mother_name} has knitted 2 more. How many mittens have they made in total?
+After their knitting session, {user_name} has completed 2 wool mittens, and {brother_name} has knitted 2 more. How many mittens have they made in total?
+After their knitting session, {user_name} has completed 2 wool mittens, and {sister_name} has knitted 2 more. How many mittens have they made in total?
+After their knitting session, {user_name} has completed 2 wool mittens, and {uncle_name} has knitted 2 more. How many mittens have they made in total?
+After their knitting session, {user_name} has completed 2 wool mittens, and {aunt_name} has knitted 2 more. How many mittens have they made in total?
+In the kitchen, {user_name} arranges 3 cinnamon rolls on a baking tray. {grandfather_name} prepares another tray with 2 rolls. How many cinnamon rolls are there altogether?
+In the kitchen, {user_name} arranges 3 cinnamon rolls on a baking tray. {father_name} prepares another tray with 2 rolls. How many cinnamon rolls are there altogether?
+In the kitchen, {user_name} arranges 3 cinnamon rolls on a baking tray. {mother_name} prepares another tray with 2 rolls. How many cinnamon rolls are there altogether?
+In the kitchen, {user_name} arranges 3 cinnamon rolls on a baking tray. {brother_name} prepares another tray with 2 rolls. How many cinnamon rolls are there altogether?
+In the kitchen, {user_name} arranges 3 cinnamon rolls on a baking tray. {sister_name} prepares another tray with 2 rolls. How many cinnamon rolls are there altogether?
+In the kitchen, {user_name} arranges 3 cinnamon rolls on a baking tray. {uncle_name} prepares another tray with 2 rolls. How many cinnamon rolls are there altogether?
+In the kitchen, {user_name} arranges 3 cinnamon rolls on a baking tray. {aunt_name} prepares another tray with 2 rolls. How many cinnamon rolls are there altogether?
+After gathering pears, {user_name} rinses 5 green pears while {grandfather_name} cleans 3 more for their harvest. How many pears have they collected altogether?
+After gathering pears, {user_name} rinses 5 green pears while {father_name} cleans 3 more for their harvest. How many pears have they collected altogether?
+After gathering pears, {user_name} rinses 5 green pears while {mother_name} cleans 3 more for their harvest. How many pears have they collected altogether?
+After gathering pears, {user_name} rinses 5 green pears while {brother_name} cleans 3 more for their harvest. How many pears have they collected altogether?
+After gathering pears, {user_name} rinses 5 green pears while {sister_name} cleans 3 more for their harvest. How many pears have they collected altogether?
+After gathering pears, {user_name} rinses 5 green pears while {uncle_name} cleans 3 more for their harvest. How many pears have they collected altogether?
+After gathering pears, {user_name} rinses 5 green pears while {aunt_name} cleans 3 more for their harvest. How many pears have they collected altogether?
+{user_name} sets out 4 painted teacups for tea time, and {grandfather_name} arranges 4 more on the table. How many teacups have they set out altogether?
+{user_name} sets out 4 painted teacups for tea time, and {father_name} arranges 4 more on the table. How many teacups have they set out altogether?
+{user_name} sets out 4 painted teacups for tea time, and {mother_name} arranges 4 more on the table. How many teacups have they set out altogether?
+{user_name} sets out 4 painted teacups for tea time, and {brother_name} arranges 4 more on the table. How many teacups have they set out altogether?
+{user_name} sets out 4 painted teacups for tea time, and {sister_name} arranges 4 more on the table. How many teacups have they set out altogether?
+{user_name} sets out 4 painted teacups for tea time, and {uncle_name} arranges 4 more on the table. How many teacups have they set out altogether?
+{user_name} sets out 4 painted teacups for tea time, and {aunt_name} arranges 4 more on the table. How many teacups have they set out altogether?
+In the kitchen, {user_name} fills 5 glass jars with strawberry jam while {grandfather_name} prepares 4 more jars for sealing. How many jam jars do they prepare altogether?
+In the kitchen, {user_name} fills 5 glass jars with strawberry jam while {father_name} prepares 4 more jars for sealing. How many jam jars do they prepare altogether?
+In the kitchen, {user_name} fills 5 glass jars with strawberry jam while {mother_name} prepares 4 more jars for sealing. How many jam jars do they prepare altogether?
+In the kitchen, {user_name} fills 5 glass jars with strawberry jam while {brother_name} prepares 4 more jars for sealing. How many jam jars do they prepare altogether?
+In the kitchen, {user_name} fills 5 glass jars with strawberry jam while {sister_name} prepares 4 more jars for sealing. How many jam jars do they prepare altogether?
+In the kitchen, {user_name} fills 5 glass jars with strawberry jam while {uncle_name} prepares 4 more jars for sealing. How many jam jars do they prepare altogether?
+In the kitchen, {user_name} fills 5 glass jars with strawberry jam while {aunt_name} prepares 4 more jars for sealing. How many jam jars do they prepare altogether?
+For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {grandfather_name} hangs 3 along another. How many lanterns have they hung altogether?
+For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {father_name} hangs 3 along another. How many lanterns have they hung altogether?
+For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {mother_name} hangs 3 along another. How many lanterns have they hung altogether?
+For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {brother_name} hangs 3 along another. How many lanterns have they hung altogether?
+For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {sister_name} hangs 3 along another. How many lanterns have they hung altogether?
+For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {uncle_name} hangs 3 along another. How many lanterns have they hung altogether?
+For a colorful garden celebration, {user_name} hangs 3 paper lanterns along one string, and {aunt_name} hangs 3 along another. How many lanterns have they hung altogether?
+At their craft table, {user_name} decorates 5 paper hand fans, while {grandfather_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
+At their craft table, {user_name} decorates 5 paper hand fans, while {father_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
+At their craft table, {user_name} decorates 5 paper hand fans, while {mother_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
+At their craft table, {user_name} decorates 5 paper hand fans, while {brother_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
+At their craft table, {user_name} decorates 5 paper hand fans, while {sister_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
+At their craft table, {user_name} decorates 5 paper hand fans, while {uncle_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
+At their craft table, {user_name} decorates 5 paper hand fans, while {aunt_name} adds colorful details to 2 more. How many hand fans have they decorated altogether?
+During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {grandfather_name} gathers 3 into another. How many plums have they collected in total?
+During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {father_name} gathers 3 into another. How many plums have they collected in total?
+During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {mother_name} gathers 3 into another. How many plums have they collected in total?
+During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {brother_name} gathers 3 into another. How many plums have they collected in total?
+During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {sister_name} gathers 3 into another. How many plums have they collected in total?
+During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {uncle_name} gathers 3 into another. How many plums have they collected in total?
+During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {aunt_name} gathers 3 into another. How many plums have they collected in total?

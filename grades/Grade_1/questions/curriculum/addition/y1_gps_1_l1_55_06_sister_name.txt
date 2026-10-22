@@ -1,0 +1,9 @@
+title: Collecting Marbles with Sister
+question_text:
+{user_name} drops 6 colorful marbles into a jar, and {sister_name} puts 3 into his own jar. How many marbles have they collected altogether?
+options:
+A) 9
+B) 3
+C) 18
+image_prompt:
+Show {user_name} placing marbles into a clear jar while {sister_name} sorts marbles beside his own jar. Include EXACTLY 6 marbles in the child's jar and 3 in the brother's jar, all clearly countable, with no extras.

@@ -1,0 +1,9 @@
+title: Measuring a Basketball Hoop with Grandfather
+question_text:
+{user_name} and {grandfather_name} are measuring the height of a basketball hoop. The hoop is 2 metres high. Which unit is used to measure its height?
+options:
+A) Litres
+B) Metres
+C) Kilograms
+image_prompt:
+Show {user_name} and {grandfather_name} beside exactly 1 basketball hoop, with a measuring tape extending vertically from the ground toward the top of the hoop. No extra hoops, measuring tools, props, text, letters, or numbers.

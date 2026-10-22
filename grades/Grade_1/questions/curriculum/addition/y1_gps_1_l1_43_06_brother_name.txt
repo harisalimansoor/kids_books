@@ -1,0 +1,9 @@
+title: Setting Up Lanterns with Brother
+question_text:
+At the campsite, {user_name} positions 3 lanterns around the tent, while {brother_name} sets up 5 more. How many lanterns have they set up altogether?
+options:
+A) 2
+B) 8
+C) 15
+image_prompt:
+Show {user_name} placing camping lanterns beside a tent while {brother_name} hangs lanterns around the campsite. Include EXACTLY 3 lanterns in the child's area and 5 in the uncle's area, with no extra lanterns or lights.

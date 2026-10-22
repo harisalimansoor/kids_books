@@ -1,0 +1,9 @@
+title: Cleaning the Window with Father
+question_text:
+{user_name} is helping {father_name} clean a window. The window pane has 2 long sides and 2 short sides. Which 2D shape matches the window pane?
+options:
+A) Triangle
+B) Rectangle
+C) Circle
+image_prompt:
+Show {user_name} helping {father_name} clean exactly 1 rectangular window pane. Make its 2 longer sides and 2 shorter sides clearly visible. Keep the glass plain, with no patterns or decorations. No extra windows, objects, props, text, letters, or numbers.

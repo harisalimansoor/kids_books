@@ -1,0 +1,9 @@
+title: Comparing Puzzle and Drawing Time with Brother
+question_text:
+{user_name} is helping {brother_name} compare the time taken by two activities. They spend 10 minutes drawing a picture and 30 minutes completing a jigsaw puzzle. Which activity takes longer?
+options:
+A) Drawing a picture
+B) Completing a jigsaw puzzle
+C) Both take the same time
+image_prompt:
+Show {user_name} helping {brother_name} compare two activities: drawing one picture and completing one jigsaw puzzle. Include one sheet of drawing paper, drawing tools and one jigsaw puzzle. No text, letters, numbers or extra objects.

@@ -1,0 +1,9 @@
+title: Sharing Strawberries with Father
+question_text:
+{user_name} is helping {father_name} share strawberries for a snack. They divide 8 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+options:
+A) One quarter
+B) One whole
+C) One half
+image_prompt:
+Show {user_name} helping {father_name} divide exactly 8 strawberries equally between 2 plates, with exactly 4 strawberries on each plate. No extra strawberries, plates, food, props, people, text, letters or numbers.

@@ -1,0 +1,9 @@
+title: Setting the Table with Brother
+question_text:
+{user_name} is helping {brother_name} set the table for lunch. They place a round plate on the table. Which 2D shape matches the plate when viewed from above?
+options:
+A) Square
+B) Rectangle
+C) Circle
+image_prompt:
+Show {user_name} helping {brother_name} place exactly 1 plain round plate on a table, viewed directly from above. Make the plate's outline a clear circle with no corners. No extra plates, cutlery, food, objects, props, text, letters, or numbers.

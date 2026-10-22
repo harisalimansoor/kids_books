@@ -1,0 +1,9 @@
+title: Finding Pinecones with Mother
+question_text:
+During a woodland walk, {user_name} finds 4 pinecones, while {mother_name} discovers 2 more. How many pinecones have they found altogether?
+options:
+A) 2
+B) 6
+C) 14
+image_prompt:
+Show {user_name} searching beneath a pine tree while {mother_name} examines a pinecone he has found. Include EXACTLY 4 pinecones in the child's collection and 2 in Mother's collection, with no additional pinecones visible.

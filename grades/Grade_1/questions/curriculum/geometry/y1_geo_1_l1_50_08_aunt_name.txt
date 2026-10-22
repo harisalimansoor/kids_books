@@ -1,0 +1,9 @@
+title: Parking a Toy Plane Above a Garage
+question_text:
+{user_name} is helping {aunt_name} arrange toy vehicles. They place 1 toy plane on a shelf directly above 1 toy garage. Where is the toy plane in relation to the garage?
+options:
+A) Below the garage
+B) Behind the garage
+C) Above the garage
+image_prompt:
+Show {user_name} helping {aunt_name} arrange exactly 1 toy plane on a shelf directly above exactly 1 toy garage. Make the plane clearly higher than the garage, with the shelf visible between them. No extra planes, garages, vehicles, objects, props, text, letters, or numbers.

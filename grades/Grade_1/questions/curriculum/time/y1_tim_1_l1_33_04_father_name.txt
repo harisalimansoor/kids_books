@@ -1,0 +1,9 @@
+title: Planting Sunflowers with Father
+question_text:
+{user_name} is helping {father_name} plant sunflower seeds. They fill a pot with soil before putting the seeds into it. What do they do first?
+options:
+A) Put seeds into the soil
+B) Fill the pot with soil
+C) Pick the sunflowers
+image_prompt:
+Show {user_name} helping {father_name} fill exactly one plant pot with soil before planting sunflower seeds. Show one pot and the required soil and seeds only. No text, letters, numbers or extra objects.

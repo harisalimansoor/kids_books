@@ -1,0 +1,9 @@
+title: Sorting Number Cards with Father
+question_text:
+{user_name} helps {father_name} sort the numbers 9, 16, and 7. Which number has two digits?
+options:
+A) 9
+B) 7
+C) 16
+image_prompt:
+Show {user_name} and {father_name} sorting exactly 3 blank cards on a table. No printed numbers, letters, extra cards, or other text.

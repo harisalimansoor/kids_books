@@ -1,0 +1,9 @@
+title: Comparing Activities with Sister
+question_text:
+{user_name} is helping {sister_name} compare the time taken by two activities. They spend a short time tying their shoelaces and a longer time watching a full film. Which activity usually takes longer?
+options:
+A) Tying shoelaces
+B) Watching a full film
+C) Both always take the same time
+image_prompt:
+Show {user_name} helping {sister_name} compare two activities: tying shoelaces and watching a film on one television. Show only the two people and the essential items. No text, letters, numbers or extra objects.

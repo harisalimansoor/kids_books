@@ -1,0 +1,9 @@
+title: Turning a Windmill with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} learn about turns using a toy windmill. One blade starts by pointing up. They turn the windmill one quarter turn clockwise. Which direction does that blade point now?
+options:
+A) Left
+B) Right
+C) Down
+image_prompt:
+Show {user_name} helping {grandfather_name} examine exactly 2 simple diagrams of the same toy windmill. In the first diagram, one blade points straight up. In the second diagram, that blade points straight right after a quarter turn clockwise. Make the starting and final positions clear and accurate. No extra windmills, objects, props, text, letters, or numbers.

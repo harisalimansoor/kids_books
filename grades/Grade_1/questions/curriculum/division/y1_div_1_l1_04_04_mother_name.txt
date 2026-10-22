@@ -1,0 +1,9 @@
+title: Arranging Flowers with Mother
+question_text:
+{user_name} and {mother_name} arrange 9 flowers equally in 3 vases. How many flowers will be in each vase?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {mother_name} arranging exactly 9 flowers equally in 3 vases, with exactly 3 flowers in each vase. No extra flowers, props, text, letters, or numbers.

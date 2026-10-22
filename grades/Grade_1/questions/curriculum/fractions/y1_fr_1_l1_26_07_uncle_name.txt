@@ -1,0 +1,9 @@
+title: Sharing Strawberries with Uncle
+question_text:
+{user_name} is helping {uncle_name} prepare strawberries for a snack. They share 6 strawberries equally between 2 plates. What fraction of all the strawberries is on one plate?
+options:
+A) One half
+B) One quarter
+C) One whole
+image_prompt:
+Show {user_name} helping {uncle_name} share exactly 6 strawberries equally between 2 plates, with exactly 3 strawberries on each plate. No extra strawberries, plates, objects, props, people, text, letters or numbers.

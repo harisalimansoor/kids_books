@@ -1,0 +1,9 @@
+title: Packing School Bags with Grandfather
+question_text:
+{user_name} has 6 notebooks. {grandfather_name} puts 2 notebooks into the schoolbag. How many notebooks remain outside the schoolbag?
+options:
+A) 5
+B) 4
+C) 3
+image_prompt:
+Show {user_name} packing a schoolbag with {grandfather_name}. Grandfather puts 2 notebooks from a group of 6 into the bag. Show exactly 4 notebooks outside and 2 inside the open schoolbag. No extra notebooks, text, letters, or numbers.

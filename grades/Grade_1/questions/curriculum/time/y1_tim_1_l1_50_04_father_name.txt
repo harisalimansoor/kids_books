@@ -1,0 +1,9 @@
+title: Getting Ready for Bed with Father
+question_text:
+{user_name} is helping {father_name} follow their bedtime routine. They put on their pyjamas before getting into bed at night. What do they do first?
+options:
+A) Get into bed
+B) Put on their pyjamas
+C) Eat breakfast
+image_prompt:
+Show {user_name} helping {father_name} get ready for bed. Clearly show putting on pyjamas before getting into bed. Include exactly two people and one bed. No text, letters, numbers, duplicate people or unnecessary objects.

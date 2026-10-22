@@ -1,0 +1,9 @@
+title: Measuring a Garden Hose with Mother
+question_text:
+{user_name} and {mother_name} are measuring a long garden hose. The hose is 3 metres long. Which unit is used to measure the length of the hose?
+options:
+A) Kilograms
+B) Litres
+C) Metres
+image_prompt:
+Show {user_name} and {mother_name} measuring exactly 1 garden hose with exactly 1 measuring tape placed along its length. No extra hoses, measuring tools, props, text, letters, or numbers.

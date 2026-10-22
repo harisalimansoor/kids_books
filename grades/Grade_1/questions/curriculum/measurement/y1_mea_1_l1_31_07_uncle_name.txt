@@ -1,0 +1,9 @@
+title: Measuring Toy Robots with Uncle
+question_text:
+{user_name} and {uncle_name} are comparing 2 toy robots. One robot is 12 cm tall, and the other is 15 cm tall. Which robot is taller?
+options:
+A) The robot that is 15 cm tall
+B) The robot that is 12 cm tall
+C) Both robots are the same height
+image_prompt:
+Show {user_name} and {uncle_name} comparing exactly 2 toy robots standing upright side by side. One robot must be clearly taller than the other. No extra robots, props, text, letters, or numbers.

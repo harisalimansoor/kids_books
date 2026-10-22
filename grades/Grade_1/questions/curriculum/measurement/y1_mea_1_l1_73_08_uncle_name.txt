@@ -1,0 +1,9 @@
+title: Weighing Watermelons with Uncle
+question_text:
+{user_name} and {uncle_name} are comparing 2 watermelons. One watermelon weighs 4 kilograms, and the other weighs 6 kilograms. Which watermelon is heavier?
+options:
+A) The watermelon that weighs 6 kilograms
+B) The watermelon that weighs 4 kilograms
+C) Both watermelons weigh the same
+image_prompt:
+Show {user_name} and {uncle_name} comparing exactly 2 watermelons on a suitable balance scale. The side with the heavier watermelon must be lower. No extra watermelons, scales, props, text, letters, or numbers.

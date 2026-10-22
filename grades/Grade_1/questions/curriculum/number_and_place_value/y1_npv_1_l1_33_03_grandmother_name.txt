@@ -1,0 +1,9 @@
+title: Packing Cupcakes with Grandmother
+question_text:
+{user_name} helps {grandmother_name} pack 3 groups of 10 cupcakes and 2 extra cupcakes. What number do the cupcakes show altogether?
+options:
+A) 32
+B) 23
+C) 30
+image_prompt:
+Show {user_name} and {grandmother_name} arranging exactly 32 cupcakes: 3 groups of 10 cupcakes each and 2 extra cupcakes. Keep all cupcakes visible and countable. No extra cupcakes, and no text, letters, or numbers.

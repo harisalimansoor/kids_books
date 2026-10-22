@@ -1,0 +1,9 @@
+title: Identifying Ones with Aunt
+question_text:
+{user_name} helps {aunt_name} represent 47 using bundles of sticks. What does the digit 7 represent in 47?
+options:
+A) 7 tens
+B) 4 ones
+C) 7 ones
+image_prompt:
+Show {user_name} and {aunt_name} arranging exactly 47 sticks: 4 bundles of 10 sticks each and 7 loose sticks. Keep all sticks visible and countable. No extra sticks or bundles, and no text, letters, or numbers.

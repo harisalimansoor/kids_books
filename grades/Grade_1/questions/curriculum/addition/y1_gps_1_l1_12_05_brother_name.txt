@@ -1,0 +1,9 @@
+title: Making Sandwiches with Brother
+question_text:
+{user_name} and {brother_name} are making sandwiches for a picnic. {user_name} makes 2 sandwiches, and {brother_name} makes 3 sandwiches. How many sandwiches did they make in total?
+options:
+A) 1
+B) 12
+C) 5
+image_prompt:
+Make 2 sandwiches in front of {user_name} and 3 sandwiches in front of {brother_name}.

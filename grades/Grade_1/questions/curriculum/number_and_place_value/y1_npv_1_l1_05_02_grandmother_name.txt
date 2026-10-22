@@ -1,0 +1,9 @@
+title: Finding the Number After with Grandmother
+question_text:
+{user_name} and {grandmother_name} count forward from 18. Which number comes just after 18?
+options:
+A) 17
+B) 20
+C) 19
+image_prompt:
+Show {user_name} and {grandmother_name} pointing at a row of exactly 3 blank counting cards. No printed numbers, letters, extra cards, or other text.

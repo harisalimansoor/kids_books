@@ -1,0 +1,9 @@
+title: Planting Flowers with Aunt
+question_text:
+{user_name} is helping {aunt_name} plant flowers. They plant 2 flowers in each of 3 small pots. How many flowers do they plant altogether?
+options:
+A) 5
+B) 6
+C) 3
+image_prompt:
+Show {user_name} and {aunt_name} planting exactly 3 small pots with exactly 2 flowers in each pot. Show exactly 6 flowers in total. No other flowers, text, letters, or numbers.

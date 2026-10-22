@@ -1,0 +1,9 @@
+title: Counting Beads with Uncle
+question_text:
+{user_name} helps {uncle_name} arrange 29 beads into 2 groups of 10 and 9 loose beads. How many ones are in 29?
+options:
+A) 2
+B) 9
+C) 29
+image_prompt:
+Show {user_name} and {uncle_name} arranging exactly 29 beads: 2 groups of 10 beads each and 9 loose beads. Keep every bead visible and countable. No extra beads, and no text, letters, or numbers.

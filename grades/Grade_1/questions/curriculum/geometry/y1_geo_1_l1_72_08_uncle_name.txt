@@ -1,0 +1,9 @@
+title: Choosing a Button with Uncle
+question_text:
+{user_name} is helping {uncle_name} choose a button for a coat. The button has a round outline with no corners. Which 2D shape matches the front of the button?
+options:
+A) Square
+B) Circle
+C) Triangle
+image_prompt:
+Show {user_name} helping {uncle_name} examine exactly 1 large, plain, round button. Make its front outline clearly circular, with no corners or straight sides. No extra buttons, coats, objects, props, text, letters, or numbers.

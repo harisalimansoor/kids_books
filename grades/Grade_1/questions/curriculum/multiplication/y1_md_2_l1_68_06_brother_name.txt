@@ -1,0 +1,9 @@
+title: Lighting a Puppet Show with Brother
+question_text:
+{user_name} helps {brother_name} prepare a puppet show. They set up 4 small spotlights on each of 2 stages. How many spotlights do they use altogether?
+options:
+A) 6
+B) 8
+C) 9
+image_prompt:
+Show {user_name} and {brother_name} preparing exactly 2 small puppet stages. Each stage must have exactly 4 separate, clearly visible spotlights. Show exactly 8 spotlights in total. No extra stages or spotlights, and no text, letters, or numbers.

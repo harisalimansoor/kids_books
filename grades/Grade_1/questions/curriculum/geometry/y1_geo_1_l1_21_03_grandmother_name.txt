@@ -1,0 +1,9 @@
+title: Making a Toy Boat with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} make a toy boat. They add 1 triangular sail to the boat. Which 2D shape is the sail?
+options:
+A) Circle
+B) Triangle
+C) Rectangle
+image_prompt:
+Show {user_name} helping {grandmother_name} make exactly 1 toy boat with exactly 1 clearly triangular sail. Make the sail's 3 straight sides and 3 corners easy to see. No extra boats, sails, objects, props, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Making Ribbon Bows with Aunt
+question_text:
+{user_name} ties 4 silk ribbon bows, and {aunt_name} ties 2 more. How many ribbon bows have they made altogether?
+options:
+A) 6
+B) 2
+C) 16
+image_prompt:
+Show {user_name} tying a silk ribbon into a bow while {aunt_name} arranges her finished bows on a craft table. Include EXACTLY 4 completed ribbon bows in the child's group and 2 in the sister's group, with no extra bows.

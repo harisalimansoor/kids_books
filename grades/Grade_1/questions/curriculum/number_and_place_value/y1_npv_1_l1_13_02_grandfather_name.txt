@@ -1,0 +1,9 @@
+title: Arranging Flowerpots with Grandfather
+question_text:
+{user_name} helps {grandfather_name} arrange 4 tens and 1 one using small flowerpots. Which number do they show?
+options:
+A) 14
+B) 41
+C) 40
+image_prompt:
+Show {user_name} and {grandfather_name} arranging exactly 41 small flowerpots: 4 groups of 10 pots each and 1 separate pot. Keep all pots visible and countable. No extra pots, and no text, letters, or numbers.

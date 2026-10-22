@@ -1,0 +1,9 @@
+title: Colouring a Butterfly with Father
+question_text:
+{user_name} is helping {father_name} colour a butterfly picture. They divide the butterfly into 2 equal parts and colour one part pink. What fraction of the butterfly is pink?
+options:
+A) One half
+B) One whole
+C) One quarter
+image_prompt:
+Show {user_name} helping {father_name} colour exactly one half of a single butterfly picture pink. Divide the butterfly into 2 equal-sized parts and leave one part uncoloured. No extra butterflies, objects, props, people, text, letters or numbers.

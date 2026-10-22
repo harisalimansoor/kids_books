@@ -1,0 +1,9 @@
+title: Posting a Letter with Aunt
+question_text:
+{user_name} is helping {aunt_name} prepare a letter for posting. They look at a closed envelope with 2 long sides and 2 short sides. Which 2D shape matches the envelope?
+options:
+A) Rectangle
+B) Circle
+C) Triangle
+image_prompt:
+Show {user_name} helping {aunt_name} hold exactly 1 plain closed rectangular envelope. Make its 2 longer sides and 2 shorter sides clearly visible. Do not show writing, stamps, or labels on the envelope. No extra envelopes, objects, props, text, letters, or numbers.

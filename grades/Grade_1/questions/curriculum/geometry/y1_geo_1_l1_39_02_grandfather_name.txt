@@ -1,0 +1,9 @@
+title: Placing a Doll with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} arrange a doll in front of a curtain. Where is the doll?
+options:
+A) Behind the curtain
+B) In front of the curtain
+C) Inside the curtain
+image_prompt:
+Show {user_name} helping {grandfather_name} position exactly 1 doll clearly in front of exactly 1 plain curtain. Keep the entire doll visible in front of the curtain. Do not hide any part of the doll behind the curtain. No extra dolls, objects, props, text, letters, or numbers.

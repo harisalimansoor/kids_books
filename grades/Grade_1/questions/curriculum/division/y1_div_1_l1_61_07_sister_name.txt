@@ -1,0 +1,9 @@
+title: Hanging Wind Chimes with Sister
+question_text:
+{user_name} and {sister_name} hang 6 wind chimes equally on 2 porch hooks. How many wind chimes will be on each hook?
+options:
+A) 3
+B) 4
+C) 2
+image_prompt:
+Show {user_name} and {sister_name} hanging exactly 6 wind chimes equally on 2 porch hooks, with exactly 3 wind chimes on each hook. No extra wind chimes, text, letters, or numbers.

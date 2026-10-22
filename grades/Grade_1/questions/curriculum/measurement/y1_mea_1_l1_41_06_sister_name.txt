@@ -1,0 +1,9 @@
+title: Comparing Toy Dinosaurs with Sister
+question_text:
+{user_name} and {sister_name} are comparing 2 toy dinosaurs. One dinosaur is 9 cm tall, and the other is 13 cm tall. Which dinosaur is taller?
+options:
+A) The dinosaur that is 9 cm tall
+B) The dinosaur that is 13 cm tall
+C) Both dinosaurs are the same height
+image_prompt:
+Show {user_name} and {sister_name} comparing exactly 2 toy dinosaurs standing upright side by side. One dinosaur must be visibly taller than the other. No extra dinosaurs, props, text, letters, or numbers.

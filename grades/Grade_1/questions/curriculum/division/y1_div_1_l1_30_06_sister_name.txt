@@ -1,0 +1,9 @@
+title: Organizing Umbrellas with Sister
+question_text:
+{user_name} and {sister_name} divide 6 umbrellas equally among 3 umbrella stands. How many umbrellas will be in each stand?
+options:
+A) 4
+B) 2
+C) 3
+image_prompt:
+Show {user_name} and {sister_name} placing exactly 6 umbrellas equally into 3 separate umbrella stands, with exactly 2 umbrellas in each stand. No extra umbrellas, text, letters, or numbers.

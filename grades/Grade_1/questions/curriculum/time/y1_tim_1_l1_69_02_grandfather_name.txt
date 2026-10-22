@@ -1,0 +1,9 @@
+title: Remembering Daily Activities with Grandfather
+question_text:
+{user_name} is helping {grandfather_name} remember their activities. They visited a farm yesterday, are baking muffins today and will go to the aquarium tomorrow. What are they doing today?
+options:
+A) Visiting a farm
+B) Baking muffins
+C) Going to the aquarium
+image_prompt:
+Show {user_name} helping {grandfather_name} look at exactly three picture cards in sequence. Show a farm visit on the first card, baking muffins on the second and an aquarium visit on the third. No text, letters, numbers or extra cards.

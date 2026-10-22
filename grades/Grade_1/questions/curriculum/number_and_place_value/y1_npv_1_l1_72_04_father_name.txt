@@ -1,0 +1,9 @@
+title: Bundling Ribbons with Father
+question_text:
+{user_name} helps {father_name} arrange 39 ribbons into 3 groups of 10 and 9 loose ribbons. How many tens are in 39?
+options:
+A) 9
+B) 3
+C) 39
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 39 ribbons: 3 separate bundles of 10 ribbons each and 9 loose ribbons. Keep all ribbons visible and countable. No extra ribbons or bundles, and no text, letters, or numbers.

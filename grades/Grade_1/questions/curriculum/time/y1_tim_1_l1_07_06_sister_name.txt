@@ -1,0 +1,9 @@
+title: Remembering Yesterday with Sister
+question_text:
+{user_name} is helping {sister_name} remember their daily activities. They visited the park yesterday, painted a picture today and will visit the library tomorrow. Which activity did they do yesterday?
+options:
+A) Painting a picture
+B) Visiting the library
+C) Visiting the park
+image_prompt:
+Show {user_name} helping {sister_name} look at exactly 3 picture cards in order. Show a park visit on the first card, painting on the second and a library visit on the third. No text, letters, numbers or extra cards.

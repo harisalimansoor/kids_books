@@ -1,0 +1,9 @@
+title: Building a Kite with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} build a kite. They attach the tail to the kite before taking it outside to fly. What do they do first?
+options:
+A) Attach the tail to the kite
+B) Fly the kite
+C) Bring the kite back inside
+image_prompt:
+Show {user_name} helping {grandmother_name} attach one tail to one kite before flying it outdoors. Include exactly one kite and its tail. No text, letters, numbers, duplicate objects or extra people.

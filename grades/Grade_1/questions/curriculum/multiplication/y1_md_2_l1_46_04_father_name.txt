@@ -1,0 +1,9 @@
+title: Sorting Marbles with Father
+question_text:
+{user_name} helps {father_name} sort marbles after a game. They put 2 marbles in each of 4 small trays. How many marbles do they sort altogether?
+options:
+A) 6
+B) 10
+C) 8
+image_prompt:
+Show {user_name} and {father_name} sorting marbles into exactly 4 small trays. Each tray must contain exactly 2 clearly visible marbles. Show exactly 8 marbles in total. No extra trays, marbles, text, letters, or numbers.

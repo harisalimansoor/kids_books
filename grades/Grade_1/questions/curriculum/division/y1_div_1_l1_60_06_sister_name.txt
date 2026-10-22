@@ -1,0 +1,9 @@
+title: Arranging Table Tennis Paddles with Sister
+question_text:
+{user_name} and {sister_name} arrange 4 table tennis paddles equally on 2 paddle stands. How many paddles will be on each stand?
+options:
+A) 3
+B) 1
+C) 2
+image_prompt:
+Show {user_name} and {sister_name} arranging exactly 4 table tennis paddles equally on 2 separate paddle stands, with exactly 2 paddles on each stand. No extra paddles, text, letters, or numbers.

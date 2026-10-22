@@ -1,0 +1,9 @@
+title: Displaying Music Boxes with Mother
+question_text:
+{user_name} and {mother_name} place 4 small music boxes equally on 2 display shelves. How many music boxes will be on each shelf?
+options:
+A) 3
+B) 1
+C) 2
+image_prompt:
+Show {user_name} and {mother_name} placing exactly 4 small music boxes equally on 2 separate display shelves, with exactly 2 music boxes on each shelf. No extra music boxes, text, letters, or numbers.

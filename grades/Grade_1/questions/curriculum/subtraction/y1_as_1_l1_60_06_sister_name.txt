@@ -1,0 +1,9 @@
+title: Playing a Mini Basketball Game with Sister
+question_text:
+{user_name} has 6 small basketballs. {sister_name} throws 2 balls into a mini basketball hoop. How many basketballs remain outside the hoop?
+options:
+A) 4
+B) 3
+C) 5
+image_prompt:
+Show {user_name} playing a mini basketball game with {sister_name}. Sister throws 2 balls into a basket from a group of 6. Show exactly 4 balls outside the basket and 2 inside. No extra balls, text, letters, or numbers.

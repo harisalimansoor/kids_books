@@ -1,0 +1,9 @@
+title: Collecting Acorns with Aunt
+question_text:
+Under an oak tree, {user_name} gathers 6 acorns, and {aunt_name} finds 3 more. How many acorns have they collected altogether?
+options:
+A) 3
+B) 18
+C) 9
+image_prompt:
+Show {user_name} searching among fallen leaves while {aunt_name} sorts collected acorns into a small basket. Include EXACTLY 6 acorns in the child's collection and 3 in the uncle's, with no additional acorns visible.

@@ -1,0 +1,9 @@
+title: Sweeping Leaves with Grandmother
+question_text:
+{user_name} sees 9 fallen leaves on a path. {grandmother_name} sweeps 4 leaves into a dustpan. How many leaves remain on the path?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} helping {grandmother_name} sweep a path. Show exactly 5 fallen leaves remaining on the path and 4 leaves inside the dustpan. No other visible fallen leaves, text, letters, or numbers.

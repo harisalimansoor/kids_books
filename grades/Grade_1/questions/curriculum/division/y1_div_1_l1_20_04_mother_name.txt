@@ -1,0 +1,9 @@
+title: Sharing Paper Pinwheels with Mother
+question_text:
+{user_name} and {mother_name} place 8 paper pinwheels equally into 2 garden holders. How many pinwheels will be in each holder?
+options:
+A) 3
+B) 4
+C) 2
+image_prompt:
+Show {user_name} and {mother_name} placing exactly 8 colourful paper pinwheels equally into 2 garden holders, with exactly 4 pinwheels in each holder. No extra pinwheels, props, text, letters, or numbers.

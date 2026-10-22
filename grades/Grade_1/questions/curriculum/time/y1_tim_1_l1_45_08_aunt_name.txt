@@ -1,0 +1,9 @@
+title: Reading Two O'Clock with Aunt
+question_text:
+{user_name} is helping {aunt_name} read an analogue clock before their art activity. They see the minute hand pointing to 12 and the hour hand pointing to 2. What time does the clock show?
+options:
+A) 12 o'clock
+B) 5 o'clock
+C) 2 o'clock
+image_prompt:
+Show {user_name} helping {aunt_name} read exactly one analogue clock. The minute hand points straight up, and the shorter hour hand points directly to 2. No numerals, text, letters, extra hands or extra clocks.

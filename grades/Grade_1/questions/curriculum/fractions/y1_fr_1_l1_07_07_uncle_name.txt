@@ -1,0 +1,9 @@
+title: Planting Flowers with Uncle
+question_text:
+{user_name} is helping {uncle_name} plant flowers in a garden bed. They divide one rectangular flower bed into 2 equal sections and plant 3 flowers in one section. What fraction of the flower bed has flowers?
+options:
+A) One whole
+B) One quarter
+C) One half
+image_prompt:
+Show {user_name} helping {uncle_name} plant exactly 3 flowers in one section of a single rectangular flower bed divided into 2 equal-sized sections. Leave the other section empty. No extra flowers, plants, objects, props, people, text, letters or numbers.

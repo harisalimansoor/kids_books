@@ -1,0 +1,9 @@
+title: Comparing Triangle Shapes with Father
+question_text:
+{user_name} is helping {father_name} compare two triangular decorations. One is small and points up, while the other is large and points sideways. What 2D shape are both decorations?
+options:
+A) Triangle
+B) Circle
+C) Rectangle
+image_prompt:
+Show {user_name} helping {father_name} compare exactly 2 triangular decorations: 1 small triangle pointing up and 1 larger triangle pointing sideways. Both must have exactly 3 straight sides and 3 corners. No extra shapes, objects, props, text, letters, or numbers.

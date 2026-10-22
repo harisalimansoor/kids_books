@@ -1,0 +1,9 @@
+title: Making a Kite Flag with Aunt
+question_text:
+{user_name} is helping {aunt_name} make a small paper flag for a kite. The flag has 3 straight sides and 3 corners. Which 2D shape is the flag?
+options:
+A) Circle
+B) Triangle
+C) Rectangle
+image_prompt:
+Show {user_name} helping {aunt_name} make exactly 1 small triangular paper flag for a kite. Make its 3 straight sides and 3 corners clearly visible. Show only 1 flag and no extra kites or flags. No extra objects, props, text, letters, or numbers.

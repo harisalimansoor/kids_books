@@ -1,0 +1,9 @@
+title: Measuring Soup with Aunt
+question_text:
+{user_name} and {aunt_name} are measuring soup for lunch. They want to find how many litres of soup a large container can hold. Which tool should they use?
+options:
+A) A ruler
+B) A measuring jug
+C) A weighing scale
+image_prompt:
+Show {user_name} and {aunt_name} using exactly 1 measuring jug to measure soup from exactly 1 large soup pot. No extra jugs, pots, measuring tools, props, text, letters, or numbers.

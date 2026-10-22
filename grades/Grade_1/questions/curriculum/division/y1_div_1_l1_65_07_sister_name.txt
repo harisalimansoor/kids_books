@@ -1,0 +1,9 @@
+title: Arranging Road Safety Signs with Sister
+question_text:
+{user_name} and {sister_name} place 9 plain road safety signs equally at 3 practice stations. How many signs will be at each station?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {sister_name} placing exactly 9 plain road safety signs equally at 3 separate practice stations, with exactly 3 signs at each station. Signs must be blank, with no writing, letters, or numbers. No extra signs or props.

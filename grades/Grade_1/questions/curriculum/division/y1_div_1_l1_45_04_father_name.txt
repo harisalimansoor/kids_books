@@ -1,0 +1,9 @@
+title: Caring for Toy Turtles with Father
+question_text:
+{user_name} and {father_name} distribute 9 toy turtles equally among 3 pretend habitats. How many toy turtles will be in each habitat?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {father_name} placing exactly 9 toy turtles equally among 3 separate pretend habitats, with exactly 3 turtles in each habitat. No extra turtles, animals, text, letters, or numbers.

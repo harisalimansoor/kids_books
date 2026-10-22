@@ -1,0 +1,9 @@
+title: Making Paper Windmills with Grandmother
+question_text:
+{user_name} and {grandmother_name} make paper windmills. They make 3 windmills each on 2 tables. How many windmills do they make altogether?
+options:
+A) 5
+B) 6
+C) 9
+image_prompt:
+Show {user_name} and {grandmother_name} making exactly 2 groups of 3 paper windmills, with each group on one table. Show exactly 6 windmills in total. No extra windmills, tables, text, letters, or numbers.

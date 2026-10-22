@@ -1,0 +1,9 @@
+title: Playing Frisbee with Uncle
+question_text:
+At the park, {user_name} brings 2 frisbees for a game, and {uncle_name} brings 2 more. How many frisbees do they have altogether?
+options:
+A) 10
+B) 4
+C) 0
+image_prompt:
+Show {user_name} preparing to throw a frisbee while {uncle_name} gets ready to catch it. Include EXACTLY 2 colorful frisbees with the child and 2 with the brother, for 4 clearly visible discs in total.

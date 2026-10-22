@@ -1,0 +1,9 @@
+title: Packing Earmuffs with Brother
+question_text:
+{user_name} and {brother_name} pack 8 pairs of earmuffs equally into 2 winter storage baskets. How many pairs of earmuffs will be in each basket?
+options:
+A) 2 pairs
+B) 3 pairs
+C) 4 pairs
+image_prompt:
+Show {user_name} and {brother_name} packing exactly 8 pairs of earmuffs equally into 2 winter storage baskets, with exactly 4 pairs in each basket. No extra earmuffs, text, letters, or numbers.

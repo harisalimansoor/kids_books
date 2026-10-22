@@ -1,0 +1,9 @@
+title: Exploring Nature with Sister
+question_text:
+{user_name} and {sister_name} distribute 8 butterfly nets equally between 2 nature exploration groups. How many butterfly nets will each group receive?
+options:
+A) 3
+B) 4
+C) 2
+image_prompt:
+Show {user_name} and {sister_name} dividing exactly 8 butterfly nets equally between 2 clearly separated nature exploration groups, with exactly 4 nets in each group. No extra nets, text, letters, or numbers.

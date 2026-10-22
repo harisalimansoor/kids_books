@@ -1,0 +1,9 @@
+title: Decorating Cupcakes with Uncle
+question_text:
+{user_name} helps {uncle_name} decorate cupcakes. They put 2 candles on each of 3 cupcakes. How many candles do they use altogether?
+options:
+A) 6
+B) 5
+C) 9
+image_prompt:
+Show {user_name} and {uncle_name} decorating exactly 3 cupcakes, with exactly 2 candles on each cupcake. Show exactly 6 candles in total. No extra cupcakes, candles, text, letters, or numbers.

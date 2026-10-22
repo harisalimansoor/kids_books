@@ -1,0 +1,9 @@
+title: Folding Paper Stars with Uncle
+question_text:
+{user_name} folds 5 paper stars for decorations, while {uncle_name} folds 4 more. How many paper stars have they folded altogether?
+options:
+A) 1
+B) 19
+C) 9
+image_prompt:
+Show {user_name} folding colorful paper at a craft table while {uncle_name} arranges her finished origami stars. Include EXACTLY 5 completed paper stars in the child's group and 4 in the sister's group, with no extra stars.

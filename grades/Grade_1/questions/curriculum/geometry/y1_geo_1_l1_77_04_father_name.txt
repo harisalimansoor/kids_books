@@ -1,0 +1,9 @@
+title: Making a Pyramid Pendant with Father
+question_text:
+{user_name} is helping {father_name} make a solid pyramid pendant. The pendant has a square base and triangular faces that meet at one point. Which 3D shape is the pendant?
+options:
+A) Cube
+B) Sphere
+C) Pyramid
+image_prompt:
+Show {user_name} helping {father_name} examine exactly 1 solid square-based pyramid pendant. Make its square base and 4 triangular faces meeting at one pointed top clearly visible. No extra pendants, jewellery, objects, props, text, letters, or numbers.

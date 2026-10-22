@@ -1,0 +1,9 @@
+title: Comparing Knitting Needles with Brother
+question_text:
+{user_name} helps {brother_name} compare 26 knitting needles in one box and 19 in another. Which box has fewer needles?
+options:
+A) The box with 26 needles
+B) The box with 19 needles
+C) Both boxes have the same number
+image_prompt:
+Show {user_name} and {brother_name} comparing exactly 2 boxes. One box contains exactly 26 knitting needles, and the other contains exactly 19. Keep every needle visible and countable. No extra boxes or needles, and no text, letters, or numbers.

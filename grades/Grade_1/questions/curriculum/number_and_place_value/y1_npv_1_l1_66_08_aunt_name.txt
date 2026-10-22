@@ -1,0 +1,9 @@
+title: Comparing Shell Collections with Aunt
+question_text:
+{user_name} and {aunt_name} compare 39 seashells in one collection and 29 seashells in another. Which collection has more seashells?
+options:
+A) The collection with 29 seashells
+B) Both collections have the same number
+C) The collection with 39 seashells
+image_prompt:
+Show {user_name} and {aunt_name} comparing exactly 2 separate seashell collections. One contains exactly 39 seashells, and the other contains exactly 29 seashells. Keep every shell visible and countable. No extra shells or containers, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Sharing Watermelon with Mother
+question_text:
+{user_name} is helping {mother_name} prepare a watermelon for a picnic. They cut one watermelon into 4 equal slices. What fraction of the watermelon is one slice?
+options:
+A) One half
+B) One whole
+C) One quarter
+image_prompt:
+Show {user_name} helping {mother_name} prepare exactly one watermelon cut into 4 equal-sized slices. Make all 4 slices visibly equal. No additional watermelons, fruit, objects, props or people. No text, letters or numbers.

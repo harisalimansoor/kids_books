@@ -1,0 +1,9 @@
+title: Spinning a Toy Car with Uncle
+question_text:
+{user_name} is helping {uncle_name} play with a toy car on a turntable. The car starts facing right. {uncle_name} turns it one whole turn clockwise. Which direction does the car face at the end?
+options:
+A) Left
+B) Up
+C) Right
+image_prompt:
+Show {user_name} helping {uncle_name} observe exactly 1 toy car on exactly 1 simple round turntable. Show the car facing right and a single curved clockwise arrow making one complete circle around the turntable to represent a whole turn. The car's final direction must be the same as its starting direction: right. Do not duplicate the car. No extra objects, props, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Comparing Stamp Collections with Sister
+question_text:
+{user_name} and {sister_name} compare 24 stamps in one collection and 42 stamps in another. Which collection has fewer stamps?
+options:
+A) The collection with 42 stamps
+B) The collection with 24 stamps
+C) Both collections have the same number
+image_prompt:
+Show {user_name} and {sister_name} comparing exactly 2 separate stamp collections. One contains exactly 24 stamps, and the other contains exactly 42 stamps. Keep every stamp visible and countable. No extra stamps or albums, and no text, letters, or numbers.

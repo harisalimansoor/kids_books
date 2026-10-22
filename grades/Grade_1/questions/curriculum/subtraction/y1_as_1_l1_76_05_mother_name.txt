@@ -1,0 +1,9 @@
+title: Making a Mosaic with Mother
+question_text:
+{user_name} has 7 colored mosaic tiles. {mother_name} places 3 tiles onto a small art board. How many tiles remain unused?
+options:
+A) 4
+B) 3
+C) 5
+image_prompt:
+Show {user_name} making a mosaic with {mother_name}. Mother places 3 tiles from a group of 7 onto an art board. Show exactly 4 loose tiles and 3 attached to the board. No extra tiles, text, letters, or numbers.

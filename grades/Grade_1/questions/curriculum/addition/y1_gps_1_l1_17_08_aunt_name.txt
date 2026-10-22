@@ -1,0 +1,9 @@
+title: Blowing Bubbles with Aunt
+question_text:
+{user_name} and {aunt_name} are blowing soap bubbles in the yard. {user_name} blows 3 bubbles, and {aunt_name} blows 3 bubbles. How many bubbles did they blow in total?
+options:
+A) 0
+B) 11
+C) 6
+image_prompt:
+Make 3 soap bubbles in front of {user_name} and 3 soap bubbles in front of {aunt_name}.

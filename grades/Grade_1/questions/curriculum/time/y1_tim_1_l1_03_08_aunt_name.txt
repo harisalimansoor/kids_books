@@ -1,0 +1,9 @@
+title: Planting Seeds with Aunt
+question_text:
+{user_name} is helping {aunt_name} plant seeds in a pot. They put soil in the pot before adding a seed. What do they do first?
+options:
+A) Add a seed
+B) Put soil in the pot
+C) Water the plant
+image_prompt:
+Show {user_name} helping {aunt_name} plant one seed in one pot. Clearly show soil being added before the seed. No extra pots, people, text, letters or numbers.

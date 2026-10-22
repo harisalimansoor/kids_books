@@ -1,0 +1,9 @@
+title: Harvesting Plums with Sister
+question_text:
+During the plum harvest, {user_name} sorts 6 ripe plums into a basket, and {sister_name} gathers 3 into another. How many plums have they collected in total?
+options:
+A) 3
+B) 18
+C) 9
+image_prompt:
+Illustrate a peaceful plum-harvesting scene beside a rustic outdoor worktable. {user_name} kneels beside a shallow harvest basket, carefully arranging the collected fruit, while {sister_name} sits nearby sorting her smaller harvest. The child's basket must contain EXACTLY 6 whole, ripe purple plums. Sister's separate basket must contain EXACTLY 3 whole, ripe purple plums. Every plum must be individually recognizable, with a natural oval shape, rich purple skin, and enough spacing to count it clearly. Avoid piling the fruit too high or allowing one plum to hide another. The characters should appear focused on sorting the harvest, with natural body positions and relaxed expressions. Wooden baskets, green leaves, and a simple countryside backdrop may be included, but do not show additional plums on trees, on the ground, on the table, or in either person's hands. The only visible plums must be the six in the first basket and the three in the second. No text, letters, numbers, labels, or written answers.

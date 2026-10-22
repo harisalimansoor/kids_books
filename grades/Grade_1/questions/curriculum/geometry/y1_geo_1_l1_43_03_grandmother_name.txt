@@ -1,0 +1,9 @@
+title: Building a Toy Train with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} attach a carriage to a toy train. The carriage has rectangular faces and is longer than it is tall. Which 3D shape does the carriage look like?
+options:
+A) Sphere
+B) Cuboid
+C) Cube
+image_prompt:
+Show {user_name} helping {grandmother_name} assemble exactly 1 toy train made of 1 engine and 1 carriage. Make the carriage clearly cuboid-shaped, with flat rectangular faces and a longer-than-tall body. No extra carriages, engines, objects, props, text, letters, or numbers.

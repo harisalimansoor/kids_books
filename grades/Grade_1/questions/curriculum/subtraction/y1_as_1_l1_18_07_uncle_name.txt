@@ -1,0 +1,9 @@
+title: Washing Toy Plates with Uncle
+question_text:
+{user_name} has 6 toy plates. {uncle_name} washes 2 plates and puts them away. How many toy plates are still waiting to be washed?
+options:
+A) 5
+B) 3
+C) 4
+image_prompt:
+Show {user_name} washing toy plates with {uncle_name}. Uncle puts 2 washed plates away. Show exactly 4 plates waiting to be washed and 2 clean plates in a separate cupboard. No extra plates, text, letters, or numbers.

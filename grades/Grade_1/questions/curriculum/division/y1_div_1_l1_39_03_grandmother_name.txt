@@ -1,0 +1,9 @@
+title: Setting Up Microscopes with Grandmother
+question_text:
+{user_name} and {grandmother_name} place 4 toy microscopes equally on 2 science tables. How many microscopes will be on each table?
+options:
+A) 1
+B) 2
+C) 3
+image_prompt:
+Show {user_name} and {grandmother_name} placing exactly 4 toy microscopes equally on 2 separate science tables, with exactly 2 microscopes on each table. No extra microscopes, text, letters, or numbers.

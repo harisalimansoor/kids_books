@@ -1,0 +1,9 @@
+title: Ordering Number Cards with Grandmother
+question_text:
+{user_name} helps {grandmother_name} arrange three numbers from smallest to largest. Which number should come first: 16, 9, or 21?
+options:
+A) 21
+B) 16
+C) 9
+image_prompt:
+Show {user_name} and {grandmother_name} arranging exactly 3 blank cards from left to right. No printed numbers, letters, extra cards, or other text.

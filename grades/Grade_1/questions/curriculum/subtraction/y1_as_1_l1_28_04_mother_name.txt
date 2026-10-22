@@ -1,0 +1,9 @@
+title: Catching Butterflies with Mother
+question_text:
+{user_name} sees 6 butterflies in a garden. {mother_name} watches as 2 butterflies fly away. How many butterflies remain in the garden?
+options:
+A) 5
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {mother_name} watching butterflies in a garden. Show exactly 4 butterflies remaining near the flowers and 2 flying away. No additional butterflies, text, letters, or numbers.

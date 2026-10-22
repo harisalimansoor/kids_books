@@ -1,0 +1,9 @@
+title: Sharing Crayons with Aunt
+question_text:
+{user_name} is helping {aunt_name} organise crayons for drawing. They divide 4 crayons equally between 4 children’s drawing spaces, with 1 crayon in each space. What fraction of all the crayons is in one space?
+options:
+A) One quarter
+B) One half
+C) One whole
+image_prompt:
+Show {user_name} helping {aunt_name} organise exactly 4 crayons into 4 separate, equal spaces, with exactly 1 crayon in each space. No additional crayons, spaces, objects, props or people. No text, letters or numbers.

@@ -1,0 +1,9 @@
+title: Following an Evening Routine with Aunt
+question_text:
+{user_name} is helping {aunt_name} follow an evening routine. They eat dinner in the evening and go to bed at night. Which activity happens later?
+options:
+A) Eating dinner
+B) Going to bed
+C) Eating breakfast
+image_prompt:
+Show {user_name} helping {aunt_name} follow two activities in order: eating dinner in the evening, followed by going to bed at night. Show a dinner table in the first scene and a bed in the second. No text, letters, numbers or extra objects.

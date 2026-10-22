@@ -1,0 +1,9 @@
+title: Recognizing Number Names with Grandfather
+question_text:
+{user_name} and {grandfather_name} identify the number 24. Which number name matches 24?
+options:
+A) Forty-two
+B) Twenty-four
+C) Twenty-nine
+image_prompt:
+Show {user_name} and {grandfather_name} arranging exactly 24 smooth stones: 2 groups of 10 stones each and 4 loose stones. Keep every stone visible and countable. No extra stones, and no text, letters, or numbers.

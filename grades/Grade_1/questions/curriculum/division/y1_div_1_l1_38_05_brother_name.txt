@@ -1,0 +1,9 @@
+title: Displaying Paper Fans with Brother
+question_text:
+{user_name} and {brother_name} divide 8 paper fans equally between 2 display baskets. How many paper fans will be in each basket?
+options:
+A) 3
+B) 2
+C) 4
+image_prompt:
+Show {user_name} and {brother_name} placing exactly 8 colourful paper fans equally into 2 display baskets, with exactly 4 fans in each basket. No extra fans, text, letters, or numbers.

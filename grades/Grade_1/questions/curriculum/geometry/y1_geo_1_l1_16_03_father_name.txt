@@ -1,0 +1,9 @@
+title: Preparing Tea with Father
+question_text:
+{user_name} is helping {father_name} prepare tea. They look at 1 sugar cube with 6 equal square faces. Which 3D shape is the sugar cube?
+options:
+A) Sphere
+B) Cube
+C) Pyramid
+image_prompt:
+Show {user_name} helping {father_name} examine exactly 1 solid sugar cube. Make its 6 equal square faces, straight edges and corners clearly visible. Show no other sugar cubes or food items. No extra objects, props, text, letters, or numbers.

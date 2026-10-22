@@ -1,0 +1,9 @@
+title: Measuring a Glue Stick with Sister
+question_text:
+{user_name} and {sister_name} want to measure the length of a glue stick in centimetres. Which tool should they use?
+options:
+A) A ruler
+B) A weighing scale
+C) A measuring jug
+image_prompt:
+Show {user_name} and {sister_name} measuring exactly 1 glue stick with exactly 1 ruler placed straight beside it. No extra glue sticks, rulers, tools, props, text, letters, or numbers.

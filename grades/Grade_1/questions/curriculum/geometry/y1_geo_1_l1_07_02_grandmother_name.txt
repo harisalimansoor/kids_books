@@ -1,0 +1,9 @@
+title: Packing a Parcel with Grandmother
+question_text:
+{user_name} is helping {grandmother_name} pack a parcel. They have 1 box with rectangular faces that is longer than it is wide. Which 3D shape matches the parcel?
+options:
+A) Sphere
+B) Cuboid
+C) Cube
+image_prompt:
+Show {user_name} helping {grandmother_name} examine exactly 1 plain rectangular parcel shaped like a cuboid. Make its rectangular faces and longer-than-wide shape clearly visible. No extra parcels, objects, props, labels, text, letters, or numbers.

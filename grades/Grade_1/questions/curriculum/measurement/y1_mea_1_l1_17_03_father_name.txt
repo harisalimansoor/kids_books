@@ -1,0 +1,9 @@
+title: Measuring a Child's Height with Father
+question_text:
+{user_name} and {father_name} are checking {user_name}'s height against a height chart. Where should {user_name} stand to measure their height correctly?
+options:
+A) Lying on the floor
+B) Standing straight against the height chart
+C) Sitting on a chair
+image_prompt:
+Show {user_name} standing straight beside a height chart while {father_name} checks the child's height. Include exactly 1 child and 1 grandmother. No extra people, measuring tools, props, text, letters, or numbers.

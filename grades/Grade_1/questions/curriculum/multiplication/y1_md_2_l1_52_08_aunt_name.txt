@@ -1,0 +1,9 @@
+title: Making Paper Fans with Aunt
+question_text:
+{user_name} and {aunt_name} make paper fans. Each of 2 fans has 4 visible supporting sticks. How many supporting sticks do the fans have altogether?
+options:
+A) 6
+B) 8
+C) 4
+image_prompt:
+Show {user_name} and {aunt_name} making exactly 2 paper fans. Each fan must have exactly 4 clearly visible supporting sticks. Show exactly 8 sticks in total. No extra fans or sticks, and no text, letters, or numbers.

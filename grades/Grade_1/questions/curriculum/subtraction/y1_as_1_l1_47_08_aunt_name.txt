@@ -1,0 +1,9 @@
+title: Making Shadow Puppets with Aunt
+question_text:
+{user_name} makes 7 animal shadow puppets from paper. {aunt_name} puts 3 puppets away. How many puppets remain on the table?
+options:
+A) 5
+B) 4
+C) 3
+image_prompt:
+Show {user_name} making paper animal shadow puppets with {aunt_name}. Aunt puts 3 puppets from a group of 7 into a storage box. Show exactly 4 puppets on the table and 3 inside the box. No extra puppets, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Choosing Fishing Rods with Uncle
+question_text:
+{user_name} and {uncle_name} are comparing 2 fishing rods. One fishing rod is longer than the other. Which fishing rod is shorter?
+options:
+A) The longer fishing rod
+B) The shorter fishing rod
+C) Both fishing rods are the same length
+image_prompt:
+Show {user_name} and {uncle_name} comparing exactly 2 fishing rods placed side by side, with one clearly shorter than the other. No extra fishing rods, props, text, letters, or numbers.

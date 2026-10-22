@@ -1,0 +1,9 @@
+title: Choosing a Storybook with Father
+question_text:
+{user_name} is helping {father_name} choose a storybook. They look at the front cover of 1 closed book. Which 2D shape matches the front cover?
+options:
+A) Circle
+B) Triangle
+C) Rectangle
+image_prompt:
+Show {user_name} helping {father_name} look at exactly 1 closed storybook with a clearly rectangular front cover. Keep the cover plain and unmarked. No extra books, objects, props, text, letters, or numbers.

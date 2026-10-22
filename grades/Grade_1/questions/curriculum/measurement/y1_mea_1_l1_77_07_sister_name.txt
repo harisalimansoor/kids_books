@@ -1,0 +1,9 @@
+title: Comparing Paint Cans with Sister
+question_text:
+{user_name} and {sister_name} are comparing 2 paint cans. One can weighs 1 kilogram, and the other weighs 3 kilograms. Which can is lighter?
+options:
+A) The can that weighs 1 kilogram
+B) The can that weighs 3 kilograms
+C) Both cans weigh the same
+image_prompt:
+Show {user_name} and {sister_name} comparing exactly 2 paint cans on a suitable balance scale. The side with the heavier can must be lower. No extra cans, scales, props, text, letters, or numbers.

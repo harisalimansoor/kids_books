@@ -1,0 +1,9 @@
+title: Planning a Weekend Trip with Brother
+question_text:
+{user_name} is helping {brother_name} plan a weekend trip. They plan to go cycling on Saturday and visit a farm the next day. Which day will they visit the farm?
+options:
+A) Friday
+B) Sunday
+C) Monday
+image_prompt:
+Show {user_name} helping {brother_name} plan two activities in order: cycling on the first day and visiting a farm the next day. Include exactly two people. No text, letters, numbers, extra people or unnecessary objects.

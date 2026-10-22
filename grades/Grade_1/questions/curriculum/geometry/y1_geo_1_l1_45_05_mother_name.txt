@@ -1,0 +1,9 @@
+title: Exploring a Model Planet with Mother
+question_text:
+{user_name} is helping {mother_name} explore a model planet. The model is round all over and has no corners or straight edges. Which 3D shape does the model planet match?
+options:
+A) Cuboid
+B) Cube
+C) Sphere
+image_prompt:
+Show {user_name} helping {mother_name} examine exactly 1 plain spherical model planet. Make it round all over, with a smooth curved surface and no corners or straight edges. Do not add rings, extra planets or other space objects. No text, letters, or numbers.

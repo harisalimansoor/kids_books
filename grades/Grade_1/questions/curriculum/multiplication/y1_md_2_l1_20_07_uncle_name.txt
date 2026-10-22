@@ -1,0 +1,9 @@
+title: Playing Toy Drums with Uncle
+question_text:
+{user_name} helps {uncle_name} prepare toy drums for a music game. They place 2 drumsticks beside each of 3 toy drums. How many drumsticks do they place altogether?
+options:
+A) 9
+B) 4
+C) 6
+image_prompt:
+Show {user_name} and {uncle_name} preparing exactly 3 toy drums. Place exactly 2 separate drumsticks beside each drum. Show exactly 6 drumsticks in total. No extra drums or drumsticks, and no text, letters, or numbers.

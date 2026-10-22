@@ -1,0 +1,9 @@
+title: Painting Pots with Grandmother
+question_text:
+{user_name} has 9 flowerpots to paint. {grandmother_name} finishes painting 4 pots. How many pots are still unpainted?
+options:
+A) 5
+B) 4
+C) 6
+image_prompt:
+Show {user_name} painting flowerpots with {grandmother_name}. Grandmother paints 4 pots from a group of 9. Show exactly 5 unpainted pots and 4 painted pots. No extra pots, text, letters, or numbers.

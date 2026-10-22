@@ -1,0 +1,9 @@
+title: Playing with Toy Trains and Mother
+question_text:
+{user_name} has 9 toy train carriages. {mother_name} removes 3 carriages from the train. How many carriages remain connected to the train?
+options:
+A) 6
+B) 5
+C) 7
+image_prompt:
+Show {user_name} playing with a toy train while {mother_name} disconnects 3 carriages. Show exactly 6 carriages connected to the train and 3 separate carriages beside the track. No extra carriages, text, letters, or numbers.

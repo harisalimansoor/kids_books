@@ -1,0 +1,9 @@
+title: Displaying Award Medals with Aunt
+question_text:
+{user_name} and {aunt_name} arrange 6 award medals equally on 3 display hooks. How many medals will be on each hook?
+options:
+A) 2
+B) 4
+C) 3
+image_prompt:
+Show {user_name} and {aunt_name} hanging exactly 6 plain award medals equally on 3 separate display hooks, with exactly 2 medals on each hook. No extra medals, writing, text, letters, or numbers.

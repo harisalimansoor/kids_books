@@ -1,0 +1,9 @@
+title: Packing a Picnic Bag with Sister
+question_text:
+{user_name} is helping {sister_name} pack a picnic bag. They put sandwiches in the bag before adding a bottle of water. What do they pack first?
+options:
+A) The bottle of water
+B) The sandwiches
+C) A blanket
+image_prompt:
+Show {user_name} helping {sister_name} pack sandwiches into one picnic bag before adding one bottle of water. Clearly show the sandwiches going in first. No extra food, bottles, text, letters or numbers.

@@ -1,0 +1,9 @@
+title: Matching Number Names with Grandmother
+question_text:
+{user_name} helps {grandmother_name} identify the number 28. Which number name matches 28?
+options:
+A) Eighty-two
+B) Twenty-eight
+C) Twenty-three
+image_prompt:
+Show {user_name} and {grandmother_name} counting exactly 28 small stones arranged in 2 groups of 10 and 8 loose stones. Keep all stones visible and countable. No extra stones, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Playing a Beanbag Toss with Father
+question_text:
+{user_name} has 7 beanbags. {father_name} throws 3 beanbags into a target bucket. How many beanbags remain outside the bucket?
+options:
+A) 4
+B) 5
+C) 3
+image_prompt:
+Show {user_name} playing a beanbag toss game with {father_name}. Father throws 3 beanbags into a target bucket from a group of 7. Show exactly 4 beanbags outside and 3 inside the bucket. No extra beanbags, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Putting a Scarf in a Wardrobe with Brother
+question_text:
+{user_name} is helping {brother_name} tidy the bedroom. They place 1 scarf completely inside an open wardrobe. Where is the scarf?
+options:
+A) Outside the wardrobe
+B) Inside the wardrobe
+C) Above the wardrobe
+image_prompt:
+Show {user_name} helping {brother_name} place exactly 1 scarf completely inside exactly 1 open wardrobe. Keep the whole scarf visible inside the wardrobe and away from its outer edges. No extra scarves, wardrobes, clothes, objects, props, text, letters, or numbers.

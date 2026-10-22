@@ -1,0 +1,9 @@
+title: Playing with Toy Boats and Grandfather
+question_text:
+{user_name} has 8 toy boats in a water tub. {grandfather_name} removes 3 boats from the tub. How many toy boats remain in the tub?
+options:
+A) 4
+B) 6
+C) 5
+image_prompt:
+Show {user_name} playing with toy boats in a water tub while {grandfather_name} removes 3 boats. Show exactly 5 boats remaining in the tub and 3 outside it. No extra boats, text, letters, or numbers.

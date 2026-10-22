@@ -1,0 +1,9 @@
+title: Laying Stepping Stones with Sister
+question_text:
+{user_name} helps {sister_name} make two small garden paths. They lay 4 stepping stones on each path. How many stepping stones do they use altogether?
+options:
+A) 7
+B) 8
+C) 6
+image_prompt:
+Show {user_name} and {sister_name} making exactly 2 short garden paths. Each path must contain exactly 4 clearly separated stepping stones. Show exactly 8 stepping stones in total. No extra stepping stones, text, letters, or numbers.

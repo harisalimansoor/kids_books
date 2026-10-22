@@ -1,0 +1,9 @@
+title: Organizing Walkie-Talkies with Uncle
+question_text:
+{user_name} and {uncle_name} share 6 walkie-talkies equally among 3 communication stations. How many walkie-talkies will be at each station?
+options:
+A) 3
+B) 2
+C) 4
+image_prompt:
+Show {user_name} and {uncle_name} placing exactly 6 walkie-talkies equally among 3 separate communication stations, with exactly 2 walkie-talkies at each station. No extra walkie-talkies, text, letters, or numbers.

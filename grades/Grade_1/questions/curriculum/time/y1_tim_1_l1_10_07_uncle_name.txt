@@ -1,0 +1,9 @@
+title: Evening Routine with Uncle
+question_text:
+{user_name} is helping {uncle_name} follow an evening routine. They eat dinner in the evening and go to bed later at night. Which activity happens later?
+options:
+A) Eating dinner
+B) Eating breakfast
+C) Going to bed
+image_prompt:
+Show {user_name} helping {uncle_name} understand two activities in order: eating dinner in the evening, followed by going to bed at night. Use a setting sun in the first scene and a moonlit window in the second. No text, letters, numbers or extra objects.

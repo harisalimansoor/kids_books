@@ -1,0 +1,9 @@
+title: Making Paper Hearts with Father
+question_text:
+{user_name} helps {father_name} arrange 27 paper hearts into 2 groups of 10 and 7 separate hearts. How many ones are in 27?
+options:
+A) 2
+B) 27
+C) 7
+image_prompt:
+Show {user_name} and {father_name} arranging exactly 27 paper hearts: 2 groups of 10 hearts each and 7 separate hearts. Keep all hearts visible and countable. No extra hearts, and no text, letters, or numbers.

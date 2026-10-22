@@ -1,0 +1,9 @@
+title: Making a Necklace with Father
+question_text:
+{user_name} is helping {father_name} make a necklace. They choose 1 round bead that is curved all over and has no corners or straight edges. Which 3D shape does the bead match?
+options:
+A) Cuboid
+B) Cube
+C) Sphere
+image_prompt:
+Show {user_name} helping {father_name} examine exactly 1 large, round bead beside exactly 1 plain necklace string. Make the bead clearly spherical, with a curved surface and no corners or straight edges. Do not show any other beads. No extra objects, props, decorations, text, letters, or numbers.

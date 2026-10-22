@@ -1,0 +1,9 @@
+title: Coloring Pictures with Father
+question_text:
+{user_name} has 8 crayons. {father_name} takes 3 crayons to color her own picture. How many crayons remain with {user_name}?
+options:
+A) 6
+B) 5
+C) 4
+image_prompt:
+Show {user_name} coloring a picture with {father_name}. Father takes 3 crayons from a group of 8. Show exactly 5 crayons with the child and 3 with Father. No extra crayons, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Making Fairy Gardens with Uncle
+question_text:
+{user_name} and {uncle_name} make a tiny fairy garden. They place 2 decorative mushrooms in each of 4 small garden patches. How many mushrooms do they place altogether?
+options:
+A) 6
+B) 8
+C) 9
+image_prompt:
+Show {user_name} and {uncle_name} decorating exactly 4 separate small garden patches. Each patch must contain exactly 2 decorative mushrooms. Show exactly 8 mushrooms in total. No extra patches or mushrooms, and no text, letters, or numbers.

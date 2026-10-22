@@ -1,0 +1,9 @@
+title: Building a Birdhouse with Aunt
+question_text:
+{user_name} and {aunt_name} have 9 wooden pieces for a birdhouse. Aunt uses 4 pieces. How many wooden pieces are left unused?
+options:
+A) 5
+B) 6
+C) 4
+image_prompt:
+Show {user_name} building a birdhouse with {aunt_name}. Aunt uses 4 wooden pieces from a group of 9. Show exactly 5 unused pieces on the worktable and 4 incorporated into the birdhouse. No extra pieces, text, letters, or numbers.

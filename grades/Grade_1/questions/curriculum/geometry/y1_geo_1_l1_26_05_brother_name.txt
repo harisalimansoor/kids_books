@@ -1,0 +1,9 @@
+title: Finding a Football with Brother
+question_text:
+{user_name} is helping {brother_name} tidy the garden. They find 1 football under a garden bench. Where is the football?
+options:
+A) Above the bench
+B) Under the bench
+C) Beside the bench
+image_prompt:
+Show {user_name} helping {brother_name} look at exactly 1 football positioned directly underneath exactly 1 garden bench. Make the football clearly below the bench seat and between the bench legs. No extra balls, benches, objects, props, text, letters, or numbers.

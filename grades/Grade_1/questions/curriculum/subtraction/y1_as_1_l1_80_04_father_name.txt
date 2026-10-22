@@ -1,0 +1,9 @@
+title: Making a Wind Chime with Father
+question_text:
+{user_name} has 7 small bells for a wind chime. {father_name} attaches 3 bells to the wind chime. How many bells remain unattached?
+options:
+A) 3
+B) 4
+C) 5
+image_prompt:
+Show {user_name} making a wind chime with {father_name}. Father attaches 3 bells from a group of 7 to the wind chime. Show exactly 4 loose bells and 3 attached to the chime. No extra bells, text, letters, or numbers.

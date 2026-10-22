@@ -1,0 +1,9 @@
+title: Building Block Towers with Brother
+question_text:
+{user_name} and {brother_name} use 6 wooden blocks to build 3 equal towers. How many blocks will be in each tower?
+options:
+A) 3
+B) 2
+C) 4
+image_prompt:
+Show {user_name} and {brother_name} building exactly 3 separate towers using exactly 6 wooden blocks in total, with exactly 2 blocks in each tower. No extra blocks, props, text, letters, or numbers.

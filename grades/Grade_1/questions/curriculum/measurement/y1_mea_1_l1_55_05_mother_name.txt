@@ -1,0 +1,9 @@
+title: Measuring a Picnic Mat with Mother
+question_text:
+{user_name} and {mother_name} are measuring a picnic mat using identical square tiles. The mat is exactly as long as 7 tiles placed end to end. How many tiles long is the mat?
+options:
+A) 5 tiles
+B) 6 tiles
+C) 7 tiles
+image_prompt:
+Show {user_name} and {mother_name} measuring the length of exactly 1 picnic mat using exactly 7 identical square tiles placed edge to edge along its length. No extra tiles, mats, props, text, letters, or numbers.

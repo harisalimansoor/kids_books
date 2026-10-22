@@ -1,0 +1,9 @@
+title: Moving a Toy Skateboard with Sister
+question_text:
+{user_name} is helping {sister_name} move a toy skateboard along the floor. They push it to the left. In which direction does the skateboard move?
+options:
+A) Right
+B) Left
+C) Up
+image_prompt:
+Show {user_name} helping {sister_name} move exactly 1 toy skateboard towards the left. Include 1 clear left-pointing arrow beside the skateboard to show its direction of movement. No extra skateboards, arrows, objects, props, text, letters, or numbers.

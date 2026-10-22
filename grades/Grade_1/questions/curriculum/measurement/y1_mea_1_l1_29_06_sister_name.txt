@@ -1,0 +1,9 @@
+title: Measuring Aquarium Water with Sister
+question_text:
+{user_name} and {sister_name} are learning about the water in an aquarium. Which unit is suitable for measuring the amount of water the aquarium can hold?
+options:
+A) Centimetres
+B) Kilograms
+C) Litres
+image_prompt:
+Show {user_name} and {sister_name} looking at exactly 1 aquarium containing water. Make the aquarium's water capacity the focus of the scene. No extra aquariums, measuring containers, props, text, letters, or numbers.

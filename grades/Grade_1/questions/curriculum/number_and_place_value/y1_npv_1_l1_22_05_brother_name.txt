@@ -1,0 +1,9 @@
+title: Counting Nuts with Brother
+question_text:
+{user_name} helps {brother_name} arrange 46 nuts into 4 groups of 10 and 6 loose nuts. How many tens are in 46?
+options:
+A) 6
+B) 4
+C) 46
+image_prompt:
+Show {user_name} and {brother_name} arranging exactly 46 nuts: 4 groups of 10 nuts each and 6 loose nuts. Keep all nuts visible and countable. No extra nuts, and no text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Comparing Schoolbags with Grandfather
+question_text:
+{user_name} and {grandfather_name} are comparing 2 schoolbags. One schoolbag weighs 2 kilograms, and the other weighs 4 kilograms. Which schoolbag is lighter?
+options:
+A) The schoolbag that weighs 2 kilograms
+B) The schoolbag that weighs 4 kilograms
+C) Both schoolbags weigh the same
+image_prompt:
+Show {user_name} and {grandfather_name} comparing exactly 2 schoolbags on a suitable weighing scale. One schoolbag must clearly be lighter than the other. No extra schoolbags, scales, props, text, letters, or numbers.

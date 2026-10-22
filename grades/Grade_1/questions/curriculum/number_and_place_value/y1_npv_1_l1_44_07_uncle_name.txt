@@ -1,0 +1,9 @@
+title: Completing a Counting Path with Uncle
+question_text:
+{user_name} and {uncle_name} follow a counting path: 15, 16, __, 18. Which number is missing?
+options:
+A) 17
+B) 19
+C) 14
+image_prompt:
+Show {user_name} and {uncle_name} looking at exactly 4 stepping stones arranged in a clear sequence. Highlight the third stone as the missing place. No printed numbers, letters, or extra stones.

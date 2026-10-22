@@ -1,0 +1,9 @@
+title: Comparing Toy Boats with Sister
+question_text:
+{user_name} and {sister_name} are comparing 2 toy boats. One boat is 18 cm long, and the other is 14 cm long. Which boat is shorter?
+options:
+A) The boat that is 18 cm long
+B) The boat that is 14 cm long
+C) Both boats are the same length
+image_prompt:
+Show {user_name} and {sister_name} comparing exactly 2 toy boats placed side by side. One boat must be clearly shorter than the other. No extra boats, props, text, letters, or numbers.

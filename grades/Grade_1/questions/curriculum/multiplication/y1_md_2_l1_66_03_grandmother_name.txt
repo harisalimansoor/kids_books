@@ -1,0 +1,9 @@
+title: Building Toy Castles with Grandmother
+question_text:
+{user_name} helps {grandmother_name} build toy castles. Each of 2 castles has 3 towers. How many towers do the castles have altogether?
+options:
+A) 5
+B) 9
+C) 6
+image_prompt:
+Show {user_name} and {grandmother_name} building exactly 2 separate toy castles. Each castle must have exactly 3 clearly visible towers. Show exactly 6 towers in total. No extra castles or towers, and no text, letters, or numbers.

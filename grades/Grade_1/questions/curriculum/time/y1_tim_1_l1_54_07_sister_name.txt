@@ -1,0 +1,9 @@
+title: Feeding Ducks with Sister
+question_text:
+{user_name} is helping {sister_name} plan a visit to the pond. They feed the ducks in the afternoon while the sun is still high in the sky. When do they feed the ducks?
+options:
+A) At night
+B) In the afternoon
+C) Early in the morning
+image_prompt:
+Show {user_name} helping {sister_name} feed exactly three ducks beside a pond in the afternoon. Show the sun high in the sky. No extra ducks, text, letters, numbers or unnecessary objects.

@@ -1,0 +1,9 @@
+title: Folding a Paper Heart with Father
+question_text:
+{user_name} is helping {father_name} make a paper heart. They fold one heart-shaped piece of paper into 2 equal parts. What fraction of the paper is each part?
+options:
+A) One whole
+B) One half
+C) One quarter
+image_prompt:
+Show {user_name} helping {father_name} fold exactly one heart-shaped piece of paper into 2 equal-sized parts. No extra paper hearts, objects, props, people, text, letters or numbers.

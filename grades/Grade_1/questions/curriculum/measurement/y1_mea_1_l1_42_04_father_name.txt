@@ -1,0 +1,9 @@
+title: Comparing Toy Airplanes with Father
+question_text:
+{user_name} and {father_name} are comparing 2 toy airplanes. One airplane is 16 cm long, and the other is 12 cm long. Which airplane is longer?
+options:
+A) The airplane that is 12 cm long
+B) Both airplanes are the same length
+C) The airplane that is 16 cm long
+image_prompt:
+Show {user_name} and {father_name} comparing exactly 2 toy airplanes placed side by side. One airplane must be visibly longer than the other. No extra airplanes, props, text, letters, or numbers.

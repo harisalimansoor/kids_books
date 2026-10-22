@@ -1,0 +1,9 @@
+title: Parking Toy Vehicles with Sister
+question_text:
+{user_name} is helping {sister_name} park toy vehicles. They place 1 red toy car near a toy garage and 1 blue toy bus far away from the garage. Which vehicle is near the garage?
+options:
+A) Blue toy bus
+B) Both vehicles
+C) Red toy car
+image_prompt:
+Show {user_name} helping {sister_name} arrange exactly 1 red toy car close to exactly 1 toy garage and exactly 1 blue toy bus far away from the garage. Make the difference between near and far unmistakable. No extra vehicles, garages, objects, props, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Setting Up Yoga Mats with Aunt
+question_text:
+{user_name} and {aunt_name} place 6 yoga mats equally in 2 exercise areas. How many yoga mats will be in each area?
+options:
+A) 2
+B) 3
+C) 4
+image_prompt:
+Show {user_name} and {aunt_name} arranging exactly 6 yoga mats equally in 2 exercise areas, with exactly 3 mats in each area. No extra mats, text, letters, or numbers.

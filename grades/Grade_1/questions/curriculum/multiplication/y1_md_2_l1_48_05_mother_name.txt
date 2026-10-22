@@ -1,0 +1,9 @@
+title: Building Toy Rockets with Mother
+question_text:
+{user_name} helps {mother_name} build toy rockets. Each of 2 rockets has 3 fins. How many fins do the rockets have altogether?
+options:
+A) 5
+B) 6
+C) 8
+image_prompt:
+Show {user_name} and {mother_name} building exactly 2 toy rockets. Each rocket must have exactly 3 clearly visible fins. Show exactly 6 fins in total. No extra rockets or fins, and no text, letters, or numbers.

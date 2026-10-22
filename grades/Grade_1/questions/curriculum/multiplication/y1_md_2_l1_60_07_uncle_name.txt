@@ -1,0 +1,9 @@
+title: Decorating Picture Magnets with Uncle
+question_text:
+{user_name} helps {uncle_name} make picture magnets. They attach 3 small magnets to each of 2 picture cards. How many magnets do they use altogether?
+options:
+A) 5
+B) 9
+C) 6
+image_prompt:
+Show {user_name} and {uncle_name} making exactly 2 blank picture cards. Attach exactly 3 clearly visible small magnets to the back of each card, with the magnets visible beside the cards for counting. Show exactly 6 magnets in total. No extra cards or magnets, and no text, letters, or numbers.
