@@ -1,0 +1,9 @@
+title: Arranging Toy Cars with Grandpa
+question_text:
+{user_name} is helping {grandfather_name} arrange toy cars. They arrange 8 toy cars into 2 equal rows. What fraction of all the cars is in one row?
+options:
+A) One half
+B) One whole
+C) One quarter
+image_prompt:
+Show {user_name} helping {grandfather_name} arrange exactly 8 toy cars into 2 equal rows, with exactly 4 cars in each row. No extra cars, tracks, objects, props, people, text, letters or numbers.

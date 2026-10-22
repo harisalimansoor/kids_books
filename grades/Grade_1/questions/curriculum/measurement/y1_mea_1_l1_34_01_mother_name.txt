@@ -1,0 +1,9 @@
+title: Comparing Thermos Flasks with Mother
+question_text:
+{user_name} and {mother_name} are comparing 2 thermos flasks. One flask can hold 1 litre of water, and the other can hold 2 litres. Which flask can hold more water?
+options:
+A) The flask that holds 2 litres
+B) The flask that holds 1 litre
+C) Both flasks hold the same amount
+image_prompt:
+Show {user_name} and {mother_name} comparing exactly 2 thermos flasks with clearly different capacities. One flask must visibly be larger than the other. No extra flasks, props, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Watering Flowers with Grandfather
+question_text:
+{user_name} and {grandfather_name} are looking at a measuring jug containing water. The water reaches halfway up the jug. How much water is in the jug?
+options:
+A) The jug is empty
+B) The jug is full
+C) The jug is half-full
+image_prompt:
+Show {user_name} and {grandfather_name} looking at exactly 1 transparent measuring jug filled halfway with water. Make the water level clearly reach half the jug's capacity. No extra containers, props, text, letters, or numbers.

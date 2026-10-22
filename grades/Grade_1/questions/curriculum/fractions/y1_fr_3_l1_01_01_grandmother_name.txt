@@ -1,5 +1,0 @@
-question_text:
-{user_name} has a chocolate bar divided into four equal pieces. {grandmother_name} takes two pieces. What fraction of the chocolate bar does {grandmother_name} have?
-
-image_prompt:
-A kitchen table with a chocolate bar divided into four equal pieces. {user_name} is holding two pieces of the chocolate bar, while {grandmother_name} is looking at the remaining two pieces on the table. The chocolate bar is clearly visible, showing the four equal sections.

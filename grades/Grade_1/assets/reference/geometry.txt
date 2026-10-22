@@ -1,42 +1,82 @@
 === GEOMETRY ===
 
-Look at the picture! There are some squared papers on the table and bundles of straws tied together in fifties. Can you see 2 bundles of straws and 5 squared papers? How many things are there altogether when you add the squared papers and the bundles of straws?
-Look at the picture! Can you see the piece of paper that {mother_name} is holding? It has 4 equal sides and 4 corners. What shape is it?
-Look at the picture! You can see two pieces of paper on the table. One piece of paper is under the pencil and the other is next to the book. Are the shapes of these two pieces of paper the same?
-Look at the picture! Can you see the shape that {mother_name} drew on the paper? It has 4 sides and 4 corners. What can you tell me about this shape?
-Look at the picture! Kim has put some 3D shapes into boxes. Can you see the shapes in each box? One box has cubes, one box has spheres, and one box has pyramids, but one shape is in the wrong box. Which shape should be crossed out?
-Look at the picture! Can you see the paper that {mother_name} is holding? It is round like a plate. What shape is the paper that {mother_name} is holding?
-Look at the picture! There are different shapes drawn on the squared paper. Can you see the shapes {grandmother_name} drew, and how many of each shape are there?
-Look at the picture! There are some squared papers on the table and bundles of straws tied together in fifties. Can {user_name} see 2 bundles of straws and 5 squared papers? How many things are there altogether when {user_name} add the squared papers and the bundles of straws?
-Look at the picture! Can {user_name} see the piece of paper that {mother_name} is holding? It has 4 equal sides and 4 corners. What shape is it?
-Look at the picture! Can {user_name} see the shape that {mother_name} drew on the paper? It has 4 sides and 4 corners. What can {user_name} tell me about this shape?
-Look at the picture! Kim has put some 3D shapes into boxes. Can {user_name} see the shapes in each box? One box has cubes, one box has spheres, and one box has pyramids, but one shape is in the wrong box. Which shape should be crossed out?
-Look at the picture! Can {user_name} see the paper that {mother_name} is holding? It is round like a plate. What shape is the paper that {mother_name} is holding?
-Look at the picture! There are different shapes drawn on the squared paper. Can {user_name} see the shapes {grandmother_name} drew, and how many of each shape are there?
-Look at the picture! {user_name} has 2 stars in front of {user_name}, and {mother_name} has 3 stars in front of her. How many shapes are there altogether?
-Look at the picture! {grandfather_name} has 4 diamonds in front of him, and {father_name} has 3 diamonds in front of him. How many shapes are there altogether?
-Look at the picture! {grandmother_name} has 5 squares in front of her, and {sibling_name} has 5 squares in front of {sibling_pronoun}. How many shapes are there altogether?
-Look at the picture! {grandmother_name} has 2 squares in front of her, and {user_name} has 5 squares in front of {user_name}. How many shapes are there altogether?
-Look at the picture! {grandfather_name} has 1 heart in front of him, and {father_name} has 2 hearts in front of him. How many shapes are there altogether?
-Look at the picture! {mother_name} has 4 rectangles in front of her, and {grandfather_name} has 5 rectangles in front of him. How many shapes are there altogether?
-Look at the picture! {sibling_name} has 1 heart in front of {sibling_pronoun}, and {user_name} has 6 hearts in front of {user_name}. How many shapes are there altogether?
-Look at the picture! {user_name} has 2 hearts in front of {user_name}, and {grandmother_name} has 3 hearts in front of her. How many shapes are there altogether?
-Look at the picture! {grandmother_name} has 2 squares in front of her, and {user_name} has 3 squares in front of {user_name}. How many shapes are there altogether?
-Look at the picture! {sibling_name} has 6 hearts in front of {sibling_pronoun}, and {grandfather_name} has 3 hearts in front of {sibling_pronoun}. How many shapes are there altogether?
-Look at the picture! {user_name} has 5 stars in front of {user_name}, and {mother_name} has 4 stars in front of her. How many shapes are there altogether?
-Look at the picture! {grandmother_name} has 6 hearts in front of her, and {grandfather_name} has 4 hearts in front of him. How many shapes are there altogether?
-Look at the picture! {grandmother_name} has 3 hearts in front of her, and {grandfather_name} has 2 hearts in front of him. How many shapes are there altogether?
-Look at the picture! {grandfather_name} has 5 hearts in front of {sibling_pronoun}, and {sibling_name} has 6 hearts in front of {sibling_pronoun}. How many shapes are there altogether?
-Look at the picture! {sibling_name} has 1 diamond in front of {sibling_pronoun}, and {grandmother_name} has 1 diamond in front of her. How many shapes are there altogether?
-Look at the picture! {sibling_name} has 3 triangles in front of {sibling_pronoun}, and {grandmother_name} has 5 triangles in front of her. How many shapes are there altogether?
-Look at the picture! {father_name} has 1 triangle in front of him, and {grandfather_name} has 3 triangles in front of him. How many shapes are there altogether?
-Look at the picture! {grandmother_name} has 2 rectangles in front of her, and {father_name} has 6 rectangles in front of him. How many shapes are there altogether?
-Look at the picture! {user_name} has 3 stars in front of {user_name}, and {grandmother_name} has 5 stars in front of her. How many shapes are there altogether?
-Look at the picture! {sibling_name} has 2 diamonds in front of {sibling_pronoun}, and {grandfather_name} has 2 diamonds in front of {sibling_pronoun}. How many shapes are there altogether?
-Look at the picture! There are 2 bundles of straws and 5 squared papers. How many things are there altogether?
-Look at the picture! {mother_name} is holding a piece of paper. It has 4 equal sides and 4 corners. What shape is it?
-Look at the picture! There are two pieces of paper on the table. One is under the pencil and the other is next to the book. Are the shapes the same?
-Look at the picture! {mother_name} drew a shape with 4 sides and 4 corners. What can {user_name} tell about this shape?
-Look at the picture! Kim put 3D shapes into boxes. One box has cubes, one has spheres, and one has pyramids. One shape is in the wrong box. Which shape should be crossed out?
-Look at the picture! {mother_name} is holding a piece of paper. It is round like a plate. What shape is it?
-Look at the picture! {grandmother_name} drew different shapes on squared paper. How many of each shape are there?
+{user_name} is helping {grandfather_name} sort shape cards. They have 1 circle, 1 triangle and 1 square. Which shape has 3 straight sides?
+{user_name} is helping {grandfather_name} turn a square tile. They turn it onto one corner so it looks like a diamond. What shape is the tile still?
+{user_name} is helping {grandfather_name} choose a storybook. They look at the front cover of 1 closed book. Which 2D shape matches the front cover?
+{user_name} is helping {grandfather_name} arrange shape cards. They place the triangle above the circle and the square beside them. Which shape is directly below the triangle?
+{user_name} is helping {grandfather_name} explore solid shapes. They examine 1 block with 6 equal square faces. Which 3D shape is the block?
+{user_name} is helping {grandfather_name} identify solid shapes. They examine 1 round ball with a curved surface and no corners. Which 3D shape matches the ball?
+{user_name} is helping {grandfather_name} pack a parcel. They have 1 box with rectangular faces that is longer than it is wide. Which 3D shape matches the parcel?
+{user_name} is helping {grandfather_name} identify a solid shape. They examine 1 model with a square base and triangular faces that meet at one point. Which 3D shape is the model?
+{user_name} is helping {grandfather_name} put solid shapes away. They place 1 cube inside a box and leave 1 sphere outside the box. Which shape is outside the box?
+{user_name} is helping {grandfather_name} practise directions. They start with a pointer facing up and turn it one quarter turn clockwise. Which direction does the pointer face now?
+{user_name} is helping {grandmother_name} bake biscuits. They make 1 circle biscuit, 1 triangle biscuit and 1 square biscuit. Which biscuit has 3 straight sides?
+{user_name} is helping {grandmother_name} look at a round wall clock. The clock face has no corners. Which 2D shape matches the clock face?
+{user_name} is helping {grandmother_name} sew a quilt. They prepare 1 fabric patch with 4 equal straight sides and 4 corners. Which 2D shape is the patch?
+{user_name} is helping {grandmother_name} clean a window. The window pane has 2 long sides and 2 short sides. Which 2D shape matches the window pane?
+{user_name} is helping {grandmother_name} wash an orange. The orange is round all over and has no corners or straight edges. Which 3D shape does the orange look like?
+{user_name} is helping {grandmother_name} prepare tea. They look at 1 sugar cube with 6 equal square faces. Which 3D shape is the sugar cube?
+{user_name} is helping {grandmother_name} examine a rectangular bar of soap. It has rectangular faces and is longer than it is wide. Which 3D shape matches the bar of soap?
+{user_name} is helping {grandmother_name} shape a sand tower. It has a square base and 4 triangular faces that meet at one point. Which 3D shape are they making?
+{user_name} is helping {grandmother_name} arrange the garden. They place 1 watering can to the left of 1 flowerpot. Which object is on the left?
+{user_name} is helping {grandmother_name} practise a dance. They start by facing the garden gate and then make a half turn. Which way will they face after the half turn?
+{user_name} is helping {father_name} make a toy boat. They add 1 triangular sail to the boat. Which 2D shape is the sail?
+{user_name} is helping {father_name} choose a doormat. The mat has 2 long sides and 2 short sides. Which 2D shape matches the mat's outline?
+{user_name} is helping {father_name} play a board game. They roll 1 die with 6 equal square faces. Which 3D shape does the die match?
+{user_name} is helping {father_name} examine a glass marble. The marble is round all over and has no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {father_name} pack a lunchbox. The lunchbox has rectangular faces and is longer than it is wide. Which 3D shape does the lunchbox match?
+{user_name} is helping {father_name} tidy the garden. They find 1 football under a garden bench. Where is the football?
+{user_name} is helping {father_name} park toy vehicles. They place 1 red toy car near a toy garage and 1 blue toy bus far away from the garage. Which vehicle is near the garage?
+{user_name} is helping {father_name} play with a toy lift. The lift is moving from the top of its shaft towards the bottom. Which direction is the lift moving?
+{user_name} is helping {father_name} play with a toy car on a straight track. The car faces right, and {father_name} moves it backwards. Which direction does the car move?
+{user_name} is helping {father_name} play with a toy car on a turntable. The car starts facing right. {father_name} turns it one whole turn clockwise. Which direction does the car face at the end?
+{user_name} is helping {mother_name} cut a sandwich into a triangle. The sandwich piece has 3 straight sides. Which 2D shape is the sandwich piece?
+{user_name} is helping {mother_name} arrange a square coaster on the table. They turn it so one corner points up and it looks like a diamond. What shape is the coaster still?
+{user_name} is helping {mother_name} prepare a letter for posting. They look at a closed envelope with 2 long sides and 2 short sides. Which 2D shape matches the envelope?
+{user_name} is helping {mother_name} set the table for lunch. They place a round plate on the table. Which 2D shape matches the plate when viewed from above?
+{user_name} is helping {mother_name} blow a soap bubble. The bubble is round all over and has no corners or straight edges. Which 3D shape does the bubble look like?
+{user_name} is helping {mother_name} cool a drink with an ice cube. The ice cube has 6 equal square faces. Which 3D shape does the ice cube match?
+{user_name} is helping {mother_name} put away a cereal box. The box has rectangular faces and is longer than it is wide. Which 3D shape matches the cereal box?
+{user_name} is helping {mother_name} place a solid decoration on a shelf. The decoration has a square base and triangular faces that meet at one point. Which 3D shape is the decoration?
+{user_name} is helping {mother_name} arrange a doll in front of a curtain. Where is the doll?
+{user_name} is helping {mother_name} practise turns using a paper arrow. The arrow starts by pointing up. {mother_name} turns it three-quarter turn clockwise. Which direction does the arrow face now?
+{user_name} is helping {brother_name} draw shapes with chalk. They draw a circle, a triangle and a square. Which shape has 4 equal straight sides?
+{user_name} is helping {brother_name} make a small paper flag for a kite. The flag has 3 straight sides and 3 corners. Which 2D shape is the flag?
+{user_name} is helping {brother_name} attach a carriage to a toy train. The carriage has rectangular faces and is longer than it is tall. Which 3D shape does the carriage look like?
+{user_name} is helping {brother_name} build a toy robot. The robot has a head with 6 equal square faces. Which 3D shape matches the robot's head?
+{user_name} is helping {brother_name} explore a model planet. The model is round all over and has no corners or straight edges. Which 3D shape does the model planet match?
+{user_name} is helping {brother_name} arrange toy dinosaurs in a play garden. They place 1 toy dinosaur between 2 toy trees. Where is the dinosaur?
+{user_name} is helping {brother_name} play with a toy car. They push the car into a toy tunnel until the whole car is inside. Where is the car?
+{user_name} is helping {brother_name} turn a toy astronaut. The astronaut starts facing left. {brother_name} turns it one quarter turn clockwise. Which direction does the astronaut face now?
+{user_name} is helping {brother_name} move a toy skateboard along the floor. They push it to the left. In which direction does the skateboard move?
+{user_name} is helping {brother_name} arrange toy vehicles. They place 1 toy plane on a shelf directly above 1 toy garage. Where is the toy plane in relation to the garage?
+{user_name} is helping {sister_name} identify road signs. They see a sign with 3 straight sides and 3 corners. Which 2D shape matches the sign?
+{user_name} is helping {sister_name} choose a tablet. They look at its screen, which has 2 long sides and 2 short sides. Which 2D shape matches the screen?
+{user_name} is helping {sister_name} solve a shape puzzle. They turn a triangular puzzle piece upside down. What shape is the piece still?
+{user_name} is helping {sister_name} wrap a present. They have 1 gift box with 6 equal square faces. Which 3D shape matches the gift box?
+{user_name} is helping {sister_name} make a necklace. They choose 1 round bead that is curved all over and has no corners or straight edges. Which 3D shape does the bead match?
+{user_name} is helping {sister_name} fly a kite. A cloud is directly above the kite. What is above the kite?
+{user_name} is helping {sister_name} find a toy dog. The toy dog is hidden behind a garden gate. Where is the toy dog?
+{user_name} is helping {sister_name} play with a bead and a string loop. They place the bead inside the closed loop. Where is the bead?
+{user_name} is helping {sister_name} practise directions using a paper arrow. The arrow starts by pointing right. They turn it one quarter turn anticlockwise. Which direction does the arrow face now?
+{user_name} is helping {sister_name} move a toy boat across a pretend pond. The boat is facing right, and they move it forwards in the direction it is facing. Which way does the boat move?
+{user_name} is helping {uncle_name} compare two triangular decorations. One is small and points up, while the other is large and points sideways. What 2D shape are both decorations?
+{user_name} is helping {uncle_name} arrange a postcard. They turn the rectangular postcard upright so its long sides point up and down. What 2D shape is the postcard still?
+{user_name} is helping {uncle_name} hang a round hoop on a wall. When they look at the hoop from the front, what 2D shape does its outline make?
+{user_name} is helping {uncle_name} organise a toolbox. The toolbox has flat rectangular faces and is longer than it is wide. Which 3D shape does the toolbox match?
+{user_name} is helping {uncle_name} decorate the garden. They place a round garden ornament on the ground. The ornament has a curved surface and no corners or straight edges. Which 3D shape does it match?
+{user_name} is helping {uncle_name} pitch a pyramid-shaped tent. The tent has a square base and 4 triangular faces that meet at one point. Which 3D shape does the tent match?
+{user_name} is helping {uncle_name} prepare to paint. They place a paintbrush near a paint pot and a ruler far away from the paint pot. Which object is near the paint pot?
+{user_name} is helping {uncle_name} tidy a room. They place an umbrella directly below a wall shelf. Where is the umbrella?
+{user_name} is helping {uncle_name} launch a toy rocket along a straight vertical track. The rocket moves from the bottom towards the top. Which direction is the rocket moving?
+{user_name} is helping {uncle_name} practise turns with a toy robot. The robot starts facing left. {uncle_name} turns it one quarter turn anticlockwise. Which direction does the robot face now?
+{user_name} is helping {aunt_name} make a birdhouse. The roof panel has 3 straight sides and 3 corners. Which 2D shape is the roof panel?
+{user_name} is helping {aunt_name} choose a button for a coat. The button has a round outline with no corners. Which 2D shape matches the front of the button?
+{user_name} is helping {aunt_name} fold a handkerchief. The handkerchief has 4 equal straight sides and 4 corners. Which 2D shape is it?
+{user_name} is helping {aunt_name} hang a mirror in the hallway. The mirror has 2 long sides and 2 short sides. Which 2D shape matches the mirror's outline?
+{user_name} is helping {aunt_name} pack a suitcase. The suitcase has flat rectangular faces and is longer than it is wide. Which 3D shape does the suitcase match?
+{user_name} is helping {aunt_name} blow up a balloon. The balloon is round all over and has no corners or straight edges. Which 3D shape does the balloon match?
+{user_name} is helping {aunt_name} make a solid pyramid pendant. The pendant has a square base and triangular faces that meet at one point. Which 3D shape is the pendant?
+{user_name} is helping {aunt_name} tidy the bedroom. They place 1 scarf completely inside an open wardrobe. Where is the scarf?
+{user_name} is helping {aunt_name} tidy the living room. They place 1 bag behind a chair. Where is the bag?
+{user_name} is helping {aunt_name} learn about turns using a toy windmill. One blade starts by pointing up. They turn the windmill one quarter turn clockwise. Which direction does that blade point now?

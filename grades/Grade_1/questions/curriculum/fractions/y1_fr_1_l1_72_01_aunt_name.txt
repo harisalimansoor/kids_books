@@ -1,0 +1,9 @@
+title: Decorating a Square with Aunt
+question_text:
+{user_name} is helping {aunt_name} decorate a square card. They divide the square into 4 equal parts and colour one part pink. What fraction of the square is pink?
+options:
+A) One quarter
+B) One half
+C) One whole
+image_prompt:
+Show {user_name} helping {aunt_name} colour exactly one part pink on a single square card divided into 4 equal-sized parts. Leave the other 3 parts uncoloured. No extra cards, objects, props, people, text, letters or numbers.

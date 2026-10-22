@@ -1,5 +1,0 @@
-question_text:
-{user_name} is standing in 1st place in the race. {uncle_name} is in 2nd place. Who is in 1st place?
-
-image_prompt:
-A vibrant outdoor scene of a small race. {user_name} is running ahead, wearing a bright red shirt, clearly in front of {uncle_name}, who is wearing a blue shirt and is slightly behind. A finish line banner is visible in the background, and a few spectators are cheering. The positions of both runners are clearly marked with numbers 1 and 2.

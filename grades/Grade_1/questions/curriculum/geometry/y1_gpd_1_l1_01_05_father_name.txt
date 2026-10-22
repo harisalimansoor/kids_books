@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {father_name} work on this together. {user_name} places a toy car to the left of a toy truck. Where is the toy car in relation to the toy truck?
-
-image_prompt:
-{user_name} and {father_name} work on this together. A bright playroom scene. {user_name} is kneeling on the floor, placing a small red toy car to the left of a larger blue toy truck. The toy truck is facing forward, and both toys are on a colourful play mat. The child is smiling, and the toys are clearly visible with the car positioned distinctly to the left of the truck.

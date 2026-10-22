@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {sister_name} are playing with 6 spheres. If {user_name} rolls 2 spheres away, how many spheres are left?
-
-image_prompt:
-A vibrant playground scene. {user_name} is rolling 2 colourful spheres down a slide, while {sister_name} counts the remaining 4 spheres on the ground. The grass is green, and there are swings in the background.

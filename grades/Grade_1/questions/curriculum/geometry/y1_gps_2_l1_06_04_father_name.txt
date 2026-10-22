@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {father_name} are making ice cream cones. If they have 4 cones and {user_name} eats 1, how many cones are left?
-
-image_prompt:
-A sunny kitchen scene. {user_name} is happily holding an ice cream cone, having just taken a bite, while {father_name} looks at the remaining 3 cones on the table. The kitchen is bright and cheerful, with a bowl of sprinkles nearby.

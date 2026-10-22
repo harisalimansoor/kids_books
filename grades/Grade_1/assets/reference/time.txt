@@ -1,67 +1,82 @@
 === TIME ===
 
-Look at the picture! You can see a newspaper for Monday, a newspaper for Tuesday, a newspaper for Wednesday, a newspaper for Thursday, a newspaper for Friday, and a newspaper for Saturday. Each newspaper costs 30p. How much money will you need to buy all the newspapers from Monday to Saturday?
-Look at the picture! There is a calendar for October on the wall. Can you count how many days are there in October?
-Look at the picture! There is a calendar for May on the wall. Can you count the numbered days in the picture, how many days are there in May?
-Look at the picture! There is a big calendar on the wall with all the months. Can you see the page for June and count how many days are there in June?
-Look at the picture! There is a calendar on the wall with the month of April on it. Can you count the number of days in April?
-Look at the picture! Can you see the calendar that {mother_name} is holding? It shows the month of July with all the days marked. How many days are there in July?
-Look at the picture! There is a big calendar on the wall with all the months. Can you see the month of January on the calendar and count how many days are there in January?
-Look at the picture! You can see a big calendar with all the months on it. November is marked with a big star. If you count 3 months after the star on November, which month will your finger land on?
-Look at the picture! You can see a big calendar with all the months. Can you find August and count how many little boxes are there for the days in August?
-Look at the picture! Priya has a piggy bank with 12 boxes, one for each month. Each box has a 20p coin inside. How much money will Priya have saved in her piggy bank after one year?
-Look at the picture! You can see a big calendar with all the days of the week. Monday is marked with a big 1, Tuesday has a big 2, Wednesday has a big 3, and the next day has a big 4. What is the name of the day marked with the big 4?
-Look at the picture! There is a big clock showing 1 hour with 60 little marks. Now, look at the smaller clock showing 30 minutes. How many little marks can you count on the smaller clock?
-Look at the picture! There's a big clock with 60 little marks on it, and it says 1 hour. Can you see the clock and count how many minutes are in the 1 hour?
-Look at the calendar picture! Can you find the day of the week for 14 September on the calendar? Is it a Saturday?
-Look at the picture! There is a calendar on the wall with all the months. Can you see the month of February and count how many days are marked on it?
-Look at the picture! There is a big calendar showing the month of September. Can you count the numbered days on the calendar to find out how many days are there in September?
-Look at the picture! There is a clock with big hands and little hands. The clock says 40 minutes have passed. Can you count how many minutes are shown on the clock face?
-Look at the picture! There is a big clock on the wall. The short hand is pointing to 11 and the long hand is on the 12. Midnight is when the short hand points to 12. How many numbers will the short hand pass before it reaches midnight?
-Look at the clock in the picture! The short hand is on the 9 and the long hand is on the 4. If it was 5 o'clock earlier, how many minutes have passed from 5 to 9:20?
-Look at the picture! You can see a calendar with the days of the week and the dates for April. Monday is marked as 30 April, and you can see the following days: Tuesday, Wednesday, and Thursday. What date is written on Thursday?
-Look at the picture! You can see a big calendar with all 12 months on it. December is highlighted with a big star. What month is written next to the star?
-Look at the picture! There is a big calendar on the wall with all the months. Can you see the month of January on the calendar and count how many days are in January?
-Look at the calendar picture! You can see the days of the month on it. Find 29 December on the calendar, then count 4 days forward to 2 January. Is the date 2 January 4 days after 29 December?
-Look at the picture! You can see a big calendar with all the months on it. March is highlighted with 31 numbers on the page. How many days are there in March?
-Look at the picture! You can see a newspaper for Monday, a newspaper for Tuesday, a newspaper for Wednesday, a newspaper for Thursday, a newspaper for Friday, and a newspaper for Saturday. Each newspaper costs 30p. How much money will {user_name} need to buy all the newspapers from Monday to Saturday?
-Look at the picture! There is a calendar for October on the wall. Can {user_name} count how many days are there in October?
-Look at the picture! There is a calendar for May on the wall. Can {user_name} count the numbered days in the picture, how many days are there in May?
-Look at the picture! There is a big calendar on the wall with all the months. Can {user_name} see the page for June and count how many days are there in June?
-Look at the picture! There is a calendar on the wall with the month of April on it. Can {user_name} count the number of days in April?
-Look at the picture! Can {user_name} see the calendar that {mother_name} is holding? It shows the month of July with all the days marked. How many days are there in July?
-Look at the picture! There is a big calendar on the wall with all the months. Can {user_name} see the month of January on the calendar and count how many days are there in January?
-Look at the picture! You can see a big calendar with all the months on it. November is marked with a big star. If {user_name} count 3 months after the star on November, which month will {user_name}'s finger land on?
-Look at the picture! You can see a big calendar with all the months. Can {user_name} find August and count how many little boxes are there for the days in August?
-Look at the picture! There is a big clock showing 1 hour with 60 little marks. Now, look at the smaller clock showing 30 minutes. How many little marks can {user_name} count on the smaller clock?
-Look at the picture! There's a big clock with 60 little marks on it, and it says 1 hour. Can {user_name} see the clock and count how many minutes are in the 1 hour?
-Look at the calendar picture! Can {user_name} find the day of the week for 14 September on the calendar? Is it a Saturday?
-Look at the picture! There is a calendar on the wall with all the months. Can {user_name} see the month of February and count how many days are marked on it?
-Look at the picture! There is a big calendar showing the month of September. Can {user_name} count the numbered days on the calendar to find out how many days are there in September?
-Look at the picture! There is a clock with big hands and little hands. The clock says 40 minutes have passed. Can {user_name} count how many minutes are shown on the clock face?
-Look at the picture! You can see a calendar with the days of the week and the dates for April. Monday is marked as 30 April, and {user_name} can see the following days: Tuesday, Wednesday, and Thursday. What date is written on Thursday?
-Look at the picture! There is a big calendar on the wall with all the months. Can {user_name} see the month of January on the calendar and count how many days are in January?
-Look at the picture! There are newspapers for Monday to Saturday. Each costs 30p. How much money is needed to buy all six?
-Look at the picture! There is a calendar for October on the wall. How many days are there in October?
-Look at the picture! There is a calendar for May on the wall. How many days are there in May?
-Look at the picture! There is a calendar for June on the wall. How many days are there in June?
-Look at the picture! There is a calendar for April on the wall. How many days are there in April?
-Look at the picture! {mother_name} is holding a calendar for July. How many days are there in July?
-Look at the picture! There is a calendar for January on the wall. How many days are there in January?
-Look at the picture! There is a calendar showing November. If {user_name} count 3 months after November, which month is it?
-Look at the picture! There is a calendar showing August. How many days are there in August?
-Look at the picture! Priya has 12 boxes, one for each month. Each box has 20p. How much does Priya save after one year?
-Look at the picture! Monday is 1, Tuesday is 2, Wednesday is 3, and the next day is 4. What is the name of the day marked 4?
-Look at the picture! There is a clock showing 1 hour with 60 marks. How many minutes are in 1 hour?
-Look at the picture! There is a clock with 60 marks. How many minutes are in 1 hour?
-Look at the picture! What day of the week is 14 September? Is it a Saturday?
-Look at the picture! There is a calendar for February. How many days are there in February?
-Look at the picture! There is a calendar for September. How many days are there in September?
-Look at the picture! There is a clock showing 40 minutes. How many minutes are shown on the clock face?
-Look at the picture! There is a clock with the short hand at 11 and the long hand at 12. How many numbers will the short hand pass before it reaches midnight?
-Look at the picture! The short hand is at 9 and the long hand is at 4. How many minutes have passed from 5 to 9:20?
-Look at the picture! Monday is 30 April, followed by Tuesday, Wednesday, and Thursday. What date is Thursday?
-Look at the picture! There is a calendar with all 12 months. December is highlighted. What month is next to the star?
-Look at the picture! There is a calendar for January. How many days are in January?
-Look at the picture! Find 29 December. Count 4 days forward to 2 January. Is 2 January 4 days after 29 December?
-Look at the picture! There is a calendar for March with 31 days. How many days are there in March?
+{user_name} is helping {grandfather_name} arrange the days of the week. They start with Monday and look for the day that comes next. Which day comes after Monday?
+{user_name} is helping {grandfather_name} arrange the months of the year. They find March and look for the month that comes next. Which month comes after March?
+{user_name} is helping {grandfather_name} plant seeds in a pot. They put soil in the pot before adding a seed. What do they do first?
+{user_name} is helping {grandfather_name} follow a morning routine. They wake up and eat breakfast before starting the day. Which activity usually happens in the morning?
+{user_name} is helping {grandfather_name} read an analogue clock. They see the minute hand pointing to 12 and the hour hand pointing to 5. What time does the clock show?
+{user_name} is helping {grandfather_name} read a clock. They see the minute hand pointing to 6 and the hour hand halfway between 2 and 3. What time does the clock show?
+{user_name} is helping {grandfather_name} remember their daily activities. They visited the park yesterday, painted a picture today and will visit the library tomorrow. Which activity did they do yesterday?
+{user_name} is helping {grandfather_name} compare the time taken by two activities. They spend a short time tying their shoelaces and a longer time watching a full film. Which activity usually takes longer?
+{user_name} is helping {grandfather_name} plan their daily activities. They go for a walk before eating lunch. Which activity happens earlier?
+{user_name} is helping {grandfather_name} follow an evening routine. They eat dinner in the evening and go to bed later at night. Which activity happens later?
+{user_name} is helping {grandmother_name} arrange the days of the week. They know today is Wednesday and want to find the next day. Which day comes after Wednesday?
+{user_name} is helping {grandmother_name} arrange the months of the year. They find June on the calendar and look for the month that comes next. Which month comes after June?
+{user_name} is helping {grandmother_name} bake cupcakes. They mix the cupcake batter before putting it into the oven. What do they do first?
+{user_name} is helping {grandmother_name} prepare breakfast before school. They wake up in the morning and eat breakfast before starting their day. When do they eat breakfast?
+{user_name} is helping {grandmother_name} read an analogue clock. They see the minute hand pointing to 12 and the hour hand pointing to 4. What time does the clock show?
+{user_name} is helping {grandmother_name} read a clock before their afternoon activity. They see the minute hand pointing to 6 and the hour hand halfway between 2 and 3. What time does the clock show?
+{user_name} is helping {grandmother_name} compare the time spent on two outings. They spend 1 hour at the playground and 3 hours at the zoo. Which outing takes longer?
+{user_name} is helping {grandmother_name} remember their activities. They baked a cake yesterday, watered the plants today and will visit the park tomorrow. Which activity will they do tomorrow?
+{user_name} is helping {grandmother_name} plan their daily routine. They eat lunch first and go for a walk before dinner. At what time of day do they go for the walk?
+{user_name} is helping {grandmother_name} follow an evening routine. They eat dinner in the evening and brush their teeth before going to bed at night. What do they do after dinner?
+{user_name} is helping {father_name} plan a weekend trip. They plan to go cycling on Saturday and visit a farm the next day. Which day will they visit the farm?
+{user_name} is helping {father_name} arrange the months of the year. They find December on the calendar and look for the month immediately before it. Which month comes before December?
+{user_name} is helping {father_name} send a birthday card. They put the card inside an envelope before placing a stamp on it. What do they do first?
+{user_name} is helping {father_name} organise their daily routine. They finish their school lessons and pack their school bag in the afternoon. When do they pack the school bag?
+{user_name} is helping {father_name} read an analogue clock before leaving for a football match. They see the minute hand pointing to 12 and the hour hand pointing to 9. What time does the clock show?
+{user_name} is helping {father_name} check the time before their evening activity. They see the minute hand pointing to 6 and the hour hand halfway between 6 and 7. What time does the clock show?
+{user_name} is helping {father_name} compare two outings. They spend 1 hour at a playground and 3 hours visiting a wildlife park. Which outing takes longer?
+{user_name} is helping {father_name} plan their school sports day. They watch the running race at 10 o'clock and the long jump at 12 o'clock. Which event happens earlier?
+{user_name} is helping {father_name} remember their family activities. They built a sandcastle yesterday, made a paper aeroplane today and will go cycling tomorrow. What did they do yesterday?
+{user_name} is helping {father_name} clean their muddy football boots after a match. They remove the mud from the boots before putting them away. What do they do before putting the boots away?
+{user_name} is helping {mother_name} plan a picnic. They check the calendar and see that today is Friday. Which day comes tomorrow?
+{user_name} is helping {mother_name} arrange the months of the year. They find April on the calendar and look for the month that comes next. Which month comes after April?
+{user_name} is helping {mother_name} plant sunflower seeds. They fill a pot with soil before putting the seeds into it. What do they do first?
+{user_name} is helping {mother_name} get ready for school. They eat breakfast in the morning before leaving home for school. When do they eat breakfast?
+{user_name} is helping {mother_name} read an analogue clock. They see the minute hand pointing to 12 and the hour hand pointing to 7. What time does the clock show?
+{user_name} is helping {mother_name} read a clock before lunch. They see the minute hand pointing to 6 and the hour hand halfway between 9 and 10. What time does the clock show?
+{user_name} is helping {mother_name} compare the time needed for two baking activities. They bake biscuits for 10 minutes and a cake for 45 minutes. Which activity takes longer?
+{user_name} is helping {mother_name} plan their morning. They leave home at 8 o'clock and arrive at school at 9 o'clock. Which event happens earlier?
+{user_name} is helping {mother_name} remember their daily activities. They baked a cake yesterday, planted seeds today and will visit the park tomorrow. What did they do yesterday?
+{user_name} is helping {mother_name} follow an evening routine. They eat dinner in the evening and go to bed at night. Which activity happens later?
+{user_name} is helping {sister_name} plan their weekly dance practice. They have dance practice on Tuesday and want to find the day that comes next. Which day comes after Tuesday?
+{user_name} is helping {sister_name} plan a birthday party. They find August on the calendar and look for the month that comes next. Which month comes after August?
+{user_name} is helping {sister_name} make a paper aeroplane. They fold the paper before flying the aeroplane across the room. What do they do first?
+{user_name} is helping {sister_name} plan their daily routine. They eat breakfast after waking up and before leaving for school. When do they usually eat breakfast?
+{user_name} is helping {sister_name} read an analogue clock before their art activity. They see the minute hand pointing to 12 and the hour hand pointing to 2. What time does the clock show?
+{user_name} is helping {sister_name} read a clock before dinner. They see the minute hand pointing to 6 and the hour hand halfway between 5 and 6. What time does the clock show?
+{user_name} is helping {sister_name} compare the time taken by two activities. They spend 10 minutes drawing a picture and 30 minutes completing a jigsaw puzzle. Which activity takes longer?
+{user_name} is helping {sister_name} plan their afternoon. They start swimming at 3 o'clock and visit their grandparents at 5 o'clock. Which activity happens earlier?
+{user_name} is helping {sister_name} remember their activities. They flew a kite yesterday, painted a picture today and will ride their bicycles tomorrow. What will they do tomorrow?
+{user_name} is helping {sister_name} follow their bedtime routine. They put on their pyjamas before getting into bed at night. What do they do first?
+{user_name} is helping {uncle_name} plan a football match. They want to play on Saturday, and today is Friday. Which day will they play football?
+{user_name} is helping {uncle_name} plan a spring garden. They find February on the calendar and look for the month that comes next. Which month comes after February?
+{user_name} is helping {uncle_name} build a kite. They attach the tail to the kite before taking it outside to fly. What do they do first?
+{user_name} is helping {uncle_name} plan a visit to the pond. They feed the ducks in the afternoon while the sun is still high in the sky. When do they feed the ducks?
+{user_name} is helping {uncle_name} read an analogue clock before a train journey. They see the minute hand pointing to 12 and the hour hand pointing to 10. What time does the clock show?
+{user_name} is helping {uncle_name} check the time before visiting a museum. They see the minute hand pointing to 6 and the hour hand halfway between 1 and 2. What time does the clock show?
+{user_name} is helping {uncle_name} compare two journeys. They spend 1 hour cycling to a nearby park and 3 hours travelling by train to visit another town. Which journey takes longer?
+{user_name} is helping {uncle_name} plan a fishing trip. They arrive at the lake at 8 o'clock and begin fishing at 10 o'clock. Which event happens earlier?
+{user_name} is helping {uncle_name} remember their activities. They visited an aquarium yesterday, painted a picture today and will go cycling tomorrow. Which activity are they doing today?
+{user_name} is helping {uncle_name} prepare a fishing bag. They pack their sandwiches before leaving home for the lake. What do they do before leaving home?
+{user_name} is helping {aunt_name} plan a library visit. They know today is Wednesday and plan to visit the library tomorrow. Which day will they visit the library?
+{user_name} is helping {aunt_name} plan a summer picnic. They find August on the calendar and want to know which month comes just before it. Which month comes before August?
+{user_name} is helping {aunt_name} make a fruit salad. They wash the strawberries before cutting them into pieces. What do they do first?
+{user_name} is helping {aunt_name} plan their daily routine. They finish their morning activities and eat lunch before the evening arrives. When do they usually eat lunch?
+{user_name} is helping {aunt_name} read an analogue clock before going shopping. They see the minute hand pointing to 12 and the hour hand pointing to 11. What time does the clock show?
+{user_name} is helping {aunt_name} check the time before their baking activity. They see the minute hand pointing to 6 and the hour hand halfway between 8 and 9. What time does the clock show?
+{user_name} is helping {aunt_name} compare the time spent on two activities. They spend 1 hour at a swimming lesson and 3 hours on a seaside trip. Which activity takes longer?
+{user_name} is helping {aunt_name} plan their day. They start decorating a cake at 2 o'clock and finish at 4 o'clock. When do they finish decorating the cake?
+{user_name} is helping {aunt_name} remember their activities. They visited a farm yesterday, are baking muffins today and will go to the aquarium tomorrow. What are they doing today?
+{user_name} is helping {aunt_name} pack a picnic bag. They put sandwiches in the bag before adding a bottle of water. What do they pack first?
+{user_name} is helping {brother_name} plan football practice. They have practice on Monday and want to find the day that comes after it. Which day comes after Monday?
+{user_name} is helping {brother_name} plan a summer holiday. They find May on the calendar and look for the month that comes next. Which month comes after May?
+{user_name} is helping {brother_name} build a toy car. They attach the wheels before pushing the car along the floor. What do they do first?
+{user_name} is helping {brother_name} plan their daily routine. They eat lunch after the morning has ended and before the evening begins. When do they usually eat lunch?
+{user_name} is helping {brother_name} read an analogue clock before dinner. They see the minute hand pointing to 12 and the hour hand pointing to 6. What time does the clock show?
+{user_name} is helping {brother_name} check the time before leaving for school. They see the minute hand pointing to 6 and the hour hand halfway between 8 and 9. What time does the clock show?
+{user_name} is helping {brother_name} compare two activities. They spend 15 minutes reading a comic book and 1 hour playing football. Which activity takes longer?
+{user_name} is helping {brother_name} plan a cinema visit. They arrive at the cinema at 2 o'clock and the film starts at 3 o'clock. Which event happens earlier?
+{user_name} is helping {brother_name} remember their activities. They played with a toy train yesterday, drew a picture today and will fly a kite tomorrow. What did they do yesterday?
+{user_name} is helping {brother_name} follow a bedtime routine. They brush their teeth before getting into bed at night. What do they do before going to bed?

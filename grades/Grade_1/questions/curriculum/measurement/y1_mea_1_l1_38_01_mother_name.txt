@@ -1,0 +1,9 @@
+title: Measuring a Paintbrush with Mother
+question_text:
+{user_name} and {mother_name} want to measure the length of a paintbrush. Which tool should they use?
+options:
+A) A ruler
+B) A weighing scale
+C) A measuring jug
+image_prompt:
+Show {user_name} and {mother_name} measuring exactly 1 paintbrush with exactly 1 ruler placed straight along its length. No extra paintbrushes, tools, props, text, letters, or numbers.

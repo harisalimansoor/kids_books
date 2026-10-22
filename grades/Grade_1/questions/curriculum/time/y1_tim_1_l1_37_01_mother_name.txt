@@ -1,0 +1,9 @@
+title: Comparing Baking Times with Mum
+question_text:
+{user_name} is helping {mother_name} compare the time needed for two baking activities. They bake biscuits for 10 minutes and a cake for 45 minutes. Which activity takes longer?
+options:
+A) Baking biscuits
+B) Both take the same time
+C) Baking a cake
+image_prompt:
+Show {user_name} helping {mother_name} prepare one tray of biscuits and one cake for baking. Show the biscuits and cake as two separate items. No text, letters, numbers, timers or extra baked items.

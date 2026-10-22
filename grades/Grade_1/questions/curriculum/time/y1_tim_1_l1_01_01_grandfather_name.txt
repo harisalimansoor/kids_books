@@ -1,0 +1,9 @@
+title: Learning Days of the Week with Grandpa
+question_text:
+{user_name} is helping {grandfather_name} arrange the days of the week. They start with Monday and look for the day that comes next. Which day comes after Monday?
+options:
+A) Sunday
+B) Tuesday
+C) Friday
+image_prompt:
+Show {user_name} helping {grandfather_name} arrange exactly 3 blank day cards in a row. No writing, letters, numbers, extra cards or extra objects.

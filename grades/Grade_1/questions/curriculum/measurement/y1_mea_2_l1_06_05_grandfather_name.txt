@@ -1,5 +1,0 @@
-question_text:
-{grandfather_name} helps {user_name} measure how much juice is in a bottle. The bottle contains 1.5 litres of juice. How much juice is in the bottle?
-
-image_prompt:
-A kitchen table scene. {grandfather_name} holds a measuring cup while {user_name} looks at a bottle filled with orange juice. The bottle label shows 1.5 litres clearly. There are glasses on the table.

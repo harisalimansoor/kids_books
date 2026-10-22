@@ -1,0 +1,9 @@
+title: Checking the Clock with Grandma
+question_text:
+{user_name} is helping {grandmother_name} look at a round wall clock. The clock face has no corners. Which 2D shape matches the clock face?
+options:
+A) Circle
+B) Rectangle
+C) Triangle
+image_prompt:
+Show {user_name} helping {grandmother_name} look at exactly 1 round wall clock with a clearly circular face and no corners. Keep the clock face plain, without hands, markings, text, letters, or numbers. No extra clocks, objects, or props.

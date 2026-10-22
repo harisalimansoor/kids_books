@@ -1,0 +1,9 @@
+title: Finding the Next Day with Sister
+question_text:
+{user_name} is helping {sister_name} plan their weekly dance practice. They have dance practice on Tuesday and want to find the day that comes next. Which day comes after Tuesday?
+options:
+A) Monday
+B) Wednesday
+C) Friday
+image_prompt:
+Show {user_name} helping {sister_name} arrange exactly 3 blank weekday cards in sequence. No text, letters, numbers, extra cards or extra objects.

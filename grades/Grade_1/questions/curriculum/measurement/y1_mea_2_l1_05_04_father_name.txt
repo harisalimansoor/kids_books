@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {father_name} work on this together. {user_name} fills a jug with water. The jug holds 2 litres of water. How much water is in the jug?
-
-image_prompt:
-A sunny garden scene. {user_name} pours water into a clear jug that is marked with measurements. The jug is filled to the 2-litre mark. {father_name} stands nearby, holding a cup, ready to pour.

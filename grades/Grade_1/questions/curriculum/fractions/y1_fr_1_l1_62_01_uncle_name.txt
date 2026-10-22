@@ -1,0 +1,9 @@
+title: Cutting Fabric with Uncle
+question_text:
+{user_name} is helping {uncle_name} prepare fabric for a craft. They divide one square piece of fabric into 4 equal parts. What fraction of the fabric is each part?
+options:
+A) One whole
+B) One half
+C) One quarter
+image_prompt:
+Show {user_name} helping {uncle_name} divide exactly one square piece of fabric into 4 clearly visible, equal-sized parts. No extra fabric, objects, props, people, text, letters or numbers.

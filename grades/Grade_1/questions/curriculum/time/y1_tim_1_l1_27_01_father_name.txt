@@ -1,0 +1,9 @@
+title: Comparing Trip Durations with Dad
+question_text:
+{user_name} is helping {father_name} compare two outings. They spend 1 hour at a playground and 3 hours visiting a wildlife park. Which outing takes longer?
+options:
+A) Visiting the playground
+B) Visiting the wildlife park
+C) Both outings take the same time
+image_prompt:
+Show {user_name} helping {father_name} compare two separate outings. One scene shows a playground, and the other shows a wildlife park with animals. Include exactly two people in each scene. No text, letters, numbers, clocks or unnecessary objects.

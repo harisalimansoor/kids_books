@@ -1,0 +1,9 @@
+title: Decorating a Kite with Uncle
+question_text:
+{user_name} is helping {uncle_name} decorate a kite. They divide the kite into 4 equal sections and colour one section yellow. What fraction of the kite is yellow?
+options:
+A) One quarter
+B) One half
+C) One whole
+image_prompt:
+Show {user_name} helping {uncle_name} decorate exactly one kite divided into 4 equal-sized sections, with exactly one section coloured yellow and the other 3 sections uncoloured. No extra kites, objects, props, people, text, letters or numbers.

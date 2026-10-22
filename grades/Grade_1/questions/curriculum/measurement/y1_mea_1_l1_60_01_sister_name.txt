@@ -1,0 +1,9 @@
+title: Measuring a Flower Vase with Sister
+question_text:
+{user_name} and {sister_name} have a flower vase that can hold 2 litres of water. Which unit tells them how much water the vase can hold?
+options:
+A) Centimetres
+B) Kilograms
+C) Litres
+image_prompt:
+Show {user_name} and {sister_name} looking at exactly 1 flower vase containing water. Make the vase's liquid capacity the focus of the scene. No extra vases, containers, props, text, letters, or numbers.

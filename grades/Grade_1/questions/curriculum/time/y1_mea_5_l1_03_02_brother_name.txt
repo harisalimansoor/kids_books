@@ -1,5 +1,0 @@
-question_text:
-{user_name} draws a clock showing half past 4. {brother_name} checks the drawing. What time does the clock show?
-
-image_prompt:
-A bright art room where {user_name} is drawing a clock on paper. The clock shows the hour hand between 4 and 5, and the minute hand pointing to 6. {brother_name} is looking over {user_name}'s shoulder, smiling and pointing at the clock drawing. The drawing is clear and colourful.
