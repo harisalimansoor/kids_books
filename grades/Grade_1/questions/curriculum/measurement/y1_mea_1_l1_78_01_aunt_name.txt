@@ -1,0 +1,9 @@
+title: Measuring Milk with Aunt
+question_text:
+{user_name} and {aunt_name} have a milk container that holds 2 litres of milk. Which unit tells them how much milk the container can hold?
+options:
+A) Centimetres
+B) Kilograms
+C) Litres
+image_prompt:
+Show {user_name} and {aunt_name} looking at exactly 1 milk container filled with milk. Focus on the amount of liquid the container can hold. No extra containers, props, text, letters, or numbers.

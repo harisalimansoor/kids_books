@@ -1,0 +1,9 @@
+title: Sharing Apples with Father
+question_text:
+{user_name} is helping {father_name} share apples between two baskets. They divide 8 apples equally between the 2 baskets. What fraction of all the apples is in one basket?
+options:
+A) One quarter
+B) One whole
+C) One half
+image_prompt:
+Show {user_name} helping {father_name} divide exactly 8 apples equally between 2 baskets, with exactly 4 apples in each basket. No extra apples, baskets, objects, props, people, text, letters or numbers.

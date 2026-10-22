@@ -1,5 +1,0 @@
-question_text:
-{mother_name} shows {user_name} a clock that reads half past 2. What time is it when the minute hand is on 6?
-
-image_prompt:
-A living room scene with a large clock on the wall showing half past 2. {mother_name} is pointing at the clock while {user_name} is looking at it with interest. The minute hand is clearly on 6, and the hour hand is halfway between 2 and 3. The room is cozy and well-lit.

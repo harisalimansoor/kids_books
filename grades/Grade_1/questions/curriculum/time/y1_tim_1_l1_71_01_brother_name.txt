@@ -1,0 +1,9 @@
+title: Planning Football Practice with Brother
+question_text:
+{user_name} is helping {brother_name} plan football practice. They have practice on Monday and want to find the day that comes after it. Which day comes after Monday?
+options:
+A) Sunday
+B) Tuesday
+C) Friday
+image_prompt:
+Show {user_name} helping {brother_name} arrange exactly 3 blank weekday cards in sequence. No text, letters, numbers, extra cards or extra objects.

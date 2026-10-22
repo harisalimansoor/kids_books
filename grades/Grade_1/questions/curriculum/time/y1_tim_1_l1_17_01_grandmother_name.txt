@@ -1,0 +1,9 @@
+title: Comparing Visit Times with Grandma
+question_text:
+{user_name} is helping {grandmother_name} compare the time spent on two outings. They spend 1 hour at the playground and 3 hours at the zoo. Which outing takes longer?
+options:
+A) Visiting the playground
+B) Visiting the zoo
+C) Both outings take the same time
+image_prompt:
+Show {user_name} helping {grandmother_name} compare two outings in separate scenes: one at a playground and one at a zoo. Clearly show a playground in the first scene and zoo animals in the second. No text, letters, numbers, clocks or extra people.

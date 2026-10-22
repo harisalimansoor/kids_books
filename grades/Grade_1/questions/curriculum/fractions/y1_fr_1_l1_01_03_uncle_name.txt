@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {uncle_name} have a chocolate bar. They break it into two equal pieces. What is half of the chocolate bar?
-
-image_prompt:
-A kitchen table scene where {user_name} holds one half of a chocolate bar while {uncle_name} holds the other half. The chocolate bar is visibly broken into two equal pieces. There are no other items on the table, and both halves are clearly shown.

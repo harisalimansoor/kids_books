@@ -1,0 +1,9 @@
+title: Remembering a Visit with Uncle
+question_text:
+{user_name} is helping {uncle_name} remember their activities. They visited an aquarium yesterday, painted a picture today and will go cycling tomorrow. Which activity are they doing today?
+options:
+A) Visiting the aquarium
+B) Going cycling
+C) Painting a picture
+image_prompt:
+Show {user_name} helping {uncle_name} look at exactly three picture cards in sequence. Show an aquarium visit on the first, painting a picture on the second and cycling on the third. No text, letters, numbers or extra cards.

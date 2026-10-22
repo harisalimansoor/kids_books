@@ -1,0 +1,9 @@
+title: Finding Half of the Pears with Uncle
+question_text:
+{user_name} is helping {uncle_name} sort pears for a fruit basket. They have exactly 8 pears and put one half into a basket. How many pears do they put in the basket?
+options:
+A) 2 pears
+B) 4 pears
+C) 6 pears
+image_prompt:
+Show {user_name} helping {uncle_name} sort exactly 8 pears, with exactly 4 pears inside one basket and 4 pears outside the basket. No extra pears, baskets, fruit, objects, props, people, text, letters or numbers.

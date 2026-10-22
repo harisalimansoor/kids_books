@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 5 balloons. {sister_name} accidentally pops 1 balloon. How many balloons does {user_name} have left?
-
-image_prompt:
-A sunny park scene. {user_name} looks sad as they hold 4 balloons, while {sister_name} stands nearby with a popped balloon in their hand. The remaining balloons are bright and colourful, floating in the air.

@@ -1,0 +1,9 @@
+title: Folding Paper with Grandpa
+question_text:
+{user_name} is helping {grandfather_name} fold a square sheet of paper. They divide the paper into 4 equal parts. What fraction of the paper is each part?
+options:
+A) One half
+B) One quarter
+C) One whole
+image_prompt:
+Show {user_name} helping {grandfather_name} divide exactly one square sheet of paper into 4 clearly visible, equal-sized parts. No extra paper, objects, props, people, text, letters or numbers.

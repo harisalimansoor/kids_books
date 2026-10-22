@@ -1,0 +1,9 @@
+title: Comparing Cooking Pots with Uncle
+question_text:
+{user_name} and {uncle_name} are comparing 2 cooking pots. One pot can hold 5 litres of water, and the other can hold 3 litres. Which pot can hold more water?
+options:
+A) The pot that holds 3 litres
+B) The pot that holds 5 litres
+C) Both pots hold the same amount
+image_prompt:
+Show {user_name} and {uncle_name} comparing exactly 2 cooking pots with visibly different capacities. One pot must be clearly larger than the other. No extra pots, props, text, letters, or numbers.

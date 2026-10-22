@@ -1,5 +1,0 @@
-question_text:
-{user_name} is facing {uncle_name}. If {user_name} makes a half turn, which direction will {user_name} be facing?
-
-image_prompt:
-A bright classroom scene. {user_name} is standing at a desk facing {uncle_name}, who is sitting on a chair. {user_name} is in the middle of turning around halfway, with one foot still planted. The classroom has colourful posters on the walls.

@@ -1,0 +1,9 @@
+title: Weighing a Suitcase with Father
+question_text:
+{user_name} and {father_name} want to measure the weight of a suitcase. The suitcase weighs 5 kilograms. Which unit tells them its weight?
+options:
+A) Metres
+B) Kilograms
+C) Litres
+image_prompt:
+Show {user_name} and {father_name} weighing exactly 1 suitcase on exactly 1 suitable weighing scale. No extra suitcases, measuring tools, props, text, letters, or numbers.

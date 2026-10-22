@@ -1,5 +1,0 @@
-question_text:
-{user_name} has a piece of string that is 30 cm long. {father_name} has a piece of string that is 20 cm long. How much longer is {user_name}'s string than {father_name}'s string?
-
-image_prompt:
-A bright outdoor scene in a garden. {user_name} holds a measuring tape showing 30 cm while {father_name} holds a measuring tape showing 20 cm. The two pieces of string are laid out on a table, clearly showing the difference in length. The sun is shining, and there are flowers in the background.

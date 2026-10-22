@@ -1,0 +1,9 @@
+title: Turning a Toy Astronaut with Brother
+question_text:
+{user_name} is helping {brother_name} turn a toy astronaut. The astronaut starts facing left. {brother_name} turns it one quarter turn clockwise. Which direction does the astronaut face now?
+options:
+A) Up
+B) Down
+C) Right
+image_prompt:
+Show {user_name} helping {brother_name} turn exactly 1 toy astronaut. Include 2 simple direction diagrams: the starting direction points left, and the final direction points up after a quarter turn clockwise. Make the change in direction clear and accurate. Do not duplicate the astronaut. No extra objects, props, text, letters, or numbers.

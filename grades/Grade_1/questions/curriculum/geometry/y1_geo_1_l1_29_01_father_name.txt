@@ -1,0 +1,9 @@
+title: Reversing a Toy Car with Dad
+question_text:
+{user_name} is helping {father_name} play with a toy car on a straight track. The car faces right, and {father_name} moves it backwards. Which direction does the car move?
+options:
+A) Forwards
+B) Backwards
+C) Up
+image_prompt:
+Show {user_name} helping {father_name} move exactly 1 toy car backwards along a straight track. The front of the car must face right, and a clear arrow beside the car must point left to show its backward movement. No extra cars, tracks, objects, props, text, letters, or numbers.

@@ -1,16 +1,82 @@
 === MEASUREMENT ===
 
-Look at the picture! Can you see the ruler next to the piece of squared paper on the table? How long is the piece of squared paper?
-Look at the picture! There is a measuring jug with numbers on the side and it is filled with water up to a certain line. The jug says 1 l on it. What number is the water level at on the measuring jug?
-Look at the picture! You have a big 1 l container in front of you. There is a measuring cup next to it with numbers on the side. Can you see the numbers on the measuring cup and figure out how many milliliters of water the 1 l container can hold?
-Look at the picture! There are measuring beakers on the table with numbers on them. Can you see the lines on each beaker that show how much liquid they can hold? What is the biggest number you can see on the beakers up to 1 l?
-Look at the picture! There are blocks on the table with weights written on them. Can you see the block that says 1 g on it? What can you use to measure the weight of this block that weighs 1 g?
-Look at the picture! Can {user_name} see the ruler next to the piece of squared paper on the table? How long is the piece of squared paper?
-Look at the picture! You have a big 1 l container in front of {user_name}. There is a measuring cup next to it with numbers on the side. Can {user_name} see the numbers on the measuring cup and figure out how many milliliters of water the 1 l container can hold?
-Look at the picture! There are measuring beakers on the table with numbers on them. Can {user_name} see the lines on each beaker that show how much liquid they can hold? What is the biggest number {user_name} can see on the beakers up to 1 l?
-Look at the picture! There are blocks on the table with weights written on them. Can {user_name} see the block that says 1 g on it? What can {user_name} use to measure the weight of this block that weighs 1 g?
-Look at the picture! There is a ruler next to a piece of squared paper on the table. How long is the paper?
-Look at the picture! There is a measuring jug with water up to a line. The jug says 1 l. What number is the water level at?
-Look at the picture! There is a 1 l container and a measuring cup. How many millilitres does the 1 l container hold?
-Look at the picture! There are measuring beakers with numbers on them. What is the biggest number shown up to 1 l?
-Look at the picture! There is a block on the table with 1 g written on it. What can {user_name} use to measure its weight?
+{user_name} and {grandfather_name} are comparing 2 toy trains. One train is longer than the other. Which train is longer?
+{user_name} and {grandfather_name} are comparing 2 plants. One plant is taller than the other. Which plant is shorter?
+{user_name} and {grandfather_name} are comparing 2 pumpkins on a weighing scale. One pumpkin is heavier than the other. Which pumpkin is heavier?
+{user_name} and {grandfather_name} have 2 identical bottles. One bottle is full of water, and the other is empty. Which bottle has more water?
+{user_name} and {grandfather_name} are measuring a ribbon using paper clips. The ribbon is as long as 5 paper clips placed end to end. How many paper clips long is the ribbon?
+{user_name} and {grandfather_name} are measuring a garden path with a measuring tape. The path is 2 metres long. Which unit tells them the length of the path?
+{user_name} and {grandfather_name} want to find the weight of a bag of oranges in kilograms. Which tool should they use?
+{user_name} and {grandfather_name} are looking at a measuring jug containing water. The water reaches halfway up the jug. How much water is in the jug?
+{user_name} and {grandfather_name} are measuring a book with a ruler. The book is 8 centimetres long. Which unit are they using to measure its length?
+{user_name} and {grandfather_name} are comparing 2 identical flower pots. One pot contains less soil and weighs less than the other. Which pot is lighter?
+{user_name} and {grandmother_name} are looking at 2 shoelaces. One shoelace is longer than the other. Which shoelace is shorter?
+{user_name} and {grandmother_name} have made 2 sandcastles. One sandcastle is taller than the other. Which sandcastle is taller?
+{user_name} and {grandmother_name} find 2 stones in the garden. One stone is heavier than the other. Which stone is lighter?
+{user_name} and {grandmother_name} want to collect rainwater. Which container can hold more water?
+{user_name} and {grandmother_name} measure a short garden walk by counting their steps. It takes exactly 6 steps to reach the gate. How many steps long is the walk?
+{user_name} and {grandmother_name} measure a leaf with a ruler. The leaf is 5 centimetres long. Which unit is used to measure the leaf's length?
+{user_name} and {grandmother_name} are checking {user_name}'s height against a height chart. Where should {user_name} stand to measure their height correctly?
+{user_name} and {grandmother_name} are filling a birdbath with water. The birdbath is empty at first. What happens to the amount of water as they pour water into it?
+{user_name} and {grandmother_name} want to measure the length of a tablecloth. Which tool should they use?
+{user_name} and {grandmother_name} place 2 identical-size clay balls on a balance scale. Both sides stay level. What does this tell them?
+{user_name} and {father_name} are comparing 2 fishing rods. One fishing rod is longer than the other. Which fishing rod is shorter?
+{user_name} and {father_name} are looking at 2 flagpoles. One flagpole is taller than the other. Which flagpole is taller?
+{user_name} and {father_name} are measuring a garden fence. The fence is 4 metres long. Which unit is suitable for measuring the length of the fence?
+{user_name} and {father_name} are comparing a brick and a scarf. The brick is heavier than the scarf. Which object is lighter?
+{user_name} and {father_name} are comparing 2 identical watering cans. One watering can is full of water, and the other is half-full. Which watering can has more water?
+{user_name} and {father_name} measure the length of a sofa using identical wooden blocks. The sofa is exactly as long as 6 blocks placed end to end. How many blocks long is the sofa?
+{user_name} and {father_name} measure a crayon with a ruler. The crayon is 6 centimetres long. Which unit are they using to measure the crayon?
+{user_name} and {father_name} want to measure the weight of a suitcase. The suitcase weighs 5 kilograms. Which unit tells them its weight?
+{user_name} and {father_name} are learning about the water in an aquarium. Which unit is suitable for measuring the amount of water the aquarium can hold?
+{user_name} and {father_name} want to measure the length of a shirt sleeve. Which tool should they use?
+{user_name} and {mother_name} are comparing 2 toy robots. One robot is 12 cm tall, and the other is 15 cm tall. Which robot is taller?
+{user_name} and {mother_name} are comparing 2 kite strings. One string is 2 metres long, and the other is 4 metres long. Which string is shorter?
+{user_name} and {mother_name} are weighing 2 parcels. One parcel weighs 3 kilograms, and the other weighs 5 kilograms. Which parcel is heavier?
+{user_name} and {mother_name} are comparing 2 thermos flasks. One flask can hold 1 litre of water, and the other can hold 2 litres. Which flask can hold more water?
+{user_name} and {mother_name} are comparing 2 toy boats. One boat is 18 cm long, and the other is 14 cm long. Which boat is shorter?
+{user_name} and {mother_name} are comparing 2 step stools. One stool is 25 cm tall, and the other is 30 cm tall. Which stool is shorter?
+{user_name} and {mother_name} have a bag of flour that weighs 2 kilograms. Which unit is used to measure the weight of the flour?
+{user_name} and {mother_name} want to measure the length of a paintbrush. Which tool should they use?
+{user_name} and {mother_name} have a container that holds 1 litre of cooking oil. Which unit tells them how much oil the container can hold?
+{user_name} and {mother_name} measure a doormat using identical wooden blocks. The doormat is exactly as wide as 6 blocks placed side by side. How many blocks wide is the doormat?
+{user_name} and {brother_name} are comparing 2 toy dinosaurs. One dinosaur is 9 cm tall, and the other is 13 cm tall. Which dinosaur is taller?
+{user_name} and {brother_name} are comparing 2 toy airplanes. One airplane is 16 cm long, and the other is 12 cm long. Which airplane is longer?
+{user_name} and {brother_name} are comparing 2 schoolbags. One schoolbag weighs 2 kilograms, and the other weighs 4 kilograms. Which schoolbag is lighter?
+{user_name} and {brother_name} are comparing 2 juice jugs. One jug can hold 1 litre of juice, and the other can hold 2 litres. Which jug can hold more juice?
+{user_name} and {brother_name} are measuring a toy race track using identical measuring strips. The track is exactly as long as 7 strips placed end to end. How many strips long is the track?
+{user_name} and {brother_name} are measuring the height of a basketball hoop. The hoop is 2 metres high. Which unit is used to measure its height?
+{user_name} and {brother_name} want to measure the length of a glue stick in centimetres. Which tool should they use?
+{user_name} and {brother_name} are measuring soup for lunch. They want to find how many litres of soup a large container can hold. Which tool should they use?
+{user_name} and {brother_name} are comparing 2 toy bridges. One bridge is 20 cm long, and the other is 20 cm long. Which bridge is longer?
+{user_name} and {brother_name} are weighing 2 collections of toy cars. One collection weighs 1 kilogram, and the other weighs 3 kilograms. Which collection is heavier?
+{user_name} and {sister_name} are comparing 2 skipping ropes. One rope is 120 cm long, and the other is 90 cm long. Which rope is shorter?
+{user_name} and {sister_name} are comparing 2 paper windmills. One windmill is 18 cm tall, and the other is 14 cm tall. Which windmill is taller?
+{user_name} and {sister_name} are comparing 2 gift baskets. One basket weighs 2 kilograms, and the other weighs 4 kilograms. Which basket is heavier?
+{user_name} and {sister_name} are comparing 2 lemonade dispensers. One dispenser can hold 3 litres of lemonade, and the other can hold 1 litre. Which dispenser can hold more lemonade?
+{user_name} and {sister_name} are measuring a picnic mat using identical square tiles. The mat is exactly as long as 7 tiles placed end to end. How many tiles long is the mat?
+{user_name} and {sister_name} are comparing 2 bookmarks. One bookmark is 15 cm long, and the other is 12 cm long. Which bookmark is longer?
+{user_name} and {sister_name} are measuring a long garden hose. The hose is 3 metres long. Which unit is used to measure the length of the hose?
+{user_name} and {sister_name} want to measure water before filling a birdbath. Which tool should they use to measure how much water they have?
+{user_name} and {sister_name} want to find the weight of a bag of birdseed. Which tool should they use?
+{user_name} and {sister_name} have a flower vase that can hold 2 litres of water. Which unit tells them how much water the vase can hold?
+{user_name} and {uncle_name} are comparing 2 model rockets. One rocket is 18 cm long, and the other is 14 cm long. Which rocket is longer?
+{user_name} and {uncle_name} are comparing 2 party hats. One hat is 16 cm tall, and the other is 12 cm tall. Which hat is shorter?
+{user_name} and {uncle_name} are comparing 2 sacks of potatoes. One sack weighs 2 kilograms, and the other weighs 4 kilograms. Which sack is heavier?
+{user_name} and {uncle_name} are comparing 2 cooking pots. One pot can hold 5 litres of water, and the other can hold 3 litres. Which pot can hold more water?
+{user_name} and {uncle_name} are measuring a wooden plank. The plank is 3 metres long. Which unit is used to measure the length of the plank?
+{user_name} and {uncle_name} want to measure the weight of a toolbox. The toolbox weighs 3 kilograms. Which unit tells them its weight?
+{user_name} and {uncle_name} want to measure how much water a storage tank can hold. Which unit is suitable for measuring its capacity?
+{user_name} and {uncle_name} want to measure the length of a small wooden sign in centimetres. Which tool should they use?
+{user_name} and {uncle_name} measure the width of a picnic basket using identical craft sticks. The basket is exactly as wide as 4 craft sticks placed side by side. How many craft sticks wide is the basket?
+{user_name} and {uncle_name} are comparing 2 garden benches. One bench is 100 cm long, and the other is also 100 cm long. Which bench is longer?
+{user_name} and {aunt_name} are comparing 2 paper lanterns. One lantern is 18 cm tall, and the other is 24 cm tall. Which lantern is taller?
+{user_name} and {aunt_name} are comparing 2 wooden spoons. One spoon is 16 cm long, and the other is 20 cm long. Which spoon is shorter?
+{user_name} and {aunt_name} are comparing 2 watermelons. One watermelon weighs 4 kilograms, and the other weighs 6 kilograms. Which watermelon is heavier?
+{user_name} and {aunt_name} are comparing 2 water buckets. One bucket can hold 3 litres of water, and the other can hold 5 litres. Which bucket can hold more water?
+{user_name} and {aunt_name} are measuring the width of an art poster using identical sticky notes. The poster is exactly as wide as 5 sticky notes placed side by side. How many sticky notes wide is the poster?
+{user_name} and {aunt_name} are measuring a cupboard. The cupboard is 2 metres tall. Which unit is used to measure the cupboard's height?
+{user_name} and {aunt_name} are comparing 2 paint cans. One can weighs 1 kilogram, and the other weighs 3 kilograms. Which can is lighter?
+{user_name} and {aunt_name} have a milk container that holds 2 litres of milk. Which unit tells them how much milk the container can hold?
+{user_name} and {aunt_name} are comparing 2 garden ladders. One ladder is 150 cm tall, and the other is 180 cm tall. Which ladder is taller?
+{user_name} and {aunt_name} want to measure the length of a sewing table. Which tool should they use?

@@ -1,0 +1,9 @@
+title: Choosing Water Containers with Grandmother
+question_text:
+{user_name} and {grandmother_name} want to collect rainwater. Which container can hold more water?
+options:
+A) A small teacup
+B) A large bucket
+C) Both hold the same amount
+image_prompt:
+Show {user_name} and {grandmother_name} comparing exactly 1 small teacup and 1 large bucket. Make the bucket's capacity clearly greater than the teacup's. No extra containers, props, text, letters, or numbers.

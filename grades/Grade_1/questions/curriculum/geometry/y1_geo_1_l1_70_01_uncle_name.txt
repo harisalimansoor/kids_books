@@ -1,0 +1,9 @@
+title: Turning a Toy Robot with Uncle
+question_text:
+{user_name} is helping {uncle_name} practise turns with a toy robot. The robot starts facing left. {uncle_name} turns it one quarter turn anticlockwise. Which direction does the robot face now?
+options:
+A) Up
+B) Down
+C) Right
+image_prompt:
+Show {user_name} helping {uncle_name} practise a quarter turn anticlockwise using exactly 1 toy robot. Include 2 simple direction diagrams: the robot starts facing left and ends facing down. Make the starting and final directions clear and accurate. Do not duplicate the robot. No extra objects, props, text, letters, or numbers.

@@ -1,0 +1,9 @@
+title: Sharing Pebbles with Uncle
+question_text:
+{user_name} is helping {uncle_name} sort pebbles for a garden activity. They divide exactly 8 pebbles equally between 2 trays. What fraction of all the pebbles is on one tray?
+options:
+A) One quarter
+B) One whole
+C) One half
+image_prompt:
+Show {user_name} helping {uncle_name} divide exactly 8 pebbles equally between 2 trays, with exactly 4 pebbles on each tray. No extra pebbles, trays, objects, props, people, text, letters or numbers.

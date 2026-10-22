@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {grandfather_name} work on this together. {user_name} measures the height of a plant using a ruler. The plant is 15 cm tall. How tall is the plant?
-
-image_prompt:
-{user_name} and {grandfather_name} work on this together. A bright garden scene. {user_name} holds a ruler next to a green plant that is standing upright. The ruler shows the measurement of 15 cm clearly next to the plant. The background includes flowers and a sunny sky.

@@ -1,0 +1,9 @@
+title: Eating Lunch with Aunt
+question_text:
+{user_name} is helping {aunt_name} plan their daily routine. They finish their morning activities and eat lunch before the evening arrives. When do they usually eat lunch?
+options:
+A) In the afternoon
+B) At night
+C) In the morning
+image_prompt:
+Show {user_name} helping {aunt_name} eat lunch at a table in daylight. Include exactly two people and one lunch setting for each person. No text, letters, numbers or unnecessary objects.

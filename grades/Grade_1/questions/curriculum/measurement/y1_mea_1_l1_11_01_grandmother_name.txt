@@ -1,0 +1,9 @@
+title: Comparing Shoelaces with Grandmother
+question_text:
+{user_name} and {grandmother_name} are looking at 2 shoelaces. One shoelace is longer than the other. Which shoelace is shorter?
+options:
+A) The longer shoelace
+B) The shorter shoelace
+C) Both shoelaces are the same length
+image_prompt:
+Show {user_name} and {grandmother_name} comparing exactly 2 shoelaces placed straight side by side, with one clearly shorter than the other. No extra shoelaces, props, text, letters, or numbers.

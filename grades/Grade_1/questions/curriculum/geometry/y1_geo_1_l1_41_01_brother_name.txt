@@ -1,0 +1,9 @@
+title: Drawing Shapes with Brother
+question_text:
+{user_name} is helping {brother_name} draw shapes with chalk. They draw a circle, a triangle and a square. Which shape has 4 equal straight sides?
+options:
+A) Circle
+B) Triangle
+C) Square
+image_prompt:
+Show {user_name} helping {brother_name} draw exactly 3 large shapes on the pavement using chalk: 1 circle, 1 triangle and 1 square. Make the square have exactly 4 equal straight sides. No extra shapes, drawings, objects, props, text, letters, or numbers.

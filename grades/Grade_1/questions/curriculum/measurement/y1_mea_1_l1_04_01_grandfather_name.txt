@@ -1,0 +1,9 @@
+title: Filling Water Bottles with Grandfather
+question_text:
+{user_name} and {grandfather_name} have 2 identical bottles. One bottle is full of water, and the other is empty. Which bottle has more water?
+options:
+A) The empty bottle
+B) The full bottle
+C) Both bottles have the same amount of water
+image_prompt:
+Show {user_name} and {grandfather_name} comparing exactly 2 identical transparent bottles, with one completely full of water and the other completely empty. No extra bottles, props, text, letters, or numbers.

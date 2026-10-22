@@ -1,0 +1,9 @@
+title: Sharing Toy Aeroplanes with Uncle
+question_text:
+{user_name} is helping {uncle_name} organise toy aeroplanes. They divide exactly 6 toy aeroplanes equally between 2 boxes. What fraction of all the toy aeroplanes is in one box?
+options:
+A) One whole
+B) One quarter
+C) One half
+image_prompt:
+Show {user_name} helping {uncle_name} divide exactly 6 toy aeroplanes equally between 2 open boxes, with exactly 3 toy aeroplanes in each box. No extra aeroplanes, boxes, objects, props, people, text, letters or numbers.

@@ -1,5 +1,0 @@
-question_text:
-{user_name} and {grandmother_name} are playing with 4 cubes. If {user_name} takes 2 cubes, how many cubes does {grandmother_name} have left?
-
-image_prompt:
-A cheerful living room scene. {user_name} is holding 2 colourful cubes in one hand, while {grandmother_name} looks at the remaining 2 cubes on a small table. The cubes are all the same size and shape, and the room has a cozy atmosphere with a sofa in the background.

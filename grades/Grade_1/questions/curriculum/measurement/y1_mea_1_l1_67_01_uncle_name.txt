@@ -1,0 +1,9 @@
+title: Measuring Water in a Tank with Uncle
+question_text:
+{user_name} and {uncle_name} want to measure how much water a storage tank can hold. Which unit is suitable for measuring its capacity?
+options:
+A) Metres
+B) Litres
+C) Kilograms
+image_prompt:
+Show {user_name} and {uncle_name} beside exactly 1 water storage tank. Make the tank's capacity the focus of the scene. No extra tanks, measuring tools, props, text, letters, or numbers.

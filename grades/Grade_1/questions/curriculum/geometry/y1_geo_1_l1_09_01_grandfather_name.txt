@@ -1,0 +1,9 @@
+title: Putting Shapes in a Box with Grandpa
+question_text:
+{user_name} is helping {grandfather_name} put solid shapes away. They place 1 cube inside a box and leave 1 sphere outside the box. Which shape is outside the box?
+options:
+A) Cube
+B) Sphere
+C) Pyramid
+image_prompt:
+Show {user_name} helping {grandfather_name} organise exactly 1 open box, 1 solid cube placed fully inside the box and 1 solid sphere placed clearly outside the box. Make both positions unmistakable. No extra shapes, objects, props, text, letters, or numbers.

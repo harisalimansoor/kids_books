@@ -1,0 +1,9 @@
+title: Finding a Toy Dog with Sister
+question_text:
+{user_name} is helping {sister_name} find a toy dog. The toy dog is hidden behind a garden gate. Where is the toy dog?
+options:
+A) In front of the gate
+B) Behind the gate
+C) Above the gate
+image_prompt:
+Show {user_name} helping {sister_name} look for exactly 1 toy dog positioned behind exactly 1 garden gate. Make the dog partially visible through the gate so its position behind the gate is unmistakable. Show the gate in front of the dog. No extra dogs, gates, objects, props, text, letters, or numbers.

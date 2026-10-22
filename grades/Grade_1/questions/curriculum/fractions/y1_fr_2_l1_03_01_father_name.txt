@@ -1,5 +1,0 @@
-question_text:
-{user_name} has 12 apples. {father_name} helps {user_name} find a quarter of the apples. How many apples does {user_name} have if they take 1 quarter?
-
-image_prompt:
-A fruit basket scene. {user_name} is counting 12 apples in a basket while {father_name} is helping by taking 3 apples out of the basket. The basket is full of apples, and 3 apples are clearly separated from the rest. There is a kitchen counter in the background.

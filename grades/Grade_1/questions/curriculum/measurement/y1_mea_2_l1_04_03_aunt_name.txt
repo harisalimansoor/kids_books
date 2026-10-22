@@ -1,5 +1,0 @@
-question_text:
-{aunt_name} helps {user_name} weigh a bag of flour. The bag weighs 1 kilogram. How much does the bag of flour weigh?
-
-image_prompt:
-A bright kitchen scene. {aunt_name} holds a bag of flour while {user_name} looks at a scale that shows 1 kilogram. The flour bag is white with a clear label, and there are baking ingredients on the counter.
