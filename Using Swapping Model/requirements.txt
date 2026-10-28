@@ -1,0 +1,12 @@
+numpy<2
+torch
+torchvision
+opencv-python
+onnxruntime
+insightface==0.2.1
+mxnet==1.7.0.post2
+kornia==0.6.12
+scikit-image
+matplotlib
+scipy
+Pillow
